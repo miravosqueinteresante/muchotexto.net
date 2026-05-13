@@ -22,7 +22,7 @@ Esta desmaterialización de la identidad no es una abstracción: es algo que ya 
 
 Estar disponible 24/7 no es gratis. Hay un costo emocional en la conectividad permanente. Ansiedad, depresión, FOMO, la presión de mantener una imagen perfecta en redes, la sensación de que siempre hay algo que te estás perdiendo. La sobrecarga de información no es un efecto secundario: es parte del diseño.
 
-Las relaciones se volvieron líquidas, como diría Bauman: más fáciles de empezar, más fáciles de terminar, más difíciles de profundizar. Las aplicaciones de citas convirtieron la búsqueda de afecto en un catálogo infinito donde siempre hay alguien más. Los grupos familiares comparten mesa pero cada uno mira su teléfono. El cuerpo, ese vehículo tangible de la emoción, perdió protagonismo frente a la pantalla.
+Las relaciones se volvieron líquidas, como diría Zygmunt Bauman: más fáciles de empezar, más fáciles de terminar, más difíciles de profundizar. Las relaciones online, en particular, convirtieron la búsqueda de afecto en un catálogo infinito donde siempre hay alguien más. Los grupos familiares comparten mesa pero cada uno mira su teléfono. El cuerpo, ese vehículo tangible de la emoción, perdió protagonismo frente a la pantalla.
 
 La paradoja es feroz: nunca tuvimos tantas herramientas para comunicarnos y nunca nos sentimos tan incomprendidos.
 
@@ -36,11 +36,11 @@ Pero no todo es resignación. Existen formas de resistencia, silenciosas unas, v
 
 Lo más importante, sin embargo, no es el diagnóstico. Es la salida.
 
-Una conciencia ciberhumana no rechaza la tecnología, pero la usa con intención. No se trata de apagar todo ni de volverse un ermitaño digital. Se trata de recuperar la capacidad de elegir. Elegir qué leés y por cuánto tiempo. Elegir cuándo estar disponible y cuándo no. Preferir una conversación profunda a diez comentarios rápidos. Construir relaciones que no dependan de una notificación ni de un like. La tecnología puede amplificar lo humano o puede reemplazarlo, y la diferencia está en el uso que hagamos de ella.
+Una conciencia ciberhumana no rechaza la tecnología, pero la usa con intención. No se trata de apagar todo ni de volverse un ermitaño digital. Se trata de recuperar la capacidad de elegir. Elegir qué leés y por cuánto tiempo. Elegir cuándo estar disponible y cuándo no. Elegir qué consumir en tu feed. Elegir cómo querés relacionarte con el contenido. Preferir una conversación profunda a diez comentarios rápidos. Construir relaciones que no dependan de una notificación ni de un like. La tecnología puede amplificar lo humano o puede reemplazarlo, y la diferencia está en el uso que hagamos de ella.
 
 También podemos mirar hacia adelante y pensar en dos futuros posibles: uno donde la tecnología resuelve problemas reales como el hambre y las enfermedades, y otro donde las mismas herramientas profundizan la desigualdad y el control. No son profecías, sino advertencias. El futuro no está escrito en el código ni en los circuitos de silicio, sino en las decisiones que tomamos hoy como sociedad.
 
-Y en el camino, hay inspiración en la naturaleza: la biomímesis, las energías renovables, la agricultura regenerativa. Así como la naturaleza encuentra equilibrio después de millones de años de evolución, nosotros podemos encontrar una forma sostenible de integrar la tecnología en nuestras vidas sin perder lo que nos hace humanos. Leer con calma, pensar sin apuro, desconectarse sin culpa — todo eso es parte de esa conciencia.
+Y en el camino, hay inspiración en la naturaleza: la biomímesis, las energías renovables, la agricultura regenerativa. Así como la naturaleza encuentra equilibrio después de millones de años de evolución, nosotros podemos encontrar una forma sostenible de integrar la tecnología en nuestras vidas sin perder lo que nos hace humanos. Desconectarse sin culpa es parte de esa conciencia.
 
 ---
 
