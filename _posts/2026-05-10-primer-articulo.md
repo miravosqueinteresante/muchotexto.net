@@ -8,11 +8,11 @@ tags: bienvenida
 
 Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque "no hay tiempo". El contenido se volvió ruido de fondo. Y lo peor: empezamos a sentir que está bien.
 
-Pero no está bien. O al menos, no tiene por qué ser la única forma de consumir información.
+Pero no está bien. O al menos, no tiene por qué ser la única forma de consumir contenido.
 
 Hay otra manera. Más lenta, más tranquila, más profunda. Una en la que el texto no compite con un banner, un pop-up ni un tracker que mide cuánto tiempo te quedaste en la página. Una en la que el protagonista es lo que está escrito, y nada más.
 
-Así nació **muchotexto.net**. Porque hay mucho texto, y me parece que está bien.
+Así nació **muchotexto.net**, con ayuda de la inteligencia artificial, con OpenCode y con GitHub. Asistido por la tecnología. Y porque para expresar ideas, a veces hay mucho texto, y me parece que eso está bien.
 
 ---
 
@@ -56,6 +56,6 @@ No hay un gran cierre ni una llamada a la acción. No te voy a pedir que te susc
 
 Este post es simplemente una presentación. Una forma de decir: esto existe, esto es lo que es, y estás invitado a leer cuando quieras.
 
-En un mundo que compite por cada segundo de tu atención, acá el texto solo está, esperando.
+En un mundo que compite por cada segundo de tu atención, acá hay un texto, esperando.
 
 Bienvenido a muchotexto.net.
