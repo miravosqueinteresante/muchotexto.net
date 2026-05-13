@@ -42,9 +42,9 @@ muchotexto.net se apoya en cuatro pilares que definen todo lo que este espacio e
 
 ## Lo que (no) vas a encontrar
 
-muchotexto.net no tiene un nicho. No es un blog de tecnología ni de libros ni de filosofía, pero las ideas pueden venir de cualquier lado: de un libro que leí, de un problema técnico que resolví, de una conversación que me dejó pensando, o simplemente de algo que necesitaba escribir. Y de colaboradores que seguro llegarán.
+muchotexto.net no tiene un nicho. No es un blog de tecnología ni de libros ni de filosofía, pero las ideas pueden venir de cualquier lado: de un libro que leí, de un problema técnico que resolví, de una conversación que tuve con un ser humano o con una ia y me dejó pensando, o simplemente de algo que necesitaba escribir. Y de colaboradores que seguro llegarán.
 
-Tampoco prometo publicar con frecuencia. No hay calendario editorial ni fecha fija. Esto es un lugar, no una máquina de contenido. Los posts van a aparecer cuando tengan que aparecer.
+Tampoco prometo publicar con frecuencia. No hay calendario editorial ni fecha fija. Esto es un lugar, no una máquina de contenido. Los posts van a aparecer cuando tengan que aparecer. A veces de la mano del algoritmo de un agente, a veces de la pureza humana de mis errores. No hay una receta exacta.
 
 Si volvés en un mes y hay algo nuevo, genial. Si volvés en tres meses y hay una sola cosa, también. La idea no es llenar tu feed, sino darte algo que valga la pena cuando esté listo.
 
