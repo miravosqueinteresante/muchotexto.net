@@ -2,12 +2,12 @@
   <div class="footer-column">
     <p>
       <small>
-        Creado por <a href="{{ site.author.url }}" target="_blank">{{ site.author.name }}</a>.
+        Creado por <a href="{{ site.author.url }}" target="_blank" rel="noopener noreferrer">{{ site.author.name }}</a>.
       </small>
     </p>
     <p>
       <small>
-        Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & <a href="https://github.com/zivhub/monophase" target="_blank">Monophase</a>
+        Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> & <a href="https://github.com/zivhub/monophase" target="_blank" rel="noopener noreferrer">Monophase</a>
       </small>
     </p>
   </div>
@@ -16,7 +16,7 @@
       <ul class="social-icons">
         {% for social in site.data.social %}
           <li class="social-icon-item">
-            <a class="social-icon" href="{{ social.url }}" target="_blank">
+            <a class="social-icon" href="{{ social.url }}" target="_blank" rel="noopener noreferrer">
               <i class="{{ social.icon | default: 'fas fa-link' }}" title="{{ social.title }}"></i>
             </a>
           </li>
