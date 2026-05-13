@@ -52,10 +52,10 @@ Si volvés en un mes y hay algo nuevo, genial. Si volvés en tres meses y hay un
 
 ## Hasta acá llegamos
 
-No hay un gran cierre ni una llamada a la acción. No te voy a pedir que te suscribas, que compartas o que dejes un comentario,aunque si querés dejar un comentario, bienvenido sea a la conversación.
+No hay un gran cierre ni una llamada a la acción. No te voy a pedir que te suscribas, que compartas o que dejes un comentario, aunque si querés dejar un comentario, bienvenido sea a la conversación.
 
 Este post es simplemente una presentación. Una forma de decir: esto existe, esto es lo que es, y estás invitado a leer cuando quieras.
 
-En un mundo que compite por cada segundo de tu atención, acá hay un texto, esperando.
+En un mundo que compite por cada segundo de tu atención, acá hay mucho texto, esperando.
 
 Bienvenido a muchotexto.net.
