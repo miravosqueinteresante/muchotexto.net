@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contacto
 
-Podés encontrarme en [X](https://x.com/cesanz) o escribirme a [cesar@muchotexto.net](mailto:cesar@muchotexto.net).  
+Podés encontrarme en [X](https://x.com/cesanz).
