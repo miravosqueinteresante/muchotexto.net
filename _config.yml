@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: muchotexto.net
-email: cesar@muchotexto.net
 description: "Blog personal de Cesar Sanchez. Lectura profunda, minimalismo radical y contenido extenso."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muchotexto.net"
@@ -32,6 +31,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 # Exclude from processing.
