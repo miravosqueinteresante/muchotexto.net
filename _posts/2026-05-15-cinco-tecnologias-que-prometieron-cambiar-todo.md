@@ -18,7 +18,7 @@ Acá van cinco ejemplos que vale la pena recordar, sobre todo ahora que estamos 
 
 En octubre de 2021, Mark Zuckerberg se paró frente a una cámara y anunció que Facebook, la empresa que lo había convertido en uno de los hombres más poderosos del planeta, ya no se iba a llamar Facebook. Iba a llamarse Meta. La empresa entera cambiaba de nombre para pivotear hacia el metaverso, que Zuckerberg describió como "la próxima frontera" de la conexión humana. Prometió que llegaría a mil millones de personas y albergaría cientos de miles de millones de dólares en comercio digital.
 
-Cinco años después, Horizon Worlds — la plataforma estrella del metaverso de Meta — llegó a tener tan pocos usuarios activos diarios que casi podrían contarse manualmente. Una investigación independiente estimó que en 2024 tenía apenas 900 usuarios activos por día. Para ponerlo en contexto: 900 de los mil millones que Zuckerberg había prometido.
+Cinco años después, Horizon Worlds — la plataforma estrella del metaverso de Meta — llegó a tener tan pocos usuarios activos diarios que casi podrían contarse manualmente. Una investigación independiente estimó que en 2023 tenía apenas 900 usuarios activos por día. Para ponerlo en contexto: 900 de los mil millones que Zuckerberg había prometido.
 
 El desastre financiero fue proporcional al tamaño de la ambición. Reality Labs, la división encargada del metaverso, acumuló pérdidas operativas de más de USD $73.000 millones desde 2021. El último trimestre de 2025 solo reportó una pérdida de $6.020 millones. Para dimensionarlo: hay que gastar un millón de dólares por día durante 200 años para igualar lo que Meta perdió en menos de cinco años.
 
@@ -38,7 +38,7 @@ Pero cuando el dinero llegó, la nobleza se evaporó. El mercado de NFTs se conv
 
 El colapso fue tan rápido como el ascenso. Para septiembre de 2023, un estudio analizó 73.257 colecciones de NFT y encontró que el 95% tenía un valor de mercado de cero. El 79% de todas las colecciones seguían sin vender. Un informe de 2024 fue todavía más brutal: el 96% de los proyectos NFT estaban "muertos", y la vida media de un NFT era de solo 1,14 años. El volumen mensual de ventas pasó de $6.000 millones en enero de 2022 a $430 millones en julio de 2024.
 
-El problema fundamental nunca se resolvió. Como señaló el propio Anil Dash, co-creador del concepto: "No hay forma de adjuntar permanentemente un certificado digital a una obra de arte física". La tecnología no podía resolver el problema social de la confianza. Para autenticar un NFT seguías necesitando una institución centralizada. Y si necesitabas una institución centralizada, ¿para qué servía el blockchain?
+El problema fundamental nunca se resolvió. Como señaló el propio Anil Dash, co-creador del concepto, la tecnología no podía resolver el problema social de la confianza: no hay forma de adjuntar permanentemente un certificado digital a una obra de arte física. Para autenticar un NFT seguías necesitando una institución centralizada. Y si necesitabas una institución centralizada, ¿para qué servía el blockchain?
 
 ---
 
@@ -46,7 +46,7 @@ El problema fundamental nunca se resolvió. Como señaló el propio Anil Dash, c
 
 En 2013, Elon Musk publicó un whitepaper de 58 páginas titulado "Hyperloop Alpha". Proponía un sistema de cápsulas que viajarían dentro de tubos de vacío a más de 1.100 kilómetros por hora. Sería, dijo, "el quinto medio de transporte" después del tren, el avión, el automóvil y el barco. Más rápido que un avión comercial, completamente eléctrico, energéticamente eficiente y supuestamente barato.
 
-Hyperloop One fue la startup más prominente que intentó hacer realidad la idea. Fundada en 2014, recaudó más de $450 millones de inversores, incluyendo a Richard Branson y su Virgin Group. Construyó una pista de pruebas en el desierto de Nevada. En 2020, realizó la primera — y única — prueba con pasajeros humanos. La cápsula alcanzó una velocidad máxima de 160 kilómetros por hora. La promesa original era siete veces más.
+Hyperloop One fue la startup más prominente que intentó hacer realidad la idea. Fundada en 2014, recaudó más de $450 millones de inversores, incluyendo a Richard Branson y su Virgin Group. Construyó una pista de pruebas en el desierto de Nevada. En 2020, realizó la primera — y única — prueba con pasajeros humanos. La cápsula alcanzó una velocidad máxima de aproximadamente 170 kilómetros por hora. La promesa original era siete veces más.
 
 Diez años después de su fundación, Hyperloop One no había firmado un solo contrato comercial. En diciembre de 2023, la empresa anunció su cierre definitivo. Los empleados fueron despedidos. Los activos — incluyendo la pista de pruebas — fueron puestos a la venta. La propiedad intelectual pasó a manos de DP World, el operador portuario de Dubái que había terminado siendo el accionista mayoritario.
 
