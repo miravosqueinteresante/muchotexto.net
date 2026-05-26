@@ -1,0 +1,42 @@
+name: 🇵🇾 Pulso Diario Paraguay
+
+on:
+  schedule:
+    - cron: "30 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar-pulso:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_MODELS_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --quiet --upgrade pip
+
+      - name: Generar Pulso Paraguay
+        id: pulso
+        env:
+          GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          TZ: America/Asuncion
+        run: python scripts/pulso_diario.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Pulso Bot"
+          git config user.email "pulso@muchotexto.net"
+          git add -A
+          git diff --cached --quiet || git commit -m "🇵🇾 Pulso Paraguay — $(date +'%Y-%m-%d')"
+          git push
