@@ -152,7 +152,49 @@ PULSO DIARIO PARAGUAY
 🏛 POLÍTICA
 
 [Título del tema principal]
+
 [2-3 líneas de desarrollo. Dato concreto obligatorio.]
+📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+
+🔹 [Tema secundario si existe]
+
+[1-2 líneas]
+
+💰 ECONOMÍA
+
+[Título del tema principal]
+
+[2-3 líneas. Números/cifras obligatorios.]
+📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+
+⚽ DEPORTES
+
+[Título del tema principal]
+
+[2-3 líneas. Resultado o dato deportivo concreto.]
+📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+
+🔹 [Tema secundario si existe]
+
+🎭 ENTRETENIMIENTO & CULTURA
+
+[Título del tema principal]
+
+[2-3 líneas.]
+📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+
+🚨 SEGURIDAD & SOCIEDAD
+
+[Título del tema principal]
+
+[2-3 líneas.]
+📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+
+🔥 VIRALES & TENDENCIAS
+
+[Título del viral o tendencia]
+
+[2-3 líneas. Origen y por qué pegó.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
 🔹 [Tema secundario si existe]
