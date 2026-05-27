@@ -29,6 +29,15 @@ GH_MODEL = "gpt-4o-mini"
 
 PARAGUAY_TZ = timezone(timedelta(hours=-4))
 
+MESES = {
+    1: "enero", 2: "febrero", 3: "marzo", 4: "abril",
+    5: "mayo", 6: "junio", 7: "julio", 8: "agosto",
+    9: "setiembre", 10: "octubre", 11: "noviembre", 12: "diciembre",
+}
+
+def fmt_fecha(dt: datetime) -> str:
+    return f"{dt.day} de {MESES[dt.month]} de {dt.year}"
+
 RSS_FEEDS = [
     ("ABC Color", "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"),
     ("ABC Policiales", "https://www.abc.com.py/arc/outboundfeeds/rss/policiales/"),
@@ -114,7 +123,7 @@ def collect_news():
 
 def build_prompt(news_items: list) -> str:
     now = now_py()
-    fecha = now.strftime("%d de %B de %Y")
+    fecha = fmt_fecha(now)
     dias = ["LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "SÁBADO", "DOMINGO"]
     dia = dias[now.weekday()]
 
@@ -307,7 +316,7 @@ def save_post(content: str):
 
     frontmatter = f"""---
 layout: post
-title: "Pulso Paraguay — {now.strftime('%-d de %B de %Y')}"
+title: "Pulso Paraguay — {fmt_fecha(now)}"
 date: {date_str}
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
