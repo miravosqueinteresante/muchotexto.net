@@ -38,6 +38,9 @@ RSS_FEEDS = [
     ("ABC Mundo", "https://www.abc.com.py/arc/outboundfeeds/rss/mundo/"),
     ("ABC Espectáculos", "https://www.abc.com.py/arc/outboundfeeds/rss/espectaculos/"),
     ("Diario HOY", "https://www.hoy.com.py/feed/"),
+    ("NPY", "https://www.npy.com.py/index.rss"),
+    ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
+    ("La Nación", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
 ]
 
 HEADERS = {
