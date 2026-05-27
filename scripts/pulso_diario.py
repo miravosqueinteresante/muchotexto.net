@@ -142,78 +142,67 @@ INSTRUCCIONES:
 
 FORMATO EXACTO DEL REPORTE (respetá esta estructura):
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🇵🇾 PULSO DIARIO PARAGUAY
+PULSO DIARIO PARAGUAY
 📅 {dia} {fecha}  |  🕐 Última actualización: {now.strftime("%H:%M")}
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌡 TEMA #1 DEL DÍA: [Nombre del tema]
+
 [Una línea que resume por qué es el #1]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🏛 POLÍTICA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔺 [Título del tema principal]
+
+[Título del tema principal]
 [2-3 líneas de desarrollo. Dato concreto obligatorio.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
 🔹 [Tema secundario si existe]
 [1-2 líneas]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💰 ECONOMÍA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔺 [Título del tema principal]
+
+[Título del tema principal]
 [2-3 líneas. Números/cifras obligatorios.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⚽ DEPORTES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔺 [Título del tema principal]
+
+[Título del tema principal]
 [2-3 líneas. Resultado o dato deportivo concreto.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎭 ENTRETENIMIENTO & CULTURA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔺 [Título del tema principal]
+
+[Título del tema principal]
 [2-3 líneas.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🚨 SEGURIDAD & SOCIEDAD
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔺 [Título del tema principal]
+
+[Título del tema principal]
 [2-3 líneas.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔥 VIRALES & TENDENCIAS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔺 [Título del viral o tendencia]
+
+[Título del viral o tendencia]
 [2-3 líneas. Origen y por qué pegó.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 1. 🥇 [Tema]
 2. 🥈 [Tema]
 3. 🥉 [Tema]
 4. [Tema]
 5. [Tema]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💡 INSIGHT DEL DÍA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 [Un párrafo corto con la observación más interesante o
 el patrón que conecta los temas del día. El "por qué"
 detrás de la conversación del día.]
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔍 ANÁLISIS DE SENTIMIENTO POR CATEGORÍA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Categoría | Volumen | Positivo | Neutral | Negativo | Temperatura |
 |-----------|---------|----------|---------|----------|-------------|
@@ -224,9 +213,8 @@ detrás de la conversación del día.]
 | 🚨 Seguridad | | % | % | % | 🟢/🟡/🟠/🔴 |
 | 🔥 Virales | | % | % | % | 🟢/🟡/🟠/🔴 |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔎 FUENTES CONSULTADAS HOY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 [Lista de medios usados]
 
 DATOS PARA ANALIZAR (NOTICIAS REALES DE HOY):
@@ -277,7 +265,7 @@ def save_post(content: str):
 
     frontmatter = f"""---
 layout: post
-title: "🇵🇾 Pulso Paraguay — {now.strftime('%-d de %B de %Y')}"
+title: "Pulso Paraguay — {now.strftime('%-d de %B de %Y')}"
 date: {date_str}
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "🇵🇾 Pulso Paraguay — 26 de Mayo de 2026"
+title: "Pulso Paraguay — 26 de Mayo de 2026"
 date: 2026-05-26
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
 ---
 
-🇵🇾 PULSO DIARIO PARAGUAY
+PULSO DIARIO PARAGUAY
 📅 MARTES 26 de Mayo de 2026  |  🕐 Última actualización: 15:47
 
 🌡 TEMA #1 DEL DÍA: Investigación contra precandidato cartista de Luque
+
 Este tema ha generado un alto volumen de conversación por las implicaciones políticas y legales que tiene en el contexto electoral.
 
 🏛 POLÍTICA
@@ -52,6 +53,7 @@ Este video ha captado la atención de miles en redes sociales, destacando la val
 📊 Temperatura social: Media
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
+
 1. 🥇 Investigación contra precandidato cartista de Luque
 2. 🥈 Afiliación forzada en la ANR
 3. 🥉 Vallejo en Roland Garros
@@ -59,6 +61,7 @@ Este video ha captado la atención de miles en redes sociales, destacando la val
 5. La OSIC y “Música en los Palacios”
 
 💡 INSIGHT DEL DÍA
+
 El día de hoy se ha visto marcado por un fuerte foco en la política, especialmente en torno a las irregularidades en el proceso electoral. Esto refleja un clima de desconfianza hacia las instituciones, mientras que los logros en deportes como el tenis generan un respiro positivo en la sociedad. La dualidad entre la crisis política y los logros deportivos podría ser una oportunidad para fomentar un cambio social.
 
 🔍 ANÁLISIS DE SENTIMIENTO POR CATEGORÍA
@@ -73,4 +76,5 @@ El día de hoy se ha visto marcado por un fuerte foco en la política, especialm
 | 🔥 Virales  | Medio   | 50%      | 40%     | 10%      | 🟡          |
 
 🔎 FUENTES CONSULTADAS HOY
+
 ABC Color, ABC Deportes, Diario HOY, ABC Mundo, ABC Espectáculos
