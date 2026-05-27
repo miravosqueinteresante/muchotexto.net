@@ -36,16 +36,21 @@ Recoleta FC logró una victoria histórica al vencer a San Lorenzo de Almagro y 
 
 🎭 ENTRETENIMIENTO & CULTURA
 
-Comic-Con de Málaga
+Premiarán a la mejor muestra de artes visuales del 2025
 
-La actriz Emily Rudd, conocida por su papel en 'One Piece', será una de las invitadas especiales en la Comic-Con de Málaga, generando gran expectativa entre los fanáticos de la serie.  
+El galardón principal es para la exposición "Meteora. Una fábula cósmica", de la artista Laura Mandelik y el curador Fernando Moure, exhibida en la Galería Exaedro. La distinción se otorga de manera conjunta a la autora, al curador y a los responsables del espacio.
+📊 Temperatura social: Media
+
+🔹 "La isla" sube a las tablas este fin de semana en el CCPA
+
+La obra se presenta en el Teatro de las Américas del Centro Cultural Paraguayo Americano. Entradas a G. 50.000.
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
 
 Hallan cuerpo incinerado en Pedro Juan Caballero
 
-Un hombre de 28 años fue encontrado muerto e incinerado en una zona rural, lo que ha llevado a la Policía Nacional y al Ministerio Público a investigar el caso, que presenta indicios de un crimen violento.  
+Un hombre de 28 años fue encontrado muerto e incinerado en una zona rural, lo que ha llevado a la Policía Nacional y al Ministerio Público a investigar el caso, que presenta indicios de un crimen violento.
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
