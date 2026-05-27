@@ -148,6 +148,8 @@ INSTRUCCIONES:
 5. El TEMA #1 debe ser el que más volumen de conversación generó según las noticias disponibles.
 6. Idioma: español de Paraguay (voseo, "che", etc.).
 7. Sin opiniones personales del agente — solo síntesis de lo que circula.
+8. NO uses formato markdown como **negritas** o *cursiva* — solo texto plano.
+9. Cada categoría (🏛💰⚽🎭🚨🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
 
 FORMATO EXACTO DEL REPORTE (respetá esta estructura):
 
