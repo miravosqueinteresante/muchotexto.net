@@ -41,6 +41,8 @@ RSS_FEEDS = [
     ("NPY", "https://www.npy.com.py/index.rss"),
     ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
     ("La Nación", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
+    ("Diario Popular", "https://www.popular.com.py/feed/"),
+    ("El Independiente", "https://www.independiente.com.py/feed/"),
 ]
 
 HEADERS = {
