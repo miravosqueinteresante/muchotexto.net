@@ -29,6 +29,12 @@ Los gremios industriales han alertado sobre un "riesgo de insolvencia" en el Ins
 
 📊 Temperatura social: Media
 
+🔹 Pacientes hipertensos sin acceso a fármacos en Cabañas
+
+Los pacientes hipertensos de Cabañas siguen sin acceso a medicamentos esenciales, lo que ha llevado a una crisis de salud pública en la región.  
+
+📊 Temperatura social: Alta
+
 ⚽ DEPORTES
 
 Batacazo histórico de Recoleta FC
@@ -36,6 +42,12 @@ Batacazo histórico de Recoleta FC
 Recoleta FC logró una victoria histórica al vencer a San Lorenzo de Almagro y clasificarse a los octavos de final de la Copa Sudamericana 2026, manteniéndose invicto en el torneo.  
 
 📊 Temperatura social: Alta
+
+🔹 Cerro Porteño conquista el doble campeonato femenino
+
+Cerro Porteño ha dominado la Liga de Desarrollo femenina, logrando conquistar el doble campeonato, lo que resalta el crecimiento del fútbol femenino en Paraguay.  
+
+📊 Temperatura social: Media
 
 🎭 ENTRETENIMIENTO & CULTURA
 
@@ -51,11 +63,23 @@ La obra se presenta en el Teatro de las Américas del Centro Cultural Paraguayo 
 
 📊 Temperatura social: Media
 
+🔹 Emergentes: una plataforma para artistas
+
+La plataforma "Emergentes" se ha lanzado para brindar impulso a artistas y proyectos culturales, mostrando un crecimiento en la inversión en el sector cultural.  
+
+📊 Temperatura social: Media
+
 🚨 SEGURIDAD & SOCIEDAD
 
 Hallan cuerpo incinerado en Pedro Juan Caballero
 
 Un hombre de 28 años fue encontrado muerto e incinerado en una zona rural, lo que ha llevado a la Policía Nacional y al Ministerio Público a investigar el caso, que presenta indicios de un crimen violento.
+
+📊 Temperatura social: Alta
+
+🔹 Accidente laboral fatal en Asunción
+
+Un joven de 18 años murió en un accidente laboral tras quedar atrapado en un montacargas en una obra de construcción, resaltando la necesidad de mejorar las condiciones de seguridad laboral en el país.  
 
 📊 Temperatura social: Alta
 
@@ -67,41 +91,7 @@ La detención del hijo de una exdiputada en un operativo antidrogas ha generado 
 
 📊 Temperatura social: Alta
 
-💰 ECONOMÍA
-
-Pacientes hipertensos sin acceso a fármacos
-
-Los pacientes hipertensos de Cabañas siguen sin acceso a medicamentos esenciales, lo que ha llevado a una crisis de salud pública en la región.  
-
-📊 Temperatura social: Alta
-
-⚽ DEPORTES
-
-Cerro Porteño conquista el doble campeonato
-
-Cerro Porteño ha dominado la Liga de Desarrollo femenina, logrando conquistar el doble campeonato, lo que resalta el crecimiento del fútbol femenino en Paraguay.  
-
-📊 Temperatura social: Media
-
-🎭 ENTRETENIMIENTO & CULTURA
-
-Emergentes: una plataforma para artistas
-
-La plataforma "Emergentes" se ha lanzado para brindar impulso a artistas y proyectos culturales, mostrando un crecimiento en la inversión en el sector cultural.  
-
-📊 Temperatura social: Media
-
-🚨 SEGURIDAD & SOCIEDAD
-
-Accidente laboral fatal en Asunción
-
-Un joven de 18 años murió en un accidente laboral tras quedar atrapado en un montacargas en una obra de construcción, resaltando la necesidad de mejorar las condiciones de seguridad laboral en el país.  
-
-📊 Temperatura social: Alta
-
-🔥 VIRALES & TENDENCIAS
-
-La victoria de Recoleta FC
+🔹 La victoria de Recoleta FC
 
 La histórica clasificación de Recoleta FC ha sido ampliamente compartida y comentada en redes sociales, generando un ambiente festivo entre los hinchas.  
 
