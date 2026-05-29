@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-**muchotexto.net** es el blog personal de **César Sánchez**, un espacio dedicado a la lectura profunda y el contenido extenso, sin distracciones.
+**muchotexto.net** es el blog personal de **César Sánchez**, un espacio dedicado a la lectura profunda y el contenido extenso, sin distracciones. Asistido por una IA que escribe los artículos, chequea fuentes, cruza datos y busca información.
 
 ### Filosofía
 
