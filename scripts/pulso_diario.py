@@ -46,12 +46,14 @@ RSS_FEEDS = [
     ("ABC Economía", "https://www.abc.com.py/arc/outboundfeeds/rss/economia/"),
     ("ABC Mundo", "https://www.abc.com.py/arc/outboundfeeds/rss/mundo/"),
     ("ABC Espectáculos", "https://www.abc.com.py/arc/outboundfeeds/rss/espectaculos/"),
+    ("ADN Digital", "https://www.adndigital.com.py/rss"),
     ("Diario HOY", "https://www.hoy.com.py/feed/"),
-    ("NPY", "https://www.npy.com.py/index.rss"),
-    ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
-    ("La Nación", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
     ("Diario Popular", "https://www.popular.com.py/feed/"),
     ("El Independiente", "https://www.independiente.com.py/feed/"),
+    ("El Nacional", "https://www.elnacional.com.py/feed/"),
+    ("La Nación", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
+    ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
+    ("NPY", "https://www.npy.com.py/index.rss"),
 ]
 
 HEADERS = {
