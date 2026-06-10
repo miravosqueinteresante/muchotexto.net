@@ -264,11 +264,7 @@ Cuando un hincha ve un partido, su cerebro experimenta una cascada de cambios ne
 
 Estudios de neuroimagen han demostrado que la respuesta cerebral del hincha es muy similar a la respuesta emocional ante eventos que le ocurren directamente. Es decir, el cerebro del hincha procesa la victoria o derrota de su equipo como si le hubiera ocurrido a él mismo. Por eso duele tanto. Por eso se celebra tanto.
 
-### La transmisión generacional
-
-El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado.
-
-Eduardo Sacheri (escritor argentino) ha explorado esta transmisión generacional como nadie. En "Esperándolo a Tito", un hombre espera a un gran jugador que nunca llega —una metáfora de la espera infinita del hincha argentino, la expectativa perpetua del "próximo crack". En otro cuento, escribe: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."*
+Eduardo Sacheri (escritor argentino) lo expresó así: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."* El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado.
 
 ### El "mendigo de buen fútbol"
 
