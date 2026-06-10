@@ -306,7 +306,6 @@ La pelota rueda. El mundo rueda.
 - Pasolini, Pier Paolo — "Il calcio è un linguaggio con i suoi poeti e prosatori" (1971)
 - Ribeyro, Julio Ramón — *Prosas apátridas* (1978), *Solo para fumadores* (1965)
 - Benedetti, Mario — *El césped*, *Puntero izquierdo*
-- Sacheri, Eduardo — *Esperándolo a Tito* (2000)
 - Fontanarrosa, Roberto — *Puro fútbol*, *Viejo con árbol*
 - Villoro, Juan — *Dios es redondo* (Anagrama, 2006)
 - Soriano, Osvaldo — *Fútbol, relatos*
