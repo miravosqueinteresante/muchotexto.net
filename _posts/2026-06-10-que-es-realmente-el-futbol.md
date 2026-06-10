@@ -126,7 +126,7 @@ En 1971, Pier Paolo Pasolini (cineasta, poeta y escritor italiano) publicó un a
 
 Pasolini dividió el fútbol en dos categorías. El "calcio di prosa" es el fútbol europeo: racional, táctico, colectivo. Un partido de prosa es como un discurso bien estructurado. El "calcio di poesia" es el fútbol sudamericano, especialmente el brasileño: basado en la improvisación, el talento individual, el regate. *"El regate y el gol son los momentos individualistas-poéticos del fútbol; por eso el fútbol brasileño es poesía"*, escribió.
 
-Pero el lenguaje del fútbol tiene una cualidad que ningún otro lenguaje tiene: es universal. No necesita traducción. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo, en Lagos, en Tokio. Mario Benedetti (escritor uruguayo) lo entendió así: *"El fútbol es el único lenguaje verdaderamente universal que tenemos. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo o en la Ciudad de México. Esa es nuestra verdadera lengua franca."*
+Mario Benedetti (escritor uruguayo) lo resumió así: *"El fútbol es el único lenguaje verdaderamente universal que tenemos. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo o en la Ciudad de México. Esa es nuestra verdadera lengua franca."*
 
 ### Galeano y el arte de la caricia con los pies
 
