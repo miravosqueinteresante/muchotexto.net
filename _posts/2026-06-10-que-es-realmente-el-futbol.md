@@ -174,7 +174,7 @@ Y sin embargo, el potrero sigue siendo el semillero. En Brasil, aproximadamente 
 
 El Mundial 2026 será, como todos los Mundiales, un espejo de las migraciones globales. Detrás de muchas de las estrellas hay historias de familias que cruzaron fronteras, que huyeron de la pobreza o la violencia, que construyeron una nueva vida en un lugar desconocido.
 
-Marruecos 2022 fue el caso más extremo: la mayoría de sus jugadores habían nacido en Europa. Achraf Hakimi en Madrid, Hakim Ziyech en los Países Bajos, Sofyan Amrabat también. El seleccionador Walid Regragui nació en Francia. La diáspora marroquí se identificó masivamente con el equipo. Fue un fenómeno de identidad transnacional: miles de marroquíes y franceses de origen marroquí celebraron juntos.
+La selección de Marruecos en el Mundial 2022 fue el caso más extremo: la mayoría de sus jugadores habían nacido en Europa. Achraf Hakimi en Madrid, Hakim Ziyech en los Países Bajos, Sofyan Amrabat también. Su entrenador Walid Regragui nació en Francia. La diáspora marroquí se identificó masivamente con el equipo. Fue un fenómeno de identidad transnacional: miles de marroquíes y franceses de origen marroquí celebraron juntos.
 
 El fútbol te permite ser de dos lugares al mismo tiempo. Te permite llevar tu origen en la camiseta mientras corres en una cancha que no es la de tu infancia. Es, quizá, la forma más bella de migrar.
 
