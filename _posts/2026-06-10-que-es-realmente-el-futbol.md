@@ -266,7 +266,7 @@ Estudios de neuroimagen han demostrado que la respuesta cerebral del hincha es m
 
 ### La transmisión generacional
 
-El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado. Fontanarrosa lo resumió con su ironía característica: uno es hincha del club que vio de niño, sin más razón que esa.
+El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado.
 
 Eduardo Sacheri (escritor argentino) ha explorado esta transmisión generacional como nadie. En "Esperándolo a Tito", un hombre espera a un gran jugador que nunca llega —una metáfora de la espera infinita del hincha argentino, la expectativa perpetua del "próximo crack". En otro cuento, escribe: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."*
 
