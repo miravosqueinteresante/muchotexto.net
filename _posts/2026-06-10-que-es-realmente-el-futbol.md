@@ -50,7 +50,7 @@ Como escribió en *El mito de Sísifo*: *"Hay que imaginarse a Sísifo feliz."* 
 
 ### El estadio como templo
 
-Mircea Eliade, en *Lo sagrado y lo profano* (1957), distinguió dos modos de estar en el mundo: la experiencia religiosa, que reconoce un espacio sagrado cualitativamente diferente del espacio profano; y la experiencia secular, que vive en un espacio homogéneo y desacralizado. Para el hincha de fútbol, el estadio no es un espacio homogéneo. Es un espacio sagrado: un lugar donde el tiempo ordinario se suspende, donde se produce lo que Eliade llamaba una "hierofanía" —la irrupción de lo sagrado en lo profano.
+Mircea Eliade (historiador de las religiones), en *Lo sagrado y lo profano* (1957), distinguió dos modos de estar en el mundo: la experiencia religiosa, que reconoce un espacio sagrado cualitativamente diferente del espacio profano; y la experiencia secular, que vive en un espacio homogéneo y desacralizado. Para el hincha de fútbol, el estadio no es un espacio homogéneo. Es un espacio sagrado: un lugar donde el tiempo ordinario se suspende, donde se produce lo que Eliade llamaba una "hierofanía" —la irrupción de lo sagrado en lo profano.
 
 La cancha no es cualquier rectángulo de césped: es el centro del mundo. Cada estadio es, para su hinchada, el *axis mundi*: el lugar donde el cielo, la tierra y el infierno se conectan. La victoria es la salvación; la derrota, la condenación. Galeano lo expresó en una frase memorable: *"¿Ha entrado usted alguna vez a un estadio vacío? Haga la prueba. Párese en medio de la cancha y escuche. No hay nada menos vacío que un estadio vacío."*
 
@@ -58,7 +58,7 @@ Eliade hablaba del "tiempo sagrado" o *illud tempus*: el tiempo primordial que s
 
 ### La efervescencia colectiva
 
-Émile Durkheim, en *Las formas elementales de la vida religiosa* (1912), estudió el origen social de la religión. Para Durkheim, lo sagrado no es una propiedad de los objetos sino un producto de la sociedad: cuando los individuos se congregan y experimentan juntos una emoción compartida, se genera lo que llamó "efervescencia colectiva" —una energía que desborda al individuo y crea la experiencia de lo sagrado.
+Émile Durkheim (sociólogo francés), en *Las formas elementales de la vida religiosa* (1912), estudió el origen social de la religión. Para Durkheim, lo sagrado no es una propiedad de los objetos sino un producto de la sociedad: cuando los individuos se congregan y experimentan juntos una emoción compartida, se genera lo que llamó "efervescencia colectiva" —una energía que desborda al individuo y crea la experiencia de lo sagrado.
 
 *"La sociedad solo puede hacer sentir su influencia si está en acto, y solo lo está si los individuos están reunidos y actúan en común. A través de la acción común, ella toma conciencia de sí y se asienta, pues es ante todo cooperación activa"*, escribió Durkheim. Esta descripción encaja perfectamente con la experiencia del estadio: miles de personas cantando el mismo himno, celebrando el mismo gol, sufriendo la misma derrota. La efervescencia colectiva del fútbol no es metáfora: es una experiencia física, una intensidad compartida que eleva.
 
@@ -114,7 +114,7 @@ Pero incluso esa historia tiene su sombra. El líder de ultraderecha Jean-Marie 
 
 ### Sudáfrica 2010: el primer Mundial africano
 
-Nelson Mandela dijo: *"El deporte tiene el poder de cambiar el mundo. Tiene el poder de inspirar. Tiene el poder de unir a la gente como pocas otras cosas."* Sudáfrica había superado el apartheid hacía solo 16 años. El Mundial africano fue un símbolo de que el continente podía albergar eventos globales. Pero también hubo críticas: el gobierno gastó 5.700 millones de dólares en el torneo mientras persistían la pobreza y la desigualdad. Las promesas de desarrollo social no se cumplieron a cabalidad. El fútbol puede cambiar el mundo, pero no siempre lo hace.
+Nelson Mandela (líder sudafricano) dijo: *"El deporte tiene el poder de cambiar el mundo. Tiene el poder de inspirar. Tiene el poder de unir a la gente como pocas otras cosas."* Sudáfrica había superado el apartheid hacía solo 16 años. El Mundial africano fue un símbolo de que el continente podía albergar eventos globales. Pero también hubo críticas: el gobierno gastó 5.700 millones de dólares en el torneo mientras persistían la pobreza y la desigualdad. Las promesas de desarrollo social no se cumplieron a cabalidad. El fútbol puede cambiar el mundo, pero no siempre lo hace.
 
 ---
 
@@ -122,11 +122,11 @@ Nelson Mandela dijo: *"El deporte tiene el poder de cambiar el mundo. Tiene el p
 
 ### Pasolini: el fútbol como lenguaje
 
-En 1971, Pier Paolo Pasolini publicó un artículo titulado "Il calcio è un linguaggio con i suoi poeti e prosatori" —El fútbol es un lenguaje con sus poetas y prosistas—. Su tesis era radical: el fútbol es un sistema semiótico completo, un lenguaje con todas las características fundamentales del lenguaje: un sistema de signos, una gramática, una sintaxis.
+En 1971, Pier Paolo Pasolini (cineasta, poeta y escritor italiano) publicó un artículo titulado "Il calcio è un linguaggio con i suoi poeti e prosatori" —El fútbol es un lenguaje con sus poetas y prosistas—. Su tesis era radical: el fútbol es un sistema semiótico completo, un lenguaje con todas las características fundamentales del lenguaje: un sistema de signos, una gramática, una sintaxis.
 
 Pasolini dividió el fútbol en dos categorías. El "calcio di prosa" es el fútbol europeo: racional, táctico, colectivo. Un partido de prosa es como un discurso bien estructurado. El "calcio di poesia" es el fútbol sudamericano, especialmente el brasileño: basado en la improvisación, el talento individual, el regate. *"El regate y el gol son los momentos individualistas-poéticos del fútbol; por eso el fútbol brasileño es poesía"*, escribió.
 
-Pero el lenguaje del fútbol tiene una cualidad que ningún otro lenguaje tiene: es universal. No necesita traducción. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo, en Lagos, en Tokio. Mario Benedetti lo entendió así: *"El fútbol es el único lenguaje verdaderamente universal que tenemos. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo o en la Ciudad de México. Esa es nuestra verdadera lengua franca."*
+Pero el lenguaje del fútbol tiene una cualidad que ningún otro lenguaje tiene: es universal. No necesita traducción. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo, en Lagos, en Tokio. Mario Benedetti (escritor uruguayo) lo entendió así: *"El fútbol es el único lenguaje verdaderamente universal que tenemos. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo o en la Ciudad de México. Esa es nuestra verdadera lengua franca."*
 
 ### Galeano y el arte de la caricia con los pies
 
@@ -156,7 +156,7 @@ Roberto Fontanarrosa usó el humor como herramienta de conocimiento. Su cuento "
 
 Juan Villoro, en *Dios es redondo* (2006), escribió quizá la frase más bella sobre la paternidad y el fútbol: *"Un estadio es un buen sitio para tener un padre. El resto del mundo es un buen sitio para tener un hijo."* Y también: *"El fútbol no tiene guión ni sentido aparente. Un jugador mete un golazo y el árbitro lo anula injustamente, del mismo modo en que a la mejor persona del mundo le da parálisis cerebral."*
 
-Borges, el gran ausente, dijo: *"El fútbol es popular porque la estupidez es popular."* Pero Borges despreciaba el fútbol desde una posición intelectual, no sensorial. Su rechazo es la prueba misma de que el fútbol no se puede explicar desde los libros: hay que verlo, sentirlo, estar ahí. Lo que Borges no podía entender desde la biblioteca, millones lo entienden desde la tribuna.
+Borges (el escritor argentino), el gran ausente, dijo: *"El fútbol es popular porque la estupidez es popular."* Pero Borges despreciaba el fútbol desde una posición intelectual, no sensorial. Su rechazo es la prueba misma de que el fútbol no se puede explicar desde los libros: hay que verlo, sentirlo, estar ahí. Lo que Borges no podía entender desde la biblioteca, millones lo entienden desde la tribuna.
 
 ---
 
@@ -168,7 +168,7 @@ El fútbol es quizá el único espacio donde el hijo del obrero y el hijo del em
 
 Pero esa igualdad es más compleja de lo que parece. Los precios de las entradas en Inglaterra promedian las 50-60 libras, y algunos clubes cobran hasta 100 por los mejores partidos. El estadio se ha llenado de turistas y clases medias-altas, desplazando al hincha tradicional. El fútbol que prometía igualdad reproduce, como todo en el capitalismo tardío, las desigualdades que dice combatir.
 
-Y sin embargo, el potrero sigue siendo el semillero. En Brasil, aproximadamente el 70% de los jugadores profesionales provienen de familias de bajos ingresos. En Argentina, Maradona salió de Villa Fiorito, Messi de Rosario, Di María de Rosario Central. En Paraguay, Cabañas nació en Itauguá, Chilavert en Luque, Gamarra en Capiatá.
+Y sin embargo, el potrero sigue siendo el semillero. En Brasil, aproximadamente el 70% de los jugadores profesionales provienen de familias de bajos ingresos. En Argentina, Maradona salió de Villa Fiorito, Messi de Rosario, Di María de Rosario Central. En Paraguay, Salvador Cabañas nació en Itauguá, Chilavert en Luque, Gamarra en Capiatá.
 
 ### Migración: el fútbol como pasaporte
 
@@ -234,7 +234,7 @@ José Luis Chilavert, tres veces mejor arquero del mundo, único arquero en la h
 
 ### La Albirroja en los Mundiales
 
-Paraguay ha participado en nueve Mundiales. Su mejor actuación fue Sudáfrica 2010, cuando llegó a cuartos de final. Lideró su grupo por delante de Italia, la campeona defensora. Eliminó a Japón por penales. Plantó cara a la España que sería campeona del mundo. Óscar Cardozo falló un penal que pudo cambiarlo todo. Al final, España ganó 1-0 con un gol de David Villa a los 83 minutos. Paraguay se fue con la cabeza en alto.
+Paraguay ha participado en nueve Mundiales. Su mejor actuación fue Sudáfrica 2010, cuando llegó a cuartos de final. Lideró su grupo por delante de Italia, la campeona defensora. Eliminó a Japón por penales. Plantó cara a la España que sería campeona del mundo. Óscar Cardozo (delantero paraguayo) falló un penal que pudo cambiarlo todo. Al final, España ganó 1-0 con un gol de David Villa (delantero español) a los 83 minutos. Paraguay se fue con la cabeza en alto.
 
 Pero después vinieron dieciséis años de sequía. Tres Mundiales consecutivos viéndolos por televisión. La sensación de que el fútbol paraguayo estaba en decadencia, que la garra guaraní ya no alcanzaba, que el país se había quedado atrás. Dieciséis años es una vida entera para un niño que soñaba con ver a la Albirroja en la Copa del Mundo. Dieciséis años es el tiempo que separa a una generación que ya no cree de otra que está aprendiendo a creer.
 
@@ -270,7 +270,7 @@ Estudios de neuroimagen han demostrado que la respuesta cerebral del hincha es m
 
 El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado. Fontanarrosa lo resumió con su ironía característica: uno es hincha del club que vio de niño, sin más razón que esa.
 
-Sacheri ha explorado esta transmisión generacional como nadie. En "Esperándolo a Tito", un hombre espera a un gran jugador que nunca llega —una metáfora de la espera infinita del hincha argentino, la expectativa perpetua del "próximo crack". En otro cuento, escribe: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."*
+Eduardo Sacheri (escritor argentino) ha explorado esta transmisión generacional como nadie. En "Esperándolo a Tito", un hombre espera a un gran jugador que nunca llega —una metáfora de la espera infinita del hincha argentino, la expectativa perpetua del "próximo crack". En otro cuento, escribe: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."*
 
 ### El "mendigo de buen fútbol"
 
