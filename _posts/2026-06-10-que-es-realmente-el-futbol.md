@@ -6,7 +6,7 @@ categories: blog
 tags: fútbol filosofía historia cultura sociedad mundial-2026 paraguay galeano identidad
 ---
 
-La pregunta parece simple, casi ingenua. Cinco palabras que cualquier persona respondería sin dudar: once contra once, una pelota, dos arcos, noventa minutos. Y sin embargo, cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte. O no es solo un deporte. Es una religión sin catedral, una guerra sin fusiles, un idioma que no necesita traducción. Es, como dijo Eduardo Galeano, *"la única varita mágica en la que puede creer el niño pobre"*. Es, sobre todo, un espejo de todo lo que somos. Y cuando uno se para frente a ese espejo, lo que ve no siempre es cómodo.
+La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte: es una religión sin catedral, una guerra sin fusiles, un idioma que no necesita traducción. Es, como dijo Eduardo Galeano, *"la única varita mágica en la que puede creer el niño pobre"*. Sobre todo, es un espejo de todo lo que somos. Y cuando uno se para frente a ese espejo, lo que ve no siempre es cómodo.
 
 ---
 
@@ -18,7 +18,7 @@ Simon Critchley, filósofo de la New School de Nueva York, escribió en *What We
 
 Los 90 minutos de un partido no son 90 minutos. Son una vida entera comprimida en una hora y media. Se puede pasar de la euforia a la desesperación, del aburrimiento al éxtasis, de la esperanza a la derrota irrevocable. El tiempo no es homogéneo: hay momentos de aceleración vertiginosa —un contragolpe— y momentos de estancamiento perpetuo —los últimos minutos defendiendo un resultado. Como dice Critchley, en ciertos partidos dominados por el catenaccio, *"el tiempo se vuelve maleable, plástico, elástico"*.
 
-El tiempo de descuento es una invención que debería fascinar a los filósofos. No es un simple ajuste técnico: es una categoría ontológica. Son minutos que se añaden porque el tiempo no fue realmente tiempo: el tiempo perdido en celebraciones, lesiones, cambios, se recupera al final. Pero ese tiempo recuperado no es el mismo tiempo que se perdió. Es un tiempo cargado de significado, de urgencia, de finalidad. Antes del Mundial de Qatar 2022, Pierluigi Collina, presidente del Comité de Árbitros de la FIFA, anunció que los árbitros añadirían con precisión el tiempo perdido en celebraciones de goles, sustituciones y asistencias médicas. En el partido Inglaterra-Irán de ese Mundial hubo 28 minutos de descuento total, repartidos entre ambos tiempos. La reacción del público fue de asombro: ¿cómo pueden ser casi media hora? Porque el tiempo perdido es también tiempo, y debe ser restituido.
+El tiempo de descuento es una invención que debería fascinar a los filósofos. No es un simple ajuste técnico: es una categoría ontológica. Son minutos que se añaden porque el tiempo no fue realmente tiempo. Las celebraciones, lesiones, cambios — todo eso se recupera al final. Pero ese tiempo recuperado no es el mismo que se perdió. Es un tiempo cargado de significado, de urgencia, de finalidad. Antes de Qatar 2022, Pierluigi Collina anunció que los árbitros añadirían con precisión el tiempo perdido en goles, sustituciones y asistencias médicas. En el partido Inglaterra-Irán hubo 28 minutos de descuento. La reacción del público fue de asombro: ¿cómo pueden ser casi media hora? Porque el tiempo perdido es también tiempo, y debe ser restituido.
 
 Heidegger definió la existencia humana como "ser-para-la-muerte": somos el único ser que sabe que va a morir, y es esa conciencia la que nos permite vivir auténticamente. Cada partido de fútbol es un pequeño ensayo de la muerte. Tiene un final inevitable, y sabemos cuándo llegará. El tiempo corre, el reloj avanza, y no hay prórroga posible para la vida. El hincha sabe que el partido terminará, que su equipo perderá la ventaja tarde o temprano, que el ciclo de campeonatos se cierra. Pero esa conciencia de la finitud es lo que da intensidad a cada minuto.
 
@@ -162,21 +162,19 @@ Borges, el gran ausente, dijo: *"El fútbol es popular porque la estupidez es po
 
 ## V. La sociedad en la cancha: el estadio como aula de clase
 
-### El potrero, la calle, la academia
+### El potrero como semillero
 
 El fútbol es quizá el único espacio donde el hijo del obrero y el hijo del empresario pueden enfrentarse en igualdad de condiciones. Marcelo Bielsa lo dijo: *"El fútbol es una de las pocas actividades donde el pobre puede ganarle al rico."* Jorge Valdano agregó: *"El fútbol es el único lugar donde el sueño de los humildes puede vencer al poder del dinero."*
 
-Pero esa igualdad es más compleja de lo que parece. El fútbol de élite se ha vuelto cada vez más caro y excluyente. Los precios de las entradas en Inglaterra han subido dramáticamente: el promedio ronda las 50-60 libras, y algunos clubes cobran hasta 100 por los mejores partidos. El estadio se ha llenado de turistas y clases medias-altas, desplazando al hincha tradicional de clase trabajadora. En Sudamérica, la inflación y la crisis económica han hecho que muchos hinchas no puedan ir al estadio. El fútbol que prometía igualdad está, como todo en el capitalismo tardío, reproduciendo las desigualdades que dice combatir.
+Pero esa igualdad es más compleja de lo que parece. Los precios de las entradas en Inglaterra promedian las 50-60 libras, y algunos clubes cobran hasta 100 por los mejores partidos. El estadio se ha llenado de turistas y clases medias-altas, desplazando al hincha tradicional. El fútbol que prometía igualdad reproduce, como todo en el capitalismo tardío, las desigualdades que dice combatir.
 
-Y sin embargo, el potrero sigue siendo el semillero. En Brasil, aproximadamente el 70% de los jugadores profesionales provienen de familias de bajos ingresos. En Argentina, Maradona salió de Villa Fiorito, Messi de Rosario, Di María de Rosario Central. En Paraguay, Cabañas nació en Itauguá, Chilavert en Luque, Gamarra en Capiatá. El fútbol sigue siendo, para millones de niños pobres, la única varita mágica en la que pueden creer.
+Y sin embargo, el potrero sigue siendo el semillero. En Brasil, aproximadamente el 70% de los jugadores profesionales provienen de familias de bajos ingresos. En Argentina, Maradona salió de Villa Fiorito, Messi de Rosario, Di María de Rosario Central. En Paraguay, Cabañas nació en Itauguá, Chilavert en Luque, Gamarra en Capiatá.
 
 ### Migración: el fútbol como pasaporte
 
 El Mundial 2026 será, como todos los Mundiales, un espejo de las migraciones globales. Detrás de muchas de las estrellas hay historias de familias que cruzaron fronteras, que huyeron de la pobreza o la violencia, que construyeron una nueva vida en un lugar desconocido.
 
-Francia 1998 fue el ejemplo perfecto: el equipo campeón era un microcosmos de la Francia postcolonial. Zidane, hijo de argelinos, creció en La Castellane, Marsella, uno de los barrios más pobres de Francia. Thuram, Desailly, Karembeu, Vieira, Henry —todos hijos de la diáspora. El fútbol como pasaporte de los que no tienen otro.
-
-Marruecos 2022 llevó esto al extremo: la mayoría de sus jugadores habían nacido en Europa. Achraf Hakimi en Madrid, Hakim Ziyech en los Países Bajos, Sofyan Amrabat también. El seleccionador Walid Regragui nació en Francia. La diáspora marroquí se identificó masivamente con el equipo. Fue un fenómeno de identidad transnacional: miles de marroquíes y franceses de origen marroquí celebraron juntos.
+Marruecos 2022 fue el caso más extremo: la mayoría de sus jugadores habían nacido en Europa. Achraf Hakimi en Madrid, Hakim Ziyech en los Países Bajos, Sofyan Amrabat también. El seleccionador Walid Regragui nació en Francia. La diáspora marroquí se identificó masivamente con el equipo. Fue un fenómeno de identidad transnacional: miles de marroquíes y franceses de origen marroquí celebraron juntos.
 
 El fútbol te permite ser de dos lugares al mismo tiempo. Te permite llevar tu origen en la camiseta mientras corres en una cancha que no es la de tu infancia. Es, quizá, la forma más bella de migrar.
 
@@ -270,9 +268,9 @@ Estudios de neuroimagen han demostrado que la respuesta cerebral del hincha es m
 
 ### La transmisión generacional
 
-El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado. Fontanarrosa lo explicó con la sencillez de quien sabe de qué habla: *"Uno se hace hincha de un equipo por razones absurdas. Yo soy de Central porque mi viejo me llevó a la cancha cuando tenía cinco años. Eso es todo. No hay ninguna razón más profunda."*
+El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado. Fontanarrosa lo resumió con su ironía característica: uno es hincha del club que vio de niño, sin más razón que esa.
 
-Sacheri, en sus cuentos, ha explorado esta transmisión generacional como nadie. En "Esperándolo a Tito", un hombre espera a un gran jugador que nunca llega —una metáfora de la espera infinita del hincha argentino, la expectativa perpetua del "próximo crack". En otro cuento, escribe: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."*
+Sacheri ha explorado esta transmisión generacional como nadie. En "Esperándolo a Tito", un hombre espera a un gran jugador que nunca llega —una metáfora de la espera infinita del hincha argentino, la expectativa perpetua del "próximo crack". En otro cuento, escribe: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."*
 
 ### El "mendigo de buen fútbol"
 
