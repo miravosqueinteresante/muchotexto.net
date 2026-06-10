@@ -30,7 +30,7 @@ Mihaly Csikszentmihalyi describió en *Flow: The Psychology of Optimal Experienc
 
 ### La angustia del penal: Kierkegaard en la cancha
 
-Søren Kierkegaard definió la angustia como "el vértigo de la libertad". No es miedo a algo concreto, sino la experiencia vertiginosa de tener que elegir, de saber que cualquier decisión nos define y nos condena. El penal es la materialización de la angustia kierkegaardiana. El ejecutor está solo frente a la portería, y en ese instante debe decidir: ¿dónde patear? ¿Cómo engañar al arquero? ¿Qué hacer con la responsabilidad de todo un equipo, de todo un país?
+Søren Kierkegaard definió la angustia como "el vértigo de la libertad". No es miedo a algo concreto, sino la experiencia vertiginosa de tener que elegir, de saber que cualquier decisión nos define y nos condena. El penal es la materialización de la angustia kierkegaardiana. El ejecutor está solo frente a la portería, y en ese instante debe decidir: ¿dónde patear? ¿cómo engañar al arquero? ¿qué hacer con la responsabilidad de todo un equipo, de todo un país?
 
 Kierkegaard hablaba del "salto de fe": la decisión irracional que no puede justificarse con argumentos, que se toma desde la angustia misma. El penalista que respira hondo, que elige un palo, que patea —está dando un salto de fe. No sabe si acertará. Pero debe decidir. Esa es la condición humana en su forma más pura.
 
