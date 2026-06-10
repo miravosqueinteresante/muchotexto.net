@@ -264,8 +264,6 @@ Cuando un hincha ve un partido, su cerebro experimenta una cascada de cambios ne
 
 Estudios de neuroimagen han demostrado que la respuesta cerebral del hincha es muy similar a la respuesta emocional ante eventos que le ocurren directamente. Es decir, el cerebro del hincha procesa la victoria o derrota de su equipo como si le hubiera ocurrido a él mismo. Por eso duele tanto. Por eso se celebra tanto.
 
-Eduardo Sacheri (escritor argentino) lo expresó así: *"Uno no elige su equipo. Uno nace en un equipo. Como nace en una familia, en un barrio, en un país."* El club se hereda del padre, del abuelo, del tío. No se elige: se recibe como un legado.
-
 ### El "mendigo de buen fútbol"
 
 Galeano se autoproclamó "mendigo de buen fútbol". Es la imagen más poderosa de la literatura futbolística: el escritor como suplicante de la gracia, como testigo humilde ante la grandeza del juego. *"Voy por el mundo sombrero en mano y, en los estadios suplico: una linda jugadita, por amor de Dios."*
