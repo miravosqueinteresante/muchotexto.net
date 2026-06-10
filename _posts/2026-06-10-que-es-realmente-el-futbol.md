@@ -190,8 +190,6 @@ El FC Barcelona llevó esta resistencia aún más lejos. Durante la dictadura fr
 
 ### La industria que mata la alegría
 
-Galeano lo vio antes que nadie: *"A medida que el deporte se ha hecho industria, ha ido desterrando la belleza que nace de la alegría de jugar porque sí."* La sentencia, escrita en 1995, es hoy más cierta que nunca.
-
 La Premier League, el imperio, genera más de 7 mil millones de libras anuales en ingresos. Los salarios de los jugadores top alcanzan cifras astronómicas. El traspaso récord —Neymar al PSG por 222 millones de euros en 2017— parece una broma de mal gusto en un mundo donde la mayoría de los clubes sobreviven con presupuestos mínimos.
 
 La Superliga Europea, anunciada en 2021 y muerta antes de nacer por la presión de los hinchas, fue el momento en que la contradicción se hizo insostenible: doce clubes ricos querían romper con la tradición del fútbol europeo para crear una competición cerrada, sin ascensos ni descensos, donde el fracaso no existiera. Los hinchas salieron a las calles. La Superliga cayó. Pero la pregunta quedó flotando: ¿cuánto puede resistir el fútbol como patrimonio cultural frente al fútbol como negocio?
