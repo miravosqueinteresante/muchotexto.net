@@ -164,7 +164,7 @@ Borges (el escritor argentino), el gran ausente, dijo: *"El fútbol es popular p
 
 ### El potrero como semillero
 
-El fútbol es quizá el único espacio donde el hijo del obrero y el hijo del empresario pueden enfrentarse en igualdad de condiciones. Marcelo Bielsa lo dijo: *"El fútbol es una de las pocas actividades donde el pobre puede ganarle al rico."* Jorge Valdano agregó: *"El fútbol es el único lugar donde el sueño de los humildes puede vencer al poder del dinero."*
+El fútbol es quizá el único espacio donde el hijo del obrero y el hijo del empresario pueden enfrentarse en igualdad de condiciones. Marcelo Bielsa (entrenador argentino) lo dijo: *"El fútbol es una de las pocas actividades donde el pobre puede ganarle al rico."* Jorge Valdano (exfutbolista y campeón mundial en 1986) agregó: *"El fútbol es el único lugar donde el sueño de los humildes puede vencer al poder del dinero."*
 
 Pero esa igualdad es más compleja de lo que parece. Los precios de las entradas en Inglaterra promedian las 50-60 libras, y algunos clubes cobran hasta 100 por los mejores partidos. El estadio se ha llenado de turistas y clases medias-altas, desplazando al hincha tradicional. El fútbol que prometía igualdad reproduce, como todo en el capitalismo tardío, las desigualdades que dice combatir.
 
