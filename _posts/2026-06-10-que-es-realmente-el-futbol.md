@@ -276,19 +276,17 @@ Esa es, quizá, la forma más pura de fe que existe en el mundo contemporáneo.
 
 ## IX. Entonces, ¿qué es realmente el fútbol?
 
-Un niño descalzo con una pelota de trapo. Una madre que reza mientras su hijo patea. Un viejo que llora sin saber bien por qué. Un gol gritado en soledad frente al televisor que, de repente, ya no es soledad porque millones están gritando al mismo tiempo. Un estadio vacío que resuena con todo lo que pasó ahí adentro. Una pelota rodando en tierra de nadie mientras los fusiles callan. Un país entero paralizado porque once personas de pantalón corto están a punto de definir si el año fue bueno o malo.
+Un niño descalzo con una pelota de trapo. Un viejo que llora sin saber bien por qué. Un gol gritado en soledad frente al televisor que, de repente, ya no es soledad porque millones están gritando al mismo tiempo. Un estadio vacío que resuena con todo lo que pasó ahí adentro. Un país entero paralizado porque once personas de pantalón corto están a punto de definir si el año fue bueno o malo.
 
 El fútbol es la única actividad humana donde once personas pueden hacer feliz a un país entero sin hablar una sola palabra. Es el instante más breve en el que un pueblo entero deja de ser solo individuos.
 
 Es el lugar donde la meritocracia —esa palabra que tanto se usa y tan poco se cumple— todavía funciona: la pelota no pregunta de dónde venís, no revisa tu cuenta bancaria, no exige apellido. Solo pregunta: ¿cuánto querés?
 
-Es, como dijo Valdano, lo más importante de las cosas menos importantes. Es decir, importa profundamente, pero solo porque no importa realmente. Es un espacio donde la vida se juega en serio pero sin consecuencias reales, donde se puede ser feliz sin razón, donde se puede llorar sin vergüenza.
+Es, como dijo Jorge Valdano (exfutbolista y campeón mundial en 1986), lo más importante de las cosas menos importantes. Es decir, importa profundamente, pero solo porque no importa realmente. Es un espacio donde la vida se juega en serio pero sin consecuencias reales, donde se puede ser feliz sin razón, donde se puede llorar sin vergüenza.
 
-En noventa minutos se puede vivir toda una vida. Y al final, cuando el árbitro pita, queda esa melancolía irremediable que todos sentimos después del amor y al fin del partido.
+En noventa minutos cabe una vida entera — con su prólogo (la expectativa antes del partido), su clímax (el gol), su desenlace (el pitazo final). Y cuando el árbitro pita, queda esa melancolía de saber que lo vivido no volverá, la misma que se siente después del amor y al fin de cualquier cosa que valió la pena.
 
 El fútbol no es una cuestión de vida o muerte. Es mucho más importante que eso. Es lo que somos cuando olvidamos que estamos siendo observados. Es la única locura que nos devuelve a la infancia, aunque sea por un rato.
-
-La pelota rueda. El mundo rueda.
 
 
 **Fuentes y referencias:**
