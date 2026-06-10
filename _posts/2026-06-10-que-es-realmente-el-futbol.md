@@ -262,7 +262,7 @@ Daniel Wann, psicólogo social que ha estudiado a los hinchas durante décadas, 
 
 Cuando un hincha ve un partido, su cerebro experimenta una cascada de cambios neuroquímicos. Antes del partido, se activa el sistema de recompensa en anticipación al placer que podría venir. Durante el partido, los momentos de tensión liberan adrenalina y cortisol. Un gol libera una descarga masiva de dopamina, el neurotransmisor del placer y la recompensa. Después del partido, si el equipo ganó, hay una sensación de bienestar sostenida. Si perdió, los niveles de dopamina caen bruscamente y el cortisol permanece elevado.
 
-Estudios de neuroimagen han demostrado que la respuesta cerebral del hincha es muy similar a la respuesta emocional ante eventos que le ocurren directamente. Es decir, el cerebro del hincha procesa la victoria o derrota de su equipo como si le hubiera ocurrido a él mismo. Por eso duele tanto. Por eso se celebra tanto.
+Un estudio de la Clínica Alemana de Santiago y la Universidad San Sebastián (Zamorano et al., *Radiology*, 2025) expuso a 61 hinchas a 63 secuencias de goles mientras les tomaba fMRI. Cuando su equipo anotaba contra el archirrival, se activaban el estriado ventral y la corteza prefrontal medial — los mismos circuitos de recompensa que procesan una ganancia personal. Cuando el rival anotaba, se inhibía la corteza cingulada anterior dorsal, la región encargada del control cognitivo. El cerebro del hincha no "ve" el gol: lo experimenta como propio. Y cuanto más fanático es, más extrema es la respuesta.
 
 ### El "mendigo de buen fútbol"
 
@@ -314,4 +314,5 @@ El fútbol no es una cuestión de vida o muerte. Es mucho más importante que es
 - Menotti, César Luis — *Fútbol sin trampa*
 - Orwell, George — "The Sporting Spirit" (1945)
 - Hobsbawm, Eric — *La era del imperio*, *Gente y costumbres*
+- Zamorano, F. et al. — "Brain Mechanisms across the Spectrum of Engagement in Football Fans: A Functional Neuroimaging Study" (*Radiology*, 2025)
 - Investigación propia — research_futbol/ (5 documentos de investigación, junio 2026)
