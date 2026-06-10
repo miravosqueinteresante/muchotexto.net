@@ -288,6 +288,7 @@ En noventa minutos cabe una vida entera — con su prólogo (la expectativa ante
 
 El fútbol no es una cuestión de vida o muerte. Es mucho más importante que eso. Es lo que somos cuando olvidamos que estamos siendo observados. Es la única locura que nos devuelve a la infancia, aunque sea por un rato.
 
+---
 
 **Fuentes y referencias:**
 
@@ -313,5 +314,4 @@ El fútbol no es una cuestión de vida o muerte. Es mucho más importante que es
 - Menotti, César Luis — *Fútbol sin trampa*
 - Orwell, George — "The Sporting Spirit" (1945)
 - Hobsbawm, Eric — *La era del imperio*, *Gente y costumbres*
-- Archivo inspiracional — inspiracion_futbol_mundial2026.md, muchotexto.net
 - Investigación propia — research_futbol/ (5 documentos de investigación, junio 2026)
