@@ -42,6 +42,12 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/muchotextonet-logo.png
+
 include:
   - CNAME
 
