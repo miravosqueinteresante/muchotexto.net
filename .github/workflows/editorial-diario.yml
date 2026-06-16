@@ -12,29 +12,28 @@ jobs:
   editorial:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_MODELS_TOKEN }}
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: Generar Editorial
         env:
           GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          TZ: America/Asuncion
         run: python scripts/editorial_diario.py
 
-      - name: Commit y push
+      - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "Pulso Bot"
           git config user.email "pulso@muchotexto.net"
           git add _posts/
-          if git diff --cached --quiet; then
-            echo "No hay cambios que commitar"
-          else
-            git commit -m "Editorial del día [$(TZ=America/Asuncion date +'%Y-%m-%d')]"
-            git push
-          fi
+          git diff --cached --quiet || git commit -m "Editorial del día [$(TZ=America/Asuncion date +'%Y-%m-%d')]"
+          git push
