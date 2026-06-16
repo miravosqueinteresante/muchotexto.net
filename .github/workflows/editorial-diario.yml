@@ -2,7 +2,7 @@ name: Editorial Diario
 
 on:
   schedule:
-    - cron: '0 21 * * *'   # 21:00 UTC = 19:00 PYT
+    - cron: '0 23 * * *'   # 23:00 UTC = 19:00 PYT (invierno) / 20:00 PYST (verano)
   workflow_dispatch:
 
 permissions:
