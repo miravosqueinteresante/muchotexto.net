@@ -27,6 +27,7 @@ github_username:  miravosqueinteresante
 
 # Build settings
 # Theme files are local (copied from monophase)
+future: true
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
