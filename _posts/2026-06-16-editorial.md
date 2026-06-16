@@ -28,7 +28,7 @@ El futuro de un país se mide, entre otras cosas, por cómo trata a sus niños y
 
 Ante esta crisis, el Paraguay debe preguntarse: ¿qué valor tiene la vida en un país donde las primeras horas de existencia ya son una lucha por sobrevivir? La renuncia de los médicos neonatólogos no es solo un problema del IPS; es un espejo que nos devuelve una imagen de lo que hemos permitido que suceda. Nos habla de una sociedad donde lo urgente siempre desplaza lo importante, donde las soluciones son temporales, los responsables son invisibles y las víctimas son inocentes.
 
-El filósofo paraguayo Helio Vera decía alguna vez que en este suelo abundan los zapallos encimados; un país donde lo accesorio siempre termina ahogando lo fundamental. La crisis del IPS y el escándalo de los gastos del intendente Bello son dos caras de la misma moneda: el uso arbitrario, irresponsable y, muchas veces, inmoral de los recursos que pertenecen al pueblo.
+La crisis del IPS y el escándalo de los gastos del intendente Bello son dos caras de la misma moneda: el uso arbitrario, irresponsable y, muchas veces, inmoral de los recursos que pertenecen al pueblo.
 
 ## Un llamado a la acción
 
