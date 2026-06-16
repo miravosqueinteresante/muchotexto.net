@@ -5,6 +5,9 @@ on:
     - cron: '0 21 * * *'   # 21:00 UTC = 19:00 PYT
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   editorial:
     runs-on: ubuntu-latest
