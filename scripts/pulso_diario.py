@@ -144,7 +144,7 @@ Generá el reporte "Pulso Diario Paraguay" para hoy ({dia} {fecha}) en el format
 
 INSTRUCCIONES:
 1. Analizá las noticias reales listadas abajo (extraídas de RSS de medios paraguayos hoy).
-2. NO inventes hechos ni cifras. Si no hay datos sobre una categoría, omitila.
+2. NO inventes hechos, cifras ni nombres de personas. Los nombres propios deben preservarse EXACTAMENTE como aparecen en las noticias RSS. Si no estás 100% seguro del nombre de una persona, omití el nombre y referite al cargo ("el intendente", "el ministro", etc.).
 3. La temperatura social debe justificarse con datos de volumen y sentimiento estimado.
 4. El Insight del Día es la sección más importante: conectá los temas y proponé una lectura de fondo.
 5. El TEMA #1 debe ser el que más volumen de conversación generó según las noticias disponibles.

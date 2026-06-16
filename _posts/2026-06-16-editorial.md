@@ -18,7 +18,7 @@ La renuncia de los médicos neonatólogos no es un hecho aislado ni una casualid
 
 ## Las prioridades extraviadas
 
-Mientras los médicos alzan su voz por un sistema sanitario en peligro de colapso, otro informe del día pone en evidencia las prioridades de una clase política desconectada de la realidad. César "Lalo" Bello, el intendente de Asunción, ha gastado más en bonificaciones para funcionarios que en obras públicas durante el primer cuatrimestre del año. Este dato no es solo un desliz administrativo; es un reflejo de cómo la gestión del poder en Paraguay se ha convertido, en muchos casos, en un fin en sí mismo, más orientado a fortalecer alianzas internas que a transformar la vida de quienes más lo necesitan.
+Mientras los médicos alzan su voz por un sistema sanitario en peligro de colapso, otro informe del día pone en evidencia las prioridades de una clase política desconectada de la realidad. Luis Bello, el intendente de Asunción, ha gastado más en bonificaciones para funcionarios que en obras públicas durante el primer cuatrimestre del año. Este dato no es solo un desliz administrativo; es un reflejo de cómo la gestión del poder en Paraguay se ha convertido, en muchos casos, en un fin en sí mismo, más orientado a fortalecer alianzas internas que a transformar la vida de quienes más lo necesitan.
 
 El antagonismo no podría ser más claro: mientras en la capital se despilfarran los recursos en premios internos, en los hospitales los médicos renuncian porque no tienen las herramientas básicas para cumplir su juramento hipocrático. Esta desconexión entre la política y las necesidades del pueblo no es nueva, pero cada nuevo capítulo de este drama resulta más insultante.
 

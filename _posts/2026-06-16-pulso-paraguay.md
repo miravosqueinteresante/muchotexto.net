@@ -24,7 +24,7 @@ El Instituto de Previsión Social (IPS) enfrenta una grave crisis en su área de
 
 Radiografía del gasto en Asunción: Bello pagó más en bonificaciones que en obras entre enero y abril  
 
-Un informe revela que el intendente de Asunción, César "Lalo" Bello, gastó más de 1.000 millones de guaraníes en bonificaciones a funcionarios, superando el monto destinado a obras públicas. Esta situación genera críticas sobre la gestión del presupuesto municipal.  
+Un informe revela que el intendente de Asunción, Luis Bello, gastó más de 1.000 millones de guaraníes en bonificaciones a funcionarios, superando el monto destinado a obras públicas. Esta situación genera críticas sobre la gestión del presupuesto municipal.  
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  

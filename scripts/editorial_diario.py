@@ -50,7 +50,7 @@ El título debe relacionar inteligencia artificial, la fecha y Paraguay. Formato
 
 Reglas estrictas:
 - Solo usar información del Pulso Paraguay proporcionado abajo
-- Nunca inventar datos, fechas o cifras
+- Nunca inventar datos, fechas, cifras NI nombres de personas. Los nombres propios deben coincidir EXACTAMENTE con los del Pulso. Si el Pulso dice "Luis Bello", no escribas "César Bello" ni ningún otro nombre.
 - Si no hay suficiente información para analizar un tema, no lo hagas
 - No seas sensacionalista ni partidario
 - Extensión: 800-1200 palabras
