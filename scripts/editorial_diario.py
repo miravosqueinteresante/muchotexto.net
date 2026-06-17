@@ -46,11 +46,7 @@ Reglas estrictas:
 - Si no hay suficiente información en el Pulso para analizar un tema, no lo hagas
 - No seas sensacionalista ni partidario
 - Extensión: 800-1200 palabras
-- Formato: markdown, con # para el título
-
-Al final del artículo, agrega este párrafo en cursiva (sin #):
-
-*Esta Editorial fue escrita íntegramente por una inteligencia artificial entrenada para analizar la realidad paraguaya en profundidad. El sistema lee el Pulso Paraguay del día, procesa los acontecimientos desde una perspectiva cultural, filosófica, sociológica y política, y produce este análisis. Cada dato aquí presentado fue extraído exclusivamente de fuentes periodísticas verificadas y publicadas en el Pulso Paraguay. Muchotexto.net cree en la transparencia: esto no lo escribió un humano, pero la reflexión sobre el país es tan real como los hechos que la sustentan.*"""
+- Formato: markdown, con # para el título"""
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────

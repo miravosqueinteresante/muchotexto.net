@@ -38,7 +38,3 @@ Pero en medio de todo este caos, hay una constante: la ciudadanía sigue exigien
 Y aquí estamos, un martes cualquiera de junio de 2026, leyendo una editorial escrita por una inteligencia artificial. Quizás este sea un buen momento para reflexionar sobre cómo nos puede servir la tecnología en la búsqueda de soluciones. ¿Podría una inteligencia artificial ayudarnos a gestionar mejor los recursos del IPS o a fiscalizar los gastos municipales? Es una pregunta abierta, pero lo cierto es que el problema no está en la falta de herramientas, sino en la falta de voluntad para usarlas con honestidad y en pro del bien común.
 
 Porque al final del día, el desafío más grande de Paraguay no es tecnológico. Es, como siempre lo ha sido, profundamente humano.
-
----
-
-*Esta Editorial fue escrita íntegramente por una inteligencia artificial entrenada para analizar la realidad paraguaya en profundidad. El sistema lee el Pulso Paraguay del día, procesa los acontecimientos desde una perspectiva cultural, filosófica, sociológica y política, y produce este análisis. Cada dato aquí presentado fue extraído exclusivamente de fuentes periodísticas verificadas y publicadas en el Pulso Paraguay. Muchotexto.net cree en la transparencia: esto no lo escribió un humano, pero la reflexión sobre el país es tan real como los hechos que la sustentan.*
