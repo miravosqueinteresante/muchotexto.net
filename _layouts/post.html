@@ -107,39 +107,22 @@ layout: default
 <aside class="related">
   <h2 class="related-title">Continuar leyendo</h2>
   <ul class="related-posts">
-    {% assign shown = 0 %}
-    {% for post in site.posts %}
-      {% if post.url != page.url and shown < 3 %}
-        {% assign hasTag = false %}
-        {% for tag in page.tags %}
-          {% if post.tags contains tag %}
-            {% assign hasTag = true %}
-          {% endif %}
-        {% endfor %}
-        {% if hasTag %}
-          <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </li>
-          {% assign shown = shown | plus: 1 %}
-        {% endif %}
-      {% endif %}
+    {% assign cat = page.categories[0] %}
+    {% assign same_cat = site.posts | where_exp:"p", "p.categories[0] == cat" | where_exp:"p", "p.url != page.url" %}
+    {% assign other_posts = site.posts | where_exp:"p", "p.categories[0] != cat" %}
+    {% for post in same_cat limit:3 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+      </li>
     {% endfor %}
-    {% if shown < 3 %}
-      {% for post in site.posts limit:6 %}
-        {% if post.url != page.url and shown < 3 %}
-          {% assign alreadyTagged = false %}
-          {% for tag in page.tags %}
-            {% if post.tags contains tag %}{% assign alreadyTagged = true %}{% endif %}
-          {% endfor %}
-          {% unless alreadyTagged %}
-            <li>
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-            </li>
-            {% assign shown = shown | plus: 1 %}
-          {% endunless %}
-        {% endif %}
+    {% assign remaining = 3 | minus: same_cat.size %}
+    {% if remaining > 0 %}
+      {% for post in other_posts limit:remaining %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+        </li>
       {% endfor %}
     {% endif %}
   </ul>
