@@ -104,46 +104,46 @@ layout: default
   {% endif %}
 </article>
 
-{% if site.related_posts != empty %}
-  <aside class="related">
-    <h2 class="related-title">Continuar leyendo</h2>
-    <ul class="related-posts">
-      {% assign related = site.posts | where_exp:"post", "post.url != page.url" %}
-      {% assign maxRelated = 0 %}
-      {% for post in related %}
-        {% assign commonTags = post.tags | intersect: page.tags | size %}
-        {% if commonTags > 0 and maxRelated < 3 %}
+<aside class="related">
+  <h2 class="related-title">Continuar leyendo</h2>
+  <ul class="related-posts">
+    {% assign shown = 0 %}
+    {% for post in site.posts %}
+      {% if post.url != page.url and shown < 3 %}
+        {% assign hasTag = false %}
+        {% for tag in page.tags %}
+          {% if post.tags contains tag %}
+            {% assign hasTag = true %}
+          {% endif %}
+        {% endfor %}
+        {% if hasTag %}
           <li>
-            <a href="{{ post.url | relative_url }}">
-              {{ post.title }}
-            </a>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
           </li>
-          {% assign maxRelated = maxRelated | plus: 1 %}
+          {% assign shown = shown | plus: 1 %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if shown < 3 %}
+      {% for post in site.posts limit:6 %}
+        {% if post.url != page.url and shown < 3 %}
+          {% assign alreadyTagged = false %}
+          {% for tag in page.tags %}
+            {% if post.tags contains tag %}{% assign alreadyTagged = true %}{% endif %}
+          {% endfor %}
+          {% unless alreadyTagged %}
+            <li>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+            </li>
+            {% assign shown = shown | plus: 1 %}
+          {% endunless %}
         {% endif %}
       {% endfor %}
-      {% if maxRelated < 3 %}
-        {% for post in related limit:3 %}
-          {% assign alreadyShown = false %}
-          {% for r in post.tags %}
-            {% if page.tags contains r %}{% assign alreadyShown = true %}{% endif %}
-          {% endfor %}
-          {% unless alreadyShown %}
-            {% if maxRelated < 3 %}
-              <li>
-                <a href="{{ post.url | relative_url }}">
-                  {{ post.title }}
-                </a>
-                <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-              </li>
-              {% assign maxRelated = maxRelated | plus: 1 %}
-            {% endif %}
-          {% endunless %}
-        {% endfor %}
-      {% endif %}
-    </ul>
-  </aside>
-{% endif %}
+    {% endif %}
+  </ul>
+</aside>
 
 {% if page.previous or page.next %}
   <nav class="post-nav">
