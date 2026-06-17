@@ -130,6 +130,7 @@ def parse_rss(xml_text: str, source_name: str, max_items: int = 10):
 
 def collect_news():
     all_items = []
+    sources_used = set()
     for name, url in RSS_FEEDS:
         log.info("Fetching RSS: %s", name)
         xml_text = fetch_url(url)
@@ -137,11 +138,13 @@ def collect_news():
             items = parse_rss(xml_text, name)
             log.info("  → %d items from %s", len(items), name)
             all_items.extend(items)
+            if items:
+                sources_used.add(name)
         else:
             log.warning("  → No data from %s", name)
-    return all_items
+    return all_items, sorted(sources_used)
 
-def build_prompt(news_items: list) -> str:
+def build_prompt(news_items: list, sources_used: list) -> str:
     now = now_py()
     fecha = fmt_fecha(now)
     dias = ["LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES", "SÁBADO", "DOMINGO"]
@@ -170,6 +173,7 @@ INSTRUCCIONES:
 7. Sin opiniones personales del agente — solo síntesis de lo que circula.
 8. NO uses formato markdown como **negritas** o *cursiva* — solo texto plano.
 9. Cada categoría (🏛💰⚽🎭🚨🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
+10. La sección 🔎 FUENTES CONSULTADAS HOY debe listar EXACTAMENTE los medios que aparecen en la línea "FUENTES CONSULTADAS HOY" más abajo. NO agregues ni quites fuentes. Copiala textual.
 
 FORMATO EXACTO DEL REPORTE (respetá esta estructura):
 
@@ -288,7 +292,7 @@ detrás de la conversación del día.]
 
 🔎 FUENTES CONSULTADAS HOY
 
-[Lista de medios usados]
+{', '.join(sources_used)}
 
 DATOS PARA ANALIZAR (NOTICIAS REALES DE HOY):
 {context}
@@ -382,14 +386,14 @@ def main():
     log.info("=" * 50)
 
     log.info("Fase 1/3: Recolectando noticias vía RSS...")
-    news = collect_news()
-    log.info("→ %d noticias recolectadas", len(news))
+    news, sources = collect_news()
+    log.info("→ %d noticias recolectadas de %d fuentes", len(news), len(sources))
 
     if len(news) < 5:
         log.warning("Muy pocas noticias (%d). El reporte puede ser limitado.", len(news))
 
     log.info("Fase 2/3: Generando reporte con GitHub Models (%s)...", GH_MODEL)
-    prompt = build_prompt(news)
+    prompt = build_prompt(news, sources)
     report = call_github_models(prompt)
 
     if not report:
