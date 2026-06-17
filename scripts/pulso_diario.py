@@ -11,6 +11,7 @@ import json
 import hashlib
 import logging
 import re
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree
 from urllib.request import Request, urlopen
@@ -47,6 +48,13 @@ def make_meta_description(content: str, max_len: int = 155) -> str:
     if len(plain) <= max_len:
         return plain
     return plain[:plain.rfind(" ", 0, max_len)] + "..."
+
+def slugify(text: str, max_len: int = 50) -> str:
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9\s-]", "", text)
+    text = re.sub(r"[\s-]+", "-", text).strip("-")[:max_len].rstrip("-")
+    return text
 
 RSS_FEEDS = [
     ("ABC Color", "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"),
@@ -328,18 +336,14 @@ def save_post(content: str):
     date_str = now.strftime("%Y-%m-%d")
 
     topic_match = re.search(r"🌡\s*TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
-    topic_slug = None
-    topic_title = None
-    if topic_match:
-        raw = topic_match.group(1).strip()
-        topic_title = raw
-        topic_slug = raw.lower()
-        topic_slug = re.sub(r"[^a-záéíóúñü0-9\s-]", "", topic_slug)
-        topic_slug = re.sub(r"[\s-]+", "-", topic_slug).strip("-")[:50].rstrip("-")
+    if not topic_match:
+        topic_match = re.search(r"TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
 
-    if topic_slug:
+    if topic_match:
+        topic = topic_match.group(1).strip()
+        topic_slug = slugify(topic)
         slug = f"{date_str}-{topic_slug}-pulso-paraguay"
-        title = f"Pulso Paraguay: {topic_title} — {fmt_fecha(now)}"
+        title = f"Pulso Paraguay: {topic} — {fmt_fecha(now)}"
     else:
         slug = f"{date_str}-pulso-paraguay"
         title = f"Pulso Paraguay — {fmt_fecha(now)}"

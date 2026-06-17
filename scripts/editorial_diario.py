@@ -10,6 +10,7 @@ import sys
 import re
 import json
 import logging
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from urllib.request import Request, urlopen
 
@@ -115,10 +116,10 @@ def call_github_models(pulso_content: str) -> str | None:
 
 
 def make_slug(text: str) -> str:
-    slug = text.lower()
-    slug = re.sub(r"[^a-záéíóúñü0-9\s-]", "", slug)
-    slug = re.sub(r"[\s-]+", "-", slug).strip("-")
-    slug = slug[:60].rstrip("-")
+    slug = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
+    slug = slug.lower()
+    slug = re.sub(r"[^a-z0-9\s-]", "", slug)
+    slug = re.sub(r"[\s-]+", "-", slug).strip("-")[:60].rstrip("-")
     return slug
 
 
