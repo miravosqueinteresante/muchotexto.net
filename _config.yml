@@ -29,6 +29,8 @@ github_username:  miravosqueinteresante
 # Theme files are local (copied from monophase)
 future: true
 permalink: pretty
+sass:
+  style: compressed
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2

@@ -60,7 +60,7 @@ layout: default
     {% if page.categories.size > 0 %}
       <span> • </span>
       <span class="post-categories-section">
-        <i class="post-categories-icon fas fa-folder"></i>
+        <i class="post-categories-icon">{% include icon.html name='folder' %}</i>
         <ul class="post-categories">
           {%- for category in page.categories -%}
             <li>
@@ -78,7 +78,7 @@ layout: default
     {% if page.tags.size > 0 %}
       <span> • </span>
       <span class="post-tags-section">
-        <i class="post-tags-icon fas fa-tag"></i>
+        <i class="post-tags-icon">{% include icon.html name='tag' %}</i>
         <ul class="post-tags">
           {%- for tag in page.tags -%}
             <li>

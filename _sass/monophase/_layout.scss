@@ -539,3 +539,12 @@ a.pagination-item:hover {
 .post-crosslink a {
   color: var(--link-color);
 }
+
+/**
+ * Inline SVG icons
+ */
+
+.icon {
+  vertical-align: middle;
+  display: inline-block;
+}

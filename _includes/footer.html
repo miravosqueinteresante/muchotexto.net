@@ -22,8 +22,9 @@
       <ul class="social-icons">
         {% for social in site.data.social %}
           <li class="social-icon-item">
-            <a class="social-icon" href="{{ social.url }}" target="_blank" rel="noopener noreferrer">
-              <i class="{{ social.icon | default: 'fas fa-link' }}" title="{{ social.title }}"></i>
+            <a class="social-icon" href="{{ social.url }}" target="_blank" rel="noopener noreferrer" title="{{ social.title }}">
+              {% assign icon_name = social.icon | replace: 'fab fa-', '' | default: 'link' %}
+              {% include icon.html name=icon_name %}
             </a>
           </li>
         {% endfor %}
