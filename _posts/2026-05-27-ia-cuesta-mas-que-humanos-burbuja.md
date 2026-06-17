@@ -161,41 +161,41 @@ La tecnología no necesita ser una burbuja para ser una mala inversión para un 
 ## Fuentes
 
 1. **The Information** — Uber CTO confirma agotamiento de presupuesto IA 2026 (abril 2026): reportaje original (detrás de paywall)
-**Fortune** – ["Nvidia executive: The cost of AI tools is far beyond the cost of human workers"](https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/) (28 abril 2026)
+2. **Fortune** — "Nvidia executive: The cost of AI tools is far beyond the cost of human workers" (28 abril 2026): https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/
 3. **Axios** — Entrevista original a Bryan Catanzaro, NVIDIA VP (abril 2026)
 4. **Reuters** — "Starbucks scraps AI inventory tool across North America" (21 mayo 2026): reportaje original
-**CNBC** – ["Starbucks scraps AI inventory tool across North America"](https://www.cnbc.com/2026/05/21/starbucks-scraps-ai-inventory-tool-across-north-america.html) (21 mayo 2026)
+5. **CNBC** — "Starbucks scraps AI inventory tool across North America" (21 mayo 2026): https://www.cnbc.com/2026/05/21/starbucks-scraps-ai-inventory-tool-across-north-america.html
 6. **Windows Central** — Microsoft cancelling Claude Code licences (mayo 2026): reportaje original
 7. **The Verge** — Cobertura de Microsoft y declaraciones Andrew Macdonald (Uber)
-**GitHub Blog** – ["GitHub Copilot is moving to usage-based billing"](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/) (27 abril 2026)
-**GitHub Blog** – ["Changes to GitHub Copilot Individual plans"](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/) (20 abril 2026)
-**The Register** – ["Microsoft's GitHub shifts to metered AI billing"](https://www.theregister.com/2026/04/28/microsofts-github-shifts-to-metered-ai-billing/) (28 abril 2026)
-**The Register** – ["AI customer service bots get rolled back at 74% of firms"](https://www.theregister.com/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/) (13 mayo 2026)
-**The Next Web** – ["Microsoft's quiet Claude Code retreat and the real cost of enterprise AI"](https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost) (25 mayo 2026)
-**Forbes** – ["The CEO AI Confidence Gap Is Costing Enterprises Billions"](https://www.forbes.com/sites/josipamajic/2026/05/25/the-ceo-ai-confidence-gap-is-costing-enterprises-billions/) (25 mayo 2026)
-**Fair Play Talks** – ["Seven in 10 Companies Could Slash AI Budgets as ROI Disappoints"](https://www.fairplaytalks.com/2026/05/20/seven-in-10-companies-could-slash-ai-budgets-as-roi-disappoints-report-finds/) (20 mayo 2026)
-**CNBC** – ["AI spending expected to top $1 trillion in 2 years"](https://www.cnbc.com/2026/05/21/ai-spending-expected-to-top-1-trillion-in-2-years-why-that-estimate-may-be-too-low.html) (21 mayo 2026)
-**CNBC** – ["AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027"](https://www.cnbc.com/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html) (30 abril 2026)
-**Gartner** – ["Worldwide AI Spending Will Total $2.5 Trillion in 2026"](https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026) (15 enero 2026)
-**OfficeChai** – ["How Uber, Microsoft, Klarna and Others Are Pulling Back From AI"](https://officechai.com/ai/how-uber-microsoft-klarna-and-others-are-pulling-back-from-ai/) (27 mayo 2026)
-**BNamericas** – ["Paraguay's multimillion AI data center surge: LatAm's new frontier?"](https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier) (abril 2026)
-**BNamericas** – ["My goal is to reach 5GW of AI, says X8 Cloud"](https://www.bnamericas.com/en/interviews/my-goal-is-to-reach-5gw-of-ai-says-x8-cloud-about-mega-project-in-paraguay) (septiembre 2025)
-**ABC Color** – ["Centro de datos soberano con Taiwán: inversión de US$ 40.000 millones"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 mayo 2026)
-**ABC Color** – ["Solo cuatro criptomineras consumen más que una turbina de Itaipú"](https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/) (16 marzo 2026)
-**ABC Color** – ["Senado pide informe urgente a la ANDE sobre crisis eléctrica"](https://www.abc.com.py/economia/2025/04/24/senado-pide-informe-urgente-a-la-ande-sobre-crisis-electrica-pronosticada-para-el-2029/) (24 abril 2025)
-**Asunción Times** – ["AI Data Centre Paraguay: biggest-ever foreign investment"](https://asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/) (diciembre 2025)
-**Startup Fortune** – ["Uber Burned Its Entire 2026 AI Budget in Four Months"](https://startupfortune.com/uber-burned-its-entire-2026-ai-budget-in-four-months-and-claude-code-is-why-finance-teams-should-be-worried/) (2 mayo 2026)
-**Startup Fortune** – ["An Nvidia VP Just Said AI Costs More Than the People It's Supposed to Replace"](https://startupfortune.com/an-nvidia-vp-just-said-ai-costs-more-than-the-people-its-supposed-to-replace-and-every-founder-selling-labor-replacement-should-read-that-carefully/) (4 mayo 2026)
-**Tom's Hardware** – ["Nvidia exec says AI is more expensive than actual workers"](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-exec-says-ai-is-more-expensive-than-actual-workers-yet-some-companies-dont-see-the-extra-costs-as-a-negative) (29 abril 2026)
-**Agencia IP** – ["Con alianzas claves, Paraguay se posiciona como jugador relevante en la industria IA"](https://www.ip.gov.py/ip/2026/03/19/con-alianzas-claves-paraguay-se-posiciona-como-jugador-relevante-en-la-industria-de-la-inteligencia-artificial/) (marzo 2026)
-**The Street** – ["Starbucks investors get tough-luck news on AI inventory bet"](https://www.thestreet.com/restaurants/starbucks-investors-get-tough-luck-news-on-ai-inventory-bet) (24 mayo 2026)
-**Cryptobriefing** – ["Uber questions AI spending effectiveness as budget runs dry"](https://cryptobriefing.com/uber-questions-ai-spending-effectiveness/) (26 mayo 2026)
-**A.L. Capital Advisory** – ["AI Capex Cycle 2026: $725B Hyperscaler Buildout — CFA Analysis"](https://alcapitaladvisory.com/research/intelligence/ai-infrastructure.html) (enero 2026)
-**Benson Kong** – ["The AI Capex Supercycle: $725 Billion, Bottlenecks Everywhere"](https://bkobog.substack.com/p/the-ai-capex-supercycle-725-billion) (mayo 2026)
+8. **GitHub Blog** — "GitHub Copilot is moving to usage-based billing" (27 abril 2026): https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/
+9. **GitHub Blog** — "Changes to GitHub Copilot Individual plans" (20 abril 2026): https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/
+10. **The Register** — "Microsoft's GitHub shifts to metered AI billing" (28 abril 2026): https://www.theregister.com/2026/04/28/microsofts-github-shifts-to-metered-ai-billing/
+11. **The Register** — "AI customer service bots get rolled back at 74% of firms" (13 mayo 2026): https://www.theregister.com/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/
+12. **The Next Web** — "Microsoft's quiet Claude Code retreat and the real cost of enterprise AI" (25 mayo 2026): https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost
+13. **Forbes** — "The CEO AI Confidence Gap Is Costing Enterprises Billions" (25 mayo 2026): https://www.forbes.com/sites/josipamajic/2026/05/25/the-ceo-ai-confidence-gap-is-costing-enterprises-billions/
+14. **Fair Play Talks** — "Seven in 10 Companies Could Slash AI Budgets as ROI Disappoints" (20 mayo 2026): https://www.fairplaytalks.com/2026/05/20/seven-in-10-companies-could-slash-ai-budgets-as-roi-disappoints-report-finds/
+15. **CNBC** — "AI spending expected to top $1 trillion in 2 years" (21 mayo 2026): https://www.cnbc.com/2026/05/21/ai-spending-expected-to-top-1-trillion-in-2-years-why-that-estimate-may-be-too-low.html
+16. **CNBC** — "AI boom: Big Tech capital expenditures now seen topping $1 trillion in 2027" (30 abril 2026): https://www.cnbc.com/2026/04/30/ai-boom-big-tech-capital-expenditures-now-seen-topping-1-trillion-in-2027-.html
+17. **Gartner** — "Worldwide AI Spending Will Total $2.5 Trillion in 2026" (15 enero 2026): https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026
+18. **OfficeChai** — "How Uber, Microsoft, Klarna and Others Are Pulling Back From AI" (27 mayo 2026): https://officechai.com/ai/how-uber-microsoft-klarna-and-others-are-pulling-back-from-ai/
+19. **BNamericas** — "Paraguay's multimillion AI data center surge: LatAm's new frontier?" (abril 2026): https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier
+20. **BNamericas** — "My goal is to reach 5GW of AI, says X8 Cloud" (septiembre 2025): https://www.bnamericas.com/en/interviews/my-goal-is-to-reach-5gw-of-ai-says-x8-cloud-about-mega-project-in-paraguay
+21. **ABC Color** — "Centro de datos soberano con Taiwán: inversión de US$ 40.000 millones" (13 mayo 2026): https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/
+22. **ABC Color** — "Solo cuatro criptomineras consumen más que una turbina de Itaipú" (16 marzo 2026): https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/
+23. **ABC Color** — "Senado pide informe urgente a la ANDE sobre crisis eléctrica" (24 abril 2025): https://www.abc.com.py/economia/2025/04/24/senado-pide-informe-urgente-a-la-ande-sobre-crisis-electrica-pronosticada-para-el-2029/
+24. **Asunción Times** — "AI Data Centre Paraguay: biggest-ever foreign investment" (diciembre 2025): https://asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/
+25. **Startup Fortune** — "Uber Burned Its Entire 2026 AI Budget in Four Months" (2 mayo 2026): https://startupfortune.com/uber-burned-its-entire-2026-ai-budget-in-four-months-and-claude-code-is-why-finance-teams-should-be-worried/
+26. **Startup Fortune** — "An Nvidia VP Just Said AI Costs More Than the People It's Supposed to Replace" (4 mayo 2026): https://startupfortune.com/an-nvidia-vp-just-said-ai-costs-more-than-the-people-its-supposed-to-replace-and-every-founder-selling-labor-replacement-should-read-that-carefully/
+27. **Tom's Hardware** — "Nvidia exec says AI is more expensive than actual workers" (29 abril 2026): https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-exec-says-ai-is-more-expensive-than-actual-workers-yet-some-companies-dont-see-the-extra-costs-as-a-negative
+28. **Agencia IP** — "Con alianzas claves, Paraguay se posiciona como jugador relevante en la industria IA" (marzo 2026): https://www.ip.gov.py/ip/2026/03/19/con-alianzas-claves-paraguay-se-posiciona-como-jugador-relevante-en-la-industria-de-la-inteligencia-artificial/
+29. **The Street** — "Starbucks investors get tough-luck news on AI inventory bet" (24 mayo 2026): https://www.thestreet.com/restaurants/starbucks-investors-get-tough-luck-news-on-ai-inventory-bet
+30. **Cryptobriefing** — "Uber questions AI spending effectiveness as budget runs dry" (26 mayo 2026): https://cryptobriefing.com/uber-questions-ai-spending-effectiveness/
+31. **A.L. Capital Advisory** — "AI Capex Cycle 2026: $725B Hyperscaler Buildout — CFA Analysis" (enero 2026): https://alcapitaladvisory.com/research/intelligence/ai-infrastructure.html
+32. **Benson Kong** — "The AI Capex Supercycle: $725 Billion, Bottlenecks Everywhere" (mayo 2026): https://bkobog.substack.com/p/the-ai-capex-supercycle-725-billion
 33. **Channel NewsAsia** — Jensen Huang entrevista (mayo 2026): citado en Financial Express
 34. **MIT Technology Review** — Economic viability of AI automation study (2024)
 35. **S&P Global Market Intelligence** — AI initiative abandonment rates (2025-2026)
 36. **RAND Corporation** — AI project failure rates vs. non-AI projects
-**TechTimes** – ["Starbucks Retires NomadGo Inventory AI Across 11,000 Stores"](https://www.techtimes.com/articles/317058/20260523/starbucks-retires-nomadgo-inventory-ai-across-11000-stores-workers-had-recount-every-scan.htm) (23 mayo 2026)
-**Gartner** – ["Cost of LLM Inference Will Drop Over 90% by 2030"](https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025) (25 marzo 2026)
-**PRNewswire / Sinch** – ["Sinch research reveals 74% of enterprises have rolled back live AI customer communications agents"](https://www.prnewswire.com/news-releases/sinch-research-reveals-74-of-enterprises-have-rolled-back-live-ai-customer-communications-agents-302770750.html) (13 mayo 2026)
+37. **TechTimes** — "Starbucks Retires NomadGo Inventory AI Across 11,000 Stores" (23 mayo 2026): https://www.techtimes.com/articles/317058/20260523/starbucks-retires-nomadgo-inventory-ai-across-11000-stores-workers-had-recount-every-scan.htm
+38. **Gartner** — "Cost of LLM Inference Will Drop Over 90% by 2030" (25 marzo 2026): https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025
+39. **PRNewswire / Sinch** — "Sinch research reveals 74% of enterprises have rolled back live AI customer communications agents" (13 mayo 2026): https://www.prnewswire.com/news-releases/sinch-research-reveals-74-of-enterprises-have-rolled-back-live-ai-customer-communications-agents-302770750.html

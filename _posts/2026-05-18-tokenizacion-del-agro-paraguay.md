@@ -171,20 +171,20 @@ La Ley 7572/2025 no dice nada de eso. Y lo que una ley no dice es tan importante
 
 ## Fuentes
 
-**ABC Color** – ["Paraguay abre las puertas para la tokenización del agro"](https://www.abc.com.py/negocios/abc-campo/2026/05/16/paraguay-abre-las-puertas-para-la-tokenizacion-del-agro/) (16 May 2026)
+1. **ABC Color** — "Paraguay abre las puertas para la tokenización del agro" (16 May 2026): https://www.abc.com.py/negocios/abc-campo/2026/05/16/paraguay-abre-las-puertas-para-la-tokenizacion-del-agro/
 2. **BACN** — Ley N.° 7572/2025 del Mercado de Valores y Productos (PDF): https://www.bacn.gov.py/leyes-paraguayas/12910/ley-n-75722025-mercado-de-valores-y-productos
-**Forbes Argentina** – ["Agrotoken levanta USD 12,5 millones"](https://www.forbesargentina.com/negocios/agrotoken-levanta-us-125-millones-seguir-tokenizando-granos-region-n46003) (2024)
-**Forbes Brazil** – ["Os novos reis do agro argentino: como a Agrotoken quer tokenizar o Brasil"](https://www.forbes.com.br/forbesagro/2024/01/os-novos-reis-do-agro-argentino-como-a-agrotoken-quer-tokenizar-o-brasil/) (Jan 2024)
+3. **Forbes Argentina** — "Agrotoken levanta USD 12,5 millones" (2024): https://www.forbesargentina.com/negocios/agrotoken-levanta-us-125-millones-seguir-tokenizando-granos-region-n46003
+4. **Forbes Brazil** — "Os novos reis do agro argentino: como a Agrotoken quer tokenizar o Brasil" (Jan 2024): https://www.forbes.com.br/forbesagro/2024/01/os-novos-reis-do-agro-argentino-como-a-agrotoken-quer-tokenizar-o-brasil/
 5. **RWA.xyz** — JSOY token data: https://app.rwa.xyz/assets/JSOY
 6. **FINMA** — First DLT trading facility license (Mar 2025): https://www.finma.ch/en/news/2025/03/20250318-mm-dlt-handelssystem/
-**CoinTelegraph** – ["Farmway tokenizes $100M Georgia almond orchards"](https://cointelegraph.com/news/farmway-100m-tokenize-georgia-almond-orchards) (2025)
+7. **CoinTelegraph** — "Farmway tokenizes $100M Georgia almond orchards" (2025): https://cointelegraph.com/news/farmway-100m-tokenize-georgia-almond-orchards
 8. **CoinTelegraph** — "CertiK RWA Security Report 2025": https://cointelegraph.com/news/rwa-tokenization-suffers-increase-hacks
 9. **Olympix** — "90% of exploited smart contracts were audited" (2026)
 10. **CriptoNoticias** — "Detenido en México promotor de criptomoneda Agrocoin": https://www.criptonoticias.com/seguridad-bitcoin/detenido-mexico-promotor-criptomoneda-agrocoin
-**IAPP** – ["Paraguay da un paso hacia un marco moderno de protección de la privacidad"](https://iapp.org/news/a/paraguay-da-un-paso-hacia-un-marco-moderno-de-protecci-n-de-la-privacidad) (Dec 2025)
-**Ferrere Abogados** – ["Paraguay adopta su Ley de Protección de Datos Personales"](https://www.ferrere.com/es/novedades/paraguay-adopta-su-ley-de-proteccion-de-datos-personales) (Nov 2025)
-**IDB** – ["Paraguay will improve security of land ownership with IDB support"](https://www.iadb.org/en/news/paraguay-will-improve-security-land-ownership-idb-support) (PR-L1061)
-**Asunción Times** – ["Unified National Registry of Paraguay replaces 150 years of paper records"](https://asunciontimes.com/paraguay-news/national-news/unified-national-registry-of-paraguay-replaces-150-years-of-paper-records/) (Jan 2026)
+11. **IAPP** — "Paraguay da un paso hacia un marco moderno de protección de la privacidad" (Dec 2025): https://iapp.org/news/a/paraguay-da-un-paso-hacia-un-marco-moderno-de-protecci-n-de-la-privacidad
+12. **Ferrere Abogados** — "Paraguay adopta su Ley de Protección de Datos Personales" (Nov 2025): https://www.ferrere.com/es/novedades/paraguay-adopta-su-ley-de-proteccion-de-datos-personales
+13. **IDB** — "Paraguay will improve security of land ownership with IDB support" (PR-L1061): https://www.iadb.org/en/news/paraguay-will-improve-security-land-ownership-idb-support
+14. **Asunción Times** — "Unified National Registry of Paraguay replaces 150 years of paper records" (Jan 2026): https://asunciontimes.com/paraguay-news/national-news/unified-national-registry-of-paraguay-replaces-150-years-of-paper-records/
 15. **World Bank** — Global Findex 2025: https://www.worldbank.org/en/publication/globalfindex
 16. **Internet Society** — Paraguay Pulse Report 2024: https://pulse.internetsociety.org/en/reports/PY/
 17. **BCP** — Indicadores financieros noviembre 2025: https://www.bcp.gov.py/web/institucional/w/indicadores-financieros-noviembre-2025
