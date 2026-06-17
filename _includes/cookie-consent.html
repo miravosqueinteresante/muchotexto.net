@@ -27,4 +27,6 @@
   </div>
 </div>
 
-<script src="{{ '/assets/js/cookie-consent.js' | relative_url }}"></script>
+<script>
+(function(){var a="muchotexto_cookie_consent";function b(){return localStorage.getItem(a)}function c(d){localStorage.setItem(a,d)}function e(){var f=document.getElementById("cookie-banner");if(f)f.style.display="none"}function g(h){typeof gtag=="function"&&gtag("consent","update",{analytics_storage:h?"granted":"denied"})}var i=b();if(i==="accepted"){e();g(true)}else if(i==="rejected"){e();g(false)}else{document.addEventListener("DOMContentLoaded",function(){var j=document.getElementById("cookie-banner");if(j)j.style.display="block";document.getElementById("cookie-accept").addEventListener("click",function(){c("accepted");e();g(true)});document.getElementById("cookie-reject").addEventListener("click",function(){c("rejected");e();g(false)})})}})();
+</script>
