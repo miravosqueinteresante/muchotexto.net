@@ -58,13 +58,11 @@ def slugify(text: str, max_len: int = 50) -> str:
 
 RSS_FEEDS = [
     ("ABC Color", "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"),
-    ("ABC Policiales", "https://www.abc.com.py/arc/outboundfeeds/rss/policiales/"),
+    ("ABC Ciencia", "https://www.abc.com.py/arc/outboundfeeds/rss/ciencia/"),
+    ("ABC Tecnología", "https://www.abc.com.py/arc/outboundfeeds/rss/tecnologia/"),
     ("ABC Deportes", "https://www.abc.com.py/arc/outboundfeeds/rss/deportes/"),
-    ("ABC Política", "https://www.abc.com.py/arc/outboundfeeds/rss/politica/"),
-    ("ABC Economía", "https://www.abc.com.py/arc/outboundfeeds/rss/economia/"),
     ("ABC Mundo", "https://www.abc.com.py/arc/outboundfeeds/rss/mundo/"),
     ("ABC Espectáculos", "https://www.abc.com.py/arc/outboundfeeds/rss/espectaculos/"),
-    ("ADN Digital", "https://www.adndigital.com.py/rss"),
     ("Diario HOY", "https://www.hoy.com.py/feed/"),
     ("Diario Popular", "https://www.popular.com.py/feed/"),
     ("El Independiente", "https://www.independiente.com.py/feed/"),
@@ -72,6 +70,8 @@ RSS_FEEDS = [
     ("La Nación", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
     ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
     ("NPY", "https://www.npy.com.py/index.rss"),
+    ("Megacadena", "https://www.megacadena.com.py/feed/"),
+    ("RDN", "https://www.rdn.com.py/feed/"),
 ]
 
 HEADERS = {
