@@ -19,36 +19,36 @@ $xl-screen: 80rem;
   --code-font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
   /**
-   * Color
+   * Color — Dark mode by default
    */
-  --body-bg-color: var(--oc-white);
-  --body-color: var(--oc-gray-9);
-  --code-bg-color: var(--oc-gray-1);
-  --heading-color: var(--oc-black);
-  --border-color: var(--oc-gray-4);
-  --link-color: var(--oc-blue-9);
-  --link-color-rgb: var(--oc-blue-9-rgb);
-  --link-hover-color: var(--oc-blue-7);
-  --info-color: var(--oc-green-9);
-  --warning-color: var(--oc-yellow-9);
-  --danger-color: var(--oc-red-9);
+  --body-bg-color: var(--oc-gray-9);
+  --body-color: var(--oc-gray-4);
+  --code-bg-color: var(--oc-gray-7);
+  --heading-color: var(--oc-white);
+  --border-color: var(--oc-gray-7);
+  --link-color: var(--oc-cyan-4);
+  --link-color-rgb: var(--oc-cyan-4-rgb);
+  --link-hover-color: var(--oc-cyan-6);
+  --info-color: var(--oc-green-1);
+  --warning-color: var(--oc-yellow-1);
+  --danger-color: var(--oc-red-1);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     /**
-     * Color
+     * Color — Light mode override
      */
-    --body-bg-color: var(--oc-gray-9);
-    --body-color: var(--oc-gray-4);
-    --code-bg-color: var(--oc-gray-7);
-    --heading-color: var(--oc-white);
-    --border-color: var(--oc-gray-7);
-    --link-color: var(--oc-cyan-4);
-    --link-color-rgb: var(--oc-cyan-4-rgb);
-    --link-hover-color: var(--oc-cyan-6);
-    --info-color: var(--oc-green-1);
-    --warning-color: var(--oc-yellow-1);
-    --danger-color: var(--oc-red-1);
+    --body-bg-color: var(--oc-white);
+    --body-color: var(--oc-gray-9);
+    --code-bg-color: var(--oc-gray-1);
+    --heading-color: var(--oc-black);
+    --border-color: var(--oc-gray-4);
+    --link-color: var(--oc-blue-9);
+    --link-color-rgb: var(--oc-blue-9-rgb);
+    --link-hover-color: var(--oc-blue-7);
+    --info-color: var(--oc-green-9);
+    --warning-color: var(--oc-yellow-9);
+    --danger-color: var(--oc-red-9);
   }
 }
