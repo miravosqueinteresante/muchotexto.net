@@ -68,7 +68,7 @@ include:
 #   - vendor/ruby/
 
 # Monophase theme settings
-tagline: "Lectura profunda, análisis de Paraguay con IA"
+tagline: "Lectura profunda y análisis con IA"
 lang: es
 author:
   name: Cesar Sanchez
