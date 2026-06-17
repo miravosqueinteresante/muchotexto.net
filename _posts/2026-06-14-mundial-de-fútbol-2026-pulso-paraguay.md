@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 14 de junio de 2026"
+title: "Pulso Paraguay: Mundial de Fútbol 2026 — 14 de junio de 2026"
 date: 2026-06-14
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

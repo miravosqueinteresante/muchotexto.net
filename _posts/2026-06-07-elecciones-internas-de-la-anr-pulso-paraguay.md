@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 7 de junio de 2026"
+title: "Pulso Paraguay: Elecciones internas de la ANR — 7 de junio de 2026"
 date: 2026-06-07
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

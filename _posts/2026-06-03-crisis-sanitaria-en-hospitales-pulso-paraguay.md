@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 3 de junio de 2026"
+title: "Pulso Paraguay: Crisis sanitaria en hospitales — 3 de junio de 2026"
 date: 2026-06-03
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

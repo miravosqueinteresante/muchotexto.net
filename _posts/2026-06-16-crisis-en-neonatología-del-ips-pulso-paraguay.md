@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 16 de junio de 2026"
+title: "Pulso Paraguay: Crisis en Neonatología del IPS — 16 de junio de 2026"
 date: 2026-06-16
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

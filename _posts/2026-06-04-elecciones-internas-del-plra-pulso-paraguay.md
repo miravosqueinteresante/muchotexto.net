@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 4 de junio de 2026"
+title: "Pulso Paraguay: Elecciones internas del PLRA — 4 de junio de 2026"
 date: 2026-06-04
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

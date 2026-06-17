@@ -328,21 +328,25 @@ def save_post(content: str):
     date_str = now.strftime("%Y-%m-%d")
 
     topic_match = re.search(r"🌡\s*TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
-    if not topic_match:
-        topic_match = re.search(r"TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
-
+    topic_slug = None
+    topic_title = None
     if topic_match:
-        topic = topic_match.group(1).strip()
-        topic_slug = topic.lower()
+        raw = topic_match.group(1).strip()
+        topic_title = raw
+        topic_slug = raw.lower()
         topic_slug = re.sub(r"[^a-záéíóúñü0-9\s-]", "", topic_slug)
         topic_slug = re.sub(r"[\s-]+", "-", topic_slug).strip("-")[:50].rstrip("-")
+
+    if topic_slug:
         slug = f"{date_str}-{topic_slug}-pulso-paraguay"
+        title = f"Pulso Paraguay: {topic_title} — {fmt_fecha(now)}"
     else:
         slug = f"{date_str}-pulso-paraguay"
+        title = f"Pulso Paraguay — {fmt_fecha(now)}"
 
     frontmatter = f"""---
 layout: post
-title: "Pulso Paraguay — {fmt_fecha(now)}"
+title: "{title}"
 description: "{make_meta_description(content)}"
 date: {date_str}
 categories: blog

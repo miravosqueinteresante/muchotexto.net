@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 30 de mayo de 2026"
+title: "Pulso Paraguay: Corrupción y Justicia — 30 de mayo de 2026"
 date: 2026-05-30
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

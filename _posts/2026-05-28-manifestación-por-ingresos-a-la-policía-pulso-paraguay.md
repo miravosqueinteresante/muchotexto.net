@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 28 de mayo de 2026"
+title: "Pulso Paraguay: Manifestación por ingresos a la Policía — 28 de mayo de 2026"
 date: 2026-05-28
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

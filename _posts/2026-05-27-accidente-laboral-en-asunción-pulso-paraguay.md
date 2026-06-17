@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 27 de Mayo de 2026"
+title: "Pulso Paraguay: Accidente laboral en Asunción — 27 de mayo de 2026"
 date: 2026-05-27
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 13 de junio de 2026"
+title: "Pulso Paraguay: Selección Paraguaya y su debut en el Mundial — 13 de junio de 2026"
 date: 2026-06-13
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

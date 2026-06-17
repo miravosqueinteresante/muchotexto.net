@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 31 de mayo de 2026"
+title: "Pulso Paraguay: Abuso de menores — 31 de mayo de 2026"
 date: 2026-05-31
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

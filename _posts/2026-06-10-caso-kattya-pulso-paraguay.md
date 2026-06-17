@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 10 de junio de 2026"
+title: "Pulso Paraguay: Caso Kattya — 10 de junio de 2026"
 date: 2026-06-10
 categories: blog
 tags: pulso paraguay actualidad política economía deportes

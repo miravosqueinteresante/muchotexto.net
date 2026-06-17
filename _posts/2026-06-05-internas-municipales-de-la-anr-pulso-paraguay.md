@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay — 5 de junio de 2026"
+title: "Pulso Paraguay: Internas municipales de la ANR — 5 de junio de 2026"
 date: 2026-06-05
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
