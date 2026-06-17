@@ -14,7 +14,7 @@ permalink: /about/
 
 ### Filosofía
 
-**Lectura profunda.** En un mundo de contenido efímero, apostamos por el texto que necesita tiempo para decir lo que tiene que decir. Sin prisas, sin algoritmos de por medio.
+**Lectura profunda.** En un mundo de contenido efímero, apostamos por el texto que necesita tiempo para decir lo que tiene que decir.
 
 El sitio se sostiene con publicidad no intrusiva para cubrir sus costos y seguir siendo un espacio independiente. No hay banners animados, pop-ups ni trackers innecesarios.
 
