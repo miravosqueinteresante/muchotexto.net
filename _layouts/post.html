@@ -108,14 +108,60 @@ layout: default
   <aside class="related">
     <h2 class="related-title">Continuar leyendo</h2>
     <ul class="related-posts">
-      {% for post in site.related_posts limit:3 %}
-        <li>
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-        </li>
+      {% assign related = site.posts | where_exp:"post", "post.url != page.url" %}
+      {% assign maxRelated = 0 %}
+      {% for post in related %}
+        {% assign commonTags = post.tags | intersect: page.tags | size %}
+        {% if commonTags > 0 and maxRelated < 3 %}
+          <li>
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+          </li>
+          {% assign maxRelated = maxRelated | plus: 1 %}
+        {% endif %}
       {% endfor %}
+      {% if maxRelated < 3 %}
+        {% for post in related limit:3 %}
+          {% assign alreadyShown = false %}
+          {% for r in post.tags %}
+            {% if page.tags contains r %}{% assign alreadyShown = true %}{% endif %}
+          {% endfor %}
+          {% unless alreadyShown %}
+            {% if maxRelated < 3 %}
+              <li>
+                <a href="{{ post.url | relative_url }}">
+                  {{ post.title }}
+                </a>
+                <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+              </li>
+              {% assign maxRelated = maxRelated | plus: 1 %}
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+      {% endif %}
     </ul>
   </aside>
+{% endif %}
+
+{% if page.previous or page.next %}
+  <nav class="post-nav">
+    {% if page.previous %}
+      <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next %}
+      <a class="post-nav-next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>
+    {% endif %}
+  </nav>
+{% endif %}
+
+{% if page.categories contains 'editorial' %}
+  {% assign date_key = page.date | date: "%Y-%m-%d" %}
+  {% assign linked_pulso = site.posts | where_exp:"p", "p.url contains date_key" | where_exp:"p", "p.categories contains 'blog'" | first %}
+  {% if linked_pulso %}
+  <p class="post-crosslink">
+    Este análisis se basa en el <a href="{{ linked_pulso.url | relative_url }}">Pulso Paraguay de hoy</a>.
+  </p>
+  {% endif %}
 {% endif %}
