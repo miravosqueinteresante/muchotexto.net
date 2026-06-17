@@ -552,3 +552,19 @@ a.pagination-item:hover {
   vertical-align: middle;
   display: inline-block;
 }
+
+/**
+ * Sources section
+ */
+
+#fuentes + p {
+  font-size: 0.85em;
+  line-height: 2;
+  padding-left: 1em;
+  border-left: 3px solid var(--border-color);
+  margin-top: 0;
+}
+
+#fuentes + p strong {
+  color: var(--heading-color);
+}
