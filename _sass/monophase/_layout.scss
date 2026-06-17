@@ -94,6 +94,8 @@
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: .5em;
+  line-height: 1.3;
 
   a {
     color: inherit;
@@ -101,11 +103,13 @@
 }
 
 .post-meta {
-  display: block;
-  margin-top: -.5em;
-  margin-bottom: var(--spacer);
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35em .75em;
+  align-items: center;
+  margin-bottom: var(--spacer-2);
   opacity: .65;
-  font-size: .85em;
+  font-size: .82em;
 }
 
 .post-categories,
