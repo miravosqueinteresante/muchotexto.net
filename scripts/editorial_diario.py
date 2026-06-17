@@ -63,24 +63,29 @@ def date_str() -> str:
     return now_py().strftime("%Y-%m-%d")
 
 
-def read_pulso_post(date: str) -> str | None:
+def read_pulso_post(date: str) -> tuple[str | None, str | None]:
     pattern = f"{date}-pulso-paraguay.md"
     filepath = os.path.join(POSTS_DIR, pattern)
     if not os.path.exists(filepath):
-        return None
+        return None, None
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
+    title_match = re.search(r"^title:\s*\"(.+?)\"", content, re.MULTILINE)
+    pulso_title = title_match.group(1).strip() if title_match else None
     body = re.sub(r"^---.*?---\s*", "", content, count=1, flags=re.DOTALL)
-    return body.strip()
+    return body.strip(), pulso_title
 
 
-def call_github_models(pulso_content: str) -> str | None:
+def call_github_models(pulso_content: str, pulso_title: str | None = None) -> str | None:
     if not GH_TOKEN:
         log.error("GH_MODELS_TOKEN no está configurado")
         return None
 
     fecha = fmt_fecha_para_titulo(now_py())
-    user_prompt = f"Hoy es {fecha}. Este es el Pulso Paraguay del día:\n\n{pulso_content}\n\nGenera la Editorial."
+    context = f"Hoy es {fecha}."
+    if pulso_title:
+        context += f" El Pulso Paraguay de hoy se titula: \"{pulso_title}\". IMPORTANTE: el título de esta Editorial NO debe repetir las mismas palabras clave principales del título del Pulso. Debe enfocarse en el ángulo de análisis/opinión, no en la noticia en sí."
+    context += f"\n\nContenido del Pulso Paraguay:\n\n{pulso_content}\n\nGenera la Editorial."
 
     payload = json.dumps({
         "model": GH_MODEL,
@@ -184,13 +189,13 @@ def main():
     date = date_str()
 
     log.info("Paso 1/3: Leyendo Pulso Paraguay de %s...", date)
-    pulso = read_pulso_post(date)
+    pulso, pulso_title = read_pulso_post(date)
     if not pulso:
         log.warning("No se encontró el Pulso Paraguay para hoy (%s). Abortando.", date)
         sys.exit(0)
 
     log.info("Paso 2/3: Generando Editorial con %s...", GH_MODEL)
-    result = call_github_models(pulso)
+    result = call_github_models(pulso, pulso_title)
     if not result:
         log.error("No se pudo generar la Editorial. Abortando.")
         sys.exit(1)
