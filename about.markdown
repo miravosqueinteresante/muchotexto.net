@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-**muchotexto.net** es el blog de **César Sánchez**, un espacio dedicado al análisis profundo de Paraguay, la tecnología y las ideas que importan. Asistido por inteligencia artificial para investigar, cruzar datos y generar contenido de largo aliento.
+**muchotexto.net** es el blog de **César Sánchez**, un espacio dedicado al análisis profundo de Paraguay, la tecnología y las ideas que importan. Asistido por inteligencia artificial para investigar, cruzar datos y generar contenido.
 
 ### Qué vas a encontrar
 
