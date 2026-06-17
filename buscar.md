@@ -2,6 +2,7 @@
 layout: page
 title: Buscar
 permalink: /buscar/
+sitemap: false
 ---
 
 <div class="search-form">
