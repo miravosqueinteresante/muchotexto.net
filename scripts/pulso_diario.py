@@ -326,7 +326,19 @@ def call_github_models(prompt: str) -> str | None:
 def save_post(content: str):
     now = now_py()
     date_str = now.strftime("%Y-%m-%d")
-    slug = f"{date_str}-pulso-paraguay"
+
+    topic_match = re.search(r"🌡\s*TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
+    if not topic_match:
+        topic_match = re.search(r"TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
+
+    if topic_match:
+        topic = topic_match.group(1).strip()
+        topic_slug = topic.lower()
+        topic_slug = re.sub(r"[^a-záéíóúñü0-9\s-]", "", topic_slug)
+        topic_slug = re.sub(r"[\s-]+", "-", topic_slug).strip("-")[:50].rstrip("-")
+        slug = f"{date_str}-{topic_slug}-pulso-paraguay"
+    else:
+        slug = f"{date_str}-pulso-paraguay"
 
     frontmatter = f"""---
 layout: post
