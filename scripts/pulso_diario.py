@@ -39,7 +39,10 @@ def fmt_fecha(dt: datetime) -> str:
     return f"{dt.day} de {MESES[dt.month]} de {dt.year}"
 
 def make_meta_description(content: str, max_len: int = 155) -> str:
-    plain = re.sub(r"[#*_\[\]()`>|~]", "", content)
+    lines = content.strip().split("\n")
+    useful = "\n".join(line for line in lines if not line.strip().startswith("PULSO DIARIO"))
+    plain = re.sub(r"[#*_\[\]()`>|~]", "", useful)
+    plain = re.sub(r"[📅🕐🌡🏛💰⚽🎭🚨🔥📊🔍🔎💡📈]", "", plain)
     plain = re.sub(r"\s+", " ", plain).strip()
     if len(plain) <= max_len:
         return plain
