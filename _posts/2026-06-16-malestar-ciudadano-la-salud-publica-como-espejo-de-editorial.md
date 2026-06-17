@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crisis en Neonatología y el malestar ciudadano — Editorial 16 de junio de 2026"
+title: "Malestar ciudadano: la salud pública como espejo del Paraguay — Editorial 16 de junio de 2026"
 description: "La renuncia masiva de médicos neonatólogos del IPS y el escándalo de gastos del intendente Bello revelan un Paraguay donde lo urgente desplaza lo importante."
 date: 2026-06-16 19:00:00 -0400
 categories: editorial
