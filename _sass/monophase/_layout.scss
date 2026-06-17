@@ -454,3 +454,45 @@ a.pagination-item:hover {
     font-weight: 500;
   }
 }
+
+/**
+ * Breadcrumbs
+ */
+
+.breadcrumbs {
+  font-size: 0.85em;
+  margin-bottom: var(--spacer);
+  color: var(--text-color-light);
+}
+
+.breadcrumbs ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em;
+}
+
+.breadcrumbs li {
+  display: inline;
+}
+
+.breadcrumbs li + li::before {
+  content: "›";
+  margin-right: 0.3em;
+  color: var(--text-color-light);
+}
+
+.breadcrumbs a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs [aria-current="page"] {
+  color: var(--text-color-light);
+}

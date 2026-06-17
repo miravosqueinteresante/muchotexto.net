@@ -3,6 +3,39 @@ layout: default
 ---
 
 <article class="post">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+      <li><a href="{{ site.categories_path | relative_url }}#{{ page.categories | first | slugify }}">{{ page.categories | first | capitalize }}</a></li>
+      <li aria-current="page">{{ page.title }}</li>
+    </ol>
+  </nav>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Inicio",
+        "item": "{{ site.url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ page.categories | first | capitalize }}",
+        "item": "{{ site.url }}/{{ page.categories | first }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ page.title }}",
+        "item": "{{ site.url }}{{ page.url }}"
+      }
+    ]
+  }
+  </script>
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-meta">
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

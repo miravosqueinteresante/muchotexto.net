@@ -114,6 +114,14 @@ def call_github_models(pulso_content: str) -> str | None:
         return None
 
 
+def make_slug(text: str) -> str:
+    slug = text.lower()
+    slug = re.sub(r"[^a-záéíóúñü0-9\s-]", "", slug)
+    slug = re.sub(r"[\s-]+", "-", slug).strip("-")
+    slug = slug[:60].rstrip("-")
+    return slug
+
+
 def extract_title_and_body(markdown_text: str) -> tuple[str, str]:
     title_match = re.search(r"^#\s+(.+)$", markdown_text, re.MULTILINE)
     if title_match:
@@ -125,14 +133,26 @@ def extract_title_and_body(markdown_text: str) -> tuple[str, str]:
     return title, body
 
 
+def make_meta_description(body: str, max_len: int = 155) -> str:
+    plain = re.sub(r"[#*_\[\]()`>|~]", "", body)
+    plain = re.sub(r"\s+", " ", plain).strip()
+    if len(plain) <= max_len:
+        return plain
+    return plain[:plain.rfind(" ", 0, max_len)] + "..."
+
+
 def save_editorial_post(title: str, body: str):
     now = now_py()
     date = date_str()
-    slug = f"{date}-editorial"
+    slug_base = make_slug(title)
+    slug = f"{date}-{slug_base}-editorial"
+    slug = slug[:80].rstrip("-")
+    meta_desc = make_meta_description(body)
 
     frontmatter = f"""---
 layout: post
 title: "{title}"
+description: "{meta_desc}"
 date: {date} {PY_TIME} -0400
 categories: editorial
 tags: editorial opinion paraguay analisis ia

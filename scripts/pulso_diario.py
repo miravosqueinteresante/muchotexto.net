@@ -38,6 +38,13 @@ MESES = {
 def fmt_fecha(dt: datetime) -> str:
     return f"{dt.day} de {MESES[dt.month]} de {dt.year}"
 
+def make_meta_description(content: str, max_len: int = 155) -> str:
+    plain = re.sub(r"[#*_\[\]()`>|~]", "", content)
+    plain = re.sub(r"\s+", " ", plain).strip()
+    if len(plain) <= max_len:
+        return plain
+    return plain[:plain.rfind(" ", 0, max_len)] + "..."
+
 RSS_FEEDS = [
     ("ABC Color", "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"),
     ("ABC Policiales", "https://www.abc.com.py/arc/outboundfeeds/rss/policiales/"),
@@ -321,6 +328,7 @@ def save_post(content: str):
     frontmatter = f"""---
 layout: post
 title: "Pulso Paraguay — {fmt_fecha(now)}"
+description: "{make_meta_description(content)}"
 date: {date_str}
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
