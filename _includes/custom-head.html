@@ -2,6 +2,27 @@
 
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://use.fontawesome.com https://remark42-production-e49d.up.railway.app https://unpkg.com https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self' https://use.fontawesome.com; img-src 'self' https://remark42-production-e49d.up.railway.app https://www.google-analytics.com data:; connect-src 'self' https://remark42-production-e49d.up.railway.app https://www.google-analytics.com https://www.googletagmanager.com; frame-src https://remark42-production-e49d.up.railway.app; form-action 'self';">
 
+<!-- Google Consent Mode + GA4 -->
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+  'analytics_storage': 'denied',
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied'
+});
+gtag('set', 'url_passthrough', true);
+gtag('set', 'ads_data_redaction', true);
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LLZE5F9CB7"></script>
+<script>
+gtag('js', new Date());
+gtag('config', 'G-LLZE5F9CB7', {
+  'cookie_flags': 'SameSite=None;Secure'
+});
+</script>
+
 <meta http-equiv="X-Frame-Options" content="DENY">
 
 <meta name="referrer" content="no-referrer-when-downgrade">

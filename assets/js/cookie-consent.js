@@ -14,27 +14,21 @@
     if (banner) banner.style.display = 'none';
   }
 
-  function loadGA() {
-    if (window.gtag) return;
-    var script = document.createElement('script');
-    script.async = true;
-    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-LLZE5F9CB7';
-    document.head.appendChild(script);
-
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    window.gtag = gtag;
-    gtag('js', new Date());
-    gtag('config', 'G-LLZE5F9CB7');
+  function updateGAConsent(granted) {
+    if (typeof gtag !== 'function') return;
+    gtag('consent', 'update', {
+      'analytics_storage': granted ? 'granted' : 'denied'
+    });
   }
 
   var consent = getConsent();
 
   if (consent === 'accepted') {
     hideBanner();
-    loadGA();
+    updateGAConsent(true);
   } else if (consent === 'rejected') {
     hideBanner();
+    updateGAConsent(false);
   } else {
     document.addEventListener('DOMContentLoaded', function() {
       var banner = document.getElementById('cookie-banner');
@@ -43,12 +37,13 @@
       document.getElementById('cookie-accept').addEventListener('click', function() {
         setConsent('accepted');
         hideBanner();
-        loadGA();
+        updateGAConsent(true);
       });
 
       document.getElementById('cookie-reject').addEventListener('click', function() {
         setConsent('rejected');
         hideBanner();
+        updateGAConsent(false);
       });
     });
   }
