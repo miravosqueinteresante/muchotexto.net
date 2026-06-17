@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: muchotexto.net
-description: "Blog personal de Cesar Sanchez. Lectura profunda, minimalismo radical y contenido extenso."
+description: "Blog de Cesar Sanchez. Análisis profundo de Paraguay con IA, editoriales diarias, cultura, filosofía y política. Lectura sin distracciones."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muchotexto.net"
 twitter_username: cesanz
@@ -65,7 +65,7 @@ include:
 #   - vendor/ruby/
 
 # Monophase theme settings
-tagline: "Lectura profunda, minimalismo radical"
+tagline: "Lectura profunda, análisis de Paraguay con IA"
 lang: es
 author:
   name: Cesar Sanchez
@@ -73,7 +73,7 @@ author:
 tags_path: /tags/
 categories_path: /categories/
 disqus: 
-google_analytics: 
+google_analytics: G-LLZE5F9CB7
 pagination:
   enabled: true
   per_page: 5

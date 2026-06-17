@@ -21,9 +21,7 @@
       {% include mathjax.html %}
     {% endif %}
 
-    {% if jekyll.environment == 'production' and site.google_analytics %}
-      {% include google-analytics.html %}
-    {% endif %}
+    {% include cookie-consent.html %}
     {% if page.layout == 'post' %}
       <script>
         var bar = document.getElementById('reading-progress');
