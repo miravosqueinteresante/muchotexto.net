@@ -557,14 +557,26 @@ a.pagination-item:hover {
  * Sources section
  */
 
-#fuentes + p {
+#fuentes + p,
+ol.sources-list {
   font-size: 0.85em;
-  line-height: 2;
-  padding-left: 1em;
-  border-left: 3px solid var(--border-color);
-  margin-top: 0;
 }
 
-#fuentes + p strong {
+#fuentes + p strong,
+ol.sources-list strong {
   color: var(--heading-color);
+}
+
+ol.sources-list {
+  padding-left: 1.5em;
+  line-height: 1.9;
+
+  li {
+    margin-bottom: 0.35em;
+    padding-left: 0.5em;
+  }
+
+  li::marker {
+    color: var(--text-color-light);
+  }
 }

@@ -104,27 +104,29 @@ Thiel dijo en una entrevista que su objetivo es "encontrar una salida de la pol�
 
 ## Fuentes
 
-1. **Cato Unbound** — Peter Thiel, "The Education of a Libertarian" (2009): https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian
-2. **ABC Color** — "El presidente paraguayo recibe a magnates tecnológicos Peter Thiel y Cully Cavness" (13 May 2026): https://www.abc.com.py/ciencia/2026/05/13/el-presidente-paraguayo-recibe-a-magnates-tecnologicos-peter-thiel-y-cully-cavness/
-3. **Forbes Paraguay** — "Una de las personas más ricas del mundo, el billonario Peter Thiel, invierte en inteligencia artificial en Paraguay" (13 May 2026): https://www.forbes.com.py/especiales/una-personas-mas-ricas-mundo-billonario-peter-thiel-invierte-inteligencia-artificial-paraguay-n90736
-4. **EFE / ABC Color** — "China insta a Paraguay a romper relaciones con Taiwán" (7 May 2026): https://www.abc.com.py/internacionales/2026/05/07/china-insta-a-paraguay-a-romper-sus-relaciones-con-taiwan-ante-el-viaje-de-pena-a-la-isla/
-5. **The Guardian** — "The corporate backbone of ICE: how Palantir powers mass deportation" (Sep 2025): https://www.theguardian.com/us-news/ng-interactive/2025/sep/22/ice-palantir-data
-6. **ACLU** — "Palantir's role in ICE deportation roundups" (Apr 2026): https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup
-7. **EFF** — "Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story" (Apr 2026): https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story
-8. **The Verge** — "New Orleans once had a secret predictive policing tool. It was Palantir" (Feb 2018): https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd
-9. **Financial Times / CityAM** — "NHS gives Palantir wider access to patient data" (May 2026): https://www.cityam.com/nhs-gives-palantir-wider-access-to-patient-data-amid-growing-backlash
-10. **BMJ** — "Palantir's NHS pilot successes claims are flawed" (Apr 2026): https://www.bmj.com/content/393/bmj.s680
-11. **Calcalistech** — "Palantir signs strategic partnership with Israel Ministry of Defense" (Jan 2024): https://www.calcalistech.com/ctechnews/article/rymy7ret6
-12. **Crusoe AI** — Series D announcement (Dec 2024): https://www.globenewswire.com/news-release/2024/12/12/2996138/0/en/crusoe-closes-600m-in-series-d-round-at-2-8-billion-valuation-to-power-ai.html
-13. **ABC Color** — "Gobierno compara Itaipú con proyecto Centro IA Paraguay-Taiwán" (13 May 2026): https://www.abc.com.py/politica/2026/05/13/gobierno-compara-itaipu-con-el-proyecto-centro-ia-paraguay-taiwan/
-14. **UPI** — "X8 Cloud plans $10-50B AI data center investment in Paraguay" (Dec 2025): https://www.upi.com/Top_News/World-News/2025/12/09/latam-paraguay-X8-cloud-AI-data-center/3121765297559
-15. **Transparency International** — Corruption Perceptions Index 2025: Paraguay 24/100, Rank 150: https://www.transparency.org/en/countries/paraguay
-16. **IAPP** — "Paraguay da un paso hacia un marco moderno de protección de la privacidad" (Dec 2025): https://iapp.org/news/a/paraguay-da-un-paso-hacia-un-marco-moderno-de-protecci-n-de-la-privacidad
-17. **Ferrere Abogados** — "Paraguay adopta su Ley de Protección de Datos Personales" (Nov 2025): https://www.ferrere.com/es/novedades/paraguay-adopta-su-ley-de-proteccion-de-datos-personales
-18. **ABC Color** — "Solo cuatro criptomineras consumen más que una turbina de Itaipú" (Mar 2026): https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/
-19. **ABC Color** — "Acuerdo militar Paraguay-EEUU: uno a uno los detalles" (Dec 2025): https://www.abc.com.py/nacionales/2025/12/17/acuerdo-militar-entre-paraguay-y-estados-unidos-uno-a-uno-los-detalles/
-20. **Reuters** — "How China is wooing Paraguay's political class away from longtime ally Taiwan" (Mar 2026): https://www.reuters.com/world/china/how-china-is-wooing-paraguays-political-class-away-longtime-ally-taiwan-2026-03-14/
-21. **Jacobin** — "Peter Thiel, the would-be philosopher-king" (Oct 2025): https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy
-22. **BBC Mundo** — "Paraguay: el acuerdo militar con Estados Unidos que genera controversia" (Mar 2026): https://www.bbc.com/mundo/articles/ce3g01xljp2o
-23. **Latitude Media** — "Senate Democrats probe gas-powered AI data centers" (Mar 2026): https://www.latitudemedia.com/news/senate-democrats-probe-gas-powered-ai-data-centers/
-24. **Heinrich Böll Foundation** — "AI wants our water" (Nov 2025): https://eu.boell.org/en/2025/11/10/ai-wants-our-water
+<ol class="sources-list">
+<li><strong>Cato Unbound</strong> – <a href="https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian">Peter Thiel, "The Education of a Libertarian"</a> (2009)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/ciencia/2026/05/13/el-presidente-paraguayo-recibe-a-magnates-tecnologicos-peter-thiel-y-cully-cavness/">"El presidente paraguayo recibe a magnates tecnológicos Peter Thiel y Cully Cavness"</a> (13 May 2026)</li>
+<li><strong>Forbes Paraguay</strong> – <a href="https://www.forbes.com.py/especiales/una-personas-mas-ricas-mundo-billonario-peter-thiel-invierte-inteligencia-artificial-paraguay-n90736">"Una de las personas más ricas del mundo, el billonario Peter Thiel, invierte en inteligencia artificial en Paraguay"</a> (13 May 2026)</li>
+<li><strong>EFE / ABC Color</strong> – <a href="https://www.abc.com.py/internacionales/2026/05/07/china-insta-a-paraguay-a-romper-sus-relaciones-con-taiwan-ante-el-viaje-de-pena-a-la-isla/">"China insta a Paraguay a romper relaciones con Taiwán"</a> (7 May 2026)</li>
+<li><strong>The Guardian</strong> – <a href="https://www.theguardian.com/us-news/ng-interactive/2025/sep/22/ice-palantir-data">"The corporate backbone of ICE: how Palantir powers mass deportation"</a> (Sep 2025)</li>
+<li><strong>ACLU</strong> – <a href="https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup">"Palantir's role in ICE deportation roundups"</a> (Apr 2026)</li>
+<li><strong>EFF</strong> – <a href="https://www.eff.org/deeplinks/2026/04/palantir-has-human-rights-policy-its-ice-work-tells-different-story">"Palantir Has a Human Rights Policy. Its ICE Work Tells a Different Story"</a> (Apr 2026)</li>
+<li><strong>The Verge</strong> – <a href="https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd">"New Orleans once had a secret predictive policing tool. It was Palantir"</a> (Feb 2018)</li>
+<li><strong>Financial Times / CityAM</strong> – <a href="https://www.cityam.com/nhs-gives-palantir-wider-access-to-patient-data-amid-growing-backlash">"NHS gives Palantir wider access to patient data"</a> (May 2026)</li>
+<li><strong>BMJ</strong> – <a href="https://www.bmj.com/content/393/bmj.s680">"Palantir's NHS pilot successes claims are flawed"</a> (Apr 2026)</li>
+<li><strong>Calcalistech</strong> – <a href="https://www.calcalistech.com/ctechnews/article/rymy7ret6">"Palantir signs strategic partnership with Israel Ministry of Defense"</a> (Jan 2024)</li>
+<li><strong>Crusoe AI</strong> – <a href="https://www.globenewswire.com/news-release/2024/12/12/2996138/0/en/crusoe-closes-600m-in-series-d-round-at-2-8-billion-valuation-to-power-ai.html">Series D announcement</a> (Dec 2024)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2026/05/13/gobierno-compara-itaipu-con-el-proyecto-centro-ia-paraguay-taiwan/">"Gobierno compara Itaipú con proyecto Centro IA Paraguay-Taiwán"</a> (13 May 2026)</li>
+<li><strong>UPI</strong> – <a href="https://www.upi.com/Top_News/World-News/2025/12/09/latam-paraguay-X8-cloud-AI-data-center/3121765297559">"X8 Cloud plans $10-50B AI data center investment in Paraguay"</a> (Dec 2025)</li>
+<li><strong>Transparency International</strong> – <a href="https://www.transparency.org/en/countries/paraguay">Corruption Perceptions Index 2025: Paraguay 24/100, Rank 150</a></li>
+<li><strong>IAPP</strong> – <a href="https://iapp.org/news/a/paraguay-da-un-paso-hacia-un-marco-moderno-de-protecci-n-de-la-privacidad">"Paraguay da un paso hacia un marco moderno de protección de la privacidad"</a> (Dec 2025)</li>
+<li><strong>Ferrere Abogados</strong> – <a href="https://www.ferrere.com/es/novedades/paraguay-adopta-su-ley-de-proteccion-de-datos-personales">"Paraguay adopta su Ley de Protección de Datos Personales"</a> (Nov 2025)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/">"Solo cuatro criptomineras consumen más que una turbina de Itaipú"</a> (Mar 2026)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/nacionales/2025/12/17/acuerdo-militar-entre-paraguay-y-estados-unidos-uno-a-uno-los-detalles/">"Acuerdo militar Paraguay-EEUU: uno a uno los detalles"</a> (Dec 2025)</li>
+<li><strong>Reuters</strong> – <a href="https://www.reuters.com/world/china/how-china-is-wooing-paraguays-political-class-away-longtime-ally-taiwan-2026-03-14/">"How China is wooing Paraguay's political class away from longtime ally Taiwan"</a> (Mar 2026)</li>
+<li><strong>Jacobin</strong> – <a href="https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy">"Peter Thiel, the would-be philosopher-king"</a> (Oct 2025)</li>
+<li><strong>BBC Mundo</strong> – <a href="https://www.bbc.com/mundo/articles/ce3g01xljp2o">"Paraguay: el acuerdo militar con Estados Unidos que genera controversia"</a> (Mar 2026)</li>
+<li><strong>Latitude Media</strong> – <a href="https://www.latitudemedia.com/news/senate-democrats-probe-gas-powered-ai-data-centers/">"Senate Democrats probe gas-powered AI data centers"</a> (Mar 2026)</li>
+<li><strong>Heinrich Böll Foundation</strong> – <a href="https://eu.boell.org/en/2025/11/10/ai-wants-our-water">"AI wants our water"</a> (Nov 2025)</li>
+</ol>
