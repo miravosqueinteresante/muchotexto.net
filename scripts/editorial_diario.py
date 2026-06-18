@@ -93,7 +93,7 @@ def call_github_models(pulso_content: str, pulso_title: str | None = None) -> st
         "model": GH_MODEL,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
+            {"role": "user", "content": context},
         ],
         "temperature": 0.8,
         "max_tokens": 2000,
