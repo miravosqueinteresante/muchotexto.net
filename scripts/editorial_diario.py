@@ -64,10 +64,12 @@ def date_str() -> str:
 
 
 def read_pulso_post(date: str) -> tuple[str | None, str | None]:
-    pattern = f"{date}-pulso-paraguay.md"
-    filepath = os.path.join(POSTS_DIR, pattern)
-    if not os.path.exists(filepath):
+    import glob
+    pattern = os.path.join(POSTS_DIR, f"{date}-*-pulso-paraguay.md")
+    matches = sorted(glob.glob(pattern))
+    if not matches:
         return None, None
+    filepath = matches[-1]
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
     title_match = re.search(r"^title:\s*\"(.+?)\"", content, re.MULTILINE)
