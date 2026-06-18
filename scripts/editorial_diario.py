@@ -33,7 +33,7 @@ MESES = {
     9: "setiembre", 10: "octubre", 11: "noviembre", 12: "diciembre",
 }
 
-PY_TIME = "19:00:00"
+PY_TIME = "18:00:00"
 
 SYSTEM_PROMPT = """Eres un editorialista de Opinión con una voz de análisis profundo, que escribe en español paraguayo natural (con voseo y modismos coloquiales, NO uses jopara ni guaraní). Tu estilo se caracteriza por: reflexión sobre el poder y la identidad paraguaya, ironía, crítica social aguda, compromiso con la verdad, perspectiva cultural y análisis de la realidad nacional con profundidad.
 

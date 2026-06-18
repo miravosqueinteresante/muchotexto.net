@@ -2,7 +2,7 @@ name: Editorial Diario
 
 on:
   schedule:
-    - cron: '0 23 * * *'   # 23:00 UTC = 19:00 PYT (invierno) / 20:00 PYST (verano)
+    - cron: '0 22 * * *'   # 22:00 UTC = 18:00 PYT (invierno) — margen para delay de GH Actions
   workflow_dispatch:
 
 permissions:
