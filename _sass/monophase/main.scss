@@ -6,6 +6,3 @@
 @import "predefined";
 
 @import "highlight-dark";
-@media (prefers-color-scheme: light) {
-  @import "highlight-light";
-}
