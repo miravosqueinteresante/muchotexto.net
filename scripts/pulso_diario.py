@@ -357,6 +357,7 @@ layout: post
 title: "{title}"
 description: "{make_meta_description(content)}"
 date: {date_str}
+last_modified_at: {date_str}
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
 ---

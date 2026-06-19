@@ -158,6 +158,7 @@ layout: post
 title: "{title}"
 description: "{meta_desc}"
 date: {date} {PY_TIME} -0400
+last_modified_at: {date}
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
