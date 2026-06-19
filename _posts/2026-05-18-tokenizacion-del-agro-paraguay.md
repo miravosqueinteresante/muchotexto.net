@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Soja, ganado y blockchain: la apuesta paraguaya por la tokenización del agro"
 date: 2026-05-18
+last_modified_at: 2026-05-18
 categories: blog
 tags: tecnología paraguay tokenización agro blockchain ley-7572 fintech
+description: "La Ley 7572 abre la puerta a tokenizar soja, ganado y tierras en blockchain. ¿Revolución financiera o burbuja especulativa? Lo que la tokenización del agro significa para Paraguay."
 ---
 
 Hay una idea que está girando en los círculos fintech paraguayos y que promete cambiar quién financia el campo, cómo se vende la cosecha y hasta quién puede ser dueño de un pedazo de tierra sin moverse de su casa. Se llama tokenización agropecuaria, y la noticia ya tiene título: "Paraguay abre las puertas para la tokenización del agro", publicó ABC Color. Bruno Vaccotti, director de la Cámara Paraguaya de Fintech, hablaba de tokenizar ganado, granos y tierras. La Ley 7572/2025 del Mercado de Valores y Productos ya reconoce instrumentos emitidos en tecnología de registro distribuido — blockchain, para entendernos — y los reglamentos secundarios están en camino.
@@ -173,13 +175,13 @@ La Ley 7572/2025 no dice nada de eso. Y lo que una ley no dice es tan importante
 
 <ol class="sources-list">
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/negocios/abc-campo/2026/05/16/paraguay-abre-las-puertas-para-la-tokenizacion-del-agro/">"Paraguay abre las puertas para la tokenización del agro"</a> (16 May 2026)</li>
-<li><strong>BACN</strong> – <a href="https://www.bacn.gov.py/leyes-paraguayas/12910/ley-n-75722025-mercado-de-valores-y-productos">Ley N.° 7572/2025 del Mercado de Valores y Productos</a> (PDF)</li>
+<li><strong>BACN</strong> – <a href="https://www.bacn.gov.py/leyes-paraguayas/13047/ley-n-7572-mercado-de-valores-y-productos">Ley N.° 7572/2025 del Mercado de Valores y Productos</a></li>
 <li><strong>Forbes Argentina</strong> – <a href="https://www.forbesargentina.com/negocios/agrotoken-levanta-us-125-millones-seguir-tokenizando-granos-region-n46003">"Agrotoken levanta USD 12,5 millones"</a> (2024)</li>
 <li><strong>Forbes Brazil</strong> – <a href="https://www.forbes.com.br/forbesagro/2024/01/os-novos-reis-do-agro-argentino-como-a-agrotoken-quer-tokenizar-o-brasil/">"Os novos reis do agro argentino: como a Agrotoken quer tokenizar o Brasil"</a> (Jan 2024)</li>
 <li><strong>RWA.xyz</strong> – <a href="https://app.rwa.xyz/assets/JSOY">JSOY token data</a></li>
 <li><strong>FINMA</strong> – <a href="https://www.finma.ch/en/news/2025/03/20250318-mm-dlt-handelssystem/">First DLT trading facility license</a> (Mar 2025)</li>
-<li><strong>CoinTelegraph</strong> – <a href="https://cointelegraph.com/news/farmway-100m-tokenize-georgia-almond-orchards">"Farmway tokenizes $100M Georgia almond orchards"</a> (2025)</li>
-<li><strong>CoinTelegraph</strong> – <a href="https://cointelegraph.com/news/rwa-tokenization-suffers-increase-hacks">"CertiK RWA Security Report 2025"</a></li>
+<li><strong>CoinTelegraph</strong> – "Farmway tokenizes $100M Georgia almond orchards" (2025)</li>
+<li><strong>CoinTelegraph</strong> – "CertiK RWA Security Report 2025"</li>
 <li>**Olympix** — "90% of exploited smart contracts were audited" (2026)</li>
 <li><strong>CriptoNoticias</strong> – <a href="https://www.criptonoticias.com/seguridad-bitcoin/detenido-mexico-promotor-criptomoneda-agrocoin">"Detenido en México promotor de criptomoneda Agrocoin"</a></li>
 <li><strong>IAPP</strong> – <a href="https://iapp.org/news/a/paraguay-da-un-paso-hacia-un-marco-moderno-de-protecci-n-de-la-privacidad">"Paraguay da un paso hacia un marco moderno de protección de la privacidad"</a> (Dec 2025)</li>
@@ -191,10 +193,10 @@ La Ley 7572/2025 no dice nada de eso. Y lo que una ley no dice es tan importante
 <li><strong>BCP</strong> – <a href="https://www.bcp.gov.py/web/institucional/w/indicadores-financieros-noviembre-2025">Indicadores financieros noviembre 2025</a></li>
 <li>**Cámara Paraguaya de Fintech**: https://fintech.org.py/</li>
 <li><strong>DataReportal</strong> – <a href="https://datareportal.com/reports/digital-2026-paraguay">Digital 2026 Paraguay</a></li>
-<li><strong>CAF</strong> – <a href="https://initiatives.weforum.org/global-future-council-on-financial-education/case-study-details/caf---financial-capabilities-surveys">Financial capabilities surveys</a> (OECD/INFE methodology)</li>
+<li><strong>CAF</strong> – Financial capabilities surveys (OECD/INFE methodology)</li>
 <li>**FATF** — Targeted Update on VA/VASPs (2024, 2025)</li>
 <li><strong>Chainalysis</strong> – <a href="https://www.chainalysis.com/blog/2025-global-crypto-adoption-index">2025 Crypto Crime Report</a></li>
-<li><strong>Finka</strong> – <a href="https://finka.ch/en/">Swiss cattle tokenization</a></li>
+<li><strong>Finka</strong> – Swiss cattle tokenization platform</li>
 <li><strong>PwC Brazil</strong> – <a href="https://www.pwc.com.br/pt/consultoria/agtech-innovation/agtech-innovation-news/materias/2024/Agrotoken-pioneira-na-tokenizacao-de-graos-passa-a-oferecer-sua-infraestrutura-de-blockchain-como-servico.html">Agrotoken blockchain infrastructure as a service</a></li>
 <li><strong>FCA UK</strong> – <a href="https://www.fca.org.uk/publication/research-and-data/regulatory-sandbox-lessons-learned-report.pdf">Regulatory sandbox lessons learned</a></li>
 <li><strong>IDB</strong> – <a href="https://publications.iadb.org/publications/english/document/Regulatory-Sandboxes-Innovation-Hubs-and-Other-Regulatory-Innovation-Tools-in-Latin-America-and-the-Caribbean.pdf">Regulatory Sandboxes, Innovation Hubs in LAC</a></li>

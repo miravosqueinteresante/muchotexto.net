@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Entre secretos y pantallas: El dilema de la transparencia en tiempos digitales — Editorial 17 de junio de 2026"
 description: "Paraguay atraviesa un momento de tensiones que ponen a prueba la confianza de su sociedad. La mezcla de escándalos políticos, demandas sociales por mayor..."
-date: 2026-06-17 19:00:00 -0400
+date: 2026-06-17
+last_modified_at: 2026-06-17 19:00:00 -0400
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---

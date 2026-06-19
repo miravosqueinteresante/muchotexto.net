@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Luces y sombras de la apertura eléctrica: cuando Paraguay decide dejar entrar al sector privado"
 date: 2026-05-27
+last_modified_at: 2026-05-27
 categories: blog
 tags: energía paraguay renovables ley-7599 ande itaipú política corrupción criptominería
+description: "Paraguay habilita por primera vez la generación privada de energía renovable. Entre el fin del monopolio de la ANDE y los riesgos de corrupción, ¿qué significa el Decreto 6034?"
 ---
 
 El 20 de mayo de 2026, Santiago Peña firmó el Decreto 6034. Con esa firma, Paraguay habilitó por primera vez en su historia que empresas privadas generen, compren, vendan y exporten energía eléctrica de fuentes renovables no hidráulicas. La noticia ocupó titulares nacionales y fue calificada por analistas como un hito para el sector. Pero la historia completa es más compleja que un titular, y los detalles que no se dijeron esa noche son los que realmente importan.

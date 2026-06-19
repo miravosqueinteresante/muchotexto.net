@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Pulso Paraguay: Abuso de menores — 31 de mayo de 2026"
 date: 2026-05-31
+last_modified_at: 2026-05-31
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
+description: "Abuso de menores: el debate genera controversia en la sociedad paraguaya. Reporte diario de noticias de Paraguay del 31 de mayo de 2026."
 ---
 
 PULSO DIARIO PARAGUAY  

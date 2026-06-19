@@ -1,0 +1,27 @@
+# muchotexto.net
+> Blog de Cesar Sanchez. Análisis profundo de Paraguay con IA, editoriales diarias, cultura, filosofía y política. Lectura sin distracciones.
+
+## Secciones principales
+
+- [Inicio](https://muchotexto.net/): Últimos artículos y editoriales
+- [Archivo](https://muchotexto.net/archive/): Todos los artículos ordenados por año
+- [Categorías](https://muchotexto.net/categories/): Artículos agrupados por categoría
+- [Etiquetas](https://muchotexto.net/tags/): Artículos agrupados por etiqueta
+- [Acerca de](https://muchotexto.net/about/): Sobre el autor y la filosofía del blog
+
+## Series y contenido recurrente
+
+- [Pulso Paraguay](https://muchotexto.net/categories/#pulso-paraguay): Reporte diario con las noticias más relevantes de Paraguay, análisis de sentimiento y temperatura social, generado por IA a partir de fuentes periodísticas verificadas.
+- [Editorial diaria](https://muchotexto.net/categories/#editorial): Artículo de opinión generado por IA que analiza los acontecimientos del día con profundidad cultural, filosófica, sociológica y política. Cada editorial se basa en el Pulso Paraguay del mismo día.
+- [Blog](https://muchotexto.net/categories/#blog): Ensayos y artículos de fondo sobre tecnología, cultura, filosofía y sociedad paraguaya.
+
+## Artículos destacados
+
+- [La IA cuesta más que los humanos que reemplazó](https://muchotexto.net/blog/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/): Verificación de datos y análisis del estado real de la inversión en IA y qué significa para Paraguay.
+- [Tokenización del agro paraguayo](https://muchotexto.net/blog/2026/05/18/tokenizacion-del-agro-paraguay/): Análisis sobre la tokenización de activos agrícolas en Paraguay.
+- [Qué es realmente el fútbol](https://muchotexto.net/blog/2026/06/10/que-es-realmente-el-futbol/): Reflexión filosófica sobre el fútbol más allá del espectáculo.
+
+## Información técnica
+
+- Sitemap: https://muchotexto.net/sitemap.xml
+- Feed RSS/Atom: https://muchotexto.net/feed.xml

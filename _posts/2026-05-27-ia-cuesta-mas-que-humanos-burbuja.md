@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "La IA cuesta más que los humanos que reemplazó: lo que dicen los números"
 date: 2026-05-27
+last_modified_at: 2026-05-27
 categories: blog
 tags: ia inteligencia-artificial burbuja tecnología inversión paraguay centros-datos economía
+description: "Uber quemó su presupuesto de IA en 4 meses. Starbucks eliminó su sistema porque funcionaba peor que un humano. ¿Estamos viendo el principio del fin de la burbuja de la IA?"
 ---
 
 Hay un post que circula en redes sociales y que probablemente ya viste. Dice que Uber quemó todo su presupuesto anual de IA en cuatro meses. Que Microsoft está retirando licencias a sus propios ingenieros. Que Starbucks eliminó su sistema de inventario porque funcionaba peor que un empleado humano. Y que un vicepresidente de NVIDIA admitió que la IA cuesta más que los trabajadores que supuestamente reemplaza. El post termina con una pregunta: ¿estamos viendo el principio del fin de la burbuja de la IA?

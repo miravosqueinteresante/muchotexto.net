@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Pulso Paraguay: Caso Kattya — 10 de junio de 2026"
 date: 2026-06-10
+last_modified_at: 2026-06-10
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
+description: "Caso Kattya González: se cuestiona la idoneidad del sistema de justicia paraguayo. Reporte diario de noticias de Paraguay del 10 de junio de 2026."
 ---
 
 PULSO DIARIO PARAGUAY  

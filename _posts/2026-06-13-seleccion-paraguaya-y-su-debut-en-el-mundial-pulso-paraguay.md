@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Pulso Paraguay: Selección Paraguaya y su debut en el Mundial — 13 de junio de 2026"
 date: 2026-06-13
+last_modified_at: 2026-06-13
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
+description: "La Selección Paraguaya cae ante Estados Unidos en su debut mundialista. Reporte diario de noticias de Paraguay del 13 de junio de 2026."
 ---
 
 PULSO DIARIO PARAGUAY  

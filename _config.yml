@@ -24,6 +24,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muchotexto.net"
 twitter_username: cesanz
 github_username:  miravosqueinteresante
+logo: /assets/images/muchotextonet-logo.png
+twitter:
+  card: summary_large_image
 
 # Build settings
 # Theme files are local (copied from monophase)

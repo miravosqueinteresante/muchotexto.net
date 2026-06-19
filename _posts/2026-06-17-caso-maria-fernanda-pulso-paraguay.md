@@ -1,8 +1,9 @@
----
+﻿---
 layout: post
 title: "Pulso Paraguay: Caso María Fernanda — 17 de junio de 2026"
 description: "MIÉRCOLES 17 de junio de 2026 Última actualización: 11:39 TEMA 1 DEL DÍA: Caso María Fernanda El caso sigue generando repercusiones por los testimonios..."
 date: 2026-06-17
+last_modified_at: 2026-06-17
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
 ---

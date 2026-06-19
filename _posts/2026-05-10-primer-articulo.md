@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Bienvenidos a muchotexto.net"
 date: 2026-05-10
+last_modified_at: 2026-05-10
 categories: blog
 tags: bienvenida
+description: "Pasamos horas desplazando feeds infinitos y no terminamos nada. muchotexto.net nace como un espacio de lectura profunda, sin distracciones, donde el texto es el protagonista absoluto."
 ---
 
 Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque "no hay tiempo". El contenido se volvió ruido de fondo. Y lo peor: empezamos a sentir que está bien.

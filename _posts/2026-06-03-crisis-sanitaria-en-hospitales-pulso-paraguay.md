@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Pulso Paraguay: Crisis sanitaria en hospitales — 3 de junio de 2026"
 date: 2026-06-03
+last_modified_at: 2026-06-03
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
+description: "Crisis sanitaria en hospitales: falta de insumos y descontento social. Reporte diario de noticias de Paraguay del 3 de junio de 2026."
 ---
 
 PULSO DIARIO PARAGUAY  

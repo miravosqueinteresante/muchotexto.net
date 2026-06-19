@@ -1,9 +1,11 @@
----
+﻿---
 layout: post
 title: "Pulso Paraguay: Santiago Peña y la denuncia de enriquecimiento ilícito — 29 de mayo de 2026"
 date: 2026-05-29
+last_modified_at: 2026-05-29
 categories: blog
 tags: pulso paraguay actualidad política economía deportes
+description: "Santiago Peña y la denuncia de enriquecimiento ilícito. Reporte diario de noticias de Paraguay con análisis de sentimiento y temperatura social del 29 de mayo de 2026."
 ---
 
 PULSO DIARIO PARAGUAY  
