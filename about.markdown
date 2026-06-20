@@ -17,7 +17,3 @@ permalink: /about/
 **Lectura profunda.** En un mundo de contenido efímero, apostamos por el texto que necesita tiempo para decir lo que tiene que decir.
 
 El sitio se sostiene con publicidad no intrusiva para cubrir sus costos y seguir siendo un espacio independiente.
-
-## Contacto
-
-Podés encontrarme en [X](https://x.com/cesanz) o escribir a **cesar.sanchez.melgarejo@gmail.com**.
