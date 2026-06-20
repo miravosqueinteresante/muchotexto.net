@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Pérdida de investidura de Kattya González — 9 de junio de 2026"
 date: 2026-06-09
 last_modified_at: 2026-06-09
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Pérdida de investidura de Kattya González: la decisión de la Corte genera fuertes reacciones. Reporte diario de noticias de Paraguay del 9 de junio de 2026."
 ---

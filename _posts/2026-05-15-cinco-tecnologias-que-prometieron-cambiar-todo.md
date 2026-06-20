@@ -3,7 +3,7 @@ layout: post
 title: "5 tecnologías que prometieron cambiar todo pero no cambiaron nada"
 date: 2026-05-15
 last_modified_at: 2026-05-15
-categories: blog
+categories: articulos
 tags: tecnología crítica metaverso nfts hyperloop google-glass segway
 description: "Metaverso, NFTs, Hyperloop, Google Glass, Segway: cinco tecnologías que prometieron revolucionar el mundo y terminaron siendo promesas vacías. Un análisis de por qué fracasaron."
 ---

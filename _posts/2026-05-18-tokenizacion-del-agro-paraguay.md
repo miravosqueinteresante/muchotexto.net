@@ -3,7 +3,7 @@ layout: post
 title: "Soja, ganado y blockchain: la apuesta paraguaya por la tokenización del agro"
 date: 2026-05-18
 last_modified_at: 2026-05-18
-categories: blog
+categories: articulos
 tags: tecnología paraguay tokenización agro blockchain ley-7572 fintech
 description: "La Ley 7572 abre la puerta a tokenizar soja, ganado y tierras en blockchain. ¿Revolución financiera o burbuja especulativa? Lo que la tokenización del agro significa para Paraguay."
 ---

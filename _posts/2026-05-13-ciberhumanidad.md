@@ -3,7 +3,7 @@ layout: post
 title: "El futuro de la identidad y la conciencia"
 date: 2026-05-13
 last_modified_at: 2026-05-13
-categories: blog
+categories: articulos
 tags: tecnología filosofía identidad
 description: "Vivimos la era más conectada de la historia y también la más solitaria. Un ensayo sobre cómo la tecnología fragmenta nuestra atención, nuestras relaciones y nuestra identidad."
 ---

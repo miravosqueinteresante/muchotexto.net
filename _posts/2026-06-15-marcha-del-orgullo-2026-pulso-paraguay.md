@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Marcha del Orgullo 2026 — 15 de junio de 2026"
 date: 2026-06-15
 last_modified_at: 2026-06-15
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Marcha del Orgullo 2026: exigen ley contra la discriminación en Paraguay. Reporte diario de noticias de Paraguay del 15 de junio de 2026."
 ---

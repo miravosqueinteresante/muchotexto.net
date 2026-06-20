@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Debut de la Albirroja en el Mundial de la FIFA 2026 — 11 de junio de 2026"
 date: 2026-06-11
 last_modified_at: 2026-06-11
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Debut de la Albirroja en el Mundial de la FIFA 2026: Paraguay en el centro de atención global. Reporte diario del 11 de junio de 2026."
 ---

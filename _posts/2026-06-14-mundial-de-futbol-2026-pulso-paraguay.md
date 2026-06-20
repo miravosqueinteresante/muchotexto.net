@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Mundial de Fútbol 2026 — 14 de junio de 2026"
 date: 2026-06-14
 last_modified_at: 2026-06-14
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Mundial de Fútbol 2026: Paraguay genera gran volumen de conversación y reacciones en redes. Reporte diario del 14 de junio de 2026."
 ---

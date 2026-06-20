@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Corrupción y Justicia — 30 de mayo de 2026"
 date: 2026-05-30
 last_modified_at: 2026-05-30
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Corrupción y Justicia: indignación social tras escándalo que involucra a figuras judiciales. Reporte diario de noticias de Paraguay del 30 de mayo de 2026."
 ---

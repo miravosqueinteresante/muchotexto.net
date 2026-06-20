@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Manifestación por ingresos a la Policía — 28 de mayo de 2026"
 date: 2026-05-28
 last_modified_at: 2026-05-28
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Manifestación por ingresos a la Policía Nacional. Reporte diario de noticias de Paraguay con análisis de sentimiento y temperatura social del 28 de mayo de 2026."
 ---

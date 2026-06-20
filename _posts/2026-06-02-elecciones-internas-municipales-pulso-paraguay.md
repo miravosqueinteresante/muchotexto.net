@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Elecciones internas municipales — 2 de junio de 2026"
 date: 2026-06-02
 last_modified_at: 2026-06-02
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Elecciones internas municipales: intenso debate y movimiento político. Reporte diario de noticias de Paraguay del 2 de junio de 2026."
 ---

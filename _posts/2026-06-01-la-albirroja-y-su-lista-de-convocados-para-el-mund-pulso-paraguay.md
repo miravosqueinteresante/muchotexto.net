@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: La Albirroja y su lista de convocados para el Mundial — 1 de junio de 2026"
 date: 2026-06-01
 last_modified_at: 2026-06-01
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "La Albirroja y su lista de convocados para el Mundial 2026. Reporte diario de noticias de Paraguay con análisis de sentimiento del 1 de junio de 2026."
 ---

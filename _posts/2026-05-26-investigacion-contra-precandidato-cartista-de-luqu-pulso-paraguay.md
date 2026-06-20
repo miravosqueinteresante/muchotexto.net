@@ -3,7 +3,7 @@ layout: post
 title: "Pulso Paraguay: Investigación contra precandidato cartista de Luque — 26 de mayo de 2026"
 date: 2026-05-26
 last_modified_at: 2026-05-26
-categories: blog
+categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 description: "Investigación contra precandidato cartista de Luque. Reporte diario de noticias de Paraguay con análisis de sentimiento y temperatura social del 26 de mayo de 2026."
 ---

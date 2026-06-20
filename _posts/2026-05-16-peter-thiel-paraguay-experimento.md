@@ -3,7 +3,7 @@ layout: post
 title: "El experimento paraguayo de Peter Thiel"
 date: 2026-05-16
 last_modified_at: 2026-05-16
-categories: blog
+categories: articulos
 tags: tecnología política privacidad paraguay palantir vigilancia ia
 description: "Peter Thiel se reunió con Santiago Peña en Mburuvicha Róga. ¿Qué busca uno de los hombres más ricos de Silicon Valley en Paraguay? Un análisis sobre Palantir, vigilancia y geopolítica."
 ---
