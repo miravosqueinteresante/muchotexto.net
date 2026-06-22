@@ -42,7 +42,7 @@ def fmt_fecha(dt: datetime) -> str:
 def make_meta_description(content: str, max_len: int = 155) -> str:
     lines = content.strip().split("\n")
     useful = "\n".join(line for line in lines if not line.strip().startswith("PULSO DIARIO"))
-    plain = re.sub(r"[#*_\[\]()`>|~]", "", useful)
+    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", useful)
     plain = re.sub(r"[📅🕐🌡🏛💰⚽🎭🚨🔥📊🔍🔎💡📈]", "", plain)
     plain = re.sub(r"\s+", " ", plain).strip()
     if len(plain) <= max_len:
@@ -354,8 +354,8 @@ def save_post(content: str):
 
     frontmatter = f"""---
 layout: post
-title: "{title}"
-description: "{make_meta_description(content)}"
+title: "{sanitize_yaml(title)}"
+description: "{sanitize_yaml(make_meta_description(content))}"
 date: {date_str}
 last_modified_at: {date_str}
 categories: pulso-paraguay
@@ -373,6 +373,10 @@ tags: pulso paraguay actualidad política economía deportes
 
     log.info("Post guardado: %s", filepath)
     return filepath
+
+
+def sanitize_yaml(text: str) -> str:
+    return text.replace('"', '').replace("'", "")
 
 
 def main():

@@ -136,9 +136,12 @@ def extract_title_and_body(markdown_text: str) -> tuple[str, str]:
         body = markdown_text
     return title, body
 
+def sanitize_yaml(text: str) -> str:
+    return text.replace('"', '').replace("'", "")
+
 
 def make_meta_description(body: str, max_len: int = 155) -> str:
-    plain = re.sub(r"[#*_\[\]()`>|~]", "", body)
+    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", body)
     plain = re.sub(r"\s+", " ", plain).strip()
     if len(plain) <= max_len:
         return plain
@@ -155,8 +158,8 @@ def save_editorial_post(title: str, body: str):
 
     frontmatter = f"""---
 layout: post
-title: "{title}"
-description: "{meta_desc}"
+title: "{sanitize_yaml(title)}"
+description: "{sanitize_yaml(meta_desc)}"
 date: {date} {PY_TIME} -0400
 last_modified_at: {date}
 categories: editorial
