@@ -3,6 +3,9 @@ name: Build and deploy Jekyll to GitHub Pages
 on:
   push:
     branches: ["main"]
+  workflow_run:
+    workflows: ["🇵🇾 Pulso Diario Paraguay", "Editorial Diario"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
