@@ -174,7 +174,7 @@ El expresidente de ANDE, Pedro Ferreira, advirtió que Paraguay podría "empeña
 
 X8 Cloud, empresa con sede en Los Ángeles, firmó un contrato con ANDE para construir el megacentro de IA "más grande de América Latina". Inversión proyectada: entre USD 10.000 y 50.000 millones en 30 años. Su CEO exige contratos de 30 a 50 años y tarifas específicas.
 
-El 13 de mayo de 2026, Peter Thiel — cofundador de PayPal y Palantir, entre las 90 personas más ricas del planeta según Forbes — se reunió con Peña junto a Cully Cavness, cofundador de Crusoe AI. El mensaje oficial: exploraban Paraguay como sede para centros de datos. Thiel, que ha declarado que "ya no cree que la libertad y la democracia sean compatibles", encontró en Paraguay un gobierno con necesidad desesperada de inversión, una ley de protección de datos cuyo plazo de adecuación vence en noviembre de 2027, y un sistema de contratación pública con controles históricamente débiles.
+[Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) — cofundador de PayPal y Palantir, entre las 90 personas más ricas del planeta según Forbes — se reunió con Peña junto a Cully Cavness, cofundador de Crusoe AI. El mensaje oficial: exploraban Paraguay como sede para centros de datos. La misma semana, [Paraguay y Taiwán firmaban el memorándum de Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto de centro de IA binacional más ambicioso de la región.
 
 ---
 

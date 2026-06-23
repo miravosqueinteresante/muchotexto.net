@@ -60,7 +60,7 @@ El Fondo de Cooperación y Desarrollo Internacional de Taiwán (ICDF) ya contact
 
 ### La paradoja energética: producir no es entregar
 
-Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, tiene un techo de transmisión de aproximadamente 1.700 megavatios y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor.
+Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, tiene un techo de transmisión de aproximadamente 1.700 megavatios y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
 
 La Fase III del proyecto requeriría 1.500 megavatios. Es decir, casi toda la capacidad actual de transmisión del país, dedicada exclusivamente a un solo data center. Sin una inversión masiva en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
 

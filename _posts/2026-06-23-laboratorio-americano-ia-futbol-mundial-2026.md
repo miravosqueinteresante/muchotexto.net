@@ -16,7 +16,7 @@ Nada de esto es suerte. Es el resultado de tres años de inversión sistemática
 
 ## 1. Sportian: la inteligencia artificial en el banco de suplentes
 
-La imagen ya es icónica: Mauricio Pochettino en el banco del SoFi Stadium, con una laptop abierta, rodeado de asistentes, mirando datos en tiempo real mientras sus jugadores desarman a Paraguay 4-1. Lo que corre en esa pantalla se llama **Sportian Performance**, una plataforma de análisis táctico con inteligencia artificial desarrollada por Globant, la empresa de software argentina que cotiza en la bolsa de Nueva York.
+La imagen ya es icónica: Mauricio Pochettino en el banco del SoFi Stadium, con una laptop abierta, rodeado de asistentes, mirando datos en tiempo real mientras sus jugadores desarman a [Paraguay 4-1]({% post_url 2026-06-10-que-es-realmente-el-futbol %}). Lo que corre en esa pantalla se llama **Sportian Performance**, una plataforma de análisis táctico con inteligencia artificial desarrollada por Globant, la empresa de software argentina que cotiza en la bolsa de Nueva York.
 
 Sportian hace tres cosas que ningún asistente técnico humano puede hacer simultáneamente. Antes del partido, genera reportes automatizados comparando métricas del rival, crea sesiones de entrenamiento personalizadas por jugador y produce recursos visuales para comunicar conceptos tácticos. Durante el partido —y esto es lo nuevo— integra video táctico, tracking de jugadores en vivo y notificaciones generadas por IA sobre cambios de comportamiento colectivo e indicadores físicos. Después del partido, procesa miles de métricas y detecta patrones que el ojo humano tardaría días en encontrar.
 

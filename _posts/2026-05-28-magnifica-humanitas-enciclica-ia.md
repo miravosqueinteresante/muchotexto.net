@@ -120,7 +120,7 @@ La conexión es poderosa: la Iglesia que llegó tarde a condenar la esclavitud n
 
 Todo lo anterior sería una discusión académica si no tuviera una conexión directa con la realidad del país desde el que se escribe este artículo. La tiene, y profunda.
 
-Paraguay está en el centro de una de las apuestas más grandes del mundo en infraestructura de inteligencia artificial. En menos de dos años, se han anunciado proyectos que, de concretarse, transformarían radicalmente el perfil energético y económico del país:
+Paraguay está en el centro de [una de las apuestas más grandes del mundo en infraestructura de inteligencia artificial]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}). También está en el radar de [inversores como Peter Thiel, que ven en el vacío regulatorio paraguayo una ventana de oportunidad]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}). En menos de dos años, se han anunciado proyectos que, de concretarse, transformarían radicalmente el perfil energético y económico del país:
 
 - **X8 Cloud**, una empresa fundada en enero de 2025, proyecta invertir entre 10.000 y 50.000 millones de dólares en 30 años. La fase inicial es modesta —6 MW, unos 260 millones de dólares, 4.000 GPUs— pero la empresa declaró a BNamericas que su objetivo es alcanzar 5 GW. El presidente de ANDE firmó un memorándum de entendimiento, pero la propia entidad aclaró que el documento no es vinculante y no obliga a ninguna de las partes a concretar el proyecto. La cifra de 50.000 millones es el techo máximo a 30 años, no una inversión asegurada. Críticos señalaron que el CEO, Juan Carlos Dueñas, proviene del mundo de startups de realidad virtual y música, sin experiencia previa en infraestructura de centros de datos.
 

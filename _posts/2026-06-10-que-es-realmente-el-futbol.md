@@ -246,7 +246,7 @@ El artífice del regreso fue Gustavo Alfaro, un argentino que entendió el alma 
 
 Bajo su dirección, Paraguay logró una racha invicta de nueve partidos, incluyendo victorias contra Brasil (1-0 en Asunción), Argentina (2-1) y Uruguay (2-0). Alfaro declaró: *"Uno no dirige a Paraguay, uno lo entrena. Porque a Paraguay no lo dirige cualquiera. Paraguay se entrena, se educa, se convence."*
 
-Paraguay está en el Grupo D del Mundial 2026, con Estados Unidos, Turquía y Australia. No es favorito. Paraguay nunca es favorito. Paraguay llega como llegan los que no tienen miedo a perder porque ya han perdido todo y volvieron. La garra guaraní no es un eslogan de camiseta: es una forma de existir.
+Paraguay está en el Grupo D del Mundial 2026, con Estados Unidos, Turquía y Australia. No es favorito. Paraguay nunca es favorito. [El mismo Estados Unidos que está usando inteligencia artificial para reinventar su fútbol]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %}). Paraguay llega como llegan los que no tienen miedo a perder porque ya han perdido todo y volvieron. La garra guaraní no es un eslogan de camiseta: es una forma de existir.
 
 Es la historia de un país pequeño, sin costa, sin estrellas rutilantes, que ha sobrevivido a dos guerras devastadoras, que habla una lengua indígena que no se calló, que le ha ganado a Brasil, que ha llegado a cuartos de final, que ha clasificado cuando nadie apostaba. Cuando la Albirroja salga a la cancha este junio, no va a estar jugando solo el equipo: va a estar jugando cada persona que alguna vez soñó con que este país podía ser algo más que lo que dicen los titulares de siempre.
 

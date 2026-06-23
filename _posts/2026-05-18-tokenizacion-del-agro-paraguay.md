@@ -129,7 +129,7 @@ Suiza exige auditoría técnica de smart contracts desde su DLT Act de 2021. VAR
 
 La Ley de Protección de Datos Personales (Ley 7593/2025) se aprobó en noviembre de 2025. Está inspirada en el GDPR europeo y la LGPD brasileña. Tiene todos los elementos correctos: consentimiento explícito, derechos de acceso y cancelación, sanciones de hasta 10.000 salarios mínimos. Pero no entra en vigor hasta noviembre de 2027. La agencia reguladora aún no se ha creado. Los reglamentos secundarios no se han redactado.
 
-Paraguay no tiene, hoy, ninguna ley de protección de datos efectiva. Una plataforma de tokenización que procese datos financieros de productores e inversores opera en un vacío legal completo.
+Paraguay no tiene, hoy, ninguna ley de protección de datos efectiva. Una plataforma de tokenización que procese datos financieros de productores e inversores opera [en un país que está recibiendo inversiones billonarias en infraestructura de IA]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) y [abriendo sectores estratégicos al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) sin un marco de protección de datos que funcione.
 
 ---
 

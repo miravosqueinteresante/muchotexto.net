@@ -14,7 +14,7 @@ Pero no está bien. O al menos, no tiene por qué ser la única forma de consumi
 
 Hay otra manera. Más lenta, más tranquila, más profunda. Una en la que el texto no compite con animaciones ni ventanas emergentes. Una en la que el protagonista es lo que está escrito, y nada más.
 
-Así nació **muchotexto.net**, con ayuda de la inteligencia artificial, con OpenCode y con GitHub. Asistido por la tecnología. Y porque para expresar ideas, a veces hay mucho texto, y me parece que eso está bien.
+Así nació **muchotexto.net**, con ayuda de la inteligencia artificial, con OpenCode y con GitHub. Asistido por la tecnología, [con la convicción de que necesitamos pensar qué hacemos con nuestra identidad digital]({% post_url 2026-05-13-ciberhumanidad %}) y [con la certeza de que la IA no es una herramienta neutral]({% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %}). Y porque para expresar ideas, a veces hay mucho texto, y me parece que eso está bien.
 
 ---
 

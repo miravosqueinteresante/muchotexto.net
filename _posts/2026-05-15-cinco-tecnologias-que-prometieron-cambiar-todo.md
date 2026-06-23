@@ -12,7 +12,7 @@ Hay un patrón que se repite cada cierto tiempo en la industria tecnológica. Al
 
 No es que estas tecnologías sean necesariamente malas. Algunas funcionaban bien. Otras tenían ideas interesantes. Pero ninguna cambió el mundo como prometió. Lo que compartieron fue un desajuste monumental entre la promesa y la realidad, la expectativa y el resultado, el hype y el producto.
 
-Acá van cinco ejemplos que vale la pena recordar, sobre todo ahora que estamos viendo el mismo patrón con otra tecnología que, esta vez sí, nos prometen que lo va a cambiar todo.
+Acá van cinco ejemplos que vale la pena recordar, sobre todo ahora que estamos viendo el mismo patrón con [otra tecnología que, esta vez sí, nos prometen que lo va a cambiar todo]({% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %}).
 
 ---
 
