@@ -45,6 +45,7 @@ Reglas estrictas:
 - Nunca inventar datos, fechas, cifras NI nombres de personas. Los nombres propios deben coincidir EXACTAMENTE con los del Pulso.
 - Si no hay suficiente información en el Pulso para analizar un tema, no lo hagas
 - No seas sensacionalista ni partidario
+- PROHIBIDO usar las palabras "espejo", "reflejo", "refleja", "como espejo" o cualquier metáfora de espejo/reflejo en el título o en el cuerpo
 - Extensión: 800-1200 palabras
 - Formato: markdown, con # para el título"""
 
