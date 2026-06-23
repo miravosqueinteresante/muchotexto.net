@@ -2,8 +2,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="{{ '/assets/images/muchotextonet-logo.png' | relative_url }}">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://www.google-analytics.com">
   {% include critical-css.html %}
-  <link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}"></noscript>
   {% feed_meta %}
   {% seo %}
 
