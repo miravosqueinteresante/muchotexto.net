@@ -30,7 +30,7 @@ Las editoriales son generadas por GPT-4o con un system prompt que define una voz
 
 Ensayos long-form de investigación y análisis que cruzan tecnología, política, economía, filosofía y cultura desde una perspectiva paraguaya. Estos artículos no son generados automáticamente: cada uno pasa por un proceso de investigación con múltiples fuentes, verificación de datos cruzada y redacción cuidada.
 
-El objetivo es ocupar un espacio vacío en el ecosistema de medios: el del análisis profundo de la inteligencia artificial y la tecnología desde Paraguay. Ni la prensa local cubre estos temas con la profundidad que merecen, ni la prensa internacional los cubre desde la perspectiva paraguaya.
+El objetivo es aportar una perspectiva que hoy no abunda: el análisis profundo de la inteligencia artificial y la tecnología desde Paraguay, escrito en español y pensado tanto para lectores locales como para cualquiera que quiera entender qué está pasando en esta parte del mundo.
 
 Algunos temas que hemos tratado: el proyecto Yguazú Digital con Taiwán, la tokenización del agro, la burbuja de la inteligencia artificial, la geopolítica de Peter Thiel en Paraguay, la primera encíclica papal sobre IA, y el uso de inteligencia artificial en el fútbol del Mundial 2026.
 
