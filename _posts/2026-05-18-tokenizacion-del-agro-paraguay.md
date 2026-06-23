@@ -5,7 +5,7 @@ date: 2026-05-18
 last_modified_at: 2026-05-18
 categories: articulos
 tags: tecnología paraguay tokenización agro blockchain ley-7572 fintech
-description: "La Ley 7572 abre la puerta a tokenizar soja, ganado y tierras en blockchain. ¿Revolución financiera o burbuja especulativa? Lo que la tokenización del agro significa para Paraguay."
+description: "La Ley 7572 abre la puerta a tokenizar soja, ganado y tierras en blockchain. Lo que la tokenización del agro significa para Paraguay."
 ---
 
 Hay una idea que está girando en los círculos fintech paraguayos y que promete cambiar quién financia el campo, cómo se vende la cosecha y hasta quién puede ser dueño de un pedazo de tierra sin moverse de su casa. Se llama tokenización agropecuaria, y la noticia ya tiene título: "Paraguay abre las puertas para la tokenización del agro", publicó ABC Color. Bruno Vaccotti, director de la Cámara Paraguaya de Fintech, hablaba de tokenizar ganado, granos y tierras. La Ley 7572/2025 del Mercado de Valores y Productos ya reconoce instrumentos emitidos en tecnología de registro distribuido — blockchain, para entendernos — y los reglamentos secundarios están en camino.
@@ -200,7 +200,7 @@ La Ley 7572/2025 no dice nada de eso. Y lo que una ley no dice es tan importante
 <li><strong>PwC Brazil</strong> – <a href="https://www.pwc.com.br/pt/consultoria/agtech-innovation/agtech-innovation-news/materias/2024/Agrotoken-pioneira-na-tokenizacao-de-graos-passa-a-oferecer-sua-infraestrutura-de-blockchain-como-servico.html">Agrotoken blockchain infrastructure as a service</a></li>
 <li><strong>FCA UK</strong> – <a href="https://www.fca.org.uk/publication/research-and-data/regulatory-sandbox-lessons-learned-report.pdf">Regulatory sandbox lessons learned</a></li>
 <li><strong>IDB</strong> – <a href="https://publications.iadb.org/publications/english/document/Regulatory-Sandboxes-Innovation-Hubs-and-Other-Regulatory-Innovation-Tools-in-Latin-America-and-the-Caribbean.pdf">Regulatory Sandboxes, Innovation Hubs in LAC</a></li>
-<li><strong>INVENTTA / Doble Filo MX</strong> – <a href="https://doblefilomx.com/blockchain-en-paraguay-condiciones-para-la-soberania-digital/">Blockchain soberana paraguaya</a></li>
+<li><strong>INVENTTA / Doble Filo MX</strong> – Blockchain soberana paraguaya</li>
 <li><strong>RDN</strong> – <a href="https://www.rdn.com.py/2026/02/10/paraguay-en-las-puertas-del-negocio-bitcoin/">Entrevista a Bruno Vaccotti</a> (Feb 2026)</li>
 <li><strong>Vouga Abogados</strong> – <a href="https://www.vouga.com.py/en/avances-en-la-regulacion-fintech-en-el-paraguay-criptomonedas-y-cripto-activos/">Avances en regulación fintech</a></li>
 <li>**Nethermind** — "Securing Tokenized RWAs" (2026)</li>

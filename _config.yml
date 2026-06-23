@@ -53,7 +53,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/muchotextonet-logo.png
+      image: /assets/images/og-image.png
 
 include:
   - CNAME

@@ -5,7 +5,7 @@ date: 2026-05-15
 last_modified_at: 2026-05-15
 categories: articulos
 tags: tecnología crítica metaverso nfts hyperloop google-glass segway
-description: "Metaverso, NFTs, Hyperloop, Google Glass, Segway: cinco tecnologías que prometieron revolucionar el mundo y terminaron siendo promesas vacías. Un análisis de por qué fracasaron."
+description: "Metaverso, NFTs, Hyperloop, Google Glass, Segway: cinco tecnologías que prometieron revolucionar el mundo y terminaron siendo promesas vacías."
 ---
 
 Hay un patrón que se repite cada cierto tiempo en la industria tecnológica. Alguien — un emprendedor carismático, una consultora con un PowerPoint, un CEO en una conferencia — anuncia que el futuro llegó. Que tal o cual tecnología va a revolucionarlo todo. Que el mundo después de esto no va a ser igual. Los titulares se llenan de predicciones millonarias. Los inversores escriben cheques enormes. Los medios compiten por ver quién usa el adjetivo más grandilocuente. Y luego, invariablemente, pasa lo que siempre pasa: la tecnología no cambia nada.

@@ -5,7 +5,7 @@ date: 2026-05-13
 last_modified_at: 2026-05-13
 categories: articulos
 tags: tecnología filosofía identidad
-description: "Vivimos la era más conectada de la historia y también la más solitaria. Un ensayo sobre cómo la tecnología fragmenta nuestra atención, nuestras relaciones y nuestra identidad."
+description: "Vivimos la era más conectada de la historia y también la más solitaria. Cómo la tecnología fragmenta nuestra atención, relaciones e identidad."
 ---
 
 Vivimos en la era más conectada de la historia y, al mismo tiempo, en una de las más solitarias. Tenemos el conocimiento del mundo en el bolsillo, pero cada vez leemos menos de cinco minutos seguidos sin mirar una notificación. La tecnología prometió liberarnos y, en muchos sentidos, lo hizo. Pero también trajo algo que no esperábamos: una fragmentación silenciosa de nuestra atención, de nuestras relaciones y de nosotros mismos.
