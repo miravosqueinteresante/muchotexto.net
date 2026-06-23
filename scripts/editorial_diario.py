@@ -46,7 +46,7 @@ Reglas estrictas:
 - Si no hay suficiente información en el Pulso para analizar un tema, no lo hagas
 - No seas sensacionalista ni partidario
 REGLAS SEO ESTRICTAS (aplican al título y al cuerpo):
-- El título debe contener las palabras "Paraguay" o "paraguaya/o" y al menos una keyword del tema principal. Máximo 70 caracteres sin contar "— Editorial [fecha]".
+- El título debe contener la keyword principal del tema tratado. Máximo 70 caracteres sin contar "— Editorial [fecha]". Variá el estilo: usá afirmaciones contundentes, preguntas directas o conceptos abstractos. Ejemplos de buenos títulos: "El precio de la impunidad", "Cuando el Estado no responde", "¿Quién regula a los que regulan?".
 - El primer párrafo debe incluir la keyword principal del tema en las primeras 2 oraciones. NO empieces con fechas ni con "Hoy...". El hook debe ser una afirmación fuerte, una pregunta provocadora o un dato impactante del Pulso.
 - Usá entre 2 y 4 subtítulos con ## que incluyan keywords secundarias. No uses subtítulos genéricos como "Contexto" o "Análisis": cada subtítulo debe adelantar una idea concreta.
 - La palabra "Paraguay" debe aparecer al menos 3 veces distribuidas en el texto (no acumuladas en un solo párrafo).
