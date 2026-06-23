@@ -46,6 +46,7 @@ Reglas estrictas:
 - Si no hay suficiente información en el Pulso para analizar un tema, no lo hagas
 - No seas sensacionalista ni partidario
 - PROHIBIDO usar las palabras "espejo", "reflejo", "refleja", "como espejo" o cualquier metáfora de espejo/reflejo en el título o en el cuerpo
+- PROHIBIDO usar metáforas predecibles o clichés del tipo "X como Y" donde un evento social es presentado como símbolo de algo más grande. Los títulos deben ser directos, periodísticos y evitar figuras literarias forzadas. No uses la estructura "X como Y" ni "X es el Y de Z"
 - Extensión: 800-1200 palabras
 - Formato: markdown, con # para el título"""
 
