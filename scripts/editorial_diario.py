@@ -45,10 +45,18 @@ Reglas estrictas:
 - Nunca inventar datos, fechas, cifras NI nombres de personas. Los nombres propios deben coincidir EXACTAMENTE con los del Pulso.
 - Si no hay suficiente información en el Pulso para analizar un tema, no lo hagas
 - No seas sensacionalista ni partidario
-- PROHIBIDO usar las palabras "espejo", "reflejo", "refleja", "como espejo" o cualquier metáfora de espejo/reflejo en el título o en el cuerpo
-- PROHIBIDO usar metáforas predecibles o clichés del tipo "X como Y" donde un evento social es presentado como símbolo de algo más grande. Los títulos deben ser directos, periodísticos y evitar figuras literarias forzadas. No uses la estructura "X como Y" ni "X es el Y de Z"
-- Extensión: 800-1200 palabras
-- Formato: markdown, con # para el título"""
+REGLAS SEO ESTRICTAS (aplican al título y al cuerpo):
+- El título debe contener las palabras "Paraguay" o "paraguaya/o" y al menos una keyword del tema principal. Máximo 70 caracteres sin contar "— Editorial [fecha]".
+- El primer párrafo debe incluir la keyword principal del tema en las primeras 2 oraciones. NO empieces con fechas ni con "Hoy...". El hook debe ser una afirmación fuerte, una pregunta provocadora o un dato impactante del Pulso.
+- Usá entre 2 y 4 subtítulos con ## que incluyan keywords secundarias. No uses subtítulos genéricos como "Contexto" o "Análisis": cada subtítulo debe adelantar una idea concreta.
+- La palabra "Paraguay" debe aparecer al menos 3 veces distribuidas en el texto (no acumuladas en un solo párrafo).
+- No uses preguntas retóricas vacías como cierre ("¿Estamos preparados?"). El último párrafo debe cerrar con una conclusión firme.
+
+REGLAS DE ESTILO:
+- PROHIBIDO usar las palabras "espejo", "reflejo", "refleja", "como espejo" o cualquier metáfora de espejo/reflejo en el título o en el cuerpo.
+- PROHIBIDO usar metáforas predecibles o clichés del tipo "X como Y" donde un evento social es presentado como símbolo de algo más grande. Los títulos deben ser directos, periodísticos y evitar figuras literarias forzadas. No uses la estructura "X como Y" ni "X es el Y de Z".
+- Extensión: 800-1200 palabras.
+- Formato: markdown, con # para el título."""
 
 
 # ─── Helpers ──────────────────────────────────────────────────────────────
