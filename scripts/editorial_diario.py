@@ -158,6 +158,32 @@ def make_meta_description(body: str, max_len: int = 155) -> str:
     return plain[:plain.rfind(" ", 0, max_len)] + "..."
 
 
+ARTICULOS_LINKEABLES = [
+    ("Yguazú Digital", "yguazu digital", "{% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}"),
+    ("centro de datos|centro de IA|data center|centro de inteligencia artificial", "centro de IA", "{% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}"),
+    ("ANDE|sector eléctrico|apertura eléctrica|reforma energética|ley 7599", "sector eléctrico", "{% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}"),
+    ("Itaipú|energía hidroeléctrica|excedente energético", "energía de Itaipú", "{% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}"),
+    ("Peter Thiel|Palantir|Crusoe AI|Cully Cavness", "Peter Thiel", "{% post_url 2026-05-16-peter-thiel-paraguay-experimento %}"),
+    ("burbuja de la IA|burbuja inteligencia artificial|costos de la IA|cuesta más que los humanos", "burbuja de la IA", "{% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %}"),
+    ("tokenización|blockchain.*agro|soja.*token", "tokenización del agro", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
+    ("encíclica|Papa León XIV|Magnifica Humanitas|ética.*inteligencia artificial|IA.*ética", "encíclica Magnifica Humanitas", "{% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %}"),
+    ("fútbol.*Mundial|Mundial.*fútbol|Albirroja.*Mundial|selección.*Mundial 2026|Mundial 2026.*Paraguay", "la Albirroja en el Mundial 2026", "{% post_url 2026-06-10-que-es-realmente-el-futbol %}"),
+    ("inteligencia artificial.*fútbol|IA.*deporte|Sportian|Pochettino.*IA|datos.*deportivos", "uso de IA en el fútbol", "{% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %}"),
+    ("ley de protección de datos|protección de datos personales|privacidad.*datos", "ley de protección de datos", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
+    ("identidad digital|conciencia.*tecnología|ciberhumanidad", "identidad digital", "{% post_url 2026-05-13-ciberhumanidad %}"),
+]
+
+
+def add_internal_links(body: str) -> str:
+    for pattern, anchor, post_url in ARTICULOS_LINKEABLES:
+        match = re.search(pattern, body, re.IGNORECASE)
+        if match:
+            matched_text = match.group(0)
+            link = f"[{anchor}]({post_url})"
+            body = body.replace(matched_text, link, 1)
+    return body
+
+
 def save_editorial_post(title: str, body: str):
     now = now_py()
     date = date_str()
@@ -177,6 +203,7 @@ tags: editorial opinion paraguay analisis ia
 ---
 
 """
+    body = add_internal_links(body)
     full_content = frontmatter + body + "\n"
 
     os.makedirs(POSTS_DIR, exist_ok=True)
