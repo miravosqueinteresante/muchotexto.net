@@ -19,21 +19,24 @@ La caída de Paraguay ante Estados Unidos en su primer partido mundialista ha ge
 
 Convocatoria del PLRA por unidad opositora  
 
-El intendente Alcides Riveros, próximo presidente del PLRA, anunció una reunión del Directorio para fortalecer la unidad en la oposición. Este movimiento es clave en el contexto político actual del país.  
+El intendente Alcides Riveros, próximo presidente del PLRA, anunció una reunión del Directorio para fortalecer la unidad en la oposición. Este movimiento es clave en el contexto político actual del país.
+
 📊 Temperatura social: Media  
 
 💰 ECONOMÍA  
 
 Buses eléctricos en aumento  
 
-Los buses eléctricos en el área metropolitana han alcanzado 412.216 validaciones entre enero y mayo de 2026, lo que indica un creciente interés por el transporte sostenible.  
+Los buses eléctricos en el área metropolitana han alcanzado 412.216 validaciones entre enero y mayo de 2026, lo que indica un creciente interés por el transporte sostenible.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Paraguay cae 4-1 ante Estados Unidos  
 
-En su debut en el Mundial 2026, la selección paraguaya perdió 4-1, lo que ha desatado un gran debate sobre el rendimiento del equipo y las expectativas.  
+En su debut en el Mundial 2026, la selección paraguaya perdió 4-1, lo que ha desatado un gran debate sobre el rendimiento del equipo y las expectativas.
+
 📊 Temperatura social: Alta  
 
 🔹 Sudamérica apoya a la Albirroja  
@@ -44,21 +47,24 @@ Las redes sociales se llenan de mensajes de apoyo y aliento hacia la selección,
 
 Inauguración del Mundial 2026  
 
-La ceremonia de apertura del Mundial, que se realizó en el Estadio Azteca, estuvo marcada por la actuación de artistas como Shakira, generando gran emoción entre los aficionados.  
+La ceremonia de apertura del Mundial, que se realizó en el Estadio Azteca, estuvo marcada por la actuación de artistas como Shakira, generando gran emoción entre los aficionados.
+
 📊 Temperatura social: Alta  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Ataque a tiros en Juan E. O’Leary  
 
-Una mujer resultó herida en un ataque armado en O’Leary, un hecho que ha generado preocupación y discusión sobre la seguridad en la zona.  
+Una mujer resultó herida en un ataque armado en O’Leary, un hecho que ha generado preocupación y discusión sobre la seguridad en la zona.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 El fervor albirrojo en redes  
 
-El hashtag #Albirroja se volvió tendencia en las redes sociales, con miles de usuarios compartiendo mensajes de apoyo y análisis del desempeño del equipo.  
+El hashtag #Albirroja se volvió tendencia en las redes sociales, con miles de usuarios compartiendo mensajes de apoyo y análisis del desempeño del equipo.
+
 📊 Temperatura social: Alta  
 
 💡 INSIGHT DEL DÍA  
@@ -78,4 +84,7 @@ El debut de Paraguay en el Mundial y la preocupación por la seguridad revelan u
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, ADN Digital, Diario HOY, ABC Deportes.
+- ABC Color
+- ADN Digital
+- Diario HOY
+- ABC Deportes.

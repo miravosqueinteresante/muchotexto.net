@@ -19,7 +19,8 @@ La presentación de los 26 jugadores convocados para el Mundial ha generado un g
 
 Juzgado procesa a estadounidenses imputados por carga de droga traída en jet privado  
 
-El Ministerio Público ha imputado a un grupo de estadounidenses que ingresaron a Paraguay con una carga de drogas en un jet privado. Este caso ha despertado preocupación por la seguridad y el narcotráfico en el país.  
+El Ministerio Público ha imputado a un grupo de estadounidenses que ingresaron a Paraguay con una carga de drogas en un jet privado. Este caso ha despertado preocupación por la seguridad y el narcotráfico en el país.
+
 📊 Temperatura social: Alta  
 
 🔹 Críticas de Mario Abdo Benítez a Santiago Peña  
@@ -30,14 +31,16 @@ El expresidente cuestionó la respuesta del actual mandatario a las críticas, e
 
 Exportaciones del complejo cárnico sumaron ingresos de USD 930 millones a mayo  
 
-Entre enero y mayo de este año, las exportaciones del sector cárnico alcanzaron un ingreso de USD 930.320.980, con un total de 217.526 toneladas exportadas. Este crecimiento resalta la importancia del sector para la economía nacional.  
+Entre enero y mayo de este año, las exportaciones del sector cárnico alcanzaron un ingreso de USD 930.320.980, con un total de 217.526 toneladas exportadas. Este crecimiento resalta la importancia del sector para la economía nacional.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Convocatoria de la Albirroja para el Mundial 2026  
 
-La Albirroja presentó su lista oficial de 26 convocados para la Copa del Mundo, generando gran expectativa entre los aficionados.  
+La Albirroja presentó su lista oficial de 26 convocados para la Copa del Mundo, generando gran expectativa entre los aficionados.
+
 📊 Temperatura social: Alta  
 
 🔹 Cerro Porteño busca levantar la inhibición de la FIFA  
@@ -48,21 +51,24 @@ El club trabaja para resolver su situación ante la FIFA y evitar sanciones.
 
 Documental “El Renacer Albirrojo” llega a Prime Video  
 
-Este documental, que se estrena en la previa del Mundial, sigue la travesía de la selección nacional y ha generado un gran interés entre los aficionados.  
+Este documental, que se estrena en la previa del Mundial, sigue la travesía de la selección nacional y ha generado un gran interés entre los aficionados.
+
 📊 Temperatura social: Media  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Mujer indigente muere en accidente de tránsito  
 
-Una mujer supuestamente indigente fue arrollada por dos vehículos en Asunción, un triste recordatorio de las problemáticas sociales que enfrenta el país.  
+Una mujer supuestamente indigente fue arrollada por dos vehículos en Asunción, un triste recordatorio de las problemáticas sociales que enfrenta el país.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 La emotiva presentación de la Albirroja  
 
-El video de la presentación de los convocados ha sido altamente compartido en redes sociales, resonando con la pasión nacional por el fútbol.  
+El video de la presentación de los convocados ha sido altamente compartido en redes sociales, resonando con la pasión nacional por el fútbol.
+
 📊 Temperatura social: Alta  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -90,4 +96,7 @@ La gran atención hacia la convocatoria de la Albirroja no solo refleja el fervo
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, El Nacional, La Nación, ABC Deportes.
+- ABC Color
+- El Nacional
+- La Nación
+- ABC Deportes.

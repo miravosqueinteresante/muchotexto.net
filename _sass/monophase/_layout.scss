@@ -554,22 +554,13 @@ a.pagination-item:hover {
 }
 
 /**
- * Sources section
+ * Sources section — bullet list after "🔎 FUENTES CONSULTADAS HOY"
+ * ponytail: applies to any ul inside .post content; fine for this site
  */
-
-#fuentes + p,
-ol.sources-list {
+.post ul {
   font-size: 0.85em;
-}
-
-#fuentes + p strong,
-ol.sources-list strong {
-  color: var(--heading-color);
-}
-
-ol.sources-list {
-  padding-left: 1.5em;
   line-height: 1.9;
+  padding-left: 1.5em;
 
   li {
     margin-bottom: 0.35em;

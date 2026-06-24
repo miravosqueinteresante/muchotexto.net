@@ -84,4 +84,16 @@ Hoy se observa un fuerte vínculo entre la seguridad vial y el debate sobre el s
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Ciencia, ABC Color, ABC Deportes, ABC Espectáculos, ABC Mundo, ABC Tecnología, Diario HOY, Diario Popular, El Independiente, El Nacional, La Nación, La Tribuna, NPY
+- ABC Ciencia
+- ABC Color
+- ABC Deportes
+- ABC Espectáculos
+- ABC Mundo
+- ABC Tecnología
+- Diario HOY
+- Diario Popular
+- El Independiente
+- El Nacional
+- La Nación
+- La Tribuna
+- NPY

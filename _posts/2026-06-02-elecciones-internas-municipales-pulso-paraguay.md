@@ -19,7 +19,8 @@ Las elecciones internas municipales del próximo domingo generan un intenso deba
 
 Renuncia de Mujica y elección de Acuña en Ciudad del Este
 
-Daniel Pereira Mujica renunció a su cargo de intendente de Ciudad del Este para dedicarse a su campaña de reelección. En su lugar, la Junta Municipal eligió a Pedro Acuña, del mismo partido. Este cambio resalta la dinámica política en la antesala de las elecciones municipales. 
+Daniel Pereira Mujica renunció a su cargo de intendente de Ciudad del Este para dedicarse a su campaña de reelección. En su lugar, la Junta Municipal eligió a Pedro Acuña, del mismo partido. Este cambio resalta la dinámica política en la antesala de las elecciones municipales.
+
 📊 Temperatura social: Alta
 
 🔹 Investigación de lavado en IPS
@@ -30,35 +31,40 @@ Un docente vinculado a Nenecho fue suspendido por acusaciones de lavado, lo que 
 
 Inflación muestra un leve aumento en mayo
 
-La inflación en Paraguay fue del 0,1% en mayo, impulsada por la baja en los precios de bienes importados. Esta cifra refleja una estabilidad en la economía, pero también plantea interrogantes sobre el poder adquisitivo de la población. 
+La inflación en Paraguay fue del 0,1% en mayo, impulsada por la baja en los precios de bienes importados. Esta cifra refleja una estabilidad en la economía, pero también plantea interrogantes sobre el poder adquisitivo de la población.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
 
 Guaraní se consagra campeón de la Liga de Desarrollo
 
-El equipo Guaraní logró coronarse campeón de la Liga de Desarrollo, lo que genera entusiasmo entre sus hinchas y resalta la importancia de las divisiones menores en el fútbol paraguayo. 
+El equipo Guaraní logró coronarse campeón de la Liga de Desarrollo, lo que genera entusiasmo entre sus hinchas y resalta la importancia de las divisiones menores en el fútbol paraguayo.
+
 📊 Temperatura social: Media
 
 🎭 ENTRETENIMIENTO & CULTURA
 
 Jorge Drexler cautiva en Paraguay con “Taracá”
 
-El cantautor uruguayo Jorge Drexler se presentó en Paraguay y destacó que no realizará otra fecha en el BCP, lo que generó un gran interés y expectativa entre sus seguidores. 
+El cantautor uruguayo Jorge Drexler se presentó en Paraguay y destacó que no realizará otra fecha en el BCP, lo que generó un gran interés y expectativa entre sus seguidores.
+
 📊 Temperatura social: Alta
 
 🚨 SEGURIDAD & SOCIEDAD
 
 Alerta por casos de botulismo en Asunción
 
-Se confirmaron cuatro casos de botulismo vinculados al consumo de alimentos en la feria del Agroshopping. Esto ha generado preocupación en la población sobre la seguridad alimentaria y la salud pública. 
+Se confirmaron cuatro casos de botulismo vinculados al consumo de alimentos en la feria del Agroshopping. Esto ha generado preocupación en la población sobre la seguridad alimentaria y la salud pública.
+
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
 
 El fenómeno de El Niño y su impacto
 
-La ONU advirtió sobre un 80% de probabilidad de que se presente El Niño entre junio y agosto, lo que podría provocar sequías severas y olas de calor. Este anuncio ha generado un debate sobre las medidas preventivas a adoptar. 
+La ONU advirtió sobre un 80% de probabilidad de que se presente El Niño entre junio y agosto, lo que podría provocar sequías severas y olas de calor. Este anuncio ha generado un debate sobre las medidas preventivas a adoptar.
+
 📊 Temperatura social: Alta
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
@@ -86,4 +92,7 @@ La proximidad de las elecciones internas municipales está generando una intensa
 
 🔎 FUENTES CONSULTADAS HOY
 
-ABC Color, ADN Digital, Diario HOY, ABC Deportes.
+- ABC Color
+- ADN Digital
+- Diario HOY
+- ABC Deportes.

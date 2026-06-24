@@ -20,6 +20,7 @@ Las elecciones internas para la Asociación Nacional Republicana (ANR) generan u
 16.848 candidaturas para las internas de la ANR
 
 Este domingo 7 de junio se llevarán a cabo las elecciones internas de la ANR, donde 16.848 candidatos competirán por 5.921 cargos municipales en 263 distritos. La expectativa de participación es alta, con esfuerzos de los candidatos por movilizar votantes.
+
 📊 Temperatura social: Alta
 
 🔹 Denuncias de “aprietes” en la ANDE
@@ -31,6 +32,7 @@ Se denuncia un posible negociado en la ANDE, donde se menciona que el titular de
 Protestas de empleados de Biggie
 
 Los trabajadores de la cadena de minimercados Biggie continúan movilizándose, exigiendo mejores condiciones laborales y denunciando descuentos salariales y agresiones. Esta situación está generando preocupación sobre el clima laboral en el sector.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
@@ -38,6 +40,7 @@ Los trabajadores de la cadena de minimercados Biggie continúan movilizándose, 
 Paraguay se prepara para el Mundial 2026
 
 La selección paraguaya se alista para su enfrentamiento contra Nicaragua hoy, lo que genera gran expectativa entre los aficionados. El partido se llevará a cabo en el Estadio Defensores.
+
 📊 Temperatura social: Alta
 
 🔹 Nacional cumple 122 años
@@ -49,6 +52,7 @@ El club Nacional celebra su 122 aniversario, lo que genera un sentido de pertene
 Agenda cultural en la FIL Asunción
 
 La Feria Internacional del Libro (FIL) en Asunción está ofreciendo una variada propuesta cultural, incluyendo coleccionismo, nuevos lanzamientos y cortometrajes. Este evento se ha vuelto un punto de encuentro para amantes de la literatura y el arte.
+
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
@@ -56,6 +60,7 @@ La Feria Internacional del Libro (FIL) en Asunción está ofreciendo una variada
 Liberación de Almir de Brum
 
 El joven agricultor Almir de Brum fue liberado después de tres meses de secuestro, aunque las fuerzas de seguridad siguen buscando a sus captores. Esto ha generado un debate sobre la seguridad en el país y la efectividad de las operaciones de rescate.
+
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
@@ -63,6 +68,7 @@ El joven agricultor Almir de Brum fue liberado después de tres meses de secuest
 Protestas en redes sociales por descuentos en Biggie
 
 Las movilizaciones de los empleados de Biggie han cobrado fuerza en redes sociales, donde los usuarios comparten sus experiencias y apoyan la causa. Esta tendencia se ha viralizado, atrayendo la atención mediática.
+
 📊 Temperatura social: Media
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
@@ -90,7 +96,7 @@ La proximidad de las internas de la ANR ha intensificado el debate sobre la pol�
 
 🔎 FUENTES CONSULTADAS HOY
 
-- ABC Color
+- - ABC Color
 - ADN Digital
 - Diario HOY
 - ABC Deportes

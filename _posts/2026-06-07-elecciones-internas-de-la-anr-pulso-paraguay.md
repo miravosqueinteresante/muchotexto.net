@@ -19,7 +19,8 @@ Las elecciones internas de la Asociación Nacional Republicana (ANR) generaron u
 
 Desarrollo de las elecciones internas de la ANR  
 
-Las internas de la ANR se desarrollan con más de 16.800 candidaturas compitiendo por 5.921 cargos. A pesar de algunos incidentes aislados, como retrasos y fallas en algunas mesas, la jornada avanza con normalidad en la mayoría de los distritos.  
+Las internas de la ANR se desarrollan con más de 16.800 candidaturas compitiendo por 5.921 cargos. A pesar de algunos incidentes aislados, como retrasos y fallas en algunas mesas, la jornada avanza con normalidad en la mayoría de los distritos.
+
 📊 Temperatura social: Alta  
 
 🔹 Internas en Ciudad del Este: ANR presenta 7 postulantes  
@@ -30,14 +31,16 @@ En Ciudad del Este, la ANR cuenta con siete postulantes para la Intendencia Muni
 
 CAF anuncia fuerte apuesta al Paraguay  
 
-El Banco de Desarrollo de América Latina (CAF) destacó su intención de invertir en Paraguay, subrayando que hay oportunidades si se implementan reformas y políticas públicas adecuadas.  
+El Banco de Desarrollo de América Latina (CAF) destacó su intención de invertir en Paraguay, subrayando que hay oportunidades si se implementan reformas y políticas públicas adecuadas.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 F1: Max Verstappen abandona en Mónaco  
 
-En la carrera de Fórmula 1 en Mónaco, Max Verstappen tuvo que abandonar debido a una falla en su motor, lo que impactó en la clasificación final del evento.  
+En la carrera de Fórmula 1 en Mónaco, Max Verstappen tuvo que abandonar debido a una falla en su motor, lo que impactó en la clasificación final del evento.
+
 📊 Temperatura social: Media  
 
 🔹 Albirroja: la ilusión de todo un país va a Estados Unidos  
@@ -48,21 +51,24 @@ La selección paraguaya se prepara para su participación en el próximo evento 
 
 La FIL Asunción 2026 se despide premiando a Feliciano Acosta y Lita Pérez Cáceres  
 
-La Feria Internacional del Libro de Asunción concluye con la entrega de premios a destacados autores, destacando la importancia de la literatura en la cultura nacional.  
+La Feria Internacional del Libro de Asunción concluye con la entrega de premios a destacados autores, destacando la importancia de la literatura en la cultura nacional.
+
 📊 Temperatura social: Media  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Incidentes en Quyquyhó suspenden momentáneamente la jornada electoral  
 
-Un enfrentamiento entre simpatizantes de la ANR llevó a la suspensión temporal de las elecciones en Quyquyhó, evidenciando la tensión política en el ambiente.  
+Un enfrentamiento entre simpatizantes de la ANR llevó a la suspensión temporal de las elecciones en Quyquyhó, evidenciando la tensión política en el ambiente.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 Neymar anuncia su "último baile" para la Copa del Mundo  
 
-El anuncio de Neymar sobre su última participación en el Mundial ha generado un fuerte revuelo en redes sociales, captando la atención de fanáticos de todo el mundo.  
+El anuncio de Neymar sobre su última participación en el Mundial ha generado un fuerte revuelo en redes sociales, captando la atención de fanáticos de todo el mundo.
+
 📊 Temperatura social: Alta  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -90,7 +96,7 @@ La jornada electoral de hoy pone de manifiesto la polarización y la tensión de
 
 🔎 FUENTES CONSULTADAS HOY  
 
-- ABC Color  
+- - ABC Color
 - ADN Digital  
 - Diario HOY  
 - ABC Deportes  

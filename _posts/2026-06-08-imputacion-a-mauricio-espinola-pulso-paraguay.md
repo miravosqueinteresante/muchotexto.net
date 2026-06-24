@@ -19,7 +19,8 @@ La imputación del diputado por homicidio culposo tras un accidente de tránsito
 
 Fiscalía imputa al diputado Mauricio Espínola por homicidio culposo
 
-El diputado fue acusado luego de un accidente de tráfico donde un motociclista perdió la vida. Se han presentado evidencias que indican que Espínola cruzó un semáforo en rojo. 
+El diputado fue acusado luego de un accidente de tráfico donde un motociclista perdió la vida. Se han presentado evidencias que indican que Espínola cruzó un semáforo en rojo.
+
 📊 Temperatura social: Alta
 
 🔹 Fiscaliza a “Masivo Bro”
@@ -31,6 +32,7 @@ La Fiscalía también imputó a “Masivo Bro” por presunto soborno electoral,
 Más de 3.000 reuniones de negocios en la FEPY
 
 La Feria Empresarial del Paraguay (Fepy) reportó más de 3.000 reuniones entre empresas y potenciales inversores, destacando el dinamismo del sector empresarial.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
@@ -38,6 +40,7 @@ La Feria Empresarial del Paraguay (Fepy) reportó más de 3.000 reuniones entre 
 La selección de Paraguay se prepara para el Mundial 2026
 
 A cuatro días del debut en el Mundial 2026, la Albirroja realiza sus últimos entrenamientos en Estados Unidos, generando gran expectativa entre los hinchas.
+
 📊 Temperatura social: Alta
 
 🔹 La Copa Paraguay se traslada a Filadelfia
@@ -49,6 +52,7 @@ Se confirmó que la Copa Paraguay se jugará en Filadelfia, aumentando el inter�
 Meli Hicks y su posible actuación en el Mundial
 
 La artista paraguaya Meli Hicks ha generado expectativa con su posible participación en el Mundial, atrayendo la atención de los medios y el público.
+
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
@@ -56,6 +60,7 @@ La artista paraguaya Meli Hicks ha generado expectativa con su posible participa
 Temporal en Santa María deja daños
 
 Un temporal causó la caída de árboles y daños en viviendas en Santa María, lo que ha llevado a la comunidad a estar en alerta por posibles futuros eventos climáticos.
+
 📊 Temperatura social: Media
 
 🔥 VIRALES & TENDENCIAS
@@ -63,6 +68,7 @@ Un temporal causó la caída de árboles y daños en viviendas en Santa María, 
 La controversia sobre “Masivo Bro” se vuelve viral
 
 El caso de “Masivo Bro” se ha vuelto un tema viral en redes sociales, con numerosas opiniones y debates sobre la ética electoral y la corrupción.
+
 📊 Temperatura social: Alta
 
 💰 ECONOMÍA
@@ -70,6 +76,7 @@ El caso de “Masivo Bro” se ha vuelto un tema viral en redes sociales, con nu
 Instalación de pilotes de la autopista elevada en Luque
 
 La obra de la autopista elevada en Luque ha alcanzado un 25% de avance, un proyecto que promete mejorar la movilidad en la región.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
@@ -77,6 +84,7 @@ La obra de la autopista elevada en Luque ha alcanzado un 25% de avance, un proye
 Cerro Porteño busca refuerzos argentinos
 
 Cerro Porteño ha puesto su mirada en dos futbolistas argentinos para reforzar su plantilla, lo que ha generado especulaciones entre los aficionados.
+
 📊 Temperatura social: Media
 
 🎭 ENTRETENIMIENTO & CULTURA
@@ -84,6 +92,7 @@ Cerro Porteño ha puesto su mirada en dos futbolistas argentinos para reforzar s
 Adiós al 'Indio' Solari en Argentina
 
 La multitud que asistió al adiós del músico argentino ha resonado en Paraguay, donde sus seguidores también rinden homenaje a su legado.
+
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
@@ -91,6 +100,7 @@ La multitud que asistió al adiós del músico argentino ha resonado en Paraguay
 Accidente de bomberos en Luque
 
 Un camión de bomberos sufrió un accidente mientras respondía a una emergencia, destacando la necesidad de medidas de seguridad en las operaciones de rescate.
+
 📊 Temperatura social: Media
 
 🔥 VIRALES & TENDENCIAS
@@ -98,6 +108,7 @@ Un camión de bomberos sufrió un accidente mientras respondía a una emergencia
 El emotivo mensaje a la Albirroja se vuelve tendencia
 
 El mensaje emotivo hacia la selección paraguaya ha captado la atención de los hinchas, convirtiéndose en un símbolo de unidad y esperanza.
+
 📊 Temperatura social: Alta
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
@@ -125,4 +136,8 @@ El día de hoy estuvo marcado por la controversia política y social, con la imp
 
 🔎 FUENTES CONSULTADAS HOY
 
-ABC Color, El Nacional, La Nación, ABC Deportes, ABC Mundo.
+- ABC Color
+- El Nacional
+- La Nación
+- ABC Deportes
+- ABC Mundo.

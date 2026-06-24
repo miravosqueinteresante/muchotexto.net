@@ -18,7 +18,8 @@ Los testimonios en el juicio refuerzan las acusaciones contra los procesados.
 
 Juicio por el caso María Fernanda: testimonios refuerzan acusaciones contra los procesados
 
-Los testimonios presentados en el juicio fortalecen las acusaciones en torno a este caso que ha capturado la atención pública. Se espera que el proceso avance significativamente en las próximas jornadas. 
+Los testimonios presentados en el juicio fortalecen las acusaciones en torno a este caso que ha capturado la atención pública. Se espera que el proceso avance significativamente en las próximas jornadas.
+
 📊 Temperatura social: Alta
 
 🔹 Oposición se une para recuperar la Municipalidad de Areguá
@@ -29,7 +30,8 @@ La oposición ha comenzado a organizarse en un esfuerzo por recuperar la adminis
 
 Destrucción de marihuana récord en Paraguay
 
-El Gobierno ha destruido 53,7 toneladas de marihuana en la frontera con Brasil, lo que refleja un esfuerzo continuo por combatir el narcotráfico en el país. 
+El Gobierno ha destruido 53,7 toneladas de marihuana en la frontera con Brasil, lo que refleja un esfuerzo continuo por combatir el narcotráfico en el país.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
@@ -37,6 +39,7 @@ El Gobierno ha destruido 53,7 toneladas de marihuana en la frontera con Brasil, 
 Paraguay se prepara para enfrentar a Turquía en el Mundial 2026
 
 La selección paraguaya se encuentra lista para el partido crucial contra Turquía, que se jugará hoy, generando gran expectativa entre los aficionados.
+
 📊 Temperatura social: Alta
 
 🔹 Emotivo mensaje de los alumnos del CEPB a la albirroja
@@ -48,6 +51,7 @@ Los alumnos del Centro Educativo Privado de la Banca (CEPB) enviaron un emotivo 
 Regresa ‘La Casa del Dragón’ y estrenos en streaming
 
 La serie ‘La Casa del Dragón’ vuelve a las pantallas, junto con varios estrenos en streaming que prometen atraer la atención durante el fin de semana largo.
+
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
@@ -55,6 +59,7 @@ La serie ‘La Casa del Dragón’ vuelve a las pantallas, junto con varios estr
 Detenido por agredir a sus padres días antes del Día del Padre
 
 Un hombre fue detenido tras agredir a su padre y madre, un suceso que ha generado preocupación en la comunidad por la violencia familiar.
+
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
@@ -62,6 +67,7 @@ Un hombre fue detenido tras agredir a su padre y madre, un suceso que ha generad
 El emotivo mensaje de apoyo a la albirroja
 
 Un video de alumnos enviando un mensaje a los jugadores de la selección ha circulado ampliamente en redes sociales, capturando la atención de los aficionados al fútbol.
+
 📊 Temperatura social: Alta
 
 💡 INSIGHT DEL DÍA
@@ -81,4 +87,17 @@ Hoy, la combinación de eventos deportivos y juicios de alto perfil ha generado 
 
 🔎 FUENTES CONSULTADAS HOY
 
-ABC Ciencia, ABC Color, ABC Deportes, ABC Espectáculos, ABC Mundo, ABC Tecnología, Diario HOY, Diario Popular, El Independiente, El Nacional, La Nación, La Tribuna, NPY, RDN
+- ABC Ciencia
+- ABC Color
+- ABC Deportes
+- ABC Espectáculos
+- ABC Mundo
+- ABC Tecnología
+- Diario HOY
+- Diario Popular
+- El Independiente
+- El Nacional
+- La Nación
+- La Tribuna
+- NPY
+- RDN

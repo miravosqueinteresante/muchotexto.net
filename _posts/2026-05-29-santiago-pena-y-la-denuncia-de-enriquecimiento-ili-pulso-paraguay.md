@@ -19,7 +19,8 @@ Las acusaciones sobre el patrimonio del presidente generan un intenso debate en 
 
 "Santiago Peña embolsó dinero sucio"  
 
-Legisladores de oposición han solicitado una pericia contable sobre el patrimonio del presidente Santiago Peña, argumentando que existen inconsistencias entre sus ingresos y su patrimonio total. Este pedido se enmarca en un contexto de creciente desconfianza hacia la gestión del actual gobierno.  
+Legisladores de oposición han solicitado una pericia contable sobre el patrimonio del presidente Santiago Peña, argumentando que existen inconsistencias entre sus ingresos y su patrimonio total. Este pedido se enmarca en un contexto de creciente desconfianza hacia la gestión del actual gobierno.
+
 📊 Temperatura social: Alta  
 
 🔹 Hallazgo de feto en Limpio  
@@ -30,14 +31,16 @@ La conmoción generada por el hallazgo de un feto en un predio baldío ha captad
 
 Oportunidades y desafíos en el comercio con India  
 
-Un economista ha resaltado las posibilidades de incrementar el comercio con India, destacando que las exportaciones paraguayas podrían beneficiarse significativamente, aunque también hay retos que superar, como la adaptación a estándares internacionales.  
+Un economista ha resaltado las posibilidades de incrementar el comercio con India, destacando que las exportaciones paraguayas podrían beneficiarse significativamente, aunque también hay retos que superar, como la adaptación a estándares internacionales.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Cerro Porteño avanza a octavos de la Libertadores  
 
-Cerro Porteño logró una victoria ante Sporting Cristal y, con este resultado, se posicionó en el primer lugar del Grupo F de la Copa Libertadores 2026, asegurando su lugar en los octavos de final.  
+Cerro Porteño logró una victoria ante Sporting Cristal y, con este resultado, se posicionó en el primer lugar del Grupo F de la Copa Libertadores 2026, asegurando su lugar en los octavos de final.
+
 📊 Temperatura social: Alta  
 
 🔹 Olimpia también avanzó en la Copa Sudamericana  
@@ -48,21 +51,24 @@ Olimpia confirmó su clasificación a los octavos de final en la Copa Sudamerica
 
 Feria Internacional del Libro en Asunción  
 
-La FIL Asunción 2026 promete ser un evento destacado del fin de semana, con numerosas actividades programadas que buscan fomentar la lectura y la cultura en el país.  
+La FIL Asunción 2026 promete ser un evento destacado del fin de semana, con numerosas actividades programadas que buscan fomentar la lectura y la cultura en el país.
+
 📊 Temperatura social: Media  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Denuncias de negligencia médica en el Hospital San Pablo  
 
-Familiares de un recién nacido en terapia intensiva denunciaron presunta negligencia médica, lo que ha generado preocupación en la comunidad sobre la atención en centros de salud.  
+Familiares de un recién nacido en terapia intensiva denunciaron presunta negligencia médica, lo que ha generado preocupación en la comunidad sobre la atención en centros de salud.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 Alertas de tormentas intensas  
 
-La Dirección de Meteorología emitió alertas por tormentas intensas y posible caída de granizos, lo que ha generado un gran volumen de conversación en redes sociales, especialmente entre los que se preparan para el clima adverso.  
+La Dirección de Meteorología emitió alertas por tormentas intensas y posible caída de granizos, lo que ha generado un gran volumen de conversación en redes sociales, especialmente entre los que se preparan para el clima adverso.
+
 📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -90,4 +96,8 @@ El día de hoy se observan conexiones entre la política y la seguridad, con la 
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, NPY, Diario HOY, ABC Deportes, ABC Mundo.
+- ABC Color
+- NPY
+- Diario HOY
+- ABC Deportes
+- ABC Mundo.

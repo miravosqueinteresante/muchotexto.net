@@ -19,7 +19,8 @@ La cercanía de las elecciones internas genera un alto volumen de conversación 
 
 Internas del domingo serán un punto de inflexión para el PLRA, aseguran
 
-El gobernador del Departamento Central, Ricardo Estigarribia, afirmó que las internas del PLRA no solo definirán candidatos para las municipales, sino que también marcarán la nueva dirección del partido. La propaganda electoral culmina hoy, reforzando la tensión política.  
+El gobernador del Departamento Central, Ricardo Estigarribia, afirmó que las internas del PLRA no solo definirán candidatos para las municipales, sino que también marcarán la nueva dirección del partido. La propaganda electoral culmina hoy, reforzando la tensión política.
+
 📊 Temperatura social: Alta
 
 🔹 PLRA necesita recuperar liderazgo con una conducción real, afirma diputado Arnaldo Valdez
@@ -30,35 +31,40 @@ Se discute la necesidad de un cambio en la conducción del partido ante la situa
 
 Chaco alcanza rendimientos en soja comparables con los de la región Oriental
 
-Los productores del Chaco reportan rendimientos en soja que alcanzan los 3.500 kg por hectárea, similar a los promedios de la región Oriental, lo que representa una mejora significativa en la producción agrícola.  
+Los productores del Chaco reportan rendimientos en soja que alcanzan los 3.500 kg por hectárea, similar a los promedios de la región Oriental, lo que representa una mejora significativa en la producción agrícola.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
 
 La Albirroja viaja al Mundial: horario de salida y detalles de vuelos para los hinchas
 
-La selección paraguaya de fútbol se prepara para su participación en el Mundial, con vuelos organizados para los hinchas que desean acompañar al equipo.  
+La selección paraguaya de fútbol se prepara para su participación en el Mundial, con vuelos organizados para los hinchas que desean acompañar al equipo.
+
 📊 Temperatura social: Media
 
 🎭 ENTRETENIMIENTO & CULTURA
 
 Super Mario Galaxy: La Película
 
-La adaptación cinematográfica de este popular videojuego está generando gran expectativa entre los fanáticos, prometiendo un atractivo visual y emocional.  
+La adaptación cinematográfica de este popular videojuego está generando gran expectativa entre los fanáticos, prometiendo un atractivo visual y emocional.
+
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
 
 Hombre detenido por agredir a su “concubina” menor de edad embarazada y a su suegra
 
-Un caso de violencia familiar ha llevado a la detención de un hombre, lo que reaviva el debate sobre la seguridad y protección de mujeres y menores en el país.  
+Un caso de violencia familiar ha llevado a la detención de un hombre, lo que reaviva el debate sobre la seguridad y protección de mujeres y menores en el país.
+
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
 
 Posible brote de botulismo: ¿qué tan probable es que aparezcan nuevos casos?
 
-La alerta sobre un posible brote de botulismo ha circulado rápidamente, generando preocupación en redes sociales y un aumento en las consultas sobre la enfermedad.  
+La alerta sobre un posible brote de botulismo ha circulado rápidamente, generando preocupación en redes sociales y un aumento en las consultas sobre la enfermedad.
+
 📊 Temperatura social: Media
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
@@ -86,4 +92,7 @@ La proximidad de las elecciones internas del PLRA ha generado un ambiente de int
 
 🔎 FUENTES CONSULTADAS HOY
 
-ABC Color, ADN Digital, ABC Deportes, Diario HOY.
+- ABC Color
+- ADN Digital
+- ABC Deportes
+- Diario HOY.

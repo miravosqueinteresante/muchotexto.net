@@ -305,7 +305,32 @@ def call_github_models(prompt: str) -> str | None:
         return None
 
 
+def clean_content(content: str) -> str:
+    # Add blank line before temperatura social indicators so markdown creates separate <p>
+    content = re.sub(r'(\S)[ \t]*\n📊 Temperatura social', r'\1\n\n📊 Temperatura social', content)
+
+    # Convert "🔎 FUENTES CONSULTADAS HOY" section to bullet list
+    lines = content.split('\n')
+    result = []
+    in_fuentes = False
+    for line in lines:
+        if '🔎 FUENTES CONSULTADAS HOY' in line:
+            in_fuentes = True
+            result.append(line)
+            continue
+        if in_fuentes and line.strip():
+            sources = [s.strip() for s in line.split(',') if s.strip()]
+            for source in sources:
+                result.append(f'- {source}')
+            in_fuentes = False
+            continue
+        result.append(line)
+    return '\n'.join(result)
+
+
 def save_post(content: str):
+    content = clean_content(content)
+
     now = now_py()
     date_str = now.strftime("%Y-%m-%d")
 

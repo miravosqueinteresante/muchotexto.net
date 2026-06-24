@@ -19,12 +19,14 @@ El debut de la Albirroja genera una ola de entusiasmo en todo el país.
 
 Paraguay vs. Estados Unidos: la Albirroja debuta en el Mundial 2026.
 
-El equipo paraguayo se enfrenta a Estados Unidos en su primer partido de la Copa del Mundo, lo que ha generado un gran revuelo en redes y medios. Se espera una afluencia de hasta 50.000 personas en el microcentro de Asunción para seguir el partido en pantallas gigantes. 
+El equipo paraguayo se enfrenta a Estados Unidos en su primer partido de la Copa del Mundo, lo que ha generado un gran revuelo en redes y medios. Se espera una afluencia de hasta 50.000 personas en el microcentro de Asunción para seguir el partido en pantallas gigantes.
+
 📊 Temperatura social: Alta
 
 🔹 Fiebre del Mundial
 
 La llegada de la Copa Mundial 2026 ha impactado en la economía local, generando hasta 30.000 empleos temporales debido a la demanda en el sector servicios.
+
 📊 Temperatura social: Alta
 
 🏛 POLÍTICA
@@ -32,6 +34,7 @@ La llegada de la Copa Mundial 2026 ha impactado en la economía local, generando
 Acusados evitan declarar en caso de corrupción.
 
 Los acusados en el caso de la mafia de las tobilleras han decidido no declarar, lo que complica el avance del proceso judicial. La situación ha suscitado críticas y preocupación sobre la impunidad en casos de corrupción.
+
 📊 Temperatura social: Media
 
 💰 ECONOMÍA
@@ -39,11 +42,13 @@ Los acusados en el caso de la mafia de las tobilleras han decidido no declarar, 
 Exportaciones de stevia alcanzan un crecimiento récord.
 
 La stevia paraguaya lidera el crecimiento de las exportaciones agrícolas, con un incremento del 517% en los primeros cinco meses de 2026, según datos del Servicio Nacional de Calidad y Sanidad Animal (SENACSA).
+
 📊 Temperatura social: Alta
 
 🔹 Mejora en cultivos
 
 Las recientes lluvias han beneficiado los cultivos en desarrollo, aunque también han presentado desafíos para la cosecha de aquellos en etapas finales.
+
 📊 Temperatura social: Media
 
 🎭 ENTRETENIMIENTO & CULTURA
@@ -51,6 +56,7 @@ Las recientes lluvias han beneficiado los cultivos en desarrollo, aunque tambié
 Homenaje a héroe de la Guerra del Chaco.
 
 Se rindió homenaje a Don Canuto González Britos, un veterano de 110 años, en el marco del Día de la Paz del Chaco. Este evento resalta la importancia de la memoria histórica en el país.
+
 📊 Temperatura social: Baja
 
 🚨 SEGURIDAD & SOCIEDAD
@@ -58,6 +64,7 @@ Se rindió homenaje a Don Canuto González Britos, un veterano de 110 años, en 
 Intento de secuestro en Luque.
 
 Un empresario chino fue agredido y su camioneta fue robada por cuatro hombres armados en un intento de secuestro en Luque. La situación ha generado preocupación sobre la seguridad en la zona.
+
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
@@ -65,6 +72,7 @@ Un empresario chino fue agredido y su camioneta fue robada por cuatro hombres ar
 “Arriba Paraguay”, la canción que une a los hinchas.
 
 La nueva canción "Arriba Paraguay" de Chabely Fretes y Meno Fernández se ha vuelto viral, evocando el espíritu de unidad y pasión por la Albirroja ante el Mundial.
+
 📊 Temperatura social: Alta
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
@@ -92,7 +100,7 @@ La pasión por el fútbol ha galvanizado a la sociedad paraguaya, generando no s
 
 🔎 FUENTES CONSULTADAS HOY
 
-- ABC Color
+- - ABC Color
 - ADN Digital
 - ABC Deportes
 - Diario HOY

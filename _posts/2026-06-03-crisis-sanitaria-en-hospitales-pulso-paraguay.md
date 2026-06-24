@@ -19,7 +19,8 @@ La falta de insumos y recursos en hospitales genera preocupación y descontento 
 
 Piden reapertura de sala de neonatología en hospital de Santaní
 
-La comunidad exige que se reactive la sala de neonatología que fue cerrada por falta de personal y recursos, lo que afecta a los recién nacidos en la zona.  
+La comunidad exige que se reactive la sala de neonatología que fue cerrada por falta de personal y recursos, lo que afecta a los recién nacidos en la zona.
+
 📊 Temperatura social: Alta  
 
 🔹 Hospital de Calle’i: pacientes no pueden hacerse estudios por falta de reactivos
@@ -30,14 +31,16 @@ La falta de reactivos en el hospital de Calle’i imposibilita a los pacientes r
 
 Expectativas empresariales mejoran en mayo, pero sigue el pesimismo
 
-A pesar de un leve aumento del 10% en las expectativas de negocio, las empresas siguen enfrentando desafíos debido a la incertidumbre económica y la falta de inversiones.  
+A pesar de un leve aumento del 10% en las expectativas de negocio, las empresas siguen enfrentando desafíos debido a la incertidumbre económica y la falta de inversiones.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Declaran “Hijo Dilecto de Carapeguá” al delantero de la Selección Paraguaya Álex Arce
 
-El delantero fue reconocido por su destacada actuación en la selección nacional y su contribución al fútbol paraguayo.  
+El delantero fue reconocido por su destacada actuación en la selección nacional y su contribución al fútbol paraguayo.
+
 📊 Temperatura social: Baja  
 
 🔹 Antony Silva y quién debe atajar en Paraguay durante el Mundial 2026
@@ -48,21 +51,24 @@ El debate se centra en la elección del portero titular para el Mundial de Fútb
 
 “Fragmentos para imaginar lo imposible” reúne a cinco curadores en el Espacio Cultural Itaú
 
-La exposición busca fomentar la creatividad y el diálogo entre distintas disciplinas artísticas, atrayendo a un público diverso.  
+La exposición busca fomentar la creatividad y el diálogo entre distintas disciplinas artísticas, atrayendo a un público diverso.
+
 📊 Temperatura social: Media  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Video de presunto abuso policial en San Jerónimo desata investigación interna en la Policía
 
-La difusión de un video que muestra un presunto abuso de autoridad por parte de agentes ha generado indignación en la comunidad y llamados a la rendición de cuentas.  
+La difusión de un video que muestra un presunto abuso de autoridad por parte de agentes ha generado indignación en la comunidad y llamados a la rendición de cuentas.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 El error de Isaías Fretes sobre la recaudación del IPS se vuelve viral
 
-El presidente del IPS cometió un error al afirmar un aumento del 60% en la recaudación, lo que llevó a reacciones mixtas en redes sociales.  
+El presidente del IPS cometió un error al afirmar un aumento del 60% en la recaudación, lo que llevó a reacciones mixtas en redes sociales.
+
 📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -90,4 +96,8 @@ Hoy, la conversación en Paraguay gira en torno a la crisis en los hospitales, q
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, ADN Digital, Diario HOY, ABC Deportes, ABC Espectáculos.
+- ABC Color
+- ADN Digital
+- Diario HOY
+- ABC Deportes
+- ABC Espectáculos.

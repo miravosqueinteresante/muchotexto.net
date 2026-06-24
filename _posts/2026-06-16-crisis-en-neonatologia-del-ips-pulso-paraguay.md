@@ -19,42 +19,48 @@ La renuncia masiva de médicos pone en riesgo la atención neonatal en el país.
 
 Crisis en Neonatología del IPS: renuncias masivas ponen en riesgo el servicio  
 
-El Instituto de Previsión Social (IPS) enfrenta una grave crisis en su área de Neonatología, con la renuncia de varios médicos, lo que ha despertado alarmas sobre la atención a recién nacidos. La situación se agrava debido a la falta de recursos y personal suficiente para cubrir la demanda.  
+El Instituto de Previsión Social (IPS) enfrenta una grave crisis en su área de Neonatología, con la renuncia de varios médicos, lo que ha despertado alarmas sobre la atención a recién nacidos. La situación se agrava debido a la falta de recursos y personal suficiente para cubrir la demanda.
+
 📊 Temperatura social: Alta  
 
 💰 ECONOMÍA  
 
 Radiografía del gasto en Asunción: Bello pagó más en bonificaciones que en obras entre enero y abril  
 
-Un informe revela que el intendente de Asunción, Luis Bello, gastó más de 1.000 millones de guaraníes en bonificaciones a funcionarios, superando el monto destinado a obras públicas. Esta situación genera críticas sobre la gestión del presupuesto municipal.  
+Un informe revela que el intendente de Asunción, Luis Bello, gastó más de 1.000 millones de guaraníes en bonificaciones a funcionarios, superando el monto destinado a obras públicas. Esta situación genera críticas sobre la gestión del presupuesto municipal.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Mundial 2016: Neymar se entrena sobre el césped por primera vez en Estados Unidos  
 
-El futbolista brasileño Neymar ha vuelto a entrenar en el campo tras su lesión, lo que ilusiona a la selección brasileña y a sus fans de cara a los próximos partidos del Mundial.  
+El futbolista brasileño Neymar ha vuelto a entrenar en el campo tras su lesión, lo que ilusiona a la selección brasileña y a sus fans de cara a los próximos partidos del Mundial.
+
 📊 Temperatura social: Media  
 
 🎭 ENTRETENIMIENTO & CULTURA  
 
 Laurys Dyva paseó en un auto sin chofer en Hollywood  
 
-La influencer y modelo Laurys Dyva se mostró en un desfile por el Mes del Orgullo LGBTIQ+ en Hollywood, donde además visitó el Paseo de la Fama, captando la atención de sus seguidores.  
+La influencer y modelo Laurys Dyva se mostró en un desfile por el Mes del Orgullo LGBTIQ+ en Hollywood, donde además visitó el Paseo de la Fama, captando la atención de sus seguidores.
+
 📊 Temperatura social: Media  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Dos motochorros detenidos tras robar un biciclo  
 
-La rápida reacción de la policía permitió la detención de dos motochorros en Lambaré que habían despojado a un trabajador de su biciclo. Este hecho resalta la creciente preocupación sobre la seguridad en las calles.  
+La rápida reacción de la policía permitió la detención de dos motochorros en Lambaré que habían despojado a un trabajador de su biciclo. Este hecho resalta la creciente preocupación sobre la seguridad en las calles.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 ¡Borracha destrozó la casa de su hermana!  
 
-Un video que circula en redes sociales muestra a una mujer ebria causando destrozos en la vivienda de su hermana, lo que ha generado un intenso debate sobre la violencia familiar y el consumo de alcohol.  
+Un video que circula en redes sociales muestra a una mujer ebria causando destrozos en la vivienda de su hermana, lo que ha generado un intenso debate sobre la violencia familiar y el consumo de alcohol.
+
 📊 Temperatura social: Alta  
 
 💡 INSIGHT DEL DÍA  
@@ -74,4 +80,7 @@ Hoy, la crisis del IPS y los problemas de seguridad dominaron las conversaciones
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, Diario HOY, Diario Popular, ABC Deportes.
+- ABC Color
+- Diario HOY
+- Diario Popular
+- ABC Deportes.

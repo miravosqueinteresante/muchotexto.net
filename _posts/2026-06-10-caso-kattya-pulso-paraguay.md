@@ -19,7 +19,8 @@ El tema de mayor conversación hoy es el caso de Kattya González, por el que se
 
 Caso Kattya: Filizzola desmantela argumento de la Corte y dice que ministros deben ir a sus casas  
 
-El exministro Carlos Filizzola afirmó que la Corte Suprema de Justicia carece de fundamentos sólidos en su defensa de ciertos ministros, sugiriendo que deberían renunciar. Este tema ha generado un gran debate en redes sociales.  
+El exministro Carlos Filizzola afirmó que la Corte Suprema de Justicia carece de fundamentos sólidos en su defensa de ciertos ministros, sugiriendo que deberían renunciar. Este tema ha generado un gran debate en redes sociales.
+
 📊 Temperatura social: Alta  
 
 🔹 La oposición presentó a sus candidatos a concejales de Asunción  
@@ -30,14 +31,16 @@ La candidata a la Intendencia de Asunción, Soledad Núñez, destacó la diversi
 
 Repunte de faena mejora la oferta de carne en Paraguay en alta demanda por la Albirroja  
 
-Según el presidente de la Cámara Paraguaya de la Carne, Daniel Burt, la faena de ganado ha aumentado, mejorando la oferta en el mercado local justo cuando se intensifica la demanda por el interés en la selección paraguaya de fútbol.  
+Según el presidente de la Cámara Paraguaya de la Carne, Daniel Burt, la faena de ganado ha aumentado, mejorando la oferta en el mercado local justo cuando se intensifica la demanda por el interés en la selección paraguaya de fútbol.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Paraguay vs. EE.UU.: a qué hora es y dónde seguir el partido  
 
-Con el Mundial 2026 en marcha, Paraguay se enfrentará a Estados Unidos en su debut. La afición está expectante por el rendimiento de la Albirroja.  
+Con el Mundial 2026 en marcha, Paraguay se enfrentará a Estados Unidos en su debut. La afición está expectante por el rendimiento de la Albirroja.
+
 📊 Temperatura social: Alta  
 
 🔹 Messi, retorno con gol y nuevo récord para Argentina  
@@ -48,21 +51,24 @@ Lionel Messi volvió a brillar en el Mundial, anotando un gol y estableciendo un
 
 Purahéi Soul cantará himno paraguayo en la apertura del Mundial 2026  
 
-El grupo musical Purahéi Soul representará a Paraguay en la apertura del Mundial, lo que ha despertado orgullo y expectativa entre los paraguayos.  
+El grupo musical Purahéi Soul representará a Paraguay en la apertura del Mundial, lo que ha despertado orgullo y expectativa entre los paraguayos.
+
 📊 Temperatura social: Alta  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Senad desmantela foco de distribución de crack y cocaína en Filadelfia  
 
-Un operativo de la Secretaría Nacional Antidrogas resultó en la desarticulación de una red de distribución de drogas en el barrio Primavera, generando preocupación por el aumento de la criminalidad en la región.  
+Un operativo de la Secretaría Nacional Antidrogas resultó en la desarticulación de una red de distribución de drogas en el barrio Primavera, generando preocupación por el aumento de la criminalidad en la región.
+
 📊 Temperatura social: Media  
 
 🔥 VIRALES & TENDENCIAS  
 
 La odisea de algunas selecciones para jugar el Mundial  
 
-Las dificultades que enfrentan algunas selecciones, como la de México, para jugar el Mundial han llamado la atención en redes sociales, generando memes y comentarios diversos.  
+Las dificultades que enfrentan algunas selecciones, como la de México, para jugar el Mundial han llamado la atención en redes sociales, generando memes y comentarios diversos.
+
 📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -90,4 +96,7 @@ El día de hoy se evidencia una interconexión entre el ámbito político y soci
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, ADN Digital, ABC Deportes, Diario HOY.
+- ABC Color
+- ADN Digital
+- ABC Deportes
+- Diario HOY.

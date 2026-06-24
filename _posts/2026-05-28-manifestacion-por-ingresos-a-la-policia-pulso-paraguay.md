@@ -19,42 +19,48 @@ Miles de aspirantes a la Policía Nacional se movilizaron en Asunción, lo que g
 
 Fuerte manifestación frente al Ministerio del Interior por suspensión de ingreso de suboficiales en 2027  
 
-Miles de aspirantes a la Policía Nacional y sus familias se manifestaron en Asunción exigiendo la reapertura de la convocatoria para el ingreso de suboficiales, suspendida para 2027. Se reportaron tensiones y la entrega de un ultimátum al Gobierno para que responda a sus demandas.  
+Miles de aspirantes a la Policía Nacional y sus familias se manifestaron en Asunción exigiendo la reapertura de la convocatoria para el ingreso de suboficiales, suspendida para 2027. Se reportaron tensiones y la entrega de un ultimátum al Gobierno para que responda a sus demandas.
+
 📊 Temperatura social: Alta  
 
 💰 ECONOMÍA  
 
 Gobierno dilata definición sobre proyecto de Ley para saldar millonarias deudas con proveedoras  
 
-El Ejecutivo aún no ha resuelto el proyecto que busca saldar deudas que ascienden a G. 2.400 millones con proveedores, lo que genera preocupaciones en el sector.  
+El Ejecutivo aún no ha resuelto el proyecto que busca saldar deudas que ascienden a G. 2.400 millones con proveedores, lo que genera preocupaciones en el sector.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Olimpia clasifica a octavos de la Sudamericana  
 
-Olimpia logró una remontada espectacular y venció a Audax Italiano, asegurando su lugar en los octavos de final de la Copa Sudamericana 2026.  
+Olimpia logró una remontada espectacular y venció a Audax Italiano, asegurando su lugar en los octavos de final de la Copa Sudamericana 2026.
+
 📊 Temperatura social: Media  
 
 🎭 ENTRETENIMIENTO & CULTURA  
 
 Inauguración del Museo Viedma en Asunción  
 
-El nuevo museo se presenta como un importante espacio cultural que busca resaltar la historia jesuítica en Paraguay, con la presencia de autoridades y comunidad.  
+El nuevo museo se presenta como un importante espacio cultural que busca resaltar la historia jesuítica en Paraguay, con la presencia de autoridades y comunidad.
+
 📊 Temperatura social: Baja  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Delincuentes armados irrumpen en vivienda de Capiatá  
 
-Un asalto en Capiatá dejó a los ocupantes de la vivienda golpeados y un botín de Gs. 30 millones sustraído. La Policía investiga el suceso.  
+Un asalto en Capiatá dejó a los ocupantes de la vivienda golpeados y un botín de Gs. 30 millones sustraído. La Policía investiga el suceso.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 Alerta por drones en cárceles  
 
-La detección de un dron sobre la Penitenciaría de Minga Guazú ha generado preocupación y discusión en redes sobre la seguridad en las cárceles, especialmente con la presencia de figuras de alto perfil en el lugar.  
+La detección de un dron sobre la Penitenciaría de Minga Guazú ha generado preocupación y discusión en redes sobre la seguridad en las cárceles, especialmente con la presencia de figuras de alto perfil en el lugar.
+
 📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -82,4 +88,8 @@ La fuerte movilización de los aspirantes a la Policía refleja no solo la frust
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, NPY, ABC Deportes, ABC Mundo, Diario HOY  
+- ABC Color
+- NPY
+- ABC Deportes
+- ABC Mundo
+- Diario HOY

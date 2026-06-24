@@ -20,6 +20,7 @@ Este tema ha generado un alto volumen de conversación por las implicaciones pol
 Investigación contra precandidato cartista de Luque, desafío para nueva adjunta de UDEA
 
 La Defensoría del Pueblo ha abierto una investigación sobre un precandidato de la ANR en Luque por presuntas irregularidades, lo cual ha desatado un debate amplio sobre la ética en la política. La nueva adjunta de la UDEA se enfrenta a un gran desafío en este caso.
+
 📊 Temperatura social: Alta
 
 🔹 Afiliación forzada: Defensor de DD.HH. denuncia fraude en la ANR y advierte acciones legales
@@ -31,13 +32,15 @@ Un defensor de derechos humanos denunció que se están cometiendo fraudes en la
 Funcionarios públicos: comienza el pago de salarios
 
 Hoy se dio inicio al pago de salarios a funcionarios públicos, lo que representa un alivio para muchos en este contexto de incertidumbre económica.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
 
 Vallejo escribe historia del tenis paraguayo en Roland Garros
 
-Daniel Vallejo ha logrado avanzar a las instancias finales en Roland Garros, siendo el primer paraguayo en alcanzar este hito en la categoría masculina. 
+Daniel Vallejo ha logrado avanzar a las instancias finales en Roland Garros, siendo el primer paraguayo en alcanzar este hito en la categoría masculina.
+
 📊 Temperatura social: Alta
 
 🎭 ENTRETENIMIENTO & CULTURA
@@ -45,6 +48,7 @@ Daniel Vallejo ha logrado avanzar a las instancias finales en Roland Garros, sie
 La OSIC comienza su ciclo “Música en los Palacios” en el Espacio Cultural Staudt
 
 Este ciclo busca promover la música local y atraer al público a espacios culturales, lo que ha generado interés en la comunidad.
+
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
@@ -52,6 +56,7 @@ Este ciclo busca promover la música local y atraer al público a espacios cultu
 Presunto narco buscado por el crimen de un joven se presentó en la comisaría de Guarambaré
 
 Un individuo buscado por un crimen relacionado con narcotráfico se entregó a las autoridades, lo que ha levantado preocupaciones sobre la seguridad en la zona.
+
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
@@ -59,6 +64,7 @@ Un individuo buscado por un crimen relacionado con narcotráfico se entregó a l
 Se viraliza un video del secretario de Salud de EEUU capturando dos serpientes con la mano
 
 Este video ha captado la atención de miles en redes sociales, destacando la valentía del funcionario, lo que ha llevado a una serie de memes y comentarios humorísticos.
+
 📊 Temperatura social: Media
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
@@ -86,4 +92,8 @@ El día de hoy se ha visto marcado por un fuerte foco en la política, especialm
 
 🔎 FUENTES CONSULTADAS HOY
 
-ABC Color, ABC Deportes, Diario HOY, ABC Mundo, ABC Espectáculos
+- ABC Color
+- ABC Deportes
+- Diario HOY
+- ABC Mundo
+- ABC Espectáculos

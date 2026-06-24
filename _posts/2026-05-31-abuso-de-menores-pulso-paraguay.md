@@ -19,42 +19,48 @@ El debate sobre el abuso de menores genera una fuerte controversia en la socieda
 
 Diputados se suma a campaña contra abuso de menores, pero sigue avalando el matrimonio infantil  
 
-A pesar de la participación de los diputados en una campaña contra el abuso infantil, se mantiene el aval al matrimonio infantil, lo que ha generado descontento en diversos sectores de la población.  
+A pesar de la participación de los diputados en una campaña contra el abuso infantil, se mantiene el aval al matrimonio infantil, lo que ha generado descontento en diversos sectores de la población.
+
 📊 Temperatura social: Alta  
 
 💰 ECONOMÍA  
 
 Reprograman juicio a Wilfrido Cáceres, por presunta corrupción, para fines de julio  
 
-El juicio del exintendente de Lambaré fue reprogramado, lo que ha suscitado críticas sobre la lentitud del sistema judicial en casos de corrupción.  
+El juicio del exintendente de Lambaré fue reprogramado, lo que ha suscitado críticas sobre la lentitud del sistema judicial en casos de corrupción.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Cerro Porteño avanza a octavos de la Libertadores  
 
-Cerro Porteño dominó su grupo en la Copa Libertadores, asegurando su lugar en los octavos de final tras vencer a Sporting Cristal.  
+Cerro Porteño dominó su grupo en la Copa Libertadores, asegurando su lugar en los octavos de final tras vencer a Sporting Cristal.
+
 📊 Temperatura social: Media  
 
 🎭 ENTRETENIMIENTO & CULTURA  
 
 “Cuello Alto, Cuello Largo”: la obra que nació del encierro y se convirtió en símbolo de esperanza en Tobatí  
 
-La obra de teatro ha resonado fuertemente en la comunidad, representando un mensaje de resiliencia y esperanza tras los tiempos difíciles de la pandemia.  
+La obra de teatro ha resonado fuertemente en la comunidad, representando un mensaje de resiliencia y esperanza tras los tiempos difíciles de la pandemia.
+
 📊 Temperatura social: Media  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Salud confirma repunte de virus respiratorios con 20% más de casos semanales  
 
-Las autoridades de salud han informado sobre un aumento significativo en los casos de virus respiratorios, lo que ha generado preocupación en la población.  
+Las autoridades de salud han informado sobre un aumento significativo en los casos de virus respiratorios, lo que ha generado preocupación en la población.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 Festival del Ovecha Rague: música, artesanía y muchas cosas ricas en San Miguel, Misiones  
 
-Este festival ha captado la atención en redes sociales, convirtiéndose en un evento popular que celebra la cultura local a través de la música y la gastronomía.  
+Este festival ha captado la atención en redes sociales, convirtiéndose en un evento popular que celebra la cultura local a través de la música y la gastronomía.
+
 📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -82,6 +88,6 @@ Hoy la conversación en Paraguay gira en torno a la protección de los menores y
 
 🔎 FUENTES CONSULTADAS HOY  
 
-- ABC Color  
+- - ABC Color
 - NPY  
 - ABC Deportes

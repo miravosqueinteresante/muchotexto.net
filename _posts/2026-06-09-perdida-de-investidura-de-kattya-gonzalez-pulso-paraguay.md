@@ -19,7 +19,8 @@ La decisión de la Corte sobre la pérdida de investidura de la senadora ha gene
 
 Natalicio Chase respalda fallo de la Corte sobre pérdida de investidura de Kattya
 
-El abogado Natalicio Chase expresó su apoyo al fallo de la Corte que resolvió la pérdida de investidura de la senadora Kattya González, lo que ha incrementado la controversia política. Este caso ha generado un gran volumen de conversación, especialmente entre los seguidores de los partidos involucrados.  
+El abogado Natalicio Chase expresó su apoyo al fallo de la Corte que resolvió la pérdida de investidura de la senadora Kattya González, lo que ha incrementado la controversia política. Este caso ha generado un gran volumen de conversación, especialmente entre los seguidores de los partidos involucrados.
+
 📊 Temperatura social: Alta
 
 🔹 La batalla judicial por el derecho a la identidad
@@ -30,35 +31,40 @@ Este tema sigue presente en la agenda mediática, con un enfoque en los derechos
 
 Desarticulan red de lavado de dinero de contrabandistas
 
-La Operación Sicarius ha culminado en la detención de varios implicados en una red de lavado de dinero vinculada al contrabando, con un total de 8 personas arrestadas y un monto estimado de 500 mil dólares en bienes incautados. Esto ha generado preocupación sobre la corrupción y el impacto en la economía local.  
+La Operación Sicarius ha culminado en la detención de varios implicados en una red de lavado de dinero vinculada al contrabando, con un total de 8 personas arrestadas y un monto estimado de 500 mil dólares en bienes incautados. Esto ha generado preocupación sobre la corrupción y el impacto en la economía local.
+
 📊 Temperatura social: Media
 
 ⚽ DEPORTES
 
 La Albirroja se enfrenta a Colombia en la Liga de Naciones
 
-Esta noche, Paraguay jugará su último partido en la CONMEBOL Liga de Naciones contra Colombia, con la necesidad de ganar para seguir en la competencia. Se espera una gran afluencia de público en el estadio Defensores del Chaco.  
+Esta noche, Paraguay jugará su último partido en la CONMEBOL Liga de Naciones contra Colombia, con la necesidad de ganar para seguir en la competencia. Se espera una gran afluencia de público en el estadio Defensores del Chaco.
+
 📊 Temperatura social: Alta
 
 🎭 ENTRETENIMIENTO & CULTURA
 
 Festival del Ovecha Ragué en San Miguel
 
-El Festival del Ovecha Ragué celebra 35 años de tradición, atrayendo a turistas y locales con música y artesanía. Este evento cultural ha captado la atención de la comunidad, resaltando la riqueza cultural de Paraguay.  
+El Festival del Ovecha Ragué celebra 35 años de tradición, atrayendo a turistas y locales con música y artesanía. Este evento cultural ha captado la atención de la comunidad, resaltando la riqueza cultural de Paraguay.
+
 📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
 
 Hombre toma de rehén a cajera en Concepción
 
-Un hombre ha mantenido como rehén a una cajera en una situación tensa que ha movilizado a las autoridades. Este incidente ha generado preocupación sobre la seguridad pública y la violencia en los espacios comerciales.  
+Un hombre ha mantenido como rehén a una cajera en una situación tensa que ha movilizado a las autoridades. Este incidente ha generado preocupación sobre la seguridad pública y la violencia en los espacios comerciales.
+
 📊 Temperatura social: Alta
 
 🔥 VIRALES & TENDENCIAS
 
 La Miss Bebota y su momento viral
 
-Jaz Martínez, la Miss Bebota 2026, se volvió viral tras un momento emotivo en la despedida a la Albirroja en la calle Palma, donde su entusiasmo desbordó las redes sociales. Este tipo de interacciones reflejan la conexión entre el deporte y la cultura popular en Paraguay.  
+Jaz Martínez, la Miss Bebota 2026, se volvió viral tras un momento emotivo en la despedida a la Albirroja en la calle Palma, donde su entusiasmo desbordó las redes sociales. Este tipo de interacciones reflejan la conexión entre el deporte y la cultura popular en Paraguay.
+
 📊 Temperatura social: Media
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
@@ -86,4 +92,7 @@ La combinación de eventos políticos y sociales está marcando el pulso de la c
 
 🔎 FUENTES CONSULTADAS HOY
 
-ABC Color, Diario HOY, Diario Popular, ABC Deportes.
+- ABC Color
+- Diario HOY
+- Diario Popular
+- ABC Deportes.

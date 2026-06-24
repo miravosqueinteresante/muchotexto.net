@@ -19,7 +19,8 @@ La Marcha del Orgullo genera gran revuelo social al exigir una ley contra la dis
 
 Marcha del Orgullo 2026 exigirá una ley contra toda forma de discriminación en Paraguay  
 
-La Marcha del Orgullo, prevista para este fin de semana, se ha convertido en un tema central de discusión, con un fuerte llamado a la aprobación de una ley que proteja a la comunidad LGBTQ+. Se espera una participación masiva, lo que refleja la creciente demanda de derechos en el país.  
+La Marcha del Orgullo, prevista para este fin de semana, se ha convertido en un tema central de discusión, con un fuerte llamado a la aprobación de una ley que proteja a la comunidad LGBTQ+. Se espera una participación masiva, lo que refleja la creciente demanda de derechos en el país.
+
 📊 Temperatura social: Alta  
 
 🔹 Crisis en el sector pesquero  
@@ -30,35 +31,40 @@ La situación crítica en el sector pesquero ha llevado a la extensión del plaz
 
 Crisis en el sector pesquero obliga a extender plazo para pago de licencias en Ayolas  
 
-El sector pesquero enfrenta una crisis que ha afectado a muchos trabajadores, llevando al gobierno a extender el plazo para el pago de licencias. Esto refleja la difícil situación económica que atraviesan los pescadores en esta región.  
+El sector pesquero enfrenta una crisis que ha afectado a muchos trabajadores, llevando al gobierno a extender el plazo para el pago de licencias. Esto refleja la difícil situación económica que atraviesan los pescadores en esta región.
+
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 Nacional B: Quinceno y Ciudad Nueva logran aplastantes victorias  
 
-En la segunda división del fútbol paraguayo, Quinceno y Ciudad Nueva obtuvieron victorias contundentes, destacándose en la jornada del fin de semana.  
+En la segunda división del fútbol paraguayo, Quinceno y Ciudad Nueva obtuvieron victorias contundentes, destacándose en la jornada del fin de semana.
+
 📊 Temperatura social: Baja  
 
 🎭 ENTRETENIMIENTO & CULTURA  
 
 El regreso de la UFC y rol con acción real: los juegazos de la semana  
 
-Los eventos de UFC están atrayendo la atención de los fanáticos del deporte, generando expectativa por la acción que traerán las próximas competencias.  
+Los eventos de UFC están atrayendo la atención de los fanáticos del deporte, generando expectativa por la acción que traerán las próximas competencias.
+
 📊 Temperatura social: Media  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Alerta por la situación de los jubilados municipales  
 
-La Asociación Paraguaya de Jubilados y Pensionados Municipales ha encendido alarmas por el atraso en los pagos de haberes, que llegan a tres meses, lo que genera gran malestar entre los beneficiarios.  
+La Asociación Paraguaya de Jubilados y Pensionados Municipales ha encendido alarmas por el atraso en los pagos de haberes, que llegan a tres meses, lo que genera gran malestar entre los beneficiarios.
+
 📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 Alarma por Alcides Benítez: del preocupante video en redes al descargo tras sufrir un hackeo  
 
-Un video de Alcides Benítez que circuló en redes sociales ha generado preocupación y discusión, especialmente tras su aclaración sobre un hackeo. Este hecho ha captado la atención de muchos usuarios.  
+Un video de Alcides Benítez que circuló en redes sociales ha generado preocupación y discusión, especialmente tras su aclaración sobre un hackeo. Este hecho ha captado la atención de muchos usuarios.
+
 📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
@@ -86,4 +92,7 @@ La alta temperatura social en torno a la Marcha del Orgullo y la crisis en el se
 
 🔎 FUENTES CONSULTADAS HOY  
 
-ABC Color, ABC Deportes, ADN Digital, Diario HOY.
+- ABC Color
+- ABC Deportes
+- ADN Digital
+- Diario HOY.
