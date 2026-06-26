@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Atragantamiento en partido de la Albirroja — 26 de junio de 2026"
-description: "VIERNES 26 de junio de 2026 Última actualización: 10:30 TEMA 1 DEL DÍA: Atragantamiento en partido de la Albirroja Este lamentable suceso ha generado una..."
+title: "Pulso Paraguay: Paraguay iguala 1-1 con Australia — 26 de junio de 2026"
+description: "VIERNES 26 de junio de 2026 Última actualización: 10:30 TEMA 1 DEL DÍA: Paraguay iguala 1-1 con Australia La Albirroja empató en un partido clave por la clasificación al Mundial 2026. El resultado mantiene a Paraguay en carrera pero desató un intenso debate..."
 date: 2026-06-26
 last_modified_at: 2026-06-26
 categories: pulso-paraguay
@@ -11,9 +11,9 @@ tags: pulso paraguay actualidad política economía deportes
 PULSO DIARIO PARAGUAY  
 📅 VIERNES 26 de junio de 2026  |  🕐 Última actualización: 10:30
 
-🌡 TEMA #1 DEL DÍA: Atragantamiento en partido de la Albirroja
+🌡 TEMA #1 DEL DÍA: Paraguay iguala 1-1 con Australia
 
-Este lamentable suceso ha generado una fuerte repercusión en las redes y en los medios de comunicación.
+La Albirroja empató en un partido clave por la clasificación al Mundial 2026. El resultado mantiene a Paraguay en carrera pero desató un intenso debate sobre el desempeño del equipo.
 
 🏛 POLÍTICA
 
@@ -39,7 +39,7 @@ Desde el MAG se informa que las heladas han afectado gravemente a los cultivos, 
 
 Paraguay iguala con Australia
 
-La selección nacional empató 1-1 en su partido contra Australia, manteniéndose en la línea de clasificación para el Mundial. Este resultado ha despertado el debate sobre el desempeño del equipo.
+La selección nacional empató 1-1 en su partido contra Australia por la clasificación al Mundial 2026. El resultado mantiene a Paraguay en carrera pero desató un intenso debate sobre el desempeño del equipo y las chances de avanzar.
 
 📊 Temperatura social: Alta
 
@@ -59,25 +59,17 @@ La Fiscalía llevó a cabo un allanamiento en un instituto que emitió 300 títu
 
 📊 Temperatura social: Alta
 
-🔥 VIRALES & TENDENCIAS
-
-Maniobra de Heimlich
-
-Un video sobre cómo aplicar la maniobra de Heimlich se ha vuelto viral tras el trágico suceso de atragantamiento. La población está tomando conciencia sobre la importancia de conocer estas técnicas de primeros auxilios.
-
-📊 Temperatura social: Alta
-
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
 
-1. 🥇 Atragantamiento en partido de la Albirroja  
-2. 🥈 Retorno del senador Carlos Núñez al cartismo  
-3. 🥉 Allanamiento por títulos falsos  
-4. Impacto de las heladas en los productores  
-5. Paraguay iguala con Australia
+1. 🥇 Paraguay iguala 1-1 con Australia
+2. 🥈 Retorno del senador Carlos Núñez al cartismo
+3. 🥉 Allanamiento por títulos falsos
+4. Impacto de las heladas en los productores
+5. Festival musical en La Paz
 
 💡 INSIGHT DEL DÍA
 
-El día se ha visto marcado por un trágico suceso que ha unido a la ciudadanía en la reflexión sobre la seguridad y la salud. Además, la política sigue generando controversia, lo que refleja un clima de desconfianza hacia las instituciones. 
+El empate de la Albirroja domina la conversación nacional, pero la política no da tregua: el regreso de Núñez al cartismo y el escándalo de los títulos falsos reflejan un clima de desconfianza institucional que contrasta con la euforia futbolera.
 
 🔍 ANÁLISIS DE SENTIMIENTO POR CATEGORÍA
 
@@ -88,7 +80,6 @@ El día se ha visto marcado por un trágico suceso que ha unido a la ciudadanía
 | ⚽ Deportes | Alto | 50% | 30% | 20% | 🟢 |
 | 🎭 Cultura | Media | 60% | 20% | 20% | 🟡 |
 | 🚨 Seguridad | Alto | 20% | 30% | 50% | 🟠 |
-| 🔥 Virales | Alto | 70% | 20% | 10% | 🟢 |
 
 🔎 FUENTES CONSULTADAS HOY
 
