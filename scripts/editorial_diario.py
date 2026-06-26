@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Editorial Diaria — Generador automático del artículo de opinión del día.
+Editorial Diaria — Generador automático del artículo analisis del día.
 Lee el Pulso Paraguay publicado, lo analiza con GPT-4o y genera
-una Editorial con profundidad cultural, filosófica, sociológica y política.
+una Editorial que conecta los temas del día con precision y sin alucinaciones.
 """
 
 import os
@@ -35,27 +35,27 @@ MESES = {
 
 PY_TIME = "18:00:00"
 
-SYSTEM_PROMPT = """Eres un editorialista de Opinión con una voz de análisis profundo, que escribe en español paraguayo natural (con voseo y modismos coloquiales, NO uses jopara ni guaraní). Tu estilo se caracteriza por: reflexión sobre el poder y la identidad paraguaya, ironía, crítica social aguda, compromiso con la verdad, perspectiva cultural y análisis de la realidad nacional con profundidad.
+SYSTEM_PROMPT = """Eres un analista paraguayo que escribe en español paraguayo natural (con voseo, sin jopara ni guaraní).
 
-Analiza los acontecimientos desde una perspectiva cultural, filosófica, sociológica y política. El título debe relacionar inteligencia artificial, la fecha y Paraguay. Formato sugerido: "[Tema central] — Editorial [día] de [mes] de [año]"
+Tu trabajo: leer el Pulso Paraguay del día e identificar 2 o 3 conexiones entre los temas que los datos ya muestran. No inventes interpretaciones: señalá patrones que están en el Pulso.
 
 Reglas estrictas:
-- Solo usar información del Pulso Paraguay proporcionado abajo
-- NUNCA atribuyas citas, frases, ideas o dichos a personas reales. No digas "como decía X" a menos que esa cita aparezca textual en el Pulso Paraguay.
-- Nunca inventar datos, fechas, cifras NI nombres de personas. Los nombres propios deben coincidir EXACTAMENTE con los del Pulso.
-- Si no hay suficiente información en el Pulso para analizar un tema, no lo hagas
-- No seas sensacionalista ni partidario
-REGLAS SEO ESTRICTAS (aplican al título y al cuerpo):
-- El título debe contener la keyword principal del tema tratado. Máximo 70 caracteres sin contar "— Editorial [fecha]". Variá el estilo: usá afirmaciones contundentes, preguntas directas o conceptos abstractos. Ejemplos de buenos títulos: "El precio de la impunidad", "Cuando el Estado no responde", "¿Quién regula a los que regulan?".
-- El primer párrafo debe incluir la keyword principal del tema en las primeras 2 oraciones. NO empieces con fechas ni con "Hoy...". El hook debe ser una afirmación fuerte, una pregunta provocadora o un dato impactante del Pulso.
-- Usá entre 2 y 4 subtítulos con ## que incluyan keywords secundarias. No uses subtítulos genéricos como "Contexto" o "Análisis": cada subtítulo debe adelantar una idea concreta.
-- La palabra "Paraguay" debe aparecer al menos 3 veces distribuidas en el texto (no acumuladas en un solo párrafo).
-- No uses preguntas retóricas vacías como cierre ("¿Estamos preparados?"). El último párrafo debe cerrar con una conclusión firme.
+- Solo usar información presente en el Pulso Paraguay proporcionado. No agregues contexto externo ni conocimiento general.
+- Nunca atribuyas citas, frases, ideas o dichos a personas reales. No digas "como decía X" a menos que esa cita aparezca textual en el Pulso.
+- Nunca inventes datos, fechas, cifras ni nombres de personas. Los nombres propios deben coincidir EXACTAMENTE con los del Pulso.
+- Si un dato no está en el Pulso, no lo uses.
+- No uses metáforas forzadas del tipo "X es el espejo de Y", "X como Y", "X es el Y de Z".
+- No uses preguntas retóricas vacías como apertura o cierre.
+- El estilo es directo y periodístico. La opinión surge de contrastar hechos, no de filosofar.
+- Idioma: español de Paraguay (voseo, "che", etc.). NO uses jopara ni guaraní.
 
-REGLAS DE ESTILO:
-- PROHIBIDO usar las palabras "espejo", "reflejo", "refleja", "como espejo" o cualquier metáfora de espejo/reflejo en el título o en el cuerpo.
-- PROHIBIDO usar metáforas predecibles o clichés del tipo "X como Y" donde un evento social es presentado como símbolo de algo más grande. Los títulos deben ser directos, periodísticos y evitar figuras literarias forzadas. No uses la estructura "X como Y" ni "X es el Y de Z".
-- Extensión: 800-1200 palabras.
+Formato:
+- Título: descriptivo y concreto. Máximo 70 caracteres sin contar "— Editorial [fecha]".
+- Primer párrafo: arranca con un hecho concreto del Pulso, no con una pregunta ni con una afirmación abstracta.
+- Subtítulos (2 o 3) con ## que adelanten una idea concreta. No uses subtítulos genéricos como "Contexto" o "Análisis".
+- La palabra "Paraguay" debe aparecer al menos 3 veces distribuidas en el texto.
+- Último párrafo: cerrar con una conclusión firme basada en los hechos presentados.
+- Extensión: 500-700 palabras.
 - Formato: markdown, con # para el título."""
 
 
@@ -105,7 +105,7 @@ def call_github_models(pulso_content: str, pulso_title: str | None = None) -> st
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": context},
         ],
-        "temperature": 0.8,
+        "temperature": 0.3,
         "max_tokens": 2000,
     }).encode()
 
@@ -167,7 +167,6 @@ ARTICULOS_LINKEABLES = [
     ("burbuja de la IA|burbuja inteligencia artificial|costos de la IA|cuesta más que los humanos", "burbuja de la IA", "{% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %}"),
     ("tokenización|blockchain.*agro|soja.*token", "tokenización del agro", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
     ("encíclica|Papa León XIV|Magnifica Humanitas|ética.*inteligencia artificial|IA.*ética", "encíclica Magnifica Humanitas", "{% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %}"),
-    ("fútbol.*Mundial|Mundial.*fútbol|Albirroja.*Mundial|selección.*Mundial 2026|Mundial 2026.*Paraguay", "la Albirroja en el Mundial 2026", "{% post_url 2026-06-10-que-es-realmente-el-futbol %}"),
     ("inteligencia artificial.*fútbol|IA.*deporte|Sportian|Pochettino.*IA|datos.*deportivos", "uso de IA en el fútbol", "{% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %}"),
     ("ley de protección de datos|protección de datos personales|privacidad.*datos", "ley de protección de datos", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
     ("identidad digital|conciencia.*tecnología|ciberhumanidad", "identidad digital", "{% post_url 2026-05-13-ciberhumanidad %}"),
@@ -176,12 +175,39 @@ ARTICULOS_LINKEABLES = [
 
 def add_internal_links(body: str) -> str:
     for pattern, anchor, post_url in ARTICULOS_LINKEABLES:
-        match = re.search(pattern, body, re.IGNORECASE)
+        match = re.search(r'\b' + pattern + r'\b', body, re.IGNORECASE)
         if match:
             matched_text = match.group(0)
             link = f"[{anchor}]({post_url})"
-            body = body.replace(matched_text, link, 1)
+            body = body[:match.start()] + link + body[match.end():]
     return body
+
+
+def validate_content(body: str, pulso_content: str):
+    """Post-proceso no bloqueante: loguea posibles alucinaciones."""
+    # Check for factual contradictions: phrases that claim something not in Pulso
+    # ponytail: simple keyword check, not semantic analysis
+    pulso_lower = pulso_content.lower()
+
+    red_flags = [
+        (r"pelea por entrar al Mundial", "El Mundial ya se esta jugando, Paraguay ya esta adentro"),
+        (r"clasificar al Mundial", "Verificar si el Pulso dice que Paraguay ya esta en el Mundial"),
+        (r"eliminado", "Verificar si Paraguay fue eliminado segun el Pulso"),
+    ]
+
+    for pattern, reason in red_flags:
+        if re.search(pattern, body, re.IGNORECASE):
+            log.warning("Posible alucinacion detectada: '%s' — %s", pattern, reason)
+
+    # Log sentences that might be pure invention (no overlap with Pulso keywords)
+    sentences = re.split(r'(?<=[.!?])\s+', body)
+    for s in sentences:
+        words = set(re.findall(r'\b\w{5,}\b', s.lower()))
+        if len(words) >= 6:
+            pulso_words = set(re.findall(r'\b\w{5,}\b', pulso_lower))
+            overlap = words & pulso_words
+            if len(overlap) < 2:
+                log.warning("Oracion con poca conexion al Pulso: %s...", s[:100])
 
 
 def save_editorial_post(title: str, body: str):
@@ -244,6 +270,9 @@ def main():
         sys.exit(1)
 
     title, body = extract_title_and_body(result)
+
+    log.info("Paso 2.5: Validando contenido contra el Pulso...")
+    validate_content(body, pulso)
 
     log.info("Paso 3/3: Guardando post de Jekyll...")
     filepath = save_editorial_post(title, body)

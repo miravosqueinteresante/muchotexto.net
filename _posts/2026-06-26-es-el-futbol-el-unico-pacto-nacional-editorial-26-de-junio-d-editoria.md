@@ -8,9 +8,9 @@ categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
 
-Paraguay empató 1-1 con Australia en el camino al [la Albirroja en el Mundial 2026]({% post_url 2026-06-10-que-es-realmente-el-futbol %}) nuestra tregua en un país donde los conflictos políticos, económicos y sociales cada vez son más insostenibles?
+Paraguay empató 1-1 con Australia en el Mundial 2026 y el pais entero se detuvo por noventa minutos. ¿Es este el único pacto que nos une en un pais donde los conflictos politicos, economicos y sociales cada vez son mas insostenibles?
 
-La fiebre futbolera de una nación con prioridades cruzadas no es solo un fenómeno cultural; es un espejo de nuestra realidad. Mientras debatimos apasionadamente si el empate es suficiente para soñar con la clasificación, otros temas cruciales pasan a un segundo plano. Es inevitable preguntarse: ¿qué sería de Paraguay sin el fútbol, sin esa válvula de escape emocional que nos permite postergar, al menos por un rato, las urgencias que arden en nuestra casa propia?
+La fiebre futbolera no es solo un fenomeno cultural. Mientras debatimos si el empate alcanza para seguir avanzando, otros temas igual de urgentes pasan a segundo plano. La pregunta inevitable: ¿que seria de Paraguay sin el futbol, sin esa valvula de escape emocional que nos permite postergar las urgencias que arden en nuestra propia casa?
 
 ## Paraguay y el empate: ¿victoria emocional o evasión colectiva?
 
@@ -20,7 +20,7 @@ Pero mientras celebramos esos 90 minutos de ilusión, la realidad nos golpea una
 
 ## El regreso de Núñez: ¿una derrota mayor?
 
-Mientras la selección pelea por entrar al Mundial, en el Congreso se juega otro tipo de partido, uno marcado por el juego sucio. Carlos Núñez, envuelto en denuncias de corrupción que nunca han sido aclaradas, retorna al cartismo como si nada hubiera pasado, agregando otra capa de cinismo a nuestro paisaje político. Este regreso no es solo un movimiento partidario; es una demostración de cómo en Paraguay las reglas del juego parecen diseñadas para premiar la impunidad.
+Mientras la seleccion avanza en el Mundial, en el Congreso se juega otro tipo de partido, uno marcado por el juego sucio. Carlos Núñez, envuelto en denuncias de corrupción que nunca han sido aclaradas, retorna al cartismo como si nada hubiera pasado, agregando otra capa de cinismo a nuestro paisaje político. Este regreso no es solo un movimiento partidario; es una demostración de cómo en Paraguay las reglas del juego parecen diseñadas para premiar la impunidad.
 
 La temperatura social está alta, pero no lo suficiente para traducir la indignación en acción. ¿Acaso nos acostumbramos tanto a los escándalos que ya no nos afectan? Este empate político, en el que nadie gana pero todos siguen jugando, es quizá más preocupante que cualquier empate futbolístico.
 
