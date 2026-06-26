@@ -8,7 +8,7 @@ categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
 
-El [la Albirroja en el Mundial 2026]({% post_url 2026-06-10-que-es-realmente-el-futbol %}) 2026. Más allá del resultado, este partido plantea preguntas sobre la identidad nacional que van más allá de los 90 minutos. ¿Por qué un país que parece tan unido frente a un balón, se muestra tan dividido en sus instituciones? La "resiliencia paraguaya", como la llaman algunos, no es más que la capacidad de sobrevivir al caos, pero ¿hasta cuándo podremos sostenernos en esta contradicción?
+La [Albirroja en el Mundial 2026]({% post_url 2026-06-25-paraguay-vs-australia-en-el-mundial-pulso-paraguay %}) define hoy su futuro. Más allá del resultado, este partido plantea preguntas sobre la identidad nacional que van más allá de los 90 minutos. ¿Por qué un país que parece tan unido frente a un balón, se muestra tan dividido en sus instituciones? La "resiliencia paraguaya", como la llaman algunos, no es más que la capacidad de sobrevivir al caos, pero ¿hasta cuándo podremos sostenernos en esta contradicción?
 
 ## El caos organizado: ¿lección deportiva o metáfora nacional?
 
@@ -30,7 +30,7 @@ El contrabando es otro tipo de "caos organizado". Funciona como un sistema paral
 
 ## Resiliencia o resignación: el dilema cultural paraguayo
 
-Muchos celebran la capacidad de Paraguay de alternar entre la pasión por el fútbol y las preocupaciones cotid[uso de IA en el fútbol]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %}) son hermosos, sí, pero también funcionan como una cortina que oculta las grietas profundas de nuestra sociedad.
+Muchos celebran la capacidad de Paraguay de alternar entre la pasión por el fútbol y las preocupaciones cotidianas. Los goles, las jugadas y los análisis tácticos son hermosos, sí, pero también funcionan como una cortina que oculta las grietas profundas de nuestra sociedad.
 
 La pregunta que debemos hacernos es si Paraguay quiere seguir siendo ese equipo que sorprende en el caos o si aspira a algo más. Tanto en el fútbol como en la vida nacional, los resultados impredecibles pueden ser emocionantes, pero no son sostenibles. La resiliencia, esa palabra que tanto nos gusta usar, no es suficiente si no viene acompañada de un proyecto claro. Después de todo, sobrevivir no es lo mismo que vivir.
 
