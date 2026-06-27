@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anotación de datos para IA: ¿puede Paraguay ser el nuevo hub?"
+title: "Anotación de datos para IA: la ventaja silenciosa de Paraguay"
 date: 2026-06-27
 last_modified_at: 2026-06-27
 categories: articulos
