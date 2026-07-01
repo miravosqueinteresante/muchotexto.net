@@ -43,6 +43,8 @@ Reglas estrictas:
 - Solo usar información presente en el Pulso Paraguay proporcionado. No agregues contexto externo ni conocimiento general.
 - Nunca atribuyas citas, frases, ideas o dichos a personas reales. No digas "como decía X" a menos que esa cita aparezca textual en el Pulso.
 - Nunca inventes datos, fechas, cifras ni nombres de personas. Los nombres propios deben coincidir EXACTAMENTE con los del Pulso.
+- Si el Pulso menciona a una persona, limitate a lo que el Pulso dice de ella. No la conviertas en símbolo, ejemplo, metáfora ni emblema de nada. No digas que "refuerza", "encarna", "representa" o "simboliza". Es una persona, no un recurso retórico.
+- Si el Pulso dice que alguien "compartió su análisis", no digas que "elogió", "criticó" o "respaldó". No infieras el tono. Si el Pulso no califica la declaración, vos tampoco.
 - Si un dato no está en el Pulso, no lo uses.
 - No uses metáforas forzadas del tipo "X es el espejo de Y", "X como Y", "X es el Y de Z".
 - No uses preguntas retóricas vacías como apertura o cierre.
@@ -165,11 +167,11 @@ ARTICULOS_LINKEABLES = [
     ("Itaipú|energía hidroeléctrica|excedente energético", "energía de Itaipú", "{% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}"),
     ("Peter Thiel|Palantir|Crusoe AI|Cully Cavness", "Peter Thiel", "{% post_url 2026-05-16-peter-thiel-paraguay-experimento %}"),
     ("burbuja de la IA|burbuja inteligencia artificial|costos de la IA|cuesta más que los humanos", "burbuja de la IA", "{% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %}"),
-    ("tokenización|blockchain.*agro|soja.*token", "tokenización del agro", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
-    ("encíclica|Papa León XIV|Magnifica Humanitas|ética.*inteligencia artificial|IA.*ética", "encíclica Magnifica Humanitas", "{% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %}"),
-    ("inteligencia artificial.*fútbol|IA.*deporte|Sportian|Pochettino.*IA|datos.*deportivos", "uso de IA en el fútbol", "{% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %}"),
-    ("ley de protección de datos|protección de datos personales|privacidad.*datos", "ley de protección de datos", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
-    ("identidad digital|conciencia.*tecnología|ciberhumanidad", "identidad digital", "{% post_url 2026-05-13-ciberhumanidad %}"),
+    ("tokenización|blockchain.{0,40}?agro|soja.{0,20}?token", "tokenización del agro", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
+    ("encíclica|Papa León XIV|Magnifica Humanitas|ética.{0,60}?inteligencia artificial|IA.{0,40}?ética", "encíclica Magnifica Humanitas", "{% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %}"),
+    ("inteligencia artificial.{0,60}?fútbol|IA.{0,40}?deporte|Sportian|Pochettino.{0,30}?IA|datos.{0,20}?deportivos", "uso de IA en el fútbol", "{% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %}"),
+    ("ley de protección de datos|protección de datos personales|privacidad.{0,40}?datos", "ley de protección de datos", "{% post_url 2026-05-18-tokenizacion-del-agro-paraguay %}"),
+    ("identidad digital|conciencia.{0,40}?tecnología|ciberhumanidad", "identidad digital", "{% post_url 2026-05-13-ciberhumanidad %}"),
 ]
 
 
@@ -178,28 +180,55 @@ def add_internal_links(body: str) -> str:
         match = re.search(r'\b' + pattern + r'\b', body, re.IGNORECASE)
         if match:
             matched_text = match.group(0)
+            # ponytail: safety check — link must not split a word
+            start, end = match.start(), match.end()
+            before_char = body[start - 1] if start > 0 else ' '
+            after_char = body[end] if end < len(body) else ' '
+            if before_char.isalpha() or after_char.isalpha():
+                log.warning("Link insertion habria cortado una palabra — saltando patron '%s' en pos %d", pattern, start)
+                continue
             link = f"[{anchor}]({post_url})"
-            body = body[:match.start()] + link + body[match.end():]
+            body = body[:start] + link + body[end:]
     return body
 
 
 def validate_content(body: str, pulso_content: str):
-    """Post-proceso no bloqueante: loguea posibles alucinaciones."""
-    # Check for factual contradictions: phrases that claim something not in Pulso
-    # ponytail: simple keyword check, not semantic analysis
+    """Post-proceso: loguea posibles alucinaciones y devuelve True si es publicable."""
     pulso_lower = pulso_content.lower()
+    warnings = []
 
-    red_flags = [
+    # Known hallucination patterns that indicate unusable output
+    hard_fails = [
         (r"pelea por entrar al Mundial", "El Mundial ya se esta jugando, Paraguay ya esta adentro"),
         (r"clasificar al Mundial", "Verificar si el Pulso dice que Paraguay ya esta en el Mundial"),
         (r"eliminado", "Verificar si Paraguay fue eliminado segun el Pulso"),
+        (r"partido de ayer|el día de ayer|ayer.*partido", "No se debe referir a 'ayer' — usar hechos del Pulso de hoy"),
     ]
 
-    for pattern, reason in red_flags:
+    for pattern, reason in hard_fails:
         if re.search(pattern, body, re.IGNORECASE):
-            log.warning("Posible alucinacion detectada: '%s' — %s", pattern, reason)
+            msg = f"ALERTA BLOQUEANTE: '{pattern}' — {reason}"
+            log.error(msg)
+            warnings.append(msg)
 
-    # Log sentences that might be pure invention (no overlap with Pulso keywords)
+    # Person embellishment: extract capitalized names from body, check Pulso context
+    body_names = set(re.findall(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\b', body))
+    pulso_names = set(re.findall(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\b', pulso_content))
+    new_names = body_names - pulso_names
+    for name in new_names:
+        if name not in ("Paraguay", "Alemania", "Estados Unidos", "Brasil", "Argentina"):
+            log.warning("Nombre no presente en el Pulso: '%s'", name)
+
+    # Detect emotional framing around person names from Pulso
+    embellish_patterns = [
+        r'(?:refuerza|encarna|representa|simboliza|encarna)\s+(?:este|el|la|un)\s+\w+',
+        r'(?:experiencia|liderazgo|liderazgo histórico)\s+(?:y|e)\s+(?:liderazgo|experiencia)',
+    ]
+    for ep in embellish_patterns:
+        if re.search(ep, body, re.IGNORECASE):
+            log.warning("Posible embellecimiento de persona detectado: '%s'", ep)
+
+    # Log sentences with low Pulso overlap
     sentences = re.split(r'(?<=[.!?])\s+', body)
     for s in sentences:
         words = set(re.findall(r'\b\w{5,}\b', s.lower()))
@@ -208,6 +237,12 @@ def validate_content(body: str, pulso_content: str):
             overlap = words & pulso_words
             if len(overlap) < 2:
                 log.warning("Oracion con poca conexion al Pulso: %s...", s[:100])
+
+    if warnings:
+        log.warning("Editorial generada con %d alertas — revisar antes de publicar", len(warnings))
+    else:
+        log.info("Validacion superada sin alertas")
+    return len(warnings) == 0
 
 
 def save_editorial_post(title: str, body: str):
@@ -272,7 +307,10 @@ def main():
     title, body = extract_title_and_body(result)
 
     log.info("Paso 2.5: Validando contenido contra el Pulso...")
-    validate_content(body, pulso)
+    ok = validate_content(body, pulso)
+    if not ok:
+        log.error("Validacion fallo con alertas bloqueantes. La editorial se publica pero requiere revision humana.")
+        # ponytail: no bloqueamos el deploy, pero el log queda como error para alertar
 
     log.info("Paso 3/3: Guardando post de Jekyll...")
     filepath = save_editorial_post(title, body)
