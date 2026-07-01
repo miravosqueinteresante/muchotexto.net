@@ -18,7 +18,7 @@ La cumbre del Mercosur, donde el presidente Santiago Peña y su par ecuatoriano 
 
 ## Salud y feriados: el costo de la euforia
 
-La declaración de feriados tras la victoria de Paraguay en el Mundial tuvo efectos colaterales en el ámbito de la salud pública. Los asegurados del Instituto de Previsión Social (IPS expresaron su descontento por el reagendamiento de consultas médicas, lo que generó incertidumbre en la atención sanitaria. Aunque la temperatura social en esta categoría es moderada, con un 30% de sentimiento negativo, el tema evidencia cómo decisiones impulsadas por eventos extraordinarios pueden impactar en áreas sensibles como la salud.
+La declaración de feriados tras la victoria de Paraguay en el Mundial tuvo efectos colaterales en el ámbito de la salud pública. Los asegurados del Instituto de Previsión Social (IPS) expresaron su descontento por el reagendamiento de consultas médicas, lo que generó incertidumbre en la atención sanitaria. Aunque la temperatura social en esta categoría es moderada, con un 30% de sentimiento negativo, el tema evidencia cómo decisiones impulsadas por eventos extraordinarios pueden impactar en áreas sensibles como la salud.
 
 Este contraste entre la alegría colectiva y las preocupaciones individuales pone de manifiesto una tensión latente en Paraguay: la necesidad de equilibrar los momentos de celebración nacional con la continuidad de servicios esenciales para la población.
 

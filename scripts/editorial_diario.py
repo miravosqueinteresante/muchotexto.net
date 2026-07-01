@@ -9,6 +9,7 @@ import os
 import sys
 import re
 import json
+import time
 import logging
 import unicodedata
 from datetime import datetime, timezone, timedelta
@@ -82,8 +83,12 @@ def read_pulso_post(date: str) -> tuple[str | None, str | None]:
     if not matches:
         return None, None
     filepath = matches[-1]
-    with open(filepath, "r", encoding="utf-8") as f:
-        content = f.read()
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            content = f.read()
+    except (OSError, UnicodeDecodeError) as e:
+        log.error("Error leyendo Pulso %s: %s", filepath, e)
+        return None, None
     title_match = re.search(r"^title:\s*\"(.+?)\"", content, re.MULTILINE)
     pulso_title = title_match.group(1).strip() if title_match else None
     body = re.sub(r"^---.*?---\s*", "", content, count=1, flags=re.DOTALL)
@@ -120,14 +125,23 @@ def call_github_models(pulso_content: str, pulso_title: str | None = None) -> st
         },
     )
 
-    try:
-        with urlopen(req, timeout=180) as resp:
-            data = json.loads(resp.read().decode())
-        content = data["choices"][0]["message"]["content"]
-        return content.strip()
-    except Exception as e:
-        log.error("Error calling GitHub Models: %s", e)
-        return None
+    max_retries = 3
+    for attempt in range(1, max_retries + 1):
+        try:
+            with urlopen(req, timeout=180) as resp:
+                data = json.loads(resp.read().decode())
+            content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+            if not content.strip():
+                log.error("API devolvio contenido vacio")
+                return None
+            return content.strip()
+        except Exception as e:
+            log.warning("Intento %d/%d fallo: %s", attempt, max_retries, e)
+            if attempt < max_retries:
+                time.sleep(2 ** attempt)
+            else:
+                log.error("Error calling GitHub Models tras %d intentos: %s", max_retries, e)
+                return None
 
 
 def make_slug(text: str) -> str:
@@ -149,7 +163,8 @@ def extract_title_and_body(markdown_text: str) -> tuple[str, str]:
     return title, body
 
 def sanitize_yaml(text: str) -> str:
-    return text.replace('"', '').replace("'", "")
+    # ponytail: strip chars that break YAML, keep quotes out
+    return re.sub(r'[":\\{}\[\]&*!|>#%`]', '', text).strip()
 
 
 def make_meta_description(body: str, max_len: int = 155) -> str:
@@ -177,14 +192,14 @@ ARTICULOS_LINKEABLES = [
 
 def add_internal_links(body: str) -> str:
     for pattern, anchor, post_url in ARTICULOS_LINKEABLES:
-        match = re.search(r'\b' + pattern + r'\b', body, re.IGNORECASE)
+        match = re.search(r'\b(?:' + pattern + r')\b', body, re.IGNORECASE)
         if match:
-            matched_text = match.group(0)
             # ponytail: safety check — link must not split a word
             start, end = match.start(), match.end()
-            before_char = body[start - 1] if start > 0 else ' '
-            after_char = body[end] if end < len(body) else ' '
-            if before_char.isalpha() or after_char.isalpha():
+            before_char = body[start - 1:start] if start > 0 else ' '
+            after_char = body[end:end + 1] if end < len(body) else ' '
+            if (before_char.isalnum() or before_char == '_' or
+                after_char.isalnum() or after_char == '_'):
                 log.warning("Link insertion habria cortado una palabra — saltando patron '%s' en pos %d", pattern, start)
                 continue
             link = f"[{anchor}]({post_url})"
@@ -193,23 +208,24 @@ def add_internal_links(body: str) -> str:
 
 
 def validate_content(body: str, pulso_content: str):
-    """Post-proceso: loguea posibles alucinaciones y devuelve True si es publicable."""
+    """Post-proceso: loguea posibles alucinaciones. Devuelve dict con conteos."""
     pulso_lower = pulso_content.lower()
+    critical = []
     warnings = []
 
-    # Known hallucination patterns that indicate unusable output
-    hard_fails = [
+    # Patterns that indicate output is probably hallucinated
+    critical_patterns = [
         (r"pelea por entrar al Mundial", "El Mundial ya se esta jugando, Paraguay ya esta adentro"),
         (r"clasificar al Mundial", "Verificar si el Pulso dice que Paraguay ya esta en el Mundial"),
         (r"eliminado", "Verificar si Paraguay fue eliminado segun el Pulso"),
         (r"partido de ayer|el día de ayer|ayer.*partido", "No se debe referir a 'ayer' — usar hechos del Pulso de hoy"),
     ]
 
-    for pattern, reason in hard_fails:
+    for pattern, reason in critical_patterns:
         if re.search(pattern, body, re.IGNORECASE):
-            msg = f"ALERTA BLOQUEANTE: '{pattern}' — {reason}"
+            msg = f"CRITICO: '{pattern}' — {reason}"
             log.error(msg)
-            warnings.append(msg)
+            critical.append(msg)
 
     # Person embellishment: extract capitalized names from body, check Pulso context
     body_names = set(re.findall(r'\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\b', body))
@@ -221,12 +237,13 @@ def validate_content(body: str, pulso_content: str):
 
     # Detect emotional framing around person names from Pulso
     embellish_patterns = [
-        r'(?:refuerza|encarna|representa|simboliza|encarna)\s+(?:este|el|la|un)\s+\w+',
-        r'(?:experiencia|liderazgo|liderazgo histórico)\s+(?:y|e)\s+(?:liderazgo|experiencia)',
+        r'(?:refuerza|encarna|representa|simboliza)\s+(?:este|el|la|un)\s+\w+',
+        r'(?:experiencia|liderazgo)\s+(?:y|e)\s+(?:liderazgo|experiencia|histórico)',
     ]
     for ep in embellish_patterns:
         if re.search(ep, body, re.IGNORECASE):
             log.warning("Posible embellecimiento de persona detectado: '%s'", ep)
+            warnings.append(f"embellecimiento: {ep}")
 
     # Log sentences with low Pulso overlap
     sentences = re.split(r'(?<=[.!?])\s+', body)
@@ -238,11 +255,13 @@ def validate_content(body: str, pulso_content: str):
             if len(overlap) < 2:
                 log.warning("Oracion con poca conexion al Pulso: %s...", s[:100])
 
-    if warnings:
-        log.warning("Editorial generada con %d alertas — revisar antes de publicar", len(warnings))
+    if critical:
+        log.error("Editorial generada con %d alertas CRITICAS — publicada pero requiere revision humana urgente", len(critical))
+    elif warnings:
+        log.warning("Editorial generada con %d alertas — revisar", len(warnings))
     else:
         log.info("Validacion superada sin alertas")
-    return len(warnings) == 0
+    return {"critical": len(critical), "warnings": len(warnings)}
 
 
 def save_editorial_post(title: str, body: str):
@@ -307,10 +326,9 @@ def main():
     title, body = extract_title_and_body(result)
 
     log.info("Paso 2.5: Validando contenido contra el Pulso...")
-    ok = validate_content(body, pulso)
-    if not ok:
-        log.error("Validacion fallo con alertas bloqueantes. La editorial se publica pero requiere revision humana.")
-        # ponytail: no bloqueamos el deploy, pero el log queda como error para alertar
+    vresult = validate_content(body, pulso)
+    if vresult["critical"] > 0:
+        log.error("Editorial publicada con %d alertas criticas — requiere revision humana.", vresult["critical"])
 
     log.info("Paso 3/3: Guardando post de Jekyll...")
     filepath = save_editorial_post(title, body)

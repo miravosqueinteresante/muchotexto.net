@@ -32,4 +32,5 @@ jobs:
           git config user.email "pulso@muchotexto.net"
           git add _posts/
           git diff --cached --quiet || git commit -m "Editorial del día [$(TZ=America/Asuncion date +'%Y-%m-%d')]"
+          git pull --rebase origin main
           git push
