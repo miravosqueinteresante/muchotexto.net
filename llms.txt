@@ -20,6 +20,7 @@
 ### Pilar 1: Infraestructura y energía
 - [Yguazú Digital: ¿puede Paraguay convertirse en el hub de IA más grande del mundo?](https://muchotexto.net/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
 - [Luces y sombras de la apertura eléctrica en Paraguay](https://muchotexto.net/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
+- [Criptominería en Paraguay: el costo real de la energía barata](https://muchotexto.net/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)
 
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
