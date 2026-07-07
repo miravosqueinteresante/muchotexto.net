@@ -54,9 +54,9 @@ Hay otro problema, más sutil. La ley reconoce el derecho de supresión de datos
 
 ## El Artículo 24: cuando los datos chocan con la transparencia
 
-La ley tiene una cláusula que generó más controversia que todo el resto del texto junto. El Artículo 24 permite denegar el acceso a información pública cuando "el daño al interés protegido es mayor al interés público" en la divulgación.
+La ley tiene una cláusula que generó más controversia que todo el resto del texto junto. El Artículo 24 permite denegar el acceso a información pública cuando, según el texto legal, "el daño al interés protegido sea mayor al interés público de obtener la información".
 
-La oposición lo calificó de "ley Frankenstein". Los senadores Filizzola, Paredes y Martínez denunciaron su inconstitucionalidad. Ezequiel Santagada, uno de los abogados más reconocidos en derecho de acceso a la información en Paraguay, advirtió que la redacción es lo suficientemente vaga como para que cualquier funcionario pueda invocarla para bloquear pedidos de información. El presidente Peña no vetó el artículo.
+La senadora Esperanza Martínez, del Frente Guasu, la calificó de "versión Frankenstein y versión Drácula". Los senadores Filizzola y Paredes denunciaron su inconstitucionalidad. Ezequiel Santagada, uno de los abogados más reconocidos en derecho de acceso a la información en Paraguay, advirtió que el artículo llevaría "a la anulación de las leyes de acceso a la información pública". El presidente Peña no vetó el artículo.
 
 El problema de fondo es real: toda ley de protección de datos tiene que resolver la tensión entre privacidad y transparencia. El GDPR lo hace, la LGPD lo hace, todas las leyes del mundo lo hacen porque los dos derechos —el derecho a la privacidad y el derecho a la información pública— pueden colisionar. La diferencia está en cómo se resuelve esa colisión. El Artículo 24 paraguayo usa un test de balance genérico, sin criterios objetivos, sin un órgano independiente que lo aplique, y en un contexto institucional donde la opacidad estatal no es una hipótesis sino una práctica documentada.
 
