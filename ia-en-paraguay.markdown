@@ -73,10 +73,15 @@ Cada semana publicamos uno o dos artículos nuevos. Esta guía se actualiza con 
   },
   "datePublished": "2026-07-07",
   "dateModified": "2026-07-07",
+  "image": "https://muchotexto.net/assets/images/og-image.png",
   "publisher": {
     "@type": "Organization",
     "name": "MuchoTexto",
-    "url": "https://muchotexto.net"
+    "url": "https://muchotexto.net",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://muchotexto.net/assets/images/muchotextonet-logo.png"
+    }
   },
   "description": "Guia completa de inteligencia artificial en Paraguay. Data centers, energia, regulacion, empleo tech, geopolitica y el impacto de la IA en la sociedad paraguaya.",
   "about": "Inteligencia Artificial en Paraguay",

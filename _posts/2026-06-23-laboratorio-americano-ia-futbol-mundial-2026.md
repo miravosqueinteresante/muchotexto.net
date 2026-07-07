@@ -88,7 +88,7 @@ Gane o pierda en la siguiente ronda, el laboratorio americano ya dejó una lecci
 
 ## Fuentes
 
-- [Observatorial — "Pochettino bets on AI in the World Cup: what is the platform he uses to convert data into tactical decisions"](https://observatorial.com/news/technology-and-science/1745308/pochettino-bets-on-ai-in-the-world-cup-what-is-the-platform-he-uses-to-convert-data-into-tactical-decisions/) (16 junio 2026)
+- [Observatorial — "Pochettino bets on AI in the World Cup: what is the platform he uses to convert data into tactical decisions"] (16 junio 2026)
 - [talkSPORT — "US Soccer trials AI system to revolutionize sport and mitigate unique obstacle to World Cup glory"](https://talksport.com/football/world-cup/4306731/us-soccer-ai-system-scouting-jt-batson-interview/) (5 junio 2026)
 - [The Guardian — "Mauricio Pochettino: 'No one sees the USA as a contender – but why not?'"](https://www.theguardian.com/football/2026/jun/10/mauricio-pochettino-no-one-sees-the-usa-as-a-contender-but-why-not) (10 junio 2026)
 - [Firstpost — "How billionaires helped the USA land Mauricio Pochettino"](https://www.firstpost.com/sports/football-news/usa-world-cup-2026-mauricio-pochettino-billionaires-kenneth-griffin-14022096.html) (13 junio 2026)

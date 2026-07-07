@@ -133,7 +133,7 @@ Yguazú Digital no es un castillo en el aire. Pero tampoco es un data center. Es
 - [Hoy — "MITIC liderará fase piloto del ambicioso plan de IA junto a Taiwán"](https://www.hoy.com.py/nacionales/2026/05/20/mitic-liderara-fase-piloto-del-ambicioso-plan-de-ia-junto-a-taiwan) (20 mayo 2026)
 - [Taipei Times — "Taiwan deputy FM visits Paraguay to inspect planned AI data center site"](https://www.taipeitimes.com/News/taiwan/archives/2026/06/21/2003859473) (21 junio 2026)
 - [Vision Times — "Taiwan and Paraguay sign three major cooperation agreements"](https://www.visiontimes.com/2026/05/12/taiwan-and-paraguay-sign-three-major-cooperation-agreements-deepening-bilateral-partnership.html) (12 mayo 2026)
-- [bne Intellinews — Análisis geopolítico del anuncio Paraguay-Taiwán](https://www.intellinews.com/) (11 mayo 2026)
+- [bne Intellinews — Análisis geopolítico del anuncio Paraguay-Taiwán] (11 mayo 2026)
 - [MITIC — "MITIC y delegación de Taiwán recorren el futuro sitio del Data Center Binacional"](https://mitic.gov.py/mitic-y-delegacion-de-taiwan-recorren-el-futuro-sitio-del-data-center-binacional-de-inteligencia-artificial/) (15 junio 2026)
 - [MITIC — "Paraguay recibe el primer lote de kits Starlink"](https://mitic.gov.py/paraguay-recibe-el-primer-lote-de-kits-starlink-para-ampliar-la-conectividad-nacional/) (18 junio 2026)
 - [DataGuidance — Paraguay Data Protection Law overview](https://www.dataguidance.com/jurisdiction/paraguay)

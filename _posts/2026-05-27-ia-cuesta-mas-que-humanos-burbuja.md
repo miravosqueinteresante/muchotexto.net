@@ -60,7 +60,7 @@ El caso Starbucks ilustra una lección que se repite en múltiples industrias. L
 
 ## 4. NVIDIA: el vendedor de palas admite que la fiebre del oro es cara
 
-En abril de 2026, Bryan Catanzaro, vicepresidente de Applied Deep Learning de NVIDIA, dijo a [Axios](https://www.aol.com/articles/cost-compute-far-beyond-costs-071100225.html): *"Para mi equipo, el costo del cómputo está muy por encima del costo de los empleados."*
+En abril de 2026, Bryan Catanzaro, vicepresidente de Applied Deep Learning de NVIDIA, dijo a Axios: *"Para mi equipo, el costo del cómputo está muy por encima del costo de los empleados."*
 
 La frase merece contexto. Catanzaro lidera un equipo de investigación en deep learning dentro de NVIDIA — literalmente uno de los grupos más intensivos en GPUs del planeta. Sus cargas de trabajo (entrenamiento de modelos, pipelines de inferencia, pruebas iterativas) son inherentemente costosas en cómputo. No es una afirmación que pueda extrapolarse a toda la economía: el equipo de Catanzaro vive en el extremo más intensivo en cómputo del espectro de IA.
 
@@ -78,7 +78,7 @@ La contradicción entre Catanzaro y Huang no es una hipocresía. Es la tensión 
 
 Los cuatro casos no son anomalías. Son la punta visible de un patrón que los datos confirman.
 
-La consultora Sinch encuestó a 2.527 tomadores de decisiones en 10 países y encontró que el [74% de las empresas](https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/) que desplegaron agentes de IA en servicio al cliente ya los retiraron. La tasa sube al 81% entre las organizaciones con controles de gobierno más maduros. El 84% de los equipos de IA pasa al menos la mitad de su tiempo en infraestructura de seguridad, no en desarrollar IA.
+La consultora Sinch encuestó a 2.527 tomadores de decisiones en 10 países y encontró que el 74% de las empresas que desplegaron agentes de IA en servicio al cliente ya los retiraron. La tasa sube al 81% entre las organizaciones con controles de gobierno más maduros. El 84% de los equipos de IA pasa al menos la mitad de su tiempo en infraestructura de seguridad, no en desarrollar IA.
 
 La firma G-P encuestó a ejecutivos globales y encontró que el [73% reportó](https://www.fairplaytalks.com/2026/05/20/seven-in-10-companies-could-slash-ai-budgets-as-roi-disappoints-report-finds/) que al menos algunas inversiones en IA no cumplieron expectativas, y el 70% está dispuesto a recortar presupuestos si no se alcanzan las metas de ROI. El número de empresas que se describen como "agresivamente" usando IA para innovar cayó del 60% al 42%.
 
@@ -173,7 +173,7 @@ La tecnología no necesita ser una burbuja para ser una mala inversión para un 
 <li><strong>GitHub Blog</strong> – <a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">"GitHub Copilot is moving to usage-based billing"</a> (27 abril 2026)</li>
 <li><strong>GitHub Blog</strong> – <a href="https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/">"Changes to GitHub Copilot Individual plans"</a> (20 abril 2026)</li>
 <li><strong>The Register</strong> – "Microsoft's GitHub shifts to metered AI billing" (28 abril 2026)</li>
-<li><strong>The Register</strong> – <a href="https://www.theregister.com/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/">"AI customer service bots get rolled back at 74% of firms"</a> (13 mayo 2026)</li>
+<li><strong>The Register</strong> – "AI customer service bots get rolled back at 74% of firms" (13 mayo 2026)</li>
 <li><strong>The Next Web</strong> – <a href="https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost">"Microsoft's quiet Claude Code retreat and the real cost of enterprise AI"</a> (25 mayo 2026)</li>
 <li><strong>Forbes</strong> – <a href="https://www.forbes.com/sites/josipamajic/2026/05/25/the-ceo-ai-confidence-gap-is-costing-enterprises-billions/">"The CEO AI Confidence Gap Is Costing Enterprises Billions"</a> (25 mayo 2026)</li>
 <li><strong>Fair Play Talks</strong> – <a href="https://www.fairplaytalks.com/2026/05/20/seven-in-10-companies-could-slash-ai-budgets-as-roi-disappoints-report-finds/">"Seven in 10 Companies Could Slash AI Budgets as ROI Disappoints"</a> (20 mayo 2026)</li>
