@@ -24,6 +24,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo, esa relación tiene implicancias que van mucho más allá del comercio.
 
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** — El cofundador de Palantir se reunió con Santiago Peña en Mburuvicha Róga. ¿Qué busca uno de los hombres más ricos de Silicon Valley en Paraguay?
+- **[Ley de protección de datos en Paraguay: el marco que la era de la IA necesita]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** — Paraguay aprobó su primera ley integral de protección de datos. Entra en vigor en noviembre de 2027, el mismo año que abre Yguazú Digital. ¿Alcanza o llega tarde?
 
 **Próximamente:** Paraguay entre China y Taiwán, IA soberana, Ley de protección de datos, ciberseguridad, semiconductores, y el modelo Itaipú aplicado a la IA.
 

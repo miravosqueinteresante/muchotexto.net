@@ -23,6 +23,7 @@
 
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
+- [Ley de protección de datos en Paraguay: el marco que la era de la IA necesita](https://muchotexto.net/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 
 ### Pilar 3: IA, sociedad y trabajo
 - [Anotación de datos para IA: la ventaja silenciosa de Paraguay](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)
