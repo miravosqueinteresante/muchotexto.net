@@ -4,7 +4,7 @@ title: "Yguazú Digital: ¿puede Paraguay convertirse en el hub de IA más grand
 date: 2026-06-23
 last_modified_at: 2026-06-23
 categories: articulos
-tags: paraguay ia inteligencia-artificial taiwan tecnologia energia datos economia geopolitica
+tags: infraestructura-energia ia-paraguay
 description: "Fase I: 10 MW y $200M. Fase III: 1 GW y $40.000M. Paraguay y Taiwán anunciaron uno de los centros de IA más ambiciosos del planeta. ¿Es viable o es un castillo en el aire?"
 ---
 

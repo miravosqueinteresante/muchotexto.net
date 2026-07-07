@@ -4,7 +4,7 @@ title: "El laboratorio americano: cómo Estados Unidos está usando inteligencia
 date: 2026-06-23
 last_modified_at: 2026-06-23
 categories: articulos
-tags: futbol ia mundial-2026 tecnologia estados-unidos deportes datos analytics
+tags: cultura-filosofia ia-paraguay
 description: "Sportian, Oura, scouting con machine learning y un centro de entrenamiento de 200 acres. USA no llegó al Mundial 2026 a competir: llegó a demostrar que los datos pueden cambiar el fútbol."
 ---
 

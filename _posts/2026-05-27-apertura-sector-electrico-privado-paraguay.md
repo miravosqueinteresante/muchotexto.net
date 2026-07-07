@@ -4,7 +4,7 @@ title: "Luces y sombras de la apertura eléctrica: cuando Paraguay decide dejar 
 date: 2026-05-27
 last_modified_at: 2026-05-27
 categories: articulos
-tags: energía paraguay renovables ley-7599 ande itaipú política corrupción criptominería
+tags: infraestructura-energia
 description: "Paraguay habilita por primera vez la generación privada de energía renovable. Entre el fin del monopolio de la ANDE y los riesgos de corrupción, ¿qué significa el Decreto 6034?"
 ---
 

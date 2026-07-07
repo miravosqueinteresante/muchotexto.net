@@ -4,7 +4,7 @@ title: "La IA no es neutral: lo que dice la primera encíclica del Papa León XI
 date: 2026-05-28
 last_modified_at: 2026-05-28
 categories: articulos
-tags: vaticano ia inteligencia-artificial ética filosofía león-xiv encíclica muchotexto
+tags: cultura-filosofia ia-paraguay
 description: "El Papa León XIV publicó la primera encíclica sobre inteligencia artificial en 135 años. Un análisis de Magnifica Humanitas y lo que dice sobre ética, trabajo y dignidad humana."
 ---
 

@@ -1,27 +1,46 @@
 # muchotexto.net
-> Blog de Cesar Sanchez. Análisis profundo de Paraguay con IA, editoriales diarias, cultura, filosofía y política. Lectura sin distracciones.
+> Análisis profundo de inteligencia artificial desde Paraguay. El único sitio en español que cruza IA + Paraguay + datos duros + fuentes verificables. Por Cesar Sanchez.
 
 ## Secciones principales
 
 - [Inicio](https://muchotexto.net/): Últimos artículos y editoriales
+- [IA en Paraguay](https://muchotexto.net/ia-en-paraguay/): Página pilar del cluster — guía completa de inteligencia artificial en Paraguay
 - [Archivo](https://muchotexto.net/archive/): Todos los artículos ordenados por año
 - [Categorías](https://muchotexto.net/categories/): Artículos agrupados por categoría
 - [Etiquetas](https://muchotexto.net/tags/): Artículos agrupados por etiqueta
-- [Acerca de](https://muchotexto.net/about/): Sobre el autor y la filosofía del blog
+- [Acerca de](https://muchotexto.net/about/): Autor, trayectoria y filosofía del blog
 
-## Series y contenido recurrente
+## Contenido recurrente
 
-- [Pulso Paraguay](https://muchotexto.net/categories/#pulso-paraguay): Reporte diario con las noticias más relevantes de Paraguay, análisis de sentimiento y temperatura social, generado por IA a partir de fuentes periodísticas verificadas.
-- [Editorial diaria](https://muchotexto.net/categories/#editorial): Artículo de opinión generado por IA que analiza los acontecimientos del día con profundidad cultural, filosófica, sociológica y política. Cada editorial se basa en el Pulso Paraguay del mismo día.
-- [Blog](https://muchotexto.net/categories/#blog): Ensayos y artículos de fondo sobre tecnología, cultura, filosofía y sociedad paraguaya.
+- [Pulso Paraguay](https://muchotexto.net/categories/#pulso-paraguay): Reporte diario con las noticias más relevantes de Paraguay, generado por IA a partir de 15 fuentes periodísticas verificadas.
+- [Editorial diaria](https://muchotexto.net/categories/#editorial): Artículo de opinión que analiza los acontecimientos del día con profundidad cultural, filosófica y política, basado en el Pulso Paraguay del mismo día.
 
-## Artículos destacados
+## Cluster IA en Paraguay — 5 pilares temáticos
 
-- [La IA cuesta más que los humanos que reemplazó](https://muchotexto.net/blog/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/): Verificación de datos y análisis del estado real de la inversión en IA y qué significa para Paraguay.
-- [Tokenización del agro paraguayo](https://muchotexto.net/blog/2026/05/18/tokenizacion-del-agro-paraguay/): Análisis sobre la tokenización de activos agrícolas en Paraguay.
-- [Qué es realmente el fútbol](https://muchotexto.net/blog/2026/06/10/que-es-realmente-el-futbol/): Reflexión filosófica sobre el fútbol más allá del espectáculo.
+### Pilar 1: Infraestructura y energía
+- [Yguazú Digital: ¿puede Paraguay convertirse en el hub de IA más grande del mundo?](https://muchotexto.net/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
+- [Luces y sombras de la apertura eléctrica en Paraguay](https://muchotexto.net/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
+
+### Pilar 2: Geopolítica y regulación tech
+- [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
+
+### Pilar 3: IA, sociedad y trabajo
+- [Anotación de datos para IA: la ventaja silenciosa de Paraguay](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)
+- [De la soja al silicio: el plan de Paraguay para cambiar su matriz exportadora](https://muchotexto.net/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/)
+
+### Pilar 4: Tecnología aplicada + ecosistema
+- [Soja, ganado y blockchain: la apuesta paraguaya por la tokenización del agro](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)
+- [La IA no es neutral: la primera encíclica del Papa León XIV](https://muchotexto.net/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/)
+
+### Pilar 5: Cultura, filosofía y futuro
+- [La IA cuesta más que los humanos que reemplazó](https://muchotexto.net/articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/)
+- [5 tecnologías que prometieron cambiar todo pero no cambiaron nada](https://muchotexto.net/articulos/2026/05/15/cinco-tecnologias-que-prometieron-cambiar-todo/)
+- [El laboratorio americano: cómo EE.UU. usa IA para reinventar su fútbol](https://muchotexto.net/articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/)
+- [¿Qué es realmente el fútbol?](https://muchotexto.net/articulos/2026/06/10/que-es-realmente-el-futbol/)
+- [El futuro de la identidad y la conciencia](https://muchotexto.net/articulos/2026/05/13/ciberhumanidad/)
 
 ## Información técnica
 
 - Sitemap: https://muchotexto.net/sitemap.xml
 - Feed RSS/Atom: https://muchotexto.net/feed.xml
+- Motor: Jekyll 4.4.1 alojado en GitHub Pages

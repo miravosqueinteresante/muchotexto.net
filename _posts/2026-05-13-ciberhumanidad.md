@@ -4,7 +4,7 @@ title: "El futuro de la identidad y la conciencia"
 date: 2026-05-13
 last_modified_at: 2026-05-13
 categories: articulos
-tags: tecnología filosofía identidad
+tags: cultura-filosofia ia-paraguay
 description: "Vivimos la era más conectada de la historia y también la más solitaria. Cómo la tecnología fragmenta nuestra atención, relaciones e identidad."
 ---
 

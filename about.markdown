@@ -39,3 +39,29 @@ Algunos temas que hemos tratado: el proyecto Yguazú Digital con Taiwán, la tok
 **Lectura profunda.** En un mundo de contenido efímero, apostamos por el texto que necesita tiempo para decir lo que tiene que decir. Sin pop-ups, sin muros de pago, sin scroll infinito. Solo texto, datos y análisis.
 
 El sitio se sostiene con publicidad no intrusiva y seguirá siendo un espacio independiente.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Cesar Sanchez",
+  "jobTitle": "Analista de IA y Tecnologia",
+  "url": "https://muchotexto.net/about/",
+  "sameAs": [
+    "https://www.linkedin.com/in/cesar-sanchez-melgarejo/",
+    "https://github.com/miravosqueinteresante",
+    "https://twitter.com/cesanz"
+  ],
+  "knowsAbout": [
+    "Inteligencia Artificial",
+    "Anotacion de Datos",
+    "Tecnologia en Paraguay",
+    "SEO"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "MuchoTexto",
+    "url": "https://muchotexto.net"
+  }
+}
+</script>

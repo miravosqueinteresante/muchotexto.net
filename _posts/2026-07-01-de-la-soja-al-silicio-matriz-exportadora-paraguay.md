@@ -4,7 +4,7 @@ title: "De la soja al silicio: el plan de Paraguay para cambiar su matriz export
 date: 2026-07-01
 last_modified_at: 2026-07-01
 categories: articulos
-tags: paraguay economia exportaciones soja tecnologia diversificacion maquila complejidad-economica
+tags: tech-ecosistema paraguay-futuro
 description: "El 51% de las exportaciones de Paraguay es soja. El 36% va a Brasil. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Tiene Paraguay lo necesario para ser el sexto?"
 ---
 

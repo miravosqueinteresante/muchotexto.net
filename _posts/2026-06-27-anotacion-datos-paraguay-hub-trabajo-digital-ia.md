@@ -4,7 +4,7 @@ title: "Anotación de datos para IA: la ventaja silenciosa de Paraguay"
 date: 2026-06-27
 last_modified_at: 2026-06-27
 categories: articulos
-tags: anotacion-datos ia inteligencia-artificial paraguay trabajo-digital bpo ghost-work maquila tecnologia
+tags: sociedad-trabajo ia-paraguay
 description: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos por centavos. ¿Puede Paraguay ser el hub de anotación de datos para IA?"
 ---
 
