@@ -8,10 +8,13 @@
   <link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}" media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}"></noscript>
   {% feed_meta %}
-  {% seo %}
 
   {% if paginator.page and paginator.page > 1 %}
     <meta name="robots" content="noindex, follow">
+    <title>muchotexto.net — Página {{ paginator.page }} de {{ paginator.total_pages }}</title>
+    <meta name="description" content="muchotexto.net — Página {{ paginator.page }} de {{ paginator.total_pages }}. Análisis profundo de inteligencia artificial desde Paraguay.">
+  {% else %}
+    {% seo %}
   {% endif %}
 
   {% include custom-head.html %}
