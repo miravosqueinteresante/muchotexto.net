@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El laboratorio americano: cómo Estados Unidos está usando inteligencia artificial para reinventar su fútbol"
+title: "El laboratorio americano: cómo EE.UU. usa IA para reinventar el fútbol"
 date: 2026-06-23
 last_modified_at: 2026-06-23
 categories: articulos

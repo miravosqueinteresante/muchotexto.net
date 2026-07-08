@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De la soja al silicio: el plan de Paraguay para cambiar su matriz exportadora"
+title: "De la soja al silicio: Paraguay cambia su matriz exportadora"
 date: 2026-07-01
 last_modified_at: 2026-07-01
 categories: articulos

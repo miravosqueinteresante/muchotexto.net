@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yguazú Digital: ¿puede Paraguay convertirse en el hub de IA más grande del mundo?"
+title: "Yguazú Digital: Paraguay busca ser el hub de IA más grande del mundo"
 date: 2026-06-23
 last_modified_at: 2026-06-23
 categories: articulos

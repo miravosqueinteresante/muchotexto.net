@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "La IA cuesta más que los humanos que reemplazó: lo que dicen los números"
+title: "La IA cuesta más que los humanos que reemplazó: los números"
 date: 2026-05-27
 last_modified_at: 2026-05-27
 categories: articulos

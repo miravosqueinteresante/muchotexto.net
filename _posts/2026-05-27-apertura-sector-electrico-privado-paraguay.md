@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Luces y sombras de la apertura eléctrica: cuando Paraguay decide dejar entrar al sector privado"
+title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
 date: 2026-05-27
 last_modified_at: 2026-05-27
 categories: articulos
