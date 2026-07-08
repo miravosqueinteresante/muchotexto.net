@@ -2,6 +2,7 @@
 layout: page
 title: Acerca de
 permalink: /about/
+description: "Conocé al autor de muchotexto.net, su trayectoria en anotación de datos y análisis de IA, y la filosofía de lectura profunda del blog."
 ---
 
 **muchotexto.net** es el blog de **César Sánchez**, un espacio dedicado al análisis profundo de Paraguay, la tecnología y las ideas que importan. Asistido por inteligencia artificial para investigar, cruzar datos y generar contenido.

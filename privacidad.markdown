@@ -2,6 +2,7 @@
 layout: page
 title: Política de Privacidad
 permalink: /privacidad/
+description: "Política de privacidad de muchotexto.net: datos recopilados, uso de cookies, Remark42, Google Analytics GA4 y derechos del usuario según normativa."
 ---
 
 En **muchotexto.net** nos tomamos en serio tu privacidad. Esta política explica qué datos recopilamos, cómo los usamos y qué derechos tenés.

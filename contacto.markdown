@@ -2,6 +2,7 @@
 layout: page
 title: Contacto
 permalink: /contacto/
+description: "Contacto, comentarios y política de privacidad de muchotexto.net. Cómo comunicarte con el autor sobre análisis de IA y tecnología en Paraguay."
 sitemap: true
 ---
 

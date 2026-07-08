@@ -2,6 +2,7 @@
 layout: page
 title: Términos y Condiciones
 permalink: /terminos/
+description: "Términos y condiciones de uso de muchotexto.net: derechos de autor, responsabilidad del contenido, enlaces externos y normas generales de uso."
 ---
 
 Al acceder y usar **muchotexto.net**, aceptás los siguientes términos y condiciones.

@@ -2,6 +2,7 @@
 layout: page
 title: Buscar
 permalink: /buscar/
+description: "Buscá en muchotexto.net artículos, editoriales y análisis sobre inteligencia artificial, tecnología y Paraguay."
 sitemap: false
 ---
 
