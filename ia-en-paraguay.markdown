@@ -25,6 +25,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[Yguazú Digital: ¿puede Paraguay convertirse en el hub de IA más grande del mundo?]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M. Las promesas, los números y lo que falta para que sea viable.
 - **[Luces y sombras de la apertura eléctrica]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable por primera vez. Entre el fin del monopolio de la ANDE y los riesgos de corrupción.
 - **[Criptominería en Paraguay: el costo real de la energía barata]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** — Paraguay es el cuarto país con mayor minería de bitcoin del mundo. 500 MW, 383 empleos formales y una ANDE que libra una guerra contra conexiones ilegales.
+- **[Red eléctrica de Paraguay: el cuello de botella de la IA global]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** — Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan. El obstáculo real para convertirse en hub de IA.
 
 **Próximamente:** Itaipú 2027 y la renegociación del tratado, hidrógeno verde, y el impacto local de un data center de $200M en una ciudad paraguaya.
 
