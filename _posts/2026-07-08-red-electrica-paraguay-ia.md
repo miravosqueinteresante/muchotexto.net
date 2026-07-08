@@ -8,7 +8,7 @@ tags: infraestructura-energia
 description: "Paraguay genera 8.000 MW pero su red de transmision no puede llevarlos a donde se necesitan. Yguazu Digital, criptomineria y la renegociacion de Itaipu chocan contra el mismo limite."
 ---
 
-Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental: tener energía disponible no es lo mismo que tenerla donde se necesita, cuando se necesita, con la infraestructura para transportarla. Paraguay genera aproximadamente 8.000 megavatios entre su cuota de Itaipú, Yacyretá y Acaray, pero su red de transmisión de 500 kV —la columna vertebral que necesita cualquier país para mover grandes volúmenes de electricidad— se puede contar en kilómetros.
+Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental: tener energía disponible no es lo mismo que tenerla donde se necesita, cuando se necesita, con la infraestructura para transportarla. Paraguay genera aproximadamente 8.250 megavatios entre su cuota de Itaipú, Yacyretá y Acaray, pero su red de transmisión de 500 kV —la columna vertebral que necesita cualquier país para mover grandes volúmenes de electricidad— se puede contar en kilómetros.
 
 Ese desajuste entre generación y transmisión es, hoy por hoy, el principal obstáculo para que Paraguay se convierta en el hub de inteligencia artificial que promete ser. Y la ventana para resolverlo se está cerrando: 2027 es el año en que vencen los contratos de criptominería, se renegocia el Anexo C de Itaipú y entra en operación la primera fase de Yguazú Digital. Tres fechas que convergen en un mismo punto, que es también donde la red eléctrica paraguaya muestra sus límites.
 
@@ -26,9 +26,9 @@ Mientras tanto, el costo medio de generación del mix paraguayo (Itaipú + Yacyr
 
 La renegociación del Anexo C del Tratado de Itaipú arrastra demoras desde 2023. El acuerdo vigente fijó la tarifa en 19,28 dólares por kilovatio-mes para 2024, 2025 y 2026. A partir del 1 de enero de 2027, si no hay un nuevo acuerdo, la tarifa que Brasil paga por el excedente de energía paraguayo caería aproximadamente un 60%, al costo puro de operación. Paraguay perdería unos 1.250 millones de dólares anuales en royalties, compensaciones y gastos sociales —aproximadamente el 12% de toda la recaudación estatal.
 
-El presidente Santiago Peña ha dicho que prefiere "un buen acuerdo sobre un acuerdo rápido". El canciller Ramírez y el ministro Giménez reportaron un 80% de avance en las negociaciones. Pero el escándalo ABIN de abril de 2025 —cuando se reveló que la agencia de inteligencia brasileña espió a funcionarios paraguayos durante las negociaciones— suspendió las conversaciones y envenenó el clima. La confianza no se restableció del todo.
+El presidente Santiago Peña ha dicho que prefiere "un buen acuerdo sobre un acuerdo rápido". El ministro Giménez reportó un 80% de avance en las negociaciones, pero el escándalo ABIN de abril de 2025 —cuando se reveló que la agencia de inteligencia brasileña espió a funcionarios paraguayos durante las negociaciones— suspendió las conversaciones y envenenó el clima.
 
-En paralelo, [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) proyecta un consumo que empieza en 10 megavatios en su fase 1 (finales de 2027) y aspira a 1.000 megavatios en su fase 3. La [criptominería]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}) ya consume entre 400 y 700 megavatios legales, con proyecciones de alcanzar 1.000. Si a eso se suma el crecimiento vegetativo de la demanda del 4% al 5% anual, el superávit disponible —hoy estimado en 4.000 a 5.000 megavatios— podría reducirse a la mitad para 2030.
+En paralelo, [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) proyecta un consumo que empieza en 10 megavatios en su fase 1 (finales de 2027) y aspira a 1.000 megavatios en su fase 3. La [criptominería]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}) ya consume alrededor de 700 megavatios en operaciones legales, con proyecciones de alcanzar 1.000. Si a eso se suma el crecimiento vegetativo de la demanda del 4% al 5% anual, el superávit disponible —hoy estimado en 4.000 a 5.000 megavatios— podría reducirse a la mitad para 2030.
 
 El problema no es si Paraguay tiene suficiente energía generada para todo eso. El problema es si tiene la red para transportarla. En 2024, una sequía histórica redujo la generación de Itaipú en un 20%. Paraguay depende al 100% de la hidroelectricidad. No tiene respaldo de gas, carbón ni nuclear. Cuando el río Paraná baja, todo el sistema se resiente.
 
@@ -58,6 +58,8 @@ Paraguay no tiene un problema de oferta de energía. Tiene un problema de infrae
 
 El horizonte de 2027 concentra tres procesos que van a definir si Paraguay logra superar este cuello de botella: la renegociación de Itaipú, la entrada en operación de Yguazú Digital y el vencimiento de los contratos de criptominería. Si los tres se resuelven en direcciones compatibles, el país tiene una oportunidad real de convertirse en un hub regional de inteligencia artificial. Si no, el riesgo no es quedarse sin energía —Paraguay nunca se va a quedar sin energía— sino quedarse sin la capacidad de usarla para lo que prometió.
 
+Este artículo es parte de la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/), que reúne todos los análisis del cluster.
+
 ## Fuentes
 
 - [ABC Color — "Peña reporta avances en la red eléctrica y millonarias inversiones"](https://www.abc.com.py/economia/2026/07/04/pena-reporta-avances-en-la-red-electrica-y-millonarias-inversiones-en-su-informe-anual/) (4 julio 2026)
@@ -67,7 +69,7 @@ El horizonte de 2027 concentra tres procesos que van a definir si Paraguay logra
 - [ABC Color — "ANDE: tarifas y el dilema del sector privado"](https://www.abc.com.py/economia/2026/03/10/ande-tarifas-y-el-dilema-del-sector-privado/) (10 marzo 2026)
 - [El País — "La fiebre del bitcoin en Paraguay: ¿bendición o maldición?"](https://elpais.com/america-futura/2025-08-15/la-fiebre-del-bitcoin-en-paraguay-bendicion-o-maldicion.html) (15 agosto 2025)
 - [La Nación — "ADVERTENCIA: Paraguay podría enfrentar crisis energética 2026-2035"](https://www.lanacion.com.py/negocios/2025/10/05/paraguay-podria-enfrentar-crisis-energetica-entre-2026-y-2035) (5 octubre 2025)
-- [Itaipú Binacional — Informe de generación H1 2026](https://www.itaipu.gov.py)
+- [Itaipú Binacional — "Itaipú supera los 14.600 GWh de generación en el primer semestre"](https://www.itaipu.gov.py/es/sala-de-prensa/noticia/itaipu-supera-los-14600-gwh-de-generacion-en-el-primer-semestre-de-2026) (julio 2026)
 - [EirGrid — "Data Centre Connection Offer Process"](https://www.eirgrid.ie/grid/DataCentres) (Irlanda)
 - [Wikipedia — Tratado de Itaipú](https://es.wikipedia.org/wiki/Tratado_de_Itaip%C3%BA)
 
@@ -81,7 +83,7 @@ El horizonte de 2027 concentra tres procesos que van a definir si Paraguay logra
       "name": "¿Cuánta energía genera Paraguay y cuánta consume?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay genera aproximadamente 8.000 MW entre su cuota de Itaipú, Yacyretá y Acaray, pero su demanda pico es de aproximadamente 3.000 a 3.500 MW. El superávit es de 4.000 a 5.000 MW, pero la red de transmisión no puede llevarlo a donde se necesita."
+        "text": "Paraguay genera aproximadamente 8.250 MW entre su cuota de Itaipú, Yacyretá y Acaray, pero su demanda pico es de aproximadamente 3.000 a 3.500 MW. El superávit es de 4.000 a 5.000 MW, pero la red de transmisión no puede llevarlo a donde se necesita."
       }
     },
     {
