@@ -72,6 +72,8 @@ Lo que no tiene —y que los cinco países exitosos tardaron entre 15 y 40 años
 
 Paraguay tiene la energía más barata del hemisferio, la soja que financia el presente y una clase política que ya entendió que el futuro no se siembra. Pero entre entenderlo y hacerlo hay quince años de políticas consistentes, inversión en capital humano y la decisión de no cambiar de rumbo cada cinco años. Los cinco países que hicieron el salto lo lograron no porque tuvieran un plan perfecto, sino porque no lo abandonaron.
 
+Seguí la transformación de Paraguay en la [guía completa de inteligencia artificial](/ia-en-paraguay/).
+
 ## Fuentes
 
 - [Wikipedia — "Economy of Paraguay"](https://en.wikipedia.org/wiki/Economy_of_Paraguay) (2026)

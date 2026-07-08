@@ -171,6 +171,8 @@ La Ley 7572/2025 no dice nada de eso. Y lo que una ley no dice es tan importante
 
 ---
 
+Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
 ## Fuentes
 
 <ol class="sources-list">

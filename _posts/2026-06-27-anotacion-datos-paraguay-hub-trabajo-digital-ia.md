@@ -70,6 +70,8 @@ El panorama tiene una ironía de fondo. [El análisis sobre los costos reales de
 
 Paraguay puede insertarse en esa contradicción como un país que ofrece algo distinto: trabajo digital con estándares decentes, costos competitivos y la electricidad más barata del hemisferio. O puede ser un país más en la cadena de explotación del ghost work global. La diferencia no la va a hacer el mercado solo. La va a hacer —o no— un Estado que entienda lo que está en juego antes de que otro país de la región ocupe ese lugar.
 
+Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guía de inteligencia artificial](/ia-en-paraguay/).
+
 ## Fuentes
 
 - [MarketsandMarkets — "Data Annotation and Labeling Market Report"](https://www.marketsandmarkets.com/Market-Reports/data-annotation-labeling-market-173959384.html) (febrero 2023)

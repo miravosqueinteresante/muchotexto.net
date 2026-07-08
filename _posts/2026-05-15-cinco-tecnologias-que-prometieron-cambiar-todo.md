@@ -95,3 +95,5 @@ El denominador común de estas cinco tecnologías no es que fueran malas ideas. 
 En todos los casos, la respuesta fue no.
 
 Cuando aparece la próxima tecnología que promete cambiarlo todo — y en este mismo momento hay una, exactamente con el mismo patrón de hype, inversiones astronómicas y proyecciones imposibles — vale la pena recordar estas cinco. No para volverse cínico, sino para preguntar lo que casi nadie pregunta cuando la burbuja está creciendo: ¿esto resuelve un problema real que alguien tenga? ¿O solo es una tecnología impresionante buscando desesperadamente un propósito?
+
+Encontrá más análisis sobre tecnología en la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).

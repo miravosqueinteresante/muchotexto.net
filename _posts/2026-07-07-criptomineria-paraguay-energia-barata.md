@@ -70,6 +70,8 @@ La criptominería en Paraguay es una industria que llegó sin ser invitada, se i
 
 En 2027, cuando venzan los contratos, Paraguay va a tener que decidir si quiere ser el sótano energético de la red bitcoin o si prefiere usar esa misma energía para otra cosa. La decisión no es técnica: es política. Y hasta ahora, nadie la está tomando.
 
+Este análisis es parte de la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
 ## Fuentes
 
 - [TEDIC — "Todo lo que tenés que saber sobre la criptominería en Paraguay"](https://www.tedic.org/cripto_en_py/) (6 noviembre 2024)

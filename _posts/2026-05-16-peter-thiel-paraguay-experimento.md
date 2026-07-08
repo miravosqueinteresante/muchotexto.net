@@ -104,6 +104,8 @@ Thiel dijo en una entrevista que su objetivo es "encontrar una salida de la pol�
 
 ---
 
+Mirá el análisis completo del ecosistema de IA en Paraguay en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
 ## Fuentes
 
 <ol class="sources-list">

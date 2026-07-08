@@ -178,3 +178,5 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 - Rome Call for AI Ethics: https://www.romecall.org/the-call
 - ABC Color — Cobertura de proyectos de IA en Paraguay (mayo 2026): https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/
 - BNamericas — Análisis de inversiones en IA en Paraguay (2025-2026): https://www.bnamericas.com/es/entrevistas/mi-objetivo-es-alcanzar-los-5gw-de-ia-afirma-x8-cloud-sobre-megaproyecto-en-paraguay
+
+Explorá el análisis completo de IA en Paraguay en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).

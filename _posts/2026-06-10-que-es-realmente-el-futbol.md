@@ -318,3 +318,5 @@ El fútbol no es una cuestión de vida o muerte. Es mucho más importante que es
 - Hobsbawm, Eric — *La era del imperio*, *Gente y costumbres*
 - Zamorano, F. et al. — "Brain Mechanisms across the Spectrum of Engagement in Football Fans: A Functional Neuroimaging Study" (*Radiology*, 2025)
 - Investigación propia — research_futbol/ (5 documentos de investigación, junio 2026)
+
+Conocé el panorama de inteligencia artificial en Paraguay en la [guía completa de IA en Paraguay](/ia-en-paraguay/).

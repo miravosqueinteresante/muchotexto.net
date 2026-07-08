@@ -122,6 +122,8 @@ Yguazú Digital no es un castillo en el aire. Pero tampoco es un data center. Es
 
 ---
 
+Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
 ## Fuentes
 
 - [Focus Taiwan (CNA) — Firma del MOU Paraguay-Taiwán](https://focustaiwan.tw/politics/202605080014) (8 mayo 2026)

@@ -68,6 +68,8 @@ La Ley 7593/2025 es, al mismo tiempo, un avance histórico y un marco insuficien
 
 En noviembre de 2027, cuando la ley entre en vigor, Yguazú Digital va a estar procesando sus primeros terabytes. La pregunta no es si Paraguay tiene una ley de protección de datos. La pregunta es si la ley que tiene basta para el Paraguay que se viene. La respuesta, por ahora, es que no.
 
+Leé la guía completa del ecosistema de IA en Paraguay en la [guía de inteligencia artificial](/ia-en-paraguay/).
+
 ## Fuentes
 
 - [TEDIC — "La ley sobre la protección de datos personales en Paraguay: Un logro colectivo"](https://www.tedic.org/la-ley-sobre-la-proteccion-de-datos-personales-en-paraguay-un-logro-colectivo-basado-en-evidencia-y-participacion-plural/) (28 noviembre 2025)

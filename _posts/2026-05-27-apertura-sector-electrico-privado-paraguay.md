@@ -208,6 +208,8 @@ Porque la energía de Itaipú no es de Peña, ni del clan Zacarías, ni de los c
 
 ---
 
+Seguí el análisis completo de los temas de energía en Paraguay en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
 ## Fuentes
 
 <ol class="sources-list">

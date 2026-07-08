@@ -49,3 +49,5 @@ Y en el camino, hay inspiración en la naturaleza: la biomímesis, las energías
 En un mundo donde todo compite por tu atención, [elegir qué mirar es un acto casi político]({% post_url 2026-05-10-primer-articulo %}). La tecnología va a seguir avanzando, y no se trata de detenerla ni de abrazarla sin criterio. La pregunta de fondo es la misma de siempre, solo que ahora tiene una urgencia nueva: [**¿quiénes queremos ser en medio de todo esto?**]({% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %})
 
 No hay una respuesta única. Solo la responsabilidad de pensar la pregunta. La respuesta, como siempre, no está en una pantalla. Está en lo que hacemos cuando la apagamos.
+
+Leé más análisis sobre tecnología y sociedad en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).

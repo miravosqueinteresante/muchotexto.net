@@ -160,6 +160,8 @@ La tecnología no necesita ser una burbuja para ser una mala inversión para un 
 
 ---
 
+Accedé al análisis integral sobre inteligencia artificial en Paraguay en la [guía completa de IA](/ia-en-paraguay/).
+
 ## Fuentes
 
 <ol class="sources-list">

@@ -59,3 +59,5 @@ Este post es simplemente una presentación. Esto existe, esto es lo que es, y es
 En un mundo que compite por cada segundo de tu atención, acá hay mucho texto, esperando.
 
 Bienvenido a muchotexto.net.
+
+Para seguir explorando estos temas, visitá la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).

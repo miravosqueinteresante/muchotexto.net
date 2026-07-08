@@ -86,6 +86,8 @@ Gane o pierda en la siguiente ronda, el laboratorio americano ya dejó una lecci
 
 ---
 
+Este artículo es parte de la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
 ## Fuentes
 
 - [Observatorial — "Pochettino bets on AI in the World Cup: what is the platform he uses to convert data into tactical decisions"] (16 junio 2026)
