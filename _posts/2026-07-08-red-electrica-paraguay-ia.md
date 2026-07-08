@@ -5,7 +5,7 @@ date: 2026-07-08
 last_modified_at: 2026-07-08
 categories: articulos
 tags: infraestructura-energia
-description: "Paraguay genera 8.000 MW pero su red de transmision no puede llevarlos a donde se necesitan. Yguazu Digital, criptomineria y la renegociacion de Itaipu chocan contra el mismo limite."
+description: "Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan. Yguazú Digital, criptominería y la renegociación de Itaipú chocan contra el mismo límite."
 ---
 
 Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental: tener energía disponible no es lo mismo que tenerla donde se necesita, cuando se necesita, con la infraestructura para transportarla. Paraguay genera aproximadamente 8.250 megavatios entre su cuota de Itaipú, Yacyretá y Acaray, pero su red de transmisión de 500 kV —la columna vertebral que necesita cualquier país para mover grandes volúmenes de electricidad— se puede contar en kilómetros.

@@ -5,7 +5,7 @@ date: 2026-07-07
 last_modified_at: 2026-07-07
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
-description: "Paraguay aprobo su primera ley integral de proteccion de datos (Ley 7593/2025). Entra en vigor en noviembre de 2027, el mismo ano que abre Yguazu Digital. Alcanza o llega tarde?"
+description: "Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025). Entra en vigor en noviembre de 2027, el mismo año que abre Yguazú Digital. Alcanza o llega tarde?"
 ---
 
 En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera: va a entrar en vigor la Ley 7593, la primera ley integral de protección de datos personales de la historia del país. La segunda: va a abrir sus puertas la primera fase de Yguazú Digital, el centro de datos de inteligencia artificial con Taiwán. Dos instituciones que van a convivir, una al lado de la otra, sin que nadie haya puesto sobre la mesa si la primera está a la altura de la segunda.

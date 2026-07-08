@@ -5,7 +5,7 @@ date: 2026-07-07
 last_modified_at: 2026-07-07
 categories: articulos
 tags: infraestructura-energia
-description: "Paraguay es el cuarto pais con mayor mineria de bitcoin del mundo. 500 MW, 383 empleos formales y una ANDE que libra una guerra silenciosa contra conexiones ilegales. Vale la pena?"
+description: "Paraguay es el cuarto país con mayor minería de bitcoin del mundo. 500 MW, 383 empleos formales y una ANDE que libra una guerra silenciosa contra conexiones ilegales. Vale la pena?"
 ---
 
 Hay un dato que explica mejor que cualquier análisis la relación de Paraguay con la criptominería: dos tercios de las empresas mineras que operan en el país no tienen empleados formales. En total, el sector registra 383 trabajadores en el Instituto de Previsión Social. Para ponerlo en perspectiva, la energía que consumen estas operaciones —entre 400 y 500 megavatios— equivale al consumo de una ciudad de 750.000 personas, más que la población de Asunción.
