@@ -53,7 +53,13 @@ def slugify(text: str, max_len: int = 50) -> str:
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     text = text.lower()
     text = re.sub(r"[^a-z0-9\s-]", "", text)
-    text = re.sub(r"[\s-]+", "-", text).strip("-")[:max_len].rstrip("-")
+    text = re.sub(r"[\s-]+", "-", text).strip("-")
+    if len(text) > max_len:
+        cut = text.rfind("-", 0, max_len)
+        if cut > 10:
+            text = text[:cut]
+        else:
+            text = text[:max_len].rstrip("-")
     return text
 
 RSS_FEEDS = [

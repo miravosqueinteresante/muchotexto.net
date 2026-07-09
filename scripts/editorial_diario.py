@@ -148,7 +148,10 @@ def make_slug(text: str) -> str:
     slug = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     slug = slug.lower()
     slug = re.sub(r"[^a-z0-9\s-]", "", slug)
-    slug = re.sub(r"[\s-]+", "-", slug).strip("-")[:60].rstrip("-")
+    slug = re.sub(r"[\s-]+", "-", slug).strip("-")
+    if len(slug) > 60:
+        cut = slug.rfind("-", 0, 60)
+        slug = slug[:cut] if cut > 15 else slug[:57].rstrip("-")
     return slug
 
 

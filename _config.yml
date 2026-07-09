@@ -26,6 +26,7 @@ twitter_username: cesanz
 github_username:  miravosqueinteresante
 logo: /assets/images/muchotextonet-logo.png
 twitter:
+  username: cesanz
   card: summary_large_image
 
 # Build settings
@@ -75,6 +76,7 @@ tagline: "Lectura profunda y análisis con IA"
 lang: es
 author:
   name: Cesar Sanchez
+  twitter: cesanz
   url: https://muchotexto.net
 tags_path: /tags/
 categories_path: /categories/
