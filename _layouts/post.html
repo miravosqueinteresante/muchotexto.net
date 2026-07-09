@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 ---
 
@@ -52,7 +52,7 @@ layout: default
       {%- endif -%}
     {%- endif -%}
     {%- if page.author -%}
-      <span> â€¢ </span>
+      <span> | </span>
       {% for author in page.author %}
         <span itemprop="author" itemscope itemtype="https://schema.org/Person">
           {{ author }}
@@ -61,7 +61,7 @@ layout: default
       {% endfor %}
     {%- endif -%}
     {% if page.categories.size > 0 %}
-      <span> â€¢ </span>
+      <span> | </span>
       <span class="post-categories-section">
         <i class="post-categories-icon">{% include icon.html name='folder' %}</i>
         <ul class="post-categories">
@@ -79,7 +79,7 @@ layout: default
       </span>
     {% endif %}
     {% if page.tags.size > 0 %}
-      <span> â€¢ </span>
+      <span> | </span>
       <span class="post-tags-section">
         <i class="post-tags-icon">{% include icon.html name='tag' %}</i>
         <ul class="post-tags">
@@ -112,10 +112,10 @@ layout: default
     {% endfor %}
     {% if linked_pulso %}
     <p class="post-crosslink">
-      Este anÃ¡lisis se basa en el <a href="{{ linked_pulso.url | relative_url }}">Pulso Paraguay de hoy</a>.
+      Este análisis se basa en el <a href="{{ linked_pulso.url | relative_url }}">Pulso Paraguay de hoy</a>.
     </p>
     {% endif %}
-    <p><em>Esta Editorial fue escrita integramente por una inteligencia artificial entrenada para analizar la realidad paraguaya en profundidad. El sistema lee el Pulso Paraguay del dia, procesa los acontecimientos desde una perspectiva cultural, filosofica, sociologica y politica, y produce este analisis. Cada dato aqui presentado fue extraido exclusivamente de fuentes periodisticas verificadas y publicadas en el Pulso Paraguay. Muchotexto.net cree en la transparencia: esto no lo escribio un humano, pero la reflexion sobre el pais es tan real como los hechos que la sustentan.</p>
+    <p><em>Esta Editorial fue escrita íntegramente por una inteligencia artificial entrenada para analizar la realidad paraguaya en profundidad. El sistema lee el Pulso Paraguay del día, procesa los acontecimientos desde una perspectiva cultural, filosófica, sociológica y política, y produce este análisis. Cada dato aquí presentado fue extraído exclusivamente de fuentes periodísticas verificadas y publicadas en el Pulso Paraguay. Muchotexto.net cree en la transparencia: esto no lo escribió un humano, pero la reflexión sobre el país es tan real como los hechos que la sustentan.</em></p>
   {% endif %}
 
   {% include share.html %}
@@ -127,9 +127,9 @@ layout: default
       <p class="author-bio-text">Analista de inteligencia artificial desde Paraguay. Consultor en automatizacion con IA generativa, anotacion de datos y desarrollo de soluciones basadas en IA. Creador de <a href="{{ '/' | relative_url }}">muchotexto.net</a>.</p>
       <p class="author-bio-links">
         <a href="{{ '/about/' | relative_url }}">Sobre el autor</a>
-         | 
+         |
         <a href="https://x.com/cesanz" target="_blank" rel="noopener noreferrer">Twitter</a>
-         | 
+         |
         <a href="https://www.linkedin.com/in/cesar-sanchez-melgarejo/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </p>
     </div>
@@ -165,7 +165,7 @@ layout: default
         {% endif %}
       {% endif %}
       {% if show_prev %}
-        <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">â† {{ page.previous.title }}</a>
+        <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>
       {% endif %}
     {% endif %}
     {% if page.next %}
@@ -177,13 +177,8 @@ layout: default
         {% endif %}
       {% endif %}
       {% if show_next %}
-        <a class="post-nav-next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} â†’</a>
+        <a class="post-nav-next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>
       {% endif %}
     {% endif %}
   </nav>
 {% endif %}
-
-
-
-
-
