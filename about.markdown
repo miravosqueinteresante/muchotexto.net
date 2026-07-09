@@ -35,6 +35,8 @@ El objetivo es aportar una perspectiva que hoy no abunda: el análisis profundo 
 
 Algunos temas que hemos tratado: el proyecto Yguazú Digital con Taiwán, la tokenización del agro, la burbuja de la inteligencia artificial, la geopolítica de Peter Thiel en Paraguay, la primera encíclica papal sobre IA, y el uso de inteligencia artificial en el fútbol del Mundial 2026.
 
+Todos estos análisis forman parte del [cluster de inteligencia artificial en Paraguay](/ia-en-paraguay/), la guía completa del sitio sobre el impacto de la IA en el país.
+
 ## Filosofía
 
 **Lectura profunda.** En un mundo de contenido efímero, apostamos por el texto que necesita tiempo para decir lo que tiene que decir. Sin pop-ups, sin muros de pago, sin scroll infinito. Solo texto, datos y análisis.
