@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay entre China y Taiwan: el ultimo aliado en la guerra fria tecnologica"
+title: "Paraguay entre China y Taiwán: el último aliado tecnológico"
 date: 2026-07-09
 last_modified_at: 2026-07-09
 categories: articulos
