@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Criptomineria en Paraguay: el costo real de la energia barata"
+title: "Lo que la criptominería le cuesta realmente a Paraguay"
 date: 2026-07-07
 last_modified_at: 2026-07-07
 categories: articulos

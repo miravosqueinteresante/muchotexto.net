@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay entre China y Taiwán: el último aliado tecnológico"
+title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
 date: 2026-07-09
 last_modified_at: 2026-07-09
 categories: articulos

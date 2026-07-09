@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Proteccion de datos en Paraguay: la ley que la era de la IA necesita"
+title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
 date: 2026-07-07
 last_modified_at: 2026-07-07
 categories: articulos

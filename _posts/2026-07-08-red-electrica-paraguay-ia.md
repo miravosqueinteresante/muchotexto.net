@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Red electrica de Paraguay: el cuello de botella de la IA global"
+title: "Paraguay tiene energía para la IA pero no la red para transportarla"
 date: 2026-07-08
 last_modified_at: 2026-07-08
 categories: articulos
