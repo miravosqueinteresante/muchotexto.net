@@ -5,7 +5,7 @@ date: 2026-07-09
 last_modified_at: 2026-07-09
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
-description: "Paraguay es el ultimo pais de Sudamerica que reconoce a Taiwan. 68 anos de relaciones, USD 400M en prestamos, un data center de por medio y una China que ofrece el mercado de carne mas grande del mundo a cambio de la embajada."
+description: "Paraguay es el ultimo pais de Sudamerica que reconoce a Taiwan. 68 anos de relaciones, USD 400M en prestamos y un data center de por medio."
 ---
 
 El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taiwán el memorándum de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes. En las mesas de los agregados comerciales chinos en São Paulo y Buenos Aires, la noticia se leyó con otra expresión. Paraguay acababa de firmar un acuerdo de inteligencia artificial con el país que China considera una provincia rebelde, en un año en que perder aliados duele más que nunca para Pekín.
@@ -55,6 +55,8 @@ Lo que China ofrece a Paraguay es enorme: un mercado de 1.400 millones de consum
 ---
 
 Paraguay va a tener que decidir, antes de lo que cualquiera de los dos lados quiere admitir, si prefiere el mercado o los chips. La decisión no es técnica: es política. Y va a definir no solo la relación con China y Taiwán, sino qué tipo de país quiere ser Paraguay en las próximas décadas: un exportador de alimentos que busca compradores, o un socio tecnológico que encontró un lugar en la cadena de suministro global de la inteligencia artificial.
+
+Este análisis es parte de la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/), que reúne todos los artículos del cluster sobre tecnología y geopolítica.
 
 ## Fuentes
 
