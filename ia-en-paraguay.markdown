@@ -37,7 +37,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Ley de protección de datos en Paraguay: el marco que la era de la IA necesita]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** — Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025). Entra en vigor en noviembre de 2027, el mismo año que abre Yguazú Digital. ¿Alcanza o llega tarde?
 - **[Paraguay entre China y Taiwán: el último aliado tecnológico]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** — Paraguay es el último país de Sudamérica que reconoce a Taiwán. Yguazú Digital, chips de TSMC y 68 años de relaciones en juego.
 
-**Próximamente:** Paraguay entre China y Taiwán, IA soberana, ciberseguridad, semiconductores, y el modelo Itaipú aplicado a la gobernanza de la IA.
+**Próximamente:** IA soberana, ciberseguridad, semiconductores, y el modelo Itaipú aplicado a la gobernanza de la IA.
 
 ## IA, sociedad y trabajo
 
