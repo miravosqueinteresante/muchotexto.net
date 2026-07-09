@@ -320,3 +320,36 @@ El fútbol no es una cuestión de vida o muerte. Es mucho más importante que es
 - Investigación propia — research_futbol/ (5 documentos de investigación, junio 2026)
 
 Conocé el panorama de inteligencia artificial en Paraguay en la [guía completa de IA en Paraguay](/ia-en-paraguay/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que dijo Albert Camus sobre el futbol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Albert Camus, arquero del Racing Universitaire d'Alger hasta que la tuberculosis truncu su carrera, escribio en 1957: lo que mas se acerca a la moral y las obligaciones de los hombres, se lo debo al futbol."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como define Eduardo Galeano el futbol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Galeano definio el futbol como la unica varita magica en la que puede creer el nino pobre. Su libro El futbol a sol y sombra usa vinetas breves llamadas tijeretazos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cual es la mejor actuacion de Paraguay en los Mundiales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paraguay llego a cuartos de final en Sudafrica 2010, liderando su grupo por delante de Italia. En el Mundial 2026 clasifico con Gustavo Alfaro con una racha invicta de nueve partidos."
+      }
+    }
+  ]
+}
+</script>

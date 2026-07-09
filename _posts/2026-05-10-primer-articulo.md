@@ -61,3 +61,36 @@ En un mundo que compite por cada segundo de tu atención, acá hay mucho texto, 
 Bienvenido a muchotexto.net.
 
 Para seguir explorando estos temas, visitá la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que es muchotexto.net?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "muchotexto.net es un espacio de lectura profunda sobre inteligencia artificial, tecnologia y sociedad desde Paraguay. Publica articulos de 1.500 a 2.500 palabras con fuentes verificables, una editorial diaria de opinion y el Pulso Paraguay, un reporte automatizado que sintetiza las noticias del pais desde 15 fuentes periodisticas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quien creo muchotexto.net?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cesar Sanchez, un analista de inteligencia artificial desde Paraguay. Consultor en automatizacion con IA generativa, anotacion de datos y desarrollo de soluciones basadas en IA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que temas cubre muchotexto.net?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El sitio cubre 5 pilares: infraestructura y energia (Yguazu Digital, criptomineria, ANDE), geopolitica y regulacion tech (China-Taiwan, proteccion de datos), IA sociedad y trabajo (anotacion de datos, educacion tech), tecnologia aplicada (blockchain, fintech), y cultura filosofia y futuro (etica de la IA, identidad digital)."
+      }
+    }
+  ]
+}
+</script>

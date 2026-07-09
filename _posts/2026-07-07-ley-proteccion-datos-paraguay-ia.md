@@ -81,3 +81,36 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
 - [Bloomberg Línea — "Taiwán ayudará a financiar un centro de datos de IA de US$200 millones en Paraguay"](https://www.bloomberglinea.com/latinoamerica/taiwan-ayudara-a-financiar-un-centro-de-datos-de-ia-de-us200-millones-en-paraguay/) (12 junio 2026)
 - [IAPP — "Lessons from Brazilian DPA sanctions to date"](https://iapp.org/news/a/lessons-from-brazilian-dpa-sanctions-to-date) (8 octubre 2024)
 - [ABC Color — "Camino hacia la protección de datos en Paraguay"](https://www.abc.com.py/negocios/2025/06/04/camino-hacia-la-proteccion-de-datos-en-paraguay/) (4 junio 2025)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que establece la Ley 7593/2025 de proteccion de datos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Es la primera ley integral de proteccion de datos de Paraguay, sancionada el 5 de noviembre de 2025 con 24 votos. Establece 10 principios, derechos ARCO, notificacion de brechas en 72 horas y alcance extraterritorial copiando al GDPR europeo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuando entra en vigor la ley y que problemas tiene?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Entra en vigor en noviembre de 2027. La autoridad de control fue degradada a una Direccion General dentro del MITIC (sin independencia). Las multas maximas son de ~USD 160.000. Hay solo un profesional certificado en privacidad en todo Paraguay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como se relaciona la ley de datos con Yguazu Digital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El MOU de Yguazu Digital no contiene ninguna clausula sobre proteccion de datos. La ley no regula datos extranjeros en servidores paraguayos. La ley estadounidense CLOUD Act permite que EE.UU. exija acceso a datos de empresas estadounidenses aunque esten en Paraguay."
+      }
+    }
+  ]
+}
+</script>

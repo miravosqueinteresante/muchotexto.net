@@ -97,3 +97,36 @@ En todos los casos, la respuesta fue no.
 Cuando aparece la próxima tecnología que promete cambiarlo todo — y en este mismo momento hay una, exactamente con el mismo patrón de hype, inversiones astronómicas y proyecciones imposibles — vale la pena recordar estas cinco. No para volverse cínico, sino para preguntar lo que casi nadie pregunta cuando la burbuja está creciendo: ¿esto resuelve un problema real que alguien tenga? ¿O solo es una tecnología impresionante buscando desesperadamente un propósito?
 
 Encontrá más análisis sobre tecnología en la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cuanto dinero perdio Meta con el metaverso?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reality Labs, la division del metaverso de Meta, acumulo perdidas operativas de mas de USD 73.000 millones desde 2021. Horizon Worlds llego a tener apenas 900 usuarios activos diarios. El 91% de los mundos nunca recibieron mas de 50 visitantes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que paso con los NFTs despues de la burbuja?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Para septiembre de 2023, el 95% de 73.257 colecciones de NFT tenian valor de mercado cero. El volumen mensual de ventas paso de USD 6.000 millones a USD 430 millones. La vida media de un NFT era de solo 1,14 anos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Por que fracaso el Segway?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steve Jobs dijo que el Segway seria tan importante como la PC. Se esperaban 10.000 unidades por semana. En veinte anos se vendieron aproximadamente 140.000 unidades. Costaba USD 5.000, pesaba 42 kilos."
+      }
+    }
+  ]
+}
+</script>

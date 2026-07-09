@@ -83,3 +83,36 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
 - [Digiconomist — Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
 - [Cambridge Centre for Alternative Finance — Bitcoin Electricity Consumption Index](https://ccaf.io/cbnsi/cbeci)
 - [De Vries et al. — "Revisiting Bitcoin's carbon footprint", Joule (2022)](https://www.sciencedirect.com/science/article/pii/S2542435122000867)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cuantos empleos genera la criptomineria en Paraguay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solo 383 empleos formales registrados en el IPS para todo el sector. DOS tercios de las empresas mineras no tienen empleados formales. En contraste, la manufactura paraguaya genera entre 5 y 15 empleos por MW."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuanto pierde ANDE por criptomineria ilegal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Las perdidas por hurto de energia se estiman entre USD 50 y 80 millones anuales. ANDE presento 64 denuncias penales solo hasta abril de 2024 y realizo mas de 100 intervencions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Donde termina la vida util de un ASIC de mineria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La vida util promedio de un ASIC es de 1,29 anos. Paraguay no tiene regulacion para residuos electronicos de mineria. Una sola transaccion de bitcoin genera 82,6 gramos de residuo electronico y consume 12.232 litros de agua."
+      }
+    }
+  ]
+}
+</script>

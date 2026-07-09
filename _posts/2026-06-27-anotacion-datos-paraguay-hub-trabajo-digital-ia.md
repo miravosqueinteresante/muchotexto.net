@@ -86,3 +86,36 @@ Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guí
 - [The Verge — "The secret lives of Facebook moderators in America"](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) (25 febrero 2019)
 - [Fairwork Foundation — "Principles for Fair Platform Work"](https://fair.work/en/fw/principles/) (2023)
 - [Rest of World — "The AI-powered World Cup runs on thousands of data workers"](https://restofworld.org/2026/fifa-world-cup-ai-data-workers/) (2026)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cuanto vale la industria de anotacion de datos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El mercado global de anotacion de datos alcanzara los USD 3.600 millones para 2027, con un crecimiento anual del 33,2%. Empresas como Scale AI estan valuadas en USD 14.000 millones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que ventajas tiene Paraguay para la anotacion de datos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paraguay tiene electricidad a USD 0.045/kWh (la segunda mas barata del mundo), salario minimo de USD 370/mes, regimen de maquila con tasa efectiva del 1%, y zona horaria UTC-4 alineada con la costa este de EE.UU."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuales son las condiciones laborales en la anotacion de datos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En Kenia, trabajadores de Sama ganaban menos de USD 2 por hora etiquetando contenido toxico para ChatGPT. Un anotador en EE.UU. gana USD 40.000-80.000 al ano; en India USD 3.000-12.000; en Kenia USD 2.500-7.000."
+      }
+    }
+  ]
+}
+</script>

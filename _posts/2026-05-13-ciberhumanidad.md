@@ -51,3 +51,36 @@ En un mundo donde todo compite por tu atención, [elegir qué mirar es un acto c
 No hay una respuesta única. Solo la responsabilidad de pensar la pregunta. La respuesta, como siempre, no está en una pantalla. Está en lo que hacemos cuando la apagamos.
 
 Leé más análisis sobre tecnología y sociedad en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Como fragmenta la tecnologia nuestra identidad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hoy tenemos una identidad en Instagram, otra en LinkedIn, otra en X. El articulo pregunta si el yo original aun existe cuando la mente esta repartida entre multiples perfiles, un historial de busqueda y un feed algoritmico."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cual es el costo emocional de estar siempre conectados?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El costo incluye ansiedad, depresion, FOMO, presion por mantener una imagen perfecta en redes y sobrecarga de informacion. Las relaciones se volvieron liquidas: mas faciles de empezar y terminar, mas dificiles de profundizar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que es una conciencia ciberhumana?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Una conciencia ciberhumana no rechaza la tecnologia sino que la usa con intencion: elegir que leer, cuando estar disponible, como relacionarse con el contenido. Reconoce que desconectarse sin culpa es parte de esa conciencia."
+      }
+    }
+  ]
+}
+</script>

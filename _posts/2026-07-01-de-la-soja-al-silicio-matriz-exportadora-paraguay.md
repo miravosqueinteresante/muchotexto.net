@@ -89,3 +89,36 @@ Seguí la transformación de Paraguay en la [guía completa de inteligencia arti
 - [Wikipedia — "Economy of Estonia"](https://en.wikipedia.org/wiki/Economy_of_Estonia)
 - [Wikipedia — "Silicon Wadi"](https://en.wikipedia.org/wiki/Silicon_Wadi)
 - [Wikipedia — "Economy of South Korea"](https://en.wikipedia.org/wiki/Economy_of_South_Korea)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cuanto depende Paraguay de la soja?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paraguay exporta USD 17.314 millones al ano. El complejo soja representa el 51% y la carne bovina el 17%. Dos productos concentran mas de dos tercios de las divisas. Brasil compra el 36% de todo lo que Paraguay vende."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que paises lograron la transformacion de agricola a tecnologico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cinco paises: Costa Rica (hoy exporta USD 33.680 millones en dispositivos medicos), Irlanda (impuesto corporativo del 12,5%), Estonia (programa Tiigrihupe de 1996), Israel (programa Yozma de USD 100 millones), y Corea del Sur (de PIB per capita de USD 103 a noveno exportador mundial)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuanto crecieron los servicios digitales en Paraguay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Los servicios digitales crecieron un 97,2% interanual alcanzando USD 329,9 millones. Sin embargo, la inversion en I+D en Paraguay representa solo el 0,1% del PIB, contra el 2,5% de la OCDE."
+      }
+    }
+  ]
+}
+</script>

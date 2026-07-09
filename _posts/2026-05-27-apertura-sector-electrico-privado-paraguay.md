@@ -248,3 +248,36 @@ Seguí el análisis completo de los temas de energía en Paraguay en la [guía d
 <li><strong>MarketData</strong> – "El 57% de la biomasa consumida en Paraguay se destina a la industria" (Oct 2025)</li>
 <li><strong>Clym.io</strong> – <a href="https://www.clym.io/regulations/law-no-7593-paraguay">"Law No. 7593 Paraguay Data Protection"</a> (Nov 2025)</li>
 </ol>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que cambio con el Decreto 6034 en Paraguay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Firmado el 20 de mayo de 2026, el Decreto 6034 habilita por primera vez que empresas privadas generen, compren, vendan y exporten energia electrica renovable no hidraulica. Los grandes consumidores desde 30 MW pueden firmar contratos bilaterales con generadores privados."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Por que Paraguay necesita la reforma energetica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El consumo electrico nacional crecio un 50% en tres anos, con un 18% solo en 2024. Los excedentes energeticos se agotaran entre 2030 y 2033. La ANDE necesita inversiones de USD 9.000 millones hasta 2043 pero no puede financiarlas sola."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuales son los riesgos de corruption en la apertura electrica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La ANDE tiene antecedentes de licitaciones direccionadas: un contrato por USD 19,2 millones con costo estimado de USD 9,6 millones con un solo oferente. Ocho funcionarios robaron 334.213 metros de cables. El presidente Pena enfrenta denuncias por enriquecimiento ilicito."
+      }
+    }
+  ]
+}
+</script>

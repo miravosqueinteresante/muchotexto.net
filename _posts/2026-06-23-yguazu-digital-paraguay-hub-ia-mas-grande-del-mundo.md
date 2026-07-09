@@ -142,3 +142,36 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
 - [Wikipedia — Itaipu Dam](https://en.wikipedia.org/wiki/Itaipu_Dam)
 - [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
 - [Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://indicelatam.cl/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que es Yguazu Digital y cuanto invertira?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yguazu Digital es un proyecto binacional Paraguay-Taiwan firmado el 8 de mayo de 2026. Tiene tres fases: Fase I de 10 MW (USD 200-500M), Fase II de 100 MW (USD 5.000M), Fase III de 1 GW (USD 40.000M). La propiedad sera 50/50 modelada sobre Itaipu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Por que Paraguay es atractivo para centros de datos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paraguay tiene el costo de electricidad industrial mas bajo de Latinoamerica: USD 30-45 por MWh, 100% hidroelectrica. En un data center la energia representa el 40-60% del costo operativo. Taiwan co-invierte aportando chips NVIDIA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuales son los principales riesgos de Yguazu Digital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La red de ANDE tiene un techo de ~1.700 MW con perdidas del 31%. Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwan, su unico aliado sudamericano."
+      }
+    }
+  ]
+}
+</script>

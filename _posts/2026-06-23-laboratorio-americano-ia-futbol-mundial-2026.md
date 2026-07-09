@@ -102,3 +102,36 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [Hammes et al. — "Artificial Intelligence in Elite Sports", Frontiers in Sports and Active Living](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9309390) (2022)
 - [Wikipedia — "United States at the FIFA World Cup"](https://en.wikipedia.org/wiki/United_States_at_the_FIFA_World_Cup)
 - [Wikipedia — "2026 FIFA World Cup Group D"](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que tecnologia usa Estados Unidos en el Mundial 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "USA usa Sportian Performance, plataforma de IA de Globant que genera reportes del rival, tracking en vivo y deteccion de patrones. Opera en 42 clubes de LaLiga y mas de 50 competiciones globales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuanto invirtio USA en su centro de entrenamiento?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El Arthur M. Blank National Training Center en Georgia tiene 200 acres, 19 canchas y 18.500 m2 de instalaciones. Sus socios incluyen a Oura (anillos inteligentes), Nike y robots autonomos que marcan las lineas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como le fue a USA en la fase de grupos del Mundial 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "USA lidero el Grupo D con 6 puntos y +5 de diferencia de gol. Contra Paraguay registro 53 toques en el area rival, el octavo registro mas alto desde 1966. Anoto en los primeros 15 minutos de ambos partidos."
+      }
+    }
+  ]
+}
+</script>

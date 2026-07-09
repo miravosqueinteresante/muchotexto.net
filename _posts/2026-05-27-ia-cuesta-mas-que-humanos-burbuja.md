@@ -205,3 +205,36 @@ Accedé al análisis integral sobre inteligencia artificial en Paraguay en la [g
 <li><strong>Gartner</strong> – <a href="https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025">"Cost of LLM Inference Will Drop Over 90% by 2030"</a> (25 marzo 2026)</li>
 <li><strong>PRNewswire / Sinch</strong> – <a href="https://www.prnewswire.com/news-releases/sinch-research-reveals-74-of-enterprises-have-rolled-back-live-ai-customer-communications-agents-302770750.html">"Sinch research reveals 74% of enterprises have rolled back live AI customer communications agents"</a> (13 mayo 2026)</li>
 </ol>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cuanto gasto Uber en IA en solo cuatro meses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uber agoto todo su presupuesto anual de IA 2026 en solo cuatro meses tras implementar Claude Code para 5.000 ingenieros. La cuenta mensual oscilo entre USD 2,5 y 10 millones. El 70% del codigo commit hoy se origina con IA."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuantas empresas estan retirando sus sistemas de IA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El 74% de las empresas que desplegaron IA en servicio al cliente ya las retiraron (encuesta a 2.527 empresas). El 42% abandono la mayoria de sus iniciativas de IA en 2025. Solo el 28% de los proyectos de IA cumplen completamente su caso de negocio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cuanto gastan las grandes tecnologicas en infraestructura de IA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amazon, Google, Microsoft y Meta gastaran aproximadamente USD 725.000 millones en capex de IA en 2026, un 77% mas que en 2025. Goldmann Sachs calcula que necesitan generar USD 1 billon en ingresos anuales adicionales para 2027."
+      }
+    }
+  ]
+}
+</script>

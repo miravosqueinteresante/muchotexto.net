@@ -134,3 +134,36 @@ Mirá el análisis completo del ecosistema de IA en Paraguay en la [guía de int
 <li><strong>Latitude Media</strong> – <a href="https://www.latitudemedia.com/news/senate-democrats-probe-gas-powered-ai-data-centers/">"Senate Democrats probe gas-powered AI data centers"</a> (Mar 2026)</li>
 <li><strong>Heinrich Böll Foundation</strong> – <a href="https://eu.boell.org/en/2025/11/10/ai-wants-our-water">"AI wants our water"</a> (Nov 2025)</li>
 </ol>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que busca Peter Thiel en Paraguay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peter Thiel, cofundador de PayPal y Palantir (capitalizacion superior a USD 400.000 millones), llego a Paraguay el 13 de mayo de 2026 con Cully Cavness de Crusoe AI. Busca instalar centros de datos de inteligencia artificial aprovechando la energia barata de Itaipu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que relacion tiene Crusoe AI con Peter Thiel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Founders Fund, la firma de Thiel, lidero la ronda Serie D de Crusoe AI por USD 600 millones, valuando la empresa en 2.800 millones. Crusoe construye centros de datos masivos como el campus Abilene en Texas de 1,2 GW."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Por que Paraguay no tiene proteccion de datos efectiva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Ley 7593/2025 de proteccion de datos fue aprobada en noviembre de 2025 pero no entra en vigor hasta noviembre de 2027. La agencia reguladora aun no se ha creado. Hoy Paraguay no tiene proteccion de datos personales efectiva, un vacio que beneficia a empresas como Palantir."
+      }
+    }
+  ]
+}
+</script>

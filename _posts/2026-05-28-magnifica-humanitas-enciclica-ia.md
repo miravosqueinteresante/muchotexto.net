@@ -180,3 +180,36 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 - BNamericas — Análisis de inversiones en IA en Paraguay (2025-2026): https://www.bnamericas.com/es/entrevistas/mi-objetivo-es-alcanzar-los-5gw-de-ia-afirma-x8-cloud-sobre-megaproyecto-en-paraguay
 
 Explorá el análisis completo de IA en Paraguay en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que dice la enciclica Magnifica Humanitas sobre la IA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Publicada el 25 de mayo de 2026 por el Papa Leon XIV, de 110 paginas, es la primera enciclica dedicada a la IA en 135 anos. Sostiene que la IA no es moralmente neutra: toma el rostro de quien la concibe, la financia, la regula, la utiliza."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que formacion tiene el Papa Leon XIV en tecnologia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leon XIV es licenciado en Matematicas por la Universidad de Villanova. Es el primer Papa que asistio personalmente a la presentacion de su propia enciclica, acompanado por Christopher Olah, cofundador de Anthropic."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que relacion tiene Magnifica Humanitas con Paraguay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La enciclica advierte sobre el colonialismo de nuevo cuno donde el Sur Global provee recursos mientras los beneficios se concentran en el Norte. Paraguay esta apostando a proyectos como Yguazu Digital (USD 40.000 millones) y X8 Cloud (USD 50.000 millones)."
+      }
+    }
+  ]
+}
+</script>
