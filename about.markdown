@@ -13,7 +13,7 @@ César Sánchez empezó a explorar la tecnología antes de que existiera un nomb
 
 Trabajó desarrollando sitios web y aplicaciones para empresas paraguayas, colaboró con marcas en la creación de los primeros contenidos patrocinados del país y dio charlas sobre nuevos medios en universidades, agencias de publicidad y eventos de tecnología. Esa combinación de perfiles —desarrollador que entiende de comunicación, comunicador que entiende de datos— es lo que define su enfoque actual.
 
-Hoy trabaja como consultor en proyectos de automatización con inteligencia artificial generativa, anotación de datos para modelos de lenguaje y desarrollo de soluciones basadas en IA aplicada. Ha trabajado con marcas como Coca-Cola en la generación de contenido visual con IA. Escribe en muchotexto.net análisis de 1.500 a 2.500 palabras donde cada afirmación tiene fuente verificable, cubriendo infraestructura energética, regulación tech, trabajo digital, geopolítica y el cruce entre tecnología y cultura desde una perspectiva paraguaya.
+Hoy trabaja como consultor en proyectos de automatización con inteligencia artificial generativa, anotación de datos para modelos de lenguaje y desarrollo de soluciones basadas en IA aplicada. Ha trabajado con marcas como Coca-Cola en la generación de contenido visual con IA.
 
 ## Qué vas a encontrar
 
@@ -37,7 +37,7 @@ Las editoriales son generadas por GPT-4o con un system prompt que define una voz
 
 ### Artículos de fondo
 
-Ensayos long-form de investigación y análisis que cruzan tecnología, política, economía, filosofía y cultura desde una perspectiva paraguaya. Estos artículos no son generados automáticamente: cada uno pasa por un proceso de investigación con múltiples fuentes, verificación de datos cruzada y redacción cuidada.
+Ensayos long-form de investigación y análisis de 1.500 a 2.500 palabras que cruzan tecnología, política, economía, filosofía y cultura desde una perspectiva paraguaya. Cada artículo pasa por un proceso de investigación con múltiples fuentes, verificación de datos cruzada y redacción cuidada, con todas las afirmaciones respaldadas por fuentes verificables.
 
 El objetivo es aportar una perspectiva que hoy no abunda: el análisis profundo de la inteligencia artificial y la tecnología desde Paraguay, escrito en español y pensado tanto para lectores locales como para cualquiera que quiera entender qué está pasando en esta parte del mundo.
 
