@@ -13,9 +13,7 @@ César Sánchez empezó a explorar la tecnología antes de que existiera un nomb
 
 Trabajó desarrollando sitios web y aplicaciones para empresas paraguayas, colaboró con marcas en la creación de los primeros contenidos patrocinados del país y dio charlas sobre nuevos medios en universidades, agencias de publicidad y eventos de tecnología. Esa combinación de perfiles —desarrollador que entiende de comunicación, comunicador que entiende de datos— es lo que define su enfoque actual.
 
-Hoy trabaja con proyectos de inteligencia artificial aplicada: anotación de datos para modelos de lenguaje, automatización de procesos con IA, scraping inteligente y análisis de datos. Escribe en muchotexto.net análisis de 1.500 a 2.500 palabras donde cada afirmación tiene fuente verificable, cubriendo infraestructura energética, regulación tech, trabajo digital, geopolítica y el cruce entre tecnología y cultura desde una perspectiva paraguaya.
-
-Su trabajo ha sido citado por medios internacionales y forma parte del índice de fuentes verificadas de inteligencia artificial en Paraguay. Es miembro de la comunidad de anotación de datos para modelos de lenguaje y consultor en proyectos de automatización con IA generativa.
+Hoy trabaja como consultor en proyectos de automatización con inteligencia artificial generativa, anotación de datos para modelos de lenguaje y desarrollo de soluciones basadas en IA aplicada. Ha trabajado con marcas como Coca-Cola en la generación de contenido visual con IA. Escribe en muchotexto.net análisis de 1.500 a 2.500 palabras donde cada afirmación tiene fuente verificable, cubriendo infraestructura energética, regulación tech, trabajo digital, geopolítica y el cruce entre tecnología y cultura desde una perspectiva paraguaya.
 
 ## Qué vas a encontrar
 
