@@ -128,24 +128,14 @@ layout: default
 <aside class="related">
   <h2 class="related-title">Continuar leyendo</h2>
   <ul class="related-posts">
-    {% assign cat = page.categories[0] %}
-    {% assign same_cat = site.posts | where_exp:"p", "p.categories[0] == cat" | where_exp:"p", "p.url != page.url" %}
-    {% assign other_posts = site.posts | where_exp:"p", "p.categories[0] != cat" %}
-    {% for post in same_cat limit:3 %}
+    {% assign primary_tag = page.tags | first %}
+    {% assign same_tag = site.posts | where_exp:"p", "p.tags contains primary_tag" | where_exp:"p", "p.url != page.url" %}
+    {% for post in same_tag limit:3 %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
       </li>
     {% endfor %}
-    {% assign remaining = 3 | minus: same_cat.size %}
-    {% if remaining > 0 %}
-      {% for post in other_posts limit:remaining %}
-        <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-        </li>
-      {% endfor %}
-    {% endif %}
   </ul>
 </aside>
 
