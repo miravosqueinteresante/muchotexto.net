@@ -544,6 +544,50 @@ a.pagination-item:hover {
   color: var(--link-color);
 }
 
+.author-bio {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: var(--spacer-2) 0;
+  padding: var(--spacer-2);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+}
+.author-bio-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--code-bg-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--text-color-light);
+  user-select: none;
+}
+.author-bio-content {
+  flex: 1;
+}
+.author-bio-name {
+  margin: 0 0 0.25em;
+  font-weight: bold;
+  color: var(--heading-color);
+}
+.author-bio-text {
+  margin: 0 0 0.5em;
+  font-size: 0.9em;
+  color: var(--text-color-light);
+}
+.author-bio-links {
+  margin: 0;
+  font-size: 0.85em;
+}
+.author-bio-links a {
+  color: var(--link-color);
+}
+
 /**
  * Inline SVG icons
  */
