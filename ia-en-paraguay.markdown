@@ -38,8 +38,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Anotación de datos para IA: la ventaja silenciosa de Paraguay]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** - Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos.
 - **[De la soja al silicio: el plan de Paraguay para cambiar su matriz exportadora]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** - Cinco países hicieron el salto de materias primas a tecnología.
 - **[Educación tech en Paraguay: la brecha que frena el hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce 400 a 600 graduados en informática por año.
-- **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** - El 87% de los desarrolladores trabaja para el exterior y el 29% de los becarios no vuelve.
-- **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** - El 87% de los desarrolladores trabaja para el exterior y el 29% de los becarios no vuelve.
+- **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** - Paraguay no tiene programas de retorno ni red de diaspora tech para traer de vuelta a sus profesionales.
 
 **Próximamente:** Starlink, gobierno digital, IA en salud.
 
