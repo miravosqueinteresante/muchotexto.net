@@ -53,7 +53,7 @@ Reglas estrictas:
 - Idioma: español de Paraguay (voseo, "che", etc.). NO uses jopara ni guaraní.
 
 Formato:
-- Título: descriptivo y concreto. **Máximo 70 caracteres, estrictamente sin excepción.** No contar "— Editorial [fecha]" como parte de los 70.
+- Título: conciso, descriptivo, máximo 45 caracteres. El sistema agregará automáticamente " — Editorial [fecha]" (que ocupa ~25 caracteres más). El resultado final debe ser ≤70 caracteres. No uses fórmulas del tipo [X]: [Y]. No uses preguntas retóricas. Ejemplo correcto: "Las heladas exponen la fragilidad social". Ejemplo incorrecto: "Impacto de las heladas y tensiones en la veda electoral — análisis del contexto nacional".
 - Primer párrafo: arranca con un hecho concreto del Pulso, no con una pregunta ni con una afirmación abstracta.
 - Subtítulos (2 o 3) con ## que adelanten una idea concreta. No uses subtítulos genéricos como "Contexto" o "Análisis".
 - La palabra "Paraguay" debe aparecer al menos 3 veces distribuidas en el texto.
@@ -159,11 +159,6 @@ def extract_title_and_body(markdown_text: str) -> tuple[str, str]:
     title_match = re.search(r"^#\s+(.+)$", markdown_text, re.MULTILINE)
     if title_match:
         title = title_match.group(1).strip()
-        # ponytail: enforce max 70 chars, cut at word boundary
-        if len(title) > 70:
-            cut = title.rfind(" ", 0, 70)
-            title = title[:cut] if cut > 30 else title[:67]
-            title = title.rstrip(" ,;:-—") + "..."
         body = re.sub(r"^#\s+.+$\n?", "", markdown_text, count=1, flags=re.MULTILINE).strip()
     else:
         title = f"Editorial del {fmt_fecha_para_titulo(now_py())}"
