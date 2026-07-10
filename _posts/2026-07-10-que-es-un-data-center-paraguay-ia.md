@@ -40,7 +40,7 @@ Los data centers son edificios deliberadamente anónimos. No tienen ventanas. Es
 
 Un data center consume electricidad en tres cosas: procesamiento, refrigeración y pérdidas del sistema. La regla general es que por cada megavatio que consumen los servidores, se necesita aproximadamente otro medio megavatio para refrigerarlos.
 
-Para ponerlo en números concretos: Yguazú Digital, en su fase 1, va a consumir 10 megavatios. Esa cantidad de energía alcanza para abastecer a aproximadamente 7.500 hogares paraguayos. En su fase 3, a 1.000 megavatios, consumirá lo mismo que una ciudad de 750.000 personas —más que la población de Asunción.
+Para ponerlo en números concretos: Yguazú Digital, en su fase 1, va a consumir 10 megavatios. Esa cantidad de energía alcanza para abastecer a aproximadamente 7.500 hogares. En su fase 3, a 1.000 megavatios, consumirá lo mismo que una ciudad de 750.000 personas —más que la población de Asunción.
 
 La [criptominería]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}) también consume enormes cantidades de electricidad, pero con una diferencia importante: los mineros de bitcoin usan chips especializados llamados ASIC que hacen una sola tarea —resolver problemas criptográficos— y la hacen de manera extremadamente eficiente. Un data center de IA tiene que ser más flexible: los mismos servidores que hoy entrenan un modelo de lenguaje pueden mañana procesar imágenes médicas o simular escenarios climáticos.
 
