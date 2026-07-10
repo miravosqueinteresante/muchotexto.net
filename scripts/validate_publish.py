@@ -179,6 +179,14 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     if missing_accents:
         errors.append("ACENTOS FALTANTES en titulo o description: " + ", ".join(missing_accents))
 
+    # === CHECK: texto 100% ASCII (sin acentos) ===
+    non_ascii = any(ord(c) > 127 for c in (title or '') + (description or ''))
+    if not non_ascii and (title or description):
+        warnings.append(
+            "El titulo y description no contienen ningun caracter acentuado. "
+            "El espanol tiene acentos (a, e, i, o, u, n). Revisar."
+        )
+
     words = len(body.split()) if body else 0
     if words and words < 1500:
         warnings.append(f"Articulo corto: {words} palabras (minimo 1.500)")
