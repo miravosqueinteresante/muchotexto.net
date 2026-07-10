@@ -32,6 +32,8 @@
 - [Anotación de datos para IA: la ventaja silenciosa de Paraguay](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)
 - [De la soja al silicio: Paraguay cambia su matriz exportadora](https://muchotexto.net/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/)
 - [Educacion tech en Paraguay: la brecha que frena el hub de IA](https://muchotexto.net/articulos/2026/07/09/educacion-tech-paraguay-ia/)
+- [Paraguay pierde el talento que necesita para ser hub de IA](https://muchotexto.net/articulos/2026/07/10/talento-tech-paraguay-ia/)
+- [Educacion tech en Paraguay: la brecha que frena el hub de IA](https://muchotexto.net/articulos/2026/07/09/educacion-tech-paraguay-ia/)
 
 ### Pilar 4: Tecnología aplicada + ecosistema
 - [Soja, ganado y blockchain: la tokenización del agro en Paraguay](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)
