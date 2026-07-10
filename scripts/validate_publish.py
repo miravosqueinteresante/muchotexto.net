@@ -153,21 +153,28 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     # === ACENTOS FALTANTES ===
     missing_accents = []
     checks = [
-        (r'\b(mas) ', 'm\u00e1s'),  # mas -> más (word boundary)
-        (r'\b(esta) ', 'est\u00e1'),  # esta -> está
-        (r'\b(energia)\b', 'energ\u00eda'),  # energia -> energía
-        (r'\b(region)\b', 'regi\u00f3n'),  # region -> región
-        (r'\b(regulacion)\b', 'regulaci\u00f3n'),
-        (r'\b(tecnologia)\b', 'tecnolog\u00eda'),
-        (r'\b(informatica)\b', 'inform\u00e1tica'),
-        (r'\b(educacion)\b', 'educaci\u00f3n'),
-        (r'\b(analisis)\b', 'an\u00e1lisis'),
-        (r'\b(geopolitica)\b', 'geopol\u00edtica'),
+        (r'\bmas\b', 'm\u00e1s'),
+        (r'\besta\b', 'est\u00e1'),
+        (r'\bpais\b', 'pa\u00eds'),
+        (r'\benergia\b', 'energ\u00eda'),
+        (r'\bregion\b', 'regi\u00f3n'),
+        (r'\bregulacion\b', 'regulaci\u00f3n'),
+        (r'\btecnologia\b', 'tecnolog\u00eda'),
+        (r'\binformatica\b', 'inform\u00e1tica'),
+        (r'\beducacion\b', 'educaci\u00f3n'),
+        (r'\banalisis\b', 'an\u00e1lisis'),
+        (r'\bgeopolitica\b', 'geopol\u00edtica'),
+        (r'\bdeberian\b', 'deber\u00edan'),
+        (r'\beconomia\b', 'econom\u00eda'),
+        (r'\belectrica\b', 'el\u00e9ctrica'),
+        (r'\btransmision\b', 'transmisi\u00f3n'),
     ]
     for pattern, correct in checks:
         text_to_check = f"{title or ''} {description or ''}"
-        if re.search(pattern, text_to_check, re.IGNORECASE):
-            missing_accents.append(f"'{re.search(pattern, text_to_check).group(1)}' deberia ser '{correct}'")
+        match = re.search(pattern, text_to_check, re.IGNORECASE)
+        if match:
+            found = match.group(0)
+            missing_accents.append(f"'{found}' deberia ser '{correct}'")
 
     if missing_accents:
         errors.append("ACENTOS FALTANTES en titulo o description: " + ", ".join(missing_accents))
