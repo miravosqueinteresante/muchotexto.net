@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corrupción y salud dos focos de incertidumbre en Paraguay — Editorial 2 de julio de 2026"
-description: "La libertad ambulatoria otorgada a Miguel Prieto en el marco del “Caso Tajy” y la confirmación de una superbacteria en Paraguay son los temas que dominan..."
+description: "La libertad ambulatoria otorgada a Miguel Prieto en el marco del “Caso Tajy” y la confirmación de una superbacteria en Paraguay son los temás que dominan..."
 date: 2026-07-02 18:00:00 -0400
 last_modified_at: 2026-07-02
 categories: editorial

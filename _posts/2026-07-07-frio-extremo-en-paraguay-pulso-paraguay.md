@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Frío extremo en Paraguay — 7 de julio de 2026"
-description: "MARTES 7 de julio de 2026 Última actualización: 10:41 TEMA 1 DEL DÍA: Frío extremo en Paraguay Las heladas en casi toda la Región Oriental y parte del..."
+description: "MARTES 7 de julio de 2026 Última actualización: 10:41 TEMA 1 DEL DÍA: Frío extremo en Paraguay Las heladas en casí toda la Región Oriental y parte del..."
 date: 2026-07-07
 last_modified_at: 2026-07-07
 categories: pulso-paraguay

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impacto de las heladas y tensiones en la veda electoral — Editorial 9..."
-description: "El Pulso Paraguay de hoy destaca dos temas que, aunque a primera vista parecen desconectados, revelan un trasfondo común de preocupación social el..."
+description: "El Pulso Paraguay de hoy destaca dos temás que, aunque a primera vista parecen desconectados, revelan un trasfondo común de preocupación social el..."
 date: 2026-07-09 18:00:00 -0400
 last_modified_at: 2026-07-09
 categories: editorial

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Vergonzoso abandono del edificio del Correo Paraguayo — 18 de junio de 2026"
-description: "JUEVES 18 de junio de 2026 Última actualización: 11:31 TEMA 1 DEL DÍA: Vergonzoso abandono del edificio del Correo Paraguayo El estado crítico del..."
+description: "JUEVES 18 de junio de 2026 Última actualización: 11:31 TEMA 1 DEL DÍA: Vergonzoso abandono del edificio del Correo Paraguayo El estádo crítico del..."
 date: 2026-06-18
 last_modified_at: 2026-06-18
 categories: pulso-paraguay

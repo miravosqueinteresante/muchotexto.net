@@ -5,7 +5,7 @@ date: 2026-06-16
 last_modified_at: 2026-06-16
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Crisis en Neonatología del IPS: renuncia masiva de médicos pone en riesgo la atención neonatal. Reporte diario de noticias de Paraguay del 16 de junio de 2026."
+description: "Crisis en Neonatología del IPS: renuncia másiva de médicos pone en riesgo la atención neonatal. Reporte diario de noticias de Paraguay del 16 de junio de 2026."
 ---
 
 PULSO DIARIO PARAGUAY  
