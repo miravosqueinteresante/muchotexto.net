@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tensiones políticas y sociales en Paraguay — Editorial 8 de julio de..."
+title: "Tensión política en Paraguay — Editorial 8 de julio 2026"
 description: "La controversia entre Celeste Amarilla y Kylian Mbappé ha dominado las conversaciones en Paraguay, generando un cruce entre política y deporte que ha..."
 date: 2026-07-08 18:00:00 -0400
 last_modified_at: 2026-07-08

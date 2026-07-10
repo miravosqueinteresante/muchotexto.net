@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Expectativa por el fútbol y tensiones sociales — Editorial 4 de julio de 2026"
+title: "Fútbol, expectativa y tensión — Editorial 4 de julio 2026"
 description: "El partido de Paraguay contra Francia en los octavos de final del Mundial 2026 domina la conversación nacional, con una temperatura social alta y un..."
 date: 2026-07-04 18:00:00 -0400
 last_modified_at: 2026-07-04
