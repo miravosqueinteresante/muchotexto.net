@@ -8,9 +8,9 @@ tags: tech-ecosistema
 description: "Paraguay tiene 100 fintechs, 15 bancos y casi la mitad de los adultos sin cuenta. El ecosistema crece al 40% anual y recién empieza."
 ---
 
-En 2024, el sistema de pagos instantáneos de Paraguay —SPI, administrado por el Banco Central— procesó 28 millones de transacciones en un solo mes de junio. En todo el año, movió 82 billones de guaraníes, el equivalente a 10.600 millones de dólares. Los pagos con código QR alcanzaron 13,9 millones al mes. Y el 70% de las transacciones en el país siguen siendo en efectivo.
+En junio de 2025, el sistema de pagos instantáneos de Paraguay registró 28 millones de transacciones en un solo mes y 13,9 millones de pagos con código QR. En todo 2024, el sistema movió 82 billones de guaraníes, el equivalente a 10.600 millones de dólares. El 70% de las transacciones en el país siguen siendo en efectivo.
 
-Paraguay tiene quince bancos comerciales formales y más de cien empresas fintech registradas o en operación. La Cámara Paraguaya de Fintech, fundada en 2019, ya reúne a más de 120 miembros. El ecosistema crece a más del 40% anual, impulsado por dos leyes aprobadas en 2025 y una oportunidad demográfica que pocos países de la región tienen: casi la mitad de los adultos paraguayos no tiene acceso al sistema financiero formal.
+Paraguay tiene aproximadamente quince bancos comerciales formales y más de cien empresas fintech registradas o en operación. La Cámara Paraguaya de Fintech, fundada en 2019, ya reúne a más de 120 miembros. El ecosistema crece a más del 40% anual, impulsado por dos leyes aprobadas en 2025 y una oportunidad demográfica que pocos países de la región tienen: casi la mitad de los adultos paraguayos no tiene acceso al sistema financiero formal.
 
 Este artículo es un mapa del ecosistema fintech paraguayo: qué es, quiénes son los actores, cómo se regula y por qué Paraguay tiene condiciones para convertirse en un laboratorio financiero regional.
 
