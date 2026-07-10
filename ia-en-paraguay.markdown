@@ -48,8 +48,9 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 Blockchain en el agro, fintech, startups y la cadena de valor invisible que rodea a cada centro de datos. Paraguay no solo aloja infraestructura: también está construyendo un ecosistema.
 
 - **[Soja, ganado y blockchain: la apuesta paraguaya por la tokenización del agro]({% post_url 2026-05-18-tokenizacion-del-agro-paraguay %})** - La Ley 7572 reconoce instrumentos en blockchain.
+- **[Paraguay tiene más fintechs que bancos y recién empieza]({% post_url 2026-07-10-fintech-paraguay-ecosistema %})** - El ecosistema fintech paraguayo, las leyes 7503 y 7572, y la inclusión financiera.
 
-**Próximamente:** Agro 4.0, fintech, startups de IA, smart cities.
+**Próximamente:** Agro 4.0, startups de IA, smart cities.
 
 ## Cultura, filosofía y futuro
 
