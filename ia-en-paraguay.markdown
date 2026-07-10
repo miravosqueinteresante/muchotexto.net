@@ -14,7 +14,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El país genera ocho veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
 
-- ****[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** - Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
+- **[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** - Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** - El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
 - **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** - El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
 - **[Criptominería en Paraguay: el costo real de la energía barata]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto país con mayor minería de bitcoin del mundo.
