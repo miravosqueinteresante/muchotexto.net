@@ -5,52 +5,46 @@ date: 2026-07-10
 last_modified_at: 2026-07-10
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
-description: "Paraguay tiene energia y acuerdos para ser hub de IA. La mayoria de los desarrolladores trabaja para el exterior y el 29% de los becarios de posgrado no regresa al pais."
+description: "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. El pais construye data centers de IA mientras los ingenieros que deberian operarlos trabajan para empresas extranjeras."
 ---
 
-Paraguay tiene la energía más barata de Sudamérica, acuerdos diplomáticos con Taiwán que ningún otro país de la región puede replicar y un proyecto de centro de datos de inteligencia artificial que aspira a consumir 1.000 megavatios en su fase final. Tiene todo eso. Lo que no tiene son las personas que van a operarlo.
+Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. Remiten entre 2.000 y 3.000 millones de dólares al año, el equivalente al 5% o 7% del PIB. No existe un censo que diga cuántos de ellos son ingenieros, desarrolladores o científicos de datos. El país está construyendo una industria de inteligencia artificial que necesita a esas personas sin saber cuántas perdió.
 
-Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. Remiten entre 2.000 y 3.000 millones de dólares al año, entre el 5% y el 7% del PIB. El 29% de los becarios de Becal —el programa estatal de becas de posgrado— no regresó al país. No existe un estudio específico sobre cuántos de esos profesionales son del sector tecnológico. Nadie sabe cuántos ingenieros, desarrolladores y científicos de datos se fueron. El país está construyendo una industria que requiere miles de trabajadores calificados sin saber cuántos tiene ni cuántos perdió.
+Como analizamos en el artículo sobre [educación tecnológica en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}), el sistema produce apenas 400 a 600 graduados en informática por año. El 29% de los becarios de Becal no regresó al país. Pero el problema no es solo de oferta educativa. Es también de retención: los pocos profesionales que se forman se van, y los incentivos para que vuelvan no existen.
 
-## El censo que nadie hizo
+## Adónde se fueron y por qué no vuelven
 
-Paraguay no tiene un censo oficial de trabajadores tecnológicos. Las estimaciones varían entre 10.000 y 20.000 profesionales de tecnología en todo el país, un rango tan amplio que no sirve para planificar nada. El Instituto de Previsión Social no tiene una categoría separada para el sector. El Ministerio de Tecnologías de la Información y Comunicación (MITIC) no publica datos de empleo tech. Cada vez que una empresa extranjera pregunta cuántos desarrolladores hay disponibles en Paraguay, la respuesta empieza con "se estima".
+Paraguay no tiene un programa de retorno para profesionales tecnológicos. No tiene una red organizada de su diáspora tech. No tiene incentivos fiscales para que un ingeniero que hizo su posgrado en Estados Unidos o España considere volver. Chile tiene ChileGlobal, una red que conecta a profesionales chilenos en el exterior con oportunidades en el país. Argentina tiene RAICES, un programa de repatriación de científicos. Uruguay tiene una diáspora activa que invierte en startups locales. Paraguay no tiene nada parecido.
 
-El programa Becal, que financia estudios de posgrado en el exterior, ha otorgado 3.787 becas desde su creación. De esas, 2.682 becarios regresaron, una tasa de retorno del 70.8%. Pero Becal no desglosa cuántos de esos becarios estudiaron carreras tecnológicas. El dato existe en la base de datos del programa, pero no se publica.
+El programa Becal financia estudios de posgrado —3.787 becarios, 2.682 regresaron— pero no tiene un componente específico de retorno para carreras tecnológicas. Un becario que estudió inteligencia artificial en Alemania recibe el mismo tratamiento que uno que estudió literatura francesa. El dato de cuántos becarios tech volvieron existe en la base de datos del programa pero no se publica.
 
-Mientras tanto, en un relevamiento de LinkedIn realizado el 10 de julio de 2026 sobre 23 ofertas de desarrollo publicadas, 20 eran de empresas extranjeras que contratan en remoto. Aunque la muestra es pequeña, ilustra la tendencia: un desarrollador paraguayo puede ganar entre 650 y 1.150 dólares mensuales en una empresa local, o dos a tres veces más trabajando para una empresa extranjera sin moverse de su casa. La decisión económica no es difícil de tomar.
+La paradoja es que los profesionales que se fueron no están inactivos. Remiten miles de millones de dólares al año a sus familias. Algunos invierten en propiedades o pequeños negocios en Paraguay. Hay comunidades de paraguayos en tecnología en Silicon Valley, Madrid, Buenos Aires y São Paulo que se conocen entre ellos pero no tienen un canal institucional que los conecte con las oportunidades que están surgiendo en su país de origen. El capital humano y financiero existe. Lo que no existe es el puente.
 
-## Lo que cuesta no tenerlos
+## El trabajo remoto como espejismo
 
-El proyecto [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) necesita, según estimaciones de la industria de centros de datos, entre 0.3 y 2 empleados a tiempo completo por megavatio. La fase 1, de 10 megavatios, podría operar con tan solo 3 a 20 personas. La fase 3, de 1.000 megavatios, necesitaría entre 300 y 2.000. Pero hay un matiz: el rango bajo asume centros de datos maduros, con personal experimentado y procesos automatizados. Paraguay está en el rango alto. No tiene la automatización y no tiene la experiencia.
+El trabajo remoto cambió la ecuación. Un desarrollador en Asunción ya no necesita emigrar para ganar un salario internacional: puede trabajar para una empresa en San Francisco, Londres o São Paulo desde su casa. En un relevamiento informal de ofertas de desarrollo en LinkedIn para Paraguay, la mayoría de las posiciones publicadas son de empresas extranjeras que contratan en remoto.
 
-No es solo Yguazú Digital. HIVE Digital está expandiendo su capacidad de cómputo en Paraguay de 300 a 400 megavatios para minería de criptoactivos. Pardat Holding, un grupo privado, proyecta un centro de datos de 100 megavatios en Yguazú que generaría 700 empleos directos e indirectos. X8Cloud, otro proyecto privado, inició obras en el segundo trimestre de 2026 con una capacidad inicial de 50 megavatios. La demanda de talento es acumulativa, no secuencial. Cada nuevo proyecto compite por el mismo pool de profesionales.
+Esto es, al mismo tiempo, una oportunidad y un problema. Por un lado, el talento se queda en el país. Los salarios en dólares dinamizan la economía local. Los profesionales adquieren experiencia internacional sin tener que irse. Por otro lado, las empresas que construyen el ecosistema local —las que desarrollan software para el gobierno, las que entrenan a la siguiente generación, las que contratan para proyectos de infraestructura nacional— compiten por el mismo pool de talento contra empresas que pagan en dólares y no tienen oficina en Paraguay.
 
-La Universidad Politécnica Taiwán-Paraguay (UPTP) proyecta graduar a más de 500 ingenieros por año, y el gobierno anunció 7.000 becas de formación tecnológica. Pero el primer centro de datos abre en aproximadamente dieciocho meses. Un ingeniero recién graduado necesita entre dos y cinco años de experiencia para operar de forma autónoma infraestructura crítica. Las cuentas no cierran por el lado de la oferta local.
+El resultado es una forma silenciosa de fuga de cerebros: el profesional está físicamente en Asunción pero su carrera, su red de contactos y su desarrollo profesional ocurren enteramente en el exterior. No contribuye al ecosistema local más allá del consumo. No forma a la siguiente camada. No construye las empresas paraguayas que el país necesita para tener un sector tech autónomo. Y si el día de mañana recibe una oferta de relocalización con una visa de trabajo, tiene pocas razones para rechazarla.
 
-## El trabajo remoto: bendición y condena
+## Tres data centers, una misma competencia por talento
 
-El trabajo remoto es, al mismo tiempo, la mayor oportunidad y el principal desafío para el talento tech paraguayo. Por un lado, permite que los profesionales adquieran experiencia internacional sin emigrar: un desarrollador en Asunción puede trabajar en un equipo de San Francisco, aprender sus metodologías, absorber su cultura de innovación. Los salarios en dólares que ingresan al país —que pueden triplicar el sueldo local— dinamizan el consumo y crean una clase media profesional que Paraguay no tendría sin el trabajo remoto.
+Mientras tanto, la demanda de profesionales crece. No es solo [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}): HIVE Digital está expandiendo su capacidad de cómputo en Paraguay de 300 a 400 megavatios para minería de criptoactivos. Pardat Holding proyecta un centro de datos de 100 megavatios en Yguazú que generaría 700 empleos directos e indirectos. X8Cloud inició obras en el segundo trimestre de 2026 con una capacidad inicial de 50 megavatios.
 
-Por otro lado, la mayoría de la demanda de desarrolladores que se ve en el país no es para proyectos paraguayos. Las empresas que construyen el ecosistema local —las que contratan para proyectos de infraestructura nacional, las que desarrollan software para el gobierno, las que entrenan a la siguiente generación— compiten por talento contra empresas que pagan en dólares desde Nueva York, Londres o São Paulo.
+Cada uno de estos proyectos necesita técnicos, ingenieros y administradores que compiten por el mismo pool limitado de profesionales. La demanda es acumulativa, no secuencial. Y se suma a la demanda de las empresas de servicios de TI que ya operan en el país —Applaudo, BairesDev, Kraken— y que también buscan los mismos perfiles. El mercado laboral tech paraguayo no está creciendo por capas que se complementan: todos los empleadores están pescando en la misma pecera, y la pecera es chica. Y cuando la demanda supera a la oferta en un mercado pequeño, el resultado no es que se forman más profesionales —eso lleva años— sino que los salarios suben para los pocos que hay y los proyectos se frenan para los que no pueden pagarlos.
 
-Paraguay no tiene un programa de incentivos para que los profesionales tech trabajen en proyectos locales, ni un programa de retorno para la diáspora, ni una red organizada de paraguayos en tecnología en el exterior. Tampoco tiene, a diferencia de lo que hizo Costa Rica con Intel en los noventa, un mecanismo para que las empresas que llegan inviertan en formar a quienes van a contratar. Chile tiene ChileGlobal. Argentina tiene RAICES. Uruguay tiene una diáspora activa que invierte en startups locales. Paraguay no tiene nada equivalente.
+Según estimaciones de la industria de centros de datos, se necesitan entre 0.3 y 2 empleados a tiempo completo por megavatio. En el rango bajo, Yguazú Digital fase 1 (10 MW) podría operar con 3 a 20 personas. En el rango alto —donde está Paraguay por falta de automatización y experiencia previa— la demanda se multiplica. La fase 3 (1.000 MW) necesitaría entre 300 y 2.000 trabajadores. Sumando los otros proyectos, la cifra crece.
 
-## Lo que otros países hicieron
+## Lo que se puede hacer
 
-Costa Rica enfrentó un problema similar cuando Intel llegó en 1997. La empresa necesitaba cientos de ingenieros y el país no los tenía. La solución no fue solamente educativa: fue un pacto entre el gobierno, la universidad pública y la empresa. El Instituto Tecnológico de Costa Rica (TEC) ajustó sus currículos a las necesidades de Intel. El gobierno garantizó estabilidad fiscal y jurídica. Intel invirtió en formación. Veinticinco años después, Costa Rica es el mayor exportador de dispositivos médicos de América Latina y tiene uno de los ecosistemas de talento más sólidos de la región.
+Los países que enfrentaron este problema encontraron soluciones distintas a la misma ecuación. Costa Rica, cuando Intel llegó en 1997, no solo abrió las puertas: negoció que la empresa invirtiera en formación local, que el Instituto Tecnológico ajustara sus currículos a las necesidades de la industria y que se creara un pipeline de talento que después alimentaría a todo el sector de dispositivos médicos del país. Uruguay complementó su Plan Ceibal con programas de inserción laboral directa. Estonia entendió que en un país de 1.3 millones de habitantes, cada profesional que se va es una pérdida proporcionalmente enorme, y construyó un ecosistema digital que hace que quedarse sea más atractivo que irse.
 
-Uruguay, con una población similar a la paraguaya, construyó un ecosistema tech que produce la mayor densidad de desarrolladores per cápita de Sudamérica. La clave no fue solo el Plan Ceibal —que entregó computadoras— sino Jóvenes a Programar, un programa intensivo de formación en programación que en seis ediciones insertó a miles de graduados en el mercado laboral. Lecciones similares dejaron Estonia y su programa Tiigrihüpe, e India y su explosión de servicios de TI en los noventa.
+Paraguay tiene instrumentos que no está usando. El régimen de maquila tecnológica —que grava los servicios exportados al 1%— podría condicionarse a que las empresas inviertan un porcentaje en formación de talento local, como hizo Costa Rica con Intel. Las becas de posgrado podrían incluir cláusulas de retorno específicas para carreras tecnológicas, con incentivos concretos: exenciones impositivas por tres años, financiamiento para emprendimientos, prioridad en concursos públicos. La diáspora —30.000 a 50.000 profesionales que ya conocen los mercados internacionales, hablan idiomas y tienen redes de contacto— podría organizarse en una red formal que canalice inversión, mentoría y conexiones comerciales hacia Paraguay. Ningún país resolvió su brecha de talento sin involucrar a los que ya se fueron.
 
-El patrón es consistente: los países que resolvieron su brecha de talento tech combinaron tres elementos. Primero, un sistema educativo alineado con la demanda del sector privado, no con la oferta académica. Segundo, incentivos fiscales y regulatorios para que las empresas contraten y formen localmente. Tercero, una política activa de retención y retorno de talento.
+Nada de esto existe hoy. Paraguay está construyendo la infraestructura de la inteligencia artificial sin construir el ecosistema humano que la sostenga. Los centros de datos se diseñan, se financian y se construyen con cronogramas que se miden en meses y presupuestos que se miden en millones de dólares. Las personas se forman, se retienen o se pierden en procesos que se miden en años. De las tres, Paraguay solo está haciendo la primera. La pregunta no es si el país tiene suficientes ingenieros —la respuesta es no— sino si va a hacer algo para que los que se fueron quieran volver, para que los que están no se vayan, y para que los que lleguen encuentren razones para quedarse. Hasta ahora, la respuesta a las tres es la misma.
 
-Paraguay tiene la maquila tecnológica —un régimen tributario que grava los servicios exportados al 1%— pero no la usa a escala. Tiene las becas pero no sabe cuántos becarios tech volvieron. Tiene la energía, los chips y los acuerdos diplomáticos que [la educación]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}) debería complementar, pero el sistema aún no produce los profesionales que la [transformación económica]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %}) necesita.
-
----
-
-A Paraguay no le faltan ingenieros. Le faltan datos para saber cuántos perdió, un plan para traerlos de vuelta y una estrategia para que los que se quedaron no se vayan. Mientras las empresas extranjeras compiten por el talento local ofreciendo salarios en dólares que ninguna empresa paraguaya puede igualar, y mientras los centros de datos se construyen sin un pipeline de profesionales que los operen, Paraguay está apostando su futuro tecnológico a una fuerza laboral que no sabe cuántos son, cuántos se fueron ni cuántos están dispuestos a volver. Y sin esos datos, cualquier plan de desarrollo es, literalmente, un salto al vacío.
-
-Este artículo es parte de la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/), que reúne todos los análisis del cluster sobre tecnología y sociedad.
+Este artículo es parte de la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/). Leé también el análisis complementario sobre [educación tecnológica en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}).
 
 ## Fuentes
 
@@ -58,7 +52,6 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptomineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
 - [TEDIC — "Todo lo que tenés que saber sobre la criptominería en Paraguay"](https://www.tedic.org/cripto_en_py/) (6 noviembre 2024)
 - [Wikipedia — Tiigrihüpe](https://en.wikipedia.org/wiki/Tiigrih%C3%BCpe)
-- [Lead the Shift — "Paraguay's Tech Migration"](https://leadtheshift.com/) (marzo 2025)
 
 <script type="application/ld+json">
 {
@@ -67,26 +60,26 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "¿Cuántos profesionales tech tiene Paraguay?",
+      "name": "¿Cuántos profesionales paraguayos viven en el exterior?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No existe un censo oficial. Las estimaciones varían entre 10.000 y 20.000 profesionales de tecnología en todo el país. El IPS no tiene una categoría separada para el sector tech y el MITIC no publica datos de empleo tecnológico."
+        "text": "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior, remitiendo entre 2.000 y 3.000 millones de dólares al año, entre el 5% y el 7% del PIB. No existe un censo oficial que desglose cuántos son del sector tecnológico."
       }
     },
     {
       "@type": "Question",
-      "name": "¿Cuántos trabajadores necesita un centro de datos como Yguazú Digital?",
+      "name": "¿Tiene Paraguay programas para repatriar talento tech?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Según estimaciones de la industria, se necesitan entre 0.3 y 2 empleados a tiempo completo por megavatio. La fase 1 de Yguazú Digital (10 MW) necesitaría entre 3 y 20 personas. La fase 3 (1.000 MW) requeriría entre 300 y 2.000 trabajadores."
+        "text": "No. Paraguay no tiene un programa de retorno específico para profesionales tecnológicos ni una red organizada de su diáspora tech. Chile tiene ChileGlobal, Argentina tiene RAICES. Paraguay no tiene un equivalente."
       }
     },
     {
       "@type": "Question",
-      "name": "¿Cuántos paraguayos trabajan en tecnología en el exterior?",
+      "name": "¿Por qué el trabajo remoto es un problema para el talento tech en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior, remitiendo entre 2.000 y 3.000 millones de dólares al año. Del programa Becal (3.787 becas para posgrados en el exterior), el 29% no regresó al país. No existe un desglose específico de cuántos de esos profesionales son del sector tecnológico."
+        "text": "El trabajo remoto permite que los desarrolladores ganen salarios internacionales sin emigrar, pero también hace que trabajen para empresas extranjeras sin contribuir al ecosistema local. Las empresas paraguayas compiten por el mismo talento contra empleadores que pagan en dólares desde el exterior."
       }
     }
   ]
