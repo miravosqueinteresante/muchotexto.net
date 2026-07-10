@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Heladas y tensión en la veda — Editorial 9 de julio 2026"
+title: "Heladas y veda, un malestar común — Editorial 9 de julio 2026"
 description: "El Pulso Paraguay de hoy destaca dos temás que, aunque a primera vista parecen desconectados, revelan un trasfondo común de preocupación social el..."
 date: 2026-07-09 18:00:00 -0400
 last_modified_at: 2026-07-09
