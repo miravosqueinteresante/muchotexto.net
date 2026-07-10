@@ -182,6 +182,35 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
             "Agregarlo: git add llms.txt"
         )
 
+    # Check if new article topic is still in Proximamente on pillar page
+    for post_file in staged_posts:
+        post_path = os.path.join(REPO_DIR, post_file)
+        content = read_file(post_path)
+        title = extract_frontmatter_field(content, "title")
+        categories = extract_frontmatter_field(content, "categories", "").strip()
+        if categories != "articulos" or not title:
+            continue
+
+        pillar_path = os.path.join(REPO_DIR, "ia-en-paraguay.markdown")
+        pillar_content = read_file(pillar_path)
+        pm_sections = re.findall(r'\*\*Pr.{1,2}ximamente:\*\*\s*(.+?)(?:\n\n|\n\*|\Z)', pillar_content, re.DOTALL)
+
+        title_words = set(re.findall(r'\w+', title.lower()))
+        # Keep only meaningful words (4+ chars, skip common words)
+        stopwords = {'para', 'como', 'esta', 'entre', 'sobre', 'desde', 'ante', 'hacia', 'tiene', 'entre'}
+        title_keywords = {w for w in title_words if len(w) >= 4 and w not in stopwords}
+
+        for pm_text in pm_sections:
+            pm_text_lower = pm_text.lower()
+            for kw in title_keywords:
+                if kw in pm_text_lower:
+                    errors.append(
+                        f"El articulo '{title[:50]}...' coincide con el keyword '{kw}' "
+                        f"que todavia figura en Proximamente de la pagina pilar. "
+                        "Actualizar ia-en-paraguay.markdown: sacarlo de Proximamente y agregarlo a su pilar."
+                    )
+                    break
+
     return errors, warnings
 
 
