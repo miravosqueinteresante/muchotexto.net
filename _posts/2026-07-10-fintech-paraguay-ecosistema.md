@@ -14,7 +14,7 @@ Paraguay tiene aproximadamente quince bancos comerciales formales y más de cien
 
 Este artículo es un mapa del ecosistema fintech paraguayo: qué es, quiénes son los actores, cómo se regula y por qué Paraguay tiene condiciones para convertirse en un laboratorio financiero regional.
 
-## Cien empresas en busca de cuarenta y cinco millones de clientes
+## Cien empresas en busca de dos millones de clientes sin cuenta
 
 Paraguay tiene aproximadamente 7,5 millones de habitantes. De los adultos, el 60,9% tiene al menos una cuenta en una institución financiera formal, según los datos más recientes del Banco Mundial (Findex 2024). Esto significa que aproximadamente 1,8 millones de adultos paraguayos están completamente fuera del sistema bancario.
 
