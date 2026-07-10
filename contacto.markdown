@@ -2,7 +2,7 @@
 layout: page
 title: Contacto
 permalink: /contacto/
-description: "Contacto, comentarios y política de privacidad de muchotexto.net. Cómo comunicarte con el autor sobre análisis de IA y tecnología en Paraguay."
+description: "Contacto y política de privacidad de muchotexto.net. Cómo comunicarte con el autor sobre análisis de IA y tecnología en Paraguay."
 sitemap: true
 ---
 
@@ -11,7 +11,7 @@ Podés contactarme por cualquiera de estos medios:
 - **Email**: [cesar.sanchez.melgarejo@gmail.com](mailto:cesar.sanchez.melgarejo@gmail.com)
 - **X (Twitter)**: [@cesanz](https://x.com/cesanz)
 
-Respondo personalmente a todos los mensajes. Si tenés comentarios sobre el contenido, ideas para artículos o querés colaborar, escribime sin protocolo.
+Respondo personalmente a todos los mensajes. Si tenés consultas sobre el contenido, ideas para artículos o querés colaborar, escribime sin protocolo.
 
 ## Otras formas de participar
 

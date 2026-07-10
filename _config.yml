@@ -80,7 +80,6 @@ author:
   url: https://muchotexto.net
 tags_path: /tags/
 categories_path: /categories/
-disqus: 
 google_analytics: G-LLZE5F9CB7
 pagination:
   enabled: true
