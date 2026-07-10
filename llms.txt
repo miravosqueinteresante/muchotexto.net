@@ -18,6 +18,7 @@
 ## Cluster IA en Paraguay — 5 pilares temáticos
 
 ### Pilar 1: Infraestructura y energía
+- [Que es un data center y por que Paraguay quiere construir uno](https://muchotexto.net/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)
 - [Yguazú Digital: Paraguay busca ser el hub de IA más grande del mundo](https://muchotexto.net/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
 - [Luces y sombras de la apertura eléctrica: Paraguay y el sector privado](https://muchotexto.net/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
 - [Criptominería en Paraguay: el costo real de la energía barata](https://muchotexto.net/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)
