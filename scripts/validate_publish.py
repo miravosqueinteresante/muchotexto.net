@@ -150,6 +150,28 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     elif len(description) > 155:
         warnings.append(f"Meta description muy larga: {len(description)} chars (max 155)")
 
+    # === ACENTOS FALTANTES ===
+    missing_accents = []
+    checks = [
+        (r'\b(mas) ', 'm\u00e1s'),  # mas -> más (word boundary)
+        (r'\b(esta) ', 'est\u00e1'),  # esta -> está
+        (r'\b(energia)\b', 'energ\u00eda'),  # energia -> energía
+        (r'\b(region)\b', 'regi\u00f3n'),  # region -> región
+        (r'\b(regulacion)\b', 'regulaci\u00f3n'),
+        (r'\b(tecnologia)\b', 'tecnolog\u00eda'),
+        (r'\b(informatica)\b', 'inform\u00e1tica'),
+        (r'\b(educacion)\b', 'educaci\u00f3n'),
+        (r'\b(analisis)\b', 'an\u00e1lisis'),
+        (r'\b(geopolitica)\b', 'geopol\u00edtica'),
+    ]
+    for pattern, correct in checks:
+        text_to_check = f"{title or ''} {description or ''}"
+        if re.search(pattern, text_to_check, re.IGNORECASE):
+            missing_accents.append(f"'{re.search(pattern, text_to_check).group(1)}' deberia ser '{correct}'")
+
+    if missing_accents:
+        errors.append("ACENTOS FALTANTES en titulo o description: " + ", ".join(missing_accents))
+
     words = len(body.split()) if body else 0
     if words and words < 1500:
         warnings.append(f"Articulo corto: {words} palabras (minimo 1.500)")

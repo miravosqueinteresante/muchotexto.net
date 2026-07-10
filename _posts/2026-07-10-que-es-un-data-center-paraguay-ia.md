@@ -5,7 +5,7 @@ date: 2026-07-10
 last_modified_at: 2026-07-10
 categories: articulos
 tags: infraestructura-energia ia-paraguay
-description: "Qué es un data center, cómo funciona, qué tiene adentro y por qué Paraguay con su energia barata quiere construir el mas grande de la region."
+description: "Qué es un data center, cómo funciona, qué tiene adentro y por qué Paraguay con su energía barata quiere construir el más grande de la región."
 ---
 
 En cada artículo de este sitio sobre inteligencia artificial en Paraguay aparece la expresión "centro de datos" o "data center". Yguazú Digital es uno. Los mineros de criptomonedas operan versiones más pequeñas. Los servidores que entrenan a ChatGPT están dentro de uno. Pero rara vez se explica qué es exactamente un data center, qué tiene adentro, por qué consume tanta electricidad y qué lo diferencia de cualquier otro edificio industrial.
