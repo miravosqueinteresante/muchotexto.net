@@ -38,9 +38,9 @@ La [tokenización de activos agropecuarios]({% post_url 2026-05-18-tokenizacion-
 
 ## La urgencia climática
 
-El 2022 fue un año que ningún productor paraguayo va a olvidar. Una sequía severa, impulsada por La Niña, redujo la cosecha de soja en un 60%. Las exportaciones se desplomaron. El PIB del país creció apenas el 0,1% ese año en lugar del 4% proyectado. Todo por un solo evento climático.
+El 2022 fue un año que ningún productor paraguayo va a olvidar. Una sequía severa, impulsada por La Niña, redujo la cosecha de soja en un 60%. Las exportaciones se desplomaron. El PIB del país creció apenas un 0,1% ese año, frente al 4% proyectado antes de la sequía. Todo por un solo evento climático.
 
-Paraguay es uno de los países más vulnerables al cambio climático en América Latina. La temperatura media ya subió 1,5 grados Celsius por encima del nivel preindustrial. Los ciclos de sequía e inundación, impulsados por El Niño y La Niña, son cada vez más extremos. La agricultura —que sostiene la mitad de la economía— no tiene un sistema de alerta temprana dedicado ni herramientas de previsión climática accesibles para el pequeño productor.
+Paraguay es uno de los países más vulnerables al cambio climático en América Latina. La temperatura media ya subió 1,5 grados Celsius por encima del promedio 1961-1990. Los ciclos de sequía e inundación, impulsados por El Niño y La Niña, son cada vez más extremos. La agricultura —que genera la mitad de las exportaciones— no tiene un sistema de alerta temprana dedicado ni herramientas de previsión climática accesibles para el pequeño productor.
 
 La inteligencia artificial puede ayudar. En India, Brasil y Kenia existen modelos predictivos que usan datos satelitales y meteorológicos para anticipar sequías, recomendar fechas de siembra o predecir brotes de plagas. Esa tecnología existe, los datos satelitales son gratuitos (Sentinel-2 de la Agencia Espacial Europea, Landsat de la NASA) y el costo computacional es bajo. Lo que no existe en Paraguay es un sistema que ponga esos datos al alcance del productor que más los necesita.
 
@@ -50,9 +50,9 @@ El Ministerio de Agricultura creó en julio de 2026 una comisión técnica de ri
 
 Los países que avanzaron en agricultura digital no lo hicieron solo por la iniciativa privada. Brasil tiene la Empresa Brasileña de Pesquisa Agropecuária (Embrapa), con 46 centros de investigación y casi 10.000 empleados, que desarrolla tecnología agrícola y la transfiere a los productores. Argentina tiene el Instituto Nacional de Tecnología Agropecuaria (INTA), que desde 1995 investiga agricultura de precisión y capacita a técnicos en todo el país.
 
-Paraguay tiene el Instituto Paraguayo de Tecnología Agraria (IPTA), pero su presupuesto y alcance son incomparables. No tiene un programa dedicado a agricultura de precisión ni un laboratorio de agritech. La Universidad Nacional de Asunción y la Universidad Católica tienen facultades de ciencias agrarias, pero la investigación aplicada en tecnología agrícola es casi inexistente.
+Paraguay tiene el Instituto Paraguayo de Tecnología Agraria (IPTA), pero su presupuesto y alcance son incomparables. No tiene un programa dedicado a agricultura de precisión ni un laboratorio de agritech. La Universidad Nacional de Asunción tiene una Facultad de Ciencias Agrarias, pero la investigación aplicada en tecnología agrícola es casi inexistente.
 
-El país no necesita una ley de agricultura digital —necesita conectividad rural, crédito accesible para tecnología y asistencia técnica que llegue al pequeño productor. Sin esas tres cosas, los drones, los satélites y los sensores de suelo van a seguir siendo herramientas para el 5% de las fincas que ya pueden pagarlos.
+El país no necesita una ley de agricultura digital —necesita conectividad rural, crédito accesible para tecnología y asistencia técnica que llegue al pequeño productor. Son soluciones que actúan dentro de la estructura existente, sin modificarla. La concentración de la tierra —el 1% de las explotaciones todavía controla el 79%— es un problema que ninguna app va a resolver, pero mientras se discute cómo abordarlo, la tecnología que ya existe debería estar al alcance de quienes más la necesitan.
 
 ---
 
