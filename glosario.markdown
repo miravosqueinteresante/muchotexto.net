@@ -25,7 +25,7 @@ Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA,
 
 **PUE (Power Usage Effectiveness)** — Indice que mide la eficiencia energetica de un data center. Un PUE de 1.5 significa que por cada MW utilizado en computo, se gasta 0.5 MW adicional en refrigeracion y perdidas. Paraguay parte en desventaja por su falta de experiencia operando data centers a gran escala.
 
-**ASIC** — Chip especializado en una unica tarea, usado en mineria de bitcoin. A diferencia de las GPUs, que sirven para multiples propositos, los ASICs solo resuelven problemas criptograficos. Tienen una vida util de aproximadamente 1.3 anos y generan residuo electronico.
+**ASIC** — Chip especializado en una unica tarea, usado en mineria de bitcoin. A diferencia de las GPUs, que sirven para multiples propositos, los ASICs solo resuelven problemas criptograficos. Tienen una vida util de entre 3 y 5 anos y generan residuo electronico al finalizar su ciclo.
 → [Criptomineria en Paraguay](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)
 
 **ANDE (Administracion Nacional de Electricidad)** — Empresa estatal que genera, transmite y distribuye la electricidad en Paraguay. Opera con tarifas politicas que no cubren sus costos, lo que limita su capacidad de inversion en la red de transmision.
