@@ -51,6 +51,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Paraguay tiene más fintechs que bancos y recién empieza]({% post_url 2026-07-10-fintech-paraguay-ecosistema %})** - El ecosistema fintech paraguayo, las leyes 7503 y 7572, y la inclusión financiera.
 
 **Próximamente:** Agro 4.0, startups de IA, smart cities.
+- **[El campo paraguayo se moderniza sin el pequeño productor]({% post_url 2026-07-13-agro-40-paraguay-ia %})** - Menos del 5% de las fincas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil.
 
 ## Cultura, filosofía y futuro
 
