@@ -6,6 +6,10 @@ description: "Terminos clave de inteligencia artificial en Paraguay explicados e
 last_modified_at: 2026-07-13
 ---
 
+Este glosario reúne los terminos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definicion conecta con un articulo completo de la [guia de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
+
+Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA, geopolitica, fintech y agro. No estan ordenados alfabeticamente sino por relacion tematica, para que el lector pueda explorar por bloques de interes.
+
 ## Infraestructura y energia
 
 **Data center** — Instalacion que alberga miles de servidores funcionando 24/7 para procesar y almacenar datos. Yguazu Digital proyecta un data center de 1.000 MW en su fase final. Desde los servidores que entrenan a ChatGPT hasta las transacciones financieras, todo pasa por un data center en algun lugar del mundo.
@@ -102,3 +106,7 @@ last_modified_at: 2026-07-13
 
 **Cooperativas (INCOOP)** — Instituciones de credito reguladas por el Instituto Nacional de Cooperativismo. Para millones de paraguayos en zonas rurales, son el unico acceso al sistema financiero. Clave para conectar la tecnologia financiera con el pequeno productor.
 → [Fintech en Paraguay](/articulos/2026/07/10/fintech-paraguay-ecosistema/)
+---
+
+Este glosario se actualiza a medida que crece el ecosistema. Para un analisis completo de cada tema, visita la [guia de IA en Paraguay](/ia-en-paraguay/).
+
