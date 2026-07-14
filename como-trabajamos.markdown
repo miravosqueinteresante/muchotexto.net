@@ -11,7 +11,7 @@ description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuen
 
 No producimos noticias de primera mano. Tomamos información ya publicada por medios paraguayos y la organizamos, sintetizamos e interpretamos.
 
-Nuestro sistema recolecta diariamente el contenido de **15 fuentes de noticias** vía RSS, entre ellas ABC Color, La Nación, Última Hora, Diario HOY, NPY, RDN y otros medios nacionales. Toda la información que procesamos proviene de fuentes públicas y atribuibles.
+Nuestro sistema recolecta diariamente el contenido de **15 fuentes de noticias** vía RSS, entre ellas ABC Color, La Nación, Última Hora, Diario HOY, La Tribuna, NPY, RDN y otros medios nacionales. Toda la información que procesamos proviene de fuentes públicas y atribuibles.
 
 ## Qué hace la inteligencia artificial
 
