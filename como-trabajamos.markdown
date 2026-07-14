@@ -11,7 +11,7 @@ description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuen
 
 No producimos noticias de primera mano. Tomamos información ya publicada por medios paraguayos y la organizamos, sintetizamos e interpretamos.
 
-Nuestro sistema recolecta diariamente el contenido de **15 fuentes de noticias** vía RSS, entre ellas ABC Color, La Nación, Última Hora, Diario HOY, La Tribuna, NPY, RDN y otros medios nacionales. Toda la información que procesamos proviene de fuentes públicas y atribuibles.
+Nuestro sistema recolecta diariamente el contenido de **15 fuentes de noticias** vía RSS, entre ellas ABC Color, La Nación, Última Hora, Diario HOY, La Tribuna, NPY, RDN y otros medios nacionales. Los criterios de selección son: que el medio tenga cobertura nacional verificable, que ofrezca un feed RSS público y actualizado, que represente un espectro editorial diverso y que tenga una trayectoria reconocible en el periodismo paraguayo. Revisamos periódicamente esta selección y podemos agregar o retirar fuentes según su consistencia y relevancia. Toda la información que procesamos proviene de fuentes públicas y atribuibles.
 
 ## Qué hace la inteligencia artificial
 
@@ -31,8 +31,8 @@ El editor humano —César Sánchez— tiene a su cargo:
 
 - **Definir la línea editorial** y los principios que gobiernan el _system prompt_ de la IA.
 - **Seleccionar y mantener las fuentes**: qué medios se incluyen, cuáles se agregan o se retiran, y por qué.
-- **Escribir y editar los artículos de fondo** (ensayos long-form de 1.500 a 2.500 palabras) con asistencia de agentes de IA para la fase de investigación (ver sección siguiente).
-- **Revisar por muestreo** el contenido automatizado diario para detectar errores, sesgos o imprecisiones.
+- **Escribir y editar los artículos de fondo** (ensayos long-form de 1.500 a 2.500 palabras) con asistencia de agentes de IA para la fase de investigación (ver sección siguiente). El editor es el responsable intelectual y editorial del artículo. Las herramientas de IA se utilizan como asistentes de investigación y apoyo a la redacción, pero no sustituyen el juicio editorial humano.
+- **Revisar por muestreo** el contenido automatizado diario: se revisa manualmente una muestra representativa de las publicaciones automatizadas y se amplía la revisión cuando se detectan inconsistencias.
 - **Corregir errores** cuando son detectados o reportados por lectores.
 
 ## Proceso de investigación con agentes de IA
@@ -47,7 +47,7 @@ Los artículos de fondo siguen un proceso estructurado de 7 pasos donde la IA ac
 6. **Enlazado interno**: se insertan de 2 a 3 enlaces a otros artículos del sitio, anclados exclusivamente en hechos verificables presentes en los findings (regla anti-alucinación: si no hay soporte factual, no se crea el enlace).
 7. **Validación**: el artículo pasa por un script de control de calidad (`validate_publish.py`) que verifica longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos y metadatos SEO antes de ser publicado.
 
-Este proceso asegura que cada artículo de fondo esté respaldado por investigación con fuentes reales, no por alucinaciones de un modelo de lenguaje.
+Este proceso reduce significativamente el riesgo de alucinaciones y busca que cada artículo de fondo esté respaldado por fuentes primarias verificables.
 
 ## Infraestructura y herramientas
 
@@ -68,6 +68,16 @@ La combinación de múltiples modelos permite aprovechar las fortalezas de cada 
 
 - **Pulso Paraguay y Editorial Diaria**: toda afirmación fáctica proviene de las fuentes originales procesadas ese día. La IA no genera datos propios. Si una fuente se equivoca, podemos heredar ese error; por eso cada publicación incluye la lista completa de fuentes consultadas para que el lector pueda verificarlas por su cuenta.
 - **Artículos de fondo**: cada afirmación estadística, económica o factual se respalda con enlaces a fuentes originales verificables (institutos públicos, papers académicos, documentos oficiales, informes sectoriales). Si un dato no puede ser verificado con una fuente primaria, se indica explícitamente.
+
+### Qué ocurre cuando las fuentes discrepan
+
+En el procesamiento diario de noticias, es habitual que distintos medios reporten versiones diferentes de un mismo hecho. Nuestro sistema aplica el siguiente criterio:
+
+- Si dos o más fuentes coinciden en un dato, se toma como versión principal y se indica que existe consenso entre medios.
+- Si las fuentes discrepan, se reportan las distintas versiones atribuyendo cada una a su medio de origen, sin tomar partido por ninguna.
+- Si la discrepancia es sobre un dato factual verificable (una cifra oficial, una fecha, un nombre), el editor humano puede intervenir para contrastar con la fuente primaria correspondiente.
+
+Este enfoque permite que el lector conozca tanto los puntos de consenso como las divergencias entre medios, y saque sus propias conclusiones.
 
 ## Cómo corregimos errores
 
