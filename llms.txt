@@ -28,19 +28,19 @@
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
 - [Ley de protección de datos en Paraguay: el marco que la era de la IA necesita](https://muchotexto.net/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 - [Paraguay entre China y Taiwán: el último aliado tecnológico](https://muchotexto.net/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/)
+- [Por qué Taiwán no fabrica semiconductores en Paraguay](https://muchotexto.net/articulos/2026/07/14/semiconductores-taiwan-paraguay/)
 
 ### Pilar 3: IA, sociedad y trabajo
 - [Anotación de datos para IA: la ventaja silenciosa de Paraguay](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)
 - [De la soja al silicio: Paraguay cambia su matriz exportadora](https://muchotexto.net/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/)
 - [Educacion tech en Paraguay: la brecha que frena el hub de IA](https://muchotexto.net/articulos/2026/07/09/educacion-tech-paraguay-ia/)
 - [Paraguay pierde el talento que necesita para ser hub de IA](https://muchotexto.net/articulos/2026/07/10/talento-tech-paraguay-ia/)
-- [Educacion tech en Paraguay: la brecha que frena el hub de IA](https://muchotexto.net/articulos/2026/07/09/educacion-tech-paraguay-ia/)
 
 ### Pilar 4: Tecnología aplicada + ecosistema
-- [Soja, ganado y blockchain: la tokenización del agro en Paraguay
+- [Soja, ganado y blockchain: la tokenización del agro en Paraguay](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)
 - [Paraguay tiene más fintechs que bancos y recién empieza](https://muchotexto.net/articulos/2026/07/10/fintech-paraguay-ecosistema/)
 - [El campo paraguayo se moderniza sin el pequeño productor](https://muchotexto.net/articulos/2026/07/13/agro-40-paraguay-ia/)
-- [Paraguay tiene startups de IA aunque nadie las conoce](https://muchotexto.net/articulos/2026/07/14/startups-ia-paraguay/)](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)
+- [Paraguay tiene startups de IA aunque nadie las conoce](https://muchotexto.net/articulos/2026/07/14/startups-ia-paraguay/)
 - [La IA no es neutral: lo que dice la encíclica del Papa León XIV](https://muchotexto.net/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/)
 
 ### Pilar 5: Cultura, filosofía y futuro
