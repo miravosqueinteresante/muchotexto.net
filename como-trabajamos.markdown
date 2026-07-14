@@ -31,9 +31,38 @@ El editor humano —César Sánchez— tiene a su cargo:
 
 - **Definir la línea editorial** y los principios que gobiernan el _system prompt_ de la IA.
 - **Seleccionar y mantener las fuentes**: qué medios se incluyen, cuáles se agregan o se retiran, y por qué.
-- **Escribir y editar los artículos de fondo** (ensayos long-form de 1.500 a 2.500 palabras), que pasan por investigación manual con múltiples fuentes, verificación cruzada de datos y revisión editorial completa.
+- **Escribir y editar los artículos de fondo** (ensayos long-form de 1.500 a 2.500 palabras) con asistencia de agentes de IA para la fase de investigación (ver sección siguiente).
 - **Revisar por muestreo** el contenido automatizado diario para detectar errores, sesgos o imprecisiones.
 - **Corregir errores** cuando son detectados o reportados por lectores.
+
+## Proceso de investigación con agentes de IA
+
+Los artículos de fondo siguen un proceso estructurado de 7 pasos donde la IA actúa como asistente de investigación, no como autor:
+
+1. **Selección del tema**: verificamos contra nuestro calendario editorial de 42 temas que el tópico no esté duplicado y tenga ángulo original.
+2. **Plan de investigación**: creamos un directorio `research_[tema]/` con un `research_plan.md` que define la pregunta principal, 4 o 5 subtemas específicos y las fuentes esperadas (institutos públicos, papers académicos, documentos oficiales, informes sectoriales).
+3. **Investigación paralela con agentes**: desplegamos de 4 a 5 agentes de IA independientes usando **OpenCode** con capacidad de búsqueda web. Cada agente investiga un subtema distinto en simultáneo, rastreando fuentes primarias verificables. Los resultados se escriben en archivos `findings_N.md` dentro del directorio de investigación.
+4. **Síntesis de hallazgos**: el editor lee y cruza todos los findings, identificando patrones, contradicciones y conexiones entre subtemas que los agentes no pudieron detectar por sí solos.
+5. **Redacción**: el editor escribe el artículo con estructura hook → contexto → 4 a 6 secciones H2 → conclusión → fuentes, usando los hallazgos como materia prima verificada.
+6. **Enlazado interno**: se insertan de 2 a 3 enlaces a otros artículos del sitio, anclados exclusivamente en hechos verificables presentes en los findings (regla anti-alucinación: si no hay soporte factual, no se crea el enlace).
+7. **Validación**: el artículo pasa por un script de control de calidad (`validate_publish.py`) que verifica longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos y metadatos SEO antes de ser publicado.
+
+Este proceso asegura que cada artículo de fondo esté respaldado por investigación con fuentes reales, no por alucinaciones de un modelo de lenguaje.
+
+## Infraestructura y herramientas
+
+Todo el desarrollo, mantenimiento y operación del sitio se gestiona mediante **OpenCode**, un entorno de desarrollo asistido por IA que permite coordinar agentes, ejecutar scripts y desplegar cambios.
+
+Los modelos de lenguaje utilizados en las distintas etapas del proyecto son:
+
+| Modelo | Uso principal |
+|---|---|
+| **DeepSeek** | Investigación con agentes, razonamiento analítico y redacción asistida de artículos de fondo |
+| **MiniMax** | Procesamiento de contenido y tareas de síntesis |
+| **Qwen** | Asistencia en desarrollo, mantenimiento del sitio y validación de código |
+| **GPT-4o** | Generación automatizada de Pulso Paraguay y Editorial Diaria (vía GitHub Models) |
+
+La combinación de múltiples modelos permite aprovechar las fortalezas de cada uno: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario, y capacidad de desarrollo para el mantenimiento técnico del sitio.
 
 ## Cómo verificamos los datos
 
