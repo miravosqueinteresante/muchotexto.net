@@ -8,7 +8,7 @@
 - [Archivo](https://muchotexto.net/archive/): Todos los artículos ordenados por año
 - [Categorías](https://muchotexto.net/categories/): Artículos agrupados por categoría
 - [Etiquetas](https://muchotexto.net/tags/): Artículos agrupados por etiqueta
-- [Acerca de](https://muchotexto.net/about/): Autor, trayectoria y filosofía del blog
+- [Acerca de](https://muchotexto.net/about/): Autor, trayectoria y filosofía del medio digital
 
 ## Contenido recurrente
 

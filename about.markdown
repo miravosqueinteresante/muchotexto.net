@@ -2,14 +2,14 @@
 layout: page
 title: Acerca de
 permalink: /about/
-description: "Conocé al autor de muchotexto.net, su trayectoria en anotación de datos y análisis de IA, y la filosofía de lectura profunda del blog."
+description: "Conocé al autor de muchotexto.net, su trayectoria en anotación de datos y análisis de IA, y la filosofía de lectura profunda del medio digital."
 ---
 
-**muchotexto.net** es el blog de **César Sánchez**, un espacio dedicado al análisis profundo de Paraguay, la tecnología y las ideas que importan. Asistido por inteligencia artificial para investigar, cruzar datos y generar contenido.
+**muchotexto.net** es el medio digital de **César Sánchez**, un espacio dedicado al análisis profundo de Paraguay, la tecnología y las ideas que importan. Asistido por inteligencia artificial para investigar, cruzar datos y generar contenido.
 
 ## Sobre el autor
 
-César Sánchez empezó a explorar la tecnología antes de que existiera un nombre para lo que hace. En 2005 fundó **thelemongroup.net**, uno de los primeros blogs sobre tecnología en Paraguay, en una época en que tener un blog propio requería saber de servidores, DNS y HTML escrito a mano. Desde entonces ha combinado la ingeniería técnica con la comunicación digital con un pie en el código y otro en la estrategia.
+César Sánchez empezó a explorar la tecnología antes de que existiera un nombre para lo que hace. En 2005 fundó **thelemongroup.net**, uno de los primeros medios digitales sobre tecnología en Paraguay, en una época en que publicar en internet requería saber de servidores, DNS y HTML escrito a mano. Desde entonces ha combinado la ingeniería técnica con la comunicación digital con un pie en el código y otro en la estrategia.
 
 Trabajó desarrollando sitios web y aplicaciones para empresas paraguayas, colaboró con marcas en la creación de los primeros contenidos patrocinados del país y dio charlas sobre nuevos medios en universidades, agencias de publicidad y eventos de tecnología. Esa combinación de perfiles —desarrollador que entiende de comunicación, comunicador que entiende de datos— es lo que define su enfoque actual.
 
