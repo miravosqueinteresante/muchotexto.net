@@ -8,7 +8,7 @@ tags: tech-ecosistema ia-paraguay
 description: "Paraguay registró un récord de USD 3.9M en inversión startup en 2025. También entró al Top 100 global de ecosistemas. Pero casi nadie sabe que existen."
 ---
 
-En 2014, un estudio académico intentó mapear el ecosistema de startups de Paraguay. Encontró tan pocas empresas que la muestra no era estadísticamente significativa. Once años después, en 2025, Paraguay registró 3,9 millones de dólares en inversión de capital de riesgo en startups tecnológicas. Parece poco —Chile capta mil millones al año— pero es un crecimiento del 325% respecto al millón de dólares que se invirtió en toda la década anterior.
+Once años después de que un estudio académico apenas encontrara startups para analizar, en 2025 Paraguay registró 3,9 millones de dólares en inversión de capital de riesgo en startups tecnológicas. Parece poco —Chile capta mil millones al año— pero es un crecimiento del 325% respecto al millón de dólares que se invirtió en toda la década anterior.
 
 Ese mismo año, Paraguay ingresó por primera vez al Global Startup Ecosystem Index, en el puesto 95 del mundo. La clasificación mide la actividad de startups en más de 1.000 ciudades globales. Paraguay nunca había aparecido.
 
@@ -34,7 +34,7 @@ Parcapy, la asociación de capital de riesgo de Paraguay, pasó de tener un fond
 
 ## Lo que falta
 
-Todo lo que no existe en el ecosistema startup paraguayo dice tanto como lo que sí existe. No hay un solo fondo de capital de riesgo con sede en Paraguay. No hay una ley de startups que defina incentivos fiscales específicos para empresas tecnológicas emergentes. No hay un solo fundador paraguayo que haya pasado por Y Combinator, la aceleradora más prestigiosa del mundo, por la que pasaron Stripe, Airbnb y Dropbox.
+Todo lo que no existe en el ecosistema startup paraguayo dice tanto como lo que sí existe. No hay un ecosistema de capital de riesgo institucional con sede en Paraguay que pueda financiar startups en etapas avanzadas. No hay una ley de startups que defina incentivos fiscales específicos para empresas tecnológicas emergentes. No hay un solo fundador paraguayo que haya pasado por Y Combinator, la aceleradora más prestigiosa del mundo, por la que pasaron Stripe, Airbnb y Dropbox.
 
 Las rondas de inversión típicas para una startup paraguaya son de 20.000 a 100.000 dólares en etapa pre-seed, generalmente a través de subsidios del CONACYT o del MITIC. Las rondas seed de 100.000 a 1 millón ya son raras y requieren inversores internacionales. Las Series A —un millón de dólares o más— son casi inexistentes. Comparado con Uruguay, que tiene dLocal (valorada en más de 3.000 millones de dólares y cotizando en Nasdaq), Paraguay no tiene ni un solo unicornio, ni una sola salida a bolsa, ni una sola adquisición significativa.
 
