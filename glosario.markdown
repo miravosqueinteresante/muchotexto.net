@@ -62,6 +62,15 @@ Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA,
 **Yguazu Digital** — Proyecto binacional Paraguay-Taiwan para construir uno de los centros de datos de IA mas grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de propiedad 50/50 copiado de Itaipu.
 → [Yguazu Digital y la apuesta de Paraguay](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
 
+**TSMC (Taiwan Semiconductor Manufacturing Company)** — La mayor fundicion de semiconductores del mundo. Fabrica mas del 90% de los chips mas avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturo USD 122.000 millones en 2025. Sus fabricas fuera de Taiwan estan en Arizona, Kumamoto (Japon) y Dresden (Alemania). No tiene presencia en America Latina.
+→ [Por que Taiwan no fabrica semiconductores en Paraguay](/articulos/2026/07/15/semiconductores-taiwan-paraguay/)
+
+**Silicon Shield** — Concepto geopolitico que describe la industria de semiconductores de Taiwan como un activo de defensa estrategica. La logica: el mundo es tan dependiente de los chips taiwaneses que ninguna potencia se atreveria a interrumpir su produccion. Taiwan produce aproximadamente el 60% de todos los semiconductores del mundo.
+→ [Por que Taiwan no fabrica semiconductores en Paraguay](/articulos/2026/07/15/semiconductores-taiwan-paraguay/)
+
+**ASML / litografia EUV** — ASML es la empresa holandesa que fabrica las unicas maquinas de litografia ultravioleta extrema (EUV) del mundo, esenciales para producir chips de 7 nanometros o menos. Una maquina EUV de ultima generacion puede costar hasta USD 340 millones. Sin ASML, TSMC no puede fabricar chips avanzados.
+→ [Por que Taiwan no fabrica semiconductores en Paraguay](/articulos/2026/07/15/semiconductores-taiwan-paraguay/)
+
 **Ley 7593/2025** — Primera ley integral de proteccion de datos personales de Paraguay, vigente desde noviembre de 2027. Alineada con el GDPR europeo, pero con una autoridad sin independencia estructural y multas maximas de USD 160.000.
 → [Ley de proteccion de datos en Paraguay](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 
