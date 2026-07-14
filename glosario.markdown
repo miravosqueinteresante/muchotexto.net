@@ -52,6 +52,9 @@ Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA,
 **Entrenamiento vs inferencia** — Las dos fases de un modelo de IA. El entrenamiento consume enormes cantidades de energia durante semanas. La inferencia (cuando el modelo responde) consume menos por consulta pero se repite millones de veces. Un data center como Yguazu Digital necesita infraestructura distinta para cada fase.
 → [Que es un data center](/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)
 
+**Starlink** — Constelacion de internet satelital de SpaceX (Elon Musk) con mas de 10.000 satelites en orbita baja terrestre. Disponible en Paraguay desde diciembre de 2023, suma 20.000 usuarios —la mayoria rurales— y 1.600 antenas donadas a escuelas. Velocidad: 50-100 Mbps, latencia 25-50ms. Su precio en Paraguay ronda los USD 53 mensuales mas USD 493 por el hardware.
+→ [Starlink en Paraguay](/articulos/2026/07/15/starlink-paraguay-conectividad/)
+
 ---
 
 ## Paraguay y geopolitica
