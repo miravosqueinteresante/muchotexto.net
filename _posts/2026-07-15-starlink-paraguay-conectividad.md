@@ -5,18 +5,18 @@ date: 2026-07-15 21:00:00 -0400
 last_modified_at: 2026-07-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
-description: "Starlink suma 20.000 usuarios en Paraguay, la mayoría rurales. El gobierno donó 1.600 antenas a escuelas. ¿Basta con conectar o el problema es más hondo?"
+description: "Starlink ya suma casi 20.000 usuarios en Paraguay, mayoría rurales. El gobierno donó 1.600 antenas a escuelas. ¿Alcanza con conectar?"
 ---
 
-En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier punto del país mediante una constelación de más de 5.000 satélites —hoy son más de 10.000— orbitando a 550 kilómetros de altura. En diciembre de ese mismo año, los primeros kits llegaron a Paraguay. En julio de 2026, el presidente de CONATEL, Juan Carlos Duarte Duré, confirmó la cifra: 20.000 usuarios activos, la mayoría en el interior del país, donde la fibra óptica no llega ni va a llegar en los próximos años.
+En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier punto del país mediante una constelación de más de 5.000 satélites —hoy son más de 10.000— orbitando a 550 kilómetros de altura. En diciembre de ese mismo año, los primeros kits llegaron a Paraguay. En julio de 2026, el presidente de CONATEL, Juan Carlos Duarte Duré, confirmó la cifra: casi 20.000 usuarios activos, la mayoría en el interior del país, donde la fibra óptica no llega ni va a llegar en los próximos años.
 
 Starlink funciona. La pregunta que este artículo explora es si funciona para lo que Paraguay necesita.
 
 ## Cómo Starlink pasó de cero a 20.000 paraguayos en tres años
 
-El lanzamiento fue rápido y sin fricción regulatoria. CONATEL aprobó la licencia en octubre de 2023, Paraguay se convirtió en el país número 70 del mundo y el decimotercero de América Latina con Starlink disponible, y para fin de ese año la empresa ya estaba enviando equipos. A julio de 2026, el costo mensual ronda los 53 dólares —aproximadamente 327.000 guaraníes— y el kit de hardware cuesta unos 493 dólares. Los envíos en área metropolitana salen 22 dólares adicionales.
+El lanzamiento fue rápido y sin fricción regulatoria. CONATEL aprobó la licencia en octubre de 2023, Paraguay se convirtió en uno de los primeros países de América Latina con Starlink disponible, y para fin de ese año la empresa ya estaba enviando equipos. A julio de 2026, el costo mensual ronda los 53 dólares —aproximadamente 327.000 guaraníes— y el kit de hardware cuesta unos 493 dólares. Los envíos en área metropolitana salen 22 dólares adicionales.
 
-En el contexto latinoamericano, Paraguay está en el tercio medio-alto de la tabla de precios. Brasil paga 35 dólares por mes, Argentina 38, Chile 50, Perú 49. Paraguay es un 50% más caro que Brasil y un 40% más caro que Argentina. La diferencia responde al costo logístico de operar en un país sin salida al mar y con aduanas que no son conocidas por su eficiencia, pero también a la ausencia de competencia directa: en las zonas rurales donde Starlink opera, la alternativa no es otra empresa de internet satelital —es no tener internet.
+En el contexto latinoamericano, Paraguay está en el tercio medio-alto de la tabla de precios. Brasil paga 35 dólares por mes, Argentina 38, Chile 50, Perú 49. Paraguay es aproximadamente un 50% más caro que Brasil y un 40% más caro que Argentina. La diferencia responde al costo logístico de operar en un país sin salida al mar y con aduanas que no son conocidas por su eficiencia, pero también a la ausencia de competencia directa: en las zonas rurales donde Starlink opera, la alternativa no es otra empresa de internet satelital —es no tener internet.
 
 En julio de 2026, CONATEL autorizó a Starlink a operar con potencia por encima de los límites establecidos por la Unión Internacional de Telecomunicaciones, convirtiendo a Paraguay en uno de los primeros países del mundo en aprobar ese aumento. El resultado técnico es una multiplicación por ocho de la capacidad de la red en el país, con velocidades que pueden alcanzar un gigabit por segundo. Para ponerlo en contexto: la velocidad promedio de internet móvil en Paraguay era de 19 megabits por segundo en enero de 2025. Starlink, con la nueva autorización, puede ser 50 veces más rápido que el promedio móvil paraguayo.
 
@@ -32,7 +32,7 @@ Pero incluso donde Starlink está disponible, hay una barrera anterior a la cone
 
 ## Mil seiscientas escuelas conectadas (y lo que eso prueba)
 
-El gobierno paraguayo entendió el problema y actuó. En junio de 2026, el Ministerio de Tecnologías de la Información y Comunicación anunció la donación de 1.600 kits de Starlink para escuelas rurales, con un alcance proyectado de 50.000 estudiantes y docentes en 500 sitios —escuelas y centros de salud. Las primeras 100 antenas se instalaron en el Chaco. Estados Unidos aportó 3 millones de dólares en 2024 para financiar internet satelital en zonas rurales de Paraguay. La COPACO y el Ministerio de Justicia pusieron a personas privadas de libertad a fabricar los soportes metálicos para las antenas.
+El gobierno paraguayo entendió el problema y actuó. En junio de 2026, el Ministerio de Tecnologías de la Información y Comunicación anunció la donación de 1.600 kits de Starlink para escuelas rurales, con un alcance proyectado de 50.000 estudiantes y docentes en 500 sitios —escuelas y centros de salud. Las primeras 100 antenas se instalaron en el Chaco. Estados Unidos aportó 3 millones de dólares en 2024 para financiar internet satelital en zonas rurales de Paraguay.
 
 El programa es, en escala y ambición, lo más parecido que Paraguay tiene a una política de conectividad universal. Pero 1.600 antenas para medio millar de sitios es un primer paso, no una solución. Paraguay tiene más de 8.000 escuelas públicas, miles de ellas rurales y multigrado —un solo maestro para varios grados en una misma aula—, muchas sin electricidad, sin agua corriente y sin baños. Conectar una escuela que no tiene luz es una hazaña técnica que requiere paneles solares, baterías, inversores y mantenimiento. El kit de Starlink es la parte fácil.
 
@@ -50,7 +50,7 @@ Esto no es una teoría conspirativa. Es el modelo de negocio de una empresa cuyo
 
 ## Lo que Starlink prueba y lo que no
 
-Starlink es, técnicamente, el mejor sistema de conectividad rural que existe. Ninguna otra tecnología puede ofrecer 100 megabits por segundo en una comunidad chaqueña a 300 kilómetros de la ruta asfaltada más cercana. En tres años pasó de ser una promesa a ser una realidad: 20.000 paraguayos que antes no tenían internet ahora lo tienen, 1.600 escuelas que van a recibir conectividad, 100 antenas ya instaladas en el Chaco. Nada de eso existía en 2022.
+Starlink es, técnicamente, el mejor sistema de conectividad rural que existe. Ninguna otra tecnología puede ofrecer 100 megabits por segundo en una comunidad chaqueña a 300 kilómetros de la ruta asfaltada más cercana. En tres años pasó de ser una promesa a ser una realidad: casi 20.000 paraguayos que antes no tenían internet ahora lo tienen, 1.600 escuelas que van a recibir conectividad, 100 antenas ya instaladas en el Chaco. Nada de eso existía en 2022.
 
 Pero Starlink no resuelve la falta de electricidad en las comunidades indígenas, ni la ausencia de docentes formados en tecnología, ni el hecho de que más de la mitad de los indígenas paraguayos no sabe leer ni escribir. Starlink resuelve el problema de la señal. El problema de Paraguay es más grande que la señal.
 
