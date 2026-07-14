@@ -87,7 +87,7 @@ Si detectás un error en cualquier contenido de muchotexto.net:
 2. Revisaremos el reporte y, de confirmarse el error, corregiremos el contenido indicando la fecha de la última modificación.
 3. Las correcciones sustanciales se mencionan al pie del artículo con una nota de fe de erratas.
 
-Cada artículo incluye una fecha de última modificación (`last_modified_at`) visible para el lector.
+Cada artículo registra en sus metadatos una fecha de última modificación (`last_modified_at`). Esta fecha se vuelve visible para el lector junto a la fecha de publicación original cuando el artículo fue corregido con posterioridad.
 
 ## Principios editoriales
 
