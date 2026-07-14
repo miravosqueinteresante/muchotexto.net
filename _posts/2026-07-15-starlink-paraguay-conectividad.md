@@ -8,7 +8,7 @@ tags: sociedad-trabajo ia-paraguay
 description: "Starlink suma 20.000 usuarios en Paraguay, la mayoría rurales. El gobierno donó 1.600 antenas a escuelas. ¿Basta con conectar o el problema es más hondo?"
 ---
 
-En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier punto del país mediante una constelación de más de 5.000 satélites —hoy son más de 10.000— orbitando a 550 kilómetros de altura. En diciembre de ese mismo año, los primeros kits llegaron a Paraguay. En julio de 2026, la presidenta de CONATEL confirmó la cifra: 20.000 usuarios activos, la mayoría en el interior del país, donde la fibra óptica no llega ni va a llegar en los próximos años.
+En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier punto del país mediante una constelación de más de 5.000 satélites —hoy son más de 10.000— orbitando a 550 kilómetros de altura. En diciembre de ese mismo año, los primeros kits llegaron a Paraguay. En julio de 2026, el presidente de CONATEL, Juan Carlos Duarte Duré, confirmó la cifra: 20.000 usuarios activos, la mayoría en el interior del país, donde la fibra óptica no llega ni va a llegar en los próximos años.
 
 Starlink funciona. La pregunta que este artículo explora es si funciona para lo que Paraguay necesita.
 
