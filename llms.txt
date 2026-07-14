@@ -39,7 +39,8 @@
 ### Pilar 4: Tecnología aplicada + ecosistema
 - [Soja, ganado y blockchain: la tokenización del agro en Paraguay
 - [Paraguay tiene más fintechs que bancos y recién empieza](https://muchotexto.net/articulos/2026/07/10/fintech-paraguay-ecosistema/)
-- [El campo paraguayo se moderniza sin el pequeño productor](https://muchotexto.net/articulos/2026/07/13/agro-40-paraguay-ia/)](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)
+- [El campo paraguayo se moderniza sin el pequeño productor](https://muchotexto.net/articulos/2026/07/13/agro-40-paraguay-ia/)
+- [Paraguay tiene startups de IA aunque nadie las conoce](https://muchotexto.net/articulos/2026/07/14/startups-ia-paraguay/)](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)
 - [La IA no es neutral: lo que dice la encíclica del Papa León XIV](https://muchotexto.net/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/)
 
 ### Pilar 5: Cultura, filosofía y futuro

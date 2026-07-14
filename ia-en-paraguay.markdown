@@ -53,6 +53,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 **Próximamente:** Agro 4.0, startups de IA, smart cities.
 - **[El campo paraguayo se moderniza sin el pequeño productor]({% post_url 2026-07-13-agro-40-paraguay-ia %})** - Menos del 5% de las fincas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil.
 
+- **[Paraguay tiene startups de IA aunque nadie las conoce]({% post_url 2026-07-14-startups-ia-paraguay %})** - El ecosistema startup de IA en Paraguay: USD 3.9M en inversión en 2025, Autograph, KOGA y lo que falta.
 ## Cultura, filosofía y futuro
 
 La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacionamos y qué creemos que es posible.
