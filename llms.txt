@@ -43,10 +43,10 @@
 - [Paraguay tiene más fintechs que bancos y recién empieza](https://muchotexto.net/articulos/2026/07/10/fintech-paraguay-ecosistema/)
 - [El campo paraguayo se moderniza sin el pequeño productor](https://muchotexto.net/articulos/2026/07/13/agro-40-paraguay-ia/)
 - [Paraguay tiene startups de IA aunque nadie las conoce](https://muchotexto.net/articulos/2026/07/14/startups-ia-paraguay/)
-- [La IA no es neutral: lo que dice la encíclica del Papa León XIV](https://muchotexto.net/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/)
 
 ### Pilar 5: Cultura, filosofía y futuro
 - [La IA cuesta más que los humanos que reemplazó: los números](https://muchotexto.net/articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/)
+- [La IA no es neutral: lo que dice la encíclica del Papa León XIV](https://muchotexto.net/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/)
 - [5 tecnologías que prometieron cambiar todo pero no cambiaron nada](https://muchotexto.net/articulos/2026/05/15/cinco-tecnologias-que-prometieron-cambiar-todo/)
 - [El laboratorio americano: cómo EE.UU. usa IA para reinventar el fútbol](https://muchotexto.net/articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/)
 - [¿Qué es realmente el fútbol?](https://muchotexto.net/articulos/2026/06/10/que-es-realmente-el-futbol/)
