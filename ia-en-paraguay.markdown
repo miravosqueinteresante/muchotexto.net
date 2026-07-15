@@ -3,7 +3,7 @@ layout: page
 title: "Inteligencia Artificial en Paraguay: Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Guía completa de inteligencia artificial en Paraguay. Data centers, energía, regulación, empleo tech, geopolítica y el impacto de la IA en la sociedad paraguaya."
-last_modified_at: 2026-07-16
+last_modified_at: 2026-07-17
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -54,8 +54,9 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Paraguay tiene más fintechs que bancos y recién empieza]({% post_url 2026-07-10-fintech-paraguay-ecosistema %})** - El ecosistema fintech paraguayo, las leyes 7503 y 7572, y la inclusión financiera.
 - **[El campo paraguayo se moderniza sin el pequeño productor]({% post_url 2026-07-13-agro-40-paraguay-ia %})** - Menos del 5% de las fincas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil.
 - **[Paraguay tiene startups de IA aunque nadie las conoce]({% post_url 2026-07-14-startups-ia-paraguay %})** - El ecosistema startup de IA en Paraguay: USD 3.9M en inversión en 2025, Autograph, KOGA y lo que falta.
+- **[Por qué Asunción no es una ciudad inteligente todavía]({% post_url 2026-07-17-smart-cities-asuncion-paraguay %})** - Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?
 
-**Próximamente:** Smart cities, IA y periodismo, IA en la justicia, e-commerce y logística, cadena de valor del data center.
+**Próximamente:** IA y periodismo, IA en la justicia, e-commerce y logística, cadena de valor del data center.
 
 ## Cultura, filosofía y futuro
 
