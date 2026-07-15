@@ -32,7 +32,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** - TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?
 
-**Próximamente:** Ciberseguridad y el modelo Itaipú aplicado a la IA.
+**Próximamente:** Ciberseguridad, Silicon Valley en el Cono Sur, y el modelo Itaipú aplicado a la IA.
 
 ## IA, sociedad y trabajo
 
@@ -44,7 +44,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** - Paraguay no tiene programas de retorno ni red de diaspora tech para traer de vuelta a sus profesionales.
 - **[Starlink ya conecta a 20.000 paraguayos donde la fibra no llega]({% post_url 2026-07-15-starlink-paraguay-conectividad %})** - Starlink opera en Paraguay desde 2023. Mil seiscientas antenas en escuelas rurales, 20.000 usuarios y una pregunta: ¿basta con conectar?
 
-**Próximamente:** Gobierno digital, IA en salud.
+**Próximamente:** Gobierno digital, IA en salud, IA y corrupción.
 
 ## Tecnología aplicada y ecosistema
 
@@ -87,7 +87,7 @@ Cada semana publicamos uno o dos artículos nuevos. Esta guía se actualiza con 
     "url": "https://muchotexto.net/about/"
   },
   "datePublished": "2026-07-07T00:00:00-04:00",
-  "dateModified": "2026-07-09T00:00:00-04:00",
+  "dateModified": "2026-07-16T00:00:00-04:00",
   "image": {
     "@type": "ImageObject",
     "url": "https://muchotexto.net/assets/images/og-image.png"
