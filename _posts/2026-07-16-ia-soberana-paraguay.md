@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
-date: 2026-07-16 20:00:00 -0400
+date: 2026-07-16
 last_modified_at: 2026-07-16
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
