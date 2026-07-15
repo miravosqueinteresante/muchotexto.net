@@ -30,8 +30,9 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Ley de protección de datos en Paraguay: el marco que la era de la IA necesita]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** - Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
 - **[Paraguay entre China y Taiwán: el último aliado tecnológico]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** - Paraguay es el último país de Sudamérica que reconoce a Taiwán.
 - **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** - TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
+- **[La IA soberana que Paraguay necesita y no puede pagar]({% post_url 2026-07-15-ia-soberana-paraguay %})** - Quince países construyen su propia inteligencia artificial. Paraguay no tiene estrategia, no tiene modelos y no tiene presupuesto. Pero el camino existe.
 
-**Próximamente:** IA soberana, ciberseguridad, y el modelo Itaipú aplicado a la IA.
+**Próximamente:** Ciberseguridad, y el modelo Itaipú aplicado a la IA.
 
 ## IA, sociedad y trabajo
 
