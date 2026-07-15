@@ -29,7 +29,7 @@
 - [Ley de protección de datos en Paraguay: el marco que la era de la IA necesita](https://muchotexto.net/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 - [Paraguay entre China y Taiwán: el último aliado tecnológico](https://muchotexto.net/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/)
 - [Por qué Taiwán no fabrica semiconductores en Paraguay](https://muchotexto.net/articulos/2026/07/14/semiconductores-taiwan-paraguay/)
-- [La IA soberana que Paraguay necesita y no puede pagar](https://muchotexto.net/articulos/2026/07/15/ia-soberana-paraguay/)
+- [Paraguay tiene más GPU que estrategia para inteligencia artificial](https://muchotexto.net/articulos/2026/07/16/ia-soberana-paraguay/)
 
 ### Pilar 3: IA, sociedad y trabajo
 - [Anotación de datos para IA: la ventaja silenciosa de Paraguay](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)

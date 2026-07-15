@@ -65,6 +65,9 @@ Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA,
 **Yguazu Digital** — Proyecto binacional Paraguay-Taiwan para construir uno de los centros de datos de IA mas grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de propiedad 50/50 copiado de Itaipu.
 → [Yguazu Digital y la apuesta de Paraguay](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
 
+**IA soberana (Sovereign AI)** — Concepto impulsado por Jensen Huang (NVIDIA) desde 2023 que propone que cada pais tenga su propia infraestructura, datos y modelos de inteligencia artificial. Sus cinco componentes: soberania de datos, de infraestructura, de modelo, regulatoria y de conocimiento. Paraguay tiene infraestructura (HIVE, Yguazu Digital) pero carece de estrategia nacional y de un modelo de IA propio en espanol y guarani.
+→ [Paraguay tiene mas GPU que estrategia para inteligencia artificial](/articulos/2026/07/16/ia-soberana-paraguay/)
+
 **TSMC (Taiwan Semiconductor Manufacturing Company)** — La mayor fundicion de semiconductores del mundo. Fabrica mas del 90% de los chips mas avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturo USD 122.000 millones en 2025. Sus fabricas fuera de Taiwan estan en Arizona, Kumamoto (Japon) y Dresden (Alemania). No tiene presencia en America Latina.
 → [Por que Taiwan no fabrica semiconductores en Paraguay](/articulos/2026/07/15/semiconductores-taiwan-paraguay/)
 
