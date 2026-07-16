@@ -48,7 +48,7 @@ El tercer cuello de botella es anterior a la tecnología. El 62% de la fuerza la
 
 ## Lo que cuesta no terminar lo empezado
 
-Las cuentas son conocidas. Un trámite presencial le cuesta al Estado y al ciudadano entre 10 y 25 euros, según el benchmark de la Comisión Europea. Un trámite en línea cuesta entre 0,50 y 3 euros. La diferencia es un factor de cinco a cincuenta veces.
+Las cuentas son conocidas. Un trámite presencial le cuesta al Estado y al ciudadano entre 10 y 25 dólares, según el benchmark de gobierno digital de la Comisión Europea. Un trámite en línea cuesta entre 0,50 y 3 dólares. La diferencia es un factor de cinco a cincuenta veces.
 
 Pero el costo más grande no se mide en euros por trámite. Se mide en oportunidades de corrupción. Paraguay ocupa el puesto 150 de 180 países en el Índice de Percepción de la Corrupción de Transparencia Internacional, con 24 puntos sobre 100. Cada ventanilla que un ciudadano tiene que visitar, cada papel que necesita autenticar, cada firma que un funcionario debe estampar es un punto de fricción donde puede aparecer un cobro indebido. La digitalización no elimina la corrupción, pero elimina al intermediario.
 
