@@ -50,7 +50,7 @@ Crusoe AI fue fundada en 2018 por Chase Lochmiller y Cully Cavness con una idea 
 
 Crusoe comenzó minando Bitcoin. Luego pivotó a la nube de GPU para inteligencia artificial. En marzo de 2025 vendió su unidad de minería a NYDIG y se convirtió oficialmente en una empresa de infraestructura de IA. Founders Fund, la firma de Thiel, lideró su ronda Serie D de 600 millones de dólares en diciembre de 2024, a una valuación de 2,8 mil millones. Para 2025, Crusoe ya valía cerca de 10 mil millones.
 
-Hoy, Crusoe construye centros de datos masivos: el campus Abilene en Texas, de 1,2 GW, parte del megaproyecto Stargate (500 mil millones de dólares); el proyecto Jade en Wyoming, de 2,7 GW, el más grande en tramitación en Estados Unidos. Sus clientes incluyen Oracle, OpenAI, Microsoft y NVIDIA. Su plan internacional empezó en Argentina (Vaca Muerta, 2023) y ahora apunta a Paraguay.
+Hoy, Crusoe construye centros de datos masivos: el campus Abilene en Texas, de 1,2 GW, parte del megaproyecto Stargate (500 mil millones de dólares); el proyecto Jade en Wyoming, de 1,8 GW —expandible a 10 GW—, el más grande en tramitación en Estados Unidos. Sus clientes incluyen Oracle, OpenAI, Microsoft y NVIDIA. Su plan internacional empezó en Argentina (Vaca Muerta, 2023) y ahora apunta a Paraguay.
 
 Crusoe no necesita que Paraguay tenga industria tecnológica. No necesita talento local avanzado. Necesita dos cosas: energía barata y un gobierno dispuesto a recibirlo. Paraguay tiene ambos.
 

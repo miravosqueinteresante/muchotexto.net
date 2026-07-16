@@ -20,7 +20,7 @@ El precio de la electricidad industrial para minería en Paraguay oscila entre 0
 
 El operador más grande es HIVE Digital, una empresa canadiense que opera 200 megavatios y está expandiendo a 400. Le siguen Pow.re (también canadiense), Teratech SA y Penguin Digital (paraguayas). La Cámara Paraguaya de Minería de Activos Digitales (CAPAMAD) estima una inversión acumulada de más de 1.100 millones de dólares en infraestructura: 100 millones en data centers, 20 millones en subestaciones eléctricas y hasta 1.000 millones en equipos de procesamiento.
 
-Pero no todo es expansión. Bitfarms, uno de los mineros más grandes que operaban en Paraguay, abandonó el país en enero de 2026 con una pérdida contable de 30 millones de dólares. Alps Blockchain, un operador italiano, se fue en 2025 con 40 millones de euros en equipos. Al menos diez empresas mineras cerraron operaciones en los últimos dos años. El motivo recurrente: el aumento de tarifas y la incertidumbre regulatoria.
+Pero no todo es expansión. Bitfarms, uno de los mineros más grandes que operaban en Paraguay, abandonó el país en enero de 2025 con una pérdida contable de 30 millones de dólares. Alps Blockchain, un operador italiano, se fue en 2025 con 40 millones de euros en equipos. Al menos diez empresas mineras cerraron operaciones en los últimos dos años. El motivo recurrente: el aumento de tarifas y la incertidumbre regulatoria.
 
 ## ANDE contra los mineros: la guerra por los megavatios
 

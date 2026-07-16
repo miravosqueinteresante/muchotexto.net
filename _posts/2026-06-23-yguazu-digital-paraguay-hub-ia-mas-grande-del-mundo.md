@@ -8,7 +8,7 @@ tags: infraestructura-energia ia-paraguay
 description: "Fase I: 10 MW y $200M. Fase III: 1 GW y $40.000M. Paraguay y Taiwán anunciaron uno de los centros de IA más ambiciosos del planeta. ¿Es viable o es un castillo en el aire?"
 ---
 
-¿Qué se necesita para transformar a un país agroexportador de 7 millones de habitantes en un polo de inteligencia artificial? Energía barata, chips de última generación, un socio tecnológico de primer nivel y la voluntad política de hacerlo. Paraguay tiene todo eso sobre la mesa. La pregunta es si tiene también lo que no se ve en los anuncios: la red de transmisión que aguante, el talento que opere, los contratos que financien y la estabilidad geopolítica que sostenga.
+¿Qué se necesita para transformar a un país agroexportador de 6,5 millones de habitantes en un polo de inteligencia artificial? Energía barata, chips de última generación, un socio tecnológico de primer nivel y la voluntad política de hacerlo. Paraguay tiene todo eso sobre la mesa. La pregunta es si tiene también lo que no se ve en los anuncios: la red de transmisión que aguante, el talento que opere, los contratos que financien y la estabilidad geopolítica que sostenga.
 
 El proyecto se llama Yguazú Digital. El nombre viene del guaraní: *y* (agua) + *guasu* (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones: convertir la energía en poder de cómputo. El 8 de mayo de 2026, en el palacio presidencial de Taiwán, los cancilleres de ambos países firmaron el Memorándum de Entendimiento. Lo presenciaron los presidentes Santiago Peña y Lai Ching-te. Lo que sigue es un análisis de lo que se sabe, lo que se prometió y lo que falta para que la promesa se vuelva realidad.
 
@@ -74,7 +74,7 @@ Finimize lo resumió en junio de 2026: la línea de tiempo de fines de 2027 "dep
 
 ### Talento: el cuello de botella silencioso
 
-Paraguay tiene una población de 7,5 millones de habitantes y una oferta limitada de graduados en ingeniería y ciencias de la computación. No existe un dato público preciso de cuántos ingenieros de software o data scientists se gradúan por año, pero las estimaciones los ubican en los miles bajos. Para operar un data center de 100 megavatios —y mucho menos uno de 1 gigavatio— se necesitan cientos de técnicos especializados en refrigeración, redes, seguridad física, administración de sistemas y operaciones de IA.
+Paraguay tiene una población de 6,5 millones de habitantes y una oferta limitada de graduados en ingeniería y ciencias de la computación. No existe un dato público preciso de cuántos ingenieros de software o data scientists se gradúan por año, pero las estimaciones los ubican en los miles bajos. Para operar un data center de 100 megavatios —y mucho menos uno de 1 gigavatio— se necesitan cientos de técnicos especializados en refrigeración, redes, seguridad física, administración de sistemas y operaciones de IA.
 
 El gobierno es consciente del déficit. Los programas Becas TIC y Bootcamp TIC del MITIC existen precisamente porque el sistema educativo formal no produce suficiente talento digital. La Universidad Politécnica Paraguay-Taiwán proyecta graduar 500 ingenieros por año. Peña anunció 7.000 becas para el ecosistema tecnológico. Todo esto va en la dirección correcta, pero los resultados se miden en años, no en meses.
 

@@ -20,7 +20,7 @@ La asociación de la industria tecnológica estima que hay entre 3.000 y 8.000 d
 
 ## 55 universidades, un solo ranking
 
-Paraguay invierte el 4.3% de su PIB en educación, el porcentaje más bajo de Sudamérica y muy por debajo del promedio regional. La Constitución paraguaya fija un mandato del 7% del PIB para educación, que el gobierno no cumple. Los resultados de esa brecha se reflejan en las pruebas PISA 2022, donde Paraguay obtuvo 366 puntos en matemáticas y 370 en lectura, los puntajes más bajos de la región.
+Paraguay invierte el 4.3% de su PIB en educación, el porcentaje más bajo de Sudamérica y muy por debajo del promedio regional. La Constitución paraguaya, en su artículo 85, establece que los recursos para educación no serán inferiores al 20% del presupuesto de la Administración Central —un mandato que el gobierno no cumple. Los resultados de esa brecha se reflejan en las pruebas PISA 2022, donde Paraguay obtuvo 366 puntos en matemáticas y 370 en lectura, los puntajes más bajos de la región.
 
 De las cincuenta y cinco universidades, muchas son pequeñas instituciones privadas de calidad inconsistente que ofrecen carreras de baja demanda. La Universidad Nacional de Asunción es la única paraguaya que aparece en rankings internacionales con regularidad, en el puesto 3.583 del ranking mundial Webometrics. La cantidad de universidades no se traduce en diversidad de oferta ni en calidad educativa.
 

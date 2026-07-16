@@ -8,7 +8,7 @@ tags: tech-ecosistema ia-paraguay
 description: "Paraguay registró un récord de USD 3.9M en inversión startup en 2025. También entró al Top 100 global de ecosistemas. Pero casi nadie sabe que existen."
 ---
 
-Once años después de que un estudio académico apenas encontrara startups para analizar, en 2025 Paraguay registró 3,9 millones de dólares en inversión de capital de riesgo en startups tecnológicas. Parece poco —Chile capta mil millones al año— pero es un crecimiento del 325% respecto al millón de dólares que se invirtió en toda la década anterior.
+Once años después de que un estudio académico apenas encontrara startups para analizar, en 2025 Paraguay registró 3,9 millones de dólares en inversión de capital de riesgo en startups tecnológicas. Parece poco —Chile capta mil millones al año— pero es un crecimiento de casi el 300% respecto al millón de dólares que se invirtió en toda la década anterior.
 
 Ese mismo año, Paraguay ingresó por primera vez al Global Startup Ecosystem Index, en el puesto 95 del mundo. La clasificación mide la actividad de startups en más de 1.000 ciudades globales. Paraguay nunca había aparecido.
 
@@ -73,7 +73,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Cuánta inversión reciben las startups paraguayas?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "En 2025 Paraguay registró un récord de USD 3,9 millones en inversión de capital de riesgo en startups tech. Es un crecimiento del 325% respecto al millón de dólares invertido en toda la década anterior. Sin embargo, no existe un fondo de VC con sede en Paraguay y las Series A son casi inexistentes."
+        "text": "En 2025 Paraguay registró un récord de USD 3,9 millones en inversión de capital de riesgo en startups tech. Es un crecimiento de casi el 300% respecto al millón de dólares invertido en toda la década anterior. Sin embargo, no existe un fondo de VC con sede en Paraguay y las Series A son casi inexistentes."
       }
     },
     {

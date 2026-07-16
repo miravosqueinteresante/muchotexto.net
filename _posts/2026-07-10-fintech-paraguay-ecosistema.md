@@ -16,7 +16,7 @@ Este artículo es un mapa del ecosistema fintech paraguayo: qué es, quiénes so
 
 ## Cien empresas en busca de dos millones de clientes sin cuenta
 
-Paraguay tiene aproximadamente 7,5 millones de habitantes. De los adultos, el 60,9% tiene al menos una cuenta en una institución financiera formal, según los datos más recientes del Banco Mundial (Findex 2024). Esto significa que aproximadamente 1,8 millones de adultos paraguayos están completamente fuera del sistema bancario.
+Paraguay tiene aproximadamente 7,5 millones de habitantes. De los adultos, el 60,9% tiene al menos una cuenta en una institución financiera formal, según los datos más recientes de la base Global Findex del Banco Mundial. Esto significa que aproximadamente 1,8 millones de adultos paraguayos están completamente fuera del sistema bancario.
 
 El ratio es bajo incluso para los estándares latinoamericanos. Brasil tiene un 86% de inclusión financiera. Chile un 85%. Argentina un 82%. Uruguay un 74%. Paraguay supera apenas a Perú (59%) y Colombia (57%). Pero hay un dato que cambia la lectura: en 2011, solo el 21,7% de los paraguayos tenía cuenta bancaria. En trece años, la bancarización se triplicó. La velocidad de cambio sugiere que el mercado no está estancado: está en plena transformación.
 
@@ -57,7 +57,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 ## Fuentes
 
 - [BCP — "Sistema de Pagos Instantáneos SPI: estadísticas"](https://www.bcp.gov.py/sistema-de-pagos-instantaneos-spi-i440)
-- [Banco Mundial — Global Findex Database 2024](https://www.worldbank.org/en/publication/globalfindex)
+- [Banco Mundial — Global Findex Database](https://www.worldbank.org/en/publication/globalfindex)
 - [ABC Color — "Cámara de Fintech celebra nueva ley de pagos"](https://www.abc.com.py/negocios/2025/06/17/camara-de-fintech-celebra-nueva-ley-de-pagos-e-impulso-a-la-inclusion-financiera/) (17 junio 2025)
 - [BCP — "Ley N° 7503/2025: Sistema Nacional de Pagos"](https://www.bcp.gov.py/ley-7503-2025-sistema-nacional-de-pagos-i429)
 - [ABC Color — "La revolución silenciosa de los pagos digitales en Paraguay"](https://www.abc.com.py/negocios/2025/09/25/la-revolucion-silenciosa-de-los-pagos-digitales-en-paraguay/) (25 septiembre 2025)
@@ -80,7 +80,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Qué nivel de inclusión financiera tiene Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El 60,9% de los adultos paraguayos tiene al menos una cuenta financiera formal (Findex 2024). Es el quinto mejor índice de Sudamérica, por detrás de Brasil, Chile, Argentina y Uruguay, pero por delante de Perú y Colombia. Aproximadamente 1,8 millones de adultos no tienen acceso al sistema bancario."
+        "text": "El 60,9% de los adultos paraguayos tiene al menos una cuenta financiera formal (Global Findex). Es el quinto mejor índice de Sudamérica, por detrás de Brasil, Chile, Argentina y Uruguay, pero por delante de Perú y Colombia. Aproximadamente 1,8 millones de adultos no tienen acceso al sistema bancario."
       }
     },
     {

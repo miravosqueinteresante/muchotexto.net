@@ -8,7 +8,7 @@ tags: infraestructura-energia
 description: "Paraguay habilita por primera vez la generación privada de energía renovable. Entre el fin del monopolio de la ANDE y los riesgos de corrupción, ¿qué significa el Decreto 6034?"
 ---
 
-El 20 de mayo de 2026, Santiago Peña firmó el Decreto 6034. Con esa firma, Paraguay habilitó por primera vez en su historia que empresas privadas generen, compren, vendan y exporten energía eléctrica de fuentes renovables no hidráulicas. La noticia ocupó titulares nacionales y fue calificada por analistas como un hito para el sector. Pero la historia completa es más compleja que un titular, y los detalles que no se dijeron esa noche son los que realmente importan.
+El 19 de mayo de 2026, Santiago Peña firmó el Decreto 6034. Con esa firma, Paraguay habilitó por primera vez en su historia que empresas privadas generen, compren, vendan y exporten energía eléctrica de fuentes renovables no hidráulicas. La noticia ocupó titulares nacionales y fue calificada por analistas como un hito para el sector. Pero la historia completa es más compleja que un titular, y los detalles que no se dijeron esa noche son los que realmente importan.
 
 Este artículo es un análisis en profundidad de la apertura del sector eléctrico paraguayo. No es un alegato a favor ni en contra, sino un examen de los pros y los contras, basado en la experiencia internacional, los datos del sector y, sobre todo, el contexto institucional en el que esta reforma nace.
 
@@ -259,7 +259,7 @@ Seguí el análisis completo de los temas de energía en Paraguay en la [guía d
       "name": "Que cambio con el Decreto 6034 en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Firmado el 20 de mayo de 2026, el Decreto 6034 habilita por primera vez que empresas privadas generen, compren, vendan y exporten energia electrica renovable no hidraulica. Los grandes consumidores desde 30 MW pueden firmar contratos bilaterales con generadores privados."
+        "text": "Firmado el 19 de mayo de 2026, el Decreto 6034 habilita por primera vez que empresas privadas generen, compren, vendan y exporten energia electrica renovable no hidraulica. Los grandes consumidores desde 30 MW pueden firmar contratos bilaterales con generadores privados."
       }
     },
     {
