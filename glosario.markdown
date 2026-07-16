@@ -3,7 +3,7 @@ layout: page
 title: "Glosario: Inteligencia Artificial en Paraguay"
 permalink: /glosario/
 description: "Terminos clave de inteligencia artificial en Paraguay explicados en contexto local: data centers, energia, GPUs, leyes, startups y el ecosistema tech paraguayo."
-last_modified_at: 2026-07-17
+last_modified_at: 2026-07-16
 ---
 
 Este glosario reune los terminos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definicion conecta con un articulo completo de la [guia de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
@@ -142,6 +142,14 @@ Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA,
 
 **Cooperativas (INCOOP)** — Instituciones de credito rural reguladas por el INCOOP. Para millones de paraguayos, son el unico acceso al sistema financiero.
 → [Fintech en Paraguay](/articulos/2026/07/10/fintech-paraguay-ecosistema/)
+
+**Deepfake** — Video, imagen o audio falso generado con inteligencia artificial que imita la apariencia o voz de una persona real. La tecnologia para crearlos es gratuita en 2026. Brasil prohibio su uso en campanas electorales en 2024. Paraguay no tiene legislacion al respecto.
+→ [IA y periodismo en Paraguay](/articulos/2026/07/16/ia-periodismo-paraguay/)
+
+**Fact-checking (verificacion de datos)** — Proceso de contrastar afirmaciones publicas con fuentes verificables. Organizaciones como Chequeado (Argentina) y Aos Fatos (Brasil) usan IA para automatizar la verificacion. Paraguay no tiene ninguna organizacion de fact-checking certificada.
+→ [IA y periodismo en Paraguay](/articulos/2026/07/16/ia-periodismo-paraguay/)
+
+**Periodismo automatizado** — Uso de algoritmos para generar contenido periodistico sin intervencion humana directa. Associated Press lo usa desde 2014 para reportes financieros. En Paraguay ningun medio ha documentado el uso de estas herramientas.
 
 ---
 
