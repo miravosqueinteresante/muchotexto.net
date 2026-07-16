@@ -105,6 +105,18 @@ Cada semana publicamos uno o dos artículos nuevos. Esta guía se actualiza con 
     }
   },
   "description": "Guía completa de inteligencia artificial en Paraguay. Data centers, energía, regulación, empleo tech, geopolítica y el impacto de la IA en la sociedad paraguaya.",
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Inteligencia Artificial",
+      "sameAs": "https://es.wikipedia.org/wiki/Inteligencia_artificial"
+    },
+    {
+      "@type": "Place",
+      "name": "Paraguay",
+      "sameAs": "https://es.wikipedia.org/wiki/Paraguay"
+    }
+  ],
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://muchotexto.net/ia-en-paraguay/"
