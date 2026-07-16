@@ -151,6 +151,9 @@ Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA,
 
 **Periodismo automatizado** — Uso de algoritmos para generar contenido periodistico sin intervencion humana directa. Associated Press lo usa desde 2014 para reportes financieros. En Paraguay ningun medio ha documentado el uso de estas herramientas.
 
+**Telemedicina** — Atencion medica a distancia mediante tecnologia de comunicacion. Paraguay opera un Programa Nacional de Telesalud desde 2013 con mas de un millon de diagnosticos remotos (tomografias, electrocardiogramas, electroencefalogramas) en 80 centros de los 18 departamentos sanitarios. El IPS lanzo su Hospital Virtual en julio de 2026.
+→ [IA y salud en Paraguay](/articulos/2026/07/16/ia-salud-paraguay/)
+
 ---
 
 Este glosario se actualiza a medida que crece el ecosistema. Para un analisis completo de cada tema, visita la [guia de IA en Paraguay](/ia-en-paraguay/).

@@ -186,8 +186,6 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
         # Diacriticos (tilde diacritica)
         (r'\bmas\b', 'm\u00e1s'),
         (r'\besta\b', 'est\u00e1'),
-        (r'\bde\b', 'd\u00e9'),
-        (r'\bse\b', 's\u00e9'),
         (r'\bsi\b', 's\u00ed'),
         (r'\bte\b', 't\u00e9'),
         (r'\bel\b', '\u00e9l'),
