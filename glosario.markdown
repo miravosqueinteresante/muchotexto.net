@@ -120,7 +120,10 @@ Los terminos estan agrupados por tema: infraestructura y energia, tecnologia IA,
 **Autograph** — Startup paraguaya de inteligencia artificial para la industria del entretenimiento, con sede en Silicon Valley. Es la startup paraguaya que mas inversion ha recibido: USD 2.6 millones de inversores de Silicon Valley.
 → [Startups de IA en Paraguay](/articulos/2026/07/14/startups-ia-paraguay/)
 
-**Smart city (ciudad inteligente)** — Ciudad que utiliza sensores, datos y tecnologia para operar servicios urbanos como transporte, energia, residuos e iluminacion. Asuncion no tiene ningun proyecto de smart city. Medellin construyo un metrocable por USD 26M y gano el premio Lee Kuan Yew. El primer paso no es un centro de control: es medir lo que no se mide.
+**Smart city (ciudad inteligente)** — Ciudad que utiliza sensores, datos y tecnologia para operar servicios urbanos como transporte, energia, residuos e iluminacion. Asuncion no tiene ningun proyecto de smart city. Medellin construyo un metrocable por USD 26M y gano el premio Lee Kuan Yew.
+
+**Gobierno digital (e-government)** — Uso de tecnologia para que los ciudadanos accedan a servicios del Estado sin papel, sin ventanilla y sin intermediarios. Paraguay tiene 223 tramites digitalizados, un sistema de intercambio de informacion (SII) y una nube soberana (NubePY), pero la cedula de identidad sigue siendo fisica. Estonia, el estandar global, tiene el 99% de servicios online desde hace dos decadas.
+→ [Gobierno digital en Paraguay](/articulos/2026/07/16/gobierno-digital-paraguay/) El primer paso no es un centro de control: es medir lo que no se mide.
 
 ---
 
