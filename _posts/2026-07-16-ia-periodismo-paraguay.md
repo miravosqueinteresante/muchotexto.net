@@ -8,7 +8,7 @@ tags: tech-ecosistema ia-paraguay
 description: "Paraguay no tiene fact-checking, no regula deepfakes y sus medios no usan IA. Mientras, Argentina perdio 1.550 periodistas, Brasil prohibio los deepfakes y AP automatiza noticias desde 2014."
 ---
 
-En 2014, Associated Press empezó a publicar reportes de ganancias empresariales escritos íntegramente por un algoritmo llamado Wordsmith. El volumen de notas trimestrales se multiplicó por doce, liberó el 20% del tiempo de los periodistas y no hubo despidos.
+En 2014, Associated Press empezó a publicar reportes de ganancias empresariales escritos íntegramente por un algoritmo llamado Wordsmith. El volumen de notas trimestrales se multiplicó por más de diez, liberó el 20% del tiempo de los periodistas y no hubo despidos.
 
 En enero de 2023, CNET publicó 77 artículos generados por inteligencia artificial sin informar a sus lectores. Una auditoría posterior encontró errores en 41 de ellos. El medio tuvo que corregir más de la mitad de lo que su IA había escrito.
 
@@ -16,7 +16,7 @@ Entre un extremo y el otro, el periodismo global está atravesando la transforma
 
 ## Lo que el periodismo ya hace con IA (desde hace una década)
 
-La Associated Press no es un caso aislado. Reuters y Bloomberg automatizan noticias financieras desde hace años. El Washington Post desarrolló Heliograf en 2016 para cubrir elecciones locales y eventos deportivos. Forbes usa Quill desde 2012 para generar resúmenes de datos financieros. La BBC experimenta con traducción automática y transcripción de entrevistas. El País, en España, tiene un equipo dedicado a innovación con IA.
+La Associated Press no es un caso aislado. Reuters y Bloomberg automatizan noticias financieras desde hace años. El Washington Post desarrolló Heliograf en 2016 para cobertura automatizada de eventos deportivos y elecciones. Forbes usa Quill desde 2012 para generar resúmenes de datos financieros. La BBC experimenta con traducción automática y transcripción de entrevistas. El País, en España, tiene un equipo dedicado a innovación con IA.
 
 La caja de herramientas es amplia y no requiere inteligencia artificial generativa. Los sistemas de transcripción automática como Otter.ai o Trint convierten entrevistas en texto en minutos. Las herramientas de traducción permiten que una nota escrita en español se publique en guaraní y portugués sin intervención humana. Los sistemas de recomendación de contenido —los mismos que usan Netflix o Spotify— deciden qué nota ve cada lector en la portada de un diario digital. Los detectores de anomalías en datos públicos encuentran patrones que a un periodista le tomaría semanas identificar.
 
@@ -38,7 +38,7 @@ Paraguay no tiene ninguna organización de verificación de datos certificada po
 
 Paraguay ocupa el puesto 88 de 180 países en el índice de libertad de prensa de Reporteros Sin Fronteras 2026, con una calificación de "situación difícil". Su indicador económico —que mide la sostenibilidad financiera de los medios— cayó de 40 a 31 puntos en un solo año, ubicándose en el puesto 154 global. Los sindicatos denuncian creciente precarización laboral. No existe un censo público de cuántos periodistas trabajan en el país.
 
-El ecosistema de medios paraguayo está concentrado en cuatro grupos familiares: Zuccolillo (ABC Color, independiente y opositor), Vierci (Telefuturo, Última Hora), Cartes (Grupo La Nación, afín al Partido Colorado) y Albavisión (SNT/Canal 9). La radio es el medio más importante en zonas rurales, donde aproximadamente el 60% de la población habla mayoritariamente guaraní. El periodismo impreso tiene una de las tasas de lectura más bajas de Sudamérica.
+El ecosistema de medios paraguayo está concentrado en pocos grupos familiares, entre ellos Zuccolillo (ABC Color, independiente y opositor), Vierci (Telefuturo, Última Hora), Cartes (Grupo La Nación, afín al Partido Colorado) y Albavisión (SNT/Canal 9). La radio es el medio más importante en zonas rurales, donde aproximadamente el 60% de la población habla mayoritariamente guaraní. El periodismo impreso tiene una de las tasas de lectura más bajas de Sudamérica.
 
 Es un ecosistema vulnerable. Concentrado, con poco margen económico, sin herramientas de verificación automatizada, sin fact-checking organizado, sin regulación de contenidos generados por IA. En ese contexto, la pregunta no es si la inteligencia artificial va a transformar el periodismo paraguayo. La pregunta es si el periodismo paraguayo va a sobrevivir a lo que la inteligencia artificial ya está haciendo con la información que consumen los paraguayos.
 
