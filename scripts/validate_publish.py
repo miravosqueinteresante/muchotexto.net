@@ -145,6 +145,11 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     if "/ia-en-paraguay/" not in content:
         errors.append("Falta enlace a pagina pilar /ia-en-paraguay/ en el cuerpo del articulo")
 
+    # === INTERNAL LINKS ===
+    internal_links = len(re.findall(r'\{% post_url [^%]+\%\}', body))
+    if internal_links < 2:
+        warnings.append(f"Pocos links internos: {internal_links} (minimo 2 recomendados)")
+
     if not description:
         warnings.append("Meta description no definida en frontmatter")
     elif len(description) > 155:

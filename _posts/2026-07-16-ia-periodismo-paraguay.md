@@ -5,7 +5,7 @@ date: 2026-07-16
 last_modified_at: 2026-07-16
 categories: articulos
 tags: tech-ecosistema ia-paraguay
-description: "Paraguay no tiene fact-checking, no regula deepfakes y sus medios no usan IA. Mientras, Argentina perdio 1.550 periodistas, Brasil prohibio los deepfakes y AP automatiza noticias desde 2014."
+description: "Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdio 1.550 periodistas, Brasil prohibio la IA en campanas."
 ---
 
 En 2014, Associated Press empezó a publicar reportes de ganancias empresariales escritos íntegramente por un algoritmo llamado Wordsmith. El volumen de notas trimestrales se multiplicó por más de diez, liberó el 20% del tiempo de los periodistas y no hubo despidos.
