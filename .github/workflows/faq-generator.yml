@@ -1,0 +1,54 @@
+name: FAQ Auto-Generator
+
+on:
+  push:
+    paths:
+      - "_posts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-faq:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar articulos sin FAQ y generarlos
+        env:
+          GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+        run: |
+          missing=""
+          for f in _posts/*.md; do
+            # solo articulos de fondo (categories: articulos)
+            if grep -q 'categories:.*articulos' "$f"; then
+              if ! grep -q 'FAQPage' "$f"; then
+                missing="$missing $f"
+              fi
+            fi
+          done
+          if [ -n "$missing" ]; then
+            echo "Articulos sin FAQ: $missing"
+            python scripts/generate_faq.py $missing
+            echo "FAQ_GENERATED=true" >> $GITHUB_ENV
+          else
+            echo "Todos los articulos tienen FAQ."
+            echo "FAQ_GENERATED=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit y push
+        if: env.FAQ_GENERATED == 'true'
+        run: |
+          git config user.name "FAQ Bot"
+          git config user.email "faq@muchotexto.net"
+          git add _posts/
+          git diff --cached --quiet || git commit -m "Genera FAQPage automaticamente [skip ci]"
+          git pull --rebase origin main
+          git push
