@@ -10,6 +10,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Categorías](https://muchotexto.net/categories/): Artículos agrupados por categoría
 - [Etiquetas](https://muchotexto.net/tags/): Artículos agrupados por etiqueta
 - [Acerca de](https://muchotexto.net/about/): Autor, trayectoria y filosofía del medio digital
+- [Cómo trabajamos](https://muchotexto.net/como-trabajamos/): Metodología editorial, verificación de fuentes, uso de IA, correcciones
 
 ## Contenido recurrente
 
