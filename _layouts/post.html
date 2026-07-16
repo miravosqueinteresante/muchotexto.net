@@ -36,7 +36,22 @@ layout: default
     ]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".post-title", ".post-excerpt"]
+    }
+  }
+  </script>
   <h1 class="post-title">{{ page.title }}</h1>
+  {%- if page.description -%}
+    <p class="post-excerpt">{{ page.description }}</p>
+  {%- endif -%}
   <div class="post-meta">
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       {{ page.date | date_to_string }}
