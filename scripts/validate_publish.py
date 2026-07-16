@@ -236,6 +236,7 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
 
     has_pillar = any("ia-en-paraguay.markdown" in f for f in staged_all)
     has_llms = any("llms.txt" in f for f in staged_all)
+    has_glosario = any("glosario.markdown" in f for f in staged_all)
 
     if staged_posts and not has_pillar:
         errors.append(
@@ -246,6 +247,12 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
         errors.append(
             "Nuevo post detectado pero llms.txt no esta en el commit. "
             "Agregarlo: git add llms.txt"
+        )
+    if staged_posts and not has_glosario:
+        warnings.append(
+            "Nuevo post detectado pero glosario.markdown no esta en el commit. "
+            "Si el articulo introduce terminos nuevos, agregarlos al glosario. "
+            "Agregarlo: git add glosario.markdown"
         )
 
     # Check if new article topic is still in Proximamente on pillar page
