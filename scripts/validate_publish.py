@@ -150,6 +150,30 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     if internal_links < 2:
         warnings.append(f"Pocos links internos: {internal_links} (minimo 2 recomendados)")
 
+    # === URL HEALTH CHECK (solo en modo --check) ===
+    urls = re.findall(r'\((https?://[^\)]+)\)', body)
+    external_urls = [u for u in urls if 'muchotexto.net' not in u]
+    if external_urls:
+        try:
+            import urllib.request
+            import ssl
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            broken = 0
+            for url in external_urls[:10]:  # max 10 para no bloquear
+                try:
+                    req = urllib.request.Request(url, headers={'User-Agent': 'muchotexto-validator/1.0'})
+                    resp = urllib.request.urlopen(req, timeout=5, context=ctx)
+                    if resp.status != 200:
+                        broken += 1
+                except:
+                    broken += 1
+            if broken > 0:
+                warnings.append(f"URLs posiblemente rotas: {broken}/{len(external_urls[:10])} (verificar con scripts/check_urls.py)")
+        except:
+            pass  # si falla el import, no bloquea
+
     if not description:
         warnings.append("Meta description no definida en frontmatter")
     elif len(description) > 155:

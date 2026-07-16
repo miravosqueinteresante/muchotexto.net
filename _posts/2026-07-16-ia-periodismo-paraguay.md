@@ -68,7 +68,7 @@ Leé el análisis completo sobre tecnología aplicada en la [guía de inteligenc
 
 - [Reuters Institute — Digital News Report 2024](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2024)
 - [Reuters Institute — Journalism, Media and Technology Trends 2026](https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026)
-- [Reporteros Sin Fronteras — Índice de Libertad de Prensa 2026](https://rsf.org/es/clasificacion-mundial-de-la-libertad-de-prensa-2026)
+- [Reporteros Sin Fronteras — Clasificación Mundial de la Libertad de Prensa](https://rsf.org/es/clasificacion) (2026)
 - [Wikipedia — Automated journalism](https://en.wikipedia.org/wiki/Automated_journalism)
 - [Wikipedia — Deepfake](https://en.wikipedia.org/wiki/Deepfake)
 - [Associated Press — "A look at how AP uses artificial intelligence"](https://www.ap.org/solutions/artificial-intelligence/)
