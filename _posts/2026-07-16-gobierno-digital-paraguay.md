@@ -38,7 +38,9 @@ Paraguay tiene, sobre el papel, todos los componentes de un gobierno digital mod
 
 La brecha entre la arquitectura y la experiencia del ciudadano es el dato más revelador de este análisis.
 
-La identidad electrónica —el proyecto más importante en la cartera del MITIC— no tiene fecha pública de despliegue masivo ni especificaciones técnicas accesibles. La Autoridad Certificadora Raíz (AC Raíz) existe, pero está orientada a funcionarios públicos, no a ciudadanos. Para renovar la cédula, un paraguayo sigue yendo al Departamento de Identificaciones. Para registrar una empresa, el sistema SUACE existe pero el proceso no es enteramente digital. Para una escritura de propiedad, el papel y el escribano siguen siendo el estándar.
+La identidad electrónica existe y está operativa. Funciona con el número de cédula como usuario y una contraseña creada por el ciudadano, validada a través del Sistema de Intercambio de Información y autorizada por la Ley 6822/2022 de servicios de confianza para transacciones electrónicas. Permite autenticarse en el Portal Único de Gobierno y en los sistemas de los organismos del Estado. Es un sistema de usuario y contraseña —no un chip criptográfico como el de Estonia o Uruguay—, lo cual es una decisión de diseño que prioriza la velocidad de despliegue sobre la robustez criptográfica. La Autoridad Certificadora Raíz ofrece firma digital con PKI, pero está orientada a funcionarios públicos.
+
+Con identidad electrónica o sin ella, para renovar la cédula un paraguayo sigue yendo al Departamento de Identificaciones. Para registrar una empresa, el sistema SUACE existe pero el proceso no es enteramente digital. Para una escritura de propiedad, el papel y el escribano siguen siendo el estándar.
 
 La desconexión entre los sistemas es el síntoma más costoso. El SII está diseñado para resolverla, pero la cantidad de instituciones conectadas y el volumen de transacciones no son públicos. La interoperabilidad de la que habla el MITIC en sus documentos no se traduce —todavía— en que un ciudadano pueda hacer un trámite de principio a fin sin imprimir, firmar, escanear y autenticar.
 
@@ -56,7 +58,7 @@ El caso de India con Aadhaar —el sistema de identidad digital más grande del 
 
 Paraguay no necesita empezar de cero. Tiene el financiamiento —130 millones de dólares del BID—. Tiene la arquitectura —SII, NubePY, CERT-PY, AC Raíz—. Tiene el caso de éxito —Marangatu—. Tiene el plan —Agenda Digital—. Lo que no tiene, y es lo único que importa, es la decisión de priorizar tres cosas.
 
-La primera es la identidad digital para ciudadanos. No un portal. No un formulario web. Una credencial criptográfica —chip, app móvil, o ambas— que permita a cualquier paraguayo autenticarse, firmar documentos y acceder a todos los servicios del Estado sin salir de su casa. La tecnología existe. Estonia la implementó en 2002. Uruguay tiene su documento de identidad electrónico desde 2015. El costo incremental para Paraguay es de aproximadamente 10 a 30 millones de dólares en desarrollo inicial. El BID ya está prestando 130 millones para la Agenda Digital. La pregunta no es si hay plata. Es si hay decisión.
+La primera es fortalecer la identidad digital que ya existe. El sistema actual de cédula más contraseña es funcional y está desplegado, pero no basta. Uruguay emitió su cédula de identidad electrónica con chip criptográfico desde 2015. Estonia lo hizo en 2002. Paraguay tiene la base —el SII valida los datos, la Ley 6822/2022 da el marco legal—, pero el salto de usuario/contraseña a una credencial criptográfica con firma digital para cada ciudadano es la diferencia entre autenticarse en un portal y firmar un documento con validez legal sin moverse de la casa. El costo incremental es de aproximadamente 10 a 30 millones de dólares.
 
 La segunda es escalar el Sistema de Intercambio de Información hasta que ningún ciudadano tenga que presentar un documento que el Estado ya tiene. El principio de "una sola vez" —once-only principle— es la base del gobierno digital estonio: el ciudadano le da un dato al Estado una vez, y el Estado lo reutiliza. Paraguay tiene el SII. Lo que falta es conectarlo a todas las instituciones —registro civil, propiedad, tránsito, migraciones, salud, educación— y hacer obligatorio su uso.
 
@@ -97,7 +99,7 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
       "name": "¿Tiene Paraguay identidad digital para ciudadanos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No desplegada masivamente. El MITIC tiene el proyecto de Identidad Electrónica y la Autoridad Certificadora Raíz (PKI), pero están orientadas a funcionarios públicos. El ciudadano común no dispone de una credencial digital con chip o app móvil para autenticarse ante el Estado, firmar documentos o hacer trámites completamente en línea."
+        "text": "Sí, pero es un sistema de usuario y contraseña (cédula + clave personal), no una credencial criptográfica con chip como la de Estonia o Uruguay. Está operativa, validada por el SII y autorizada por la Ley 6822/2022. Permite autenticarse en el Portal Único de Gobierno y otros sistemas del Estado. La Autoridad Certificadora Raíz (PKI) ofrece firma digital, pero está orientada a funcionarios públicos. El ciudadano común no dispone de una credencial con chip o app móvil con estándares criptográficos avanzados."
       }
     },
     {
