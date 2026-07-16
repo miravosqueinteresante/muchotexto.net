@@ -197,6 +197,17 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
         (r'\beconomia\b', 'econom\u00eda'),
         (r'\belectrica\b', 'el\u00e9ctrica'),
         (r'\btransmision\b', 'transmisi\u00f3n'),
+        (r'\bperdio\b', 'perdi\u00f3'),
+        (r'\bprohibio\b', 'prohibi\u00f3'),
+        (r'\bcampanas\b', 'campa\u00f1as'),
+        (r'\bningun\b', 'ning\u00fan'),
+        (r'\barticulo\b', 'art\u00edculo'),
+        (r'\btitulo\b', 't\u00edtulo'),
+        (r'\bultimo\b', '\u00faltimo'),
+        (r'\bproximo\b', 'pr\u00f3ximo'),
+        (r'\btramites\b', 'tr\u00e1mites'),
+        (r'\bdespues\b', 'despu\u00e9s'),
+        (r'\bsegun\b', 'seg\u00fan'),
     ]
     for pattern, correct in checks:
         text_to_check = f"{title or ''} {description or ''}"
