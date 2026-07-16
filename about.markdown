@@ -66,8 +66,8 @@ El sitio se sostiene con publicidad no intrusiva y seguirá siendo un espacio in
   ],
   "knowsAbout": [
     "Inteligencia Artificial",
-    "Anotacion de Datos",
-    "Tecnologia en Paraguay",
+    "Anotación de Datos",
+    "Tecnología en Paraguay",
     "SEO"
   ],
   "worksFor": {
