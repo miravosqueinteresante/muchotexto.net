@@ -3,7 +3,7 @@ layout: page
 title: "Inteligencia Artificial en Paraguay: Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Guía completa de inteligencia artificial en Paraguay. Data centers, energía, regulación, empleo tech, geopolítica y el impacto de la IA en la sociedad paraguaya."
-last_modified_at: 2026-07-17
+last_modified_at: 2026-07-16
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
