@@ -58,7 +58,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Por qué Asunción no es una ciudad inteligente todavía]({% post_url 2026-07-17-smart-cities-asuncion-paraguay %})** - Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?
 - **[Paraguay no usa IA para hacer periodismo pero la desinformación sí]({% post_url 2026-07-16-ia-periodismo-paraguay %})** - Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas y Brasil prohibió la IA en campañas.
 
-**Próximamente:** IA en la justicia, e-commerce y logística, cadena de valor del data center.
+**Próximamente:** IA en la justicia, e-commerce y logística, cadena de valor del data center, y **El Directorio de la Inteligencia Artificial en Paraguay** — listado exhaustivo de startups de IA paraguayas, comunidades locales (Discord, Telegram) y expertos del sector.
 
 ## Cultura, filosofía y futuro
 
