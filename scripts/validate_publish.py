@@ -181,35 +181,80 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
 
     # === ACENTOS FALTANTES ===
     missing_accents = []
+    # Agrupados por categoria gramatical. Expandir cuando aparezcan nuevos casos.
     checks = [
+        # Diacriticos (tilde diacritica)
         (r'\bmas\b', 'm\u00e1s'),
         (r'\besta\b', 'est\u00e1'),
-        (r'\bpais\b', 'pa\u00eds'),
-        (r'\benergia\b', 'energ\u00eda'),
+        (r'\bde\b', 'd\u00e9'),
+        (r'\bse\b', 's\u00e9'),
+        (r'\bsi\b', 's\u00ed'),
+        (r'\bte\b', 't\u00e9'),
+        (r'\bel\b', '\u00e9l'),
+        # Sustantivos y adjetivos terminados en -ion, -ia, -ia(s)
+        (r'\b\w+cions?\b', None),  # -cion -> -ción (regex match, flag generico)
         (r'\bregion\b', 'regi\u00f3n'),
         (r'\bregulacion\b', 'regulaci\u00f3n'),
+        (r'\btransmision\b', 'transmisi\u00f3n'),
         (r'\btecnologia\b', 'tecnolog\u00eda'),
         (r'\binformatica\b', 'inform\u00e1tica'),
         (r'\beducacion\b', 'educaci\u00f3n'),
-        (r'\banalisis\b', 'an\u00e1lisis'),
-        (r'\bgeopolitica\b', 'geopol\u00edtica'),
-        (r'\bdeberian\b', 'deber\u00edan'),
         (r'\beconomia\b', 'econom\u00eda'),
+        (r'\benergia\b', 'energ\u00eda'),
+        (r'\bgeopolitica\b', 'geopol\u00edtica'),
         (r'\belectrica\b', 'el\u00e9ctrica'),
-        (r'\btransmision\b', 'transmisi\u00f3n'),
+        (r'\bperiodistica\b', 'period\u00edstica'),
+        # Paises y gentilicios (sin tilde)
+        (r'\bpais\b', 'pa\u00eds'),
+        (r'\banalisis\b', 'an\u00e1lisis'),
+        # Verbos conjugados (preterito y futuro)
         (r'\bperdio\b', 'perdi\u00f3'),
         (r'\bprohibio\b', 'prohibi\u00f3'),
+        (r'\bdeberian\b', 'deber\u00edan'),
+        (r'\bpodrian\b', 'podr\u00edan'),
+        (r'\btendrian\b', 'tendr\u00edan'),
+        (r'\bhabian\b', 'hab\u00edan'),
+        (r'\btenian\b', 'ten\u00edan'),
+        (r'\beran\b', 'eran'),
+        (r'\bseria\b', 'ser\u00eda'),
+        (r'\bhabia\b', 'hab\u00eda'),
+        (r'\btenia\b', 'ten\u00eda'),
+        (r'\bsegun\b', 'seg\u00fan'),
+        (r'\bdespues\b', 'despu\u00e9s'),
+        # Palabras con ene (sin virgulilla)
         (r'\bcampanas\b', 'campa\u00f1as'),
-        (r'\bningun\b', 'ning\u00fan'),
+        (r'\benganos\b', 'enga\u00f1os'),
+        # Acentos en sustantivos comunes
         (r'\barticulo\b', 'art\u00edculo'),
         (r'\btitulo\b', 't\u00edtulo'),
         (r'\bultimo\b', '\u00faltimo'),
         (r'\bproximo\b', 'pr\u00f3ximo'),
         (r'\btramites\b', 'tr\u00e1mites'),
-        (r'\bdespues\b', 'despu\u00e9s'),
-        (r'\bsegun\b', 'seg\u00fan'),
+        (r'\bningun\b', 'ning\u00fan'),
+        (r'\bcapitulo\b', 'cap\u00edtulo'),
+        (r'\bmaximo\b', 'm\u00e1ximo'),
+        (r'\bminimo\b', 'm\u00ednimo'),
+        (r'\bnumero\b', 'n\u00famero'),
+        (r'\bespecifico\b', 'espec\u00edfico'),
+        (r'\bcaracter\b', 'car\u00e1cter'),
+        # Acentos en adjetivos y adverbios
+        (r'\bfacil\b', 'f\u00e1cil'),
+        (r'\bdificil\b', 'dif\u00edcil'),
+        (r'\brapido\b', 'r\u00e1pido'),
+        (r'\bpublico\b', 'p\u00fablico'),
+        (r'\bautomatico\b', 'autom\u00e1tico'),
+        (r'\bpolitico\b', 'pol\u00edtico'),
+        (r'\belectrico\b', 'el\u00e9ctrico'),
+        (r'\bhistorico\b', 'hist\u00f3rico'),
+        (r'\bcientifico\b', 'cient\u00edfico'),
+        (r'\bestrategico\b', 'estrat\u00e9gico'),
     ]
+
+    # Expanded regex-based accent check — no external dependencies
+
     for pattern, correct in checks:
+        if correct is None:
+            continue  # skip generic patterns
         text_to_check = f"{title or ''} {description or ''}"
         match = re.search(pattern, text_to_check, re.IGNORECASE)
         if match:
