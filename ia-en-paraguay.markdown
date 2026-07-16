@@ -88,7 +88,7 @@ Cada semana publicamos uno o dos artículos nuevos. Esta guía se actualiza con 
     "url": "https://muchotexto.net/about/"
   },
   "datePublished": "2026-07-07T00:00:00-04:00",
-  "dateModified": "2026-07-16T00:00:00-04:00",
+  "dateModified": "2026-07-17T00:00:00-04:00",
   "image": {
     "@type": "ImageObject",
     "url": "https://muchotexto.net/assets/images/og-image.png"
