@@ -15,10 +15,6 @@ Respondo personalmente a todos los mensajes. Si tenés consultas sobre el conten
 
 ## Otras formas de participar
 
-### Comentarios
-
-Cada artículo tiene una sección de comentarios al pie, impulsada por Remark42. No hace falta registrarse: podés comentar con tu cuenta de Google, GitHub, Twitter o de forma anónima. Los comentarios se autogestionan: no hay moderación previa, pero la comunidad puede reportar contenido inapropiado.
-
 ### Compartir
 
 Todos los artículos tienen un botón de compartir que usa la API nativa del navegador. Si algo te pareció valioso, compartilo. El sitio no tiene presencia en redes sociales más allá del enlace en X: el boca a boca es la mejor herramienta de difusión que tenemos.

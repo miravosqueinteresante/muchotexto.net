@@ -2,7 +2,7 @@
 layout: page
 title: Política de Privacidad
 permalink: /privacidad/
-description: "Política de privacidad de muchotexto.net: datos recopilados, uso de cookies, Remark42, Google Analytics GA4 y derechos del usuario según normativa."
+description: "Política de privacidad de muchotexto.net: datos recopilados, uso de cookies, Google Analytics GA4 y derechos del usuario según normativa."
 ---
 
 En **muchotexto.net** nos tomamos en serio tu privacidad. Esta política explica qué datos recopilamos, cómo los usamos y qué derechos tenés.
@@ -16,14 +16,6 @@ Usamos Google Analytics 4 (GA4) para entender cómo se usa el sitio: qué págin
 - País o región aproximada (no tu dirección exacta)
 
 GA4 **no** almacena direcciones IP completas ni datos personales identificables. Los datos se procesan de forma agregada y anónima.
-
-### Remark42 (Comentarios)
-Los comentarios en los artículos usan Remark42, un sistema autoalojado que permite comentar de forma anónima o con autenticación social. Remark42 almacena:
-- El texto de tu comentario
-- Un identificador de usuario anónimo (si comentás sin autenticarte)
-- Tu nombre y avatar (si usás autenticación social)
-
-Los comentarios son públicos y visibles para todos los visitantes.
 
 ## Cookies
 
@@ -41,7 +33,6 @@ Podés cambiar tu decisión en cualquier momento borrando las cookies y el almac
 
 Tenés derecho a:
 - Acceder a los datos que tenemos sobre vos (muy pocos, dado el diseño anónimo del sitio)
-- Solicitar la eliminación de tus comentarios (escribinos para gestionarlo)
 - Rechazar el uso de cookies de análisis (usando el banner)
 
 ## Cambios en esta política
