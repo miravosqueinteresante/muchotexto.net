@@ -1,0 +1,88 @@
+---
+layout: page
+title: "Cronología de la IA en Paraguay"
+permalink: /cronologia/
+description: "Hitos de la inteligencia artificial, tecnología y energía en Paraguay desde 1973 hasta hoy. Actualizado al 17 de julio de 2026."
+last_modified_at: 2026-07-17
+---
+
+Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. *Última actualización: 17 de julio de 2026.*
+
+## 1973 — 2009
+
+- **1973** — Paraguay y Brasil firman el [Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/): 14.000 MW, la hidroeléctrica más grande del mundo.
+- **1997** — Paraguay promulga la [Ley de Maquila 1064/97](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/), base legal para exportación de servicios intangibles.
+- **2004** — [Ley 2501/2004](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/): tarifa social eléctrica, subsidio residencial que persiste hasta hoy.
+- **2009** — Fernando Lugo y Lula firman acuerdo que triplica la [compensación de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) a Paraguay y compromete una línea de 500 kV — que nunca se construyó.
+
+## 2010 — 2019
+
+- **2012** — Se crea [CERT-PY](/articulos/2026/07/17/ciberseguridad-paraguay/), el centro nacional de respuesta a incidentes de ciberseguridad.
+- **2013** — El Ministerio de Salud lanza el [programa de telemedicina](/articulos/2026/07/16/ia-salud-paraguay/), que 13 años después supera el millón de estudios.
+- **2015** — Brasil lanza [ALICE](/articulos/2026/07/17/ia-corrupcion-paraguay/), el primer sistema de IA anticorrupción de América Latina. Paraguay todavía no tiene equivalente.
+- **2018** — Se crea el [MITIC](/articulos/2026/07/16/gobierno-digital-paraguay/), Ministerio de Tecnologías de la Información y Comunicación.
+- **2019** — Paraguay firma préstamo de [$130M con el BID](/articulos/2026/07/16/gobierno-digital-paraguay/) para la Agenda Digital. Se funda la Cámara Paraguaya de Fintech.
+
+## 2020 — 2023
+
+- **2021** — China prohíbe la minería de criptomonedas. El [65-75% de la tasa de hash global se relocaliza](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/). Comienza el éxodo minero hacia Paraguay.
+- **2022** — [Sequía histórica en Paraguay](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/): la cosecha de soja cae 60% por La Niña. El PIB crece solo 0.1%.
+- **2022** — Paraguay promulga la [Ley 6822/2022](/articulos/2026/07/16/gobierno-digital-paraguay/) de servicios de confianza electrónica, base legal para la identidad digital.
+- **2022** — Paraguay moderniza su [marco de compras públicas](/articulos/2026/07/17/ia-corrupcion-paraguay/) con la Ley 7021/2022.
+- **Noviembre 2022** — OpenAI lanza **ChatGPT**. Comienza el superciclo global de inversión en IA.
+- **2023** — [CONATEL aprueba Starlink](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay, entre los primeros países de América Latina.
+- **2023** — [Paraguay cae a 28/100](/articulos/2026/07/17/ia-corrupcion-paraguay/) en el Índice de Percepción de Corrupción (desde 30 en 2016).
+
+## 2024
+
+- **2024** — Grupo **Flax Typhoon** (inteligencia china) [infiltra sistemas del gobierno paraguayo](/articulos/2026/07/17/ciberseguridad-paraguay/).
+- **2024** — ANDE registra **64 denuncias penales** por [conexiones ilegales de criptominería](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/).
+- **Mayo 2024** — Peña y Lula acuerdan [tarifa de Itaipú de $19.28/kW-mes](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) para 2024-2026.
+- **Julio 2024** — Brasil lanza el [Plan Brasileño de IA (PBIA)](/articulos/2026/07/16/ia-soberana-paraguay/): R$23 mil millones.
+- **2024** — [Moody's otorga grado de inversión](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/) a Paraguay.
+- **2024** — [Paraguay cae a 24/100](/articulos/2026/07/17/ia-corrupcion-paraguay/) en corrupción, uno de los peores descensos regionales.
+- **2024** — El MITIC realiza [consulta pública para la estrategia nacional de IA](/articulos/2026/07/16/ia-soberana-paraguay/).
+- **Diciembre 2024** — Paraguay [expulsa al diplomático chino Xu Wei](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/) por ofrecer acceso al mercado de carne a cambio de romper con Taiwán.
+- **Diciembre 2024** — ANDE: [consumo eléctrico crece 18% en un año](/articulos/2026/07/08/red-electrica-paraguay-ia/), el triple del promedio histórico.
+
+## 2025
+
+- **Enero 2025** — [Bitfarms abandona Paraguay](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/) con pérdida contable de $30M. ~10 mineras cierran en 2 años.
+- **Abril 2025** — Escándalo [ABIN: inteligencia brasileña espía a funcionarios paraguayos](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) durante negociaciones del Anexo C. Paraguay **suspende todas las negociaciones**.
+- **Mayo 2025** — Paraguay aprueba su primera [Estrategia Nacional de Ciberseguridad 2025-2028](/articulos/2026/07/17/ciberseguridad-paraguay/), con apoyo de la OEA.
+- **Junio 2025** — [Ransomware paraliza 18 agencias del gobierno paraguayo](/articulos/2026/07/17/ciberseguridad-paraguay/) y expone millones de registros ciudadanos.
+- **Septiembre 2025** — [Ley 7503/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/): crea el Sistema Nacional de Pagos, extiende supervisión del BCP a fintechs.
+- **Septiembre 2025** — [Ley 7547/2025](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/): reforma la Ley de Maquila para incluir servicios digitales.
+- **5 Noviembre 2025** — Paraguay sanciona su [primera ley integral de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/) (Ley 7593/2025). Vigencia: noviembre 2027.
+- **7 Noviembre 2025** — [Ley 7572/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/): reconoce instrumentos financieros en blockchain. Tokenización legal en Paraguay.
+- **Diciembre 2025** — [Ley 7599](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/) y [Decreto 6034](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/): abren la generación eléctrica al sector privado por primera vez.
+- **Diciembre 2025** — [UNESCO publica el RAM Report](/articulos/2026/07/16/ia-soberana-paraguay/): diagnóstico de preparación de Paraguay para la IA.
+- **Diciembre 2025** — [X8 Cloud anuncia plan de $10-50B](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/) para centro de datos de IA en Paraguay.
+- **2025** — Paraguay registra [$3.9M en inversión VC en startups](/articulos/2026/07/14/startups-ia-paraguay/), crecimiento de ~300%. Entra al Global Startup Ecosystem Index en #95.
+- **2025** — Paraguay alcanza [$1.18B de IED](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/), récord histórico. Los centros de datos lideran los anuncios.
+
+## 2026
+
+- **Enero 2026** — Se lanza el [Registro Único Nacional (RUN)](/articulos/2026/05/18/tokenizacion-del-agro-paraguay/), reemplazando 150 años de registros en papel.
+- **Marzo 2026** — [HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/): primer cluster de GPU para IA en Paraguay.
+- **8 Mayo 2026** — Se firma el [MOU de Yguazú Digital](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) en Taipei. Presidentes Peña y Lai Ching-te. Data center binacional Paraguay-Taiwán: Fase I 10 MW/$200-500M.
+- **13 Mayo 2026** — [Peter Thiel y Crusoe AI se reúnen con Peña](/articulos/2026/05/16/peter-thiel-paraguay-experimento/) en Mburuvicha Róga.
+- **19 Mayo 2026** — Peña firma el [Decreto 6034](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/): apertura del sector eléctrico a generación privada renovable.
+- **25 Mayo 2026** — El Vaticano presenta [Magnifica Humanitas](/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/), la primera encíclica papal dedicada a la IA.
+- **Mayo 2026** — MITIC adjudica el [Data Center estatal Tier III](/articulos/2026/07/16/ia-soberana-paraguay/) (5.000 VMs, 2.000 contenedores, financiado por el BID).
+- **Mayo 2026** — X8Cloud y Pardat Holding inician [construcción de data centers](/articulos/2026/07/10/talento-tech-paraguay-ia/) en Paraguay.
+- **Junio 2026** — MITIC dona [1.600 antenas Starlink para escuelas rurales](/articulos/2026/07/15/starlink-paraguay-conectividad/).
+- **Junio 2026** — ICDF contacta a [Google, Microsoft y Amazon](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) como potenciales clientes ancla de Yguazú Digital.
+- **Junio 2026** — Ministro de Industria [visita NVIDIA, OpenAI y Crusoe](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/) en Silicon Valley.
+- **Julio 2026** — La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/) (~30% de adultos).
+- **Julio 2026** — Paraguay alcanza [480+ trámites digitales](/articulos/2026/07/16/gobierno-digital-paraguay/), cédula y licencia de conducir digitales disponibles.
+- **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.
+- **10 Julio 2026** — [Declaración conjunta EE.UU.-Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/) denunciando operaciones cibernéticas chinas contra el gobierno paraguayo.
+- **Julio 2026** — MOPC presenta [monitoreo inteligente del Puente Bioceánico](/articulos/2026/07/17/smart-cities-asuncion-paraguay/) con sensores sísmicos y gemelos digitales.
+
+## Lo que viene
+
+- **1 Enero 2027** — Vence el [Anexo C del Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/). Sin acuerdo, Paraguay pierde ~$600M/año. Negociaciones congeladas desde abril 2025.
+- **Noviembre 2027** — Entra en vigor la [Ley 7593 de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/). Yguazú Digital Fase I debe estar operativo.
+- **2028** — [Elecciones generales en Paraguay](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/): prueba de fuego para la alianza con Taiwán.
+- **2030** — Ventana proyectada de [agotamiento del excedente energético](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/).

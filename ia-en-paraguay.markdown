@@ -12,6 +12,8 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 **Biblioteca de análisis** — 29 artículos organizados por sector: [Energía e infraestructura](#infraestructura-y-energia) · [Geopolítica y regulación](#geopolítica-y-regulación-tech) · [Sociedad y trabajo](#ia-sociedad-y-trabajo) · [Ecosistema tech](#tecnología-aplicada-y-ecosistema) · [Cultura y futuro](#cultura-filosofía-y-futuro)
 
+También: [Cronología de la IA en Paraguay](/cronologia/) — todos los hitos con fechas y fuentes · [Glosario vivo](/glosario/) — términos clave explicados en contexto local
+
 ## Infraestructura y energía
 
 La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El país genera ocho veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.

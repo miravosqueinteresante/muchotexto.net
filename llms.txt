@@ -61,6 +61,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [¿Qué es realmente el fútbol?](https://muchotexto.net/articulos/2026/06/10/que-es-realmente-el-futbol/)
 - [El futuro de la identidad y la conciencia](https://muchotexto.net/articulos/2026/05/13/ciberhumanidad/)
 
+- [Cronología](https://muchotexto.net/cronologia/): Hitos de IA, tecnología y energía en Paraguay desde 1973
 - [Glosario de IA en Paraguay](https://muchotexto.net/glosario/): Definiciones de términos clave explicados en contexto paraguayo
 
 ## Información técnica
