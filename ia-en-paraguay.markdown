@@ -12,7 +12,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 **Biblioteca de análisis** — 29 artículos organizados por sector: [Energía e infraestructura](#infraestructura-y-energia) · [Geopolítica y regulación](#geopolítica-y-regulación-tech) · [Sociedad y trabajo](#ia-sociedad-y-trabajo) · [Ecosistema tech](#tecnología-aplicada-y-ecosistema) · [Cultura y futuro](#cultura-filosofía-y-futuro)
 
-También: [Cronología de la IA en Paraguay](/cronologia/) — todos los hitos con fechas y fuentes · [Mapa regulatorio](/regulacion/) — leyes, decretos y estrategias vigentes · [Glosario vivo](/glosario/) — términos clave explicados en contexto local
+También: [Cronología](/cronologia/) — hitos con fechas y fuentes · [Mapa regulatorio](/regulacion/) — leyes y decretos vigentes · [Directorio](/directorio/) — startups, hubs y comunidades · [Glosario vivo](/glosario/) — términos en contexto local
 
 ## Infraestructura y energía
 

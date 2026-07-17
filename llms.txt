@@ -63,6 +63,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 
 - [Cronología](https://muchotexto.net/cronologia/): Hitos de IA, tecnología y energía en Paraguay desde 1973
 - [Regulación](https://muchotexto.net/regulacion/): Marco legal de IA en Paraguay — leyes, decretos y estrategias vigentes
+- [Directorio](https://muchotexto.net/directorio/): Startups, aceleradoras, comunidades y data centers de IA en Paraguay
 - [Glosario de IA en Paraguay](https://muchotexto.net/glosario/): Definiciones de términos clave explicados en contexto paraguayo
 
 ## Información técnica
