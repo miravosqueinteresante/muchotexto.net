@@ -2,7 +2,7 @@
 layout: page
 title: "Casos de uso de IA en Paraguay"
 permalink: /casos-de-uso/
-description: "Cómo se está usando la inteligencia artificial en sectores productivos de Paraguay. Casos reales documentados con fuentes verificables. Actualizado al 17 de julio de 2026."
+description: "Como se usa la inteligencia artificial en sectores productivos de Paraguay. Casos documentados con fuentes verificables. Actualizado al 17 de julio de 2026."
 last_modified_at: 2026-07-17
 ---
 
