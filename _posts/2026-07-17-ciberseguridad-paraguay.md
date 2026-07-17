@@ -5,10 +5,10 @@ date: 2026-07-17
 last_modified_at: 2026-07-17
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
-description: "Paraguay tiene CERT-PY desde 2012 y ratifico el Convenio de Budapest. Pero en 2024 hackers chinos infiltraron el gobierno y en 2025 un ataque expuso 7.4M de registros."
+description: "Paraguay tiene CERT-PY desde 2012 y ratifico el Convenio de Budapest. Pero en 2024 hackers chinos infiltraron el gobierno y en 2025 un ataque paralizo 18 agencias publicas."
 ---
 
-En 2012, Paraguay creó su Centro de Respuesta a Incidentes de Seguridad Informática. Lo llamó CERT-PY. Trece años después, en julio de 2026, el gobierno de Estados Unidos y el gobierno de Paraguay emitieron una declaración conjunta denunciando que actores cibernéticos vinculados a China habían comprometido sistemas informáticos del gobierno paraguayo. No era la primera vez. En 2024, el grupo Flax Typhoon —asociado a la inteligencia china— ya había infiltrado redes gubernamentales paraguayas. En junio de 2025, un ataque de ransomware a una empresa proveedora del Estado expuso 7,4 millones de registros de ciudadanos y forzó a 18 agencias públicas a operar sin sus sistemas digitales.
+En 2012, Paraguay creó su Centro de Respuesta a Incidentes de Seguridad Informática. Lo llamó CERT-PY. Trece años después, en julio de 2026, el gobierno de Estados Unidos y el gobierno de Paraguay emitieron una declaración conjunta denunciando que actores cibernéticos vinculados a China habían comprometido sistemas informáticos del gobierno paraguayo. No era la primera vez. En 2024, el grupo Flax Typhoon —asociado a la inteligencia china— ya había infiltrado redes gubernamentales paraguayas. En junio de 2025, un ataque de ransomware a un proveedor del Estado expuso millones de registros de ciudadanos y paralizó 18 agencias públicas.
 
 Paraguay tiene un centro de ciberseguridad. Tiene una estrategia nacional aprobada por decreto. Ratificó el Convenio de Budapest contra el cibercrimen. Y sin embargo, en los últimos dos años fue atacado por una potencia extranjera, sufrió la mayor filtración de datos de su historia y mantiene congelada la negociación más importante de su política energética por un caso de espionaje. Este artículo mide la distancia entre la defensa que Paraguay dice tener y la que realmente necesita.
 
@@ -30,7 +30,7 @@ En 2024, el grupo Flax Typhoon —un actor de amenazas persistentes avanzadas vi
 
 En abril de 2025, la Agencia Brasileña de Inteligencia fue acusada de espiar a funcionarios paraguayos involucrados en la negociación del Anexo C de Itaipú. Paraguay suspendió indefinidamente todas las negociaciones con Brasil, [un escenario que analizamos en profundidad en el contexto del Anexo C de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %}). El caso expuso algo más grave que la tensión diplomática: reveló que actores estatales —aliados o adversarios— consideran a Paraguay un objetivo legítimo de operaciones de inteligencia ofensiva, y que la capacidad paraguaya de detectar esas operaciones es limitada.
 
-En junio de 2025, un ataque de ransomware contra un proveedor de servicios tecnológicos del Estado paraguayo paralizó los sistemas de al menos 18 agencias gubernamentales. Los atacantes cifraron los datos y exigieron un rescate de 7,4 millones de dólares. El incidente expuso 7,4 millones de registros de ciudadanos —aproximadamente el equivalente a toda la población del país— y dejó a instituciones sin acceso a sus sistemas de gestión durante días.
+En junio de 2025, un ataque de ransomware contra un proveedor de servicios tecnológicos del Estado paraguayo paralizó los sistemas de al menos 18 agencias gubernamentales. Los atacantes cifraron datos y exigieron un rescate millonario. Millones de registros de ciudadanos quedaron expuestos y las instituciones afectadas operaron sin acceso a sus sistemas de gestión durante días.
 
 En julio de 2026, Estados Unidos y Paraguay emitieron una declaración conjunta denunciando "operaciones cibernéticas maliciosas chinas" contra sistemas del gobierno paraguayo. El comunicado mencionaba explícitamente a actores vinculados a la República Popular China y señalaba que las operaciones estaban dirigidas a infraestructura gubernamental crítica.
 

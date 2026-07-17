@@ -12,16 +12,16 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 ## Infraestructura y energía
 
-**Data center** — Instalación que alberga miles de servidores funcionando 24/7 para procesar y almacenar datos. Yguazú Digital proyecta un data center de 1.000 MW en su fase final. Desde los servidores que entrenan a ChatGPT hasta las transacciónes financieras, todo pasa por un data center en algún lugar del mundo.
+**Data center** — Instalación que alberga miles de servidores funcionando 24/7 para procesar y almacenar datos. Yguazú Digital proyecta un data center de 1.000 MW en su fase final. Desde los servidores que entrenan a ChatGPT hasta las transacciones financieras, todo pasa por un data center en algún lugar del mundo.
 → [Qué es un data center y por qué Paraguay quiere construir uno](/artículos/2026/07/10/que-es-un-data-center-paraguay-ia/)
 
 **MW (megavatio)** — Unidad de potencia eléctrica. La capacidad de un data center se mide en MW porque la electricidad es su principal insumo. Yguazú Digital planea 10 MW en su fase 1 y 1.000 MW en su fase 3. Un MW abastece aproximadamente 750 hogares.
 → [Red eléctrica de Paraguay](/artículos/2026/07/08/red-eléctrica-paraguay-ia/)
 
-**GPU** — Chip especializado en cálculo paralelo, esencial para entrenar modelos de inteligencia artificial. NVIDIA fábrica los más usados (H100 y H200, entre USD 25.000 y 40.000 cada uno). Taiwán, que fábrica estos chips, es socia de Paraguay en el proyecto Yguazú Digital.
+**GPU** — Chip especializado en cálculo paralelo, esencial para entrenar modelos de inteligencia artificial. NVIDIA fabrica los más usados (H100 y H200, entre USD 25.000 y 40.000 cada uno). Taiwán, que fabrica estos chips, es socia de Paraguay en el proyecto Yguazú Digital.
 → [Qué es un data center](/artículos/2026/07/10/que-es-un-data-center-paraguay-ia/)
 
-**Rack** — Gabinete metálico donde se apilan servidores. Un rack estándar contiene entre 20 y 40 servidores. Los racks para IA consumen 40-80 kW por unidad, cinco veces más que los racks tradiciónales.
+**Rack** — Gabinete metálico donde se apilan servidores. Un rack estándar contiene entre 20 y 40 servidores. Los racks para IA consumen 40-80 kW por unidad, cinco veces más que los racks tradicionales.
 
 **PUE (Power Usage Effectiveness)** — Índice que mide la eficiencia energética de un data center. Un PUE de 1.5 significa que por cada MW utilizado en cómputo, se gasta 0.5 MW adicional en refrigeración y pérdidas. Paraguay parte en desventaja por su falta de experiencia operando data centers a gran escala.
 
@@ -62,22 +62,22 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **Anexo C de Itaipú** — El anexo financiero del Tratado de Itaipú que fija el precio de la electricidad que Paraguay vende a Brasil. Vence en 2027. Si no se renueva, la tarifa caería un 60% y Paraguay perdería unos USD 1.250 millones anuales.
 → [Red eléctrica de Paraguay](/artículos/2026/07/08/red-eléctrica-paraguay-ia/)
 
-**Yguazú Digital** — Proyecto binaciónal Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de propiedad 50/50 copiado de Itaipú.
+**Yguazú Digital** — Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de propiedad 50/50 copiado de Itaipú.
 → [Yguazú Digital y la apuesta de Paraguay](/artículos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
 
-**IA soberana (Sovereign AI)** — Concepto impulsado por Jensen Huang (NVIDIA) desde 2023 que propone que cada país tenga su propia infraestructura, datos y modelos de inteligencia artificial. Sus cinco componentes: soberanía de datos, de infraestructura, de modelo, regulatoria y de conocimiento. Paraguay tiene infraestructura (HIVE, Yguazú Digital) pero carece de estrategia naciónal y de un modelo de IA propio en español y guaraní.
+**IA soberana (Sovereign AI)** — Concepto impulsado por Jensen Huang (NVIDIA) desde 2023 que propone que cada país tenga su propia infraestructura, datos y modelos de inteligencia artificial. Sus cinco componentes: soberanía de datos, de infraestructura, de modelo, regulatoria y de conocimiento. Paraguay tiene infraestructura (HIVE, Yguazú Digital) pero carece de estrategia nacional y de un modelo de IA propio en español y guaraní.
 → [Paraguay tiene más GPU que estrategia para inteligencia artificial](/artículos/2026/07/16/ia-soberana-paraguay/)
 
 **TSMC (Taiwan Semiconductor Manufacturing Company)** — La mayor fundición de semiconductores del mundo. Fabrica más del 90% de los chips más avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturó USD 122.000 millones en 2025. Sus fábricas fuera de Taiwán están en Arizona, Kumamoto (Japón) y Dresden (Alemania). No tiene presencia en América Latina.
-→ [Por qué Taiwán no fábrica semiconductores en Paraguay](/artículos/2026/07/15/semiconductores-taiwan-paraguay/)
+→ [Por qué Taiwán no fabrica semiconductores en Paraguay](/artículos/2026/07/15/semiconductores-taiwan-paraguay/)
 
 **Silicon Shield** — Concepto geopolítico que describe la industria de semiconductores de Taiwán como un activo de defensa estratégica. La lógica: el mundo es tan dependiente de los chips taiwaneses que ninguna potencia se atrevería a interrumpir su producción. Taiwán produce aproximadamente el 60% de todos los semiconductores del mundo.
-→ [Por qué Taiwán no fábrica semiconductores en Paraguay](/artículos/2026/07/15/semiconductores-taiwan-paraguay/)
+→ [Por qué Taiwán no fabrica semiconductores en Paraguay](/artículos/2026/07/15/semiconductores-taiwan-paraguay/)
 
-**ASML / litografía EUV** — ASML es la empresa holandesa que fábrica las únicas máquinas de litografía ultravioleta extrema (EUV) del mundo, esenciales para producir chips de 7 nanómetros o menos. Una máquina EUV de última generación puede costar hasta USD 340 millones. Sin ASML, TSMC no puede fábricar chips avanzados.
-→ [Por qué Taiwán no fábrica semiconductores en Paraguay](/artículos/2026/07/15/semiconductores-taiwan-paraguay/)
+**ASML / litografía EUV** — ASML es la empresa holandesa que fabrica las únicas máquinas de litografía ultravioleta extrema (EUV) del mundo, esenciales para producir chips de 7 nanómetros o menos. Una máquina EUV de última generación puede costar hasta USD 340 millones. Sin ASML, TSMC no puede fabricar chips avanzados.
+→ [Por qué Taiwán no fabrica semiconductores en Paraguay](/artículos/2026/07/15/semiconductores-taiwan-paraguay/)
 
-**Ley 7593/2025** — Primera ley integral de protección de datos personales de Paraguay, vigente desde noviembre de 2027. Alíneada con el GDPR europeo, pero con una autoridad sin independencia estructural y multas máximas de USD 160.000.
+**Ley 7593/2025** — Primera ley integral de protección de datos personales de Paraguay, vigente desde noviembre de 2027. Alineada con el GDPR europeo, pero con una autoridad sin independencia estructural y multas máximas de USD 160.000.
 → [Ley de protección de datos en Paraguay](/artículos/2026/07/07/ley-protección-datos-paraguay-ia/)
 
 **Maquila tecnológica** — Régimen tributario que grava los servicios tecnológicos exportados al 1%, creado por la Ley 7547/2025. Similar al modelo de India y Filipinas. Paraguay lo aprobó pero aún no lo utiliza a escala.
@@ -89,26 +89,26 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 ## Fintech y cripto
 
-**Blockchain** — Tecnología de registro distribuido que permite transacciónes sin intermediarios. La Ley 7572/2025 reconoce los valores emitidos mediante blockchain en Paraguay.
+**Blockchain** — Tecnología de registro distribuido que permite transacciones sin intermediarios. La Ley 7572/2025 reconoce los valores emitidos mediante blockchain en Paraguay.
 → [Tokenización del agro en Paraguay](/artículos/2026/05/18/tokenizacion-del-agro-paraguay/)
 
 **Tokenización** — Conversión de un activo real (tierra, soja, ganado) en tokens digitales. Paraguay aprobó la Ley 7572/2025 que lo permite, pero aún necesita regulación secundaria y catastro completo.
 → [Tokenización del agro en Paraguay](/artículos/2026/05/18/tokenizacion-del-agro-paraguay/)
 
-**SPI (Sistema de Pagos Instantáneos)** — Sistema del Banco Central de Paraguay que permite transferencias inmediatas 24/7. En junio de 2025 procesó 28 millones de transacciónes en un solo mes.
+**SPI (Sistema de Pagos Instantáneos)** — Sistema del Banco Central de Paraguay que permite transferencias inmediatas 24/7. En junio de 2025 procesó 28 millones de transacciones en un solo mes.
 → [Fintech en Paraguay](/artículos/2026/07/10/fintech-paraguay-ecosistema/)
 
 **Hash rate** — Medida de la potencia de cómputo total de la red Bitcoin. Paraguay ocupa el cuarto lugar mundial (~4.3% del total), detrás de Estados Unidos, Rusia y China.
 → [Criptominería en Paraguay](/artículos/2026/07/07/criptominería-paraguay-energía-barata/)
 
-**Bitcoin mining** — Proceso de validación de transacciónes en la red Bitcoin que requiere computadoras especializadas (ASICs) consumiendo grandes cantidades de electricidad.
+**Bitcoin mining** — Proceso de validación de transacciones en la red Bitcoin que requiere computadoras especializadas (ASICs) consumiendo grandes cantidades de electricidad.
 → [Criptominería en Paraguay](/artículos/2026/07/07/criptominería-paraguay-energía-barata/)
 
 ---
 
 ## Startups y ecosistema
 
-**Capital de riesgo (VC)** — Inversión en startups a cambio de participación accionaria. Paraguay registró un récord de USD 3.9 millones en 2025. El 55% del capital provino de Estados Unidos. Aún no existe un ecosistema de VC instituciónal con sede en Paraguay.
+**Capital de riesgo (VC)** — Inversión en startups a cambio de participación accionaria. Paraguay registró un récord de USD 3.9 millones en 2025. El 55% del capital provino de Estados Unidos. Aún no existe un ecosistema de VC institucional con sede en Paraguay.
 → [Startups de IA en Paraguay](/artículos/2026/07/14/startups-ia-paraguay/)
 
 **KOGA Impact Lab** — Aceleradora de startups más importante de Paraguay, con más de 14 años de actividad. Ha apoyado a más de 200 startups y capacitado a más de 10.000 emprendedores. Funciona como el punto de encuentro del ecosistema emprendedor paraguayo.
@@ -151,9 +151,32 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 **Periodismo automatizado** — Uso de algoritmos para generar contenido periodístico sin intervención humana directa. Associated Press lo usa desde 2014 para reportes financieros. En Paraguay ningún medio ha documentado el uso de estas herramientas.
 
-**Telemedicina** — Atención médica a distancia mediante tecnología de comúnicación. Paraguay opera un Programa Nacional de Telesalud desde 2013 con más de un millón de diagnósticos remotos (tomografías, electrocardiogramas, electroencefalogramas) en 80 centros de los 18 departamentos sanitarios. El IPS lanzó su Hospital Virtual en julio de 2026.
+**Telemedicina** — Atención médica a distancia mediante tecnología de comunicación. Paraguay opera un Programa Nacional de Telesalud desde 2013 con más de un millón de diagnósticos remotos (tomografías, electrocardiogramas, electroencefalogramas) en 80 centros de los 18 departamentos sanitarios. El IPS lanzó su Hospital Virtual en julio de 2026.
 → [IA y salud en Paraguay](/artículos/2026/07/16/ia-salud-paraguay/)
 
 ---
+
+## Ciberseguridad
+
+**CERT-PY** — Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios de vulnerabilidades, mantiene un SOC gubernamental y audita sistemas web del Estado. La Estrategia Nacional de Ciberseguridad 2025-2028 fue aprobada en mayo de 2025.
+→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
+
+**Ransomware** — Tipo de ciberataque que cifra los datos de una organización y exige un rescate para liberarlos. En junio de 2025 un ataque de ransomware expuso 7,4 millones de registros de ciudadanos paraguayos y paralizó 18 agencias públicas. El ataque al Colonial Pipeline en EEUU (2021) costó USD 4,4 millones.
+→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
+
+**Convenio de Budapest** — Principal tratado internacional contra el cibercrimen, en vigor desde 2004. Paraguay lo ratificó, obligándose a tipificar delitos informáticos, cooperar con investigaciones internacionales y mantener un punto de contacto disponible 24/7. Sin embargo, Paraguay aún no tiene una ley de delitos informáticos que implemente sus disposiciones.
+→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
+
+---
+
+
+**CERT-PY** — Centro de Respuesta a Incidentes de Seguridad Informatica de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios de vulnerabilidades, mantiene un SOC gubernamental y audita sistemas web del Estado. La Estrategia Nacional de Ciberseguridad 2025-2028 fue aprobada por Decreto 3900 en mayo de 2025.
+→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
+
+**Ransomware** — Tipo de ciberataque que cifra los datos de una organizacion y exige un rescate para liberarlos. En junio de 2025 un ataque de ransomware paralizo 18 agencias publicas en Paraguay. El ataque al Colonial Pipeline en EEUU (2021) costo USD 4,4 millones y se debio a una sola contrasena sin doble factor de autenticacion.
+→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
+
+**Convenio de Budapest** — Principal tratado internacional contra el cibercrimen, en vigor desde 2004. Paraguay lo ratifico, obligandose a tipificar delitos informaticos y cooperar con investigaciones internacionales. Sin embargo, Paraguay aun no tiene una ley de delitos informaticos que implemente sus disposiciones.
+→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
 
 Este glosario se actualiza a medida que crece el ecosistema. Para un análisis completo de cada tema, visita la [guía de IA en Paraguay](/ia-en-paraguay/).
