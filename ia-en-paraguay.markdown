@@ -19,8 +19,9 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** - El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
 - **[Criptominería en Paraguay: el costo real de la energía barata]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto país con mayor minería de bitcoin del mundo.
 - **[Red eléctrica de Paraguay: el cuello de botella de la IA global]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** - Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
+- **[En 2027 Paraguay puede perder mil millones de dólares de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El Anexo C vence. Las negociaciones están congeladas. Paraguay recibe USD 1.000M al año. ¿Qué pasa si no hay acuerdo?
 
-**Próximamente:** Itaipú 2027, hidrógeno verde, y el impacto local de un data center de $200M.
+**Próximamente:** Hidrógeno verde y el impacto local de un data center de $200M.
 
 ## Geopolítica y regulación tech
 

@@ -186,9 +186,7 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
         # Diacriticos (tilde diacritica)
         (r'\bmas\b', 'm\u00e1s'),
         (r'\besta\b', 'est\u00e1'),
-        (r'\bsi\b', 's\u00ed'),
         (r'\bte\b', 't\u00e9'),
-        (r'\bel\b', '\u00e9l'),
         # Sustantivos y adjetivos terminados en -ion, -ia, -ia(s)
         (r'\b\w+cions?\b', None),  # -cion -> -ción (regex match, flag generico)
         (r'\bregion\b', 'regi\u00f3n'),
