@@ -22,8 +22,8 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[En 2027 Paraguay puede perder mil millones de dólares de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El Anexo C vence. Las negociaciones están congeladas. Paraguay recibe USD 1.000M al año. ¿Qué pasa si no hay acuerdo?
 
 **Próximamente:**
-- Hidrógeno verde
 - Impacto local de un data center de $200M
+- Hidrógeno verde
 
 ## Geopolítica y regulación tech
 
@@ -36,7 +36,9 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
 
-**Próximamente:** Silicon Valley en el Cono Sur y el modelo Itaipú aplicado a la IA.
+**Próximamente:**
+- Silicon Valley en el Cono Sur
+- Estrategia nacional de IA
 
 ## IA, sociedad y trabajo
 
@@ -62,7 +64,11 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Por qué Asunción no es una ciudad inteligente todavía]({% post_url 2026-07-17-smart-cities-asuncion-paraguay %})** - Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?
 - **[Paraguay no usa IA para hacer periodismo pero la desinformación sí]({% post_url 2026-07-16-ia-periodismo-paraguay %})** - Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas y Brasil prohibió la IA en campañas.
 
-**Próximamente:** IA en la justicia, e-commerce y logística, cadena de valor del data center.
+**Próximamente:**
+- IA en la justicia
+- Adopción de IA en el sector público
+- Cadena de valor del data center
+- E-commerce y logística
 
 ## Cultura, filosofía y futuro
 
@@ -75,7 +81,10 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
 - **[¿Qué es realmente el fútbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** - Una reflexión filosófica sobre el juego más popular del mundo.
 
-**Próximamente:** Guaraní e IA y Paraguay 2040.
+**Próximamente:**
+- Guaraní e IA
+- Paraguay 2040
+- Sesgo algorítmico y derechos digitales
 
 ---
 
