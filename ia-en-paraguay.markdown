@@ -47,8 +47,9 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Starlink ya conecta a 20.000 paraguayos donde la fibra no llega]({% post_url 2026-07-15-starlink-paraguay-conectividad %})** - Starlink opera en Paraguay desde 2023. Mil seiscientas antenas en escuelas rurales, 20.000 usuarios y una pregunta: ¿basta con conectar?
 - **[Paraguay digitalizó 223 trámites pero la cédula sigue siendo en papel]({% post_url 2026-07-16-gobierno-digital-paraguay %})** - Paraguay tiene arquitectura de gobierno digital pero el ciudadano no puede renovar su cédula online.
 - **[Paraguay tiene telemedicina desde 2013, la IA en salud todavía no]({% post_url 2026-07-16-ia-salud-paraguay %})** - Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales.
+- **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
 
-**Próximamente:** IA y corrupción.
+**Próximamente:** (Pilar 3 completado)
 
 ## Tecnología aplicada y ecosistema
 
