@@ -5,7 +5,7 @@ date: 2026-07-17
 last_modified_at: 2026-07-17
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
-description: "Brasil tiene ALICE, un sistema de IA que detecta anomalias en licitaciones desde 2015. Paraguay tiene 24/100 en Transparencia Internacional y compras publicas sin auditar con IA."
+description: "Brasil tiene ALICE, IA que detecta anomalías en licitaciones desde 2015. Paraguay tiene 24/100 en Transparencia Internacional y compras públicas sin auditar."
 ---
 
 En 2015, la Contraloría General de la Unión de Brasil puso en marcha un sistema llamado ALICE. No es un sistema de vigilancia masiva ni una red de denuncias anónimas. Es un algoritmo que lee pliegos de licitación en tiempo real, cruza precios de mercado, verifica que las empresas que compiten no tengan los mismos dueños y detecta patrones que un auditor humano tardaría semanas en encontrar. Costó aproximadamente un millón de dólares desarrollar la primera versión. Solo en 2024, ALICE analizó compras por 30.600 millones de reales y generó beneficios de 1.250 millones de reales. El sistema lo ofrece gratuitamente la Contraloría brasileña a estados y municipios.

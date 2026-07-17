@@ -179,30 +179,46 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     elif len(description) > 155:
         warnings.append(f"Meta description muy larga: {len(description)} chars (max 155)")
 
-    # === ACENTOS FALTANTES (diccionario LibreOffice 58K palabras) ===
+    # === ACENTOS: patrones criticos (ERROR) + diccionario (WARNING) ===
     missing_accents = []
+    # Critical patterns that keep recurring in our content
+    checks = [
+        (r'\bmas\b', 'más'), (r'\besta\b', 'está'), (r'\bte\b', 'té'),
+        (r'\bano\b', 'año'), (r'\bpais\b', 'país'),
+        (r'\bperdio\b', 'perdió'), (r'\bprohibio\b', 'prohibió'),
+        (r'\bratifico\b', 'ratificó'), (r'\bparalizo\b', 'paralizó'),
+        (r'\bpodria\b', 'podría'), (r'\bseria\b', 'sería'), (r'\btenia\b', 'tenía'),
+        (r'\bpublico\b', 'público'), (r'\bpublica\b', 'pública'), (r'\bpublicas\b', 'públicas'),
+        (r'\barticulo\b', 'artículo'), (r'\btitulo\b', 'título'),
+        (r'\bningun\b', 'ningún'), (r'\bsegun\b', 'según'), (r'\bdespues\b', 'después'),
+        (r'\bcampanas\b', 'campañas'), (r'\benganos\b', 'engaños'),
+        (r'\bregion\b', 'región'), (r'\bregulacion\b', 'regulación'),
+        (r'\btecnologia\b', 'tecnología'), (r'\benergia\b', 'energía'),
+        (r'\beconomia\b', 'economía'), (r'\beducacion\b', 'educación'),
+        (r'\btransmision\b', 'transmisión'), (r'\binformacion\b', 'información'),
+        (r'\binvestigacion\b', 'investigación'),
+    ]
+    text_to_check = f"{title or ''} {description or ''}"
+    for pattern, correct in checks:
+        match = re.search(pattern, text_to_check, re.IGNORECASE)
+        if match:
+            found = match.group(0)
+            missing_accents.append(f"'{found}' deberia ser '{correct}'")
+    if missing_accents:
+        errors.append("ACENTOS FALTANTES en titulo o description: " + ", ".join(missing_accents))
+
+    # Dictionary-based spellcheck (warning only, catches unexpected patterns)
     try:
-        import urllib.request, os
         dict_path = os.path.join(os.path.dirname(__file__), 'es_ES.dic')
-        if not os.path.exists(dict_path):
-            url = 'https://github.com/LibreOffice/dictionaries/raw/master/es/es_ES.dic'
-            try:
-                req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                resp = urllib.request.urlopen(req, timeout=10)
-                with open(dict_path, 'wb') as f:
-                    f.write(resp.read())
-            except:
-                pass
         if os.path.exists(dict_path):
             with open(dict_path, 'r', encoding='utf-8') as f:
                 spanish_words = set(line.strip().split('/')[0] for line in f if line.strip() and not line.startswith('#'))
-            text_to_check = f"{title or ''} {description or ''}"
             words_in_text = set(re.findall(r'\b[a-záéíóúñü]+\b', text_to_check, re.IGNORECASE))
-            unknown = [w for w in words_in_text if w.lower() not in spanish_words]
+            unknown = [w for w in words_in_text if w.lower() not in spanish_words and w.islower()]
             if unknown:
-                warnings.append(f"Posibles errores ortograficos: {', '.join(sorted(unknown)[:15])}")
-    except Exception as e:
-        pass  # si falla el diccionario, no bloquea
+                warnings.append(f"Posibles errores ortograficos (dict): {', '.join(sorted(unknown)[:8])}")
+    except:
+        pass
 
     # === CHECK: texto 100% ASCII (sin acentos) ===
     non_ascii = any(ord(c) > 127 for c in (title or '') + (description or ''))
