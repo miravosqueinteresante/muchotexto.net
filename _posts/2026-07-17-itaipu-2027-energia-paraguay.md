@@ -5,7 +5,7 @@ date: 2026-07-17
 last_modified_at: 2026-07-17
 categories: articulos
 tags: infraestructura-energia ia-paraguay
-description: "El Anexo C de Itaipu vence en 2027. Las negociaciones siguen congeladas por un caso de espionaje. Paraguay recibe USD 1.000M al ano y podria perder el 60%."
+description: "El Anexo C de Itaipú vence en 2027. Las negociaciones siguen congeladas por un caso de espionaje. Paraguay recibe USD 1.000M al año y podría perder el 60%."
 ---
 
 El 26 de abril de 1973, Paraguay y Brasil firmaron el Tratado de Itaipú. Cincuenta y tres años después, la represa hidroeléctrica más grande del mundo en generación acumulada —14.000 megavatios instalados, 20 turbinas de 700 megavatios cada una— produce más electricidad que cualquier otra central del planeta y representa aproximadamente el 12% de los ingresos del Estado paraguayo. En 2027, el Anexo C del tratado —el documento que fija el precio al que Paraguay le vende su energía excedente a Brasil— llega a su fin. Las negociaciones para renovarlo están congeladas desde abril de 2025, cuando se reveló que la Agencia Brasileña de Inteligencia espió a funcionarios paraguayos involucrados en la discusión.

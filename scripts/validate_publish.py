@@ -208,6 +208,8 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
         (r'\bprohibio\b', 'prohibi\u00f3'),
         (r'\bdeberian\b', 'deber\u00edan'),
         (r'\bpodrian\b', 'podr\u00edan'),
+        (r'\bpodria\b', 'podr\u00eda'),
+        (r'\bano\b', 'a\u00f1o'),
         (r'\btendrian\b', 'tendr\u00edan'),
         (r'\bhabian\b', 'hab\u00edan'),
         (r'\btenian\b', 'ten\u00edan'),
