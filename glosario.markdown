@@ -169,16 +169,4 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **Convenio de Budapest** — Principal tratado internacional contra el cibercrimen, en vigor desde 2004. Paraguay lo ratificó, obligándose a tipificar delitos informáticos, cooperar con investigaciones internacionales y mantener un punto de contacto disponible 24/7. Sin embargo, Paraguay aún no tiene una ley de delitos informáticos que implemente sus disposiciones.
 → [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
 
----
-
-
-**CERT-PY** — Centro de Respuesta a Incidentes de Seguridad Informatica de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios de vulnerabilidades, mantiene un SOC gubernamental y audita sistemas web del Estado. La Estrategia Nacional de Ciberseguridad 2025-2028 fue aprobada por Decreto 3900 en mayo de 2025.
-→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
-
-**Ransomware** — Tipo de ciberataque que cifra los datos de una organizacion y exige un rescate para liberarlos. En junio de 2025 un ataque de ransomware paralizo 18 agencias publicas en Paraguay. El ataque al Colonial Pipeline en EEUU (2021) costo USD 4,4 millones y se debio a una sola contrasena sin doble factor de autenticacion.
-→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
-
-**Convenio de Budapest** — Principal tratado internacional contra el cibercrimen, en vigor desde 2004. Paraguay lo ratifico, obligandose a tipificar delitos informaticos y cooperar con investigaciones internacionales. Sin embargo, Paraguay aun no tiene una ley de delitos informaticos que implemente sus disposiciones.
-→ [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
-
 Este glosario se actualiza a medida que crece el ecosistema. Para un análisis completo de cada tema, visita la [guía de IA en Paraguay](/ia-en-paraguay/).
