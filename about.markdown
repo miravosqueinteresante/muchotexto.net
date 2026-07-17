@@ -27,13 +27,13 @@ Un reporte diario automatizado que recolecta, procesa y sintetiza las noticias m
 - **Insight del día**: un párrafo de lectura transversal que conecta los temas.
 - **Fuentes consultadas**: lista completa de los medios utilizados.
 
-El Pulso Paraguay se publica automáticamente todas las mañanas a las 08:00 (hora paraguaya) mediante GitHub Actions. La inteligencia artificial lee, resume y organiza, pero no inventa hechos ni nombres: todo dato proviene de las fuentes originales.
+El Pulso Paraguay se publica automáticamente todas las mañanas a las 08:00 (hora paraguaya) mediante GitHub Actions. La inteligencia artificial lee, resume y organiza, pero no inventa hechos ni nombres: todo dato proviene de las fuentes originales. Cada publicación es revisada diariamente por el editor humano.
 
 ### Editorial Diaria
 
 Cada tarde a las 18:00, el sistema toma el Pulso Paraguay del día y genera un artículo de opinión con profundidad cultural, filosófica, sociológica y política. La editorial no repite las noticias: las analiza. Busca patrones, contradicciones, silencios. Pregunta qué dicen los acontecimientos del día sobre el Paraguay que somos y el que queremos ser.
 
-Las editoriales son generadas por GPT-4o con un system prompt que define una voz editorial consistente: español paraguayo natural, compromiso con la verdad, perspectiva crítica, sin sensacionalismo ni partidismo. Cada editorial se basa exclusivamente en la información verificada del Pulso Paraguay del mismo día.
+Las editoriales son generadas por GPT-4o con un system prompt que define una voz editorial consistente: español paraguayo natural, compromiso con la verdad, perspectiva crítica, sin sensacionalismo ni partidismo. Cada editorial se basa exclusivamente en la información verificada del Pulso Paraguay del mismo día. Al igual que el Pulso, cada editorial es revisada por el editor humano el día de su publicación.
 
 ### Artículos de fondo
 

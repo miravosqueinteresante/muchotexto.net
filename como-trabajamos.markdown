@@ -32,7 +32,7 @@ El editor humano —César Sánchez— tiene a su cargo:
 - **Definir la línea editorial** y los principios que gobiernan el _system prompt_ de la IA.
 - **Seleccionar y mantener las fuentes**: qué medios se incluyen, cuáles se agregan o se retiran, y por qué.
 - **Escribir y editar los artículos de fondo** (ensayos long-form de 1.500 a 2.500 palabras) con asistencia de agentes de IA para la fase de investigación (ver sección siguiente). El editor es el responsable intelectual y editorial del artículo. Las herramientas de IA se utilizan como asistentes de investigación y apoyo a la redacción, pero no sustituyen el juicio editorial humano.
-- **Revisar por muestreo** el contenido automatizado diario: se revisa manualmente una muestra representativa de las publicaciones automatizadas y se amplía la revisión cuando se detectan inconsistencias.
+- **Revisar diariamente** el contenido automatizado: cada publicación de Pulso Paraguay y Editorial Diaria es revisada por el editor humano el mismo día de su publicación. No se publica contenido automatizado sin supervisión editorial.
 - **Corregir errores** cuando son detectados o reportados por lectores.
 
 ## Proceso de investigación con agentes de IA
