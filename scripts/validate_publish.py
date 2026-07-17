@@ -179,90 +179,30 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     elif len(description) > 155:
         warnings.append(f"Meta description muy larga: {len(description)} chars (max 155)")
 
-    # === ACENTOS FALTANTES ===
+    # === ACENTOS FALTANTES (diccionario LibreOffice 58K palabras) ===
     missing_accents = []
-    # Agrupados por categoria gramatical. Expandir cuando aparezcan nuevos casos.
-    checks = [
-        # Diacriticos (tilde diacritica)
-        (r'\bmas\b', 'm\u00e1s'),
-        (r'\besta\b', 'est\u00e1'),
-        (r'\bte\b', 't\u00e9'),
-        # Sustantivos y adjetivos terminados en -ion, -ia, -ia(s)
-        (r'\b\w+cions?\b', None),  # -cion -> -ción (regex match, flag generico)
-        (r'\bregion\b', 'regi\u00f3n'),
-        (r'\bregulacion\b', 'regulaci\u00f3n'),
-        (r'\btransmision\b', 'transmisi\u00f3n'),
-        (r'\btecnologia\b', 'tecnolog\u00eda'),
-        (r'\binformatica\b', 'inform\u00e1tica'),
-        (r'\beducacion\b', 'educaci\u00f3n'),
-        (r'\beconomia\b', 'econom\u00eda'),
-        (r'\benergia\b', 'energ\u00eda'),
-        (r'\bgeopolitica\b', 'geopol\u00edtica'),
-        (r'\belectrica\b', 'el\u00e9ctrica'),
-        (r'\bperiodistica\b', 'period\u00edstica'),
-        # Paises y gentilicios (sin tilde)
-        (r'\bpais\b', 'pa\u00eds'),
-        (r'\banalisis\b', 'an\u00e1lisis'),
-        # Verbos conjugados (preterito y futuro)
-        (r'\bperdio\b', 'perdi\u00f3'),
-        (r'\bprohibio\b', 'prohibi\u00f3'),
-        (r'\bratifico\b', 'ratific\u00f3'),
-        (r'\bparalizo\b', 'paraliz\u00f3'),
-        (r'\bdeberian\b', 'deber\u00edan'),
-        (r'\bpodrian\b', 'podr\u00edan'),
-        (r'\bpodria\b', 'podr\u00eda'),
-        (r'\bano\b', 'a\u00f1o'),
-        (r'\btendrian\b', 'tendr\u00edan'),
-        (r'\bhabian\b', 'hab\u00edan'),
-        (r'\btenian\b', 'ten\u00edan'),
-        (r'\beran\b', 'eran'),
-        (r'\bseria\b', 'ser\u00eda'),
-        (r'\bhabia\b', 'hab\u00eda'),
-        (r'\btenia\b', 'ten\u00eda'),
-        (r'\bsegun\b', 'seg\u00fan'),
-        (r'\bdespues\b', 'despu\u00e9s'),
-        # Palabras con ene (sin virgulilla)
-        (r'\bcampanas\b', 'campa\u00f1as'),
-        (r'\benganos\b', 'enga\u00f1os'),
-        # Acentos en sustantivos comunes
-        (r'\barticulo\b', 'art\u00edculo'),
-        (r'\btitulo\b', 't\u00edtulo'),
-        (r'\bultimo\b', '\u00faltimo'),
-        (r'\bproximo\b', 'pr\u00f3ximo'),
-        (r'\btramites\b', 'tr\u00e1mites'),
-        (r'\bningun\b', 'ning\u00fan'),
-        (r'\bcapitulo\b', 'cap\u00edtulo'),
-        (r'\bmaximo\b', 'm\u00e1ximo'),
-        (r'\bminimo\b', 'm\u00ednimo'),
-        (r'\bnumero\b', 'n\u00famero'),
-        (r'\bespecifico\b', 'espec\u00edfico'),
-        (r'\bcaracter\b', 'car\u00e1cter'),
-        # Acentos en adjetivos y adverbios
-        (r'\bfacil\b', 'f\u00e1cil'),
-        (r'\bdificil\b', 'dif\u00edcil'),
-        (r'\brapido\b', 'r\u00e1pido'),
-        (r'\bpublico\b', 'p\u00fablico'),
-        (r'\bautomatico\b', 'autom\u00e1tico'),
-        (r'\bpolitico\b', 'pol\u00edtico'),
-        (r'\belectrico\b', 'el\u00e9ctrico'),
-        (r'\bhistorico\b', 'hist\u00f3rico'),
-        (r'\bcientifico\b', 'cient\u00edfico'),
-        (r'\bestrategico\b', 'estrat\u00e9gico'),
-    ]
-
-    # Expanded regex-based accent check — no external dependencies
-
-    for pattern, correct in checks:
-        if correct is None:
-            continue  # skip generic patterns
-        text_to_check = f"{title or ''} {description or ''}"
-        match = re.search(pattern, text_to_check, re.IGNORECASE)
-        if match:
-            found = match.group(0)
-            missing_accents.append(f"'{found}' deberia ser '{correct}'")
-
-    if missing_accents:
-        errors.append("ACENTOS FALTANTES en titulo o description: " + ", ".join(missing_accents))
+    try:
+        import urllib.request, os
+        dict_path = os.path.join(os.path.dirname(__file__), 'es_ES.dic')
+        if not os.path.exists(dict_path):
+            url = 'https://github.com/LibreOffice/dictionaries/raw/master/es/es_ES.dic'
+            try:
+                req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                resp = urllib.request.urlopen(req, timeout=10)
+                with open(dict_path, 'wb') as f:
+                    f.write(resp.read())
+            except:
+                pass
+        if os.path.exists(dict_path):
+            with open(dict_path, 'r', encoding='utf-8') as f:
+                spanish_words = set(line.strip().split('/')[0] for line in f if line.strip() and not line.startswith('#'))
+            text_to_check = f"{title or ''} {description or ''}"
+            words_in_text = set(re.findall(r'\b[a-záéíóúñü]+\b', text_to_check, re.IGNORECASE))
+            unknown = [w for w in words_in_text if w.lower() not in spanish_words]
+            if unknown:
+                warnings.append(f"Posibles errores ortograficos: {', '.join(sorted(unknown)[:15])}")
+    except Exception as e:
+        pass  # si falla el diccionario, no bloquea
 
     # === CHECK: texto 100% ASCII (sin acentos) ===
     non_ascii = any(ord(c) > 127 for c in (title or '') + (description or ''))
