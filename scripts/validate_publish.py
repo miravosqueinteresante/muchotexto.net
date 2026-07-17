@@ -206,6 +206,8 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
         # Verbos conjugados (preterito y futuro)
         (r'\bperdio\b', 'perdi\u00f3'),
         (r'\bprohibio\b', 'prohibi\u00f3'),
+        (r'\bratifico\b', 'ratific\u00f3'),
+        (r'\bparalizo\b', 'paraliz\u00f3'),
         (r'\bdeberian\b', 'deber\u00edan'),
         (r'\bpodrian\b', 'podr\u00edan'),
         (r'\bpodria\b', 'podr\u00eda'),

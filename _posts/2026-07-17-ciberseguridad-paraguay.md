@@ -5,7 +5,7 @@ date: 2026-07-17
 last_modified_at: 2026-07-17
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
-description: "Paraguay tiene CERT-PY desde 2012 y ratifico el Convenio de Budapest. Pero en 2024 hackers chinos infiltraron el gobierno y en 2025 un ataque paralizo 18 agencias publicas."
+description: "Paraguay tiene CERT-PY desde 2012 y ratificó el Convenio de Budapest. Pero en 2024 hackers chinos infiltraron el gobierno y en 2025 un ataque paralizó 18 agencias públicas."
 ---
 
 En 2012, Paraguay creó su Centro de Respuesta a Incidentes de Seguridad Informática. Lo llamó CERT-PY. Trece años después, en julio de 2026, el gobierno de Estados Unidos y el gobierno de Paraguay emitieron una declaración conjunta denunciando que actores cibernéticos vinculados a China habían comprometido sistemas informáticos del gobierno paraguayo. No era la primera vez. En 2024, el grupo Flax Typhoon —asociado a la inteligencia china— ya había infiltrado redes gubernamentales paraguayas. En junio de 2025, un ataque de ransomware a un proveedor del Estado expuso millones de registros de ciudadanos y paralizó 18 agencias públicas.
