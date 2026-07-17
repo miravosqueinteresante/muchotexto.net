@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: muchotexto.net
-description: "Inteligencia artificial en Paraguay: analisis profundo con datos duros y fuentes verificables. Data centers, energia, geopolitica y el futuro tech paraguayo."
+description: "Observatorio de inteligencia artificial en Paraguay: analisis profundo con datos duros y fuentes verificables. Data centers, energia, geopolitica y el futuro tech paraguayo."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muchotexto.net"
 twitter_username: cesanz

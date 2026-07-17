@@ -1,14 +1,16 @@
 ---
 layout: page
-title: "Inteligencia Artificial en Paraguay: Guía Completa 2026"
+title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
-description: "Guía completa de inteligencia artificial en Paraguay. Data centers, energía, regulación, empleo tech, geopolítica y el impacto de la IA en la sociedad paraguaya."
+description: "Observatorio de inteligencia artificial en Paraguay. Data centers, energía, regulación, empleo tech, geopolítica y el impacto de la IA en la sociedad paraguaya. Actualizado al 17 de julio de 2026."
 last_modified_at: 2026-07-17
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
 
 Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre inteligencia artificial en Paraguay. Cada artículo es un análisis en profundidad -1.500 a 2.500 palabras, fuentes verificadas, argumentos a favor y en contra- publicado con un solo objetivo: que entiendas lo que está pasando, por qué importa y qué puede significar para el país.
+
+**Biblioteca de análisis** — 29 artículos organizados por sector: [Energía e infraestructura](#infraestructura-y-energia) · [Geopolítica y regulación](#geopolítica-y-regulación-tech) · [Sociedad y trabajo](#ia-sociedad-y-trabajo) · [Ecosistema tech](#tecnología-aplicada-y-ecosistema) · [Cultura y futuro](#cultura-filosofía-y-futuro)
 
 ## Infraestructura y energía
 

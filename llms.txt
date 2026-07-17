@@ -1,4 +1,4 @@
-# muchotexto.net
+# muchotexto.net — Observatorio de IA en Paraguay
 > Análisis profundo de inteligencia artificial desde Paraguay: infraestructura, geopolítica, regulación y su impacto social. Por [César Sánchez](https://muchotexto.net/about/).
 sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/cesar-sanchez-melgarejo/)
 
