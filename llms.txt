@@ -33,6 +33,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay entre China y Taiwán: el último aliado tecnológico](https://muchotexto.net/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/)
 - [Por qué Taiwán no fabrica semiconductores en Paraguay](https://muchotexto.net/articulos/2026/07/14/semiconductores-taiwan-paraguay/)
 - [Paraguay tiene más GPU que estrategia para inteligencia artificial](https://muchotexto.net/articulos/2026/07/16/ia-soberana-paraguay/)
+- [Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años](https://muchotexto.net/articulos/2026/07/17/ciberseguridad-paraguay/)
 
 ### Pilar 3: IA, sociedad y trabajo
 - [Anotación de datos para IA: la ventaja silenciosa de Paraguay](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)

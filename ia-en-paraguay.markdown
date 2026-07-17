@@ -3,7 +3,7 @@ layout: page
 title: "Inteligencia Artificial en Paraguay: Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Guía completa de inteligencia artificial en Paraguay. Data centers, energía, regulación, empleo tech, geopolítica y el impacto de la IA en la sociedad paraguaya."
-last_modified_at: 2026-07-16
+last_modified_at: 2026-07-17
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -32,8 +32,9 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Paraguay entre China y Taiwán: el último aliado tecnológico]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** - Paraguay es el último país de Sudamérica que reconoce a Taiwán.
 - **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** - TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?
+- **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
 
-**Próximamente:** Ciberseguridad, Silicon Valley en el Cono Sur, y el modelo Itaipú aplicado a la IA.
+**Próximamente:** Silicon Valley en el Cono Sur y el modelo Itaipú aplicado a la IA.
 
 ## IA, sociedad y trabajo
 
