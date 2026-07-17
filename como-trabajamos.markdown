@@ -5,7 +5,7 @@ permalink: /como-trabajamos/
 description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuentes, verificamos datos, usamos inteligencia artificial y corregimos errores."
 ---
 
-**muchotexto.net** es un medio de análisis interpretativo y editorial que utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
+**muchotexto.net** es el observatorio de inteligencia artificial en Paraguay. Utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
 
 ## Origen de la información
 

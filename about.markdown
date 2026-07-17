@@ -5,7 +5,7 @@ permalink: /about/
 description: "Conocé al autor de muchotexto.net, su trayectoria en anotación de datos y análisis de IA, y la filosofía de lectura profunda del medio digital."
 ---
 
-**muchotexto.net** es el medio digital de **César Sánchez**, un espacio dedicado al análisis profundo de Paraguay, la tecnología y las ideas que importan. Asistido por inteligencia artificial para investigar, cruzar datos y generar contenido.
+**muchotexto.net** es el observatorio de inteligencia artificial en Paraguay, un medio digital de **César Sánchez** dedicado al análisis profundo de Paraguay, la tecnología y las ideas que importan. Asistido por inteligencia artificial para investigar, cruzar datos y generar contenido.
 
 ## Sobre el autor
 
@@ -47,7 +47,7 @@ Todos estos análisis forman parte del [cluster de inteligencia artificial en Pa
 
 ## Filosofía
 
-**Lectura profunda.** En un mundo de contenido efímero, apostamos por el texto que necesita tiempo para decir lo que tiene que decir. Sin pop-ups, sin muros de pago, sin scroll infinito. Solo texto, datos y análisis.
+**Observatorio de inteligencia artificial en Paraguay.** En un mundo de contenido efímero, apostamos por el texto que necesita tiempo para decir lo que tiene que decir. Sin pop-ups, sin muros de pago, sin scroll infinito. Solo texto, datos y análisis.
 
 El sitio se sostiene con publicidad no intrusiva y seguirá siendo un espacio independiente.
 
