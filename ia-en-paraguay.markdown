@@ -49,7 +49,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Paraguay tiene telemedicina desde 2013, la IA en salud todavía no]({% post_url 2026-07-16-ia-salud-paraguay %})** - Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales.
 - **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
 
-**Próximamente:** Formación universitaria en IA — qué carreras y diplomados de inteligencia artificial ofrecen las universidades paraguayas. Impacto laboral de la automatización — qué sectores paraguayos ya están transformando empleos por IA. Producción científica en IA desde Paraguay.
+**Próximamente:** Formación universitaria en IA — qué carreras y diplomados de inteligencia artificial ofrecen las universidades paraguayas. Impacto laboral de la automatización — qué sectores ya están transformando empleos por IA. Producción científica en IA desde Paraguay. Empresas paraguayas que ya usan IA con resultados medibles — más allá de las startups, casos de adopción real en banca, agroindustria y retail. Paraguayos liderando en IA fuera del país — la diáspora tech que sí funciona. Iniciativas de formación que están dando resultados — más allá del déficit, ¿qué programas funcionan?
 
 ## Tecnología aplicada y ecosistema
 
