@@ -12,7 +12,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 **Biblioteca de análisis** — 29 artículos organizados por sector: [Energía e infraestructura](#infraestructura-y-energia) · [Geopolítica y regulación](#geopolítica-y-regulación-tech) · [Sociedad y trabajo](#ia-sociedad-y-trabajo) · [Ecosistema tech](#tecnología-aplicada-y-ecosistema) · [Cultura y futuro](#cultura-filosofía-y-futuro)
 
-También: [Cronología](/cronologia/) — hitos con fechas y fuentes · [Mapa regulatorio](/regulacion/) — leyes y decretos vigentes · [Directorio](/directorio/) — startups, hubs y comunidades · [Glosario vivo](/glosario/) — términos en contexto local
+También: [Cronología](/cronologia/) · [Mapa regulatorio](/regulacion/) · [Directorio](/directorio/) · [Casos de uso](/casos-de-uso/) · [Glosario vivo](/glosario/)
 
 ## Infraestructura y energía
 
