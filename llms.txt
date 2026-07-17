@@ -62,6 +62,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [El futuro de la identidad y la conciencia](https://muchotexto.net/articulos/2026/05/13/ciberhumanidad/)
 
 - [Cronología](https://muchotexto.net/cronologia/): Hitos de IA, tecnología y energía en Paraguay desde 1973
+- [Regulación](https://muchotexto.net/regulacion/): Marco legal de IA en Paraguay — leyes, decretos y estrategias vigentes
 - [Glosario de IA en Paraguay](https://muchotexto.net/glosario/): Definiciones de términos clave explicados en contexto paraguayo
 
 ## Información técnica
