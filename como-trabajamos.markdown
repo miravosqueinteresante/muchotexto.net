@@ -49,6 +49,15 @@ Los artículos de fondo siguen un proceso estructurado de 10 pasos donde la IA a
 8. **Fact-check pre-publicación**: un agente independiente verifica cada afirmación con número, fecha, nombre o monto contra las fuentes. Si el fact-check encuentra errores, se corrigen y se re-ejecuta hasta que pase. Los fact-checkers también se verifican entre sí (doble fact-check obligatorio: si un agente dice que algo "no existe", un segundo agente o fuente primaria debe confirmarlo).
 9. **Validación automatizada**: el artículo pasa por `validate_publish.py`, un script de 12 controles que verifica: longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos, metadatos SEO y más.
 10. **Generación de FAQ**: un script automático (`generate_faq.py`) analiza el contenido del artículo y genera 3 preguntas frecuentes con respuestas basadas en datos del texto. Si el artículo no incluye FAQ, un workflow de GitHub Actions lo detecta y lo genera automáticamente antes de la publicación.
+11. **Actualización del observatorio**: antes del commit final, si el artículo aporta nuevos hitos, entidades, casos o términos, actualizar las páginas del observatorio que correspondan:
+    - **`/cronologia/`**: agregar hitos nuevos (eventos, fechas, proyectos) mencionados en el artículo.
+    - **`/regulacion/`**: agregar leyes, decretos o normas nuevas si el artículo cubre legislación.
+    - **`/directorio/`**: agregar startups, comunidades, instituciones o personas clave si el artículo descubre nuevas entidades del ecosistema.
+    - **`/casos-de-uso/`**: agregar sectores o aplicaciones nuevas de IA en Paraguay que el artículo documente.
+    - **`/glosario/`**: agregar términos nuevos específicos del cluster de IA en Paraguay con enlace al artículo.
+    - **`/ia-en-paraguay/`**: agregar el artículo a su pilar correspondiente y moverlo de "Próximamente" si estaba listado.
+    - **`llms.txt`**: agregar el artículo al pilar correspondiente.
+    Cada página actualizada incrementa su `last_modified_at`. No todas las páginas se actualizan en cada artículo — solo las que tengan contenido nuevo que aportar.
 
 Además, aplicamos una **auditoría programada**: cada 5 artículos nuevos, re-auditamos los artículos más antiguos no auditados contra sus fuentes originales. Esto nos ha permitido detectar y corregir errores en contenido ya publicado —por ejemplo, corregimos 8 artículos tras una auditoría retrospectiva en julio de 2026—.
 
