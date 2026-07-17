@@ -36,10 +36,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
 
-**Próximamente:**
-- Silicon Valley en el Cono Sur
-- El modelo Itaipú aplicado a la IA
-- Estrategia nacional de IA — ¿tiene Paraguay un plan formal de inteligencia artificial desde CONACYT, MITIC o Presidencia?
+**Próximamente:** Silicon Valley en el Cono Sur y el modelo Itaipú aplicado a la IA.
 
 ## IA, sociedad y trabajo
 
@@ -54,13 +51,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Paraguay tiene telemedicina desde 2013, la IA en salud todavía no]({% post_url 2026-07-16-ia-salud-paraguay %})** - Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales.
 - **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
 
-**Próximamente:**
-- Formación universitaria en IA — qué carreras y diplomados de inteligencia artificial ofrecen las universidades paraguayas
-- Impacto laboral de la automatización — qué sectores ya están transformando empleos por IA
-- Producción científica en IA desde Paraguay
-- Empresas paraguayas que ya usan IA con resultados medibles — más allá de las startups, casos de adopción real en banca, agroindustria y retail
-- Paraguayos liderando en IA fuera del país — la diáspora tech que sí funciona
-- Iniciativas de formación que están dando resultados — más allá del déficit, ¿qué programas funcionan?
+**Pilar completado.** Los 8 artículos del plan original están publicados.
 
 ## Tecnología aplicada y ecosistema
 
@@ -73,13 +64,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Por qué Asunción no es una ciudad inteligente todavía]({% post_url 2026-07-17-smart-cities-asuncion-paraguay %})** - Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?
 - **[Paraguay no usa IA para hacer periodismo pero la desinformación sí]({% post_url 2026-07-16-ia-periodismo-paraguay %})** - Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas y Brasil prohibió la IA en campañas.
 
-**Próximamente:**
-- IA en la justicia
-- E-commerce y logística
-- Cadena de valor del data center
-- Adopción de IA en el sector público paraguayo (chatbots, SET/DNIT, atención ciudadana)
-- Inversión extranjera directa en IA más allá de startups
-- **El Directorio de la Inteligencia Artificial en Paraguay** — listado exhaustivo de startups de IA paraguayas, comunidades locales (Discord, Telegram) y expertos del sector
+**Próximamente:** IA en la justicia, e-commerce y logística, cadena de valor del data center.
 
 ## Cultura, filosofía y futuro
 
@@ -92,10 +77,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
 - **[¿Qué es realmente el fútbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** - Una reflexión filosófica sobre el juego más popular del mundo.
 
-**Próximamente:**
-- Guaraní e IA
-- Paraguay 2040
-- Sesgo algorítmico y derechos digitales en Paraguay — el debate ético aterrizado a casos concretos: vigilancia, discriminación algorítmica y reconocimiento facial
+**Próximamente:** Guaraní e IA y Paraguay 2040.
 
 ---
 
