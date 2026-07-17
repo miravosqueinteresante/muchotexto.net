@@ -249,6 +249,10 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
     has_pillar = any("ia-en-paraguay.markdown" in f for f in staged_all)
     has_llms = any("llms.txt" in f for f in staged_all)
     has_glosario = any("glosario.markdown" in f for f in staged_all)
+    has_cronologia = any("cronologia.markdown" in f for f in staged_all)
+    has_regulacion = any("regulacion.markdown" in f for f in staged_all)
+    has_directorio = any("directorio.markdown" in f for f in staged_all)
+    has_casos = any("casos-de-uso.markdown" in f for f in staged_all)
 
     if staged_posts and not has_pillar:
         errors.append(
@@ -265,6 +269,30 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
             "Nuevo post detectado pero glosario.markdown no esta en el commit. "
             "Si el articulo introduce terminos nuevos, agregarlos al glosario. "
             "Agregarlo: git add glosario.markdown"
+        )
+    if staged_posts and not has_cronologia:
+        warnings.append(
+            "Nuevo post detectado pero cronologia.markdown no esta en el commit. "
+            "Si el articulo agrega hitos nuevos, actualizarlo. "
+            "Agregarlo: git add cronologia.markdown"
+        )
+    if staged_posts and not has_regulacion:
+        warnings.append(
+            "Nuevo post detectado pero regulacion.markdown no esta en el commit. "
+            "Si el articulo cubre legislacion nueva, actualizarlo. "
+            "Agregarlo: git add regulacion.markdown"
+        )
+    if staged_posts and not has_directorio:
+        warnings.append(
+            "Nuevo post detectado pero directorio.markdown no esta en el commit. "
+            "Si el articulo descubre nuevas entidades del ecosistema, actualizarlo. "
+            "Agregarlo: git add directorio.markdown"
+        )
+    if staged_posts and not has_casos:
+        warnings.append(
+            "Nuevo post detectado pero casos-de-uso.markdown no esta en el commit. "
+            "Si el articulo documenta nuevos casos de uso de IA, actualizarlo. "
+            "Agregarlo: git add casos-de-uso.markdown"
         )
 
     # Check if new article topic is still in Proximamente on pillar page
