@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial 2026: Paraguay clasifica a octavos de final — 30 de junio de 2026"
-description: "MARTES 30 de junio de 2026 Última actualización: 10:24 TEMA 1 DEL DÍA: Mundial 2026: Paraguay clasifica a octavos de final La histórica victoria de..."
+description: "Pulso Paraguay: Mundial 2026: Paraguay clasifica a octavos de final — 30 de junio de 2026"
 date: 2026-06-30
 last_modified_at: 2026-06-30
 categories: pulso-paraguay

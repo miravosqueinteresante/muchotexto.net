@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial de Fútbol 2026 — 29 de junio de 2026"
-description: "LUNES 29 de junio de 2026 Última actualización: 11:51 TEMA 1 DEL DÍA: Mundial de Fútbol 2026 La Albirroja se prepara para su crucial enfrentamiento contra..."
+description: "Pulso Paraguay: Mundial de Fútbol 2026 — 29 de junio de 2026"
 date: 2026-06-29
 last_modified_at: 2026-06-29
 categories: pulso-paraguay

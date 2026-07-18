@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: La mafia de los pagarés — 21 de junio de 2026"
-description: "DOMINGO 21 de junio de 2026 Última actualización: 10:17 TEMA 1 DEL DÍA: La mafia de los pagarés La denuncia sobre la mafia de los pagarés ha generado un..."
+description: "Pulso Paraguay: La mafia de los pagarés — 21 de junio de 2026"
 date: 2026-06-21
 last_modified_at: 2026-06-21
 categories: pulso-paraguay

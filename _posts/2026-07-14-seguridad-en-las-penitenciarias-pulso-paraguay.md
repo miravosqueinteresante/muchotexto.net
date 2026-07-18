@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en las penitenciarías — 14 de julio de 2026"
-description: "MARTES 14 de julio de 2026 Última actualización: 09:49 TEMA 1 DEL DÍA: Seguridad en las penitenciarías Hoy se generó un gran volumen de conversación tras..."
+description: "Pulso Paraguay: Seguridad en las penitenciarías — 14 de julio de 2026"
 date: 2026-07-14
 last_modified_at: 2026-07-14
 categories: pulso-paraguay

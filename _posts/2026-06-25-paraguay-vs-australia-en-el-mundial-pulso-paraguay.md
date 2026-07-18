@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Paraguay vs. Australia en el Mundial — 25 de junio de 2026"
-description: "JUEVES 25 de junio de 2026 Última actualización: 10:38 TEMA 1 DEL DÍA: Paraguay vs. Australia en el Mundial El partido decisivo para avanzar a los..."
+description: "Pulso Paraguay: Paraguay vs. Australia en el Mundial — 25 de junio de 2026"
 date: 2026-06-25
 last_modified_at: 2026-06-25
 categories: pulso-paraguay

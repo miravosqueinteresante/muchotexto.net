@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Alerta de tormentas en cinco departamentos — 28 de junio de 2026"
-description: "DOMINGO 28 de junio de 2026 Última actualización: 09:52 TEMA 1 DEL DÍA: Alerta de tormentas en cinco departamentos Las condiciones climáticas severas..."
+description: "Pulso Paraguay: Alerta de tormentas en cinco departamentos — 28 de junio de 2026"
 date: 2026-06-28
 last_modified_at: 2026-06-28
 categories: pulso-paraguay

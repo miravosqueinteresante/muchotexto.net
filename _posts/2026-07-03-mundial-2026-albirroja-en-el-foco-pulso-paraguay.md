@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial 2026: Albirroja en el foco — 3 de julio de 2026"
-description: "VIERNES 3 de julio de 2026 Última actualización: 10:11 TEMA 1 DEL DÍA: Mundial 2026: Albirroja en el foco La victoria de Paraguay ante Alemania ha..."
+description: "Pulso Paraguay: Mundial 2026: Albirroja en el foco — 3 de julio de 2026"
 date: 2026-07-03
 last_modified_at: 2026-07-03
 categories: pulso-paraguay

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Accidentes en Asunción — 22 de junio de 2026"
-description: "LUNES 22 de junio de 2026 Última actualización: 12:03 TEMA 1 DEL DÍA: Accidentes en Asunción Los accidentes frente a la Municipalidad de Asunción han..."
+description: "Pulso Paraguay: Accidentes en Asunción — 22 de junio de 2026"
 date: 2026-06-22
 last_modified_at: 2026-06-22
 categories: pulso-paraguay

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Festejos por la Albirroja — 20 de junio de 2026"
-description: "SÁBADO 20 de junio de 2026 Última actualización: 10:09 TEMA 1 DEL DÍA: Festejos por la Albirroja Los festejos por la victoria de Paraguay en el Mundial..."
+description: "Pulso Paraguay: Festejos por la Albirroja — 20 de junio de 2026"
 date: 2026-06-20
 last_modified_at: 2026-06-20
 categories: pulso-paraguay

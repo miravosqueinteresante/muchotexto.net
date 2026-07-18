@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Vuelco de bus paraguayo en…  — 15 de julio de 2026"
-description: "MIÉRCOLES 15 de julio de 2026 Última actualización: 09:47 TEMA 1 DEL DÍA: Vuelco de bus paraguayo en Brasil La tragedia en Brasil genera gran preocupación..."
+description: "Pulso Paraguay: Vuelco de bus paraguayo en…  — 15 de julio de 2026"
 date: 2026-07-15
 last_modified_at: 2026-07-15
 categories: pulso-paraguay

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Desprolijidades en auditoría — 6 de julio de 2026"
-description: "LUNES 6 de julio de 2026 Última actualización: 11:39 TEMA 1 DEL DÍA: Desprolijidades en auditoría Las revelaciones sobre el informe de la Contraloría..."
+description: "Pulso Paraguay: Desprolijidades en auditoría — 6 de julio de 2026"
 date: 2026-07-06
 last_modified_at: 2026-07-06
 categories: pulso-paraguay

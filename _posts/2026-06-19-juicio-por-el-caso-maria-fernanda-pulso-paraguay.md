@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Juicio por el caso María Fernanda — 19 de junio de 2026"
-description: "VIERNES 19 de junio de 2026 Última actualización: 11:25 TEMA 1 DEL DÍA: Juicio por el caso María Fernanda Los testimonios en el juicio refuerzan las..."
+description: "Pulso Paraguay: Juicio por el caso María Fernanda — 19 de junio de 2026"
 date: 2026-06-19
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes

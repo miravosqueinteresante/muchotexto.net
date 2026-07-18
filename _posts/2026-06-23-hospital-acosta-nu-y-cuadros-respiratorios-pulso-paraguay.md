@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Hospital Acosta Ñu y cuadros respiratorios — 23 de junio de 2026"
-description: "MARTES 23 de junio de 2026 Última actualización: 10:54 TEMA 1 DEL DÍA: Hospital Acosta Ñu y cuadros respiratorios Las preocupaciones sobre la salud..."
+description: "Pulso Paraguay: Hospital Acosta Ñu y cuadros respiratorios — 23 de junio de 2026"
 date: 2026-06-23
 last_modified_at: 2026-06-23
 categories: pulso-paraguay

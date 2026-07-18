@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en el país — 18 de julio de 2026"
-description: "SÁBADO 18 de julio de 2026 Última actualización: 09:20 TEMA 1 DEL DÍA: Seguridad en el país La preocupación por la violencia y la seguridad pública se ha..."
+description: "Pulso Paraguay: Seguridad en el país — 18 de julio de 2026"
 date: 2026-07-18
 last_modified_at: 2026-07-18
 categories: pulso-paraguay

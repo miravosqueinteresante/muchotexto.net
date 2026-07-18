@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Resultados de la selección paraguaya de fútbol — 5 de julio de 2026"
-description: "DOMINGO 5 de julio de 2026 Última actualización: 09:45 TEMA 1 DEL DÍA: Resultados de la selección paraguaya de fútbol La derrota de Paraguay ante Francia..."
+description: "Pulso Paraguay: Resultados de la selección paraguaya de fútbol — 5 de julio de 2026"
 date: 2026-07-05
 last_modified_at: 2026-07-05
 categories: pulso-paraguay

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Crisis de salud infantil — 27 de junio de 2026"
-description: "SÁBADO 27 de junio de 2026 Última actualización: 09:48 TEMA 1 DEL DÍA: Crisis de salud infantil Las rifas para salvar a niños cardiópatas han generado una..."
+description: "Pulso Paraguay: Crisis de salud infantil — 27 de junio de 2026"
 date: 2026-06-27
 last_modified_at: 2026-06-27
 categories: pulso-paraguay

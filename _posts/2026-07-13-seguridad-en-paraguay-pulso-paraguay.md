@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en Paraguay — 13 de julio de 2026"
-description: "LUNES 13 de julio de 2026 Última actualización: 10:39 TEMA 1 DEL DÍA: Seguridad en Paraguay La preocupación por la seguridad ciudadana ha dominado las..."
+description: "Pulso Paraguay: Seguridad en Paraguay — 13 de julio de 2026"
 date: 2026-07-13
 last_modified_at: 2026-07-13
 categories: pulso-paraguay

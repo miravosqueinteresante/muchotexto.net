@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Imputación por el caso de la niña llevada a…  — 11 de julio de 2026"
-description: "SÁBADO 11 de julio de 2026 Última actualización: 09:24 TEMA 1 DEL DÍA: Imputación por el caso de la niña llevada a Argentina El caso de la niña llevada..."
+description: "Pulso Paraguay: Imputación por el caso de la niña llevada a…  — 11 de julio de 2026"
 date: 2026-07-11
 last_modified_at: 2026-07-11
 categories: pulso-paraguay

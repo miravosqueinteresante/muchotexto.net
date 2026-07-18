@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Falta de medicamentos en IPS — 10 de julio de 2026"
-description: "VIERNES 10 de julio de 2026 Última actualización: 10:32 TEMA 1 DEL DÍA: Falta de medicamentos en IPS La falta de medicamentos en el IPS genera..."
+description: "Pulso Paraguay: Falta de medicamentos en IPS — 10 de julio de 2026"
 date: 2026-07-10
 last_modified_at: 2026-07-10
 categories: pulso-paraguay

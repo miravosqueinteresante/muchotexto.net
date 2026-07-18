@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Partido de la Albirroja contra Francia — 4 de julio de 2026"
-description: "SÁBADO 4 de julio de 2026 Última actualización: 09:38 TEMA 1 DEL DÍA: Partido de la Albirroja contra Francia La expectativa por el partido de Paraguay..."
+description: "Pulso Paraguay: Partido de la Albirroja contra Francia — 4 de julio de 2026"
 date: 2026-07-04
 last_modified_at: 2026-07-04
 categories: pulso-paraguay

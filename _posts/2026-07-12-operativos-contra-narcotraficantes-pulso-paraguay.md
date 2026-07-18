@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Operativos contra…  — 12 de julio de 2026"
-description: "DOMINGO 12 de julio de 2026 Última actualización: 09:25 TEMA 1 DEL DÍA: Operativos contra narcotraficantes Las recientes operaciones en el Parque Nacional..."
+description: "Pulso Paraguay: Operativos contra…  — 12 de julio de 2026"
 date: 2026-07-12
 last_modified_at: 2026-07-12
 categories: pulso-paraguay

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Libertad ambulatoria para Miguel Prieto — 2 de julio de 2026"
-description: "JUEVES 2 de julio de 2026 Última actualización: 10:07 TEMA 1 DEL DÍA: Libertad ambulatoria para Miguel Prieto Este tema ha generado un alto volumen de..."
+description: "Pulso Paraguay: Libertad ambulatoria para Miguel Prieto — 2 de julio de 2026"
 date: 2026-07-02
 last_modified_at: 2026-07-02
 categories: pulso-paraguay
