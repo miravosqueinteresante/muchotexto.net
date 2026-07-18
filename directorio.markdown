@@ -33,6 +33,7 @@ last_modified_at: 2026-07-18
 - **Foro Tecnológico Bilateral Paraguay-Taiwán** — 4 ediciones realizadas. Delegados de TSMC, ICDF y empresas taiwanesas participan regularmente. [Leer más](/articulos/2026/07/14/semiconductores-taiwan-paraguay/).
 - **Comunidades de desarrolladores locales** — Existen grupos activos de Telegram, Discord y WhatsApp de la comunidad tech paraguaya. *En investigación: compilar listado completo de enlaces.*
 - **SOPAIA** — Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia artificial en el país.
+- **AmCham Paraguay** — Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el MIC.
 
 ## Eventos
 
@@ -40,7 +41,6 @@ last_modified_at: 2026-07-18
 - **[2ª Convención Bancaria Paraguay 2026](https://www.asoban.org.py/eventos/convencion-bancaria-2026/)** — Organizada por ASOBAN. Banca autónoma y escalabilidad de la IA. 6 y 7 de agosto de 2026, Sheraton Asunción Hotel.
 - **[AI Paraguay Conference 2026](https://es.linkedin.com/posts/italianza_aiparaguay-inteligenciaartificial-tecnolog%C3%ADa-activity-7483165923894280192-NZ-Y)** — Conferencia exclusiva sobre IA aplicada a negocios. 11 de noviembre de 2026, Paseo La Galería, Asunción. Organizada por IT Alianza.
 - **[IBERAMIA 2026](https://www.iberamia.org/iberamia/iberamia2026/)** — 19ª Conferencia Iberoamericana de Inteligencia Artificial. 18-20 de noviembre de 2026, Universidad Católica, Asunción. Organizada por UNA, UCA, UCOM y SOPAIA.
-- **[AmCham Paraguay](https://www.amcham.com.py/)** — Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el MIC.
 
 ## Formación
 
