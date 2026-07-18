@@ -11,12 +11,12 @@ last_modified_at: 2026-07-18
 ## Aceleradoras y hubs
 
 - **[KOGA Impact Lab](https://koga.com.py/)** — Más de 14 años operando. Apoyó a 200+ startups y capacitó a 10.000+ emprendedores. Funciona como aceleradora, espacio de coworking y comunidad. Es el punto de encuentro del ecosistema emprendedor tech en Paraguay. [Leer análisis completo](/articulos/2026/07/14/startups-ia-paraguay/).
-- **InnovandoPY** — Programa del MITIC que en 2025 otorgó $140.000 en capital semilla a 7 startups tecnológicas. [Leer más](/articulos/2026/07/14/startups-ia-paraguay/).
+- **[InnovandoPY](https://innovando.gov.py/)** — Programa del MITIC que en 2025 otorgó $140.000 en capital semilla a 7 startups tecnológicas. [Leer más](/articulos/2026/07/14/startups-ia-paraguay/).
 
 ## Startups de IA y tecnología
 
 - **Autograph** — Startup paraguaya mencionada en el ecosistema de IA.
-- **HIVE Digital Technologies** — Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech-paraguay-ia/).
+- **[HIVE Digital Technologies](https://www.hivedigitaltechnologies.com/)** — Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech-paraguay-ia/).
 - **BUZZ AI Cloud** — Primer cluster de GPU para inteligencia artificial en Paraguay, lanzado por HIVE en un data center Tier III en Asunción (marzo 2026). [Leer análisis](/articulos/2026/07/16/ia-soberana-paraguay/).
 - **Tooldata** — Startup paraguaya de inteligencia artificial que desarrolla soluciones de automatización y análisis de datos para empresas. Mencionada en el ecosistema local de IA.
 
@@ -29,11 +29,11 @@ last_modified_at: 2026-07-18
 
 ## Comunidades y espacios
 
-- **Cámara Paraguaya de Fintech** — Fundada en 2019, 120+ miembros. Agrupa al ecosistema fintech paraguayo que pasó de ~29 empresas en 2020 a más de 100. [Leer análisis](/articulos/2026/07/10/fintech-paraguay-ecosistema/).
+- **[Cámara Paraguaya de Fintech](https://www.fintech.org.py/)** — Fundada en 2019, 120+ miembros. Agrupa al ecosistema fintech paraguayo que pasó de ~29 empresas en 2020 a más de 100. [Leer análisis](/articulos/2026/07/10/fintech-paraguay-ecosistema/).
 - **Foro Tecnológico Bilateral Paraguay-Taiwán** — 4 ediciones realizadas. Delegados de TSMC, ICDF y empresas taiwanesas participan regularmente. [Leer más](/articulos/2026/07/14/semiconductores-taiwan-paraguay/).
 - **Comunidades de desarrolladores locales** — Existen grupos activos de Telegram, Discord y WhatsApp de la comunidad tech paraguaya. *En investigación: compilar listado completo de enlaces.*
-- **SOPAIA** — Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia artificial en el país.
-- **AmCham Paraguay** — Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el MIC.
+- **[SOPAIA](https://www.sopaia.org/)** — Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia artificial en el país.
+- **[AmCham Paraguay](https://www.amcham.com.py/)** — Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el MIC.
 
 ## Eventos
 
@@ -44,8 +44,9 @@ last_modified_at: 2026-07-18
 
 ## Formación
 
-- **Universidad Politécnica Taiwán-Paraguay** — Nuevo campus en Luque con apertura prevista para 2027.
-- **Becas de Taiwán** — Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. [Leer más](/articulos/2026/07/09/educacion-tech-paraguay-ia/).
+- **[Universidad Columbia del Paraguay](https://www.columbia.edu.py/)** — Primer programa de periodismo de datos del país (2025, 15 egresados).
+- **[Universidad Politécnica Taiwán-Paraguay](https://www.uptp.edu.py/)** — Nuevo campus en Luque con apertura prevista para 2027.
+- **[Becas de Taiwán](https://www.icdf.org.tw/)** — Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. [Leer más](/articulos/2026/07/09/educacion-tech-paraguay-ia/).
 
 ## Agtech
 
