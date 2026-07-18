@@ -5,8 +5,7 @@
   <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="preconnect" href="https://www.google-analytics.com">
   {% include critical-css.html %}
-  <link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}" media="print" onload="this.media='all'">
-  <noscript><link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}"></noscript>
+  <link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}">
   {% feed_meta %}
 
   {% if paginator.page and paginator.page > 1 %}
