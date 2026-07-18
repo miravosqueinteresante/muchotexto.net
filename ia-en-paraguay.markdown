@@ -10,7 +10,7 @@ Paraguay está en el mapa de la inteligencia artificial global. No como consumid
 
 Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre inteligencia artificial en Paraguay. Cada artículo es un análisis en profundidad -1.500 a 2.500 palabras, fuentes verificadas, argumentos a favor y en contra- publicado con un solo objetivo: que entiendas lo que está pasando, por qué importa y qué puede significar para el país.
 
-**Biblioteca de análisis** — 29 artículos organizados por sector: [Infraestructura y energía](#infraestructura-y-energia) · [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) · [IA, sociedad y trabajo](#ia-sociedad-y-trabajo) · [Tecnología aplicada y ecosistema](#tecnología-aplicada-y-ecosistema) · [Cultura, filosofía y futuro](#cultura-filosofía-y-futuro)
+**Biblioteca de análisis** — 31 artículos organizados por sector: [Infraestructura y energía](#infraestructura-y-energia) · [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) · [IA, sociedad y trabajo](#ia-sociedad-y-trabajo) · [Tecnología aplicada y ecosistema](#tecnología-aplicada-y-ecosistema) · [Cultura, filosofía y futuro](#cultura-filosofía-y-futuro)
 
 También: [Cronología](/cronologia/) · [Mapa regulatorio](/regulacion/) · [Directorio](/directorio/) · [Casos de uso](/casos-de-uso/) · [Glosario vivo](/glosario/)
 
@@ -86,8 +86,6 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[5 tecnologías que prometieron cambiar todo pero no cambiaron nada]({% post_url 2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo %})** - Metaverso, NFTs, Hyperloop, Google Glass, Segway.
 - **[Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** - USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol.
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
-- **[¿Qué es realmente el fútbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** - Una reflexión filosófica sobre el juego más popular del mundo.
-
 **Próximamente:**
 - Guaraní e IA
 - Paraguay 2040
