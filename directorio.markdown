@@ -2,11 +2,11 @@
 layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
-description: "Startups, aceleradoras, comunidades y espacios de inteligencia artificial y tecnología en Paraguay. Actualizado al 17 de julio de 2026."
+description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnología en Paraguay. Actualizado al 18 de julio de 2026."
 last_modified_at: 2026-07-18
 ---
 
-*Última actualización: 18 de julio de 2026. Este directorio se actualiza trimestralmente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
+*Última actualización: 18 de julio de 2026. Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
 
 ## Aceleradoras y hubs
 
@@ -34,9 +34,16 @@ last_modified_at: 2026-07-18
 - **Comunidades de desarrolladores locales** — Existen grupos activos de Telegram, Discord y WhatsApp de la comunidad tech paraguaya. *En investigación: compilar listado completo de enlaces.*
 - **SOPAIA** — Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia artificial en el país.
 
+## Eventos
+
+- **[Smart City Paraguay 2026](https://www.smartcitypy.com/)** — Congreso y expo sobre ciudades inteligentes. 24 y 25 de agosto de 2026, Paseo La Galería, Asunción. Incluye Ronda de Negocios el 25 de agosto. Acceso gratuito con inscripción previa.
+- **[2ª Convención Bancaria Paraguay 2026](https://www.asoban.org.py/eventos/convencion-bancaria-2026/)** — Organizada por ASOBAN. Banca autónoma y escalabilidad de la IA. 6 y 7 de agosto de 2026, Sheraton Asunción Hotel.
+- **[AI Paraguay Conference 2026](https://es.linkedin.com/posts/italianza_aiparaguay-inteligenciaartificial-tecnolog%C3%ADa-activity-7483165923894280192-NZ-Y)** — Conferencia exclusiva sobre IA aplicada a negocios. 11 de noviembre de 2026, Paseo La Galería, Asunción. Organizada por IT Alianza.
+- **[IBERAMIA 2026](https://www.iberamia.org/iberamia/iberamia2026/)** — 19ª Conferencia Iberoamericana de Inteligencia Artificial. 18-20 de noviembre de 2026, Universidad Católica, Asunción. Organizada por UNA, UCA, UCOM y SOPAIA.
+- **[AmCham Paraguay](https://www.amcham.com.py/)** — Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el MIC.
+
 ## Formación
 
-- **Universidad Columbia del Paraguay** — Primer programa de periodismo de datos del país (2025, 15 egresados).
 - **Universidad Politécnica Taiwán-Paraguay** — Nuevo campus en Luque con apertura prevista para 2027.
 - **Becas de Taiwán** — Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. [Leer más](/articulos/2026/07/09/educacion-tech-paraguay-ia/).
 
