@@ -31,6 +31,9 @@ jobs:
           TZ: America/Asuncion
         run: python scripts/pulso_diario.py
 
+      - name: Fix description format
+        run: python scripts/fix_pulso_descriptions.py
+
       - name: Commit and push
         run: |
           git config user.name "Pulso Bot"
