@@ -3,10 +3,10 @@ layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
 description: "Startups, aceleradoras, comunidades y espacios de inteligencia artificial y tecnología en Paraguay. Actualizado al 17 de julio de 2026."
-last_modified_at: 2026-07-17
+last_modified_at: 2026-07-18
 ---
 
-*Última actualización: 17 de julio de 2026. Este directorio se actualiza trimestralmente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
+*Última actualización: 18 de julio de 2026. Este directorio se actualiza trimestralmente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
 
 ## Aceleradoras y hubs
 
@@ -18,6 +18,7 @@ last_modified_at: 2026-07-17
 - **Autograph** — Startup paraguaya mencionada en el ecosistema de IA.
 - **HIVE Digital Technologies** — Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech-paraguay-ia/).
 - **BUZZ AI Cloud** — Primer cluster de GPU para inteligencia artificial en Paraguay, lanzado por HIVE en un data center Tier III en Asunción (marzo 2026). [Leer análisis](/articulos/2026/07/16/ia-soberana-paraguay/).
+- **Tooldata** — Startup paraguaya de inteligencia artificial que desarrolla soluciones de automatización y análisis de datos para empresas. Mencionada en el ecosistema local de IA.
 
 ## Data centers e infraestructura
 
@@ -31,6 +32,7 @@ last_modified_at: 2026-07-17
 - **Cámara Paraguaya de Fintech** — Fundada en 2019, 120+ miembros. Agrupa al ecosistema fintech paraguayo que pasó de ~29 empresas en 2020 a más de 100. [Leer análisis](/articulos/2026/07/10/fintech-paraguay-ecosistema/).
 - **Foro Tecnológico Bilateral Paraguay-Taiwán** — 4 ediciones realizadas. Delegados de TSMC, ICDF y empresas taiwanesas participan regularmente. [Leer más](/articulos/2026/07/14/semiconductores-taiwan-paraguay/).
 - **Comunidades de desarrolladores locales** — Existen grupos activos de Telegram, Discord y WhatsApp de la comunidad tech paraguaya. *En investigación: compilar listado completo de enlaces.*
+- **SOPAIA** — Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia artificial en el país.
 
 ## Formación
 
