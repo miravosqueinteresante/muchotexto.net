@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solidaridad y crisis dos caras del país — Editorial 15 de julio de 2026"
+title: "Solidaridad y crisis, dos caras del país — Editorial 15 de julio de 2026"
 description: "La noticia del vuelco de un bus paraguayo en Brasil ha generado una ola de solidaridad en Paraguay, mientras las autoridades trabajan para confirmar la..."
 
 date: 2026-07-15 18:00:00 -0400
