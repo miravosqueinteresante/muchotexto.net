@@ -1,9 +1,24 @@
 ---
 layout: default
 ---
-
 <article class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.description %}<p class="page-description">{{ page.description }}</p>{% endif %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+    "author": { "@id": "https://muchotexto.net/#author" },
+    "publisher": { "@id": "https://muchotexto.net/#org" },
+    "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
+    {% if page.faq %}
+    ,"mainEntity": {{ page.faq | jsonify }}
+    {% endif %}
+  }
+  </script>
   {{ content }}
 </article>
 

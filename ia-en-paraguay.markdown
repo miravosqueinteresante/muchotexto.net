@@ -99,55 +99,6 @@ Cada semana publicamos uno o dos artículos nuevos. Esta guía se actualiza con 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "@id": "https://muchotexto.net/ia-en-paraguay/#schema",
-  "headline": "Inteligencia Artificial en Paraguay: Guía Completa 2026",
-  "author": {
-    "@type": "Person",
-    "@id": "https://muchotexto.net/#author",
-    "name": "César Sánchez",
-    "url": "https://muchotexto.net/about/"
-  },
-  "datePublished": "2026-07-07T00:00:00-04:00",
-  "dateModified": "2026-07-17T00:00:00-04:00",
-  "image": {
-    "@type": "ImageObject",
-    "url": "https://muchotexto.net/assets/images/og-image.png"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "MuchoTexto",
-    "url": "https://muchotexto.net",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://muchotexto.net/assets/images/muchotextonet-logo.png"
-    }
-  },
-  "description": "Guía completa de inteligencia artificial en Paraguay. Data centers, energía, regulación, empleo tech, geopolítica y el impacto de la IA en la sociedad paraguaya.",
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Inteligencia Artificial",
-      "sameAs": "https://es.wikipedia.org/wiki/Inteligencia_artificial"
-    },
-    {
-      "@type": "Place",
-      "name": "Paraguay",
-      "sameAs": "https://es.wikipedia.org/wiki/Paraguay"
-    }
-  ],
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://muchotexto.net/ia-en-paraguay/"
-  },
-  "inLanguage": "es",
-  "isAccessibleForFree": true
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "@id": "https://muchotexto.net/ia-en-paraguay/#faq",
   "mainEntity": [
