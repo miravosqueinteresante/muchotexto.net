@@ -78,7 +78,7 @@ sitemap: false
           ? matched.map(function(p) {
               return '<li class="search-result-item">' +
                 '<a href="' + p.url + '">' + p.title + '</a>' +
-                '<div class="post-meta">' + p.date + '</div>' +
+                '<div class="post-meta">' + (p.type == 'pagina' ? 'P\u00e1gina' : p.date) + '</div>' +
                 '<div class="search-excerpt">' + p.excerpt + '</div>' +
                 '</li>';
             }).join('')
