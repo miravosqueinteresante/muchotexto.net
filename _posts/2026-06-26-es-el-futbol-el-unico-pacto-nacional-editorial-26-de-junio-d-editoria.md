@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "¿Es el fútbol el único pacto nacional? — Editorial 26 de junio de 2026"
-description: "Paraguay empató 1-1 con Australia en el camino al Mundial 2026, y el país entero parece haberse suspendido en el tiempo por noventa minutos y algo más. La..."
+description: "Paraguay empató 1-1 con Australia en el Mundial 2026 y el pais entero se detuvo por noventa minutos."
+
 date: 2026-06-26 18:00:00 -0400
 last_modified_at: 2026-06-26
 categories: editorial

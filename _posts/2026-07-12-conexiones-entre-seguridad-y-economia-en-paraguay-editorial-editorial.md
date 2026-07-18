@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Conexiones entre seguridad y economía en Paraguay — Editorial 12 de julio de 2026"
-description: "Los operativos contra narcotraficantes en el Parque Nacional Paso Bravo han generado pérdidas millonarias para las redes criminales, según el informe del..."
+description: "Los operativos contra narcotraficantes en el Parque Nacional Paso Bravo han generado pérdidas millonarias para las redes criminales, según el informe del Pulso..."
+
 date: 2026-07-12 18:00:00 -0400
 last_modified_at: 2026-07-12
 categories: editorial

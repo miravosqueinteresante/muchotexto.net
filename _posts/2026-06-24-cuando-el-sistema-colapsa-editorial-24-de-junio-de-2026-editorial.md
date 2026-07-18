@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Cuando el sistema colapsa — Editorial 24 de junio de 2026"
-description: "La renuncia másiva en el Instituto de Previsión Social IPS ha expuesto, una vez más, los crónicos problemás de gestión que arrastra una de las..."
+description: "La renuncia masiva en el Instituto de Previsión Social IPS ha expuesto, una vez más, los crónicos problemas de gestión que arrastra una de las instituciones..."
+
 date: 2026-06-24 18:00:00 -0400
 last_modified_at: 2026-06-24
 categories: editorial

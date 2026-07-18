@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad y economía dos caras de la actualidad — Editorial 11 de julio de 2026"
-description: "La imputación del padre de la niña llevada ilegalmente a Argentina ha puesto en el centro del debate la seguridad infantil y el bienestar familiar en..."
+description: "La imputación del padre de la niña llevada ilegalmente a Argentina ha puesto en el centro del debate la seguridad infantil y el bienestar familiar en Paraguay."
+
 date: 2026-07-11 18:00:00 -0400
 last_modified_at: 2026-07-11
 categories: editorial

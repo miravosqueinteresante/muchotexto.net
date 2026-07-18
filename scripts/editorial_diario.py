@@ -170,12 +170,23 @@ def sanitize_yaml(text: str) -> str:
     return re.sub(r'[":\\{}\[\]&*!|>#%`]', '', text).strip()
 
 
-def make_meta_description(body: str, max_len: int = 155) -> str:
+def make_meta_description(body: str, max_len: int = 160) -> str:
     plain = re.sub(r"[#*_\[\]()`>|~\"]", "", body)
     plain = re.sub(r"\s+", " ", plain).strip()
     if len(plain) <= max_len:
         return plain
-    return plain[:plain.rfind(" ", 0, max_len)] + "..."
+    # Extract first complete sentence(s) within limit
+    sentences = re.split(r'(?<=[.!?])\s+', plain)
+    result = ""
+    for s in sentences:
+        candidate = (result + " " + s).strip() if result else s
+        if len(candidate) <= max_len:
+            result = candidate
+        else:
+            if not result:
+                result = s[:s.rfind(" ", 0, max_len)] + "..."
+            break
+    return result
 
 
 ARTICULOS_LINKEABLES = [

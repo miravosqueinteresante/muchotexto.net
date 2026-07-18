@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Desconfianza institucional y acción ciudadana — Editorial 10 de julio de 2026"
-description: "La preocupación por la falta de medicamentos en el IPS domina la conversación pública en Paraguay, según el Pulso de hoy. Este tema, que lidera el ranking..."
+description: "La preocupación por la falta de medicamentos en el IPS domina la conversación pública en Paraguay, según el Pulso de hoy."
+
 date: 2026-07-10 18:00:00 -0400
 last_modified_at: 2026-07-10
 categories: editorial

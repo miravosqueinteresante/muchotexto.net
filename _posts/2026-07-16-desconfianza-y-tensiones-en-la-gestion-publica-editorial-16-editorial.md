@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Desconfianza y tensiones en la gestión pública — Editorial 16 de julio de 2026"
-description: "El paro de los funcionarios de Vialidad en Asunción, junto con denuncias de uso indebido de recursos públicos, pone en evidencia una creciente..."
+description: "El paro de los funcionarios de Vialidad en Asunción, junto con denuncias de uso indebido de recursos públicos, pone en evidencia una creciente desconfianza..."
+
 date: 2026-07-16 18:00:00 -0400
 last_modified_at: 2026-07-16
 categories: editorial

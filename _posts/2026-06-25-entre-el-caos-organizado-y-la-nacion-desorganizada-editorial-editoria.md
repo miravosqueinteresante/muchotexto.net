@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Entre el caos organizado y la nación desorganizada — Editorial 25 de junio de 2026"
-description: "El fútbol, ese imán de pasiones que logra suspender temporalmente los problemás del día a día, hoy pone a Paraguay ante Australia en el Mundial 2026. Más..."
+description: "La Albirroja en el Mundial 2026{% posturl 2026-06-25-paraguay-vs-australia-en-el-mundial-pulso-paraguay %} define hoy su futuro."
+
 date: 2026-06-25 18:00:00 -0400
 last_modified_at: 2026-06-25
 categories: editorial
