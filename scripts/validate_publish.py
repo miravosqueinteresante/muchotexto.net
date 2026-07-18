@@ -10,7 +10,6 @@ import os
 import re
 import sys
 import glob
-import json
 import urllib.request
 import urllib.error
 import subprocess
@@ -350,22 +349,6 @@ def print_report(errors: list[str], warnings: list[str], post_name: str = ""):
         print(f"\n  [OK] Validacion superada")
 
 
-def ping_indexnow():
-    url = "https://api.indexnow.org/indexnow"
-    data = {
-        "host": "muchotexto.net",
-        "key": "624a4302f1714f068e9851beb7b692f2",
-        "keyLocation": "https://muchotexto.net/624a4302f1714f068e9851beb7b692f2.txt",
-        "urlList": ["https://muchotexto.net/sitemap.xml"]
-    }
-    req = urllib.request.Request(url, data=json.dumps(data).encode(), headers={"Content-Type": "application/json"})
-    try:
-        urllib.request.urlopen(req, timeout=10)
-        print("  [IndexNow] Ping enviado a Bing/IndexNow")
-    except urllib.error.URLError as e:
-        print(f"  [IndexNow] Error al ping: {e.reason}")
-
-
 def main():
     if len(sys.argv) >= 3 and sys.argv[1] == "--check":
         post_path = os.path.join(REPO_DIR, sys.argv[2])
@@ -417,7 +400,6 @@ def main():
         sys.exit(EXIT_FAIL)
     else:
         print(f"\n  [OK] Validacion superada - commit permitido")
-        ping_indexnow()
         sys.exit(EXIT_PASS)
 
 
