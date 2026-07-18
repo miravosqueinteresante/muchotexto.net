@@ -12,28 +12,3 @@ El foco del sitio es el cluster **Inteligencia Artificial en Paraguay**: una gu�
 
 Navegá por los [artículos del cluster](/ia-en-paraguay/), leé la [editorial del día](/categories/#editorial) o seguí el [Pulso Paraguay](/categories/#pulso-paraguay) diario.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "@id": "https://muchotexto.net/#website",
-  "name": "muchotexto.net",
-  "url": "https://muchotexto.net",
-  "description": "Observatorio de inteligencia artificial en Paraguay: análisis profundo con datos duros y fuentes verificables. Data centers, energía, geopolítica, talento tech y el futuro digital del país.",
-  "publisher": {
-    "@id": "https://muchotexto.net/#org"
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Inteligencia Artificial",
-      "sameAs": "https://es.wikipedia.org/wiki/Inteligencia_artificial"
-    },
-    {
-      "@type": "Place",
-      "name": "Paraguay",
-      "sameAs": "https://es.wikipedia.org/wiki/Paraguay"
-    }
-  ]
-}
-</script>
