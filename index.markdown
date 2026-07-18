@@ -1,7 +1,7 @@
 ---
 layout: home
 sitemap: true
-description: "muchotexto.net: análisis profundo de inteligencia artificial desde Paraguay. Artículos, editoriales diarias y Pulso Paraguay con datos duros y fuentes verificables."
+description: "Observatorio de inteligencia artificial en Paraguay: análisis profundo con datos duros y fuentes verificables. Data centers, energía, geopolítica, talento tech y el futuro digital del país."
 pagination:
   enabled: true
 ---
