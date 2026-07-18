@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Pulso Paraguay: Controversia entre Celeste Amarilla y Kylian Mbappé — 8 de julio de 2026"
-description: "Pulso Paraguay: Controversia entre Celeste Amarilla y Kylian Mbappé — 8 de julio de 2026"
+description: "Controversia entre Celeste Amarilla y Kylian Mbappé: La disputa sobre los comentarios de la diputada Celeste Amarilla respecto a Mbappé ha desatado un intenso deb..."
+
+
 date: 2026-07-08
 last_modified_at: 2026-07-08
 categories: pulso-paraguay

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Pulso Paraguay: Operativos contra…  — 12 de julio de 2026"
-description: "Pulso Paraguay: Operativos contra…  — 12 de julio de 2026"
+description: "Operativos contra narcotraficantes: Las recientes operaciones en el Parque Nacional Paso Bravo han generado un gran volumen de conversación por las millonarias pé..."
+
+
 date: 2026-07-12
 last_modified_at: 2026-07-12
 categories: pulso-paraguay

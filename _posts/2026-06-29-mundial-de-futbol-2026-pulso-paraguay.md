@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial de Fútbol 2026 — 29 de junio de 2026"
-description: "Pulso Paraguay: Mundial de Fútbol 2026 — 29 de junio de 2026"
+description: "Mundial de Fútbol 2026: La Albirroja se prepara para su crucial enfrentamiento contra Alemania en busca de acceder a los octavos de final. Pulso Paraguay — 29 de ..."
+
+
 date: 2026-06-29
 last_modified_at: 2026-06-29
 categories: pulso-paraguay
