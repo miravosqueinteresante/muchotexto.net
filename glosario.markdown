@@ -169,4 +169,6 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **Convenio de Budapest** — Principal tratado internacional contra el cibercrimen, en vigor desde 2004. Paraguay lo ratificó, obligándose a tipificar delitos informáticos, cooperar con investigaciones internacionales y mantener un punto de contacto disponible 24/7. Sin embargo, Paraguay aún no tiene una ley de delitos informáticos que implemente sus disposiciones.
 → [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
 
+---
+
 Este glosario se actualiza a medida que crece el ecosistema. Para un análisis completo de cada tema, visita la [guía de IA en Paraguay](/ia-en-paraguay/).
