@@ -58,6 +58,7 @@ defaults:
 
 include:
   - CNAME
+  - llms.txt
   - 624a4302f1714f068e9851beb7b692f2.txt
 
 # exclude:
