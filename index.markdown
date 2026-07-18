@@ -19,7 +19,7 @@ Navegá por los [artículos del cluster](/ia-en-paraguay/), leé la [editorial d
   "@id": "https://muchotexto.net/#website",
   "name": "muchotexto.net",
   "url": "https://muchotexto.net",
-  "description": "Análisis profundo de inteligencia artificial desde Paraguay con datos duros y fuentes verificables.",
+  "description": "Observatorio de inteligencia artificial en Paraguay: análisis profundo con datos duros y fuentes verificables. Data centers, energía, geopolítica, talento tech y el futuro digital del país.",
   "publisher": {
     "@id": "https://muchotexto.net/#org"
   },
