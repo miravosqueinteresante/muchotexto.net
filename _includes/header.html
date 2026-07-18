@@ -21,6 +21,11 @@
           </a>
         </li>
       {% endfor %}
+        <li class="nav-item">
+          <a href="{{ '/buscar/' | relative_url }}" title="Buscar">
+            {% include icon.html name='search' %}
+          </a>
+        </li>
       </ul>
     </nav>
   {% endif %}
