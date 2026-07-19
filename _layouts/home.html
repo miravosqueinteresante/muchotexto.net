@@ -31,7 +31,7 @@ layout: default
         <span class="badge badge-articulo">Artículo</span>
         <h3>{{ post.title }}</h3>
         <p class="analysis-meta">{{ post.tags | first | capitalize }} &middot; {{ post.date | date: "%-d %b" }}</p>
-        <p class="analysis-desc">{% if post.description %}{{ post.description | strip_html | truncatewords: 22 }}{% endif %}</p>
+        <p class="analysis-desc">{% if post.description %}{{ post.description | strip_html }}{% endif %}</p>
       </a>
     {% endfor %}
   </div>
@@ -48,7 +48,7 @@ layout: default
         <time datetime="{{ ultimo_pulso.date | date_to_xmlschema }}">{{ ultimo_pulso.date | date: "%-d %b %Y" }}</time>
       </div>
       <h3 class="daily-card-title">{{ ultimo_pulso.title }}</h3>
-      <p class="daily-card-desc">{% if ultimo_pulso.description %}{{ ultimo_pulso.description | strip_html | truncatewords: 22 }}{% else %}Reporte diario de noticias desde 15 fuentes periodísticas de Paraguay.{% endif %}</p>
+      <p class="daily-card-desc">{% if ultimo_pulso.description %}{{ ultimo_pulso.description | strip_html }}{% else %}Reporte diario de noticias desde 15 fuentes periodísticas de Paraguay.{% endif %}</p>
     </a>
     {% endif %}
 
@@ -59,7 +59,7 @@ layout: default
         <time datetime="{{ ultima_editorial.date | date_to_xmlschema }}">{{ ultima_editorial.date | date: "%-d %b %Y" }}</time>
       </div>
       <h3 class="daily-card-title">{{ ultima_editorial.title }}</h3>
-      <p class="daily-card-desc">{% if ultima_editorial.description %}{{ ultima_editorial.description | strip_html | truncatewords: 22 }}{% else %}Análisis de opinión basado en el Pulso Paraguay del día.{% endif %}</p>
+      <p class="daily-card-desc">{% if ultima_editorial.description %}{{ ultima_editorial.description | strip_html }}{% else %}Análisis de opinión basado en el Pulso Paraguay del día.{% endif %}</p>
     </a>
     {% endif %}
   </div>
