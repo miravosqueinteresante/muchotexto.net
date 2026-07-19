@@ -89,3 +89,9 @@ pagination:
   permalink: "/page/:num/"
   sort_field: "date"
   sort_reverse: true
+
+social:
+  name: MuchoTexto
+  links:
+    - "https://x.com/cesanz"
+    - "https://www.linkedin.com/in/cesar-sanchez-melgarejo/"

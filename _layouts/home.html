@@ -4,6 +4,12 @@ layout: default
 
 {{ content }}
 
+{% assign articulos = site.posts | where_exp: "p","p.categories contains 'articulos'" %}
+{% assign total_analisis = articulos.size | minus: 2 %}
+{% assign ultimos_articulos = articulos | slice: 0, 3 %}
+{% assign ultimo_pulso = site.posts | where_exp: "p","p.categories contains 'pulso-paraguay'" | first %}
+{% assign ultima_editorial = site.posts | where_exp: "p","p.categories contains 'editorial'" | first %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -26,19 +32,13 @@ layout: default
   "@type": "CollectionPage",
   "@id": "https://muchotexto.net/#collection",
   "name": "Observatorio de IA en Paraguay",
-  "description": "31 análisis en profundidad sobre IA, energía y geopolítica en Paraguay.",
+  "description": "{{ total_analisis }} análisis en profundidad sobre IA, energía y geopolítica en Paraguay.",
   "url": "https://muchotexto.net",
   "about": { "@id": "https://muchotexto.net/ia-en-paraguay/" },
   "mainEntity": { "@id": "https://muchotexto.net/ia-en-paraguay/" },
   "publisher": { "@id": "https://muchotexto.net/#org" }
 }
 </script>
-
-{% assign articulos = site.posts | where_exp: "p","p.categories contains 'articulos'" %}
-{% assign total_analisis = articulos.size | minus: 2 %}
-{% assign ultimos_articulos = articulos | slice: 0, 3 %}
-{% assign ultimo_pulso = site.posts | where_exp: "p","p.categories contains 'pulso-paraguay'" | first %}
-{% assign ultima_editorial = site.posts | where_exp: "p","p.categories contains 'editorial'" | first %}
 
 <section class="hero-observatorio">
   <p class="hero-eyebrow">Observatorio de IA en Paraguay</p>
