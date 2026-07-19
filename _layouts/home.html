@@ -5,13 +5,14 @@ layout: default
 {{ content }}
 
 {% assign articulos = site.posts | where_exp: "p","p.categories contains 'articulos'" %}
+{% assign total_analisis = articulos.size | minus: 1 %}
 {% assign ultimos_articulos = articulos | slice: 0, 3 %}
 {% assign ultimo_pulso = site.posts | where_exp: "p","p.categories contains 'pulso-paraguay'" | first %}
 {% assign ultima_editorial = site.posts | where_exp: "p","p.categories contains 'editorial'" | first %}
 
 <section class="hero-observatorio">
   <p class="hero-eyebrow">Observatorio de IA en Paraguay</p>
-  <h1 class="hero-title">{{ articulos.size }} análisis en profundidad sobre IA, energía y geopolítica en Paraguay</h1>
+  <h1 class="hero-title">{{ total_analisis }} análisis en profundidad sobre IA, energía y geopolítica en Paraguay</h1>
   <p class="hero-desc">Publicamos artículos de investigación de 1.500 a 2.500 palabras con fuentes verificadas, una editorial diaria de opinión y el Pulso Paraguay. Cada artículo presenta argumentos a favor y en contra, con datos duros y fuentes nombradas.</p>
   <div class="hero-pillars">
     <a href="{{ '/ia-en-paraguay/#infraestructura-y-energia' | relative_url }}">Infraestructura y energía</a>
