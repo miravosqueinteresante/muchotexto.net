@@ -13,9 +13,6 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Anthropic-control
-Allow: /
-
 User-agent: ClaudeBot
 Allow: /
 
