@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Imputación a Mauricio Espínola — 8 de junio de 2026"
-date: 2026-06-08
+description: "Imputación a Mauricio Espínola: La imputación del diputado por homicidio culposo tras un accidente de tránsito ha generado una fuerte controversia social. Pulso P..."
+
 last_modified_at: 2026-06-08
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes

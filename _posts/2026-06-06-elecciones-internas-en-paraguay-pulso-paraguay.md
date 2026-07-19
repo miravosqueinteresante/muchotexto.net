@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Elecciones internas en Paraguay — 6 de junio de 2026"
-date: 2026-06-06
+description: "Elecciones internas en Paraguay: Las elecciones internas generan un gran volumen de conversación a medida que se acercan las votaciones. Pulso Paraguay — 6 de jun..."
+
 last_modified_at: 2026-06-06
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
