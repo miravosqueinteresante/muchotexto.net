@@ -3,6 +3,11 @@
  * ponytail: design tokens from _variables.scss, dark mode only
  */
 
+// Reduce masthead gap on homepage — tagline and hero eyebrow echo each other
+.home .masthead {
+  margin-bottom: var(--spacer);
+}
+
 .hero-observatorio {
   padding: var(--spacer-3) 0 var(--spacer-2);
   margin-bottom: var(--spacer-3);
@@ -246,4 +251,9 @@
   display: inline;
   margin: 0 0.5em;
   opacity: 0.35;
+}
+
+.daily-links {
+  margin-top: var(--spacer);
+  text-align: center;
 }

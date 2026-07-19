@@ -12,7 +12,7 @@ layout: default
 <section class="hero-observatorio">
   <p class="hero-eyebrow">Observatorio de IA en Paraguay</p>
   <h1 class="hero-title">{{ articulos.size }} análisis en profundidad sobre IA, energía y geopolítica en Paraguay</h1>
-  <p class="hero-desc">Guía completa del cluster: 5 pilares temáticos, cronología, directorio, glosario y mapa regulatorio. Publicamos artículos de investigación de 1.500 a 2.500 palabras con fuentes verificadas, una editorial diaria de opinión y el Pulso Paraguay.</p>
+  <p class="hero-desc">Publicamos artículos de investigación de 1.500 a 2.500 palabras con fuentes verificadas, una editorial diaria de opinión y el Pulso Paraguay, un reporte automatizado que sintetiza las noticias del país desde 15 fuentes periodísticas. El foco del sitio es el cluster <strong>Inteligencia Artificial en Paraguay</strong>: una guía viva que explora cómo la energía más barata de Sudamérica, la geopolítica de los semiconductores, la regulación de datos y el talento local están configurando el futuro del país. Cada artículo presenta argumentos a favor y en contra, con datos duros y fuentes nombradas.</p>
   <div class="hero-pillars">
     <a href="{{ '/ia-en-paraguay/#infraestructura-y-energia' | relative_url }}">Infraestructura y energía</a>
     <a href="{{ '/ia-en-paraguay/#geopolítica-y-regulación-tech' | relative_url }}">Geopolítica</a>
@@ -37,7 +37,7 @@ layout: default
 </section>
 
 <section class="home-section">
-  <h2 class="home-section-title">Hoy en Muchotexto</h2>
+  <h2 class="home-section-title">Pulso y editorial recientes</h2>
 
   <div class="daily-featured">
     {% if ultimo_pulso %}
@@ -63,7 +63,11 @@ layout: default
     {% endif %}
   </div>
 
-  <a class="see-all" href="{{ '/categories/#pulso-paraguay' | relative_url }}">Pulso Paraguay</a>
-  <span class="see-all-sep">&middot;</span>
-  <a class="see-all" href="{{ '/categories/#editorial' | relative_url }}">Editorial</a>
+  <div class="daily-links">
+    <a class="see-all" href="{{ '/categories/#pulso-paraguay' | relative_url }}">Pulso Paraguay</a>
+    <span class="see-all-sep">&middot;</span>
+    <a class="see-all" href="{{ '/categories/#editorial' | relative_url }}">Editorial</a>
+    <span class="see-all-sep">&middot;</span>
+    <a class="see-all" href="{{ '/archive/' | relative_url }}">Ver todo el archivo &rarr;</a>
+  </div>
 </section>
