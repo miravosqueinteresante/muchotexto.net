@@ -3,16 +3,28 @@ layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Observatorio de inteligencia artificial en Paraguay: data centers, energía, regulación, empleo tech y geopolítica. Impacto social de la IA. Jul 2026."
-last_modified_at: 2026-07-17
+last_modified_at: 2026-07-18
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
 
 Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre inteligencia artificial en Paraguay. Cada artículo es un análisis en profundidad -1.500 a 2.500 palabras, fuentes verificadas, argumentos a favor y en contra- publicado con un solo objetivo: que entiendas lo que está pasando, por qué importa y qué puede significar para el país.
 
-**Biblioteca de análisis** — 31 artículos organizados por sector: [Infraestructura y energía](#infraestructura-y-energia) · [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) · [IA, sociedad y trabajo](#ia-sociedad-y-trabajo) · [Tecnología aplicada y ecosistema](#tecnología-aplicada-y-ecosistema) · [Cultura, filosofía y futuro](#cultura-filosofía-y-futuro)
+**Biblioteca de análisis** — 32 artículos organizados por sector:
 
-También: [Cronología](/cronologia/) · [Mapa regulatorio](/regulacion/) · [Directorio](/directorio/) · [Casos de uso](/casos-de-uso/) · [Glosario vivo](/glosario/)
+- [Infraestructura y energía](#infraestructura-y-energia) — data centers, electricidad, criptominería
+- [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) — Taiwán, China, leyes, ciberseguridad
+- [IA, sociedad y trabajo](#ia-sociedad-y-trabajo) — educación, talento, gobierno digital, salud
+- [Tecnología aplicada y ecosistema](#tecnología-aplicada-y-ecosistema) — blockchain, fintech, startups, smart cities
+- [Cultura, filosofía y futuro](#cultura-filosofía-y-futuro) — ética, identidad, prospectiva
+
+**Observatorio:**
+
+- [Cronología](/cronologia/) — Hitos de IA en Paraguay desde 1973
+- [Mapa regulatorio](/regulacion/) — Leyes, decretos y estrategias vigentes
+- [Directorio](/directorio/) — Startups, aceleradoras, comunidades y eventos
+- [Casos de uso](/casos-de-uso/) — IA aplicada en sectores productivos
+- [Glosario vivo](/glosario/) — Términos clave explicados en contexto paraguayo
 
 ## Infraestructura y energía
 
@@ -84,6 +96,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[La IA cuesta más que los humanos que reemplazó: los números]({% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %})** - Verificación de datos sobre el estado real de la inversión en IA.
 - **[La IA no es neutral: lo que dice la encíclica del Papa León XIV]({% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %})** - El Vaticano publicó la primera encíclica sobre inteligencia artificial.
 - **[5 tecnologías que prometieron cambiar todo pero no cambiaron nada]({% post_url 2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo %})** - Metaverso, NFTs, Hyperloop, Google Glass, Segway.
+- **[¿Qué es realmente el fútbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** - Una exploración sobre identidad, pertenencia y el significado cultural del deporte más popular del mundo.
 - **[Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** - USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol.
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
 
