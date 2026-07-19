@@ -7,6 +7,22 @@ layout: default
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://muchotexto.net/#website",
+  "url": "https://muchotexto.net",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://muchotexto.net/buscar/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
   "@type": "CollectionPage",
   "@id": "https://muchotexto.net/#collection",
   "name": "Observatorio de IA en Paraguay",

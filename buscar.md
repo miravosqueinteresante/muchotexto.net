@@ -55,34 +55,42 @@ sitemap: false
   var results = document.getElementById('search-results');
   var posts = [];
 
+  function doSearch(q) {
+    if (!q) { results.innerHTML = ''; return; }
+    var terms = q.split(/\s+/).filter(Boolean);
+    var matched = [];
+    for (var i = 0; i < posts.length; i++) {
+      var p = posts[i];
+      var text = (p.title + ' ' + p.excerpt + ' ' + (p.tags || []).join(' ')).toLowerCase();
+      var ok = true;
+      for (var t = 0; t < terms.length; t++) {
+        if (text.indexOf(terms[t]) === -1) { ok = false; break; }
+      }
+      if (ok) matched.push(p);
+      if (matched.length >= 20) break;
+    }
+    results.innerHTML = matched.length
+      ? matched.map(function(p) {
+          return '<li class="search-result-item">' +
+            '<a href="' + p.url + '">' + p.title + '</a>' +
+            '<div class="post-meta">' + (p.type == 'pagina' ? 'P\u00e1gina' : p.date) + '</div>' +
+            '<div class="search-excerpt">' + p.excerpt + '</div>' +
+            '</li>';
+        }).join('')
+      : '<li style="list-style:none;opacity:0.6">No se encontraron resultados</li>';
+  }
+
   fetch('/search.json')
     .then(function(r) { return r.json(); })
     .then(function(data) {
       posts = data;
+
+      // Read query from URL (Google SearchAction support)
+      var urlQ = new URLSearchParams(window.location.search).get('q');
+      if (urlQ) { input.value = urlQ; doSearch(urlQ); }
+
       input.addEventListener('input', function() {
-        var q = input.value.trim().toLowerCase();
-        if (!q) { results.innerHTML = ''; return; }
-        var terms = q.split(/\s+/).filter(Boolean);
-        var matched = [];
-        for (var i = 0; i < posts.length; i++) {
-          var p = posts[i];
-          var text = (p.title + ' ' + p.excerpt + ' ' + (p.tags || []).join(' ')).toLowerCase();
-          var ok = true;
-          for (var t = 0; t < terms.length; t++) {
-            if (text.indexOf(terms[t]) === -1) { ok = false; break; }
-          }
-          if (ok) matched.push(p);
-          if (matched.length >= 20) break;
-        }
-        results.innerHTML = matched.length
-          ? matched.map(function(p) {
-              return '<li class="search-result-item">' +
-                '<a href="' + p.url + '">' + p.title + '</a>' +
-                '<div class="post-meta">' + (p.type == 'pagina' ? 'P\u00e1gina' : p.date) + '</div>' +
-                '<div class="search-excerpt">' + p.excerpt + '</div>' +
-                '</li>';
-            }).join('')
-          : '<li style="list-style:none;opacity:0.6">No se encontraron resultados</li>';
+        doSearch(input.value.trim().toLowerCase());
       });
     })
     .catch(function() {
