@@ -31,6 +31,7 @@ layout: default
         <span class="badge badge-articulo">Artículo</span>
         <h3>{{ post.title }}</h3>
         <p class="analysis-meta">{{ post.tags | first | capitalize }} &middot; {{ post.date | date: "%-d %b" }}</p>
+        <p class="analysis-desc">{% if post.description %}{{ post.description | strip_html | truncate: 120 }}{% endif %}</p>
       </a>
     {% endfor %}
   </div>
