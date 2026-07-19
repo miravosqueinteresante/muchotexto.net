@@ -6,7 +6,8 @@ layout: default
 
 {% assign articulos = site.posts | where_exp: "p","p.categories contains 'articulos'" %}
 {% assign ultimos_articulos = articulos | slice: 0, 3 %}
-{% assign diarios = site.posts | where_exp: "p","p.categories contains 'pulso-paraguay' or p.categories contains 'editorial'" | slice: 0, 4 %}
+{% assign ultimo_pulso = site.posts | where_exp: "p","p.categories contains 'pulso-paraguay'" | first %}
+{% assign ultima_editorial = site.posts | where_exp: "p","p.categories contains 'editorial'" | first %}
 
 <section class="hero-observatorio">
   <p class="hero-eyebrow">Observatorio de IA en Paraguay</p>
@@ -36,19 +37,33 @@ layout: default
 </section>
 
 <section class="home-section">
-  <h2 class="home-section-title">Pulso y editorial recientes</h2>
-  <div class="daily-list">
-    {% for post in diarios %}
-      <a class="daily-row" href="{{ post.url | relative_url }}">
-        {% if post.categories contains 'editorial' %}
-          <span class="badge badge-editorial">Editorial</span>
-        {% else %}
-          <span class="badge badge-pulso">Pulso</span>
-        {% endif %}
-        <span class="daily-title">{{ post.title }}</span>
-        <time class="daily-date">{{ post.date | date: "%-d %b" }}</time>
-      </a>
-    {% endfor %}
+  <h2 class="home-section-title">Hoy en Muchotexto</h2>
+
+  <div class="daily-featured">
+    {% if ultimo_pulso %}
+    <a class="daily-card" href="{{ ultimo_pulso.url | relative_url }}">
+      <div class="daily-card-header">
+        <span class="badge badge-pulso">Pulso Paraguay</span>
+        <time datetime="{{ ultimo_pulso.date | date_to_xmlschema }}">{{ ultimo_pulso.date | date: "%-d %b %Y" }}</time>
+      </div>
+      <h3 class="daily-card-title">{{ ultimo_pulso.title }}</h3>
+      <p class="daily-card-desc">{% if ultimo_pulso.description %}{{ ultimo_pulso.description | strip_html | truncate: 140 }}{% else %}Reporte diario de noticias desde 15 fuentes periodísticas de Paraguay.{% endif %}</p>
+    </a>
+    {% endif %}
+
+    {% if ultima_editorial %}
+    <a class="daily-card" href="{{ ultima_editorial.url | relative_url }}">
+      <div class="daily-card-header">
+        <span class="badge badge-editorial">Editorial</span>
+        <time datetime="{{ ultima_editorial.date | date_to_xmlschema }}">{{ ultima_editorial.date | date: "%-d %b %Y" }}</time>
+      </div>
+      <h3 class="daily-card-title">{{ ultima_editorial.title }}</h3>
+      <p class="daily-card-desc">{% if ultima_editorial.description %}{{ ultima_editorial.description | strip_html | truncate: 140 }}{% else %}Análisis de opinión basado en el Pulso Paraguay del día.{% endif %}</p>
+    </a>
+    {% endif %}
   </div>
-  <a class="see-all" href="{{ '/archive/' | relative_url }}">Ver todo el archivo &rarr;</a>
+
+  <a class="see-all" href="{{ '/categories/#pulso-paraguay' | relative_url }}">Pulso Paraguay</a>
+  <span class="see-all-sep">&middot;</span>
+  <a class="see-all" href="{{ '/categories/#editorial' | relative_url }}">Editorial</a>
 </section>
