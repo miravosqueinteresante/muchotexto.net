@@ -68,10 +68,35 @@ layout: default
 
 <section class="home-section">
   <h2 class="home-section-title">Sobre el observatorio</h2>
-  <div class="about-text">
-    <p>El foco del sitio es el cluster <strong>Observatorio de IA en Paraguay — Guía Completa 2026</strong>: una guía viva que explora cómo la energía más barata de Sudamérica, la geopolítica de los semiconductores, la regulación de datos y el talento local están configurando el futuro del país.</p>
-    <p>El observatorio se organiza en <a href="{{ '/ia-en-paraguay/' | relative_url }}">5 pilares temáticos</a> con {{ total_analisis }} artículos publicados. Además mantenemos una <a href="{{ '/cronologia/' | relative_url }}">cronología de hitos</a>, un <a href="{{ '/directorio/' | relative_url }}">directorio de startups y comunidades</a>, un <a href="{{ '/regulacion/' | relative_url }}">mapa regulatorio</a>, <a href="{{ '/casos-de-uso/' | relative_url }}">casos de uso</a> por sector y un <a href="{{ '/glosario/' | relative_url }}">glosario vivo</a> de términos clave. Todo con fuentes verificadas y actualización continua.</p>
+  <p class="about-mission">Investigamos cómo la inteligencia artificial transformará Paraguay durante la próxima década.</p>
+  <div class="observatorio-grid">
+    <a class="observatorio-card" href="{{ '/cronologia/' | relative_url }}">
+      <span class="observatorio-icon">&#9745;</span>
+      <span class="observatorio-label">Cronología</span>
+      <span class="observatorio-desc">Hitos desde 1973</span>
+    </a>
+    <a class="observatorio-card" href="{{ '/regulacion/' | relative_url }}">
+      <span class="observatorio-icon">&#9881;</span>
+      <span class="observatorio-label">Mapa regulatorio</span>
+      <span class="observatorio-desc">Leyes y decretos</span>
+    </a>
+    <a class="observatorio-card" href="{{ '/directorio/' | relative_url }}">
+      <span class="observatorio-icon">&#9733;</span>
+      <span class="observatorio-label">Directorio</span>
+      <span class="observatorio-desc">Startups y comunidades</span>
+    </a>
+    <a class="observatorio-card" href="{{ '/casos-de-uso/' | relative_url }}">
+      <span class="observatorio-icon">&#9883;</span>
+      <span class="observatorio-label">Casos de uso</span>
+      <span class="observatorio-desc">IA en sectores reales</span>
+    </a>
+    <a class="observatorio-card" href="{{ '/glosario/' | relative_url }}">
+      <span class="observatorio-icon">&#9734;</span>
+      <span class="observatorio-label">Glosario vivo</span>
+      <span class="observatorio-desc">Términos en contexto</span>
+    </a>
   </div>
+  <p class="about-footer">Todo con fuentes verificadas. <a href="{{ '/como-trabajamos/' | relative_url }}">Así trabajamos</a>.</p>
 </section>
 
 <section class="home-section">

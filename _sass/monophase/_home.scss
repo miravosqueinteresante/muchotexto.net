@@ -269,16 +269,69 @@
  * About section — observatorio context
  */
 
-.about-text {
-  font-size: 0.95em;
-  line-height: 1.7;
-  opacity: 0.85;
+.about-mission {
+  margin: 0 0 var(--spacer-2);
+  font-size: 1.05em;
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--heading-color);
+  text-align: center;
+}
 
-  p {
-    margin: 0 0 var(--spacer);
-  }
+.observatorio-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--spacer);
+  margin-bottom: var(--spacer-2);
+}
 
-  a {
-    color: var(--link-color);
+@media (max-width: 35rem) {
+  .observatorio-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
+}
+
+.observatorio-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25em;
+  padding: var(--spacer);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  transition: border-color 0.15s;
+}
+
+.observatorio-card:hover {
+  border-color: var(--link-color);
+}
+
+.observatorio-icon {
+  font-size: 1.2em;
+  opacity: 0.6;
+}
+
+.observatorio-label {
+  font-size: 0.82em;
+  font-weight: 600;
+  color: var(--heading-color);
+}
+
+.observatorio-desc {
+  font-size: 0.72em;
+  opacity: 0.5;
+}
+
+.about-footer {
+  margin: 0;
+  text-align: center;
+  font-size: 0.85em;
+  opacity: 0.65;
+}
+
+.about-footer a {
+  color: var(--link-color);
 }
