@@ -3,6 +3,7 @@ layout: post
 title: "Pulso Paraguay: Mundial de Fútbol 2026 — 12 de junio de 2026"
 description: "Mundial de Fútbol 2026: El debut de la Albirroja genera una ola de entusiasmo en todo el país. Pulso Paraguay — 12 de junio de 2026."
 
+
 last_modified_at: 2026-06-12
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
