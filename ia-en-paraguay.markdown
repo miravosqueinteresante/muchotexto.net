@@ -10,7 +10,7 @@ Paraguay está en el mapa de la inteligencia artificial global. No como consumid
 
 Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre inteligencia artificial en Paraguay. Cada artículo es un análisis en profundidad -1.500 a 2.500 palabras, fuentes verificadas, argumentos a favor y en contra- publicado con un solo objetivo: que entiendas lo que está pasando, por qué importa y qué puede significar para el país.
 
-**Biblioteca de análisis** — 31 artículos organizados por sector:
+**Biblioteca de análisis** — {{ site.posts | where_exp: "p","p.categories contains 'articulos'" | size | minus: 2 }} artículos organizados por sector:
 
 - [Infraestructura y energía](#infraestructura-y-energia) — data centers, electricidad, criptominería
 - [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) — Taiwán, China, leyes, ciberseguridad
