@@ -157,3 +157,16 @@ Cada semana publicamos uno o dos artículos nuevos. Esta guía se actualiza con 
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://muchotexto.net/ia-en-paraguay/#collection",
+  "name": "Observatorio de IA en Paraguay",
+  "description": "Guía completa de inteligencia artificial en Paraguay. 31 artículos organizados en 5 pilares: infraestructura, geopolítica, sociedad, ecosistema y futuro.",
+  "url": "https://muchotexto.net/ia-en-paraguay/",
+  "about": { "@id": "https://www.wikidata.org/wiki/Q733" },
+  "publisher": { "@id": "https://muchotexto.net/#org" }
+}
+</script>

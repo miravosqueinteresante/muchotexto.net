@@ -4,6 +4,20 @@ layout: default
 
 {{ content }}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://muchotexto.net/#collection",
+  "name": "Observatorio de IA en Paraguay",
+  "description": "31 análisis en profundidad sobre IA, energía y geopolítica en Paraguay.",
+  "url": "https://muchotexto.net",
+  "about": { "@id": "https://muchotexto.net/ia-en-paraguay/" },
+  "mainEntity": { "@id": "https://muchotexto.net/ia-en-paraguay/" },
+  "publisher": { "@id": "https://muchotexto.net/#org" }
+}
+</script>
+
 {% assign articulos = site.posts | where_exp: "p","p.categories contains 'articulos'" %}
 {% assign total_analisis = articulos.size | minus: 2 %}
 {% assign ultimos_articulos = articulos | slice: 0, 3 %}
