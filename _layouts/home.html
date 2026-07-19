@@ -30,7 +30,21 @@ layout: default
       <a class="analysis-card" href="{{ post.url | relative_url }}">
         <span class="badge badge-articulo">Artículo</span>
         <h3>{{ post.title }}</h3>
-        <p class="analysis-meta">{{ post.tags | first | capitalize }} &middot; {{ post.date | date: "%-d %b" }}</p>
+        <p class="analysis-meta">
+          {% assign sector = post.tags | first %}
+          {% case sector %}
+            {% when 'infraestructura-energia' %}Infraestructura y energía
+            {% when 'geopolitica-regulacion' %}Geopolítica y regulación
+            {% when 'sociedad-trabajo' %}Sociedad y trabajo
+            {% when 'tech-ecosistema' %}Tecnología y ecosistema
+            {% when 'cultura-filosofia' %}Cultura y filosofía
+            {% when 'ia-paraguay' %}IA en Paraguay
+            {% when 'analisis-ia' %}Análisis de IA
+            {% when 'paraguay-futuro' %}Paraguay futuro
+            {% else %}{{ sector | capitalize }}
+          {% endcase %}
+          &middot; {{ post.date | date: "%-d %b %Y" }}
+        </p>
         <p class="analysis-desc">{% if post.description %}{{ post.description | strip_html }}{% endif %}</p>
       </a>
     {% endfor %}
