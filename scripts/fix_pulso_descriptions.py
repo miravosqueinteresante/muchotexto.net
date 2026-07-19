@@ -54,6 +54,6 @@ for f in files:
         fh.write(new_content)
 
     count += 1
-    print(f'Fixed: {basename}')
+    print(f'Fixed: {os.path.basename(f)}')
 
 print(f'\nTotal: {count}')
