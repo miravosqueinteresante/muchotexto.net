@@ -290,6 +290,14 @@
   }
 }
 
+.about-lead {
+  margin: 0 0 var(--spacer);
+  font-size: 0.85em;
+  font-weight: 600;
+  text-align: center;
+  opacity: 0.6;
+}
+
 .observatorio-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
