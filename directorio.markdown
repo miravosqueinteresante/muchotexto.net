@@ -59,3 +59,41 @@ Las siguientes secciones requieren investigación adicional y se incorporarán e
 - **Expertos en IA en Paraguay** — Investigadores, profesionales y referentes del ecosistema local.
 - **Comunidades de Discord/Telegram** — Listado completo y verificado de comunidades tecnológicas paraguayas.
 - **Inversores y fondos activos en Paraguay** — Venture capital, aceleradoras e inversores ángel operando en el ecosistema.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://muchotexto.net/directorio/#directory",
+  "name": "Directorio de IA en Paraguay",
+  "description": "Startups, aceleradoras, comunidades y espacios de inteligencia artificial y tecnología en Paraguay.",
+  "numberOfItems": 15,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": { "@type": "Organization", "name": "KOGA Impact Lab", "url": "https://koga.com.py/", "description": "Aceleradora y hub de innovación con más de 14 años operando en Paraguay." }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": { "@type": "Organization", "name": "HIVE Digital Technologies", "url": "https://www.hivedigitaltechnologies.com/", "description": "Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú." }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": { "@type": "Organization", "name": "Yguazú Digital", "description": "Proyecto binacional Paraguay-Taiwán para construir un data center de IA de hasta 1 GW." }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": { "@type": "Organization", "name": "Autograph", "description": "Startup paraguaya de IA en el ecosistema local." }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": { "@type": "Organization", "name": "BUZZ AI Cloud", "description": "Primer cluster de GPU para inteligencia artificial en Paraguay." }
+    }
+  ]
+}
+</script>

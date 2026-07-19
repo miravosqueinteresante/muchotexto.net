@@ -13,6 +13,7 @@ layout: default
     "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
     "author": { "@id": "https://muchotexto.net/#author" },
     "publisher": { "@id": "https://muchotexto.net/#org" },
+    "isPartOf": { "@id": "https://muchotexto.net/ia-en-paraguay/#collection" },
     "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
     {% if page.faq %}
     ,"mainEntity": {{ page.faq | jsonify }}

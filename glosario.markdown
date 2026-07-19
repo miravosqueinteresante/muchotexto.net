@@ -172,3 +172,40 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 ---
 
 Este glosario se actualiza a medida que crece el ecosistema. Para un análisis completo de cada tema, visita la [guía de IA en Paraguay](/ia-en-paraguay/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://muchotexto.net/glosario/#glossary",
+  "name": "Glosario vivo de Inteligencia Artificial en Paraguay",
+  "description": "Términos clave de inteligencia artificial explicados en contexto paraguayo.",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "Data center",
+      "description": "Instalación que alberga miles de servidores funcionando 24/7 para procesar y almacenar datos."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "GPU",
+      "description": "Chip especializado en cálculo paralelo, esencial para entrenar modelos de inteligencia artificial."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "MW (megavatio)",
+      "description": "Unidad de potencia eléctrica. La capacidad de un data center se mide en MW."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "PUE",
+      "description": "Índice que mide la eficiencia energética de un data center."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Yguazú Digital",
+      "description": "Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo."
+    }
+  ]
+}
+</script>
