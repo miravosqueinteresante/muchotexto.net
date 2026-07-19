@@ -12,7 +12,7 @@ layout: default
 <section class="hero-observatorio">
   <p class="hero-eyebrow">Observatorio de IA en Paraguay</p>
   <h1 class="hero-title">{{ articulos.size }} análisis en profundidad sobre IA, energía y geopolítica en Paraguay</h1>
-  <p class="hero-desc">Publicamos artículos de investigación de 1.500 a 2.500 palabras con fuentes verificadas, una editorial diaria de opinión y el Pulso Paraguay, un reporte automatizado que sintetiza las noticias del país desde 15 fuentes periodísticas. El foco del sitio es el cluster <strong>Inteligencia Artificial en Paraguay</strong>: una guía viva que explora cómo la energía más barata de Sudamérica, la geopolítica de los semiconductores, la regulación de datos y el talento local están configurando el futuro del país. Cada artículo presenta argumentos a favor y en contra, con datos duros y fuentes nombradas.</p>
+  <p class="hero-desc">Publicamos artículos de investigación de 1.500 a 2.500 palabras con fuentes verificadas, una editorial diaria de opinión y el Pulso Paraguay. Cada artículo presenta argumentos a favor y en contra, con datos duros y fuentes nombradas.</p>
   <div class="hero-pillars">
     <a href="{{ '/ia-en-paraguay/#infraestructura-y-energia' | relative_url }}">Infraestructura y energía</a>
     <a href="{{ '/ia-en-paraguay/#geopolítica-y-regulación-tech' | relative_url }}">Geopolítica</a>
@@ -48,6 +48,14 @@ layout: default
         <p class="analysis-desc">{% if post.description %}{{ post.description | strip_html }}{% endif %}</p>
       </a>
     {% endfor %}
+  </div>
+</section>
+
+<section class="home-section">
+  <h2 class="home-section-title">Sobre el observatorio</h2>
+  <div class="about-text">
+    <p>El foco del sitio es el cluster <strong>Observatorio de IA en Paraguay — Guía Completa 2026</strong>: una guía viva que explora cómo la energía más barata de Sudamérica, la geopolítica de los semiconductores, la regulación de datos y el talento local están configurando el futuro del país.</p>
+    <p>El observatorio se organiza en <a href="{{ '/ia-en-paraguay/' | relative_url }}">5 pilares temáticos</a> con 32 artículos publicados. Además mantenemos una <a href="{{ '/cronologia/' | relative_url }}">cronología de hitos</a>, un <a href="{{ '/directorio/' | relative_url }}">directorio de startups y comunidades</a>, un <a href="{{ '/regulacion/' | relative_url }}">mapa regulatorio</a>, <a href="{{ '/casos-de-uso/' | relative_url }}">casos de uso</a> por sector y un <a href="{{ '/glosario/' | relative_url }}">glosario vivo</a> de términos clave. Todo con fuentes verificadas y actualización continua.</p>
   </div>
 </section>
 

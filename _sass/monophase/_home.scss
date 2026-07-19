@@ -264,3 +264,21 @@
   margin-top: var(--spacer);
   text-align: center;
 }
+
+/**
+ * About section — observatorio context
+ */
+
+.about-text {
+  font-size: 0.95em;
+  line-height: 1.7;
+  opacity: 0.85;
+
+  p {
+    margin: 0 0 var(--spacer);
+  }
+
+  a {
+    color: var(--link-color);
+  }
+}
