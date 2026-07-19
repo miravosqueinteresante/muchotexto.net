@@ -2,47 +2,53 @@
 layout: default
 ---
 
-<div class="home-intro">
-  {{ content | markdownify }}
-</div>
+{{ content }}
 
-<div class="posts">
-  {% assign posts = site.posts %}
-  {% if paginator %}
-    {% assign posts = paginator.posts %}
-  {% endif %}
-  {% for post in posts %}
-    <div class="post">
-      <h2 class="post-title">
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h2>
+{% assign articulos = site.posts | where_exp: "p","p.categories contains 'articulos'" %}
+{% assign ultimos_articulos = articulos | slice: 0, 3 %}
+{% assign diarios = site.posts | where_exp: "p","p.categories contains 'pulso-paraguay' or p.categories contains 'editorial'" | slice: 0, 4 %}
 
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta">{{ post.date | date_to_string }}</time>
-
-      <p class="post-excerpt">
-        {% if post.description %}
-          {{ post.description | strip_html }}
-        {% else %}
-          {{ post.excerpt | strip_html }}
-        {% endif %}
-      </p>
-    </div>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">Anteriores</a>
-    {% else %}
-      <span class="pagination-item newer">Anteriores</span>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Siguientes</a>
-    {% else %}
-      <span class="pagination-item older">Siguientes</span>
-    {% endif %}
+<section class="hero-observatorio">
+  <p class="hero-eyebrow">Observatorio de IA en Paraguay</p>
+  <h1 class="hero-title">{{ articulos.size }} análisis en profundidad sobre IA, energía y geopolítica en Paraguay</h1>
+  <p class="hero-desc">Guía completa del cluster: 5 pilares temáticos, cronología, directorio, glosario y mapa regulatorio. Publicamos artículos de investigación de 1.500 a 2.500 palabras con fuentes verificadas, una editorial diaria de opinión y el Pulso Paraguay.</p>
+  <div class="hero-pillars">
+    <a href="{{ '/ia-en-paraguay/#infraestructura-y-energia' | relative_url }}">Infraestructura y energía</a>
+    <a href="{{ '/ia-en-paraguay/#geopolítica-y-regulación-tech' | relative_url }}">Geopolítica</a>
+    <a href="{{ '/ia-en-paraguay/#ia-sociedad-y-trabajo' | relative_url }}">Sociedad y trabajo</a>
+    <a href="{{ '/ia-en-paraguay/#tecnología-aplicada-y-ecosistema' | relative_url }}">Ecosistema</a>
+    <a href="{{ '/ia-en-paraguay/#cultura-filosofía-y-futuro' | relative_url }}">Cultura y futuro</a>
   </div>
-{% endif %}
+  <a class="hero-cta" href="{{ '/ia-en-paraguay/' | relative_url }}">Explorar el Observatorio &rarr;</a>
+</section>
+
+<section class="home-section">
+  <h2 class="home-section-title">Últimos análisis</h2>
+  <div class="analysis-grid">
+    {% for post in ultimos_articulos %}
+      <a class="analysis-card" href="{{ post.url | relative_url }}">
+        <span class="badge badge-articulo">Artículo</span>
+        <h3>{{ post.title }}</h3>
+        <p class="analysis-meta">{{ post.tags | first | capitalize }} &middot; {{ post.date | date: "%-d %b" }}</p>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="home-section">
+  <h2 class="home-section-title">Pulso y editorial recientes</h2>
+  <div class="daily-list">
+    {% for post in diarios %}
+      <a class="daily-row" href="{{ post.url | relative_url }}">
+        {% if post.categories contains 'editorial' %}
+          <span class="badge badge-editorial">Editorial</span>
+        {% else %}
+          <span class="badge badge-pulso">Pulso</span>
+        {% endif %}
+        <span class="daily-title">{{ post.title }}</span>
+        <time class="daily-date">{{ post.date | date: "%-d %b" }}</time>
+      </a>
+    {% endfor %}
+  </div>
+  <a class="see-all" href="{{ '/archive/' | relative_url }}">Ver todo el archivo &rarr;</a>
+</section>

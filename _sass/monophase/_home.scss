@@ -1,0 +1,231 @@
+/**
+ * Homepage — Observatorio layout
+ * ponytail: design tokens from _variables.scss, dark mode only
+ */
+
+.hero-observatorio {
+  padding: var(--spacer-3) 0 var(--spacer-2);
+  margin-bottom: var(--spacer-3);
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.hero-eyebrow {
+  margin: 0 0 var(--spacer);
+  font-size: 0.8em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--link-color);
+}
+
+.hero-title {
+  margin: 0 auto var(--spacer);
+  max-width: 36rem;
+  font-size: 1.6em;
+  line-height: 1.35;
+  color: var(--heading-color);
+}
+
+.hero-desc {
+  margin: 0 auto var(--spacer-2);
+  max-width: 32rem;
+  font-size: 1.05em;
+  opacity: 0.8;
+  line-height: 1.6;
+}
+
+.hero-pillars {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5em;
+  margin-bottom: var(--spacer-2);
+}
+
+.hero-pillars a {
+  padding: 0.4em 0.85em;
+  font-size: 0.85em;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  color: var(--body-color);
+  text-decoration: none;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.hero-pillars a:hover {
+  border-color: var(--link-color);
+  color: var(--link-color);
+}
+
+.hero-cta {
+  display: inline-block;
+  padding: 0.7em 1.6em;
+  font-size: 0.95em;
+  font-weight: 600;
+  border: 1px solid var(--link-color);
+  border-radius: var(--border-radius);
+  color: var(--link-color);
+  text-decoration: none;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.hero-cta:hover {
+  background-color: var(--link-color);
+  color: var(--body-bg-color);
+}
+
+/**
+ * Homepage sections
+ */
+
+.home-section {
+  margin-bottom: var(--spacer-3);
+}
+
+.home-section-title {
+  margin: 0 0 var(--spacer-2);
+  padding-bottom: var(--spacer);
+  font-size: 1.05em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--body-color);
+  opacity: 0.6;
+  border-bottom: 1px solid var(--border-color);
+}
+
+/**
+ * Analysis cards — 3-column grid
+ */
+
+.analysis-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacer);
+}
+
+@media (min-width: 40rem) {
+  .analysis-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.analysis-card {
+  display: flex;
+  flex-direction: column;
+  padding: var(--spacer);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s;
+}
+
+.analysis-card:hover {
+  border-color: var(--link-color);
+}
+
+.analysis-card h3 {
+  margin: var(--spacer) 0 0.35em;
+  font-size: 1em;
+  line-height: 1.4;
+  color: var(--heading-color);
+}
+
+.analysis-meta {
+  margin: 0;
+  font-size: 0.8em;
+  opacity: 0.55;
+}
+
+/**
+ * Badges
+ */
+
+.badge {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  font-size: 0.7em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: var(--border-radius);
+  align-self: flex-start;
+}
+
+.badge-articulo {
+  background: rgba(var(--link-color-rgb), 0.18);
+  color: var(--link-color);
+}
+
+.badge-pulso {
+  background: rgba(var(--warning-color-rgb, 255 200 0), 0.15);
+  color: var(--warning-color);
+}
+
+.badge-editorial {
+  background: rgba(var(--info-color-rgb, 0 200 100), 0.15);
+  color: var(--info-color);
+}
+
+/**
+ * Daily feed — Pulso + Editorial rows
+ */
+
+.daily-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background: var(--border-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
+.daily-row {
+  display: flex;
+  align-items: center;
+  gap: var(--spacer);
+  padding: 0.65em var(--spacer);
+  background: var(--body-bg-color);
+  text-decoration: none;
+  color: inherit;
+  transition: background-color 0.1s;
+}
+
+.daily-row:hover {
+  background: var(--code-bg-color);
+}
+
+.daily-row .badge {
+  flex-shrink: 0;
+}
+
+.daily-title {
+  flex: 1;
+  font-size: 0.9em;
+  line-height: 1.35;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.daily-date {
+  flex-shrink: 0;
+  font-size: 0.78em;
+  opacity: 0.45;
+  white-space: nowrap;
+}
+
+/**
+ * See all link
+ */
+
+.see-all {
+  display: block;
+  margin-top: var(--spacer);
+  text-align: center;
+  font-size: 0.88em;
+  color: var(--link-color);
+}

@@ -84,7 +84,7 @@ tags_path: /tags/
 categories_path: /categories/
 google_analytics: G-LLZE5F9CB7
 pagination:
-  enabled: true
+  enabled: false
   per_page: 5
   permalink: "/page/:num/"
   sort_field: "date"
