@@ -5,11 +5,11 @@
 
 // Reduce masthead gap on homepage — tagline and hero eyebrow echo each other
 .home .masthead {
-  margin-bottom: var(--spacer);
+  margin-bottom: 0;
 }
 
 .hero-observatorio {
-  padding: var(--spacer-3) 0 var(--spacer-2);
+  padding: var(--spacer) 0 var(--spacer-2);
   margin-bottom: var(--spacer-3);
   text-align: center;
   border-bottom: 1px solid var(--border-color);
