@@ -4,6 +4,7 @@ title: "Pulso Paraguay: Santiago Peña y la denuncia de enriquecimiento ilícito
 description: "Santiago Peña y la denuncia de enriquecimiento ilícito: Las acusaciones sobre el patrimonio del presidente generan un intenso debate en la política nacional. Puls..."
 
 
+
 last_modified_at: 2026-05-29
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes

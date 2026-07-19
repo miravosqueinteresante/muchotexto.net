@@ -4,6 +4,7 @@ title: "Solidaridad y desafíos estructurales en Paraguay — Editorial 27 de ju
 description: "Las rifas organizadas para ayudar a niños cardiópatas han puesto en evidencia una problemática que trasciende la solidaridad ciudadana: la incapacidad del..."
 
 
+
 date: 2026-06-27 18:00:00 -0400
 last_modified_at: 2026-06-27
 categories: editorial
