@@ -356,9 +356,9 @@ def save_post(content: str):
             max_topic = 70 - len(suffix) - 1  # -1 for potential truncation marker
             if max_topic > 10:
                 cut = topic.rfind(" ", 0, max_topic)
-                topic_short = topic[:cut].rstrip(" ,;:-—") + "…" if cut > 10 else topic[:max_topic-1].rstrip(" ,;:-—") + "…"
+                topic_short = topic[:cut].rstrip(" ,;:-—") if cut > 10 else topic[:max_topic-1].rstrip(" ,;:-—")
             else:
-                topic_short = topic[:50].rstrip(" ,;:-—") + "…"
+                topic_short = topic[:50].rstrip(" ,;:-—")
             title = f"Pulso Paraguay: {topic_short} {suffix}"
     else:
         slug = f"{date_str}-pulso-paraguay"
