@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Solidaridad y desafíos estructurales en Paraguay — Editorial 27 de junio de 2026"
-description: "Las rifas organizadas para ayudar a niños cardiópatas han puesto en evidencia una problemática que trasciende la solidaridad ciudadana: la incapacidad del"
+description: "Las rifas organizadas para ayudar a niños cardiópatas han puesto en evidencia una problemática que trasciende la solidaridad ciudadana: la incapacidad del sistema de salud pública en Paraguay para atender casos críticos de manera eficiente."
+
+
 
 
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Expectativa y tensión social — Editorial 4 de julio 2026"
-description: "El partido de Paraguay contra Francia en los octavos de final del Mundial 2026 domina la conversación nacional, con una temperatura social alta y un"
+description: "El partido de Paraguay contra Francia en los octavos de final del Mundial 2026 domina la conversación nacional, con una temperatura social alta y un sentimiento mayoritariamente positivo."
+
+
 
 
 

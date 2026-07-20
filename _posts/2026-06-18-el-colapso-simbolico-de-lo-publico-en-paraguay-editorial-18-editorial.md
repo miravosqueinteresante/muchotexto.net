@@ -1,7 +1,9 @@
 ﻿---
 layout: post
 title: "El colapso simbólico de lo público en Paraguay — Editorial 18 de junio de 2026"
-description: "El abandono del edificio del Correo Paraguayo no es solo una cuestión de mampostería desgastada o de pintura descascarada; es un testimonio arquitectónico de"
+description: "El abandono del edificio del Correo Paraguayo no es solo una cuestión de mampostería desgastada o de pintura descascarada; es un testimonio arquitectónico de la fragilidad institucional que atraviesa nuestro país."
+
+
 
 
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Tensiones por seguridad y prioridades nacionales — Editorial 13 de julio de 2026"
-description: "La seguridad ciudadana en Paraguay ha sido el tema más discutido en la jornada de hoy, impulsado por hechos recientes como el traslado de la Comandancia de la"
+description: "La seguridad ciudadana en Paraguay ha sido el tema más discutido en la jornada de hoy, impulsado por hechos recientes como el traslado de la Comandancia de la Policía Nacional al Puerto de Asunción y el asesinato de un guardia de seguridad en San Alberto."
+
+
 
 
 
