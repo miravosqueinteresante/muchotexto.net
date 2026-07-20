@@ -37,7 +37,7 @@ last_modified_at: 2026-07-18
 
 ## Eventos
 
-- **[Smart City Paraguay 2026](https://www.smartcitypy.com/)** — Congreso y expo sobre ciudades inteligentes. 24 y 25 de agosto de 2026, Paseo La Galería, Asunción. Incluye Ronda de Negocios el 25 de agosto. Acceso gratuito con inscripción previa.
+- **[Smart City Paraguay 2026](https://www.instagram.com/smartcityparaguay/)** — Congreso y expo sobre ciudades inteligentes. 24 y 25 de agosto de 2026, Paseo La Galería, Asunción. Incluye Ronda de Negocios el 25 de agosto. Acceso gratuito con inscripción previa.
 - **[2ª Convención Bancaria Paraguay 2026](https://www.asoban.org.py/eventos/convencion-bancaria-2026/)** — Organizada por ASOBAN. Banca autónoma y escalabilidad de la IA. 6 y 7 de agosto de 2026, Sheraton Asunción Hotel.
 - **[AI Paraguay Conference 2026](https://es.linkedin.com/posts/italianza_aiparaguay-inteligenciaartificial-tecnolog%C3%ADa-activity-7483165923894280192-NZ-Y)** — Conferencia exclusiva sobre IA aplicada a negocios. 11 de noviembre de 2026, Paseo La Galería, Asunción. Organizada por IT Alianza.
 - **[IBERAMIA 2026](https://www.iberamia.org/iberamia/iberamia2026/)** — 19ª Conferencia Iberoamericana de Inteligencia Artificial. 18-20 de noviembre de 2026, Universidad Católica, Asunción. Organizada por UNA, UCA, UCOM y SOPAIA.
