@@ -37,7 +37,7 @@ El editor humano —César Sánchez— tiene a su cargo:
 
 ## Proceso de investigación con agentes de IA
 
-Los artículos de fondo siguen un proceso estructurado de 10 pasos donde la IA actúa como asistente de investigación, no como autor:
+Los artículos de fondo siguen un proceso estructurado de 11 pasos donde la IA actúa como asistente de investigación, no como autor:
 
 1. **Selección del tema**: verificamos contra nuestro calendario editorial de 42 temas que el tópico no esté duplicado y tenga ángulo original.
 2. **Plan de investigación**: creamos un directorio `research_[tema]/` con un `research_plan.md` que define la pregunta principal, 4 o 5 subtemas específicos y las fuentes esperadas (institutos públicos, papers académicos, documentos oficiales, informes sectoriales).
@@ -59,7 +59,7 @@ Los artículos de fondo siguen un proceso estructurado de 10 pasos donde la IA a
     - **`llms.txt`**: agregar el artículo al pilar correspondiente.
     Cada página actualizada incrementa su `last_modified_at`. No todas las páginas se actualizan en cada artículo — solo las que tengan contenido nuevo que aportar.
 
-Además, aplicamos una **auditoría programada**: cada 5 artículos nuevos, re-auditamos los artículos más antiguos no auditados contra sus fuentes originales. Esto nos ha permitido detectar y corregir errores en contenido ya publicado —por ejemplo, corregimos 8 artículos tras una auditoría retrospectiva en julio de 2026—.
+Además, aplicamos una **auditoría programada**: cada 5 artículos nuevos, re-auditamos los artículos más antiguos no auditados contra sus fuentes originales. Esto nos ha permitido detectar y corregir errores en contenido ya publicado —por ejemplo, corregimos 9 errores en 8 artículos tras una auditoría retrospectiva en julio de 2026—.
 
 Este proceso reduce significativamente el riesgo de alucinaciones y busca que cada artículo de fondo esté respaldado por fuentes primarias verificables.
 
