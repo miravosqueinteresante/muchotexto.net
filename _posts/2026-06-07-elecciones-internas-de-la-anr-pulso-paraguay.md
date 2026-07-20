@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Elecciones internas de la ANR — 7 de junio de 2026"
-description: "Elecciones internas de la ANR: Las elecciones internas de la Asociación Nacional Republicana (ANR) generaron un gran volumen de conversación y seguimiento en todo..."
+description: "Elecciones internas de la ANR: Las elecciones internas de la Asociación Nacional Republicana (ANR) generaron un gran volumen de conversación y seguimiento en todo el país. Pulso Paraguay — 7 de junio de 2026."
+
 
 
 

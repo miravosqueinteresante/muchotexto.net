@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Alerta de tormentas en cinco departamentos — 28 de junio de 2026"
-description: "Alerta de tormentas en cinco departamentos: Las condiciones climáticas severas están generando gran preocupación y conversación entre los paraguayos. Pulso Paragu..."
+description: "Alerta de tormentas en cinco departamentos: Las condiciones climáticas severas están generando gran preocupación y conversación entre los paraguayos. Pulso Paraguay — 28 de junio de 2026."
+
 
 
 

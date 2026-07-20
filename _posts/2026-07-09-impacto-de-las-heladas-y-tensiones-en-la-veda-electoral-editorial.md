@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Heladas y veda, un malestar común — Editorial 9 de julio 2026"
-description: "El Pulso Paraguay de hoy destaca dos temas que, aunque a primera vista parecen desconectados, revelan un trasfondo común de preocupación social: el impacto de..."
+description: "El Pulso Paraguay de hoy destaca dos temas que, aunque a primera vista parecen desconectados, revelan un trasfondo común de preocupación social: el impacto de"
+
 
 
 

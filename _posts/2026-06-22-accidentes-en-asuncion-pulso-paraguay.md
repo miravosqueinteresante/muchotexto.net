@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Accidentes en Asunción — 22 de junio de 2026"
-description: "Accidentes en Asunción: Los accidentes frente a la Municipalidad de Asunción han generado gran preocupación y debate en la ciudadanía. Pulso Paraguay — 22 de juni..."
+description: "Accidentes en Asunción: Los accidentes frente a la Municipalidad de Asunción han generado gran preocupación y debate en la ciudadanía. Pulso Paraguay — 22 de junio de 2026."
+
 
 
 

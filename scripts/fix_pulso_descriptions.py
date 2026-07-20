@@ -44,9 +44,6 @@ for f in files:
 
     desc = f'{topic}: {sentence} Pulso Paraguay \u2014 {date_fmt}.'
 
-    if len(desc) > 165:
-        desc = desc[:162] + '...'
-
     lines[3] = f'description: \"{desc}\"\n'
     new_content = '\n'.join(lines)
 

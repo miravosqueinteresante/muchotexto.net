@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ética, legalidad y confianza en las instituciones"
-description: "El inicio del juicio contra Hernán Rivas por el presunto uso de un título falso de abogado ha captado la atención nacional, convirtiéndose en el tema más..."
+description: "El inicio del juicio contra Hernán Rivas por el presunto uso de un título falso de abogado ha captado la atención nacional, convirtiéndose en el tema más"
+
 
 date: 2026-07-19 18:00:00 -0400
 last_modified_at: 2026-07-19

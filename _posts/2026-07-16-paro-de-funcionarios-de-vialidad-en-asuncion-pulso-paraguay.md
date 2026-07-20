@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Paro de Funcionarios de Vialidad en…  — 16 de julio de 2026"
-description: "Paro de Funcionarios de Vialidad en Asunción: El paro de los funcionarios de Vialidad en Asunción genera un gran volumen de conversación debido a sus implicacione..."
+description: "Paro de Funcionarios de Vialidad en Asunción: El paro de los funcionarios de Vialidad en Asunción genera un gran volumen de conversación debido a sus implicaciones en la infraestructura de la ciudad. Pulso Paraguay — 16 de julio de 2026."
+
 
 
 

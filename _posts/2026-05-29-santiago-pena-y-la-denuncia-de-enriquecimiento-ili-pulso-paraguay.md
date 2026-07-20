@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Santiago Peña y la denuncia de enriquecimiento ilícito — 29 de mayo de 2026"
-description: "Santiago Peña y la denuncia de enriquecimiento ilícito: Las acusaciones sobre el patrimonio del presidente generan un intenso debate en la política nacional. Puls..."
+description: "Santiago Peña y la denuncia de enriquecimiento ilícito: Las acusaciones sobre el patrimonio del presidente generan un intenso debate en la política nacional. Pulso Paraguay — 29 de mayo de 2026."
+
 
 
 

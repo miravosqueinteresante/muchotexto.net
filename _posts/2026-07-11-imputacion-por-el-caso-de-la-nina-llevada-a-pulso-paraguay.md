@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Imputación por el caso de la niña llevada a…  — 11 de julio de 2026"
-description: "Imputación por el caso de la niña llevada a Argentina: El caso de la niña llevada ilegalmente a Argentina ha generado un fuerte volumen de conversación, especialm..."
+description: "Imputación por el caso de la niña llevada a Argentina: El caso de la niña llevada ilegalmente a Argentina ha generado un fuerte volumen de conversación, especialmente por la imputación del padre por dos delitos. Pulso Paraguay — 11 de julio de 2026."
+
 
 
 

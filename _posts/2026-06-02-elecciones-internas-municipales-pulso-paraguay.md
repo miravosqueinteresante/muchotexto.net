@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Elecciones internas municipales — 2 de junio de 2026"
-description: "Elecciones internas municipales: Las elecciones internas municipales del próximo domingo generan un intenso debate y movimientos políticos significativos. Pulso P..."
+description: "Elecciones internas municipales: Las elecciones internas municipales del próximo domingo generan un intenso debate y movimientos políticos significativos. Pulso Paraguay — 2 de junio de 2026."
+
 
 
 

@@ -36,7 +36,7 @@ for f in files:
             result = candidate
         else:
             if not result:
-                result = s[:s.rfind(" ", 0, 160)] + "..."
+                result = s[:s.rfind(" ", 0, 160)]
             break
 
     lines[3] = f'description: \"{result}\"\n'

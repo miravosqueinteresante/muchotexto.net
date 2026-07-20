@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Paraguay iguala 1-1 con Australia — 26 de junio de 2026"
-description: "Paraguay iguala 1-1 con Australia: La Albirroja empató en un partido clave por la clasificación al Mundial 2026. El resultado mantiene a Paraguay en carrera pero ..."
+description: "Paraguay iguala 1-1 con Australia: La Albirroja empató en un partido clave por la clasificación al Mundial 2026. El resultado mantiene a Paraguay en carrera pero desató un intenso debate sobre el desempeño del equipo. Pulso Paraguay — 26 de junio de 2026."
+
 
 
 
