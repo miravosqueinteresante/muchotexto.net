@@ -178,7 +178,7 @@ INSTRUCCIONES:
 6. Idioma: español de Paraguay (voseo, "che", etc.).
 7. Sin opiniones personales del agente — solo síntesis de lo que circula.
 8. NO uses formato markdown como **negritas** o *cursiva* — solo texto plano.
-9. Cada categoría (🏛💰⚽🎭🚨🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
+9. Cada categoría (🏛💰⚽🎭🚨💻🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
 10. La sección 🔎 FUENTES CONSULTADAS HOY debe listar EXACTAMENTE los medios que aparecen en la línea "FUENTES CONSULTADAS HOY" más abajo. NO agregues ni quites fuentes. Copiala textual.
 
 FORMATO EXACTO DEL REPORTE (respetá esta estructura):
@@ -231,6 +231,13 @@ PULSO DIARIO PARAGUAY
 [2-3 líneas.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
+💻 TECNOLOGÍA
+
+[Título del tema principal]
+
+[2-3 líneas. Si no hay noticias de tecnología hoy, indicar "Sin novedades relevantes de tecnología hoy."]
+📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+
 🔥 VIRALES & TENDENCIAS
 
 [Título del viral o tendencia]
@@ -264,6 +271,7 @@ detrás de la conversación del día.]
 | ⚽ Deportes | | % | % | % | 🟢/🟡/🟠/🔴 |
 | 🎭 Cultura | | % | % | % | 🟢/🟡/🟠/🔴 |
 | 🚨 Seguridad | | % | % | % | 🟢/🟡/🟠/🔴 |
+| 💻 Tecnología | | % | % | % | 🟢/🟡/🟠/🔴 |
 | 🔥 Virales | | % | % | % | 🟢/🟡/🟠/🔴 |
 
 🔎 FUENTES CONSULTADAS HOY
@@ -371,7 +379,7 @@ description: "{sanitize_yaml(make_meta_description(content))}"
 date: {date_str}
 last_modified_at: {date_str}
 categories: pulso-paraguay
-tags: pulso paraguay actualidad política economía deportes
+tags: pulso paraguay actualidad política economía tecnología deportes
 ---
 
 """
