@@ -52,6 +52,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay tiene startups de IA aunque nadie las conoce](https://muchotexto.net/articulos/2026/07/14/startups-ia-paraguay/)
 - [Por qué Asunción no es una ciudad inteligente todavía](https://muchotexto.net/articulos/2026/07/17/smart-cities-asuncion-paraguay/)
 - [Paraguay no usa IA para hacer periodismo pero la desinformación sí](https://muchotexto.net/articulos/2026/07/16/ia-periodismo-paraguay/)
+- [Paraguay tiene los datos judiciales que la IA necesita](https://muchotexto.net/articulos/2026/07/21/ia-justicia-paraguay/)
 
 ### Pilar 5: Cultura, filosofía y futuro
 - [La IA cuesta más que los humanos que reemplazó: los números](https://muchotexto.net/articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/)
