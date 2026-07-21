@@ -8,7 +8,7 @@ tags: tech-ecosistema ia-paraguay paraguay ia
 description: "Paraguay digitalizó sus tribunales pero todavía no usa inteligencia artificial. Qué puede aprender de COMPAS, Prometea y VICTOR."
 ---
 
-En 2016, mientras el mundo se escandalizaba con el algoritmo COMPAS —una herramienta que predecía el doble de falsos reincidentes entre acusados negros que entre blancos—, Paraguay inauguraba su Expediente Judicial Electrónico con una Acordada de la Corte Suprema. Diez años después, el país digitalizó sus 18 circunscripciones judiciales. Pero en esas dos décadas, ningún tribunal paraguayo ha usado inteligencia artificial para tomar una sola decisión. La pregunta ya no es si eso va a cambiar. Es si Paraguay va a aprender de los errores que otros ya cometieron antes de apretar el botón.
+En 2016, mientras el mundo se escandalizaba con el algoritmo COMPAS —una herramienta que predecía el doble de falsos reincidentes entre acusados negros que entre blancos—, Paraguay inauguraba su Expediente Judicial Electrónico con una Acordada de la Corte Suprema. Diez años después, el país digitalizó sus 18 circunscripciones judiciales. Pero en esos diez años, ningún tribunal paraguayo ha usado inteligencia artificial para tomar una sola decisión. La pregunta ya no es si eso va a cambiar. Es si Paraguay va a aprender de los errores que otros ya cometieron antes de apretar el botón.
 
 Paraguay no parte de cero. El Poder Judicial viene de una década de transformación digital que creó exactamente el tipo de infraestructura que la IA necesita para funcionar: datos judiciales estructurados, firmas digitales, presentaciones en línea y notificaciones electrónicas. Esa base de datos es el insumo más valioso para cualquier sistema de IA. El problema es que nadie la está usando con ese propósito.
 
@@ -36,9 +36,9 @@ China desplegó "tribunales inteligentes" con IA para tareas específicas: trans
 
 América Latina está más cerca de Paraguay que Estonia o China, y varios países ya tienen sistemas funcionando.
 
-Argentina tiene **Prometea** desde 2017. Desarrollado por la Fiscalía de la Ciudad de Buenos Aires y el laboratorio de innovación de la Universidad de Buenos Aires (IALAB), Prometea usa IA para predecir la resolución de casos judiciales y automatizar la redacción de dictámenes. Lo que antes le tomaba a un fiscal 90 minutos, Prometea lo hace en 1 minuto, con una tasa de acierto del 96% en casos de amparo habitacional. No reemplaza al fiscal: le prepara el borrador para que lo revise.
+Argentina tiene **Prometea** desde 2017. Desarrollado por la Fiscalía de la Ciudad de Buenos Aires y el laboratorio de innovación de la Universidad de Buenos Aires (IALAB), Prometea usa IA para predecir la resolución de casos judiciales y automatizar la redacción de dictámenes. En casos de habeas data, redujo el tiempo de resolución fiscal de 90 minutos a 1 minuto. En el fuero contencioso administrativo, alcanzó una tasa de acierto del 96%. No reemplaza al fiscal: le prepara el borrador para que lo revise.
 
-Colombia tiene **PretorIA** en la Corte Constitucional. Entrenado con más de 2.500 sentencias, identifica patrones y precedentes para acelerar la selección de casos de tutela —el equivalente a los amparos en Paraguay— que ingresan por miles cada año.
+Colombia tiene **PretorIA** en la Corte Constitucional. La Corte revisa aproximadamente 2.500 casos de tutela por año —el equivalente a los amparos en Paraguay— que ingresan por miles anualmente. PretorIA identifica patrones y precedentes para acelerar la selección de los que ameritan revisión.
 
 Brasil tiene **VICTOR** en el Supremo Tribunal Federal desde 2018. Su función es específica y modesta: leer recursos extraordinarios, identificar el tema jurídico central y agruparlos por similitud. No decide nada. Solo organiza. Pero en un tribunal que recibe más de 70.000 procesos por año, esa organización es la diferencia entre resolverse en meses o en años.
 
@@ -46,7 +46,7 @@ Ninguno de estos sistemas es ciencia ficción. Todos son herramientas de product
 
 ## Lo que Paraguay no tiene (y necesita antes de implementar IA)
 
-Paraguay no tiene legislación específica sobre inteligencia artificial. El Sistema de Información Legislativa (SILPy) no registra ningún proyecto de ley en trámite sobre el tema. La Ley 7593 de Protección de Datos Personales, promulgada en noviembre de 2025 y con entrada en vigencia prevista para noviembre de 2027, incluye disposiciones sobre decisiones automatizadas y derecho a explicación algorítmica —pero está en vacatio legis, y su reglamentación aún no existe. [Paraguay aprobó su primera ley integral de protección de datos]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}) con implicancias directas para cualquier sistema automatizado de decisiones, pero la justicia todavía no ha adaptado sus procesos a ese estándar.
+Paraguay no tiene legislación específica sobre inteligencia artificial. El Sistema de Información Legislativa (SILPy) no registra ningún proyecto de ley en trámite sobre el tema. La Ley 7593 de Protección de Datos Personales, promulgada en 2025 y con entrada en vigencia prevista para 2027, incluye disposiciones sobre decisiones automatizadas y derecho a explicación algorítmica —pero está en vacatio legis, y su reglamentación aún no existe. [Paraguay aprobó su primera ley integral de protección de datos]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}) con implicancias directas para cualquier sistema automatizado de decisiones, pero la justicia todavía no ha adaptado sus procesos a ese estándar.
 
 Lo que falta no es solo la ley. Es el ecosistema completo:
 
