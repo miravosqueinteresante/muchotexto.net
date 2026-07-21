@@ -20,12 +20,16 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **2012** — Se crea [CERT-PY](/articulos/2026/07/17/ciberseguridad-paraguay/), el centro nacional de respuesta a incidentes de ciberseguridad.
 - **2013** — El Ministerio de Salud lanza el [programa de telemedicina](/articulos/2026/07/16/ia-salud-paraguay/), que 13 años después supera el millón de estudios.
 - **2015** — Brasil lanza [ALICE](/articulos/2026/07/17/ia-corrupcion-paraguay/), el primer sistema de IA anticorrupción de América Latina. Paraguay todavía no tiene equivalente.
+- **2016** — La Corte Suprema de Justicia crea el [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/) mediante Acordada N° 1107. Comienza en dos tribunales de Asunción.
+- **2017** — Argentina lanza [Prometea](/articulos/2026/07/21/ia-justicia-paraguay/), primer sistema de IA judicial de América Latina. Dictámenes fiscales de 90 minutos a 1 minuto.
+- **2018** — Brasil lanza [VICTOR](/articulos/2026/07/21/ia-justicia-paraguay/) en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico.
 - **2018** — Se crea el [MITIC](/articulos/2026/07/16/gobierno-digital-paraguay/), Ministerio de Tecnologías de la Información y Comunicación.
 - **2019** — Paraguay firma préstamo de [$130M con el BID](/articulos/2026/07/16/gobierno-digital-paraguay/) para la Agenda Digital. Se funda la Cámara Paraguaya de Fintech.
 
 ## 2020 — 2023
 
 - **2021** — China prohíbe la minería de criptomonedas. El [65-75% de la tasa de hash global se relocaliza](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/). Comienza el éxodo minero hacia Paraguay.
+- **2021** — El [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/) alcanza cobertura en las 18 circunscripciones judiciales de Paraguay.
 - **2022** — [Sequía histórica en Paraguay](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/): la cosecha de soja cae 60% por La Niña. El PIB crece solo 0.1%.
 - **2022** — Paraguay promulga la [Ley 6822/2022](/articulos/2026/07/16/gobierno-digital-paraguay/) de servicios de confianza electrónica, base legal para la identidad digital.
 - **2022** — Paraguay moderniza su [marco de compras públicas](/articulos/2026/07/17/ia-corrupcion-paraguay/) con la Ley 7021/2022.
@@ -79,6 +83,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.
 - **10 Julio 2026** — [Declaración conjunta EE.UU.-Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/) denunciando operaciones cibernéticas chinas contra el gobierno paraguayo.
 - **Julio 2026** — MOPC presenta [monitoreo inteligente del Puente Bioceánico](/articulos/2026/07/17/smart-cities-asuncion-paraguay/) con sensores sísmicos y gemelos digitales.
+- **2 Julio 2026** — El [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/) se expande a Juzgados Penales de Saltos del Guairá. ~42% de Juzgados de Paz ya opera con el sistema.
 
 ## Lo que viene
 

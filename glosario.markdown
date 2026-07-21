@@ -2,8 +2,8 @@
 layout: page
 title: "Glosario vivo de Inteligencia Artificial en Paraguay"
 permalink: /glosario/
-description: "Glosario vivo de términos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 17 de julio de 2026."
-last_modified_at: 2026-07-17
+description: "Glosario vivo de términos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 21 de julio de 2026."
+last_modified_at: 2026-07-21
 ---
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
@@ -168,6 +168,33 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 **Convenio de Budapest** — Principal tratado internacional contra el cibercrimen, en vigor desde 2004. Paraguay lo ratificó, obligándose a tipificar delitos informáticos, cooperar con investigaciones internacionales y mantener un punto de contacto disponible 24/7. Sin embargo, Paraguay aún no tiene una ley de delitos informáticos que implemente sus disposiciones.
 → [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
+
+---
+
+## Justicia
+
+**Expediente Judicial Electrónico** — Sistema de tramitación digital de causas judiciales lanzado el 10 de octubre de 2016 mediante Acordada N° 1107 de la Corte Suprema. Cubre las 18 circunscripciones judiciales de Paraguay. El ~42% de los Juzgados de Paz ya están integrados.
+→ [Paraguay tiene los datos judiciales que la IA necesita](/artículos/2026/07/21/ia-justicia-paraguay/)
+
+**Acordada** — Acto administrativo emitido por la Corte Suprema de Justicia del Paraguay que regula el funcionamiento interno del Poder Judicial. La Acordada N° 1107/2016 creó el Expediente Judicial Electrónico.
+
+**COMPAS** — Algoritmo privado de evaluación de riesgo de reincidencia creado en 1998 por Northpointe (hoy Equivant), usado en cortes de Estados Unidos. Precisión general del 61%. En 2016, ProPublica reveló que etiquetaba falsamente como "alto riesgo" al 44.9% de acusados afroamericanos vs. 23.5% de blancos.
+→ [Paraguay tiene los datos judiciales que la IA necesita](/artículos/2026/07/21/ia-justicia-paraguay/)
+
+**Sesgo algorítmico** — Error sistemático en el resultado de un algoritmo de IA que produce resultados injustos para ciertos grupos. No es un bug —es una propiedad inherente a sistemas entrenados con datos históricos que reflejan sesgos sociales.
+→ [Paraguay tiene los datos judiciales que la IA necesita](/artículos/2026/07/21/ia-justicia-paraguay/)
+
+**Prometea** — Sistema de IA de la Fiscalía de Buenos Aires, operativo desde 2017. Reduce el tiempo de dictámenes fiscales de 90 minutos a 1 minuto en habeas data. Tasa de acierto del 96% en el fuero contencioso administrativo.
+→ [Paraguay tiene los datos judiciales que la IA necesita](/artículos/2026/07/21/ia-justicia-paraguay/)
+
+**VICTOR** — IA del Supremo Tribunal Federal de Brasil, operativa desde 2018. Lee recursos extraordinarios, identifica el tema jurídico y los agrupa por similitud. Organiza más de 70.000 procesos por año.
+→ [Paraguay tiene los datos judiciales que la IA necesita](/artículos/2026/07/21/ia-justicia-paraguay/)
+
+**PretorIA** — Sistema de IA de la Corte Constitucional de Colombia que identifica patrones y precedentes para acelerar la selección de tutelas (~2.500 casos por año).
+→ [Paraguay tiene los datos judiciales que la IA necesita](/artículos/2026/07/21/ia-justicia-paraguay/)
+
+**Vacatio legis** — Período entre la promulgación de una ley y su entrada en vigor. La Ley 7593/2025 de Protección de Datos tiene una vacatio legis de 24 meses (2025-2027).
+→ [Ley de protección de datos en Paraguay](/artículos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 
 ---
 

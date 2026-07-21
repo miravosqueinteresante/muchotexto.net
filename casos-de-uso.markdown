@@ -52,6 +52,11 @@ Cada caso enlaza con el artículo completo. *Última actualización: 17 de julio
 
 - **[IA en medios paraguayos](/articulos/2026/07/16/ia-periodismo-paraguay/)** — Paraguay no usa IA para generar noticias ni tiene sistemas de fact-checking automatizado. Brasil prohibió los deepfakes en campañas electorales (2024). Argentina perdió 1.550 empleos periodísticos en un año.
 
+## Justicia
+
+- **[Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/)** — Paraguay digitalizó sus 18 circunscripciones judiciales desde 2016. El ~42% de los Juzgados de Paz opera con la plataforma. En diez años, ningún tribunal ha usado IA para tomar decisiones.
+- **[IA judicial en América Latina](/articulos/2026/07/21/ia-justicia-paraguay/)** — Argentina (Prometea, 2017) automatiza dictámenes fiscales con 96% de acierto. Brasil (VICTOR, 2018) agrupa 70.000 recursos por año. Colombia (PretorIA) identifica patrones en tutelas constitucionales. Paraguay tiene los datos pero no los algoritmos.
+
 ## Educación y talento
 
 - **[Formación tech](/articulos/2026/07/09/educacion-tech-paraguay-ia/)** — Paraguay produce 400-600 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026.

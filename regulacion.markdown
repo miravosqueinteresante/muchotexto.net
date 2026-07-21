@@ -34,6 +34,12 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad. *Ú
 - **[Estrategia Nacional de Ciberseguridad 2025-2028](/articulos/2026/07/17/ciberseguridad-paraguay/)** — Aprobada por Decreto 3900 en mayo 2025. Primera estrategia nacional de ciberseguridad, con apoyo de la OEA. CERT-PY opera desde 2012 bajo el MITIC.
 - **Sin ley específica de ciberseguridad.** El marco actual se apoya en la estrategia 2025-2028 más legislación dispersa.
 
+## Sistema judicial
+
+- **[Acordada N° 1107/2016](/articulos/2026/07/21/ia-justicia-paraguay/)** — Crea el Expediente Judicial Electrónico, la plataforma de tramitación digital de causas. Cubre las 18 circunscripciones judiciales y ~42% de los Juzgados de Paz.
+- **Sin legislación específica sobre IA judicial.** El SILPy no registra proyectos de ley sobre inteligencia artificial aplicada a la justicia. No existen protocolos de supervisión humana, validez probatoria de predicciones algorítmicas ni obligación de transparencia algorítmica en el sistema judicial.
+- **La Ley 7593/2025** incluye disposiciones sobre decisiones automatizadas y derecho a explicación, pero está en vacatio legis hasta noviembre 2027 y su reglamentación secundaria no existe.
+
 ## Compras públicas y transparencia
 
 - **[Ley 7021/2022](/articulos/2026/07/17/ia-corrupcion-paraguay/)** — Moderniza el marco legal de contrataciones públicas. Paraguay digitalizó sus compras en la DNCP pero **no utiliza IA para auditar licitaciones** (a diferencia de Brasil con ALICE desde 2015).
