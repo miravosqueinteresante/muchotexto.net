@@ -32,7 +32,6 @@ last_modified_at: 2026-07-18
 
 - **[Cámara Paraguaya de Fintech](https://www.fintech.org.py/)** — Fundada en 2019, 120+ miembros. Agrupa al ecosistema fintech paraguayo que pasó de ~29 empresas en 2020 a más de 100. [Leer análisis](/articulos/2026/07/10/fintech-paraguay-ecosistema/).
 - **Foro Tecnológico Bilateral Paraguay-Taiwán** — 4 ediciones realizadas. Delegados de TSMC, ICDF y empresas taiwanesas participan regularmente. [Leer más](/articulos/2026/07/14/semiconductores-taiwan-paraguay/).
-- **Comunidades de desarrolladores locales** — Existen grupos activos de Telegram, Discord y WhatsApp de la comunidad tech paraguaya. *En investigación: compilar listado completo de enlaces.*
 - **[SOPAIA](https://www.sopaia.org/)** — Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia artificial en el país.
 - **[AmCham Paraguay](https://www.amcham.com.py/)** — Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el MIC.
 
@@ -58,7 +57,7 @@ last_modified_at: 2026-07-18
 Las siguientes secciones requieren investigación adicional y se incorporarán en las próximas actualizaciones trimestrales:
 
 - **Expertos en IA en Paraguay** — Investigadores, profesionales y referentes del ecosistema local.
-- **Comunidades de Discord/Telegram** — Listado completo y verificado de comunidades tecnológicas paraguayas.
+- **Comunidades de desarrolladores** — Existen grupos activos de Telegram, Discord y WhatsApp de la comunidad tech paraguaya. Listado completo y verificado en investigación.
 - **Inversores y fondos activos en Paraguay** — Venture capital, aceleradoras e inversores ángel operando en el ecosistema.
 
 <script type="application/ld+json">
