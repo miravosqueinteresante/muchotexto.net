@@ -25,7 +25,7 @@ last_modified_at: 2026-07-18
 - **Yguazú Digital** — Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. [Leer análisis](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/).
 - **X8 Cloud** — Empresa con sede en Los Ángeles. Anunció plan de $10-50B a 30 años para data center de IA. Inició construcción en mayo 2026 (50 MW iniciales). [Leer más](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/).
 - **Pardat Holding** — Proyecta data center de 100 MW en Yguazú, 700 empleos directos e indirectos. [Leer más](/articulos/2026/07/10/talento-tech-paraguay-ia/).
-- **Dominion AI** — Data center subterráneo, el proyecto más visible de IA en Paraguay. Infraestructura para alojar servidores, no software para administrar justicia. [Leer análisis](/articulos/2026/07/21/ia-justicia-paraguay/).
+- **Dominion AI** — Data center subterráneo de IA. Infraestructura para alojar servidores, parte del ecosistema emergente de Paraguay. [Leer análisis](/articulos/2026/07/21/ia-justicia-paraguay/).
 - **Data Center Estatal Tier III** — Adjudicado por el MITIC en mayo 2026: 5.000 VMs, 2.000 contenedores, financiado por el BID. [Leer más](/articulos/2026/07/16/ia-soberana-paraguay/).
 
 ## Comunidades y espacios

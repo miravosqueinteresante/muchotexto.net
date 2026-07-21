@@ -56,7 +56,7 @@ Lo que falta no es solo la ley. Es el ecosistema completo:
 - **Formación de magistrados**: no existe ningún programa de capacitación judicial sobre IA en Paraguay.
 - **Auditoría independiente**: no hay ningún organismo con competencia para auditar sistemas algorítmicos en el sector público.
 
-En paralelo, el ecosistema tech paraguayo no tiene startups de legaltech con IA. El proyecto más visible de IA en Paraguay, Dominion AI, es un data center subterráneo —infraestructura para alojar servidores, no software para administrar justicia. Paraguay está construyendo el hardware antes que el software, los data centers antes que los algoritmos.
+En paralelo, el ecosistema tech paraguayo no tiene startups de legaltech con IA. Dominion AI, uno de los proyectos de infraestructura de IA en Paraguay, es un data center subterráneo —diseñado para alojar servidores, no software para administrar justicia. Paraguay está construyendo el hardware antes que el software, los data centers antes que los algoritmos.
 
 ## ¿Justicia más rápida o justicia más injusta?
 
