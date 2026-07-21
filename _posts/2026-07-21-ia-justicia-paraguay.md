@@ -56,7 +56,7 @@ Lo que falta no es solo la ley. Es el ecosistema completo:
 - **Formación de magistrados**: no existe ningún programa de capacitación judicial sobre IA en Paraguay.
 - **Auditoría independiente**: no hay ningún organismo con competencia para auditar sistemas algorítmicos en el sector público.
 
-En paralelo, el ecosistema tech paraguayo no tiene startups de legaltech con IA. La inversión local en inteligencia artificial se concentra en infraestructura: Yguazú Digital, HIVE, X8Cloud y Pardat Holding están construyendo data centers por cientos de millones de dólares, pero ninguna empresa paraguaya está desarrollando software para administrar justicia. Paraguay está construyendo el hardware antes que el software, los data centers antes que los algoritmos.
+En paralelo, el ecosistema tech paraguayo no tiene startups de legaltech con IA. La inversión local en inteligencia artificial se concentra en infraestructura: Yguazú Digital, HIVE, X8Cloud, Pardat Holding y Dominion AI están construyendo data centers por cientos de millones de dólares, pero ninguna empresa paraguaya está desarrollando software para administrar justicia. Paraguay está construyendo el hardware antes que el software, los data centers antes que los algoritmos.
 
 ## ¿Justicia más rápida o justicia más injusta?
 
