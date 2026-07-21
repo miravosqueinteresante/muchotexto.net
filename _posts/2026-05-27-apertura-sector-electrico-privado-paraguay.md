@@ -92,7 +92,7 @@ La ausencia de un regulador sectorial independiente es el vacío institucional m
 
 ### 3.3. La experiencia negativa regional
 
-Brasil demostró el lado oscuro de la apertura. La privatización de activos eléctricos brasileños ha sido cuestionada por múltiples estudios: la venta de Eletrobras en 2022 se hizo por R$ 33,7 mil millones cuando estimaciones independientes valoraban la empresa entre R$ 120 y 150 mil millones. El caso Odebrecht (Lava Jato) destapó una multa récord de USD 3.500 millones y sobornos documentados por aproximadamente USD 1.038 millones en 12 países para obtener contratos de infraestructura energética.
+Brasil demostró el lado oscuro de la apertura. La privatización de activos eléctricos brasileños ha sido cuestionada por múltiples estudios: la venta de Eletrobras en 2022 se hizo por R$ 33,7 mil millones cuando estimaciones independientes valoraban la empresa entre R$ 120 y 150 mil millones. El caso Odebrecht (Lava Jato) destapó una multa récord de USD 3.500 millones y sobornos documentados por aproximadamente USD 788 millones en 12 países para obtener contratos de infraestructura energética.
 
 México vivió su propia versión: la reforma energética de 2013 abrió el sector a privados, pero para 2025 el Cenace reconocía que el "desorden en generación aún persiste".
 
