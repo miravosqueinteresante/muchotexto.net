@@ -3,6 +3,7 @@ layout: post
 title: "Infraestructura y seguridad, desafíos urgentes — Editorial 20 de julio de 2026"
 description: "Los fuertes vientos que azotaron Paraguay y los cortes de energía que les siguieron han puesto en evidencia la fragilidad de la infraestructura del país."
 
+
 date: 2026-07-20 18:00:00 -0400
 last_modified_at: 2026-07-20
 categories: editorial
