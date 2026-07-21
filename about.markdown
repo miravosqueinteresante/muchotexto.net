@@ -9,7 +9,7 @@ description: "Conocé al autor de muchotexto.net, su trayectoria en anotación d
 
 ## Sobre el autor
 
-César Sánchez empezó a explorar la tecnología antes de que existiera un nombre para lo que hace. En 2005 fundó **thelemongroup.net**, uno de los primeros medios digitales sobre tecnología en Paraguay, en una época en que publicar en internet requería saber de servidores, DNS y HTML escrito a mano. Desde entonces ha combinado la ingeniería técnica con la comunicación digital con un pie en el código y otro en la estrategia.
+César Sánchez empezó a explorar la tecnología antes de que existiera un nombre para lo que hace. En 2005 fundó **thelemongroup.net**, uno de los primeros medios digitales sobre tecnología en Paraguay, en una época en que publicar en internet requería saber de servidores, DNS y HTML escrito a mano. Desde entonces ha combinado el desarrollo web con la comunicación digital, todo esto con un pie en el código y otro en la estrategia.
 
 Trabajó desarrollando sitios web y aplicaciones para empresas paraguayas, colaboró con marcas en la creación de los primeros contenidos patrocinados del país y dio charlas sobre nuevos medios en universidades, agencias de publicidad y eventos de tecnología. Esa combinación de perfiles —desarrollador que entiende de comunicación, comunicador que entiende de datos— es lo que define su enfoque actual.
 
