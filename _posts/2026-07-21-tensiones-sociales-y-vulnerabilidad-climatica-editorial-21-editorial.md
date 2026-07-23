@@ -4,6 +4,7 @@ title: "Tensiones sociales y vulnerabilidad climática — Editorial 21 de julio
 description: "Las alertas de tormentas en cuatro departamentos de Paraguay han puesto en evidencia la fragilidad de las comunidades frente a fenómenos climáticos extremos."
 
 
+
 date: 2026-07-21 18:00:00 -0400
 last_modified_at: 2026-07-21
 categories: editorial
