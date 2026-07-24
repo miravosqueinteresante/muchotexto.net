@@ -16,6 +16,7 @@ description: "Pérdida de investidura de Kattya González: La decisión de la Co
 
 
 
+
 last_modified_at: 2026-06-09
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
