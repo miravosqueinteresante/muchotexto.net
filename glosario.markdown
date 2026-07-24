@@ -8,9 +8,9 @@ last_modified_at: 2026-07-21
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
 
-*Última actualización: 17 de julio de 2026*
+*Última actualización: 24 de julio de 2026*
 
-Los términos están agrupados por tema: infraestructura y energía, tecnología IA, geopolítica, fintech, startups y agro. No están ordenados alfabéticamente sino por relación temática, para que el lector pueda explorar por bloques de interés.
+Los términos están agrupados por tema: infraestructura y energía, tecnología IA, geopolítica, fintech, startups, agro, justicia, y comercio electrónico y logística. No están ordenados alfabéticamente sino por relación temática, para que el lector pueda explorar por bloques de interés.
 
 ## Infraestructura y energía
 
@@ -168,6 +168,34 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 **Convenio de Budapest** — Principal tratado internacional contra el cibercrimen, en vigor desde 2004. Paraguay lo ratificó, obligándose a tipificar delitos informáticos, cooperar con investigaciones internacionales y mantener un punto de contacto disponible 24/7. Sin embargo, Paraguay aún no tiene una ley de delitos informáticos que implemente sus disposiciones.
 → [Ciberseguridad en Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/)
+
+---
+
+## Comercio electrónico y logística
+
+**Comercio electrónico (e-commerce)** — Compra y venta de productos y servicios por internet. En Paraguay mueve entre USD 700M (retail online, PCMI) y USD 2.180M (economía digital total, Capace). Crece entre 23% y 40% anual. El 81% de las compras se hacen desde un celular.
+→ [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
+
+**Logística de última milla** — El tramo final de la entrega: desde el centro de distribución hasta la puerta del cliente. Representa el 53% del costo logístico total. En Paraguay el costo es mayor porque las direcciones no están estandarizadas.
+→ [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
+
+**AEX** — Empresa de logística y e-commerce más grande de Paraguay, fundada en 1996. Cubre más de 120 ciudades, opera e-Lockers (casilleros inteligentes con QR) y Puntos AEX (red de retiro en comercios). Ganó los E-commerce Awards 2025.
+→ [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
+
+**e-Locker** — Casillero inteligente con apertura por QR donde los clientes retiran sus compras online sin coordinación con un repartidor. Operados por AEX en Paraguay.
+→ [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
+
+**Fulfillment center** — Centro de distribución donde un operador logístico almacena, prepara y despacha productos de múltiples vendedores. Amazon opera más de 200.000 robots en sus fulfillment centers. Paraguay aún no tiene fulfillment centers a escala regional.
+→ [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
+
+**Pagos QR** — Método de pago electrónico vía códigos QR desde billeteras móviles. En Paraguay, impulsados por Bancard, crecen a doble dígito mensual y son uno de los motores del e-commerce mobile-first.
+→ [Fintech en Paraguay](/articulos/2026/07/10/fintech-paraguay-ecosistema/)
+
+**Bancard** — Procesadora de pagos electrónicos dominante en Paraguay. Opera la red de pagos QR más extendida del país y es el principal habilitador de pagos digitales para el comercio electrónico local.
+→ [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
+
+**Corredor Bioceánico** — Carretera que unirá el puerto brasileño de Santos con los puertos chilenos del Pacífico atravesando el Chaco paraguayo. Finalización proyectada para 2026. Convertirá a Paraguay en un nodo logístico continental.
+→ [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
 
 ---
 

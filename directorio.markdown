@@ -32,8 +32,14 @@ last_modified_at: 2026-07-18
 
 - **[Cámara Paraguaya de Fintech](https://www.fintech.org.py/)** — Fundada en 2019, 120+ miembros. Agrupa al ecosistema fintech paraguayo que pasó de ~29 empresas en 2020 a más de 100. [Leer análisis](/articulos/2026/07/10/fintech-paraguay-ecosistema/).
 - **Foro Tecnológico Bilateral Paraguay-Taiwán** — 4 ediciones realizadas. Delegados de TSMC, ICDF y empresas taiwanesas participan regularmente. [Leer más](/articulos/2026/07/14/semiconductores-taiwan-paraguay/).
+- **[Capace](https://www.capace.org.py/)** — Cámara Paraguaya de Comercio Electrónico. Estima el mercado en USD 2.180M. [Leer más](/articulos/2026/07/24/ecommerce-logistica-paraguay/).
 - **[SOPAIA](https://www.sopaia.org/)** — Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia artificial en el país.
 - **[AmCham Paraguay](https://www.amcham.com.py/)** — Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el MIC.
+
+## Logística y e-commerce
+
+- **[AEX](https://www.aex.com.py/)** — Empresa de logística y e-commerce más grande de Paraguay, fundada en 1996. Cubre 120+ ciudades con e-Lockers, Puntos AEX e integración Shopify. E-commerce Awards 2025. [Leer análisis](/articulos/2026/07/24/ecommerce-logistica-paraguay/).
+- **[Bancard](https://www.bancard.com.py/)** — Procesadora de pagos electrónicos dominante en Paraguay. Opera la red de pagos QR más extendida del país. [Leer más](/articulos/2026/07/24/ecommerce-logistica-paraguay/).
 
 ## Eventos
 

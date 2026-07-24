@@ -82,6 +82,8 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Julio 2026** — Paraguay alcanza [480+ trámites digitales](/articulos/2026/07/16/gobierno-digital-paraguay/), cédula y licencia de conducir digitales disponibles.
 - **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.
 - **10 Julio 2026** — [Declaración conjunta EE.UU.-Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/) denunciando operaciones cibernéticas chinas contra el gobierno paraguayo.
+- **2025** — AEX gana los E-commerce Awards 2025.
+- **Julio 2026** — [BCP emite reglamento tarifario](/articulos/2026/07/24/ecommerce-logistica-paraguay/) para transparentar comisiones de medios de pago electrónicos.
 - **Julio 2026** — MOPC presenta [monitoreo inteligente del Puente Bioceánico](/articulos/2026/07/17/smart-cities-asuncion-paraguay/) con sensores sísmicos y gemelos digitales.
 - **2 Julio 2026** — El [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/) se expande a Juzgados Penales de Saltos del Guairá. ~42% de Juzgados de Paz ya opera con el sistema.
 
@@ -89,5 +91,6 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 - **1 Enero 2027** — Vence el [Anexo C del Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/). Sin acuerdo, Paraguay pierde ~$600M/año. Negociaciones congeladas desde abril 2025.
 - **Noviembre 2027** — Entra en vigor la [Ley 7593 de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/). Yguazú Digital Fase I debe estar operativo.
+- **2026** — Finalización proyectada del [Corredor Bioceánico](/articulos/2026/07/24/ecommerce-logistica-paraguay/).
 - **2028** — [Elecciones generales en Paraguay](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/): prueba de fuego para la alianza con Taiwán.
 - **2030** — Ventana proyectada de [agotamiento del excedente energético](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/).

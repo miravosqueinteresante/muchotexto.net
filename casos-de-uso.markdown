@@ -40,6 +40,12 @@ Cada caso enlaza con el artículo completo. *Última actualización: 17 de julio
 
 - **[Starlink en Paraguay](/articulos/2026/07/15/starlink-paraguay-conectividad/)** — 20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — primer país del mundo.
 
+## Comercio electrónico y logística
+
+- **[E-commerce en Paraguay](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — Mercado de USD 700M-2.180M, crece 23-40% anual. 8 de cada 10 paraguayos compran online, 81% desde celular. Impulsado por pagos QR y billeteras móviles.
+- **[Logística de última milla](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — Sin direcciones estandarizadas. AEX cubre 120+ ciudades. El 77% del e-commerce es transfronterizo.
+- **[IA en logística](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos.
+
 ## Infraestructura inteligente
 
 - **[Puente Bioceánico](/articulos/2026/07/17/smart-cities-asuncion-paraguay/)** — El MOPC presentó en julio 2026 un sistema de monitoreo inteligente con sensores sísmicos, acelerómetros y gemelos digitales. Es el proyecto de infraestructura inteligente técnicamente más avanzado del país.
