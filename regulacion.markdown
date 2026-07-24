@@ -32,6 +32,8 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad. *Ú
 ## Ciberseguridad
 
 - **[Estrategia Nacional de Ciberseguridad 2025-2028](/articulos/2026/07/17/ciberseguridad-paraguay/)** — Aprobada por Decreto 3900 en mayo 2025. Primera estrategia nacional de ciberseguridad, con apoyo de la OEA. CERT-PY opera desde 2012 bajo el MITIC.
+- **[Reglamento tarifario BCP (julio 2026)](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — El BCP emitió un reglamento que transparenta las comisiones de los medios de pago electrónicos.
+
 - **Sin ley específica de ciberseguridad.** El marco actual se apoya en la estrategia 2025-2028 más legislación dispersa.
 
 ## Sistema judicial
