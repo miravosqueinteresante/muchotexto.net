@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un data center de 100 MW emplea a 50 personas. El resto es importado."
+title: "Lo que un data center compra y Paraguay no puede vender"
 date: 2026-07-25
 last_modified_at: 2026-07-25
 categories: articulos
@@ -10,7 +10,7 @@ description: "Paraguay atrae data centers con energía barata, pero el hardware 
 
 [Paraguay está atrayendo data centers](/ia-en-paraguay/) con la promesa de energía barata. Yguazú Digital proyecta 1.000 MW en su fase final. HIVE Digital Technologies ya opera 100 MW en Yguazú. X8Cloud y Pardat Holding construyen sus propias instalaciones. La narrativa es seductora: el país se convertirá en un hub de inteligencia artificial que generará miles de empleos y transformará la economía. Los números cuentan una historia distinta.
 
-Un data center de 100 MW emplea aproximadamente 50 personas en operaciones permanentes. Durante la construcción —que dura entre 18 y 36 meses— puede emplear entre 500 y 800 trabajadores, la mayoría en obra civil. Pero una vez que los servidores están encendidos, el data center funciona casi solo: filas de racks refrigerados, monitoreados remotamente, visitados por un puñado de técnicos por turno. El hardware representa entre el 40% y el 50% del CAPEX total. Ese hardware —GPUs NVIDIA de USD 25.000 a 40.000 por unidad, sistemas de refrigeración líquida, UPS industriales, sistemas de supresión de incendios con gases inertes— es 100% importado. Paraguay no fabrica nada de eso. No lo va a fabricar en el futuro previsible. La cadena de valor local se concentra en los márgenes: la obra civil, la seguridad, la fibra de última milla, los servicios profesionales.
+Un data center de 100 MW emplea aproximadamente 50 personas en operaciones permanentes. Durante la construcción —que dura entre 18 y 36 meses— puede emplear entre 500 y 800 trabajadores, la mayoría en obra civil. Pero una vez que los servidores están encendidos, el data center funciona casi solo: filas de racks refrigerados, monitoreados remotamente, visitados por un puñado de técnicos por turno. El hardware representa entre el 40% y el 50% del CAPEX total. Ese hardware —GPUs NVIDIA de USD 25.000 a 40.000 por unidad, sistemas de refrigeración líquida, UPS industriales, sistemas de supresión de incendios con gases inertes— es 100% importado. Paraguay no fabrica nada de eso. No lo va a fabricar en el futuro previsible. La cadena de valor local se concentra en los márgenes: la obra civil, la seguridad, la fibra de último kilómetro, los servicios profesionales.
 
 ## Lo que un data center compra (y Paraguay no vende)
 
