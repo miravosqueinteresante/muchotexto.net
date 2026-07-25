@@ -27,6 +27,18 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 **PUE (Power Usage Effectiveness)** — Índice que mide la eficiencia energética de un data center. Un PUE de 1.5 significa que por cada MW utilizado en cómputo, se gasta 0.5 MW adicional en refrigeración y pérdidas. Paraguay parte en desventaja por su falta de experiencia operando data centers a gran escala.
 
+**CAPEX (Capital Expenditure)** — Inversión de capital para construir infraestructura. En un data center de 100 MW ronda USD 800-1.200 millones. El hardware es el 40-50% del CAPEX y es 100% importado. Solo el 15-20% se queda en Paraguay.
+→ [Cadena de valor de un data center](/artículos/2026/07/25/cadena-valor-data-center/)
+
+**Tier III (Uptime Institute)** — Certificación de confiabilidad para data centers que exige mantenimiento concurrente sin interrupción. Emitida por el Uptime Institute. Ninguna empresa constructora paraguaya tiene esta certificación.
+→ [Cadena de valor de un data center](/artículos/2026/07/25/cadena-valor-data-center/)
+
+**Contenido local** — Porcentaje del gasto total de un proyecto que se queda en el país. En data centers en Paraguay, el contenido local alcanzable es de 15-20% del CAPEX (obra civil, seguridad, servicios profesionales).
+→ [Cadena de valor de un data center](/artículos/2026/07/25/cadena-valor-data-center/)
+
+**HVAC** — Sistema de climatización de precisión para data centers. Fabricado por Schneider Electric, Vertiv y Stulz. Un técnico de HVAC es uno de los pocos roles operativos que un data center puede cubrir con personal paraguayo.
+→ [Cadena de valor de un data center](/artículos/2026/07/25/cadena-valor-data-center/)
+
 **ASIC** — Chip especializado en una única tarea, usado en minería de bitcoin. A diferencia de las GPUs, que sirven para múltiples propósitos, los ASICs solo resuelven problemas criptográficos. Tienen una vida útil de entre 3 y 5 años y generan residuo electrónico.
 → [Criptominería en Paraguay](/artículos/2026/07/07/criptominería-paraguay-energía-barata/)
 

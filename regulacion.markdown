@@ -54,6 +54,8 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad. *Ú
 
 ## Lo que está en trámite o pendiente
 
+- **Sin legislación de contenido local para data centers.** El memorándum de entendimiento de Yguazú Digital no incluye compromisos de formación de técnicos paraguayos ni exigencias de contenido local obligatorio. Paraguay captura solo el 15-20% del valor de los proyectos sin mecanismos legales para aumentar esa proporción. [Leer más](/articulos/2026/07/25/cadena-valor-data-center/).
+
 - **Estrategia Nacional de IA** — El MITIC realizó consulta pública en 2024. La UNESCO publicó el RAM Report (diagnóstico de preparación) en diciembre 2025. No hay documento oficial publicado aún.
 - **Ley de historia clínica electrónica** — Aprobada en Diputados (media sanción) en abril 2025. Bajo revisión del Senado.
 - **Reglamentación de la Ley 7593** — Debe estar lista antes de noviembre 2027. La autoridad de aplicación (Dirección General dentro del MITIC) aún no fue creada.
