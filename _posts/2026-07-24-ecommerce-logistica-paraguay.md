@@ -32,11 +32,11 @@ El 81% de las compras online en Paraguay se hacen desde un celular. El comercio 
 
 Amazon opera más de 200.000 robots en sus centros de distribución. El sistema Kiva, adquirido en 2012 por USD 775 millones, redujo drásticamente el tiempo de picking al llevar las estanterías al operador en vez de que el operador camine a las estanterías. Los robots más nuevos —Proteus, Sparrow, Cardinal— no solo mueven estanterías: identifican productos individuales con visión por computadora y los recogen con brazos robóticos. Sparrow puede manipular objetos individuales; Cardinal lee etiquetas y coloca paquetes en carros autónomos; Proteus mueve los carros entre estaciones. El resultado es que el tiempo entre el clic y el envío se redujo a una fracción de lo que era hace una década, sin intervención humana en las etapas intermedias del proceso.
 
-Mercado Libre, el gigante regional, aplica IA en tres frentes que son directamente relevantes para Paraguay: predicción de demanda para posicionar inventario más cerca de donde se va a comprar, optimización de rutas de última milla en ciudades con direcciones caóticas —Buenos Aires, São Paulo, Ciudad de México— y detección de fraude en tiempo real mediante modelos que analizan cientos de variables por transacción. Mercado Envíos, su brazo logístico, ya opera fulfillment centers en la región y tiene acuerdos con operadores locales en países donde no tiene infraestructura propia. Paraguay está en ese mapa.
+Mercado Libre, el gigante regional, aplica IA en tres frentes que son directamente relevantes para Paraguay: predicción de demanda para posicionar inventario más cerca de donde se va a comprar, optimización de rutas de último kilómetro en ciudades con direcciones caóticas —Buenos Aires, São Paulo, Ciudad de México— y detección de fraude en tiempo real mediante modelos que analizan cientos de variables por transacción. Mercado Envíos, su brazo logístico, ya opera fulfillment centers en la región y tiene acuerdos con operadores locales en países donde no tiene infraestructura propia. Paraguay está en ese mapa.
 
 Pero el salto más relevante para Paraguay no es la robótica de Amazon. Es lo que ya se puede hacer con software. Herramientas como Onfleet o Bringg permiten a cualquier operador logístico —incluso uno mediano en Asunción— optimizar rutas de entrega, predecir ventanas de tiempo y notificar al cliente en tiempo real. El costo de entrada es una suscripción mensual, no una inversión en hardware. El problema no es la tecnología. Son los datos que la alimentan. Y los datos de direcciones en Paraguay siguen siendo analógicos.
 
-## La paradoja de la última milla
+## La paradoja del último kilómetro
 
 El 53% del costo logístico total de una entrega está en el último kilómetro. En Paraguay, ese porcentaje probablemente sea mayor: las direcciones no estandarizadas obligan a los repartidores a llamar por teléfono para confirmar ubicaciones, los tiempos de entrega se dilatan, y las devoluciones —un componente inevitable del e-commerce moderno— son logísticamente inviables fuera de Asunción y el área metropolitana.
 
@@ -76,7 +76,7 @@ La solución no es futurista. Es regulatoria y de datos. Un sistema de direccion
       "name": "¿Cuál es el principal obstáculo para la logística del e-commerce en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La falta de un sistema de direcciones estandarizado. Paraguay no tiene un equivalente al CEP brasileño o al CPA argentino. Las direcciones se describen con referencias ('al lado de la farmacia') que los algoritmos de optimización de rutas no pueden procesar, lo que encarece y retrasa la entrega de última milla."
+        "text": "La falta de un sistema de direcciones estandarizado. Paraguay no tiene un equivalente al CEP brasileño o al CPA argentino. Las direcciones se describen con referencias ('al lado de la farmacia') que los algoritmos de optimización de rutas no pueden procesar, lo que encarece y retrasa la entrega de último kilómetro."
       }
     },
     {

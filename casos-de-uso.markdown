@@ -43,7 +43,7 @@ Cada caso enlaza con el artículo completo. *Última actualización: 17 de julio
 ## Comercio electrónico y logística
 
 - **[E-commerce en Paraguay](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — Mercado de USD 700M-2.180M, crece 23-40% anual. 8 de cada 10 paraguayos compran online, 81% desde celular. Impulsado por pagos QR y billeteras móviles.
-- **[Logística de última milla](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — Sin direcciones estandarizadas. AEX cubre 120+ ciudades. El 77% del e-commerce es transfronterizo.
+- **[Logística de último kilómetro](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — Sin direcciones estandarizadas. AEX cubre 120+ ciudades. El 77% del e-commerce es transfronterizo.
 - **[IA en logística](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos.
 
 ## Infraestructura inteligente

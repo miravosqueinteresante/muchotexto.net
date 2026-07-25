@@ -176,7 +176,7 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **Comercio electrónico (e-commerce)** — Compra y venta de productos y servicios por internet. En Paraguay mueve entre USD 700M (retail online, PCMI) y USD 2.180M (economía digital total, Capace). Crece entre 23% y 40% anual. El 81% de las compras se hacen desde un celular.
 → [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
 
-**Logística de última milla** — El tramo final de la entrega: desde el centro de distribución hasta la puerta del cliente. Representa el 53% del costo logístico total. En Paraguay el costo es mayor porque las direcciones no están estandarizadas.
+**Logística de último kilómetro (last-mile delivery)** — El tramo final de la entrega: desde el centro de distribución hasta la puerta del cliente. Representa el 53% del costo logístico total. En Paraguay el costo es mayor porque las direcciones no están estandarizadas.
 → [E-commerce y logística en Paraguay](/artículos/2026/07/24/ecommerce-logistica-paraguay/)
 
 **AEX** — Empresa de logística y e-commerce más grande de Paraguay, fundada en 1996. Cubre más de 120 ciudades, opera e-Lockers (casilleros inteligentes con QR) y Puntos AEX (red de retiro en comercios). Ganó los E-commerce Awards 2025.
