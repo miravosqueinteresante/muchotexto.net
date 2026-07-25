@@ -85,9 +85,10 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Paraguay tiene los datos judiciales que la IA necesita]({% post_url 2026-07-21-ia-justicia-paraguay %})** - El país digitalizó sus 18 jurisdicciones pero ningún tribunal usa IA. Qué puede aprender de COMPAS, Prometea y VICTOR.
 - **[El comercio electrónico paraguayo crece al 40% anual. ¿Y la logística?]({% post_url 2026-07-24-ecommerce-logistica-paraguay %})** - El e-commerce mueve USD 700-2.180M y crece 40% anual, pero sin direcciones estandarizadas la última milla sigue a ciegas.
 
+- **[Un data center de 100 MW emplea a 50 personas. El resto es importado.]({% post_url 2026-07-25-cadena-valor-data-center %})** - La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW.
+
 **Próximamente:**
 - Adopción de IA en el sector público
-- Cadena de valor del data center
 
 ## Cultura, filosofía y futuro
 
