@@ -17,6 +17,7 @@ description: "Caso Kattya: El tema de mayor conversación hoy es el caso de Katt
 
 
 
+
 last_modified_at: 2026-06-10
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
