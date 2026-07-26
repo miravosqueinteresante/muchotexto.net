@@ -3,6 +3,7 @@ layout: post
 title: "Pulso Paraguay: Candidaturas indígenas en  — 26 de julio de 2026"
 description: "Candidaturas indígenas en política: El tema de las candidaturas indígenas ha generado un gran volumen de conversación debido a su impacto en la inclusión política en Paraguay. Pulso Paraguay — 26 de julio de 2026."
 
+
 date: 2026-07-26
 last_modified_at: 2026-07-26
 categories: pulso-paraguay

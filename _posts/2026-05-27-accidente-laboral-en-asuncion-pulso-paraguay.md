@@ -20,6 +20,7 @@ description: "Accidente laboral en Asunción: El trágico fallecimiento de un jo
 
 
 
+
 last_modified_at: 2026-05-27
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
