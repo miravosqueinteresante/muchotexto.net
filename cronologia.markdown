@@ -28,7 +28,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 ## 2020 — 2023
 
-- **2021** — Atome anuncia [USD 665 millones](/articulos/2026/07/27/hidrogeno-verde-paraguay/) para fertilizantes verdes en Villeta. Cuatro años después, ejecución cero.
+- **2021** — Atome anuncia proyecto de fertilizantes verdes en Villeta. En [abril 2026](/articulos/2026/07/27/hidrogeno-verde-paraguay/) alcanza decisión final de inversión (FID) con USD 665M, pero la construcción no empieza por conflicto con ANDE sobre tarifa eléctrica.
 - **2021** — China prohíbe la minería de criptomonedas. El [65-75% de la tasa de hash global se relocaliza](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/). Comienza el éxodo minero hacia Paraguay.
 - **2021** — El [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/) alcanza cobertura en las 18 circunscripciones judiciales de Paraguay.
 - **2022** — [Sequía histórica en Paraguay](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/): la cosecha de soja cae 60% por La Niña. El PIB crece solo 0.1%.
