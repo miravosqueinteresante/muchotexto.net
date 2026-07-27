@@ -14,11 +14,11 @@ Paraguay no parte de cero. El Poder Judicial viene de una década de transformac
 
 ## El expediente electrónico: la base silenciosa
 
-El 10 de octubre de 2016, Paraguay lanzó su Expediente Judicial Electrónico en dos tribunales de Asunción. Lo hizo sin aspavientos, con la Acordada N° 1107 de la Corte Suprema como único marco. Para 2021, el sistema ya cubría las 18 circunscripciones judiciales del país —desde Capital hasta Boquerón— y la Sala Penal operaba completamente en la plataforma. En julio de 2026, la expansión llegó a los Juzgados Penales de Sentencia de Saltos del Guairá y al Juzgado de Ejecución Penal de Canindeyú.
+El 10 de octubre de 2016, Paraguay lanzó su Expediente Judicial Electrónico en dos tribunales de Asunción. Lo hizo sin aspavientos, con la Acordada N° 1107 de la Corte Suprema como único marco. Para 2021, el sistema ya cubría las 18 circunscripciones judiciales del país —desde Capital hasta Boquerón— y la Sala Penal operaba completamente en la plataforma. En julio de 2026, la expansión llegó a los Juzgados Penales de Sentencia de Saltos del Guairá.
 
-Los números son modestos pero reales: aproximadamente el 42% de los Juzgados de Paz ya están integrados, con proyección de expansión durante 2026. La Dirección de Tecnología de la Información y las Comunicaciones (DTIC) del Poder Judicial tiene tres subdirecciones, una de ellas dedicada a ciberseguridad —una señal de madurez organizacional que no existía hace cinco años.
+Los números son modestos pero reales: aproximadamente el 42% de los Juzgados de Paz ya están integrados, con proyección de expansión durante 2026. La Dirección de Tecnología de la Información y las Comunicaciones (DGTIC) del Poder Judicial tiene tres subdirecciones, una de ellas dedicada a ciberseguridad —una señal de madurez organizacional que no existía hace cinco años.
 
-El Plan Estratégico Institucional 2026-2030 prioriza la digitalización. La Corte Suprema firmó en julio de 2026 un convenio con la Compañía Paraguaya de Comunicaciones (Copaco) para inversiones en infraestructura. [Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %}) —la madurez de la DTIC es una respuesta directa a esa vulnerabilidad. El Observatorio Judicial monitorea 186 causas de interés público con seguimiento en tiempo real. Todo esto es base de datos. Todo esto es materia prima para algoritmos. Y sin embargo, la palabra "inteligencia artificial" no aparece en ningún documento oficial del Poder Judicial.
+El Plan Estratégico Institucional 2026-2030 prioriza la digitalización. La Corte Suprema firmó en julio de 2026 un convenio con la Compañía Paraguaya de Comunicaciones (Copaco) para inversiones en infraestructura. [Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %}) —la madurez de la DGTIC es una respuesta directa a esa vulnerabilidad. El Observatorio Judicial monitorea 186 causas de interés público con seguimiento en tiempo real. Todo esto es base de datos. Todo esto es materia prima para algoritmos. Y sin embargo, la palabra "inteligencia artificial" no aparece en ningún documento oficial del Poder Judicial.
 
 ## Lo que pasó cuando otros países apretaron el botón
 
@@ -38,7 +38,7 @@ América Latina está más cerca de Paraguay que Estonia o China, y varios país
 
 Argentina tiene **Prometea** desde 2017. Desarrollado por la Fiscalía de la Ciudad de Buenos Aires y el laboratorio de innovación de la Universidad de Buenos Aires (IALAB), Prometea usa IA para predecir la resolución de casos judiciales y automatizar la redacción de dictámenes. En casos de habeas data, redujo el tiempo de resolución fiscal de 90 minutos a 1 minuto. En el fuero contencioso administrativo, alcanzó una tasa de acierto del 96%. No reemplaza al fiscal: le prepara el borrador para que lo revise.
 
-Colombia tiene **PretorIA** en la Corte Constitucional. La Corte revisa aproximadamente 2.500 casos de tutela por año —el equivalente a los amparos en Paraguay— que ingresan por miles anualmente. PretorIA identifica patrones y precedentes para acelerar la selección de los que ameritan revisión.
+Colombia tiene **PretorIA** en la Corte Constitucional, que recibe aproximadamente 600.000 tutelas por año y selecciona unas 2.500 para revisión completa —el equivalente a los amparos en Paraguay— que ingresan por miles anualmente. PretorIA identifica patrones y precedentes para acelerar la selección de los que ameritan revisión.
 
 Brasil tiene **VICTOR** en el Supremo Tribunal Federal desde 2018. Su función es específica y modesta: leer recursos extraordinarios, identificar el tema jurídico central y agruparlos por similitud. No decide nada. Solo organiza. Pero en un tribunal que recibe más de 70.000 procesos por año, esa organización es la diferencia entre resolverse en meses o en años.
 
@@ -82,7 +82,7 @@ Paraguay tiene una ventana de oportunidad. Llega décimo a una carrera donde otr
 8. [Corte Constitucional de Colombia — PretorIA](https://www.corteconstitucional.gov.co/noticia.php?PretorIA-9252)
 9. [EU AI Act — Reglamento (UE) 2024/1689](https://artificialintelligenceact.eu/)
 10. [UNESCO — Recomendación sobre la Ética de la IA (2021)](https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa)
-11. [Ley N° 7593/2025 — Protección de Datos Personales](https://www.bacn.gov.py/leyes-paraguayas/11420/ley-n-7593-proteccion-de-datos-personales-crediticios)
+11. [Ley N° 7593/2025 — Protección de Datos Personales](https://www.bacn.gov.py/leyes-paraguayas/12924/ley-n-7593-proteccion-de-datos-personales)
 
 <script type="application/ld+json">
 {
