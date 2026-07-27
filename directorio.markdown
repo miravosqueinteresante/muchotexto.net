@@ -28,6 +28,11 @@ last_modified_at: 2026-07-18
 - **[Dominion AI](https://dominionaipy.com/)** — Data center subterráneo de IA. Infraestructura para alojar servidores, parte del ecosistema emergente de Paraguay. [Leer análisis](/articulos/2026/07/21/ia-justicia-paraguay/).
 - **Data Center Estatal Tier III** — Adjudicado por el MITIC en mayo 2026: 5.000 VMs, 2.000 contenedores, financiado por el BID. [Leer más](/articulos/2026/07/16/ia-soberana-paraguay/).
 
+## Energía e hidrógeno verde
+
+- **PTI-PY (Parque Tecnológico Itaipú)** — Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
+- **Atome** — Proyecto de fertilizantes verdes en Villeta. Anunciado en 2021 con USD 665M. Ejecución cero. [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
+
 ## Comunidades y espacios
 
 - **[Cámara Paraguaya de Fintech](https://www.fintech.org.py/)** — Fundada en 2019, 120+ miembros. Agrupa al ecosistema fintech paraguayo que pasó de ~29 empresas en 2020 a más de 100. [Leer análisis](/articulos/2026/07/10/fintech-paraguay-ecosistema/).
