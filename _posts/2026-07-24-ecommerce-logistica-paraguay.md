@@ -8,7 +8,7 @@ tags: tech-ecosistema ia-paraguay paraguay ia
 description: "El e-commerce paraguayo mueve hasta USD 2.180M y crece al 40% anual. Pero las direcciones no estandarizadas frenan la logística. Qué puede hacer la IA."
 ---
 
-Paraguay tiene uno de los mercados de comercio electrónico de más rápido crecimiento en América Latina —entre 23% y 40% anual según la fuente— pero entrega paquetes usando referencias como "al lado de la farmacia" porque el país nunca estandarizó sus direcciones. Ocho de cada diez paraguayos ya compran online. El 55% de esas compras son a vendedores locales, una cifra que hace ocho años apenas arañaba el 8%. El comercio electrónico explotó. La logística todavía está en 1995.
+Paraguay tiene uno de los mercados de comercio electrónico de más rápido crecimiento en América Latina —entre 23% y 40% anual según la fuente— pero entrega paquetes usando referencias como "al lado de la farmacia" porque el país nunca estandarizó sus direcciones. Ocho de cada diez paraguayos ya compran online. El 55% de las compras son a vendedores locales según encuestas de Capace (mayo 2025). Por volumen de transacciones, el 77% del comercio electrónico es transfronterizo según PCMI —dos métricas distintas que reflejan hábitos de compra diferentes. El comercio electrónico explotó. La logística todavía está en 1995.
 
 El tamaño del mercado depende de a quién le preguntes. La consultora PCMI midió USD 700 millones en comercio minorista online en 2024. La Cámara Paraguaya de Comercio Electrónico (Capace) prefiere hablar de USD 2.180 millones cuando incluye toda la economía digital —pagos electrónicos, servicios, plataformas. La verdad probablemente esté en el medio, pero el consenso es claro: el comercio electrónico crece a un ritmo que ningún otro sector de la economía paraguaya puede igualar, impulsado por tres factores que convergieron en los últimos tres años: la pandemia que forzó la digitalización, la expansión de los pagos QR y las billeteras móviles, y la llegada de infraestructura logística que antes no existía.
 
@@ -68,7 +68,7 @@ La solución no es futurista. Es regulatoria y de datos. Un sistema de direccion
       "name": "¿Cuánto mueve el comercio electrónico en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Entre USD 700 millones (solo retail online, según PCMI) y USD 2.180 millones (economía digital total, según Capace) en 2025. El mercado crece entre 23% y 40% anual, uno de los ritmos más rápidos de América Latina. El 81% de las compras se hacen desde celulares y 8 de cada 10 paraguayos ya compran online."
+        "text": "Entre USD 700 millones en 2024 (retail online, según PCMI) y USD 2.180 millones en 2025 (economía digital total, según Capace). El mercado crece entre 23% y 40% anual, uno de los ritmos más rápidos de América Latina. El 81% de las compras se hacen desde celulares y 8 de cada 10 paraguayos ya compran online."
       }
     },
     {
