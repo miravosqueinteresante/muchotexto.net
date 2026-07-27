@@ -24,6 +24,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Yguazú Digital: Paraguay busca ser el hub de IA más grande del mundo](https://muchotexto.net/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
 - [Luces y sombras de la apertura eléctrica: Paraguay y el sector privado](https://muchotexto.net/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
 - [Criptominería en Paraguay: el costo real de la energía barata](https://muchotexto.net/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)
+- [Paraguay tiene la energía para el hidrógeno verde pero no el puerto](https://muchotexto.net/articulos/2026/07/27/hidrogeno-verde-paraguay/)
 - [Red eléctrica de Paraguay: el cuello de botella de la IA global](https://muchotexto.net/articulos/2026/07/08/red-electrica-paraguay-ia/)
 - [En 2027 Paraguay puede perder mil millones de dólares de Itaipú](https://muchotexto.net/articulos/2026/07/17/itaipu-2027-energia-paraguay/)
 
