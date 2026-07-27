@@ -5,12 +5,12 @@ date: 2026-07-09
 last_modified_at: 2026-07-09
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
-description: "Paraguay es el último país de Sudamérica que reconoce a Taiwán. 68 años de relaciones, USD 400M en préstamos y un data center de por medio."
+description: "Paraguay es el último país de Sudamérica que reconoce a Taiwán. 69 años de relaciones, USD 400M en préstamos y un data center de por medio."
 ---
 
-El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taiwán el memorándum de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes. En las mesas de los agregados comerciales chinos en São Paulo y Buenos Aires, la noticia se leyó con otra expresión. Paraguay acababa de firmar un acuerdo de inteligencia artificial con el país que China considera una provincia rebelde, en un año en que perder aliados duele más que nunca para Pekín.
+El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán el memorándum, presenciado por los presidentes Santiago Peña y Lai Ching-te de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes. En las mesas de los agregados comerciales chinos en São Paulo y Buenos Aires, la noticia se leyó con otra expresión. Paraguay acababa de firmar un acuerdo de inteligencia artificial con el país que China considera una provincia rebelde, en un año en que perder aliados duele más que nunca para Pekín.
 
-Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. De los catorce países que reconocían a Taipei en 2016, quedan doce. De esos doce, Paraguay es el más grande y —desde que Honduras cambió de bando en 2023— el más estratégico. No lo es por su peso económico ni militar, sino por su ubicación geopolítica y por el recurso que tiene debajo de las represas: la energía más barata de Sudamérica, que Taiwán necesita para sus centros de datos de inteligencia artificial.
+Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. De los aproximadamente 22 países que reconocían a Taipei en 2016, quedan doce. De esos doce, Paraguay es el más grande y —desde que Honduras cambió de bando en 2023— el más estratégico. No lo es por su peso económico ni militar, sino por su ubicación geopolítica y por el recurso que tiene debajo de las represas: la energía más barata de Sudamérica, que Taiwán necesita para sus centros de datos de inteligencia artificial.
 
 ## 68 años de lealtad: qué une a Paraguay con Taiwán
 
@@ -36,7 +36,7 @@ El diseño no es casual. Al atar la suerte de Yguazú Digital a la relación bil
 
 TSMC fabrica aproximadamente el 90% de los chips más avanzados del mundo. El 100% de los GPUs de NVIDIA que necesita cualquier centro de datos de inteligencia artificial —los H100, los B200— se fabrican en Taiwán. Si Paraguay quiere ser un hub de IA, los chips taiwaneses son un insumo no negociable. La relación con Taiwán no es solo diplomática: es la puerta de entrada a la cadena de suministro más crítica de la inteligencia artificial global.
 
-El proyecto se enmarca dentro de Pax Silica, una iniciativa liderada por el Departamento de Estado de Estados Unidos que busca construir cadenas de suministro de tecnología "confiables" —es decir, que no pasen por China. La visita de [Peter Thiel a Paraguay en mayo de 2026]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}), coincidiendo con la firma del MOU, no fue casual: el cofundador de Palantir y Crusoe AI llegó con una agenda que conecta la inteligencia artificial con la geopolítica de los datos. En ese esquema, Paraguay y Taiwán ocupan lugares complementarios: Taiwán produce los chips, Paraguay aporta la energía limpia para procesarlos.
+El proyecto se enmarca dentro de Pax Silica, una iniciativa liderada por el Departamento de Estado de Estados Unidos que busca construir cadenas de suministro de tecnología "confiables" —es decir, que no pasen por China. La visita de [Peter Thiel a Paraguay en mayo de 2026]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}), coincidiendo con la firma del MOU, no fue casual: el cofundador de Palantir e inversor en Crusoe AI a través de Founders Fund llegó con una agenda que conecta la inteligencia artificial con la geopolítica de los datos. En ese esquema, Paraguay y Taiwán ocupan lugares complementarios: Taiwán produce los chips, Paraguay aporta la energía limpia para procesarlos.
 
 ## El costo de no elegir a China
 

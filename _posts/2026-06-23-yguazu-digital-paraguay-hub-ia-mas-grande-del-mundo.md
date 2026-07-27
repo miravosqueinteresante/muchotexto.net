@@ -22,7 +22,7 @@ El proyecto se estructura en tres etapas de escala creciente. Cada una represent
 
 **Fase II — Escala regional.** 100 megavatios. Inversión aproximada de 5.000 millones de dólares. Según Riquelme, el impacto económico equivaldría al 10% del PIB nacional. El consumo energético proyectado es inferior al 2% de la generación eléctrica del país. En esta fase se espera atraer capital privado mediante vehículos de propósito especial (SPV).
 
-**Fase III — Hiperscala.** 1 gigavatio (1.000 megavatios). Inversión estimada en 40.000 millones de dólares. Para ponerlo en perspectiva: el PIB de Paraguay en 2024 fue de aproximadamente 42.000 millones de dólares. La Fase III equivale a construir una economía entera. El requerimiento energético total del sistema sería de 1,5 gigavatios, equivalente a casi dos turbinas de Itaipú (cada una genera 700 megavatios) o cinco veces la represa de Acaray. Esta fase es, por ahora, aspiracional.
+**Fase III — Hiperscala.** 1 gigavatio (1.000 megavatios). Inversión estimada en 40.000 millones de dólares. Para ponerlo en perspectiva: el PIB de Paraguay en 2024 fue de aproximadamente 42.000 millones de dólares. La Fase III equivale a construir una economía entera. El requerimiento energético total del sistema sería de 1,5 gigavatios, equivalente a casi dos turbinas de Itaipú (cada una genera 700 megavatios) o aproximadamente siete veces la represa de Acaray (210 MW). Esta fase es, por ahora, aspiracional.
 
 La estructura de propiedad será 50/50, modelada sobre la entidad binacional de Itaipú. Paraguay aporta el terreno y la energía. Taiwán aporta los equipos de cómputo de alto rendimiento —incluyendo chips NVIDIA— y garantiza la utilización de la capacidad de procesamiento desde el día uno. ANDE será un actor estratégico en el esquema organizativo.
 
@@ -32,7 +32,7 @@ La estructura de propiedad será 50/50, modelada sobre la entidad binacional de 
 
 ### La energía más barata de Latinoamérica
 
-Paraguay tiene el costo de electricidad industrial más bajo de la región: entre 30 y 45 dólares por megavatio-hora. Para comparar: Uruguay paga entre 55 y 70, Chile entre 45 y 65, Brasil entre 60 y 90. El 100% de esa energía es hidroeléctrica. Itaipú, la represa más grande del mundo en generación, produce un promedio de 80 a 90 teravatios-hora por año. Paraguay consume menos del 16% de su mitad. El resto —aproximadamente 40 teravatios-hora anuales— se exporta a Brasil y Argentina a precios que no reflejan su valor de mercado.
+Paraguay tiene el costo de electricidad industrial más bajo de la región: entre 30 y 45 dólares por megavatio-hora. Para comparar: Uruguay paga entre 55 y 70, Chile entre 45 y 65, Brasil entre 60 y 90. El 100% de esa energía es hidroeléctrica. Itaipú, la represa más grande del mundo en generación, produce un promedio de 80 a 90 teravatios-hora por año. Paraguay consume menos del 16% de su mitad. El resto —aproximadamente 25 teravatios-hora anuales— se exporta a Brasil y Argentina a precios que no reflejan su valor de mercado.
 
 Para un data center de inteligencia artificial, donde la energía representa entre el 40% y el 60% del costo operativo, esta diferencia es existencial. Un megavatio en Paraguay cuesta la mitad que en Brasil y un tercio que en Europa. En una industria donde cada punto porcentual de margen se disputa en centavos de dólar por kilovatio-hora, Paraguay tiene una ventaja estructural que ningún otro país de la región puede igualar.
 

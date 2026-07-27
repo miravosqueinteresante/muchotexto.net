@@ -8,7 +8,7 @@ tags: geopolitica-regulacion ia-paraguay
 description: "Peter Thiel se reunió con Santiago Peña en Mburuvicha Róga. ¿Qué busca uno de los hombres más ricos de Silicon Valley en Paraguay?"
 ---
 
-El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 100 más rica del planeta, cofundador de PayPal y Palantir, primer inversor externo de Facebook, dueño de Founders Fund, una de las firmas de capital de riesgo más poderosas de Silicon Valley. Llegó con Cully Cavness, cofundador de Crusoe AI, una empresa que convierte el gas quemado de los pozos petroleros en electricidad para centros de datos. El mensaje oficial fue que estaban "explorando Paraguay como sede para centros de datos de inteligencia artificial".
+El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 87 más rica del planeta, cofundador de PayPal y Palantir, primer inversor externo de Facebook, dueño de Founders Fund, una de las firmas de capital de riesgo más poderosas de Silicon Valley. Llegó con Cully Cavness, cofundador de Crusoe AI, una empresa que convierte el gas quemado de los pozos petroleros en electricidad para centros de datos. El mensaje oficial fue que estaban "explorando Paraguay como sede para centros de datos de inteligencia artificial".
 
 ---
 
@@ -145,7 +145,7 @@ Mirá el análisis completo del ecosistema de IA en Paraguay en la [guía de int
       "name": "Que busca Peter Thiel en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Peter Thiel, cofundador de PayPal y Palantir (capitalizacion superior a USD 400.000 millones), llego a Paraguay el 13 de mayo de 2026 con Cully Cavness de Crusoe AI. Busca instalar centros de datos de inteligencia artificial aprovechando la energia barata de Itaipu."
+        "text": "Peter Thiel, cofundador de PayPal y Palantir (capitalizacion de aproximadamente USD 280.000 millones), llego a Paraguay el 13 de mayo de 2026 con Cully Cavness de Crusoe AI. Busca instalar centros de datos de inteligencia artificial aprovechando la energia barata de Itaipu."
       }
     },
     {
