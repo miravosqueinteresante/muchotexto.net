@@ -52,6 +52,10 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad. *Ú
 - **[Ley 7547/2025](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/)** — Reforma la Ley de Maquila 1064/97 para incluir explícitamente servicios intangibles (software, datos, procesos digitales). Tributación al 1%.
 - **Régimen fiscal general:** IRAE 10% corporativo (el más bajo del hemisferio), sistema territorial, deuda/PIB 19.5%, déficit 1.1%.
 
+## Hidrógeno verde
+
+- **[Estrategia Nacional de Hidrógeno Verde (julio 2025)](/articulos/2026/07/27/hidrogeno-verde-paraguay/)** — 6 pilares, 55 medidas, financiada por el BID. Pivotea hacia fertilizantes para el mercado brasileño. Documento de política pública sin rango de ley.
+
 ## Lo que está en trámite o pendiente
 
 - **Sin legislación de contenido local para data centers.** El memorándum de entendimiento de Yguazú Digital no incluye compromisos de formación de técnicos paraguayos ni exigencias de contenido local obligatorio. Paraguay captura solo el 15-20% del valor de los proyectos sin mecanismos legales para aumentar esa proporción. [Leer más](/articulos/2026/07/25/cadena-valor-data-center/).

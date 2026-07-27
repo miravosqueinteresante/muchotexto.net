@@ -18,6 +18,7 @@ Cada caso enlaza con el artículo completo. *Última actualización: 24 de julio
 - **[Data centers como nuevo sector exportador](/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)** — Paraguay tiene la electricidad industrial más barata de Sudamérica (0.03-0.05 USD/kWh). Eso atrae data centers de IA que ven al país como alternativa a Irlanda, Singapur y Virginia.
 - **[Yguazú Digital](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)** — El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes.
 - **[Apertura del sector eléctrico](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)** — El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. X8 Cloud anunció $10-50B en data centers. HIVE Digital opera 100 MW de GPU.
+- **[Hidrógeno verde y fertilizantes](/articulos/2026/07/27/hidrogeno-verde-paraguay/)** — Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia Nacional 2025 pivotea a fertilizantes para Brasil.
 - **[Criptominería](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)** — Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social.
 
 ## Salud
