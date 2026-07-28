@@ -60,8 +60,8 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
 
 **Próximamente:**
+- El modelo Itaipú aplicado a la IA: ¿puede funcionar dos veces?
 - Silicon Valley en el Cono Sur
-- Estrategia nacional de IA
 
 ## IA, sociedad y trabajo
 
@@ -77,7 +77,6 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
 
 **Próximamente:**
-- Formación universitaria en IA
 
 ## Tecnología aplicada y ecosistema
 
@@ -95,7 +94,6 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Lo que un data center compra y Paraguay no puede vender]({% post_url 2026-07-25-cadena-valor-data-center %})** - La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW.
 
 **Próximamente:**
-- Adopción de IA en el sector público
 
 ## Cultura, filosofía y futuro
 
@@ -110,7 +108,6 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 
 **Próximamente:**
 - Paraguay 2040
-- Sesgo algorítmico y derechos digitales
 
 ---
 
