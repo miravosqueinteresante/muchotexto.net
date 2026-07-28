@@ -166,26 +166,26 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 
 ---
 
-**Fuentes principales:**
+## Fuentes
 
-- Texto completo de *Magnifica Humanitas* (Vaticano, español): https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html
-- *Quo vadis, humanitas?* — Comisión Teológica Internacional (marzo 2026): https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanitas_sp.html
-- Vatican News — Cobertura de la presentación: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html
-- The New York Times — "To Understand Pope Leo's Efforts on A.I., Look at the Man Shaking His Hand" (26/5/2026): https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html
-- Fortune / AP — "Pope Leo called AI an 'instrument of domination, exclusion and death.' Anthropic was in the room" (25/5/2026): https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclical/
-- Business Insider — "What Big Names Are Saying About Pope Leo's AI Letter" (26/5/2026): https://www.businessinsider.com/leaders-ceos-react-pope-leo-ai-encyclical-2026-5
-- NBC News — "Tech titans mostly silent after Pope Leo's warning on risks of AI" (26/5/2026): https://www.nbcnews.com/tech/innovation/tech-titans-mostly-silent-pope-leos-warning-risks-ai-rcna346903
-- Infobae — Cobertura y análisis de la encíclica (24-25/5/2026): https://www.infobae.com/america/mundo/2026/05/25/el-papa-leon-xiv-publico-la-enciclica-magnifica-humanitas-y-pidio-que-la-inteligencia-artificial-no-domine-al-ser-humano/
-- El País — "El papa lanza una llamada de alarma contra el tecnofascismo" (25/5/2026): https://elpais.com/sociedad/2026-05-25/el-papa-leon-xiv-lanza-con-su-primera-enciclica-una-llamada-de-alarma-contra-el-tecnofascismo-quien-controla-la-ia-impondra-su-vision-moral.html
-- ACI Prensa / EWTN News — Cobertura (25/5/2026): https://www.aciprensa.com/noticias/125373/el-papa-leon-xiv-publica-su-primera-enciclica-magnifica-humanitas
-- AlfayOmega — "El Papa León XIV presentará él mismo su primera encíclica" (18/5/2026): https://alfayomega.es/el-papa-leon-xiv-presentara-el-mismo-su-primera-enciclica-magnifica-humanitas/
-- ADN Celam — Reflexión del cardenal Adalberto Martínez (27/5/2026): https://adn.celam.org/cardenal-paraguayo-advierte-riesgos-eticos-de-inteligencia-artificial-tras-publicacion-de-magnifica-humanitas/
-- VIA.bible — "La humanidad como frontera sagrada" (4/5/2026): https://www.via.bible/es/la-humanidad-como-frontera-sagrada-magnifica-humanitas-y-el-desafio-digital-en-america-latina/
-- Rome Call for AI Ethics: https://www.romecall.org/the-call
-- ABC Color — Cobertura de proyectos de IA en Paraguay (mayo 2026): https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/
-- BNamericas — Análisis de inversiones en IA en Paraguay (2025-2026): https://www.bnamericas.com/es/entrevistas/mi-objetivo-es-alcanzar-los-5gw-de-ia-afirma-x8-cloud-sobre-megaproyecto-en-paraguay
+1. [Vaticano — "Magnifica Humanitas — Texto completo de la encíclica"](https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html) (25 may 2026)
+2. [Comisión Teológica Internacional — "Quo vadis, humanitas?"](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanitas_sp.html) (mar 2026)
+3. [Vatican News — "Pope Leo XIV publishes encyclical Magnifica Humanitas on AI"](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) (25 may 2026)
+4. [The New York Times — "To Understand Pope Leo's Efforts on A.I., Look at the Man Shaking His Hand"](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html) (26 may 2026)
+5. [Fortune/AP — "Pope Leo called AI an 'instrument of domination, exclusion and death.' Anthropic was in the room"](https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclical/) (25 may 2026)
+6. [Business Insider — "What Big Names Are Saying About Pope Leo's AI Letter"](https://www.businessinsider.com/leaders-ceos-react-pope-leo-ai-encyclical-2026-5) (26 may 2026)
+7. [NBC News — "Tech titans mostly silent after Pope Leo's warning on risks of AI"](https://www.nbcnews.com/tech/innovation/tech-titans-mostly-silent-pope-leos-warning-risks-ai-rcna346903) (26 may 2026)
+8. [Infobae — "El Papa León XIV publicó la encíclica Magnifica Humanitas"](https://www.infobae.com/america/mundo/2026/05/25/el-papa-leon-xiv-publico-la-enciclica-magnifica-humanitas-y-pidio-que-la-inteligencia-artificial-no-domine-al-ser-humano/) (25 may 2026)
+9. [El País — "El papa lanza una llamada de alarma contra el tecnofascismo"](https://elpais.com/sociedad/2026-05-25/el-papa-leon-xiv-lanza-con-su-primera-enciclica-una-llamada-de-alarma-contra-el-tecnofascismo-quien-controla-la-ia-impondra-su-vision-moral.html) (25 may 2026)
+10. [ACI Prensa — "El Papa León XIV publica su primera encíclica: Magnifica Humanitas"](https://www.aciprensa.com/noticias/125373/el-papa-leon-xiv-publica-su-primera-enciclica-magnifica-humanitas) (25 may 2026)
+11. [AlfayOmega — "El Papa León XIV presentará él mismo su primera encíclica"](https://alfayomega.es/el-papa-leon-xiv-presentara-el-mismo-su-primera-enciclica-magnifica-humanitas/) (18 may 2026)
+12. [ADN Celam — "Cardenal paraguayo advierte riesgos éticos de inteligencia artificial"](https://adn.celam.org/cardenal-paraguayo-advierte-riesgos-eticos-de-inteligencia-artificial-tras-publicacion-de-magnifica-humanitas/) (27 may 2026)
+13. [VIA.bible — "La humanidad como frontera sagrada"](https://www.via.bible/es/la-humanidad-como-frontera-sagrada-magnifica-humanitas-y-el-desafio-digital-en-america-latina/) (4 may 2026)
+14. [Rome Call for AI Ethics](https://www.romecall.org/the-call)
+15. [ABC Color — "Centro de datos soberano con Taiwán"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 may 2026)
+16. [BNamericas — "Mi objetivo es alcanzar los 5GW de IA"](https://www.bnamericas.com/es/entrevistas/mi-objetivo-es-alcanzar-los-5gw-de-ia-afirma-x8-cloud-sobre-megaproyecto-en-paraguay) (2025-2026)
 
-Explorá el análisis completo de IA en Paraguay en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+*Este artículo es parte del [Observatorio de IA en Paraguay](/ia-en-paraguay/), una guía viva sobre cómo la inteligencia artificial está transformando el país.*
 
 <script type="application/ld+json">
 {
