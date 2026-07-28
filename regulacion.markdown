@@ -2,11 +2,11 @@
 layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
-description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 24 de julio de 2026."
-last_modified_at: 2026-07-24
+description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 27 de julio de 2026."
+last_modified_at: 2026-07-27
 ---
 
-Cada norma enlaza con el artículo completo donde se analiza en profundidad. *Última actualización: 24 de julio de 2026.*
+Cada norma enlaza con el artículo completo donde se analiza en profundidad. *Última actualización: 27 de julio de 2026.*
 
 ## Protección de datos y privacidad
 
