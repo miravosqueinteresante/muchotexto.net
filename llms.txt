@@ -62,6 +62,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [La IA no es neutral: lo que dice la encíclica del Papa León XIV](https://muchotexto.net/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/)
 - [5 tecnologías que prometieron cambiar todo pero no cambiaron nada](https://muchotexto.net/articulos/2026/05/15/cinco-tecnologias-que-prometieron-cambiar-todo/)
 - [El laboratorio americano: cómo EE.UU. usa IA para reinventar el fútbol](https://muchotexto.net/articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/)
+- [Paraguay está enseñando guaraní a la inteligencia artificial](https://muchotexto.net/articulos/2026/07/29/guarani-ia/)
 - [¿Qué es realmente el fútbol?](https://muchotexto.net/articulos/2026/06/10/que-es-realmente-el-futbol/)
 - [El futuro de la identidad y la conciencia](https://muchotexto.net/articulos/2026/05/13/ciberhumanidad/)
 
