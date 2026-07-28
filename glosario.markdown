@@ -2,13 +2,13 @@
 layout: page
 title: "Glosario vivo de Inteligencia Artificial en Paraguay"
 permalink: /glosario/
-description: "Glosario vivo de términos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 21 de julio de 2026."
-last_modified_at: 2026-07-21
+description: "Glosario vivo de términos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 27 de julio de 2026."
+last_modified_at: 2026-07-27
 ---
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
 
-*Última actualización: 24 de julio de 2026*
+*Última actualización: 27 de julio de 2026*
 
 Los términos están agrupados por tema: infraestructura y energía, tecnología IA, geopolítica, fintech, startups, agro, justicia, y comercio electrónico y logística. No están ordenados alfabéticamente sino por relación temática, para que el lector pueda explorar por bloques de interés.
 
