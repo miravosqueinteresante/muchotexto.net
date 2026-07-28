@@ -39,7 +39,6 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 **Próximamente:**
 - Impacto local de un data center de $200M
-- Hidrógeno verde
 
 ## Geopolítica y regulación tech
 
