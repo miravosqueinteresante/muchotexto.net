@@ -64,6 +64,10 @@ Cada caso enlaza con el artículo completo. *Última actualización: 27 de julio
 - **[Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/)** — Paraguay digitalizó sus 18 circunscripciones judiciales desde 2016. El ~42% de los Juzgados de Paz opera con la plataforma. En diez años, ningún tribunal ha usado IA para tomar decisiones.
 - **[IA judicial en América Latina](/articulos/2026/07/21/ia-justicia-paraguay/)** — Argentina (Prometea, 2017) automatiza dictámenes fiscales con 96% de acierto. Brasil (VICTOR, 2018) agrupa 70.000 recursos por año. Colombia (PretorIA) identifica patrones en tutelas constitucionales. Paraguay tiene los datos pero no los algoritmos.
 
+## Lenguas indígenas e IA
+
+- **[AIkuaa: guaraní en la IA](/articulos/2026/07/29/guarani-ia/)** — El Surti crea el primer dataset comunitario de voz en guaraní con mingas y un modelo wav2vec2. API abierta de transcripción. Chatbot de WhatsApp. Contraste con maorí (Nueva Zelanda), catalán (ILENIA) y quechua (Google Translate).
+
 ## Educación y talento
 
 - **[Formación tech](/articulos/2026/07/09/educacion-tech-paraguay-ia/)** — Paraguay produce 400-600 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026.

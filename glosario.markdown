@@ -232,6 +232,9 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **PretorIA** — Sistema de IA de la Corte Constitucional de Colombia que identifica patrones y precedentes para acelerar la selección de tutelas (~2.500 casos por año).
 → [Paraguay tiene los datos judiciales que la IA necesita](/artículos/2026/07/21/ia-justicia-paraguay/)
 
+**AIkuaa** — Proyecto de El Surti para crear el primer dataset comunitario de voz en guaraní mediante mingas. Usa un modelo wav2vec2 (17.62% CER) y desarrolló una API abierta de transcripción. Financiado por JournalismAI (LSE/Google News Initiative).
+→ [Guaraní e IA](/articulos/2026/07/29/guarani-ia/)
+
 **Vacatio legis** — Período entre la promulgación de una ley y su entrada en vigor. La Ley 7593/2025 de Protección de Datos tiene una vacatio legis de 24 meses (2025-2027).
 → [Ley de protección de datos en Paraguay](/artículos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 
