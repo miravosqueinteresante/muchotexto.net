@@ -105,26 +105,26 @@ Encontrá más análisis sobre tecnología en la [guía completa de inteligencia
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Cuanto dinero perdio Meta con el metaverso?",
+      "name": "¿Cuánto dinero perdió Meta con el metaverso?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Reality Labs, la division del metaverso de Meta, acumulo perdidas operativas de mas de USD 73.000 millones desde 2021. Horizon Worlds llego a tener apenas 900 usuarios activos diarios. El 91% de los mundos nunca recibieron mas de 50 visitantes."
+        "text": "Reality Labs, la división del metaverso de Meta, acumuló pérdidas operativas de más de USD 73.000 millones desde 2021. Horizon Worlds llegó a tener apenas 900 usuarios activos diarios. El 91% de los mundos nunca recibieron más de 50 visitantes."
       }
     },
     {
       "@type": "Question",
-      "name": "Que paso con los NFTs despues de la burbuja?",
+      "name": "¿Qué pasó con los NFTs después de la burbuja?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Para septiembre de 2023, el 95% de 73.257 colecciones de NFT tenian valor de mercado cero. El volumen mensual de ventas paso de USD 6.000 millones a USD 430 millones. La vida media de un NFT era de solo 1,14 anos."
+        "text": "Para septiembre de 2023, el 95% de 73.257 colecciones de NFT tenían valor de mercado cero. El volumen mensual de ventas pasó de USD 6.000 millones a USD 430 millones. La vida media de un NFT era de solo 1,14 años."
       }
     },
     {
       "@type": "Question",
-      "name": "Por que fracaso el Segway?",
+      "name": "¿Por qué fracasó el Segway?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Steve Jobs dijo que el Segway seria tan importante como la PC. Se esperaban 10.000 unidades por semana. En veinte anos se vendieron aproximadamente 140.000 unidades. Costaba USD 5.000, pesaba 42 kilos."
+        "text": "Steve Jobs dijo que el Segway sería tan importante como la PC. Se esperaban 10.000 unidades por semana. En veinte años se vendieron aproximadamente 140.000 unidades. Costaba USD 5.000, pesaba 42 kilos."
       }
     }
   ]

@@ -163,7 +163,7 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 **Fuentes principales:**
 
 - Texto completo de *Magnifica Humanitas* (Vaticano, español): https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html
-- *Quo vadis, humanitas?* — Comisión Teológica Internacional (marzo 2026): https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanits_sp.html
+- *Quo vadis, humanitas?* — Comisión Teológica Internacional (marzo 2026): https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanitas_sp.html
 - Vatican News — Cobertura de la presentación: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html
 - The New York Times — "To Understand Pope Leo's Efforts on A.I., Look at the Man Shaking His Hand" (26/5/2026): https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html
 - Fortune / AP — "Pope Leo called AI an 'instrument of domination, exclusion and death.' Anthropic was in the room" (25/5/2026): https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclical/

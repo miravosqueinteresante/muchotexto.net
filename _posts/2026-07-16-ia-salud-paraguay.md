@@ -34,7 +34,7 @@ Paraguay gasta el 8,36% de su PIB en salud, tiene 3,89 médicos por cada 1.000 h
 
 ## Lo que la IA podría hacer con lo que ya existe
 
-El dengue es endémico en Paraguay. El Chagas —históricamente una de las enfermedades más prevalentes en zonas rurales— fue declarado interrumpido en su transmisión vectorial domiciliaria, uno de los pocos países de la región en lograrlo. La diabetes, la hipertensión y las enfermedades cardiovasculares son las principales causas de muerte. La esperanza de vida es de 74,2 años, por debajo del promedio de América del Sur.
+El dengue es endémico en Paraguay. El Chagas —históricamente una de las enfermedades más prevalentes en zonas rurales— fue declarado interrumpido en su transmisión vectorial domiciliaria, uno de los pocos países de la región en lograrlo. La diabetes, la hipertensión y las enfermedades cardiovasculares son las principales causas de muerte. La esperanza de vida es de 75,8 años, por debajo del promedio de América del Sur.
 
 Sobre la infraestructura de telemedicina que ya existe, Paraguay podría implementar al menos tres aplicaciones de inteligencia artificial sin necesidad de construir nada nuevo. La primera es el triaje automatizado de radiografías y tomografías: un algoritmo que detecte anomalías y las marque para revisión prioritaria por parte del especialista. La segunda es la predicción de brotes de dengue: modelos que correlacionen datos climáticos, de movilidad y de notificaciones para anticipar picos con semanas de anticipación. La tercera es la detección de retinopatía diabética en imágenes de fondo de ojo tomadas en centros de atención primaria —una tecnología que la FDA aprobó hace años y que requiere una cámara retinal y un algoritmo, no un especialista en cada centro.
 
@@ -42,7 +42,7 @@ Ninguna de estas aplicaciones requiere entrenar un modelo desde cero. Las tres e
 
 ## Lo que la IA no va a resolver
 
-Hay problemas que la inteligencia artificial no toca. El Chaco paraguayo —60% del territorio, menos del 5% de la población— tiene comunidades indígenas que están a horas de distancia del centro de salud más cercano, [las mismas donde la brecha de conectividad es más profunda]({% post_url 2026-07-15-starlink-paraguay-conectividad %}). La tasa de mortalidad infantil nacional es de 15,2 por cada 1.000 nacidos vivos, pero ese promedio esconde brechas enormes entre Asunción y el Chaco. La falta de agua potable, la desnutrición y las enfermedades respiratorias no se resuelven con un algoritmo que lea radiografías.
+Hay problemas que la inteligencia artificial no toca. El Chaco paraguayo —60% del territorio, menos del 5% de la población— tiene comunidades indígenas que están a horas de distancia del centro de salud más cercano, [las mismas donde la brecha de conectividad es más profunda]({% post_url 2026-07-15-starlink-paraguay-conectividad %}). La tasa de mortalidad infantil nacional es de 13,7 por cada 1.000 nacidos vivos, pero ese promedio esconde brechas enormes entre Asunción y el Chaco. La falta de agua potable, la desnutrición y las enfermedades respiratorias no se resuelven con un algoritmo que lea radiografías.
 
 El gasto de bolsillo del 36% significa que más de un tercio de cada peso que se gasta en salud en Paraguay sale directamente del bolsillo de los pacientes. La inteligencia artificial no baja ese número. Lo que lo baja es la cobertura universal, la inversión en atención primaria y la reducción del precio de los medicamentos. La IA puede hacer que un sistema de salud sea más eficiente. No puede hacer que sea más justo.
 
@@ -56,6 +56,7 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
 - [ABC Color — "IPS lanza Hospital Virtual para pacientes crónicos"](https://www.abc.com.py/) (9 julio 2026)
 - [La Nación — "Media sanción para ley de historia clínica electrónica"](https://www.lanacion.com.py/) (23 abril 2025)
 - [Diario HOY — "Sistema de Información en Salud opera en 801 centros"](https://www.hoy.com.py/) (29 enero 2025)
+- [INE Paraguay — Estimaciones y Proyecciones 2000-2035, Revisión 2025](https://www.ine.gov.py/) — esperanza de vida, mortalidad infantil
 - [WHO — Global Health Expenditure Database: Paraguay](https://apps.who.int/nha/database) (2023)
 - [WHO — Global Health Observatory: Paraguay health workforce](https://www.who.int/data/gho) (2022)
 - [Wikipedia — IBM Watson Health](https://en.wikipedia.org/wiki/IBM_Watson_Health)

@@ -24,7 +24,7 @@ Mientras tanto, el costo medio de generación del mix paraguayo (Itaipú + Yacyr
 
 ## La tormenta perfecta de 2027: data centers, criptominería y Anexo C
 
-La renegociación del Anexo C del Tratado de Itaipú arrastra demoras desde 2023. El acuerdo vigente fijó la tarifa en 19,28 dólares por kilovatio-mes para 2024, 2025 y 2026. A partir del 1 de enero de 2027, si no hay un nuevo acuerdo, la tarifa que Brasil paga por el excedente de energía paraguayo caería aproximadamente un 60%, al costo puro de operación. Paraguay perdería unos 1.250 millones de dólares anuales en royalties, compensaciones y gastos sociales —aproximadamente el 12% de toda la recaudación estatal.
+La renegociación del Anexo C del Tratado de Itaipú arrastra demoras desde 2023. El acuerdo vigente fijó la tarifa en 19,28 dólares por kilovatio-mes para 2024, 2025 y 2026. A partir del 1 de enero de 2027, si no hay un nuevo acuerdo, la tarifa que Brasil paga por el excedente de energía paraguayo caería aproximadamente un 60%, al costo puro de operación. Paraguay perdería aproximadamente 750 millones de dólares anuales —el 60% de los aproximadamente 1.250 millones que recibe actualmente en royalties, compensaciones y gastos sociales—, lo que equivale a alrededor del 12% de toda la recaudación estatal.
 
 El presidente Santiago Peña ha dicho que prefiere "un buen acuerdo sobre un acuerdo rápido". El ministro Giménez reportó un 80% de avance en las negociaciones, pero el escándalo ABIN de abril de 2025 —cuando se reveló que la agencia de inteligencia brasileña espió a funcionarios paraguayos durante las negociaciones— suspendió las conversaciones y envenenó el clima.
 
@@ -38,7 +38,7 @@ El caso Atome es el mejor resumen de la situación financiera de la ANDE. Atome 
 
 Atome representa con cifras redondas una inversión de 665 millones de dólares. Y la ANDE no pudo aceptar su oferta porque, a la tarifa que el inversor estaba dispuesto a pagar, la empresa eléctrica estatal pierde dinero. Eso es todo lo que hay que saber sobre la salud financiera de la ANDE.
 
-La [apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}), habilitada por la Ley 7599 y el Decreto 6034, debería aliviar esta presión al permitir que nuevos generadores privados inyecten energía a la red. Pero la ley es de mayo de 2026 —apenas tiene dos meses— y su implementación práctica está en una fase embrionaria. Los contratos de compra de energía a largo plazo (PPA) que necesitan los grandes consumidores todavía no existen como mercado.
+La [apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}), habilitada por la Ley 7599 de diciembre de 2025 y reglamentada por el Decreto 6034 en mayo de 2026, debería aliviar esta presión al permitir que nuevos generadores privados inyecten energía a la red. Pero el decreto reglamentario tiene apenas dos meses y su implementación práctica está en una fase embrionaria. Los contratos de compra de energía a largo plazo (PPA) que necesitan los grandes consumidores todavía no existen como mercado.
 
 La ANDE financia sus inversiones de capital con préstamos multilaterales: el BID, el Banco Europeo de Inversiones y la agencia de cooperación taiwanesa ICDF. Los montos son conocidos pero insuficientes: 140 millones para la subestación Emboscada, 99,75 millones para la línea de 500 kV Yguazú–Valenzuela, 56 millones en contratos de 220 kV. Para construir la red que Paraguay necesita —un verdadero anillo de 500 kV— se requieren varios miles de millones. Y la ANDE no puede generarlos internamente porque las tarifas eléctricas en Paraguay son, ante todo, una decisión política.
 
@@ -91,7 +91,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Qué es el Anexo C de Itaipú y por qué importa en 2027?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El Anexo C es el anexo financiero del Tratado de Itaipú que fija el precio de la electricidad. Si no se renueva antes de 2027, la tarifa que Brasil paga por el excedente paraguayo caería un 60%, y Paraguay perdería unos 1.250 millones de dólares anuales, equivalentes al 12% de la recaudación estatal."
+        "text": "El Anexo C es el anexo financiero del Tratado de Itaipú que fija el precio de la electricidad. Si no se renueva antes de 2027, la tarifa que Brasil paga por el excedente paraguayo caería un 60%, y Paraguay perdería aproximadamente 750 millones de dólares anuales —el 60% de los ~1.250 millones que recibe actualmente—, el equivalente al 12% de la recaudación estatal."
       }
     },
     {

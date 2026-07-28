@@ -94,7 +94,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [talkSPORT — "US Soccer trials AI system to revolutionize sport and mitigate unique obstacle to World Cup glory"](https://talksport.com/football/world-cup/4306731/us-soccer-ai-system-scouting-jt-batson-interview/) (5 junio 2026)
 - [The Guardian — "Mauricio Pochettino: 'No one sees the USA as a contender – but why not?'"](https://www.theguardian.com/football/2026/jun/10/mauricio-pochettino-no-one-sees-the-usa-as-a-contender-but-why-not) (10 junio 2026)
 - [Firstpost — "How billionaires helped the USA land Mauricio Pochettino"](https://www.firstpost.com/sports/football-news/usa-world-cup-2026-mauricio-pochettino-billionaires-kenneth-griffin-14022096.html) (13 junio 2026)
-- [US Soccer — Arthur M. Blank National Training Center](https://www.ussoccer.com/national-training-center)
+- US Soccer — Arthur M. Blank National Training Center
 - [BBC Future — "How Brazil is betting on 'smart vests' in its bid for World Cup glory"](https://www.bbc.com/future/article/20260611-he-was-always-in-the-right-spot-how-brazil-is-betting-on-smart-vests-in-its-bid-for-world-cup-glory) (11 junio 2026)
 - [Wired — "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini"](https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/)
 - [MIT Technology Review — "Inside soccer's data renaissance"](https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/) (11 junio 2026)
@@ -110,26 +110,26 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Que tecnologia usa Estados Unidos en el Mundial 2026?",
+      "name": "¿Qué tecnología usa Estados Unidos en el Mundial 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "USA usa Sportian Performance, plataforma de IA de Globant que genera reportes del rival, tracking en vivo y deteccion de patrones. Opera en 42 clubes de LaLiga y mas de 50 competiciones globales."
+        "text": "USA usa Sportian Performance, plataforma de IA de Globant que genera reportes del rival, tracking en vivo y detección de patrones. Opera en 42 clubes de LaLiga y más de 50 competiciones globales."
       }
     },
     {
       "@type": "Question",
-      "name": "Cuanto invirtio USA en su centro de entrenamiento?",
+      "name": "¿Cuánto invirtió USA en su centro de entrenamiento?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El Arthur M. Blank National Training Center en Georgia tiene 200 acres, 19 canchas y 18.500 m2 de instalaciones. Sus socios incluyen a Oura (anillos inteligentes), Nike y robots autonomos que marcan las lineas."
+        "text": "El Arthur M. Blank National Training Center en Georgia tiene 200 acres, 19 canchas y 18.500 m2 de instalaciones. Sus socios incluyen a Oura (anillos inteligentes), Nike y robots autónomos que marcan las líneas."
       }
     },
     {
       "@type": "Question",
-      "name": "Como le fue a USA en la fase de grupos del Mundial 2026?",
+      "name": "¿Cómo le fue a USA en la fase de grupos del Mundial 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "USA lidero el Grupo D con 6 puntos y +5 de diferencia de gol. Contra Paraguay registro 53 toques en el area rival, el octavo registro mas alto desde 1966. Anoto en los primeros 15 minutos de ambos partidos."
+        "text": "USA lideró el Grupo D con 6 puntos y +5 de diferencia de gol. Contra Paraguay registró 53 toques en el área rival, el octavo registro más alto desde 1966. Anotó en los primeros 15 minutos de ambos partidos."
       }
     }
   ]

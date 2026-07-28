@@ -198,7 +198,7 @@ Accedé al análisis integral sobre inteligencia artificial en Paraguay en la [g
 <li><strong>A.L. Capital Advisory</strong> – <a href="https://alcapitaladvisory.com/research/intelligence/ai-infrastructure.html">"AI Capex Cycle 2026: $725B Hyperscaler Buildout — CFA Analysis"</a> (enero 2026)</li>
 <li><strong>Benson Kong</strong> – <a href="https://bkobog.substack.com/p/the-ai-capex-supercycle-725-billion">"The AI Capex Supercycle: $725 Billion, Bottlenecks Everywhere"</a> (mayo 2026)</li>
 <li>**Channel NewsAsia** — Jensen Huang entrevista (mayo 2026): citado en Financial Express</li>
-<li>**MIT Technology Review** — Economic viability of AI automation study (2024)</li>
+<li>**MIT CSAIL** — "Rethinking AI's impact: MIT CSAIL study reveals economic limits to job automation" (enero 2024)</li>
 <li>**S&P Global Market Intelligence** — AI initiative abandonment rates (2025-2026)</li>
 <li>**RAND Corporation** — AI project failure rates vs. non-AI projects</li>
 <li><strong>TechTimes</strong> – <a href="https://www.techtimes.com/articles/317058/20260523/starbucks-retires-nomadgo-inventory-ai-across-11000-stores-workers-had-recount-every-scan.htm">"Starbucks Retires NomadGo Inventory AI Across 11,000 Stores"</a> (23 mayo 2026)</li>
@@ -213,26 +213,26 @@ Accedé al análisis integral sobre inteligencia artificial en Paraguay en la [g
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Cuanto gasto Uber en IA en solo cuatro meses?",
+      "name": "¿Cuánto gastó Uber en IA en solo cuatro meses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Uber agoto todo su presupuesto anual de IA 2026 en solo cuatro meses tras implementar Claude Code para 5.000 ingenieros. La cuenta mensual oscilo entre USD 2,5 y 10 millones. El 70% del codigo commit hoy se origina con IA."
+        "text": "Uber agotó todo su presupuesto anual de IA 2026 en solo cuatro meses tras implementar Claude Code para 5.000 ingenieros. La cuenta mensual osciló entre USD 2,5 y 10 millones. El 70% del código commit hoy se origina con IA."
       }
     },
     {
       "@type": "Question",
-      "name": "Cuantas empresas estan retirando sus sistemas de IA?",
+      "name": "¿Cuántas empresas están retirando sus sistemas de IA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El 74% de las empresas que desplegaron IA en servicio al cliente ya las retiraron (encuesta a 2.527 empresas). El 42% abandono la mayoria de sus iniciativas de IA en 2025. Solo el 28% de los proyectos de IA cumplen completamente su caso de negocio."
+        "text": "El 74% de las empresas que desplegaron IA en servicio al cliente ya las retiraron (encuesta a 2.527 empresas). El 42% abandonó la mayoría de sus iniciativas de IA en 2025. Solo el 28% de los proyectos de IA cumplen completamente su caso de negocio."
       }
     },
     {
       "@type": "Question",
-      "name": "Cuanto gastan las grandes tecnologicas en infraestructura de IA?",
+      "name": "¿Cuánto gastan las grandes tecnológicas en infraestructura de IA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Amazon, Google, Microsoft y Meta gastaran aproximadamente USD 725.000 millones en capex de IA en 2026, un 77% mas que en 2025. Goldmann Sachs calcula que necesitan generar USD 1 billon en ingresos anuales adicionales para 2027."
+        "text": "Amazon, Google, Microsoft y Meta gastarán aproximadamente USD 725.000 millones en capex de IA en 2026, un 77% más que en 2025. Goldman Sachs calcula que necesitan generar USD 1 billón en ingresos anuales adicionales para 2027."
       }
     }
   ]

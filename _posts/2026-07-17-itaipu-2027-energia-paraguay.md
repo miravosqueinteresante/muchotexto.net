@@ -10,7 +10,7 @@ description: "El Anexo C de Itaipú vence en 2027. Las negociaciones siguen cong
 
 El 26 de abril de 1973, Paraguay y Brasil firmaron el Tratado de Itaipú. Cincuenta y tres años después, la represa hidroeléctrica con mayor generación acumulada de la historia —14.000 megavatios instalados, 20 turbinas de 700 megavatios cada una— produce más electricidad que cualquier otra central del planeta y representa aproximadamente el 12% de los ingresos del Estado paraguayo. En 2027, el Anexo C del tratado —el documento que fija el precio al que Paraguay le vende su energía excedente a Brasil— llega a su fin. Las negociaciones para renovarlo están congeladas desde abril de 2025, cuando se reveló que la Agencia Brasileña de Inteligencia espió a funcionarios paraguayos involucrados en la discusión.
 
-Paraguay se enfrenta a una paradoja. Genera ocho veces más electricidad de la que consume. El 90% de su energía de Itaipú se vende a Brasil a un precio que no se determina por el mercado sino por una negociación diplomática, y cuya renegociación está paralizada por un escándalo de espionaje. Este artículo explica qué está en juego, cuánto vale y qué puede pasar.
+Paraguay se enfrenta a una paradoja. Genera aproximadamente 2,5 veces más electricidad de la que consume —unos 8.250 megavatios instalados entre Itaipú, Yacyretá y Acaray para una demanda pico de 3.000 a 3.500 megavatios—. De su mitad de Itaipú, consume menos del 10% y el resto se vende a Brasil a un precio que no se determina por el mercado sino por una negociación diplomática, y cuya renegociación está paralizada por un escándalo de espionaje. Este artículo explica qué está en juego, cuánto vale y qué puede pasar.
 
 ## Lo que dice el Anexo C (y lo que no)
 
@@ -26,7 +26,7 @@ Si no hay acuerdo, la tarifa no desaparece —cae al costo de producción. Los e
 
 Paraguay tiene un problema anterior a la negociación con Brasil. No puede usar la energía que ya tiene.
 
-La Administración Nacional de Electricidad opera una red de transmisión que no fue diseñada para transportar los 7.000 megavatios que le corresponden a Paraguay de Itaipú. El techo de la red de ANDE está en aproximadamente 1.700 megavatios —un problema que analizamos en detalle en [el diagnóstico de la red eléctrica paraguaya]({% post_url 2026-07-08-red-electrica-paraguay-ia %})—. Las pérdidas de distribución alcanzan el 31% —casi un tercio de la electricidad se pierde antes de llegar al consumidor—. La subestación Emboscada, un proyecto de 140 millones de dólares financiado en parte por el BID, está en construcción pero no va a resolver el problema por sí sola.
+La Administración Nacional de Electricidad opera una red de transmisión que no fue diseñada para transportar los 7.000 megavatios que le corresponden a Paraguay de Itaipú. La capacidad de transmisión de la ANDE es limitada —la única línea de 500 kV del país, el doble circuito Yguazú–Valenzuela, tiene apenas 50 kilómetros—, un problema que analizamos en detalle en [el diagnóstico de la red eléctrica paraguaya]({% post_url 2026-07-08-red-electrica-paraguay-ia %}). Las pérdidas de distribución alcanzan el 31% —casi un tercio de la electricidad se pierde antes de llegar al consumidor—. La subestación Emboscada, un proyecto de 140 millones de dólares financiado en parte por el BID, está en construcción pero no va a resolver el problema por sí sola.
 
 Esto significa que incluso si Paraguay obtuviera las mejores condiciones posibles en la renegociación —más energía para uso propio, libertad total de venta a terceros—, no tendría cómo transportarla. La energía está en Itaipú, en la frontera con Brasil, a 300 kilómetros de Asunción. La línea de transmisión que debería llevarla a los centros de consumo no existe.
 
@@ -101,7 +101,7 @@ Leé el análisis completo sobre infraestructura y energía en la [guía de inte
       "name": "¿Por qué Paraguay no usa más energía de Itaipú para consumo propio?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Porque la red de transmisión de ANDE no tiene capacidad para transportarla. El techo de la red está en aproximadamente 1.700 MW, mientras que Paraguay tiene derecho a 7.000 MW de Itaipú. Las pérdidas de distribución alcanzan el 31%. Faltan líneas de 500 kilovoltios que conecten la represa —ubicada en la frontera con Brasil, a 300 km de Asunción— con los centros de consumo."
+        "text": "Porque la red de transmisión de ANDE no tiene capacidad para transportarla. La única línea de 500 kV del país tiene apenas 50 km, mientras que Paraguay tiene derecho a 7.000 MW de Itaipú. Las pérdidas de distribución alcanzan el 31%. Faltan líneas de 500 kilovoltios que conecten la represa —ubicada en la frontera con Brasil, a 300 km de Asunción— con los centros de consumo."
       }
     }
   ]

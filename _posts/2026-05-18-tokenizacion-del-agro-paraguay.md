@@ -234,7 +234,7 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
       "name": "Que le falta a Paraguay para una tokenizacion segura?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay carece de catastro rural completo (menos del 60% de cobertura), conectividad rural (74%), auditaria obligatoria de smart contracts, y proteccion de datos efectiva. Ademas, el 40% de la tierra agricola esta en manos del 0,07% de los propietarios."
+        "text": "Paraguay carece de catastro rural completo (menos del 60% de cobertura), conectividad rural (74%), auditoria obligatoria de smart contracts, y proteccion de datos efectiva. Ademas, el 40% de la tierra agricola esta en manos del 0,07% de los propietarios."
       }
     }
   ]

@@ -42,7 +42,7 @@ Y hay un riesgo adicional que los casos de fracaso documentan con crudeza. El si
 
 ## Lo que Paraguay necesita para tener su ALICE
 
-Paraguay no necesita desarrollar un sistema desde cero. ALICE es de código abierto. El código está disponible. Lo que necesita son tres cosas que ya debería tener.
+Paraguay no necesita desarrollar un sistema desde cero. ALICE es ofrecido gratuitamente por la Contraloría brasileña a estados y municipios. Lo que necesita son tres cosas que ya debería tener.
 
 La primera es una institución con independencia real para operarlo. La Contraloría General de la Unión brasileña es un organismo del Poder Ejecutivo, pero con auditores de carrera y estabilidad funcional que le dan autonomía operativa. La Contraloría General de la República paraguaya tiene menos autonomía presupuestaria, menos personal y menos capacidad técnica —una debilidad institucional que, [como vimos en el análisis de ciberseguridad]({% post_url 2026-07-17-ciberseguridad-paraguay %}), se repite en múltiples agencias del Estado—. Sin una institución de control que pueda actuar sobre las alertas sin interferencia política, un ALICE paraguayo sería un sistema que emite señales que nadie responde.
 
@@ -61,7 +61,7 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
 - [Transparencia Internacional — Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)
 - [DNCP — Dirección Nacional de Contrataciones Públicas: datos abiertos](https://www.contrataciones.gov.py/)
 - [CGU Brasil — Sistema ALICE](https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/alice)
-- [Colonnelli & Prem — "Corruption and AI in Procurement" (Review of Economics and Statistics, 2022)](https://doi.org/10.1162/rest_a_01234)
+- Colonnelli & Prem — "Corruption and AI in Procurement" (Review of Economics and Statistics, 2022)
 - [Wikipedia — British Post Office Horizon scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
 - [Wikipedia — Robodebt scheme (Australia)](https://en.wikipedia.org/wiki/Robodebt_scheme)
 - [U4 Anti-Corruption Resource Centre — "Artificial Intelligence and Anti-Corruption"](https://www.u4.no/publications) (2019)
@@ -77,7 +77,7 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
       "name": "¿Qué es ALICE, el sistema brasileño anticorrupción?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "ALICE (Análise de Licitações, Contratos e Editais) es un sistema de inteligencia artificial desarrollado por la Contraloría General de la Unión de Brasil desde 2015. Lee pliegos de licitación en tiempo real, cruza precios de mercado y detecta anomalías. Costó aproximadamente USD 1 millón y generó R$ 1.250 millones en beneficios. Es de código abierto: cualquier país puede descargarlo gratis."
+        "text": "ALICE (Análise de Licitações, Contratos e Editais) es un sistema de inteligencia artificial desarrollado por la Contraloría General de la Unión de Brasil desde 2015. Lee pliegos de licitación en tiempo real, cruza precios de mercado y detecta anomalías. Costó aproximadamente USD 1 millón y generó R$ 1.250 millones en beneficios. Es ofrecido gratuitamente por la Contraloría brasileña a estados y municipios."
       }
     },
     {

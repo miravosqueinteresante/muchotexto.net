@@ -46,7 +46,7 @@ Los países que construyeron ecosistemas startups desde una base similar a la de
 
 Costa Rica demostró que una sola empresa ancla —Intel, en su caso— puede catalizar un ecosistema entero, formando ingenieros que después fundan sus propias startups. Estonia mostró que un país pequeño y sin recursos naturales puede convertirse en un hub tecnológico global si el gobierno crea las condiciones regulatorias adecuadas.
 
-Paraguay tiene ventajas que ninguno de esos países tenía cuando empezaron. Sus impuestos corporativos del 10% son de los más bajos del hemisferio, mientras que Chile cobra 27% y Uruguay 25%, uno de los más bajos del hemisferio; la [energía más barata de Sudamérica]({% post_url 2026-07-08-red-electrica-paraguay-ia %}), ideal para startups que trabajan con infraestructura intensiva en cómputo como la inteligencia artificial; y una regulación fintech que el Banco Central está desarrollando activamente, como vimos al analizar el [ecosistema fintech del país]({% post_url 2026-07-10-fintech-paraguay-ecosistema %}).
+Paraguay tiene ventajas que ninguno de esos países tenía cuando empezaron. Sus impuestos corporativos del 10% son de los más bajos del hemisferio —Chile cobra 27% y Uruguay 25%—; la [energía más barata de Sudamérica]({% post_url 2026-07-08-red-electrica-paraguay-ia %}), ideal para startups que trabajan con infraestructura intensiva en cómputo como la inteligencia artificial; y una regulación fintech que el Banco Central está desarrollando activamente, como vimos al analizar el [ecosistema fintech del país]({% post_url 2026-07-10-fintech-paraguay-ecosistema %}).
 
 Lo que falta no es talento. Es capital inicial, una cultura de riesgo que acepte el fracaso como parte del proceso, y conexiones con los mercados globales. Paraguay está formando a los ingenieros. Está desarrollando la infraestructura —desde los data centers hasta la conectividad—. Pero las startups no crecen solo con energía barata y buenos programadores. Crecen con dinero que apueste a ideas que pueden fracasar, y con fundadores que tengan acceso a redes globales de inversión y mentoría. Esas dos cosas son las que todavía no existen. El interés de fondos internacionales existe, pero el puente entre ese interés global y los fundadores locales sigue siendo débil. Construirlo requiere inversión, tiempo y una comunidad que todavía se está formando paso a paso, con más preguntas que respuestas sobre su futuro.
 
@@ -60,8 +60,8 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [InnovandoPY — MITIC](https://mitic.gov.py/innovandopy)
 - [CONACYT — PROINNOVA](https://www.conacyt.gov.py/)
 - [StartupBlink — Global Startup Ecosystem Index 2025](https://www.startupblink.com/startup-ecosystem/paraguay)
-- [La Nación — "Startups paraguayas que están revolucionando la tecnología"](https://www.lanacion.com.py/negocios/2025/11/20/startups-paraguayas-que-estan-revolucionando-la-tecnologia/) (20 noviembre 2025)
-- [ABC Color — "KOGA Impact Lab: 14 años impulsando el emprendimiento tecnológico"](https://www.abc.com.py/negocios/2025/08/15/koga-impact-lab-14-anos-impulsando-el-emprendimiento-tecnologico-en-paraguay/) (15 agosto 2025)
+- La Nación — "Startups paraguayas que están revolucionando la tecnología" (20 noviembre 2025)
+- ABC Color — "KOGA Impact Lab: 14 años impulsando el emprendimiento tecnológico en Paraguay" (15 agosto 2025)
 
 <script type="application/ld+json">
 {

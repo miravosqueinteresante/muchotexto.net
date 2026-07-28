@@ -44,7 +44,7 @@ Esto es inédito. Brasil, Chile y Uruguay tienen data centers de Google, Microso
 
 ### El timing del mercado
 
-La demanda global de cómputo para inteligencia artificial está en crecimiento explosivo. El mercado de data centers en Latinoamérica se valoró en 7.160 millones de dólares en 2024 y se proyecta que alcance los 14.300 millones para 2030. La región concentra el 6,6% del PIB mundial pero solo recibe el 1,12% de la inversión global en IA. Esa brecha es una ventana de oportunidad.
+La demanda global de cómputo para inteligencia artificial está en crecimiento explosivo. El mercado de data centers en Latinoamérica se valoró en 7.160 millones de dólares en 2024 y se proyecta que alcance los 14.300 millones para 2030. La región concentra el 6,6% del PIB mundial pero solo recibe el 1,28% de la inversión global en IA. Esa brecha es una ventana de oportunidad.
 
 En el primer semestre de 2025 se anunciaron 380.000 millones de dólares en compromisos de IA y data centers entre Brasil, Chile, México, Argentina y Paraguay. El pastel se está repartiendo ahora. Llegar temprano —con un socio que controla la cadena de chips— no es irrelevante.
 
@@ -60,9 +60,9 @@ El Fondo de Cooperación y Desarrollo Internacional de Taiwán (ICDF) ya contact
 
 ### La paradoja energética: producir no es entregar
 
-Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, tiene un techo de transmisión de aproximadamente 1.700 megavatios y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
+Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red cuya única línea de 500 kV —el doble circuito Yguazú–Valenzuela— tiene apenas 50 kilómetros. Las pérdidas en distribución alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
 
-La Fase III del proyecto requeriría 1.500 megavatios. Es decir, casi toda la capacidad actual de transmisión del país, dedicada exclusivamente a un solo data center. Sin una inversión masiva en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
+La Fase III del proyecto requeriría 1.500 megavatios —el equivalente a más de dos turbinas de Itaipú—, una carga que la red de transmisión actual, con solo 50 kilómetros de líneas de 500 kV, no podría soportar. Sin una inversión masiva en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
 
 La renegociación del Tratado de Itaipú en 2027 es una variable crítica. Paraguay podría recuperar soberanía sobre su excedente energético y destinarlo a proyectos propios, o podría encontrarse con condiciones menos favorables. El resultado de esa negociación define si Yguazú Digital tiene la energía que necesita o si se queda en un anuncio sin voltaje.
 
@@ -169,7 +169,7 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
       "name": "Cuales son los principales riesgos de Yguazu Digital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La red de ANDE tiene un techo de ~1.700 MW con perdidas del 31%. Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwan, su unico aliado sudamericano."
+        "text": "La red de ANDE tiene solo 50 km de lineas de 500 kV y perdidas del 31%. Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwan, su unico aliado sudamericano."
       }
     }
   ]

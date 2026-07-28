@@ -8,7 +8,7 @@ tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay tiene CERT-PY desde 2012 y ratificó el Convenio de Budapest. Pero en 2024 hackers chinos infiltraron el gobierno y en 2025 un ataque paralizó 18 agencias públicas."
 ---
 
-En 2012, Paraguay creó su Centro de Respuesta a Incidentes de Seguridad Informática. Lo llamó CERT-PY. Trece años después, en julio de 2026, el gobierno de Estados Unidos y el gobierno de Paraguay emitieron una declaración conjunta denunciando que actores cibernéticos vinculados a China habían comprometido sistemas informáticos del gobierno paraguayo. No era la primera vez. En 2024, el grupo Flax Typhoon —asociado a la inteligencia china— ya había infiltrado redes gubernamentales paraguayas. En junio de 2025, un ataque de ransomware a un proveedor del Estado expuso millones de registros de ciudadanos y paralizó 18 agencias públicas.
+En 2012, Paraguay creó su Centro de Respuesta a Incidentes de Seguridad Informática. Lo llamó CERT-PY. Trece años después, en julio de 2026, el gobierno de Estados Unidos y el gobierno de Paraguay emitieron una declaración conjunta denunciando que actores cibernéticos vinculados a China habían comprometido sistemas informáticos del gobierno paraguayo. No era la primera vez. En 2024, el grupo Flax Typhoon —asociado a la inteligencia china— ya había infiltrado redes gubernamentales paraguayas. En junio de 2025, un ataque de ransomware a un proveedor del Estado expuso 7,4 millones de registros de ciudadanos y paralizó 18 agencias públicas.
 
 Paraguay tiene un centro de ciberseguridad. Tiene una estrategia nacional aprobada por decreto. Ratificó el Convenio de Budapest contra el cibercrimen. Y sin embargo, en los últimos dos años fue atacado por una potencia extranjera, sufrió la mayor filtración de datos de su historia y mantiene congelada la negociación más importante de su política energética por un caso de espionaje. Este artículo mide la distancia entre la defensa que Paraguay dice tener y la que realmente necesita.
 
@@ -16,7 +16,7 @@ Paraguay tiene un centro de ciberseguridad. Tiene una estrategia nacional aproba
 
 CERT-PY fue creado el 30 de noviembre de 2012, depende del Ministerio de Tecnologías de la Información y Comunicación, y está dirigido por Diana Valdez. Opera como el CSIRT nacional —el equipo de respuesta a incidentes de seguridad informática— y mantiene un centro de operaciones de seguridad gubernamental activo. Publica boletines diarios de vulnerabilidades, audita sistemas web del Estado y realiza ejercicios de simulación de ciberataques con instituciones públicas. Su presupuesto y tamaño de equipo no son públicos.
 
-En mayo de 2025, el Poder Ejecutivo aprobó por Decreto 3900 la Estrategia Nacional de Ciberseguridad 2025-2028, elaborada con apoyo de la Organización de los Estados Americanos. Es la primera estrategia formal de ciberseguridad en la historia del país. Establece diagnósticos, prioridades y líneas de acción. Llegó once años después de que el centro de respuesta a incidentes empezara a operar.
+En mayo de 2025, el Poder Ejecutivo aprobó por Decreto 3900 la Estrategia Nacional de Ciberseguridad 2025-2028, elaborada con apoyo de la Organización de los Estados Americanos. Es la primera estrategia formal de ciberseguridad en la historia del país. Establece diagnósticos, prioridades y líneas de acción. Llegó doce años después de que el centro de respuesta a incidentes empezara a operar.
 
 Paraguay ratificó el Convenio de Budapest sobre cibercrimen —el principal instrumento internacional de cooperación contra delitos informáticos— y tiene la obligación de mantener un punto de contacto disponible las 24 horas para asistencia internacional. No tiene una ley específica de delitos informáticos. No tiene una ley integral de protección de datos personales en vigor —la Ley 7593/2025 fue promulgada pero entra en vigencia en noviembre de 2027, [como analizamos en detalle en nuestro artículo sobre protección de datos]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})—. Su marco de ciberseguridad opera principalmente mediante resoluciones del MITIC que obligan a las instituciones públicas a reportar incidentes y adoptar controles de seguridad.
 
@@ -30,7 +30,7 @@ En 2024, el grupo Flax Typhoon —un actor de amenazas persistentes avanzadas vi
 
 En abril de 2025, la Agencia Brasileña de Inteligencia fue acusada de espiar a funcionarios paraguayos involucrados en la negociación del Anexo C de Itaipú. Paraguay suspendió indefinidamente todas las negociaciones con Brasil, [un escenario que analizamos en profundidad en el contexto del Anexo C de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %}). El caso expuso algo más grave que la tensión diplomática: reveló que actores estatales —aliados o adversarios— consideran a Paraguay un objetivo legítimo de operaciones de inteligencia ofensiva, y que la capacidad paraguaya de detectar esas operaciones es limitada.
 
-En junio de 2025, un ataque de ransomware contra un proveedor de servicios tecnológicos del Estado paraguayo paralizó los sistemas de al menos 18 agencias gubernamentales. Los atacantes cifraron datos y exigieron un rescate millonario. Millones de registros de ciudadanos quedaron expuestos y las instituciones afectadas operaron sin acceso a sus sistemas de gestión durante días.
+En junio de 2025, un ataque de ransomware contra un proveedor de servicios tecnológicos del Estado paraguayo paralizó los sistemas de al menos 18 agencias gubernamentales. Los atacantes cifraron datos y exigieron un rescate millonario. Al menos 7,4 millones de registros de ciudadanos quedaron expuestos y las instituciones afectadas operaron sin acceso a sus sistemas de gestión durante días.
 
 En julio de 2026, Estados Unidos y Paraguay emitieron una declaración conjunta denunciando "operaciones cibernéticas maliciosas chinas" contra sistemas del gobierno paraguayo. El comunicado mencionaba explícitamente a actores vinculados a la República Popular China y señalaba que las operaciones estaban dirigidas a infraestructura gubernamental crítica.
 
@@ -61,13 +61,13 @@ Leé el análisis completo sobre geopolítica y regulación en la [guía de inte
 ## Fuentes
 
 - [MITIC — CERT-PY](https://www.cert.gov.py/) — boletines, SOC gubernamental, Estrategia Nacional de Ciberseguridad 2025-2028
-- [Wikipedia — Paraguay and the Budapest Convention](https://en.wikipedia.org/wiki/Convention_on_Cybercrime) — ratificación, obligaciones
+- [Wikipedia — Budapest Convention on Cybercrime](https://en.wikipedia.org/wiki/Budapest_Convention_on_Cybercrime) — ratificación, obligaciones
 - [Wikipedia — Colonial Pipeline ransomware attack](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack) — vector de ataque, costo
 - [Sophos — The State of Ransomware 2026](https://www.sophos.com/en-us/content/state-of-ransomware) — estadísticas globales
 - [ISC2 — Cybersecurity Workforce Study 2025](https://www.isc2.org/research/workforce-study) — brecha de talento global
 - [El País — "Paraguay convoca al embajador de Brasil por un caso de espionaje"](https://elpais.com/america/2025-04-02/paraguay-convoca-al-embajador-de-brasil-en-asuncion-por-un-caso-de-espionaje.html) (abril 2025)
 - [Declaración conjunta EEUU-Paraguay — Operaciones cibernéticas chinas](https://www.state.gov/) (10 julio 2026)
-- [Wikipedia — 2022 Costa Rica ransomware attack](https://en.wikipedia.org/wiki/2022_Costa_Rica_ransomware_attack) — emergencia nacional, costo
+- [CSIS — "Costa Rica: The Canary in the Coal Mine of Ransomware"](https://www.csis.org/analysis/costa-rica-canary-coal-mine-ransomware) — emergencia nacional, costo estimado
 
 <script type="application/ld+json">
 {

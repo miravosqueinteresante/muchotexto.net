@@ -42,7 +42,7 @@ Si el costo de la electricidad y la demografía juvenil son las ventajas operati
 
 Una empresa de anotación de datos que exporta servicios hace exactamente eso: recibe datasets de clientes en el extranjero, los procesa con trabajadores locales y devuelve datos etiquetados. Bajo el régimen de maquila, esa operación convierte a Paraguay en uno de los países con menor carga impositiva corporativa del mundo. La tasa general de renta empresarial ya es la más baja de América Latina (10%), pero bajo maquila se reduce a cero. Compárese con el 35% de Colombia, el 30% de México o el 29.5% de Perú.
 
-Paraguay también tiene la deuda pública más baja de la región (19.5% del PIB), un déficit fiscal controlado (1.1%) y un crecimiento del PIB proyectado en 3.8% para 2025, según el FMI. Para un inversor que planifica una operación a diez años, esa estabilidad macroeconómica vale más que cualquier subsidio.
+Paraguay también tiene la deuda pública externa más baja de la región (19.5% del PIB), un déficit fiscal controlado (1.1%) y un crecimiento del PIB proyectado en 3.8% para 2025, según el FMI. Para un inversor que planifica una operación a diez años, esa estabilidad macroeconómica vale más que cualquier subsidio.
 
 ## Trabajo fantasma, trauma vicario y el espejo en el que Paraguay no debería mirarse
 
