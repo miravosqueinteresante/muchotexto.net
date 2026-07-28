@@ -3,6 +3,7 @@ layout: page
 title: Cómo trabajamos
 permalink: /como-trabajamos/
 description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuentes, verificamos datos, usamos inteligencia artificial y corregimos errores."
+last_modified_at: 2026-07-27
 ---
 
 **muchotexto.net** es el observatorio de inteligencia artificial en Paraguay. Utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
@@ -21,7 +22,7 @@ La IA asiste en tres tareas específicas:
 - **Síntesis estructurada**: organiza la información en categorías temáticas (política, economía, seguridad, deportes, cultura), estima la temperatura social de cada tema y redacta resúmenes basados exclusivamente en el contenido de las fuentes.
 - **Análisis editorial**: a partir del resumen diario, genera un artículo de opinión que busca patrones, conexiones y preguntas relevantes sobre la realidad paraguaya.
 
-Para el Pulso Paraguay y la Editorial Diaria, el modelo principal es **GPT-4o** (OpenAI), ejecutado a través de GitHub Models. Cada interacción con la IA está gobernada por un _system prompt_ que establece reglas estrictas: no inventar hechos ni nombres, no especular sin fundamento, usar español paraguayo natural y mantener una perspectiva crítica pero no partidista.
+Para el Pulso Paraguay y la Editorial Diaria, el modelo principal es **GPT-4o** (OpenAI), ejecutado a través de GitHub Models. Para los artículos de fondo, usamos **DeepSeek** como modelo principal de investigación y redacción asistida. Cada modelo se asigna según la tarea: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario. Cada interacción con la IA está gobernada por un _system prompt_ que establece reglas estrictas: no inventar hechos ni nombres, no especular sin fundamento, usar español paraguayo natural y mantener una perspectiva crítica pero no partidista. La tabla completa de modelos está al final de esta página.
 
 La IA **no decide** qué se publica ni cuál es la línea editorial. Su rol es exclusivamente instrumental: leer, resumir, organizar y redactar borradores.
 
@@ -59,7 +60,7 @@ Los artículos de fondo siguen un proceso estructurado de 11 pasos donde la IA a
     - **`llms.txt`**: agregar el artículo al pilar correspondiente.
     Cada página actualizada incrementa su `last_modified_at`. No todas las páginas se actualizan en cada artículo — solo las que tengan contenido nuevo que aportar.
 
-Además, aplicamos una **auditoría programada**: cada 5 artículos nuevos, re-auditamos los artículos más antiguos no auditados contra sus fuentes originales. Mantenemos un **registro de verificación** con la fecha del último chequeo de cada artículo — al 27 de julio de 2026, 34 de los 36 artículos publicados fueron auditados, con más de 40 correcciones aplicadas. Cada artículo nuevo se audita antes de publicarse; ningún artículo sale sin pasar por fact-check.
+Además, aplicamos una **auditoría programada**: cada 5 artículos nuevos, re-auditamos los artículos más antiguos no auditados contra sus fuentes originales. Mantenemos un **registro de verificación** con la fecha del último chequeo de cada artículo — los números se actualizan con cada auditoría. Cada artículo nuevo se audita antes de publicarse; ningún artículo sale sin pasar por fact-check. Este proceso detectó y corrigió más de 40 errores en las auditorías de julio de 2026.
 
 También aplicamos una **regla estricta de fuentes**: cada URL en la sección Fuentes debe apuntar al reporte, artículo o página específica que respalda el dato — no al dominio raíz de la fuente. Esto corrige una debilidad histórica del sitio donde varios artículos linkeaban homepages genéricas en vez de contenido verificable.
 
