@@ -112,7 +112,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 
 ---
 
-Cada semana publicamos uno o dos artículos nuevos. Esta guía se actualiza con cada publicación. Si querés recibir los análisis cuando salen, el feed RSS está en [muchotexto.net/feed.xml](/feed.xml).
+El observatorio se actualiza con cada investigación nueva. Esta guía refleja el estado más reciente de nuestro trabajo. Si querés recibir los análisis cuando salen, el feed RSS está en [muchotexto.net/feed.xml](/feed.xml).
 
 <script type="application/ld+json">
 {
