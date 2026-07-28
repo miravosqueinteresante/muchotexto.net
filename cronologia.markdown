@@ -6,7 +6,7 @@ description: "Hitos de la inteligencia artificial, tecnología y energía en Par
 last_modified_at: 2026-07-24
 ---
 
-Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. *Última actualización: 24 de julio de 2026.*
+Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. 
 
 ## 1973 — 2009
 

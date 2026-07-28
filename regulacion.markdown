@@ -6,7 +6,7 @@ description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decr
 last_modified_at: 2026-07-27
 ---
 
-Cada norma enlaza con el artículo completo donde se analiza en profundidad. *Última actualización: 27 de julio de 2026.*
+Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
 
 ## Protección de datos y privacidad
 

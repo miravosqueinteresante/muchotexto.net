@@ -6,7 +6,7 @@ description: "Como se usa la inteligencia artificial en sectores productivos de 
 last_modified_at: 2026-07-27
 ---
 
-Cada caso enlaza con el artículo completo. *Última actualización: 27 de julio de 2026.*
+Cada caso enlaza con el artículo completo. 
 
 ## Agro
 
