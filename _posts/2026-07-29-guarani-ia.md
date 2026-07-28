@@ -24,7 +24,7 @@ El problema no es técnico. Es de datos. Entrenar un modelo de reconocimiento de
 
 Meta entrenó su modelo MMS (Massively Multilingual Speech) en 1.107 idiomas usando grabaciones de la Biblia como fuente principal. Es una solución ingeniosa pero limitada: el corpus bíblico tiene un registro lingüístico muy específico que no sirve para entender a una persona pidiendo un turno médico o denunciando un abuso. El guaraní necesita datos diversos: conversaciones cotidianas, noticias, consultas.
 
-La Secretaría de Políticas Lingüísticas (SPL) de Paraguay —el organismo estatal que debería liderar esta tarea— tiene cuatro direcciones y presupuesto para publicaciones impresas, no para datasets de entrenamiento. La Constitución de 1992 declaró al guaraní idioma oficial junto con el español (Artículo 140). La Ley de Lenguas 4251 de 2010 creó la SPL y estableció la obligación estatal de promover ambas lenguas en igualdad de condiciones. En papel, Paraguay es un país bilingüe. En la práctica digital, no.
+La Secretaría de Políticas Lingüísticas (SPL) de Paraguay —el organismo estatal que debería liderar esta tarea— tiene tres direcciones generales según la Ley 4251 (Planificación Lingüística, Investigación Lingüística, Documentación y Promoción de Lenguas Indígenas) y presupuesto para publicaciones impresas, no para datasets de entrenamiento. La Constitución de 1992 declaró al guaraní idioma oficial junto con el español (Artículo 140). La Ley de Lenguas 4251 de 2010 creó la SPL y estableció la obligación estatal de promover ambas lenguas en igualdad de condiciones. En papel, Paraguay es un país bilingüe. En la práctica digital, no.
 
 Entre 2002 y 2012, el uso del guaraní cayó aproximadamente 10 puntos porcentuales según los censos nacionales. La causa más citada por los investigadores no es la discriminación —que existe— sino la ausencia del guaraní en internet, en los celulares, en las aplicaciones. Una lengua que no se puede hablar con un asistente de voz es una lengua que los jóvenes abandonan porque no les sirve para el mundo en el que viven.
 
@@ -40,11 +40,11 @@ Sobre esa base, el equipo técnico —liderado por Neyen Luchelli en el desarrol
 
 El guaraní no es la primera lengua minorizada que enfrenta este desafío. Los casos de éxito comparten un patrón.
 
-Nueva Zelanda invirtió durante años en tecnología para el maorí —lengua oficial junto con el inglés, hablada por unas 185.000 personas— a través de Te Hiku Media, una organización comunitaria maorí que desarrolló modelos de reconocimiento de voz con soberanía de datos: el dataset no se entrega a las grandes tecnológicas, se mantiene bajo control de la comunidad.
+Nueva Zelanda invirtió durante años en tecnología para el maorí —lengua oficial junto con el inglés, hablada por unas 213.000 personas según el censo de 2023— a través de Te Hiku Media, una organización comunitaria maorí que desarrolló modelos de reconocimiento de voz con soberanía de datos: el dataset no se entrega a las grandes tecnológicas, se mantiene bajo control de la comunidad.
 
-En Cataluña, el proyecto AINA —financiado por la Generalitat y ejecutado desde el Barcelona Supercomputing Center— creó datasets y modelos de IA para el catalán. Por separado, el gobierno español lanzó el proyecto NEL/VIVES desde el mismo BSC para desarrollar recursos de IA en todas las lenguas cooficiales del Estado.
+En Cataluña, el proyecto AINA —financiado por la Generalitat y ejecutado desde el Barcelona Supercomputing Center— creó datasets y modelos de IA para el catalán. Por separado, el gobierno español lanzó el programa ILENIA, que agrupa proyectos para cada lengua cooficial: AINA (catalán), GAITU (euskera), NÓS (gallego) y VIVES (valenciano), con el BSC como coordinador.
 
-El galés —aproximadamente 900.000 hablantes, la octava parte que el guaraní— cuenta con más herramientas de IA gracias a años de inversión pública sostenida. La diferencia no está en la cantidad de hablantes. Está en la decisión política de invertir.
+El galés —con aproximadamente 538.000 hablantes según el censo de 2021, la décima parte que el guaraní— cuenta con más herramientas de IA gracias a años de inversión pública sostenida. La diferencia no está en la cantidad de hablantes. Está en la decisión política de invertir.
 
 El contraejemplo es el quechua. Google lo agregó a Google Translate en 2022. La precisión es tan baja que las comunidades quechuahablantes lo consideran poco confiable para comunicación real. El problema no fue la tecnología —Google tiene los mejores modelos de traducción del mundo— sino el enfoque: lanzar una funcionalidad para un comunicado de prensa, sin involucrar a la comunidad de hablantes en el diseño ni en la validación.
 
