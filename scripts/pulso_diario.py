@@ -75,6 +75,7 @@ RSS_FEEDS = [
     ("El Nacional", "https://www.elnacional.com.py/feed/"),
     ("La Nación", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
     ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
+("La Tribuna CyT", "https://www.latribuna.com.py/arc/outboundfeeds/rss/lifestyle/ciencia-y-tecnologia/"),
     ("NPY", "https://www.npy.com.py/index.rss"),
     ("Megacadena", "https://www.megacadena.com.py/feed/"),
     ("RDN", "https://www.rdn.com.py/feed/"),
@@ -179,7 +180,7 @@ INSTRUCCIONES:
 7. Sin opiniones personales del agente — solo síntesis de lo que circula.
 8. NO uses formato markdown como **negritas** o *cursiva* — solo texto plano.
 9. Cada categoría (🏛💰⚽🎭🚨💻🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
-10. La sección 💻 TECNOLOGÍA debe cubrir noticias sobre innovación, ciencia, internet, startups, inteligencia artificial o telecomunicaciones. Revisá especialmente las noticias etiquetadas como ABC Tecnología y ABC Ciencia. Si realmente no hay ninguna noticia de tecnología en los feeds de hoy, solo en ese caso indicá "Sin novedades relevantes de tecnología hoy."
+10. La sección 💻 TECNOLOGÍA debe cubrir noticias sobre innovación, ciencia, internet, startups, inteligencia artificial o telecomunicaciones. Revisá especialmente las noticias de ABC Tecnología, ABC Ciencia y La Tribuna CyT. Si realmente no hay ninguna noticia de tecnología en los feeds de hoy, solo en ese caso indicá "Sin novedades relevantes de tecnología hoy."
 11. La sección 🔎 FUENTES CONSULTADAS HOY debe listar EXACTAMENTE los medios que aparecen en la línea "FUENTES CONSULTADAS HOY" más abajo. NO agregues ni quites fuentes. Copiala textual.
 
 FORMATO EXACTO DEL REPORTE (respetá esta estructura):
