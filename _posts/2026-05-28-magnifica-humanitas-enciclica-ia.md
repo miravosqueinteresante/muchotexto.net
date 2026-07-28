@@ -14,6 +14,12 @@ El 25 de mayo de 2026, el Vaticano publicó la primera encíclica del pontificad
 
 Este artículo es una lectura comentada de ese documento, una exploración de sus ideas centrales y un intento de responder a la pregunta que deja flotando: ¿qué tiene que ver esto con nosotros?
 
+> **En resumen:**
+> - El Papa León XIV publicó *Magnifica Humanitas* el 25 de mayo de 2026, la primera encíclica sobre inteligencia artificial de la historia —135 años después de *Rerum Novarum*.
+> - Declara que la IA no es neutral: sin supervisión humana y límites éticos, degrada el trabajo, la privacidad y la dignidad.
+> - Propone un "humanismo digital" con tres principios: la máquina al servicio del trabajo (no al revés), la privacidad como derecho humano, y la conciencia humana como límite infranqueable de la automatización. 
+> - No condena la tecnología sino su uso sin criterio moral, y llama a legisladores, desarrolladores y ciudadanos a decidir qué tipo de futuro quieren construir.
+
 ---
 
 ## 1. Un Papa que sabe de dónde viene
