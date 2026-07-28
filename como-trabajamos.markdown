@@ -84,6 +84,8 @@ La combinación de múltiples modelos permite aprovechar las fortalezas de cada 
 
 ## Cómo verificamos los datos
 
+Nuestro método de verificación varía según el tipo de contenido:
+
 - **Pulso Paraguay y Editorial Diaria**: toda afirmación fáctica proviene de las fuentes originales procesadas ese día. La IA no genera datos propios. Si una fuente se equivoca, podemos heredar ese error; por eso cada publicación incluye la lista completa de fuentes consultadas para que el lector pueda verificarlas por su cuenta.
 - **Artículos de fondo**: cada afirmación estadística, económica o factual se respalda con enlaces a fuentes originales verificables (institutos públicos, papers académicos, documentos oficiales, informes sectoriales). Si un dato no puede ser verificado con una fuente primaria, se indica explícitamente. Cada URL en la sección Fuentes apunta a la página específica del dato, no al dominio raíz de la fuente.
 
