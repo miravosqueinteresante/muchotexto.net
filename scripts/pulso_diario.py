@@ -179,7 +179,8 @@ INSTRUCCIONES:
 7. Sin opiniones personales del agente — solo síntesis de lo que circula.
 8. NO uses formato markdown como **negritas** o *cursiva* — solo texto plano.
 9. Cada categoría (🏛💰⚽🎭🚨💻🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
-10. La sección 🔎 FUENTES CONSULTADAS HOY debe listar EXACTAMENTE los medios que aparecen en la línea "FUENTES CONSULTADAS HOY" más abajo. NO agregues ni quites fuentes. Copiala textual.
+10. La sección 💻 TECNOLOGÍA debe cubrir noticias sobre innovación, ciencia, internet, startups, inteligencia artificial o telecomunicaciones. Revisá especialmente las noticias etiquetadas como ABC Tecnología y ABC Ciencia. Si realmente no hay ninguna noticia de tecnología en los feeds de hoy, solo en ese caso indicá "Sin novedades relevantes de tecnología hoy."
+11. La sección 🔎 FUENTES CONSULTADAS HOY debe listar EXACTAMENTE los medios que aparecen en la línea "FUENTES CONSULTADAS HOY" más abajo. NO agregues ni quites fuentes. Copiala textual.
 
 FORMATO EXACTO DEL REPORTE (respetá esta estructura):
 
@@ -235,7 +236,7 @@ PULSO DIARIO PARAGUAY
 
 [Título del tema principal]
 
-[2-3 líneas. Si no hay noticias de tecnología hoy, indicar "Sin novedades relevantes de tecnología hoy."]
+[2-3 líneas. Noticias de innovación, ciencia, internet, startups, IA o telecomunicaciones de los feeds.]
 📊 Temperatura social: [Baja / Media / Alta / Explosiva]
 
 🔥 VIRALES & TENDENCIAS
