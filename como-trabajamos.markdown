@@ -38,19 +38,20 @@ El editor humano —César Sánchez— tiene a su cargo:
 
 ## Proceso de investigación con agentes de IA
 
-Los artículos de fondo siguen un proceso estructurado de 11 pasos donde la IA actúa como asistente de investigación, no como autor:
+Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA actúa como asistente de investigación, no como autor:
 
 1. **Selección del tema**: verificamos contra nuestro calendario editorial de 42 temas que el tópico no esté duplicado y tenga ángulo original.
 2. **Plan de investigación**: creamos un directorio `research_[tema]/` con un `research_plan.md` que define la pregunta principal, 4 o 5 subtemas específicos y las fuentes esperadas (institutos públicos, papers académicos, documentos oficiales, informes sectoriales).
 3. **Investigación paralela con agentes**: desplegamos de 4 a 5 agentes de IA independientes usando **OpenCode** con capacidad de búsqueda web. Cada agente investiga un subtema distinto en simultáneo, rastreando fuentes primarias verificables. Los resultados se escriben en archivos `findings_N.md` dentro del directorio de investigación.
 4. **Síntesis de hallazgos**: el editor lee y cruza todos los findings, identificando patrones, contradicciones y conexiones entre subtemas que los agentes no pudieron detectar por sí solos.
 5. **Gap Report**: antes de escribir, se genera un reporte que lista **todos los números, fechas, montos y nombres propios** que el artículo va a usar — no solo los claims principales. Para cada uno se verifica: fuente verificable en los findings, dato textual y accesibilidad. Si más de 2 claims no tienen fuente accesible, el proceso se pausa. **Prohibido el cálculo mental:** todo número derivado (suma, resta, porcentaje) debe estar explícitamente en los findings o documentarse en el Gap Report antes de escribir.
-6. **Redacción**: el editor escribe el artículo con estructura hook → contexto → 4 a 6 secciones H2 → conclusión → fuentes, usando los hallazgos como materia prima verificada. Se aplica la regla de cero datos de memoria: ningún número, fecha, nombre propio o monto se escribe sin fuente verificable en el gap report.
+6. **Redacción**: el editor escribe el artículo con estructura hook → TL;DR → contexto → 4 a 6 secciones H2 → conclusión → fuentes, usando los hallazgos como materia prima verificada. Se aplica la regla de cero datos de memoria: ningún número, fecha, nombre propio o monto se escribe sin fuente verificable en el gap report. El TL;DR es un resumen ejecutivo de 3-4 viñetas justo después del hook, optimizado para extracción por ChatGPT, Perplexity y Google AI Overviews.
 7. **Enlazado interno**: se insertan de 2 a 3 enlaces a otros artículos del sitio, anclados exclusivamente en hechos verificables presentes en los findings.
 8. **Fact-check pre-publicación**: un agente independiente verifica cada afirmación con número, fecha, nombre o monto contra las fuentes. Si el fact-check encuentra errores, se corrigen y se re-ejecuta hasta que pase. Los fact-checkers también se verifican entre sí (doble fact-check obligatorio). Además, el agente **cruza los claims contra los artículos ya publicados en el sitio** que toquen el mismo tema, verificando que no haya contradicciones entre ellos.
-9. **Validación automatizada**: el artículo pasa por `validate_publish.py`, un script de 12 controles que verifica: longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos, metadatos SEO y más.
-10. **Generación de FAQ**: un script automático (`generate_faq.py`) analiza el contenido del artículo y genera 3 preguntas frecuentes con respuestas basadas en datos del texto. Si el artículo no incluye FAQ, un workflow de GitHub Actions lo detecta y lo genera automáticamente antes de la publicación.
-11. **Actualización del observatorio**: antes del commit final, si el artículo aporta nuevos hitos, entidades, casos o términos, actualizar las páginas del observatorio que correspondan:
+9. **Verificación de proceso**: antes del commit, un agente independiente confirma que se completaron todos los pasos del flujo: carpeta research creada, findings existen, Gap Report existe y cada número del artículo tiene fila, fact-check ejecutado y errores corregidos. Si falta algún paso, el artículo no se publica.
+10. **Validación automatizada**: el artículo pasa por `validate_publish.py`, un script de 12 controles que verifica: longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos, metadatos SEO y más.
+11. **Generación de FAQ**: un script automático (`generate_faq.py`) analiza el contenido del artículo y genera 3 preguntas frecuentes con respuestas basadas en datos del texto. Si el artículo no incluye FAQ, un workflow de GitHub Actions lo detecta y lo genera automáticamente antes de la publicación.
+12. **Actualización del observatorio y la estrategia**: antes del commit final, si el artículo aporta nuevos hitos, entidades, casos o términos, actualizar las páginas del observatorio que correspondan:
     - **`/cronologia/`**: agregar hitos nuevos (eventos, fechas, proyectos) mencionados en el artículo.
     - **`/regulacion/`**: agregar leyes, decretos o normas nuevas si el artículo cubre legislación.
     - **`/directorio/`**: agregar startups, comunidades, instituciones o personas clave si el artículo descubre nuevas entidades del ecosistema.
@@ -58,6 +59,7 @@ Los artículos de fondo siguen un proceso estructurado de 11 pasos donde la IA a
     - **`/glosario/`**: agregar términos nuevos específicos del cluster de IA en Paraguay con enlace al artículo.
     - **`/ia-en-paraguay/`**: agregar el artículo a su pilar correspondiente y moverlo de "Próximamente" si estaba listado.
     - **`llms.txt`**: agregar el artículo al pilar correspondiente.
+    - **Documento de estrategia**: marcar el artículo como ✅ en §3.2, actualizar conteo de publicados/pendientes, mover de pendiente a completado en §15, agregar al progreso en §17.
     Cada página actualizada incrementa su `last_modified_at`. No todas las páginas se actualizan en cada artículo — solo las que tengan contenido nuevo que aportar.
 
 Además, aplicamos una **auditoría programada**: cada 5 artículos nuevos, re-auditamos los artículos más antiguos no auditados contra sus fuentes originales. Mantenemos un **registro de verificación** con la fecha del último chequeo de cada artículo — los números se actualizan con cada auditoría. Cada artículo nuevo se audita antes de publicarse; ningún artículo sale sin pasar por fact-check. Este proceso detectó y corrigió más de 40 errores en las auditorías de julio de 2026.
