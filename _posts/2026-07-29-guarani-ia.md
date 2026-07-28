@@ -5,7 +5,7 @@ date: 2026-07-29
 last_modified_at: 2026-07-29
 categories: articulos
 tags: cultura-filosofia ia-paraguay paraguay ia
-description: "El guaraní tiene 7 millones de hablantes y está ausente de todos los modelos de IA. Un grupo de periodistas paraguayos está cambiando eso con mingas comunitarias y datos abiertos."
+description: "El guaraní tiene 7 millones de hablantes y está ausente de los grandes modelos de voz e IA generativa. Un grupo de periodistas paraguayos está cambiando eso con mingas comunitarias y datos abiertos."
 ---
 
 De los aproximadamente 7.000 idiomas que se hablan en el mundo, el 95% no tiene ninguna herramienta de inteligencia artificial. Ni reconocimiento de voz, ni traducción automática, ni chatbot. El guaraní —lengua oficial de Paraguay junto con el español, hablada por entre 7 y 9 millones de personas en Paraguay, Argentina y Bolivia— es uno de ellos. OpenAI nunca lo incluyó en Whisper. Meta no lo incluyó en el pre-entrenamiento de XLS-R, su modelo más usado para lenguas de pocos recursos. Mozilla Common Voice, el mayor repositorio abierto de voces del mundo con más de 250 idiomas, no tiene al guaraní en su plataforma.
@@ -13,10 +13,10 @@ De los aproximadamente 7.000 idiomas que se hablan en el mundo, el 95% no tiene 
 Pero un grupo de periodistas paraguayos está cambiando eso. No desde un laboratorio de Silicon Valley ni con millones de dólares de inversión, sino con mingas —encuentros comunitarios donde la gente se junta a grabar su voz, validar frases y construir el primer dataset abierto de guaraní hablado. El proyecto se llama **AIkuaa** y lo lidera El Surti, un medio independiente paraguayo fundado en 2016 que entendió, antes que muchos gobiernos, que la supervivencia de una lengua en el siglo XXI depende de su presencia digital.
 
 > **En resumen:**
-> - El guaraní es hablado por 7-9 millones de personas pero está ausente de todos los grandes modelos de IA: Whisper, XLS-R, Common Voice.
-> - **AIkuaa** (El Surti) está creando el primer dataset abierto de voz en guaraní mediante mingas comunitarias, con un modelo wav2vec2 ya publicado en HuggingFace.
+> - El guaraní es hablado por 7-9 millones de personas pero está ausente de los grandes modelos de reconocimiento de voz (Whisper, XLS-R) y del mayor repositorio abierto de voces (Common Voice).
+> - **AIkuaa** (El Surti) está creando el primer dataset comunitario de voz en guaraní en Common Voice mediante mingas comunitarias, con un modelo wav2vec2 ya publicado en HuggingFace.
 > - La tecnología para entrenar IA en guaraní es barata (USD 100-500 en GPU con 10-50 horas de audio transcrito). Lo que falta no es plata sino datos.
-> - El mundo tiene casos de éxito liderados por comunidades (maorí, catalán) y fracasos de Big Tech (quechua en Google Translate). La diferencia: inversión estatal sostenida + comunidad organizada.
+> - El mundo tiene casos de éxito impulsados por comunidades (maorí) o con inversión pública (catalán, galés) y fracasos de Big Tech (quechua en Google Translate). La diferencia: inversión estatal sostenida + comunidad organizada.
 
 ## Por qué el guaraní no existe para la IA
 
@@ -46,7 +46,7 @@ En Cataluña, el proyecto AINA —financiado por la Generalitat y ejecutado desd
 
 El galés —aproximadamente 900.000 hablantes, la octava parte que el guaraní— cuenta con más herramientas de IA gracias a años de inversión pública sostenida. La diferencia no está en la cantidad de hablantes. Está en la decisión política de invertir.
 
-El contraejemplo es el quechua. Google lo agregó a Google Translate en 2022. La precisión es tan baja que las comunidades quechuahablantes lo consideran inutilizable para comunicación real. El problema no fue la tecnología —Google tiene los mejores modelos de traducción del mundo— sino el enfoque: lanzar una funcionalidad para un comunicado de prensa, sin involucrar a la comunidad de hablantes en el diseño ni en la validación.
+El contraejemplo es el quechua. Google lo agregó a Google Translate en 2022. La precisión es tan baja que las comunidades quechuahablantes lo consideran poco confiable para comunicación real. El problema no fue la tecnología —Google tiene los mejores modelos de traducción del mundo— sino el enfoque: lanzar una funcionalidad para un comunicado de prensa, sin involucrar a la comunidad de hablantes en el diseño ni en la validación.
 
 ## El costo real de la exclusión
 
@@ -54,7 +54,7 @@ Cuando una lengua queda fuera de la IA, quedan fuera sus hablantes. Los sistemas
 
 La desinformación es otro vector. Los modelos de lenguaje generan texto convincente en los idiomas para los que fueron entrenados. En los que no, simplemente no existen. En un ecosistema informativo donde la desinformación circula por WhatsApp, una comunidad lingüística sin herramientas de IA para detectar y responder en su propio idioma está doblemente vulnerable.
 
-La Ley de Lenguas obliga al Estado a "garantizar el uso de las lenguas oficiales en los medios de comunicación social y en las nuevas tecnologías de la información y comunicación". Ese artículo se escribió en 2010, antes de los modelos de lenguaje masivos. Dieciséis años después, la SPL no tiene un dataset público de voz en guaraní. Lo está construyendo un medio independiente con una subvención de una universidad británica.
+La Ley de Lenguas obliga al Estado a "garantizar el uso de las lenguas oficiales en los medios de comunicación social y en las nuevas tecnologías de la información y comunicación". Ese artículo se escribió en 2010, antes de los modelos de lenguaje masivos. Dieciséis años después, la SPL no tiene un dataset público de voz en guaraní. Lo está construyendo un medio independiente con una subvención del JournalismAI de la LSE, financiado por Google News Initiative.
 
 ## La minga no reemplaza una política de Estado
 
@@ -89,7 +89,7 @@ Paraguay tiene la ventaja de llegar tarde. Sabe qué funciona (comunidad + inver
       "name": "¿El guaraní está incluido en los modelos de inteligencia artificial?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. El guaraní está ausente de los principales modelos de IA: Whisper (OpenAI), XLS-R (Meta) y Common Voice (Mozilla). De los aproximadamente 7.000 idiomas del mundo, el 95% carece de herramientas de IA. El proyecto paraguayo AIkuaa (El Surti) está creando el primer dataset abierto de voz en guaraní mediante mingas comunitarias."
+        "text": "No. El guaraní está ausente de los principales modelos de reconocimiento de voz (Whisper, XLS-R) y de Common Voice, el mayor repositorio abierto de voces. De los aproximadamente 7.000 idiomas del mundo, el 95% carece de herramientas de IA. El proyecto paraguayo AIkuaa (El Surti) está creando el primer dataset comunitario de voz en guaraní en Common Voice mediante mingas comunitarias."
       }
     },
     {
@@ -97,7 +97,7 @@ Paraguay tiene la ventaja de llegar tarde. Sabe qué funciona (comunidad + inver
       "name": "¿Qué es AIkuaa y quién lo desarrolla?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AIkuaa es un proyecto de El Surti, un medio independiente paraguayo fundado en 2016, financiado por el JournalismAI Innovation Challenge 2024 (London School of Economics / Google News Initiative). Organiza mingas comunitarias para grabar voces en guaraní en Mozilla Common Voice y entrenó un modelo wav2vec2 (17.62% CER) publicado en HuggingFace. Desarrolló una API abierta de transcripción y un chatbot de WhatsApp."
+        "text": "AIkuaa es un proyecto de El Surti, un medio independiente paraguayo fundado en 2016, financiado por el JournalismAI Innovation Challenge 2024 (London School of Economics / Google News Initiative). Organiza mingas comunitarias para grabar voces en guaraní en Mozilla Common Voice y adoptó un modelo wav2vec2 entrenado por Iván G. Torre (17.62% CER) y lo publicó en HuggingFace. Desarrolló una API abierta de transcripción y un chatbot de WhatsApp."
       }
     },
     {
