@@ -104,9 +104,9 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[5 tecnologías que prometieron cambiar todo pero no cambiaron nada]({% post_url 2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo %})** - Metaverso, NFTs, Hyperloop, Google Glass, Segway.
 - **[Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** - USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol.
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
+- **[Paraguay está enseñando guaraní a la inteligencia artificial]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset comunitario de voz en guaraní.
 
 **Próximamente:**
-- **[Paraguay está enseñando guaraní a la inteligencia artificial]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset abierto de voz en guaraní.
 - Paraguay 2040
 - Sesgo algorítmico y derechos digitales
 
