@@ -2,7 +2,7 @@
 layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
-description: "Observatorio de inteligencia artificial en Paraguay: data centers, energía, regulación, empleo tech y geopolítica. Impacto social de la IA."
+description: "Observatorio de IA en Paraguay: data centers, energía, regulación, empleo tech y geopolítica. Análisis con datos duros y fuentes verificables."
 last_modified_at: 2026-07-19
 ---
 
