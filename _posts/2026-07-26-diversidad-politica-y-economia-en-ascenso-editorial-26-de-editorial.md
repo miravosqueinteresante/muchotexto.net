@@ -4,6 +4,7 @@ title: "Diversidad política y economía en ascenso — Editorial 26 de julio de
 description: "El Pulso Paraguay de hoy destaca dos fenómenos que están marcando la agenda nacional: el impulso a las candidaturas indígenas como parte de un esfuerzo por la inclusión política y el aumento significativo en las solicitudes de residencia de extranjeros en Paraguay."
 
 
+
 date: 2026-07-26 18:00:00 -0400
 last_modified_at: 2026-07-26
 categories: editorial
