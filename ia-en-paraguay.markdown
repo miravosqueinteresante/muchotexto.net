@@ -34,7 +34,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 ## Infraestructura y energía
 
-La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El país genera ocho veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
+La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El país genera aproximadamente 2.5 veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
 
 - **[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** - Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** - El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
@@ -42,8 +42,10 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[Criptominería en Paraguay: el costo real de la energía barata]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto país con mayor minería de bitcoin del mundo.
 - **[Red eléctrica de Paraguay: el cuello de botella de la IA global]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** - Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
 - **[En 2027 Paraguay puede perder mil millones de dólares de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El Anexo C vence. Las negociaciones están congeladas. Paraguay recibe USD 1.000M al año. ¿Qué pasa si no hay acuerdo?
+- **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
 
 **Próximamente:**
+- Energía renovable y cambio climático: la paradoja paraguaya
 - Impacto local de un data center de $200M
 
 ## Geopolítica y regulación tech
