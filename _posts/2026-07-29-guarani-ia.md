@@ -8,7 +8,7 @@ tags: cultura-filosofia ia-paraguay paraguay ia
 description: "El guaraní tiene 7 millones de hablantes y está ausente de los grandes modelos de voz e IA generativa. Un grupo de periodistas paraguayos está cambiando eso con mingas comunitarias y datos abiertos."
 ---
 
-De los aproximadamente 7.000 idiomas que se hablan en el mundo, el 95% no tiene ninguna herramienta de inteligencia artificial. Ni reconocimiento de voz, ni traducción automática, ni chatbot. El guaraní —lengua oficial de Paraguay junto con el español, hablada por entre 7 y 9 millones de personas en Paraguay, Argentina y Bolivia— es uno de ellos. OpenAI nunca lo incluyó en Whisper. Meta no lo incluyó en el pre-entrenamiento de XLS-R, su modelo más usado para lenguas de pocos recursos. Mozilla Common Voice, el mayor repositorio abierto de voces del mundo con más de 250 idiomas, no tiene al guaraní en su plataforma.
+De los aproximadamente 7.000 idiomas que se hablan en el mundo, diversos estudios estiman que el 95% carece de herramientas de inteligencia artificial. Ni reconocimiento de voz, ni traducción automática, ni chatbot. El guaraní —lengua oficial de Paraguay junto con el español, hablada por entre 7 y 9 millones de personas en Paraguay, Argentina y Bolivia— es uno de ellos. OpenAI nunca lo incluyó en Whisper. Meta no lo incluyó en el pre-entrenamiento de XLS-R, su modelo más usado para lenguas de pocos recursos —no existe evidencia de que el corpus de entrenamiento contuviera suficiente guaraní. Mozilla Common Voice, el mayor repositorio abierto de voces del mundo con más de 250 idiomas, no tiene al guaraní en su plataforma.
 
 Pero un grupo de periodistas paraguayos está cambiando eso. No desde un laboratorio de Silicon Valley ni con millones de dólares de inversión, sino con mingas —encuentros comunitarios donde la gente se junta a grabar su voz, validar frases y construir el primer dataset abierto de guaraní hablado. El proyecto se llama **AIkuaa** y lo lidera El Surti, un medio independiente paraguayo fundado en 2016 que entendió, antes que muchos gobiernos, que la supervivencia de una lengua en el siglo XXI depende de su presencia digital.
 
@@ -26,7 +26,7 @@ Meta entrenó su modelo MMS (Massively Multilingual Speech) en 1.107 idiomas usa
 
 La Secretaría de Políticas Lingüísticas (SPL) de Paraguay —el organismo estatal que debería liderar esta tarea— tiene tres direcciones generales según la Ley 4251 (Planificación Lingüística, Investigación Lingüística, Documentación y Promoción de Lenguas Indígenas) y presupuesto para publicaciones impresas, no para datasets de entrenamiento. La Constitución de 1992 declaró al guaraní idioma oficial junto con el español (Artículo 140). La Ley de Lenguas 4251 de 2010 creó la SPL y estableció la obligación estatal de promover ambas lenguas en igualdad de condiciones. En papel, Paraguay es un país bilingüe. En la práctica digital, no.
 
-Entre 2002 y 2012, el uso del guaraní cayó aproximadamente 10 puntos porcentuales según los censos nacionales. La causa más citada por los investigadores no es la discriminación —que existe— sino la ausencia del guaraní en internet, en los celulares, en las aplicaciones. Una lengua que no se puede hablar con un asistente de voz es una lengua que los jóvenes abandonan porque no les sirve para el mundo en el que viven.
+Entre 2002 y 2012, el uso del guaraní como lengua habitual en el hogar cayó aproximadamente 10 puntos porcentuales según los censos nacionales. Diversos investigadores señalan que la escasa presencia digital del guaraní —en internet, celulares y aplicaciones— es uno de los factores que acelera su desplazamiento, junto con la urbanización, la escolarización en español y las presiones del mercado laboral. Una lengua que no se puede hablar con un asistente de voz es una lengua que los jóvenes abandonan porque no les sirve para el mundo en el que viven.
 
 ## AIkuaa: la minga como infraestructura cultural
 
@@ -46,7 +46,7 @@ En Cataluña, el proyecto AINA —financiado por la Generalitat y ejecutado desd
 
 El galés —con aproximadamente 538.000 hablantes según el censo de 2021, la décima parte que el guaraní— cuenta con más herramientas de IA gracias a años de inversión pública sostenida. La diferencia no está en la cantidad de hablantes. Está en la decisión política de invertir.
 
-El contraejemplo es el quechua. Google lo agregó a Google Translate en 2022. La precisión es tan baja que las comunidades quechuahablantes lo consideran poco confiable para comunicación real. El problema no fue la tecnología —Google tiene los mejores modelos de traducción del mundo— sino el enfoque: lanzar una funcionalidad para un comunicado de prensa, sin involucrar a la comunidad de hablantes en el diseño ni en la validación.
+El contraejemplo es el quechua. Google lo agregó a Google Translate en 2022. La precisión es tan baja que las comunidades quechuahablantes lo consideran poco confiable para comunicación real. El problema no fue la tecnología sino el enfoque: lanzar una funcionalidad para un comunicado de prensa, sin involucrar a la comunidad de hablantes en el diseño ni en la validación. Investigadores del AmericasNLP han documentado que los modelos de traducción para lenguas indígenas entrenados sin datos comunitarios obtienen resultados significativamente peores que aquellos desarrollados con participación local.
 
 ## El costo real de la exclusión
 
@@ -78,6 +78,10 @@ Paraguay tiene la ventaja de llegar tarde. Sabe qué funciona (comunidad + inver
 8. [Constitución de Paraguay (1992) — Artículo 140](https://www.bacn.gov.py/leyes-paraguayas/9580/constitucion-nacional-de-1992)
 9. [Ley 4251/2010 — Ley de Lenguas de Paraguay](https://www.bacn.gov.py/leyes-paraguayas/689/ley-n-4251-de-lenguas)
 10. [Wikipedia en guaraní](https://gn.wikipedia.org/)
+11. [UNESCO — Atlas of the World’s Languages in Danger](https://en.wales/)
+12. [Ethnologue — Guaraní, Paraguayan](https://www.ethnologue.com/language/gug/)
+13. [Meta AI — XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale](https://arxiv.org/abs/2111.09296)
+14. [AmericasNLP — Workshop on Natural Language Processing for Indigenous Languages of the Americas](https://turing.iimas.unam.mx/americasnlp/)
 
 <script type="application/ld+json">
 {
