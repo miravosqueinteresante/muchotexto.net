@@ -6,7 +6,7 @@ description: "Startups, aceleradoras, comunidades, eventos y espacios de intelig
 last_modified_at: 2026-07-27
 ---
 
-*Última actualización: 27 de julio de 2026. Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
+Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
 
 ## Aceleradoras y hubs
 
