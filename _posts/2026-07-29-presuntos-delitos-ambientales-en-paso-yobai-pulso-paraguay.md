@@ -3,6 +3,7 @@ layout: post
 title: "Pulso Paraguay: Presuntos delitos ambientales en Paso  — 29 de julio de 2026"
 description: "Presuntos delitos ambientales en Paso Yobái: El tema de la minería de oro en Paso Yobái ha generado un fuerte debate y preocupación social, siendo el foco de denuncias ante la Fiscalía por presuntos delitos ambientales. Pulso Paraguay — 29 de julio de 2026."
 
+
 date: 2026-07-29
 last_modified_at: 2026-07-29
 categories: pulso-paraguay
