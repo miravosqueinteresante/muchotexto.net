@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Del abrazo al hachazo  — 29 de julio de 2026"
-description: "Del abrazo al hachazo republicano: La tensión en el ámbito político aumenta debido a la falta de acuerdos en la Cámara de Diputados, lo que ha generado un gran volumen de conversación. Pulso Paraguay — 29 de julio de 2026."
+description: "Del abrazo al hachazo republicano: La controversia en torno a Beto Ovelar y su intento fallido de negociaciones en la Cámara de Diputados ha generado un gran volumen de conversación hoy. Pulso Paraguay — 29 de julio de 2026."
 
 date: 2026-07-29
 last_modified_at: 2026-07-29
@@ -10,95 +10,99 @@ tags: pulso paraguay actualidad política economía tecnología deportes
 ---
 
 PULSO DIARIO PARAGUAY  
-📅 MIÉRCOLES 29 de julio de 2026  |  🕐 Última actualización: 12:21  
+📅 MIÉRCOLES 29 de julio de 2026  |  🕐 Última actualización: 12:24  
 
 🌡 TEMA #1 DEL DÍA: Del abrazo al hachazo republicano
 
-La tensión en el ámbito político aumenta debido a la falta de acuerdos en la Cámara de Diputados, lo que ha generado un gran volumen de conversación.  
+La controversia en torno a Beto Ovelar y su intento fallido de negociaciones en la Cámara de Diputados ha generado un gran volumen de conversación hoy.
 
 🏛 POLÍTICA  
 
-Del abrazo al hachazo republicano: Beto Ovelar pichado por no lograr trato apu’a, dicen en Diputados  
+Del abrazo al hachazo republicano: Beto Ovelar pichado por no lograr trato apu’a, dicen en Diputados
 
-La situación en el Congreso se torna crítica, con legisladores denunciando la incapacidad de llegar a consensos. La falta de entendimiento afecta el desarrollo de importantes proyectos legislativos.
+La situación de Beto Ovelar ha desatado críticas entre los legisladores, quienes señalan que su incapacidad para concretar acuerdos ha debilitado su posición en el partido.
 
 📊 Temperatura social: Alta  
 
-🔹 Caso Tía Chela: Tribunal adelanta juicio oral a Miguel Prieto y otros 10 acusados  
+🔹 Elecciones municipales: Unidad colorada con “chicle” en Areguá y sin presencia de Tadeo Rojas
 
-El juicio se anticipa, generando gran interés público y debate sobre la corrupción.  
+La falta de unidad en el partido colorados en Areguá genera incertidumbre sobre el resultado electoral.
 
 💰 ECONOMÍA  
 
-MEF prosigue hoy con el pago de salarios a funcionarios públicos  
+Ministerio de Hacienda prosigue hoy con el pago de salarios a funcionarios públicos
 
-El Ministerio de Hacienda continúa con los pagos, lo que representa una inyección de recursos en la economía local, especialmente en un mes crítico. Se espera que se destinen aproximadamente 100 millones de guaraníes.
+El ministerio ha confirmado que el pago se realiza de manera puntual, garantizando la economía de los trabajadores estatales.
 
 📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
-Nacional vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay  
+Nacional vs. Olimpia: A qué hora juega y dónde ver hoy en vivo por la Primera División de Paraguay
 
-El clásico del fútbol paraguayo promete ser un evento destacado, con gran expectativa entre los aficionados.
+Este esperado partido atrae la atención de los fanáticos del fútbol paraguayo, que están ansiosos por ver el enfrentamiento entre estos grandes equipos.
 
 📊 Temperatura social: Alta  
 
-🔹 O’Higgins y Boca Juniors, la pulseada final para medir a Recoleta FC  
+🔹 Gremio va por la remontada contra el Bolívar
 
-Este partido también genera interés, sumando a la conversación sobre el fútbol nacional.  
+El Gremio busca revertir su situación en el torneo, aumentando el interés en sus seguidores.
 
 🎭 ENTRETENIMIENTO & CULTURA  
 
-Habilitan oficialmente la Feria del Libro Caaguazú Lee 2026 con una fuerte apuesta a la lectura, la ciencia y la tecnología  
+Marco Antonio Solís regresa a Paraguay con su “Gratitud Tour”: fecha, lugar y entradas
 
-La feria busca fomentar la lectura y el acceso al conocimiento, destacando la importancia de la cultura en la comunidad.
-
-📊 Temperatura social: Media  
-
-🚨 SEGURIDAD & SOCIEDAD  
-
-Denuncian ante la Fiscalía presuntos delitos ambientales vinculados a la minería de oro en Paso Yobái  
-
-La preocupación por el medio ambiente sigue creciendo, ya que se reportan actividades ilegales que amenazan la biodiversidad de la zona.
+La llegada del cantante mexicano ha generado un gran revuelo en las redes sociales, con muchas personas ansiosas por adquirir entradas para el evento.
 
 📊 Temperatura social: Alta  
 
+🚨 SEGURIDAD & SOCIEDAD  
+
+Denuncian ante la Fiscalía presuntos delitos ambientales vinculados a la minería de oro en Paso Yobái
+
+El caso ha levantado preocupaciones en la comunidad sobre el impacto ambiental de la minería en la región.
+
+📊 Temperatura social: Media  
+
 💻 TECNOLOGÍA  
 
-Sin novedades relevantes de tecnología hoy.  
+Según OpenAI, agente de IA descontrolado golpeó también otras plataformas
+
+Este informe destaca la creciente preocupación sobre la seguridad y control de los sistemas de inteligencia artificial, lo que ha llevado a un llamado a la regulación más estricta.
+
+📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
-Fallece en un accidente el cantante irlandés Glen Hansard, ganador de un Óscar  
+La boca del diablo: Un tiburón al acecho evoca el terror clásico en el cine
 
-La noticia del fallecimiento ha resonado fuertemente en redes sociales, generando reacciones de tristeza y homenaje a su legado musical.
+La reciente película ha capturado la atención tanto de críticos como de espectadores, convirtiéndose en un fenómeno viral en las redes por su temática de terror.
 
 📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
 
 1. 🥇 Del abrazo al hachazo republicano  
-2. 🥈 Denuncian delitos ambientales en Paso Yobái  
-3. 🥉 Nacional vs. Olimpia  
-4. Habilitan Feria del Libro Caaguazú  
-5. Fallece Glen Hansard  
+2. 🥈 Nacional vs. Olimpia  
+3. 🥉 Marco Antonio Solís regresa a Paraguay  
+4. Denuncias ambientales en Paso Yobái  
+5. Gremio va por la remontada contra el Bolívar  
 
 💡 INSIGHT DEL DÍA  
 
-La falta de acuerdos políticos y el resurgimiento de denuncias sobre delitos ambientales reflejan una creciente preocupación por la gobernabilidad y la sostenibilidad en Paraguay. La sociedad parece estar en un punto de inflexión, donde la presión por una acción efectiva se hace cada vez más palpable.  
+La política y el entretenimiento están entrelazados en el pulso social paraguayo de hoy, donde la controversia en torno a Beto Ovelar resuena en el ámbito deportivo y cultural. Este cruce de intereses refleja una sociedad que busca respuestas y distracciones en medio de tensiones políticas.
 
 🔍 ANÁLISIS DE SENTIMIENTO POR CATEGORÍA  
 
 | Categoría | Volumen | Positivo | Neutral | Negativo | Temperatura |  
 |-----------|---------|----------|---------|----------|-------------|  
-| 🏛 Política | Alto | 20% | 30% | 50% | 🟠 |  
-| 💰 Economía | Medio | 40% | 40% | 20% | 🟡 |  
-| ⚽ Deportes | Alto | 50% | 30% | 20% | 🟢 |  
-| 🎭 Cultura | Medio | 60% | 30% | 10% | 🟡 |  
-| 🚨 Seguridad | Alto | 10% | 30% | 60% | 🟠 |  
-| 💻 Tecnología | N/A | N/A | N/A | N/A | N/A |  
-| 🔥 Virales | Medio | 50% | 30% | 20% | 🟡 |  
+| 🏛 Política | Alto | 40% | 30% | 30% | 🟠 |  
+| 💰 Economía | Medio | 60% | 20% | 20% | 🟢 |  
+| ⚽ Deportes | Alto | 70% | 20% | 10% | 🟢 |  
+| 🎭 Cultura | Alto | 50% | 30% | 20% | 🟢 |  
+| 🚨 Seguridad | Medio | 30% | 40% | 30% | 🟡 |  
+| 💻 Tecnología | Alto | 20% | 30% | 50% | 🟠 |  
+| 🔥 Virales | Medio | 50% | 30% | 20% | 🟢 |  
 
 🔎 FUENTES CONSULTADAS HOY  
 
