@@ -17,8 +17,8 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 
 - **Autograph** — Startup paraguaya mencionada en el ecosistema de IA.
 - **[HIVE Digital Technologies](https://www.hivedigitaltechnologies.com/)** — Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech-paraguay-ia/).
-- **BUZZ AI Cloud** — Primer cluster de GPU para inteligencia artificial en Paraguay, lanzado por HIVE en un data center Tier III en Asunción (marzo 2026). [Leer análisis](/articulos/2026/07/16/ia-soberana-paraguay/).
-- **Tooldata** — Startup paraguaya de inteligencia artificial que desarrolla soluciones de automatización y análisis de datos para empresas. Mencionada en el ecosistema local de IA.
+- **[BUZZ AI Cloud](https://www.buzzhpc.ai/es/)** — Primer cluster de GPU para inteligencia artificial en Paraguay, lanzado por HIVE en un data center Tier III en Asunción (marzo 2026). [Leer análisis](/articulos/2026/07/16/ia-soberana-paraguay/).
+- **Tooldata** — Empresa chilena fundada en 2018 por Jorge Gálvez Gajardo, con sede en Concón, Chile. Ofrece soluciones de IA y Social Listening con fuerte presencia en Paraguay, donde opera adaptada a normativas locales (SIFEN, Marangatu). [Leer más](https://tooldata.io/social-listening-paraguay).
 
 ## Data centers e infraestructura
 
