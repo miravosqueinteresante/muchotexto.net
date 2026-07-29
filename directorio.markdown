@@ -30,8 +30,8 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 
 ## Energía e hidrógeno verde
 
-- **PTI-PY (Parque Tecnológico Itaipú)** — Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
-- **Atome** — Proyecto de fertilizantes verdes en Villeta. Anunciado en 2021, decisión final de inversión (FID) alcanzada en abril 2026 con USD 665M (USD 420M deuda multilateral + USD 245M equity). Contrato EPC con Casale (USD 465M). Acuerdo con Yara. Construcción pendiente por negociación de tarifa con ANDE. [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
+- **[PTI-PY (Parque Tecnológico Itaipú)](https://www.pti.org.py/)** — Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
+- **[Atome](https://www.atomeplc.com/)** — Proyecto de fertilizantes verdes en Villeta. Anunciado en 2021, decisión final de inversión (FID) alcanzada en abril 2026 con USD 665M (USD 420M deuda multilateral + USD 245M equity). Contrato EPC con Casale (USD 465M). Acuerdo con Yara. Construcción pendiente por negociación de tarifa con ANDE. [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
 
 ## Comunidades y espacios
 
