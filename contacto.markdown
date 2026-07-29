@@ -10,6 +10,7 @@ Podés contactarme por cualquiera de estos medios:
 
 - **Email**: [cesar.sanchez.melgarejo@gmail.com](mailto:cesar.sanchez.melgarejo@gmail.com)
 - **X (Twitter)**: [@cesanz](https://x.com/cesanz)
+- **LinkedIn**: [César Sánchez](https://www.linkedin.com/in/cesar-sanchez-melgarejo/)
 
 Respondo personalmente a todos los mensajes. Si tenés consultas sobre el contenido, ideas para artículos o querés colaborar, escribime sin protocolo.
 
