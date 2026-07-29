@@ -3,6 +3,7 @@ layout: post
 title: "Pulso Paraguay: Transporte público — 29 de julio de 2026"
 description: "Transporte público: Las quejas sobre el servicio de transporte público se intensifican tras el inicio de las multas por reguladas. Pulso Paraguay — 29 de julio de 2026."
 
+
 date: 2026-07-29
 last_modified_at: 2026-07-29
 categories: pulso-paraguay

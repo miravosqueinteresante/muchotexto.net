@@ -29,6 +29,7 @@ description: "Salario mínimo: Desde hoy rige el ajuste del salario mínimo, gen
 
 
 
+
 date: 2026-07-01
 last_modified_at: 2026-07-01
 categories: pulso-paraguay
