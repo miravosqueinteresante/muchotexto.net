@@ -180,7 +180,7 @@ INSTRUCCIONES:
 7. Sin opiniones personales del agente — solo síntesis de lo que circula.
 8. NO uses formato markdown como **negritas** o *cursiva* — solo texto plano.
 9. Cada categoría (🏛💰⚽🎭🚨💻🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
-10. La sección 💻 TECNOLOGÍA debe cubrir noticias sobre innovación, ciencia, internet, startups, inteligencia artificial o telecomunicaciones. Revisá especialmente las noticias de ABC Tecnología, ABC Ciencia y La Tribuna CyT. Si realmente no hay ninguna noticia de tecnología en los feeds de hoy, solo en ese caso indicá "Sin novedades relevantes de tecnología hoy."
+10. La sección 💻 TECNOLOGÍA debe cubrir noticias sobre innovación, ciencia, internet, startups, inteligencia artificial o telecomunicaciones, extraídas de ABC Tecnología, ABC Ciencia y La Tribuna CyT. Si esos feeds no tienen contenido específico hoy, buscá en las demás noticias del Pulso algún ángulo tecnológico: digitalización de trámites, conectividad, ciberseguridad, aplicaciones, redes sociales, o cualquier historia que involucre tecnología o internet. Solo si realmente ninguna noticia del día toca estos temas, indicá "Sin novedades relevantes de tecnología hoy."
 11. La sección 🔎 FUENTES CONSULTADAS HOY debe listar EXACTAMENTE los medios que aparecen en la línea "FUENTES CONSULTADAS HOY" más abajo. NO agregues ni quites fuentes. Copiala textual.
 
 FORMATO EXACTO DEL REPORTE (respetá esta estructura):
