@@ -24,13 +24,13 @@ El decreto crea cuatro figuras jurídicas nuevas:
 
 **Cogenerador.** Grandes establecimientos industriales que producen electricidad y aprovechan subproductos térmicos. Mismas condiciones que el autogenerador.
 
-**Generador puro.** Produce exclusivamente para vender en bloque a la ANDE. Contratos de hasta 30 años con validez jurídica. Es el mecanismo central del nuevo mercado.
+**Generador ERNC.** Produce exclusivamente para vender en bloque a la ANDE. Contratos de hasta 30 años con validez jurídica. Es el mecanismo central del nuevo mercado.
 
 **Exportador.** Comercializa energía renovable privada directamente a mercados de países vecinos.
 
 Además, los "grandes consumidores" (complejos industriales o centros de datos con demanda de 30 MW o más) ya no están obligados a comprar exclusivamente de la ANDE. Pueden firmar contratos bilaterales directos con generadores privados, pagando un peaje a la ANDE por el uso de la red — cuyo monto exacto, dicho sea de paso, aún no está definido en la reglamentación.
 
-Para atraer capital internacional, el decreto incorpora herramientas de protección jurídica: contratos en moneda nacional o extranjera, fideicomisos como garantía, arbitraje nacional o internacional, y 5 años de exención de tasas para nuevos generadores.
+Para atraer capital internacional, el decreto incorpora herramientas de protección jurídica: contratos en moneda nacional o extranjera, fideicomisos como garantía, arbitraje nacional o internacional, y la posibilidad de acogerse a los incentivos fiscales existentes (Ley 7548/25 de inversiones, régimen de Zonas Francas) para nuevos generadores.
 
 Suena bien sobre el papel. La pregunta es si funcionará en la realidad paraguaya.
 
@@ -48,7 +48,7 @@ Eso está cambiando rápido. El consumo eléctrico nacional creció un 50% en tr
 
 Las proyecciones son alarmantes. Según Pedro Ferreira, expresidente de ANDE, los excedentes energéticos de Paraguay se agotarán entre 2030 y 2033. La Unión Industrial Paraguaya (UIP) advierte sobre apagones frecuentes a partir de 2029 si no se diversifica la matriz. El Senado ya pidió informes urgentes a la ANDE.
 
-La ANDE, por su parte, reconoce que no puede financiar sola las obras necesarias. Su Plan Maestro contempla inversiones de USD 9.000 millones en generación hasta 2043, pero solo en el corto plazo la necesidad supera los USD 600 millones. El precio de la energía al usuario residencial está subsidiado por las leyes 2501/2004 (tarifa social) y 3480/2012, lo que impide que la ANDE genere el capital necesario.
+La ANDE, por su parte, reconoce que no puede financiar sola las obras necesarias. Su Plan Maestro contempla inversiones de USD 9.000 millones en generación hasta 2043, pero solo en el corto plazo la necesidad supera los USD 600 millones. El precio de la energía al usuario residencial está subsidiado por las leyes 2501/2004 (tarifa social) y 3480/2008, lo que impide que la ANDE genere el capital necesario.
 
 ### 2.2. Oportunidad de inversión y diversificación
 
@@ -66,7 +66,7 @@ La experiencia internacional ofrece casos exitosos de referencia.
 
 **República Dominicana** probó que la velocidad en los procesos de aprobación atrae capital: 37 proyectos renovables operativos, más de USD 1.000 millones anuales de inversión, meta de 30% renovable para 2030.
 
-**Costa Rica** demostró que no toda reforma requiere privatización masiva: el modelo estatal mixto (ICE) logra 98,6% de generación renovable y 99,4% de cobertura eléctrica, con participación privada limitada y controlada.
+**Costa Rica** demostró que no toda reforma requiere privatización masiva: el modelo estatal mixto (ICE) logra 98,1% de generación renovable y 99,5% de cobertura eléctrica, con participación privada limitada y controlada.
 
 ---
 

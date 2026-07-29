@@ -14,13 +14,13 @@ Ese desajuste entre generación y transmisión es, hoy por hoy, el principal obs
 
 ## La paradoja de la abundancia: sobra generación, falta transmisión
 
-Paraguay tiene 7.000 kilómetros de líneas de transmisión en 500 kV, 220 kV y 66 kV. Para un país del tamaño de Francia, es poco. La única línea de 500 kV que existe —el doble circuito Yguazú–Valenzuela, de aproximadamente 50 kilómetros— conecta la subestación Margen Derecha de Itaipú con el sistema central. No hay un anillo de 500 kV que recorra el país. No hay una línea troncal que pueda transportar energía desde Itaipú hasta el Chaco o el sur del país sin pasar por múltiples transformaciones y cuellos de botella.
+Paraguay tiene 7.195 kilómetros de líneas de transmisión en 500 kV, 220 kV y 66 kV. Para un país del tamaño de Francia, es poco. De los 835 kilómetros de líneas de 500 kV que existen, la principal es la que conecta la subestación Margen Derecha de Itaipú con Villa Hayes, de aproximadamente 300 kilómetros, pasando por el doble circuito Yguazú–Valenzuela. No hay un anillo de 500 kV que recorra el país. No hay una línea troncal que pueda transportar energía desde Itaipú hasta el Chaco o el sur del país sin pasar por múltiples transformaciones y cuellos de botella.<sup><a href="https://es.wikipedia.org/wiki/Administraci%C3%B3n_Nacional_de_Electricidad">[1]</a><a href="https://es.wikipedia.org/wiki/Represa_de_Itaip%C3%BA">[2]</a></sup>
 
 La subestación Emboscada, una obra de 140 millones de dólares que conectará el sistema de 500 kV con la red de 220 kV del área metropolitana de Asunción, está recién en etapa de licitación. La subestación Alto Paraná, que beneficiará a 300.000 usuarios en Ciudad del Este, costó 26 millones y recién se está construyendo. La línea María Auxiliadora, 90 kilómetros de 220 kV, beneficia a 80.000 personas en el sur. Son avances importantes, pero fragmentarios.
 
 El presidente de la ANDE, Félix Sosa, reportó en junio de 2026 que la toma de energía de la ANDE desde Itaipú alcanzó los 2.170 GWh en ese mes, un aumento del 13,2% interanual. Eso significa que el consumo está creciendo más rápido de lo que la infraestructura se expande.
 
-Mientras tanto, el costo medio de generación del mix paraguayo (Itaipú + Yacyretá + Acaray) es de aproximadamente 28 dólares por megavatio-hora, uno de los más bajos del mundo. Pero ese costo subirá: la ANDE proyecta que alcance los 50 dólares para 2043 a medida que se incorporen fuentes más caras.
+Mientras tanto, el costo medio de generación del mix paraguayo (Itaipú + Yacyretá + Acaray) es de aproximadamente 28 dólares por megavatio-hora, uno de los más bajos del mundo —una cifra que solo refleja el costo de producción en las represas, sin incluir los costos de transmisión, distribución ni administración que elevan la tarifa técnica de la ANDE a aproximadamente 44 dólares por megavatio-hora. Pero ese costo subirá: la ANDE proyecta que alcance los 50 dólares para 2043 a medida que se incorporen fuentes más caras.
 
 ## La tormenta perfecta de 2027: data centers, criptominería y Anexo C
 
@@ -40,11 +40,11 @@ Atome representa con cifras redondas una inversión de 665 millones de dólares.
 
 La [apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}), habilitada por la Ley 7599 de diciembre de 2025 y reglamentada por el Decreto 6034 en mayo de 2026, debería aliviar esta presión al permitir que nuevos generadores privados inyecten energía a la red. Pero el decreto reglamentario tiene apenas dos meses y su implementación práctica está en una fase embrionaria. Los contratos de compra de energía a largo plazo (PPA) que necesitan los grandes consumidores todavía no existen como mercado.
 
-La ANDE financia sus inversiones de capital con préstamos multilaterales: el BID, el Banco Europeo de Inversiones y la agencia de cooperación taiwanesa ICDF. Los montos son conocidos pero insuficientes: 140 millones para la subestación Emboscada, 99,75 millones para la línea de 500 kV Yguazú–Valenzuela, 56 millones en contratos de 220 kV. Para construir la red que Paraguay necesita —un verdadero anillo de 500 kV— se requieren varios miles de millones. Y la ANDE no puede generarlos internamente porque las tarifas eléctricas en Paraguay son, ante todo, una decisión política.
+La ANDE financia sus inversiones de capital con préstamos multilaterales: el BID, el Banco Europeo de Inversiones y la agencia de cooperación taiwanesa ICDF. Los montos son conocidos pero insuficientes: 140 millones para la subestación Emboscada, 133 millones para la línea de 500 kV Yguazú–Valenzuela, 56 millones en contratos de 220 kV. Para construir la red que Paraguay necesita —un verdadero anillo de 500 kV— se requieren varios miles de millones. Y la ANDE no puede generarlos internamente porque las tarifas eléctricas en Paraguay son, ante todo, una decisión política.
 
 ## Lo que otros países aprendieron: Irlanda, Virginia y el espejo incómodo
 
-Irlanda es la advertencia más clara. Los centros de datos llegaron a consumir el 21% de toda la electricidad del país. En 2022, la red irlandesa —operada por EirGrid— declaró una moratoria para nuevas conexiones de data centers en el área de Dublín. El sistema simplemente no podía absorber más carga sin inversiones masivas en transmisión que llevarían años. La moratoria sigue vigente.
+Irlanda es la advertencia más clara. Los centros de datos llegaron a consumir el 21% de la electricidad medida del país para julio de 2024. En 2022, la red irlandesa —operada por EirGrid— declaró una moratoria para nuevas conexiones de data centers en el área de Dublín. El sistema simplemente no podía absorber más carga sin inversiones masivas en transmisión que llevarían años. La moratoria se levantó en julio de 2025 con una nueva política de conexión, pero el precedente quedó como referencia de lo que ocurre cuando la demanda industrial supera la capacidad de la red.<sup><a href="https://www.cso.ie/en/releasesandpublications/ep/p-dce/datacentresmeteredelectricityconsumption2024/">[3]</a><a href="https://www.eirgrid.ie/grid/DataCentres">[4]</a></sup>
 
 El norte de Virginia, el mercado de centros de datos más grande del mundo, muestra el otro extremo: Dominion Energy invirtió miles de millones durante décadas para construir la infraestructura que hoy alberga más de 300 data centers. Esa capacidad no se construyó en dos años. Se construyó durante veinte, con un marco regulatorio estable, tarifas predecibles y una empresa eléctrica con capacidad financiera real.
 
@@ -72,6 +72,9 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [Itaipú Binacional — "Itaipú supera los 14.600 GWh de generación en el primer semestre"](https://www.itaipu.gov.py/es/sala-de-prensa/noticia/itaipu-supera-los-14600-gwh-de-generacion-en-el-primer-semestre-de-2026) (julio 2026)
 - [EirGrid — "Data Centre Connection Offer Process"](https://www.eirgrid.ie/grid/DataCentres) (Irlanda)
 - [Wikipedia — Tratado de Itaipú](https://es.wikipedia.org/wiki/Tratado_de_Itaip%C3%BA)
+- [CSO Ireland — "Data Centres Metered Electricity Consumption 2024"](https://www.cso.ie/en/releasesandpublications/ep/p-dce/datacentresmeteredelectricityconsumption2024/) (julio 2024)
+- [Wikipedia — ANDE (líneas de transmisión)](https://es.wikipedia.org/wiki/Administraci%C3%B3n_Nacional_de_Electricidad)
+- [Wikipedia — Represa de Itaipú (sistema de transmisión)](https://es.wikipedia.org/wiki/Represa_de_Itaip%C3%BA)
 
 <script type="application/ld+json">
 {
@@ -99,7 +102,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Puede la red eléctrica de Paraguay soportar Yguazú Digital y la criptominería?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay tiene suficiente energía generada para abastecer Yguazú Digital (1 GW en fase 3) y la criptominería (hasta 1 GW), pero no tiene la red de transmisión de 500 kV para transportarla. La única línea de 500 kV tiene solo 50 km. Construir un anillo de 500 kV tomaría entre 7 y 10 años."
+        "text": "Paraguay tiene suficiente energía generada para abastecer Yguazú Digital (1 GW en fase 3) y la criptominería (hasta 1 GW), pero no tiene la red de transmisión de 500 kV para transportarla. La línea principal de 500 kV tiene 300 km entre Itaipú y Villa Hayes. Construir un anillo de 500 kV tomaría entre 7 y 10 años."
       }
     }
   ]
