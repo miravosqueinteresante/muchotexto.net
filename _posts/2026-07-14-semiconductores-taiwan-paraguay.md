@@ -42,11 +42,11 @@ El backend —las etapas de ensamblaje, prueba y empaquetado, menos intensivas e
 
 Paraguay tiene cosas que ningún otro país de la región puede ofrecer en la misma combinación.
 
-**Energía.** Itaipú genera 14.000 megavatios. Paraguay consume apenas una fracción —aproximadamente 3.800 megavatios en los picos de demanda— y exporta el resto a Brasil a precios que no cubren el costo real de generación. El país produce ocho veces más electricidad de la que consume, 100% hidroeléctrica. El precio industrial está entre 0.03 y 0.05 dólares por kilovatio-hora, el más bajo de Sudamérica.
+**Energía.** Itaipú genera 14.000 megavatios. Paraguay consume apenas una fracción —aproximadamente 5.300 megavatios en los picos de demanda (2025)— y exporta el resto a Brasil a precios que no cubren el costo real de generación. El país produce ocho veces más electricidad de la que consume, 100% hidroeléctrica. El precio industrial está entre 0.03 y 0.05 dólares por kilovatio-hora, el más bajo de Sudamérica.
 
-TSMC consume aproximadamente 15 teravatios-hora por año. Esa cifra es la mitad del consumo total de Paraguay en 2025. Dicho de otra manera: Paraguay genera el excedente energético suficiente para alimentar a TSMC sin tocar su consumo doméstico.
+TSMC consume aproximadamente 27,5 teravatios-hora por año (2024), casi tanto como el consumo total de Paraguay en 2025 (29,4 TWh). Dicho de otra manera: Paraguay genera el excedente energético suficiente para alimentar a TSMC sin tocar su consumo doméstico.
 
-En Taiwán, la misma empresa es el mayor consumidor individual de electricidad del país. TSMC representó aproximadamente el 5% del consumo eléctrico total de Taiwán en 2024, una proporción que crece con cada nueva generación de chips. Cada nueva fábrica en Arizona o Japón resuelve, entre otras cosas, un problema eléctrico.
+En Taiwán, la misma empresa es el mayor consumidor individual de electricidad del país. TSMC representó aproximadamente el 8,5% del consumo eléctrico total de Taiwán en 2024, una proporción que crece con cada nueva generación de chips. Cada nueva fábrica en Arizona o Japón resuelve, entre otras cosas, un problema eléctrico.
 
 **Agua.** Debajo de Paraguay está el Acuífero Guaraní, la segunda reserva de agua dulce subterránea más grande del mundo, compartida con Brasil, Argentina y Uruguay. Una fábrica de semiconductores necesita agua ultrapura —más limpia que el agua potable— para lavar las obleas de silicio entre cada una de las docenas de etapas del proceso de fabricación. En 2021, una sequía en Taiwán forzó a TSMC a negociar con agricultores locales por el acceso al agua. Ese tipo de competencia por recursos no existe en Paraguay.
 
@@ -60,7 +60,7 @@ En Taiwán, la misma empresa es el mayor consumidor individual de electricidad d
 
 La lista de lo que falta es más larga, y cada ítem es un obstáculo real.
 
-**La red eléctrica.** La Administración Nacional de Electricidad opera una red de transmisión cuya única línea de 500 kV tiene apenas 50 kilómetros, con pérdidas de distribución del 31% —casi tres veces el promedio regional. Una sola fábrica de semiconductores de vanguardia consume entre 100 y 400 megavatios de potencia constante, sin interrupciones. La red de ANDE no puede garantizar ese suministro. No es un problema de generación —Paraguay genera de sobra— sino de transmisión: la electricidad está en Itaipú, a 300 kilómetros de Asunción, y [la red de transmisión de Paraguay]({% post_url 2026-07-08-red-electrica-paraguay-ia %}) no tiene líneas de 500 kilovoltios que la lleven a donde se necesitaría.
+**La red eléctrica.** La Administración Nacional de Electricidad opera una red de transmisión cuya red de 500 kV tiene limitaciones de capacidad, con pérdidas de distribución cercanas al 20% —casi tres veces el promedio regional. Una sola fábrica de semiconductores de vanguardia consume entre 100 y 400 megavatios de potencia constante, sin interrupciones. La red de ANDE no puede garantizar ese suministro. No es un problema de generación —Paraguay genera de sobra— sino de transmisión: la electricidad está en Itaipú, a 300 kilómetros de Asunción, y [la red de transmisión de Paraguay]({% post_url 2026-07-08-red-electrica-paraguay-ia %}) no tiene líneas de 500 kilovoltios que la lleven a donde se necesitaría.
 
 **Cero fuerza laboral especializada.** Paraguay no tiene una sola planta de manufactura electrónica. No hay ingenieros con experiencia en procesos de fabricación de semiconductores. No hay técnicos que sepan operar equipos de litografía, deposición química o grabado por plasma. La Universidad Politécnica Taiwán-Paraguay ofrece cuatro programas de ingeniería —todos importantes— pero ninguno específicamente en microelectrónica o ciencia de materiales. La comparación es brutal: TSMC emplea más de 80.000 personas, la mayoría ingenieros con maestrías y doctorados. Paraguay produce entre 400 y 600 graduados en informática por año, en todas las universidades del país juntas.
 
@@ -125,7 +125,7 @@ Leé la guía completa de geopolítica tecnológica en la [guía de inteligencia
       "name": "¿Qué necesita Paraguay para atraer inversión en semiconductores?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay necesitaría tres cosas: una línea de transmisión eléctrica dedicada desde Itaipú que garantice suministro ininterrumpido (la red de ANDE tiene solo 50 km de líneas de 500 kV y 31% de pérdidas), un programa de formación técnica en microelectrónica en alianza con la Universidad Politécnica Taiwán-Paraguay, y un acuerdo bilateral con Taiwán con incentivos específicos para la industria de semiconductores —más allá de los centros de datos. Ninguna de estas condiciones existe actualmente."
+        "text": "Paraguay necesitaría tres cosas: una línea de transmisión eléctrica dedicada desde Itaipú que garantice suministro ininterrumpido (la red de ANDE tiene pérdidas de distribución cercanas al 20%), un programa de formación técnica en microelectrónica en alianza con la Universidad Politécnica Taiwán-Paraguay, y un acuerdo bilateral con Taiwán con incentivos específicos para la industria de semiconductores —más allá de los centros de datos. Ninguna de estas condiciones existe actualmente."
       }
     }
   ]
