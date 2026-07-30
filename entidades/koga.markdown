@@ -29,8 +29,4 @@ related_observatory:
     context: "Más de 14 años operando. Apoyó a 200+ startups y capacitó a 10.000+ emprendedores. Funciona como aceleradora, espacio de coworking y comunidad. Es el "
 ---
 
-# KOGA Impact Lab
-
-Aceleradora y hub de innovacion con mas de 14 anos operando en Paraguay. Apoyo a 200+ startups y capacito a 10.000+ emprendedores. Es el punto de encuentro del ecosistema emprendedor tech en Paraguay y un actor clave en la formacion de talento para la economia digital.
-
-**2 artículos** en el observatorio mencionan a KOGA Impact Lab.
+2 articulos en el observatorio mencionan a KOGA Impact Lab.

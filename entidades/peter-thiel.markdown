@@ -28,8 +28,4 @@ related_articles:
     context: "tro de tecnología 'confiables' —es decir, que no pasen por China. La visita de Peter Thiel a Paraguay en mayo de 2026{% posturl 2026-05-16-peter-thiel-paraguay-experimento %}, coincidiendo con la firm"
 ---
 
-# Peter Thiel
-
-Cofundador de PayPal, Palantir Technologies y Founders Fund. Se reunio con el presidente Santiago Pena en Mburuvicha Roga en 2024, generando debate sobre vigilancia, datos y soberania digital en Paraguay. Su interes en el pais es un indicador del potencial geopolitico y economico de Paraguay en la economia de la IA.
-
-**5 artículos** en el observatorio mencionan a Peter Thiel.
+5 articulos en el observatorio mencionan a Peter Thiel.

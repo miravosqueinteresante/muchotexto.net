@@ -26,8 +26,4 @@ related_observatory:
     context: "Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia N"
 ---
 
-# Parque Tecnologico Itaipu Paraguay
-
-Centro de investigacion y desarrollo tecnologico vinculado a Itaipu Binacional. Opera la unica unidad experimental de hidrogeno verde del Paraguay (2 Nm3/h). Desarrolla proyectos de innovacion en energia, automatizacion y tecnologia aplicada. Actor clave en la transicion energetica y la diversificacion tecnologica del pais.
-
-**2 artículos** en el observatorio mencionan a PTI-PY.
+2 articulos en el observatorio mencionan a PTI-PY.

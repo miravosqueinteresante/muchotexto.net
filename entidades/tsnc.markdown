@@ -29,8 +29,4 @@ related_observatory:
     context: "La mayor fundición de semiconductores del mundo. Fabrica más del 90% de los chips más avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD"
 ---
 
-# Taiwan Semiconductor Manufacturing Company
-
-El mayor fabricante de semiconductores del mundo. Produce mas del 90% de los chips avanzados utilizados en IA (NVIDIA H100, Apple M-series, etc.). Aunque no fabrica en Paraguay, delegados de TSMC han participado en foros bilaterales Paraguay-Taiwan. Su relacion con Taiwan es clave para entender la geopolitica de los chips.
-
-**3 artículos** en el observatorio mencionan a TSMC.
+3 articulos en el observatorio mencionan a TSMC.

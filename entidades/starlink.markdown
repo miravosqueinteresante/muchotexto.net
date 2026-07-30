@@ -44,8 +44,4 @@ related_observatory:
     context: "20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los l"
 ---
 
-# Starlink (SpaceX)
-
-Servicio de internet satelital de SpaceX que opera en Paraguay desde 2023. Mas de 20.000 usuarios, 1.600 antenas instaladas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizo a Starlink a operar por encima de los limites de potencia de la UIT — Paraguay fue el primer pais del mundo en hacerlo.
-
-**6 artículos** en el observatorio mencionan a Starlink.
+6 articulos en el observatorio mencionan a Starlink.

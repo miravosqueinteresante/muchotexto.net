@@ -44,8 +44,4 @@ related_observatory:
     context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. X8 Cloud anunció $10-50B en data centers. HIVE Digital"
 ---
 
-# X8 Cloud
-
-Empresa con sede en Los Angeles que anuncio un plan de USD 10-50B a 30 anos para construir data centers de IA en Paraguay. Inicio construccion en mayo 2026 con 50 MW iniciales. Uno de los primeros actores privados habilitados por la apertura del sector electrico (Ley 7599, Decreto 6034).
-
-**9 artículos** en el observatorio mencionan a X8 Cloud.
+9 articulos en el observatorio mencionan a X8 Cloud.

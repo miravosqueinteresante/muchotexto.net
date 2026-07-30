@@ -76,8 +76,4 @@ related_observatory:
     context: "6 pilares, 55 medidas, financiada por el BID. Pivotea hacia fertilizantes para el mercado brasileño. Documento de política pública sin rango de ley."
 ---
 
-# Banco Interamericano de Desarrollo
-
-Organismo multilateral que financio la Agenda Digital de Paraguay con un prestamo de USD 130M (2019) y la Estrategia Nacional de Hidrogeno Verde (2025). Socio financiero recurrente en infraestructura digital y energetica del pais. El Data Center Estatal Tier III del MITIC tambien fue financiado por el BID.
-
-**15 artículos** en el observatorio mencionan a BID.
+15 articulos en el observatorio mencionan a BID.

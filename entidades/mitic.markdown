@@ -78,8 +78,4 @@ related_observatory:
     context: "Aprobada por Decreto 3900 en mayo 2025. Primera estrategia nacional de ciberseguridad, con apoyo de la OEA. CERT-PY opera desde 2012 bajo el MITIC."
 ---
 
-# Ministerio de Tecnologias de la Informacion y Comunicacion
-
-Creado en 2018, el MITIC es el ministerio responsable de la politica digital de Paraguay. Administra la identidad electronica (1.5M+ usuarios), los 480+ tramites digitales del portal Paraguay.gov.py, y la infraestructura de datos del Estado. Es la contraparte del BID en la Agenda Digital y lidera la consulta publica para la Estrategia Nacional de IA.
-
-**13 artículos** en el observatorio mencionan a MITIC.
+13 articulos en el observatorio mencionan a MITIC.

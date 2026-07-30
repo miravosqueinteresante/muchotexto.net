@@ -47,8 +47,4 @@ related_articles:
     url: /articulos/2026/07/10/talento-tech-paraguay-ia/
 ---
 
-# Proyecto Yguazu Digital
-
-Proyecto binacional Paraguay-Taiwan para construir uno de los centros de datos de IA mas grandes del mundo. Tres fases: Fase I (10 MW, USD 200-500M), Fase II (100 MW, ~USD 5B), Fase III (1 GW, ~USD 40B). El ICDF contacto a Google, Microsoft y Amazon como posibles clientes. Es el ancla de la estrategia de Paraguay como hub de IA.
-
-**15 artículos** en el observatorio mencionan a Yguazu Digital.
+15 articulos en el observatorio mencionan a Yguazu Digital.

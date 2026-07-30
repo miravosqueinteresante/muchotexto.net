@@ -15,7 +15,3 @@ related_observatory:
     url: https://www.amcham.com.py/
     context: "Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organi"
 ---
-
-# Camara de Comercio Paraguayo-Americana
-
-Camara binacional que impulso foros internacionales para posicionar a Paraguay como hub de data centers, energia limpia e IA. Organizo el foro en Silicon Valley (junio 2026) con el MIC, conectando el ecosistema tech paraguayo con inversores y empresas estadounidenses.

@@ -68,8 +68,4 @@ related_observatory:
     context: "[Elecciones generales en Paraguay](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/): prueba de fuego para la alianza con Taiwán."
 ---
 
-# Taiwan (Republica de China)
-
-Taiwan es el ultimo aliado diplomatico de Paraguay en Sudamerica y su socio estrategico en tecnologia. Fabrica el 90% de los semiconductores avanzados del mundo (TSMC). Invierte en Paraguay a traves del ICDF con becas, cooperacion tecnica y el proyecto Yguazu Digital. La relacion Taiwan-Paraguay define la posicion geopolitica del pais en la guerra fria tecnologica entre China y EE.UU.
-
-**15 artículos** en el observatorio mencionan a Taiwan.
+15 articulos en el observatorio mencionan a Taiwan.

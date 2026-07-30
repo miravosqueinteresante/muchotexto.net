@@ -24,8 +24,4 @@ related_articles:
     context: "07-10-talento-tech-paraguay-ia %} es igualmente crítica; los desarrolladores e ingenieros paraguayos con talento se van a trabajar al exterior o aceptan salarios en dólares de empresas extranjeras des"
 ---
 
-# Formacion Universitaria en IA en Paraguay
-
-Ecosistema de formacion de talento en inteligencia artificial en Paraguay: carreras de ingenieria informatica en UNA, UCA, UAA, UA, UNE; becas de Taiwan; bootcamps y programas de capacitacion. Paraguay produce 400-600 graduados en informatica por ano, muy por debajo de la demanda proyectada de 3.500-7.000 profesionales para los data centers anunciados.
-
-**5 artículos** en el observatorio mencionan a Formacion en IA.
+5 articulos en el observatorio mencionan a Formacion en IA.

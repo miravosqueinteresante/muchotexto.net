@@ -38,8 +38,4 @@ related_observatory:
     context: "Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech"
 ---
 
-# HIVE Digital Technologies Ltd.
-
-Empresa de infraestructura de computo GPU listada en bolsa. Opera un campus de 100 MW en Yguazu con energia de Itaipu, con planes de expandir a 400 MW. Lanzo BUZZ AI Cloud en marzo 2026, el primer cluster de GPU para IA en Paraguay, en un data center Tier III en Asuncion.
-
-**7 artículos** en el observatorio mencionan a HIVE Digital Technologies.
+7 articulos en el observatorio mencionan a HIVE Digital Technologies.

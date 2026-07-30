@@ -60,8 +60,4 @@ related_observatory:
     context: "Fernando Lugo y Lula firman acuerdo que triplica la [compensación de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) a Paraguay y comprom"
 ---
 
-# Itaipu Binacional
-
-La hidroelectrica mas grande del mundo en generacion acumulada, operada por Paraguay y Brasil desde 1973. Genera 14.000 MW; Paraguay consume ~20% de su mitad y vende el resto a Brasil. El Anexo C del tratado vence en enero 2027. La energia de Itaipu alimenta los data centers de HIVE y es la ventaja competitiva central de Paraguay en la economia de la IA.
-
-**15 artículos** en el observatorio mencionan a Itaipu.
+15 articulos en el observatorio mencionan a Itaipu.

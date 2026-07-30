@@ -19,8 +19,4 @@ related_articles:
     context: "nteligencia artificial. El documento está 'en desarrollo', liderado por MITIC y CONACYT, con una consulta pública de fines de 2024 y un diagnóstico de UNESCO de diciembre de 2025. A julio de 2026, no "
 ---
 
-# Consejo Nacional de Ciencia y Tecnologia
-
-Organismo publico paraguayo responsable de la politica nacional de ciencia, tecnologia e innovacion. Financia investigacion, otorga becas y coordina programas de formacion cientifica. Es la institucion de referencia para proyectos de investigacion en IA desde el sector publico.
-
-**2 artículos** en el observatorio mencionan a CONACYT.
+2 articulos en el observatorio mencionan a CONACYT.

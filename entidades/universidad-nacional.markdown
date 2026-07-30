@@ -98,8 +98,4 @@ related_observatory:
     context: "Error sistemático en el resultado de un algoritmo de IA que produce resultados injustos para ciertos grupos. No es un bug —es una propiedad inherente "
 ---
 
-# Universidad Nacional de Asuncion
-
-La universidad mas grande de Paraguay, fundada en 1889. Sus facultades de Ingenieria y Politecnica forman parte de los 400-600 graduados anuales en informatica. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formacion de talento tech del pais.
-
-**15 artículos** en el observatorio mencionan a UNA.
+15 articulos en el observatorio mencionan a UNA.

@@ -27,8 +27,4 @@ related_articles:
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
 ---
 
-# Santiago Pena Palacios
-
-Presidente de Paraguay desde agosto 2023. Su gobierno impulso la apertura del sector electrico (Ley 7599, Decreto 6034), promovio el proyecto Yguazu Digital con Taiwan, y recibio a Peter Thiel y a delegaciones de TSMC. Bajo su administracion, Paraguay se posiciona activamente como hub de IA en Sudamerica.
-
-**7 artículos** en el observatorio mencionan a Santiago Pena.
+7 articulos en el observatorio mencionan a Santiago Pena.

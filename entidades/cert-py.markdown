@@ -37,8 +37,4 @@ related_observatory:
     context: "CERT-PY opera desde 2012. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizó 18 agencias estatales. Paragu"
 ---
 
-# Centro de Respuesta a Incidentes de Seguridad Informatica de Paraguay
-
-Centro nacional de respuesta a incidentes de ciberseguridad, operativo desde 2012 bajo el MITIC. Coordina la respuesta a ataques informaticos contra infraestructura estatal. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizo 18 agencias estatales.
-
-**2 artículos** en el observatorio mencionan a CERT-PY.
+2 articulos en el observatorio mencionan a CERT-PY.

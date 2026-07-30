@@ -327,14 +327,10 @@ def generate_entity_page(entity, related_articles, related_glossary, related_obs
 
     lines.append("---")
     lines.append("")
-    lines.append(f"# {name_full}")
-    lines.append("")
-    lines.append(description)
-    lines.append("")
 
     # Article count summary
     if related_articles:
-        lines.append(f"**{len(related_articles)} artículos** en el observatorio mencionan "
+        lines.append(f"{len(related_articles)} articulos en el observatorio mencionan "
                      f"a {name}.")
         lines.append("")
 

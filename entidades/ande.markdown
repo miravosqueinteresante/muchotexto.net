@@ -97,8 +97,4 @@ related_observatory:
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y e"
 ---
 
-# Administracion Nacional de Electricidad
-
-La ANDE es la empresa estatal de electricidad de Paraguay. Opera 16.000 MW de capacidad instalada (Itaipu, Yacyreta, Acaray) con la tarifa industrial mas baja de Sudamerica (0.03-0.05 USD/kWh). Es el actor central en la apertura del sector electrico (Ley 7599/2025, Decreto 6034) y el principal proveedor de energia para data centers y criptomineria.
-
-**15 artículos** en el observatorio mencionan a ANDE.
+15 articulos en el observatorio mencionan a ANDE.
