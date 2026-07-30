@@ -285,11 +285,13 @@ def generate_entity_page(entity, related_articles, obs_matches):
         lines.append("related_articles:")
         for art in related_articles:
             title_clean = art["title"].replace('"', "'")
-            ctx_clean = art.get("context", "").replace('"', "'").replace(":", ";")[:250]
+            ctx = art.get("context", "")
+            ctx = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', ctx)
+            ctx = ctx.replace('"', "'").replace(":", ";")[:250]
             lines.append(f'  - title: "{title_clean}"')
             lines.append(f'    url: {art["url"]}')
-            if ctx_clean:
-                lines.append(f'    context: "{ctx_clean}"')
+            if ctx:
+                lines.append(f'    context: "{ctx}"')
 
     laws = entity.get("related_laws", [])
     if laws:
@@ -311,7 +313,9 @@ def generate_entity_page(entity, related_articles, obs_matches):
             lines.append(f"{key}:")
             for entry in entries[:8]:
                 e_label = entry.get("label", entry.get("term", "")).replace('"', "'")
-                e_ctx = entry.get("context", "")[:200].replace('"', "'")
+                e_ctx = entry.get("context", "")
+                e_ctx = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', e_ctx)
+                e_ctx = e_ctx[:200].replace('"', "'")
                 lines.append(f'  - label: "{e_label}"')
                 lines.append(f'    url: {entry["url"]}')
                 lines.append(f'    context: "{e_ctx}"')

@@ -13,16 +13,16 @@ entity_category: infraestructura
 related_articles:
   - title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "- [Wikipedia — Tratado de Itaipú](https;//es.wikipedia.org/wiki/TratadodeItaip%C3%BA) — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
+    context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "- [Focus Taiwan (CNA) — Firma del MOU Paraguay-Taiwán](https;//focustaiwan.tw/politics/202605080014) (8 mayo 2026) - [Infobae — 'Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del..."
+    context: "- Focus Taiwan (CNA) — Firma del MOU Paraguay-Taiwán (8 mayo 2026) - [Infobae — 'Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del..."
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
-    context: "- [ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones'](https;//www.abc.com.py/economia/2026/07/04/pena-reporta-avances-en-la-red-electrica-y-millonarias-inversiones-en-su-informe-anual/) (4 julio 2026) - [Última Hora —.."
+    context: "- ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones' (4 julio 2026) - [Última Hora —..."
   - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
-    context: " [Paraguay puede perder mil millones de dólares de Itaipú en 2027]({% posturl 2026-07-17-itaipu-2027-energia-paraguay %}) si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% posturl..."
+    context: " Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% posturl..."
 entity_laws:
   - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
   - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"
