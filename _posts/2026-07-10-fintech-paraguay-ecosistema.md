@@ -5,20 +5,20 @@ date: 2026-07-10
 last_modified_at: 2026-07-10
 categories: articulos
 tags: tech-ecosistema
-description: "Paraguay tiene 100 fintechs, 15 bancos y casi la mitad de los adultos sin cuenta. El ecosistema crece al 40% anual y recién empieza."
+description: "Paraguay tiene 100 fintechs, 17 bancos y el 39% de los adultos sin cuenta. El ecosistema crece al 40% anual y recién empieza."
 ---
 
-En junio de 2025, el sistema de pagos instantáneos de Paraguay registró 28 millones de transacciones en un solo mes y 13,9 millones de pagos con código QR. En todo 2024, el sistema movió 82 billones de guaraníes, el equivalente a 10.600 millones de dólares. El 70% de las transacciones en el país siguen siendo en efectivo.
+En junio de 2025, el sistema de pagos instantáneos de Paraguay registró 28 millones de transacciones en un solo mes y 13,9 millones de pagos con código QR. En todo 2024, el sistema movió 82 billones de guaraníes, el equivalente a 10.600 millones de dólares. Las transacciones en efectivo se redujeron al 30% de los pagos totales en 2025.
 
-Paraguay tiene aproximadamente quince bancos comerciales formales y más de cien empresas fintech registradas o en operación. La Cámara Paraguaya de Fintech, fundada en 2019, ya reúne a más de 120 miembros. El ecosistema crece a más del 40% anual, impulsado por dos leyes aprobadas en 2025 y una oportunidad demográfica que pocos países de la región tienen: casi la mitad de los adultos paraguayos no tiene acceso al sistema financiero formal.
+Paraguay tiene aproximadamente diecisiete bancos comerciales formales y más de cien empresas fintech registradas o en operación. La Cámara Paraguaya de Fintech, fundada en 2017, ya reúne a más de 120 miembros. El ecosistema crece a más del 40% anual, impulsado por dos leyes aprobadas en 2025 y una oportunidad demográfica que pocos países de la región tienen: casi la mitad de los adultos paraguayos no tiene acceso al sistema financiero formal.
 
 Este artículo es un mapa del ecosistema fintech paraguayo: qué es, quiénes son los actores, cómo se regula y por qué Paraguay tiene condiciones para convertirse en un laboratorio financiero regional.
 
 ## Cien empresas en busca de dos millones de clientes sin cuenta
 
-Paraguay tiene aproximadamente 7,5 millones de habitantes. De los adultos, el 60,9% tiene al menos una cuenta en una institución financiera formal, según los datos más recientes de la base Global Findex del Banco Mundial. Esto significa que aproximadamente 1,8 millones de adultos paraguayos están completamente fuera del sistema bancario.
+Paraguay tiene aproximadamente 6,4 millones de habitantes. De los adultos, el 60,9% tiene al menos una cuenta en una institución financiera formal, según los datos más recientes de la base Global Findex del Banco Mundial. Esto significa que aproximadamente 1,5 millones de adultos paraguayos están completamente fuera del sistema bancario.
 
-El ratio es bajo incluso para los estándares latinoamericanos. Brasil tiene un 86% de inclusión financiera. Chile un 85%. Argentina un 82%. Uruguay un 74%. Paraguay supera apenas a Perú (59%) y Colombia (57%). Pero hay un dato que cambia la lectura: en 2011, solo el 21,7% de los paraguayos tenía cuenta bancaria. En trece años, la bancarización se triplicó. La velocidad de cambio sugiere que el mercado no está estancado: está en plena transformación.
+El ratio es bajo incluso para los estándares latinoamericanos. Brasil tiene un 86% de inclusión financiera. Chile un 85%. Argentina un 82%. Uruguay un 74%. Paraguay supera apenas a Perú (59%) y Colombia (57%). Pero hay un dato que cambia la lectura: en 2011, solo el 21,7% de los paraguayos tenía cuenta bancaria. En trece años, la bancarización casi se triplicó. La velocidad de cambio sugiere que el mercado no está estancado: está en plena transformación.
 
 Las fintechs paraguayas se concentran en pagos digitales, que es el vertical más desarrollado. Bancard es el procesador dominante, con su red de POS, código QR, vPOS y Tokefon para cobros con tarjeta. Ueno Bank, que empezó como fintech y hoy tiene licencia bancaria, emitió aproximadamente la mitad de todas las tarjetas de crédito del país. Tigo Money y Personal Pay compiten en el segmento de billeteras móviles. Wally, Goiko y EKO operan en pagos y préstamos digitales.
 
@@ -48,7 +48,7 @@ Paraguay no tiene ninguna de esas tres cosas. El SPI existe y funciona —28 mil
 
 Lo que Paraguay tiene, que ningún otro país de la región puede replicar fácilmente, es una combinación de factores estructurales: impuestos bajos (el impuesto a la renta corporativa es del 10%, uno de los más bajos del hemisferio), energía barata —el data center más grande de Sudamérica en proyecto se alimenta de [la electricidad más barata de la región]({% post_url 2026-07-08-red-electrica-paraguay-ia %})—, una población joven con alta penetración de smartphones, una economía semi-dolarizada que reduce el riesgo cambiario para inversores extranjeros, y ninguno de los problemas de legado que tienen los sistemas financieros de Argentina o Brasil.
 
-La pregunta no es si Paraguay va a tener un ecosistema fintech relevante. Ya lo tiene. La pregunta es si va a tener las reglas de juego, el capital y el talento para que ese ecosistema no se quede en pagos digitales y transferencias básicas, sino que se convierta en una plataforma de inclusión financiera real para el 46% de adultos que todavía no tiene acceso. En eso, el tiempo corre. Brasil ya tiene Pix. México ya tiene su Ley Fintech. Chile y Colombia ya tienen sandboxes. Paraguay está construyendo su modelo. Lo que decida en los próximos dos años va a definir si llega a tiempo o si se queda, una vez más, mirando desde afuera, como ya le pasó con la transformación industrial del siglo XX.
+La pregunta no es si Paraguay va a tener un ecosistema fintech relevante. Ya lo tiene. La pregunta es si va a tener las reglas de juego, el capital y el talento para que ese ecosistema no se quede en pagos digitales y transferencias básicas, sino que se convierta en una plataforma de inclusión financiera real para el 39% de adultos que todavía no tiene acceso. En eso, el tiempo corre. Brasil ya tiene Pix. México ya tiene su Ley Fintech. Chile y Colombia ya tienen sandboxes. Paraguay está construyendo su modelo. Lo que decida en los próximos dos años va a definir si llega a tiempo o si se queda, una vez más, mirando desde afuera, como ya le pasó con la transformación industrial del siglo XX.
 
 ---
 
@@ -80,7 +80,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Qué nivel de inclusión financiera tiene Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El 60,9% de los adultos paraguayos tiene al menos una cuenta financiera formal (Global Findex). Es el quinto mejor índice de Sudamérica, por detrás de Brasil, Chile, Argentina y Uruguay, pero por delante de Perú y Colombia. Aproximadamente 1,8 millones de adultos no tienen acceso al sistema bancario."
+        "text": "El 60,9% de los adultos paraguayos tiene al menos una cuenta financiera formal (Global Findex). Es el quinto mejor índice de Sudamérica, por detrás de Brasil, Chile, Argentina y Uruguay, pero por delante de Perú y Colombia. Aproximadamente 1,5 millones de adultos no tienen acceso al sistema bancario."
       }
     },
     {
