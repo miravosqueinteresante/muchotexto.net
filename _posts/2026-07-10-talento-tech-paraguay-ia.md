@@ -8,15 +8,15 @@ tags: sociedad-trabajo ia-paraguay
 description: "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. El país construye data centers de IA mientras los ingenieros que deberían operarlos trabajan para el extranjero."
 ---
 
-Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. Remiten entre 2.000 y 3.000 millones de dólares al año, el equivalente al 5% o 7% del PIB. No existe un censo que diga cuántos de ellos son ingenieros, desarrolladores o científicos de datos. El país está construyendo una industria de inteligencia artificial que necesita a esas personas sin saber cuántas perdió.
+Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. Remiten aproximadamente 1.350 millones de dólares al año, el equivalente al 2,6% del PIB. No existe un censo que diga cuántos de ellos son ingenieros, desarrolladores o científicos de datos. El país está construyendo una industria de inteligencia artificial que necesita a esas personas sin saber cuántas perdió.
 
-Como analizamos en el artículo sobre [educación tecnológica en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}), el sistema produce apenas 400 a 600 graduados en informática por año. El 29% de los becarios de Becal no regresó al país. Pero el problema no es solo de oferta educativa. Es también de retención: los pocos profesionales que se forman se van, y los incentivos para que vuelvan no existen.
+Como analizamos en el artículo sobre [educación tecnológica en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}), el sistema produce apenas 400 a 600 graduados en informática por año. El 33% de los becarios de Becal no culminó su programa (2.532 de 3.777). Pero el problema no es solo de oferta educativa. Es también de retención: los pocos profesionales que se forman se van, y los incentivos para que vuelvan no existen.
 
 ## Adónde se fueron y por qué no vuelven
 
 Paraguay no tiene un programa de retorno para profesionales tecnológicos. No tiene una red organizada de su diáspora tech. No tiene incentivos fiscales para que un ingeniero que hizo su posgrado en Estados Unidos o España considere volver. Chile tiene ChileGlobal, una red que conecta a profesionales chilenos en el exterior con oportunidades en el país. Argentina tiene RAICES, un programa de repatriación de científicos. Uruguay tiene una diáspora activa que invierte en startups locales. Paraguay no tiene nada parecido.
 
-El programa Becal financia estudios de posgrado —3.787 becarios, 2.682 regresaron— pero no tiene un componente específico de retorno para carreras tecnológicas. Un becario que estudió inteligencia artificial en Alemania recibe el mismo tratamiento que uno que estudió literatura francesa. El dato de cuántos becarios tech volvieron existe en la base de datos del programa pero no se publica.
+El programa Becal financia estudios de posgrado —3.777 becarios, 2.532 culminaron— pero no tiene un componente específico de retorno para carreras tecnológicas. Un becario que estudió inteligencia artificial en Alemania recibe el mismo tratamiento que uno que estudió literatura francesa. El dato de cuántos becarios tech volvieron existe en la base de datos del programa pero no se publica.
 
 La paradoja es que los profesionales que se fueron no están inactivos. Remiten miles de millones de dólares al año a sus familias. Algunos invierten en propiedades o pequeños negocios en Paraguay. Hay comunidades de paraguayos en tecnología en Silicon Valley, Madrid, Buenos Aires y São Paulo que se conocen entre ellos pero no tienen un canal institucional que los conecte con las oportunidades que están surgiendo en su país de origen. El capital humano y financiero existe. Lo que no existe es el puente.
 
@@ -63,7 +63,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Cuántos profesionales paraguayos viven en el exterior?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior, remitiendo entre 2.000 y 3.000 millones de dólares al año, entre el 5% y el 7% del PIB. No existe un censo oficial que desglose cuántos son del sector tecnológico."
+        "text": "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior, remitiendo aproximadamente 1.350 millones de dólares al año, el 2,6% del PIB. No existe un censo oficial que desglose cuántos son del sector tecnológico."
       }
     },
     {
