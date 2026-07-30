@@ -14,6 +14,8 @@ related_articles:
   - title: "Tokenizacion Del Agro Paraguay"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
     context: "paraguayos ya paga con QR. La identidad electrónica Identidad Electrónica del MITIC está operativa con más de 400 trámites en línea. Paraguay no es Finlandia, pero tampoco es el desierto digital que m"
+  - title: "Que Es Realmente El Futbol"
+    url: /articulos/2026/06/10/que-es-realmente-el-futbol/
   - title: "Caso Maria Fernanda Pulso Paraguay"
     url: /articulos/2026/06/17/caso-maria-fernanda-pulso-paraguay/
     context: "ura social; Alta 🔹 Gobierno mintió; “Jimmy” Villaverde estuvo comisionado en Mitic y no era solo un “militante”. La revelación ha generado un fuerte debate en el ámbito político sobre la transparencia"
@@ -32,9 +34,6 @@ related_articles:
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
     context: "que aprobó el Congreso degradó esa autoridad a una Dirección General dentro del MITIC, el Ministerio de Tecnologías de la Información y Comunicación. Una unidad desconcentrada, con autonomía funcional"
-  - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
-    url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
-    context: "in Academy— pero ninguna alcanza las dimensiones necesarias. El BID financia la Agenda Digital de Paraguay con 130 millones de dólares, que incluye componentes de formación, pero el programa es amplio"
   - title: "Paraguay tiene startups de IA aunque nadie las conoce"
     url: /articulos/2026/07/14/startups-ia-paraguay/
     context: "asa crítica para sostenerse sin apoyo institucional. El gobierno, a través del MITIC, lanzó InnovandoPY, un programa de capital semilla no reembolsable para startups tecnológicas. En 2025 entregó 140."
@@ -44,44 +43,36 @@ related_articles:
   - title: "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/
     context: "Paraguay ya construyó y es más de lo que parece Paraguay no empezó ayer. El MITIC fue creado por ley en octubre de 2018. La Agenda Digital, financiada por el préstamo BID 4650/OC-PR por 130 millones d"
-  - title: "Paraguay no usa IA para hacer periodismo pero la desinformación sí"
-    url: /articulos/2026/07/16/ia-periodismo-paraguay/
-    context: "e contenidos generados por IA —en un país donde, como vimos en el análisis del gobierno digital paraguayo{% posturl 2026-07-16-gobierno-digital-paraguay %}, la infraestructura digital avanza más rápid"
-  - title: "Paraguay tiene telemedicina desde 2013, la IA en salud todavía no"
-    url: /articulos/2026/07/16/ia-salud-paraguay/
-    context: "osistema de infraestructura digital que analizamos en detalle en el estado del gobierno digital paraguayo{% posturl 2026-07-16-gobierno-digital-paraguay %}. Es un sistema de registro clínico en tiempo"
   - title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
     url: /articulos/2026/07/16/ia-soberana-paraguay/
     context: "uazú, el proyecto binacional Yguazú Digital con Taiwán está en desarrollo, y el MITIC está construyendo un data center estatal Tier III. Por otro lado, Paraguay no tiene una estrategia nacional de IA,"
   - title: "Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/
     context: "%}—. Su marco de ciberseguridad opera principalmente mediante resoluciones del MITIC que obligan a las instituciones públicas a reportar incidentes y adoptar controles de seguridad. En el contexto lat"
+  - title: "Paraguay está enseñando guaraní a la inteligencia artificial"
+    url: /articulos/2026/07/29/guarani-ia/
+    context: "s la decisión de escalarlo. La SPL podría financiar la recolección de datos. El MITIC podría integrar el modelo en los servicios digitales del Estado. Las herramientas existen. Los datos existen. La c"
+  - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
+    url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
+    context: "in Academy— pero ninguna alcanza las dimensiones necesarias. El BID financia la Agenda Digital de Paraguay con 130 millones de dólares, que incluye componentes de formación, pero el programa es amplio"
 entity_laws:
   - "Ley 6822/2022 — servicios de confianza electronica"
   - "Ley 7593/2025 — proteccion de datos personales"
 related_glossary:
   - term: "InnovandoPY"
     url: /artículos/2026/07/14/startups-ia-paraguay/
-  - term: "Gobierno digital (e-government)"
-    url: /artículos/2026/07/16/gobierno-digital-paraguay/
   - term: "CERT-PY"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/
 related_observatory:
   - label: "InnovandoPY"
     url: /artículos/2026/07/14/startups-ia-paraguay/
     context: "Programa de capital semilla no reembolsable del MITIC para startups tecnológicas paraguayas. En 2025 entregó USD 140.000 a siete empresas seleccionada"
-  - label: "Gobierno digital (e-government)"
-    url: /artículos/2026/07/16/gobierno-digital-paraguay/
-    context: "Uso de tecnología para que los ciudadanos accedan a servicios del Estado sin papel, sin ventanilla y sin intermediarios. Paraguay tiene 223 trámites d"
   - label: "CERT-PY"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/
     context: "Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios"
   - label: "2018"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/
     context: "Se crea el [MITIC](/articulos/2026/07/16/gobierno-digital-paraguay/), Ministerio de Tecnologías de la Información y Comunicación."
-  - label: "2019"
-    url: /articulos/2026/07/16/gobierno-digital-paraguay/
-    context: "Paraguay firma préstamo de [$130M con el BID](/articulos/2026/07/16/gobierno-digital-paraguay/) para la Agenda Digital. Se funda la Cámara Paraguaya d"
   - label: "2024"
     url: /articulos/2026/07/16/ia-soberana-paraguay/
     context: "El MITIC realiza [consulta pública para la estrategia nacional de IA](/articulos/2026/07/16/ia-soberana-paraguay/)."
@@ -91,13 +82,10 @@ related_observatory:
   - label: "Estrategia Nacional de Ciberseguridad 2025-2028"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/
     context: "Aprobada por Decreto 3900 en mayo 2025. Primera estrategia nacional de ciberseguridad, con apoyo de la OEA. CERT-PY opera desde 2012 bajo el MITIC."
-  - label: "Gobierno digital"
-    url: /articulos/2026/07/16/gobierno-digital-paraguay/
-    context: "Paraguay tiene 480+ trámites online, 1.5M de identidades electrónicas, cédula y licencia de conducir digitales. Pero la arquitectura de datos sigue fr"
 ---
 
 # Ministerio de Tecnologias de la Informacion y Comunicacion
 
 Creado en 2018, el MITIC es el ministerio responsable de la politica digital de Paraguay. Administra la identidad electronica (1.5M+ usuarios), los 480+ tramites digitales del portal Paraguay.gov.py, y la infraestructura de datos del Estado. Es la contraparte del BID en la Agenda Digital y lidera la consulta publica para la Estrategia Nacional de IA.
 
-**17 artículos** en el observatorio mencionan a MITIC.
+**15 artículos** en el observatorio mencionan a MITIC.

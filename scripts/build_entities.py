@@ -31,6 +31,24 @@ OBSERVATORY_PAGES = {
 PARAGUAY_TZ = timezone(timedelta(hours=-4))
 MAX_CONTEXT_CHARS = 280
 
+# Accent-insensitive match helpers
+ACCENT_MAP = str.maketrans(
+    "áéíóúüñÁÉÍÓÚÜÑ",
+    "aeiouunAEIOUUN"
+)
+
+
+def normalize(text):
+    """Remove accents for case-insensitive, accent-insensitive matching."""
+    return text.translate(ACCENT_MAP)
+
+
+def safe_pattern(text):
+    """Build case-insensitive, accent-insensitive regex pattern."""
+    normalized = normalize(text)
+    # Escape regex special chars, but allow matching original accents too
+    return re.compile(re.escape(normalized), re.IGNORECASE)
+
 
 def load_entities():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -73,10 +91,15 @@ def clean_title(title_str, fallback_fname):
     return ' '.join(word.capitalize() for word in parts if word)
 
 
-def find_mentions_in_posts(keywords):
-    """Find all posts mentioning any of the keywords. Returns list of dicts."""
-    results = []
-    kw_patterns = [re.compile(re.escape(kw), re.IGNORECASE) for kw in keywords]
+def find_mentions_in_posts(keywords, max_results=15):
+    if not keywords:
+        return []
+
+    primary_kw = keywords[0]
+    primary_pat = safe_pattern(primary_kw)
+    secondary_pats = [safe_pattern(kw) for kw in keywords[1:]]
+
+    scored = []
 
     for fname in sorted(os.listdir(POSTS_DIR)):
         if not fname.endswith('.md'):
@@ -93,21 +116,30 @@ def find_mentions_in_posts(keywords):
         categories = fm.get("categories", "articulos")
         post_url = build_post_url(fname, categories)
 
-        # Check if any keyword matches in content
-        matched = False
-        for kw_pat in kw_patterns:
-            if kw_pat.search(content):
-                matched = True
-                break
+        score = 0
+        matched_pat = None
 
-        if not matched:
+        # Normalize content once for matching
+        norm_content = normalize(content)
+
+        if primary_pat.search(norm_content):
+            score = 3
+            matched_pat = primary_pat
+        else:
+            for pat in secondary_pats:
+                if pat.search(norm_content):
+                    score += 1
+                    if not matched_pat:
+                        matched_pat = pat
+
+        if score == 0:
             continue
 
-        # Extract context snippet around first match
-        context = ""
+        # Extract context from body
         body = content.split('---', 2)[-1] if content.startswith('---') else content
-        for kw_pat in kw_patterns:
-            m = kw_pat.search(body)
+        context = ""
+        if matched_pat:
+            m = matched_pat.search(body)
             if m:
                 start = max(0, m.start() - 80)
                 end = min(len(body), m.end() + 200)
@@ -117,17 +149,25 @@ def find_mentions_in_posts(keywords):
                 if len(snippet) > MAX_CONTEXT_CHARS:
                     snippet = snippet[:snippet.rfind(' ', 0, MAX_CONTEXT_CHARS)] + "..."
                 context = snippet
-                break
 
-        results.append({
+        scored.append({
             "title": title,
             "url": post_url,
             "date": fm.get("date", ""),
             "category": categories,
             "context": context,
+            "score": score,
         })
 
-    return results
+    scored.sort(key=lambda a: (-a["score"], a.get("date", "")))
+    seen = set()
+    unique = []
+    for item in scored:
+        if item["url"] not in seen:
+            seen.add(item["url"])
+            unique.append(item)
+
+    return unique[:max_results]
 
 
 def load_observatory_entries():
@@ -182,24 +222,23 @@ def load_observatory_entries():
     return entries
 
 
-def find_observatory_matches(keywords, obs_entries):
-    """Cross-reference entity keywords against observatory entries."""
+def find_observatory_matches(entity_name, obs_entries):
+    """Cross-reference entity NAME only against observatory entries.
+    Uses only the primary name, not secondary keywords, to avoid false positives."""
     matches = []
+    name_lower = entity_name.lower()
     for entry in obs_entries:
         search_text = f"{entry.get('term', '')} {entry.get('label', '')} {entry.get('context', '')}"
-        search_lower = search_text.lower()
-        for kw in keywords:
-            if kw.lower() in search_lower:
-                matches.append(entry)
-                break
+        if name_lower in search_text.lower():
+            matches.append(entry)
     return matches
 
 
-def extract_glossary_terms(keywords, obs_entries):
-    """Extract glossary entries matching entity keywords."""
+def extract_glossary_terms(entity_name, obs_entries):
+    """Extract glossary entries matching entity name (not secondary keywords)."""
+    name_lower = entity_name.lower()
     return [e for e in obs_entries if e["page"] == "glosario"
-            and any(kw.lower() in (e.get("term", "") + " " + e.get("context", "")).lower()
-                    for kw in keywords)]
+            and name_lower in (e.get("term", "") + " " + e.get("context", "")).lower()]
 
 
 def yaml_multiline(text):
@@ -303,14 +342,12 @@ def main():
     generated = 0
     for entity in entities:
         slug = entity["slug"]
-        keywords = entity.get("keywords", [entity["name"]])
+        name = entity["name"]
+        keywords = entity.get("keywords", [name])
 
-        # Find article mentions
         related = find_mentions_in_posts(keywords)
-
-        # Find observatory cross-references
-        obs_matches = find_observatory_matches(keywords, obs_entries)
-        glossary_matches = extract_glossary_terms(keywords, obs_entries)
+        obs_matches = find_observatory_matches(name, obs_entries)
+        glossary_matches = extract_glossary_terms(name, obs_entries)
 
         # Generate page
         content = generate_entity_page(entity, related, glossary_matches, obs_matches)

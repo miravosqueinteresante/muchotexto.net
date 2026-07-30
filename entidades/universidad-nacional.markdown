@@ -11,9 +11,13 @@ entity_description: >
   La universidad mas grande de Paraguay, fundada en 1889. Sus facultades de Ingenieria y Politecnica forman parte de los 400-600 graduados anuales en informatica. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formacion de talento tech del pais.
 entity_category: academia
 related_articles:
+  - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
+    url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
+  - title: "El campo paraguayo se moderniza sin el pequeño productor"
+    url: /articulos/2026/07/13/agro-40-paraguay-ia/
   - title: "Primer Articulo"
     url: /articulos/2026/05/10/primer-articulo/
-    context: "oras desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque 'no h"
+    context: "e consumir contenido. Hay otra manera. Más lenta, más tranquila, más profunda. Una en la que el texto no compite con animaciones ni ventanas emergentes. Una en la que el protagonista es lo que está es"
   - title: "Ciberhumanidad"
     url: /articulos/2026/05/13/ciberhumanidad/
     context: "ad.' --- Vivimos en la era más conectada de la historia y, al mismo tiempo, en una de las más solitarias. Tenemos el conocimiento del mundo en el bolsillo, pero cada vez leemos menos de cinco minutos "
@@ -50,22 +54,16 @@ related_articles:
   - title: "Corrupcion Y Justicia Pulso Paraguay"
     url: /articulos/2026/05/30/corrupcion-y-justicia-pulso-paraguay/
     context: "asesoría” y desata indignación El caso de la jueza suspendida por vínculos con una mafia de pagarés ha generado un fuerte repudio en la ciudadanía, que clama por justicia y transparencia. La oposición"
-  - title: "Abuso De Menores Pulso Paraguay"
-    url: /articulos/2026/05/31/abuso-de-menores-pulso-paraguay/
-    context: "026' description; 'Abuso de menores; El debate sobre el abuso de menores genera una fuerte controversia en la sociedad paraguaya. Pulso Paraguay — 31 de mayo de 2026.' lastmodifiedat; 2026-05-31 categ"
-  - title: "La Albirroja Y Su Lista De Convocados Para El Mund Pulso Paraguay"
-    url: /articulos/2026/06/01/la-albirroja-y-su-lista-de-convocados-para-el-mund-pulso-paraguay/
-    context: "Público ha imputado a un grupo de estadounidenses que ingresaron a Paraguay con una carga de drogas en un jet privado. Este caso ha despertado preocupación por la seguridad y el narcotráfico en el paí"
 related_glossary:
   - term: "Tier III (Uptime Institute)"
     url: /artículos/2026/07/25/cadena-valor-data-center/
   - term: "ASIC"
     url: /artículos/2026/07/07/criptominería-paraguay-energía-barata/
-  - term: "LLM (Large Language Model)"
-    url: /artículos/2026/07/09/educación-tech-paraguay-ia/
   - term: "Token"
     url: /artículos/2026/07/10/que-es-un-data-center-paraguay-ia/
   - term: "Silicon Shield"
+    url: /artículos/2026/07/15/semiconductores-taiwan-paraguay/
+  - term: "ASML / litografía EUV"
     url: /artículos/2026/07/15/semiconductores-taiwan-paraguay/
 related_observatory:
   - label: "Tier III (Uptime Institute)"
@@ -74,9 +72,6 @@ related_observatory:
   - label: "ASIC"
     url: /artículos/2026/07/07/criptominería-paraguay-energía-barata/
     context: "Chip especializado en una única tarea, usado en minería de bitcoin. A diferencia de las GPUs, que sirven para múltiples propósitos, los ASICs solo res"
-  - label: "LLM (Large Language Model)"
-    url: /artículos/2026/07/09/educación-tech-paraguay-ia/
-    context: "Modelo de inteligencia artificial entrenado con enormes cantidades de texto para entender y generar lenguaje humano. Entrenar uno requiere miles de GP"
   - label: "Token"
     url: /artículos/2026/07/10/que-es-un-data-center-paraguay-ia/
     context: "Unidad básica de procesamiento de un LLM. Un token equivale aproximadamente a una sílaba. Los modelos cobran por token procesado. Un chip H100 de NVID"
@@ -89,19 +84,22 @@ related_observatory:
   - label: "Ley 7593/2025"
     url: /artículos/2026/07/07/ley-protección-datos-paraguay-ia/
     context: "Primera ley integral de protección de datos personales de Paraguay, vigente desde noviembre de 2027. Alineada con el GDPR europeo, pero con una autori"
-  - label: "UPTP (Universidad Politécnica Taiwán-Paraguay)"
-    url: /artículos/2026/07/09/educación-tech-paraguay-ia/
-    context: "Universidad fundada en 2018 como parte de la cooperación bilateral con Taiwán. Ha graduado a más de 300 estudiantes y proyecta 500 ingenieros por año."
   - label: "Deepfake"
     url: /artículos/2026/07/16/ia-periodismo-paraguay/
     context: "Video, imagen o audio falso generado con inteligencia artificial que imita la apariencia o voz de una persona real. La tecnología para crearlos es gra"
   - label: "Fact-checking (verificación de datos)"
     url: /artículos/2026/07/16/ia-periodismo-paraguay/
     context: "Proceso de contrastar afirmaciones públicas con fuentes verificables. Organizaciones como Chequeado (Argentina) y Aos Fatos (Brasil) usan IA para auto"
+  - label: "Ransomware"
+    url: /articulos/2026/07/17/ciberseguridad-paraguay/
+    context: "Tipo de ciberataque que cifra los datos de una organización y exige un rescate para liberarlos. En junio de 2025 un ataque de ransomware expuso 7,4 mi"
+  - label: "Sesgo algorítmico"
+    url: /artículos/2026/07/21/ia-justicia-paraguay/
+    context: "Error sistemático en el resultado de un algoritmo de IA que produce resultados injustos para ciertos grupos. No es un bug —es una propiedad inherente "
 ---
 
 # Universidad Nacional de Asuncion
 
 La universidad mas grande de Paraguay, fundada en 1889. Sus facultades de Ingenieria y Politecnica forman parte de los 400-600 graduados anuales en informatica. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formacion de talento tech del pais.
 
-**145 artículos** en el observatorio mencionan a UNA.
+**15 artículos** en el observatorio mencionan a UNA.

@@ -50,12 +50,10 @@ related_articles:
   - title: "Que Es Realmente El Futbol"
     url: /articulos/2026/06/10/que-es-realmente-el-futbol/
     context: "rágil al mismo tiempo.  Sudáfrica 2010; el primer Mundial africano Nelson Mandela líder sudafricano dijo; 'El deporte tiene el poder de cambiar el mundo. Tiene el poder de inspirar. Tiene el poder de "
-  - title: "Malestar Ciudadano La Salud Publica Como Espejo De Editorial"
-    url: /articulos/2026/06/16/malestar-ciudadano-la-salud-publica-como-espejo-de-editorial/
-    context: "honestidad y en pro del bien común. Porque al final del día, el desafío más grande de Paraguay no es tecnológico. Es, como siempre lo ha sido, profundamente humano."
-  - title: "Juicio Por El Caso Maria Fernanda Pulso Paraguay"
-    url: /articulos/2026/06/19/juicio-por-el-caso-maria-fernanda-pulso-paraguay/
-    context: "ación en la sociedad paraguaya. El caso María Fernanda continúa siendo un tema candente, mientras que la albirroja despierta pasiones y esperanza en los aficionados que esperan un buen resultado en el"
+  - title: "Debut De La Albirroja En El Mundial De La Fifa 202 Pulso Paraguay"
+    url: /articulos/2026/06/11/debut-de-la-albirroja-en-el-mundial-de-la-fifa-202-pulso-paraguay/
+  - title: "Mundial De Futbol 2026 Pulso Paraguay"
+    url: /articulos/2026/06/12/mundial-de-futbol-2026-pulso-paraguay/
 related_glossary:
   - term: "ANDE (Administración Nacional de Electricidad)"
     url: /artículos/2026/05/27/apertura-sector-electrico-privado-paraguay/
@@ -101,4 +99,4 @@ related_observatory:
 
 La ANDE es la empresa estatal de electricidad de Paraguay. Opera 16.000 MW de capacidad instalada (Itaipu, Yacyreta, Acaray) con la tarifa industrial mas baja de Sudamerica (0.03-0.05 USD/kWh). Es el actor central en la apertura del sector electrico (Ley 7599/2025, Decreto 6034) y el principal proveedor de energia para data centers y criptomineria.
 
-**54 artículos** en el observatorio mencionan a ANDE.
+**15 artículos** en el observatorio mencionan a ANDE.

@@ -8,7 +8,9 @@
 #   name_full:   nombre completo oficial
 #   description: 1-2 parrafos descriptivos. Debe ser factual, no marketinero.
 #   category:    gobierno | infraestructura | empresa | geopolitica | academia | comunidad
-#   keywords:    lista de terminos alternativos para buscar en posts
+#   keywords:    lista de terminos ESPECIFICOS para buscar en posts.
+#                Evitar terminos genericos que aparecen en muchos articulos.
+#                La primera keyword DEBE ser el nombre exacto de la entidad.
 #   featured:    true = aparece primero en la landing page
 #   related_laws: leyes asociadas a esta entidad (opcional)
 
@@ -26,7 +28,6 @@
   keywords:
     - MITIC
     - Ministerio de Tecnologias
-    - gobierno digital
     - identidad electronica
     - Agenda Digital
   related_laws:
@@ -46,7 +47,7 @@
   featured: true
   keywords:
     - ANDE
-    - energia electrica
+    - Administracion Nacional de Electricidad
     - tarifa electrica
     - sector electrico
     - apertura electrica
@@ -64,10 +65,9 @@
   featured: true
   keywords:
     - Itaipu
-    - represa
-    - hidroelectrica
     - Anexo C
-    - energia paraguaya
+    - represa Itaipu
+    - Itaipu Binacional
   related_laws:
     - "Anexo C del Tratado de Itaipu — vence 1 enero 2027"
     - "Tarifa Itaipu 2024-2026 — USD 19.28/kW-mes"
@@ -85,10 +85,9 @@
   featured: true
   keywords:
     - Yguazu Digital
-    - data center
-    - centro de datos
-    - Paraguay Taiwan
+    - Yguazu
     - ICDF
+    - Paraguay Taiwan
 
 - slug: taiwan
   name: Taiwan
@@ -104,10 +103,8 @@
   keywords:
     - Taiwan
     - Taiwan
-    - TSMC
-    - semiconductores
-    - ICDF
-    - geopolitica
+    - geopolitica Taiwan
+    - relaciones Taiwan Paraguay
 
 - slug: conacyt
   name: CONACYT
@@ -120,10 +117,7 @@
   category: gobierno
   keywords:
     - CONACYT
-    - ciencia tecnologia
-    - investigacion
-    - becas
-    - innovacion
+    - Consejo Nacional de Ciencia
 
 - slug: cert-py
   name: CERT-PY
@@ -136,9 +130,8 @@
   category: gobierno
   keywords:
     - CERT-PY
-    - ciberseguridad
-    - seguridad informatica
-    - incidentes
+    - ciberseguridad Paraguay
+    - seguridad informatica Paraguay
   related_laws:
     - "Estrategia Nacional de Ciberseguridad 2025-2028 — Decreto 3900"
 
@@ -152,11 +145,10 @@
     Paraguay, en un data center Tier III en Asuncion.
   category: empresa
   keywords:
-    - HIVE
     - HIVE Digital
+    - HIVE Digital Technologies
     - BUZZ AI Cloud
-    - GPU
-    - criptomineria
+    - campus GPU
 
 - slug: starlink
   name: Starlink
@@ -170,10 +162,8 @@
   category: empresa
   keywords:
     - Starlink
-    - internet satelital
-    - SpaceX
-    - conectividad
-    - CONATEL
+    - internet satelital Paraguay
+    - SpaceX Paraguay
 
 - slug: koga
   name: KOGA Impact Lab
@@ -186,10 +176,8 @@
   category: comunidad
   keywords:
     - KOGA
-    - aceleradora
-    - startups
-    - emprendedores
-    - innovacion
+    - KOGA Impact Lab
+    - aceleradora Paraguay
 
 - slug: x8cloud
   name: X8 Cloud
@@ -203,8 +191,6 @@
   keywords:
     - X8 Cloud
     - X8Cloud
-    - data center
-    - inversion
 
 - slug: peter-thiel
   name: Peter Thiel
@@ -218,10 +204,8 @@
   category: geopolitica
   keywords:
     - Peter Thiel
-    - Thiel
     - Palantir
     - Founders Fund
-    - vigilancia
 
 - slug: santiago-pena
   name: Santiago Pena
@@ -235,9 +219,7 @@
   category: gobierno
   keywords:
     - Santiago Pena
-    - presidente
-    - gobierno
-    - Pena
+    - "presidente Santiago Pena"
 
 - slug: bid
   name: BID
@@ -251,10 +233,7 @@
   category: geopolitica
   keywords:
     - BID
-    - Banco Interamericano
-    - financiamiento
-    - prestamo
-    - desarrollo
+    - Banco Interamericano de Desarrollo
 
 - slug: tsnc
   name: TSMC
@@ -268,10 +247,7 @@
   category: geopolitica
   keywords:
     - TSMC
-    - semiconductores
-    - chips
     - Taiwan Semiconductor
-    - NVIDIA
 
 - slug: sopaia
   name: SOPAIA
@@ -284,8 +260,7 @@
   category: comunidad
   keywords:
     - SOPAIA
-    - inteligencia artificial
-    - comunidad IA
+    - Sociedad Paraguaya de Inteligencia Artificial
     - IBERAMIA
 
 - slug: pti-py
@@ -301,9 +276,6 @@
   keywords:
     - PTI-PY
     - Parque Tecnologico Itaipu
-    - hidrogeno verde
-    - investigacion
-    - energia
 
 - slug: universidad-nacional
   name: UNA
@@ -315,11 +287,8 @@
     Representa la capacidad de formacion de talento tech del pais.
   category: academia
   keywords:
-    - UNA
-    - Universidad Nacional
-    - universidad
-    - ingenieria
-    - formacion
+    - Universidad Nacional de Asuncion
+    - "UNA "
 
 - slug: amcham
   name: AmCham Paraguay
@@ -332,9 +301,7 @@
   category: comunidad
   keywords:
     - AmCham
-    - camara comercio
-    - inversion
-    - Silicon Valley
+    - Camara de Comercio Paraguayo-Americana
 
 - slug: formato-universidad-ia
   name: Formacion en IA
@@ -347,9 +314,7 @@
     de 3.500-7.000 profesionales para los data centers anunciados.
   category: academia
   keywords:
-    - educacion
-    - formacion
-    - talento
-    - ingenieros
-    - universidad
-    - becas
+    - graduados en informatica
+    - formacion talento
+    - becas Taiwan
+    - ingenieros Paraguay

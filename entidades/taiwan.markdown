@@ -31,29 +31,26 @@ related_articles:
     context: "e y probablemente se construirá. El MITIC ya lidera la ejecución. La delegación taiwanesa ya visitó el terreno. Ambos gobiernos tienen incentivos políticos para mostrar resultados concretos antes de q"
   - title: "El plan de Paraguay para pasar de la soja al silicio"
     url: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
-    context: "idrógeno verde. El problema es la distancia; los productos de alta complejidad —semiconductores, farmacéuticos avanzados, maquinaria de precisión— están demasiado lejos de lo que Paraguay sabe hacer h"
+  - title: "Lo que la criptominería le cuesta realmente a Paraguay"
+    url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
     context: "ley paraguaya no resuelve. Si Google, Microsoft o Amazon —empresas que el fondo taiwanés ICDF ya contactó para sondear interés— almacenan datos en Yguazú Digital, la ley estadounidense CLOUD Act permi"
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "ilaterales; el BID, el Banco Europeo de Inversiones y la agencia de cooperación taiwanesa ICDF. Los montos son conocidos pero insuficientes; 140 millones para la subestación Emboscada, 133 millones pa"
+  - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
+    url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
     context: "dad Politécnica Taiwán-Paraguay, cuyo nuevo campus abre en 2027. Los préstamos taiwaneses a Paraguay superan los 400 millones de dólares. No son donaciones; son créditos para infraestructura, educació"
   - title: "Qué es un data center y por qué Paraguay quiere construir uno"
     url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
-    context: "rande-del-mundo %}, la red eléctrica, la criptominería y la geopolítica de los semiconductores asumen este conocimiento. Si llegaste hasta acá, ya tenés las bases para leer cualquiera de ellos. Este a"
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
     context: "e; el Silicon Shield. La lógica es que el mundo es tan dependiente de los chips taiwaneses que ninguna potencia —ni siquiera China— se atrevería a interrumpir su producción. Taiwan Semiconductor es, a"
-  - title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
-    url: /articulos/2026/07/16/ia-soberana-paraguay/
-  - title: "Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años"
-    url: /articulos/2026/07/17/ciberseguridad-paraguay/
-  - title: "Lo que un data center compra y Paraguay no puede vender"
-    url: /articulos/2026/07/25/cadena-valor-data-center/
-    context: "Yguazú Digital menciona explícitamente la facilitación de visados para personal taiwanés. No menciona un plan de formación de técnicos paraguayos ni compromisos de contenido local. La contraparte taiw"
+  - title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
+    url: /articulos/2026/07/15/starlink-paraguay-conectividad/
 related_glossary:
   - term: "TSMC (Taiwan Semiconductor Manufacturing Company)"
     url: /artículos/2026/07/15/semiconductores-taiwan-paraguay/
@@ -69,9 +66,6 @@ related_observatory:
   - label: "2028"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
     context: "[Elecciones generales en Paraguay](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/): prueba de fuego para la alianza con Taiwán."
-  - label: "Yguazú Digital"
-    url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
 ---
 
 # Taiwan (Republica de China)

@@ -3,13 +3,17 @@ layout: default
 ---
 <article class="page entity-page">
   <div class="entity-header">
-    <h1 class="page-title">{{ page.name_full | default: page.title }}</h1>
+    <h1 class="page-title">{{ page.entity_name | default: page.title }}</h1>
     {% if page.entity_description %}
+    <p class="entity-subtitle">{{ page.entity_name_full | default: page.title }}</p>
     <p class="entity-desc">{{ page.entity_description }}</p>
     {% endif %}
     <div class="entity-meta">
       <span class="entity-category" data-category="{{ page.entity_category }}">{{ page.entity_category | capitalize }}</span>
-      <span class="entity-updated">Actualizado: {{ page.last_modified_at | date: "%-d %b %Y" }}</span>
+      {% assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,setiembre,octubre,noviembre,diciembre" | split: "," %}
+      {% assign d = page.last_modified_at | date: "%-d" %}
+      {% assign m = page.last_modified_at | date: "%-m" | minus: 1 %}
+      <span class="entity-updated">Actualizado: {{ d }} de {{ meses[m] }} de {{ page.last_modified_at | date: "%Y" }}</span>
     </div>
   </div>
 
