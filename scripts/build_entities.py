@@ -90,19 +90,35 @@ def clean_title(title_str, fallback_fname):
 # ─── Article matching ────────────────────────────────────────────────────
 
 def extract_paragraph_containing(body, pattern, max_len=250):
-    """Extract the paragraph that contains the match."""
+    """Extract the paragraph that contains the match, skipping JSON-LD and HTML blocks."""
     m = pattern.search(body)
     if not m:
         return ""
     match_pos = m.start()
-    # Find paragraph boundaries
-    para_start = body.rfind('\n\n', 0, max(0, match_pos))
+
+    # Skip JSON-LD script blocks and HTML
+    clean_body = body
+    # Remove JSON-LD blocks
+    clean_body = re.sub(r'<script\s[^>]*>.*?</script>', '', clean_body, flags=re.DOTALL | re.IGNORECASE)
+    clean_body = re.sub(r'<[^>]+>', '', clean_body)
+
+    # Re-find match in cleaned body
+    m2 = pattern.search(clean_body)
+    if m2:
+        match_pos = m2.start()
+    else:
+        return ""
+
+    # Find paragraph boundaries in clean body
+    para_start = clean_body.rfind('\n\n', 0, max(0, match_pos))
     para_start = para_start + 2 if para_start != -1 else 0
-    para_end = body.find('\n\n', match_pos)
-    para_end = para_end if para_end != -1 else min(len(body), match_pos + 300)
-    snippet = body[para_start:para_end].strip()
+    para_end = clean_body.find('\n\n', match_pos)
+    para_end = para_end if para_end != -1 else min(len(clean_body), match_pos + 300)
+
+    snippet = clean_body[para_start:para_end].strip()
     snippet = re.sub(r'\s+', ' ', snippet)
-    snippet = re.sub(r'[#*_>`|~]', '', snippet)
+    snippet = snippet.replace('"', "'")
+    snippet = snippet.replace(':', ';')
     if len(snippet) > max_len:
         snippet = snippet[:snippet.rfind(' ', 0, max_len)] + "..."
     return snippet

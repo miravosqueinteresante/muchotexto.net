@@ -13,10 +13,8 @@ entity_category: infraestructura
 related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "<script type='application/ld+json' { '@context'; 'https;//schema.org', '@type'; 'FAQPage', 'mainEntity'; [ { '@type'; 'Question', 'name'; 'Que es Yguazu Digital y cuanto invertira?', 'acceptedAnswer'; { '@type'; 'Answer', 'text'; 'Yguazu Digital es.."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "<script type='application/ld+json' { '@context'; 'https;//schema.org', '@type'; 'FAQPage', 'mainEntity'; [ { '@type'; 'Question', 'name'; 'Que establece la Ley 7593/2025 de proteccion de datos?', 'acceptedAnswer'; { '@type'; 'Answer', 'text'; 'Es la."
   - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"

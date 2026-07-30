@@ -22,7 +22,7 @@ related_articles:
     context: "- ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones' (4 julio 2026) - [Última Hora —..."
   - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
-    context: " Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% posturl..."
+    context: "## Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url..."
 entity_laws:
   - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
   - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"

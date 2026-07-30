@@ -40,7 +40,7 @@ related_articles:
     context: "Hay un post que circula en redes sociales y que probablemente ya viste. Dice que Uber quemó todo su presupuesto anual de IA en cuatro meses. Que Microsoft está retirando licencias a sus propios ingenieros. Que Starbucks eliminó su sistema de..."
   - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
-    context: "La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que Rerum Novarum pero 135 años después, la declaración adquiere otro peso. Es la..."
+    context: "La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la."
   - title: "¿Qué es realmente el fútbol?"
     url: /articulos/2026/06/10/que-es-realmente-el-futbol/
     context: "La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte; es una religión sin catedral, una guerra sin fusiles, un..."

@@ -13,7 +13,7 @@ entity_category: infraestructura
 related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
+    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; *y* (agua) + *guasu* (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en."
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental; tener energía disponible..."
