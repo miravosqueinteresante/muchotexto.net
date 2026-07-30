@@ -37,10 +37,38 @@ obs_cronologia:
   - label: "2024"
     url: /cronologia/
     context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
+obs_regulacion:
+  - label: "Ley 7599 y Decreto 6034 (2025)"
+    url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
+    context: "Abren la generación de energía renovable no convencional al sector privado por primera vez. Cuatro figuras legales nuevas: autogenerador, cogenerador, generador puro y exportador. Decreto 6034..."
+  - label: "Reglamento tarifario BCP (julio 2026)"
+    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
+    context: "El BCP emitió un reglamento que transparenta las comisiones de los medios de pago electrónicos."
 obs_casos-de-uso:
+  - label: "Agricultura de precisión"
+    url: /articulos/2026/07/13/agro-40-paraguay-ia/
+    context: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil. El Ministerio de Agricultura creó una comisión técnica de riesgo climático..."
+  - label: "Data centers como nuevo sector exportador"
+    url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
+    context: "Paraguay tiene la electricidad industrial más barata de Sudamérica (0.03-0.05 USD/kWh). Eso atrae data centers de IA que ven al país como alternativa a Irlanda, Singapur y Virginia."
+  - label: "Yguazú Digital"
+    url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
+    context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+  - label: "Apertura del sector eléctrico"
+    url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
+    context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. X8 Cloud anunció $10-50B en data centers. HIVE Digital opera 100 MW de GPU."
   - label: "Criptominería"
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
+  - label: "E-commerce en Paraguay"
+    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
+    context: "Mercado de USD 700M-2.180M, crece 23-40% anual. 8 de cada 10 paraguayos compran online, 81% desde celular. Impulsado por pagos QR y billeteras móviles."
+  - label: "Logística de último kilómetro"
+    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
+    context: "Sin direcciones estandarizadas. AEX cubre 120+ ciudades. El 77% del e-commerce es transfronterizo."
+  - label: "IA en logística"
+    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
+    context: "Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos."
 ---
 
 4 articulos en el observatorio mencionan a ANDE.

@@ -58,19 +58,55 @@ obs_cronologia:
     url: /cronologia/
     context: "Brasil lanza VICTOR en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico."
 obs_regulacion:
+  - label: "Ley 7593/2025"
+    url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
+    context: "Primera ley integral de protección de datos personales de Paraguay. Sancionada el 5 de noviembre de 2025, promulgada el 27 de noviembre. Entra en vigor en noviembre de 2027 (24 meses de transición)...."
+  - label: "Ley 6822/2022"
+    url: /articulos/2026/07/16/gobierno-digital-paraguay/
+    context: "Servicios de confianza para transacciones electrónicas. Base legal para la identidad digital, firma electrónica y notificaciones digitales."
   - label: "Identidad Electrónica"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/
     context: "No es una ley sino un sistema operativo. Superó 1.5 millones de usuarios en julio 2026 (~30% de adultos). SMS-based 2FA obligatorio. Trámites digitales: 480+ en el portal Paraguay.gov.py."
+  - label: "Ley 4868/2013"
+    url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
+    context: "Comercio electrónico. Precursora del marco digital, anterior a la ley de datos."
+  - label: "Ley 7503/2025"
+    url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
+    context: "Crea el Sistema Nacional de Pagos. Extiende la supervisión del Banco Central del Paraguay a empresas fintech. Interoperabilidad obligatoria entre billeteras y bancos. SPI/Sipap registró 28 millones..."
+  - label: "Ley 7572/2025"
+    url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
+    context: "Ley del Mercado de Valores. Artículo 73: reconoce instrumentos financieros emitidos en blockchain. Marco legal para la tokenización de activos en Paraguay."
+  - label: "Ley 7599 y Decreto 6034 (2025)"
+    url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
+    context: "Abren la generación de energía renovable no convencional al sector privado por primera vez. Cuatro figuras legales nuevas: autogenerador, cogenerador, generador puro y exportador. Decreto 6034..."
+  - label: "Tarifa de Itaipú 2024-2026"
+    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+    context: "Acuerdo Peña-Lula: $19.28/kW-mes. Paraguay obtiene derecho a vender su excedente en el mercado libre brasileño."
 obs_casos-de-uso:
+  - label: "Tokenización del agro"
+    url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
+    context: "La Ley 7572/2025 reconoce instrumentos financieros en blockchain. Paraguay ya tiene el marco legal para tokenizar soja, ganado y commodities. Empresas como Agrotoken (Argentina) tokenizaron 230.000+..."
   - label: "Agricultura de precisión"
     url: /articulos/2026/07/13/agro-40-paraguay-ia/
     context: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil. El Ministerio de Agricultura creó una comisión técnica de riesgo climático..."
+  - label: "Data centers como nuevo sector exportador"
+    url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
+    context: "Paraguay tiene la electricidad industrial más barata de Sudamérica (0.03-0.05 USD/kWh). Eso atrae data centers de IA que ven al país como alternativa a Irlanda, Singapur y Virginia."
+  - label: "Yguazú Digital"
+    url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
+    context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+  - label: "Apertura del sector eléctrico"
+    url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
+    context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. X8 Cloud anunció $10-50B en data centers. HIVE Digital opera 100 MW de GPU."
+  - label: "Hidrógeno verde y fertilizantes"
+    url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
+    context: "Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia Nacional 2025 pivotea a fertilizantes para Brasil."
+  - label: "Criptominería"
+    url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
+    context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
   - label: "Telemedicina nacional"
     url: /articulos/2026/07/16/ia-salud-paraguay/
-    context: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con..."
-  - label: "Expediente Judicial Electrónico"
-    url: /articulos/2026/07/21/ia-justicia-paraguay/
-    context: "Paraguay digitalizó sus 18 circunscripciones judiciales desde 2016. El ~42% de los Juzgados de Paz opera con la plataforma. En diez años, ningún tribunal ha usado IA para tomar decisiones."
+    context: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta..."
 ---
 
 12 articulos en el observatorio mencionan a UNA.

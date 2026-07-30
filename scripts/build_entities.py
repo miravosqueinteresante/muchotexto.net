@@ -231,7 +231,7 @@ def load_observatory_entries():
         if page_name == "glosario":
             for m in pat.finditer(body):
                 term = m.group(1).strip()
-                definition = truncate(clean_context(m.group(2).strip()))
+                definition = clean_context(m.group(2).strip())
                 link_match = re.search(r'→\s*\[.+?\]\((.+?)\)', body[m.end():m.end()+400])
                 url = fix_url(link_match.group(1)) if link_match else f"/{page_name}/"
                 entries[page_name].append({"term": term, "url": url, "context": definition})
@@ -239,7 +239,7 @@ def load_observatory_entries():
         elif page_name == "cronologia":
             for m in pat.finditer(body):
                 year = m.group(1).strip()
-                desc = truncate(clean_context(m.group(2).strip()))
+                desc = clean_context(m.group(2).strip())
                 link_match = re.search(r'\[(.+?)\]\((.+?)\)', desc)
                 url = fix_url(link_match.group(2)) if link_match else f"/{page_name}/"
                 entries[page_name].append({"label": year, "url": url, "context": desc})
@@ -248,7 +248,7 @@ def load_observatory_entries():
             for m in pat.finditer(body):
                 name = m.group(1).strip()
                 url = fix_url(m.group(2).strip())
-                desc = truncate(clean_context(m.group(3).strip()))
+                desc = clean_context(m.group(3).strip())
                 entries[page_name].append({"label": name, "url": url, "context": desc})
 
     return entries
@@ -256,8 +256,8 @@ def load_observatory_entries():
 
 def match_entity_in_observatory(entity_name, obs_entries):
     """Find observatory entries mentioning the entity name.
-    - glosario/directorio: match in term/label only (avoid false positives from descriptions)
-    - cronologia/regulacion/casos-de-uso: match in full text"""
+    - glosario/directorio: match in term/label only
+    - cronologia/regulacion/casos-de-uso: match in full text OR in linked article content"""
     name_lower = strip_accents(entity_name).lower()
     matches = {"glosario": [], "cronologia": [], "directorio": [],
                "regulacion": [], "casos-de-uso": []}
@@ -265,15 +265,44 @@ def match_entity_in_observatory(entity_name, obs_entries):
     for page_name, entries in obs_entries.items():
         for entry in entries:
             if page_name in ("glosario", "directorio"):
-                # Only match if entity name is in the entry's own name
                 label = entry.get("term", entry.get("label", ""))
                 if name_lower not in strip_accents(label).lower():
                     continue
-            # For other pages, match in full text
-            search = f"{entry.get('term', '')} {entry.get('label', '')} {entry.get('context', '')}"
-            if name_lower in strip_accents(search).lower():
-                matches[page_name].append(entry)
+            else:
+                # Match in entry text
+                search = f"{entry.get('term', '')} {entry.get('label', '')} {entry.get('context', '')}"
+                if name_lower not in strip_accents(search).lower():
+                    # For regulacion/casos-de-uso: also check linked article
+                    if page_name in ("regulacion", "casos-de-uso") and entry.get("url", "").startswith("/articulos/"):
+                        if not _article_mentions(entity_name, entry["url"]):
+                            continue
+                    else:
+                        continue
+            matches[page_name].append(entry)
     return matches
+
+
+def _article_mentions(entity_name, article_url):
+    """Check if a linked article mentions the entity by name."""
+    name_lower = strip_accents(entity_name).lower()
+    parts = article_url.strip("/").split("/")
+    if len(parts) < 4:
+        return False
+    slug = parts[-1]
+    for fname in os.listdir(POSTS_DIR):
+        if fname.endswith(f"-{slug}.md"):
+            fpath = os.path.join(POSTS_DIR, fname)
+            try:
+                with open(fpath, "r", encoding="utf-8") as f:
+                    content = f.read().lstrip('\ufeff')
+                body = content.split('---', 2)[-1] if content.startswith('---') else content
+                # Scan deeper for regulacion/casos-de-uso linked articles
+                if name_lower in strip_accents(body[:3000]):
+                    return True
+            except (OSError, UnicodeDecodeError):
+                pass
+            break
+    return False
 
 
 # ─── Page generation ─────────────────────────────────────────────────────

@@ -23,8 +23,6 @@ related_articles:
     url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
-  - title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
-    url: /articulos/2026/07/16/ia-soberana-paraguay/
   - title: "Lo que un data center compra y Paraguay no puede vender"
     url: /articulos/2026/07/25/cadena-valor-data-center/
 obs_glosario:
@@ -37,4 +35,4 @@ obs_casos-de-uso:
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
 ---
 
-8 articulos en el observatorio mencionan a Yguazú Digital.
+7 articulos en el observatorio mencionan a Yguazú Digital.

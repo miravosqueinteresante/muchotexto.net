@@ -13,5 +13,5 @@ entity_category: comunidad
 obs_directorio:
   - label: "AmCham Paraguay"
     url: https://www.amcham.com.py/
-    context: "Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con..."
+    context: "Cámara de Comercio Paraguayo-Americana. Impulsa foros internacionales para posicionar a Paraguay como hub de data centers, energía limpia e IA. Organizó el foro en Silicon Valley (junio 2026) con el..."
 ---

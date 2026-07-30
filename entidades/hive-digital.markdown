@@ -13,7 +13,7 @@ entity_category: empresa
 related_articles:
   - title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
     url: /articulos/2026/07/16/ia-soberana-paraguay/
-    context: "Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies opera 100 megavatios de cómputo GPU en Yguazú, el proyecto binacional Yguazú Digital con Taiwán está en desarrollo, y el MITIC está construyendo un..."
+    context: "Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies construye un campus de 100 megavatios de cómputo GPU en Yguazú (con energización prevista para septiembre de 2026), el proyecto binacional Yguazú..."
   - title: "Lo que un data center compra y Paraguay no puede vender"
     url: /articulos/2026/07/25/cadena-valor-data-center/
     context: "Paraguay está atrayendo data centers con la promesa de energía barata. Yguazú Digital proyecta 1.000 MW en su fase final. HIVE Digital Technologies ya opera 300 MW en Yguazú tras completar su Fase 2 en octubre de 2025, con una..."
