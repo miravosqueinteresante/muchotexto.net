@@ -622,3 +622,128 @@ a.pagination-item:hover {
     color: var(--text-color-light);
   }
 }
+
+/* ── Entity pages ──────────────────────────────────────────────────── */
+
+.entity-header {
+  margin-bottom: 2rem;
+}
+
+.entity-desc {
+  font-size: 1.05em;
+  line-height: 1.7;
+  color: var(--text-color);
+  margin: 0.5rem 0 1rem;
+}
+
+.entity-meta {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  font-size: 0.85em;
+  margin-bottom: 2rem;
+}
+
+.entity-category {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 0.15em 0.65em;
+  border-radius: 4px;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.04em;
+}
+
+.entity-updated {
+  color: var(--text-color-light);
+}
+
+.entity-section {
+  margin: 2.5rem 0;
+
+  h2 {
+    font-size: 1.15em;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: 0.5em;
+    line-height: 1.6;
+  }
+}
+
+.entity-article-context {
+  display: block;
+  font-size: 0.85em;
+  color: var(--text-color-light);
+  margin-top: 0.1em;
+}
+
+.entity-back {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 0.9em;
+}
+
+/* ── Entity grid (landing page) ────────────────────────────────────── */
+
+.entity-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.entity-card {
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: border-color 0.2s;
+
+  &:hover {
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.1em;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.entity-card-desc {
+  font-size: 0.9em;
+  line-height: 1.55;
+  color: var(--text-color-light);
+  margin: 0 0 1rem;
+}
+
+.entity-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.78em;
+  color: var(--text-color-light);
+}
+
+.entity-card-category {
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.1em 0.5em;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-size: 0.85em;
+}

@@ -55,6 +55,18 @@ defaults:
       path: ""
     values:
       image: /assets/images/og-image.png
+  - scope:
+      path: "tags.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "categories.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "archive.md"
+    values:
+      sitemap: false
 
 include:
   - CNAME

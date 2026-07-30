@@ -39,7 +39,8 @@ for f in files:
                 result = s
             break
 
-    lines[3] = f'description: \"{result}\"\n'
+    result = result.replace('"', "'")
+    lines[3] = f'description: "{result}"\n'
     new_content = '\n'.join(lines)
 
     with open(f, 'w', encoding='utf-8') as fh:

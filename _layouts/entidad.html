@@ -1,0 +1,97 @@
+---
+layout: default
+---
+<article class="page entity-page">
+  <div class="entity-header">
+    <h1 class="page-title">{{ page.name_full | default: page.title }}</h1>
+    {% if page.entity_description %}
+    <p class="entity-desc">{{ page.entity_description }}</p>
+    {% endif %}
+    <div class="entity-meta">
+      <span class="entity-category" data-category="{{ page.entity_category }}">{{ page.entity_category | capitalize }}</span>
+      <span class="entity-updated">Actualizado: {{ page.last_modified_at | date: "%-d %b %Y" }}</span>
+    </div>
+  </div>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Thing",
+    "name": {{ page.name_full | default: page.title | jsonify }},
+    "description": {{ page.entity_description | default: page.description | jsonify }},
+    "url": "{{ site.url }}{{ page.url }}",
+    "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
+    {% if page.entity_sameAs %}, "sameAs": {{ page.entity_sameAs | jsonify }}{% endif %}
+  }
+  </script>
+
+  {{ content }}
+
+  {% if page.related_articles.size > 0 %}
+  <section class="entity-section">
+    <h2>Articulos relacionados</h2>
+    <ul class="entity-article-list">
+      {% for article in page.related_articles %}
+      <li class="entity-article-item">
+        <a href="{{ article.url }}">{{ article.title }}</a>
+        {% if article.context %}
+        <span class="entity-article-context">{{ article.context }}</span>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.entity_laws %}
+  <section class="entity-section">
+    <h2>Leyes y normativas</h2>
+    <ul class="entity-law-list">
+      {% for law in page.entity_laws %}
+      <li>{{ law }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.related_glossary %}
+  <section class="entity-section">
+    <h2>En el glosario</h2>
+    <ul class="entity-glossary-list">
+      {% for term in page.related_glossary %}
+      <li><a href="{{ term.url }}">{{ term.term }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.related_observatory %}
+  <section class="entity-section">
+    <h2>En el observatorio</h2>
+    <ul class="entity-observatory-list">
+      {% for item in page.related_observatory %}
+      <li><a href="{{ item.url }}">{{ item.label }}</a> &mdash; {{ item.context }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <nav class="entity-back">
+    <a href="/entidades/">&larr; Volver al indice de entidades</a>
+  </nav>
+</article>
+
+<div class="author-bio">
+  <div class="author-bio-avatar"><img src="{{ '/assets/images/cesar-sanchez.webp' | relative_url }}" alt="Cesar Sanchez" width="56" height="56" loading="lazy"></div>
+  <div class="author-bio-content">
+    <p class="author-bio-name">Cesar Sanchez</p>
+    <p class="author-bio-text">Consultor en automatizacion con IA generativa, anotacion de datos para modelos de lenguaje y desarrollo de soluciones basadas en IA aplicada. Fundo en 2005 uno de los primeros medios digitales sobre tecnologia en Paraguay y ha trabajado con marcas como Coca-Cola en generacion de contenido con IA. Creador del <a href="{{ '/' | relative_url }}">observatorio de IA en Paraguay</a>.</p>
+    <p class="author-bio-links">
+      <a href="{{ '/about/' | relative_url }}">Sobre el autor</a>
+       |
+      <a href="https://x.com/cesanz" target="_blank" rel="noopener noreferrer">Twitter</a>
+       |
+      <a href="https://www.linkedin.com/in/cesar-sanchez-melgarejo/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </p>
+  </div>
+</div>

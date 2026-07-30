@@ -43,8 +43,9 @@ for f in files:
         date_fmt = ''
 
     desc = f'{topic}: {sentence} Pulso Paraguay \u2014 {date_fmt}.'
+    desc = desc.replace('"', "'")
 
-    lines[3] = f'description: \"{desc}\"\n'
+    lines[3] = f'description: "{desc}"\n'
     new_content = '\n'.join(lines)
 
     with open(f, 'w', encoding='utf-8') as fh:
