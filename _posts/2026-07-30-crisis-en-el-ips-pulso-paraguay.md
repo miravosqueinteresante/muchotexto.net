@@ -20,7 +20,9 @@ La situación del Instituto de Previsión Social genera un fuerte debate en la s
 
 Crisis en IPS: Fretes reitera promesa de medicamentos “en 15 a 22 días”
 
-El director del IPS aseguró que se están gestionando los insumos necesarios para reabastecer los hospitales, en medio de críticas a la atención que reciben los asegurados. 📊 Temperatura social: Alta
+El director del IPS aseguró que se están gestionando los insumos necesarios para reabastecer los hospitales, en medio de críticas a la atención que reciben los asegurados.
+
+📊 Temperatura social: Alta
 
 🔹 Indigno trato a asegurados en Benjamín Aceval
 
@@ -30,13 +32,17 @@ Los pacientes denuncian haber sido obligados a madrugar para acceder a atención
 
 ¿Por qué las empresas paraguayas emiten bonos y no acciones en la Bolsa?
 
-El informe revela que en el primer semestre de 2026, las emisiones de bonos crecieron un 30%, mientras que las acciones se mantuvieron estancadas. 📊 Temperatura social: Media
+El informe revela que en el primer semestre de 2026, las emisiones de bonos crecieron un 30%, mientras que las acciones se mantuvieron estancadas.
+
+📊 Temperatura social: Media
 
 ⚽ DEPORTES
 
 Libertad recibe a Recoleta en su aniversario
 
-El club Libertad celebra su aniversario con un partido importante en la liga, esperando sumar puntos cruciales. 📊 Temperatura social: Media
+El club Libertad celebra su aniversario con un partido importante en la liga, esperando sumar puntos cruciales.
+
+📊 Temperatura social: Media
 
 🔹 Selección paraguaya jugará el Women’s AmeriCup South American Qualifiers
 
@@ -46,25 +52,33 @@ La selección femenina se prepara para las eliminatorias que comenzarán en las 
 
 3 Margens Festival abre llamado a producciones cinematográficas
 
-El festival invita a cineastas a participar en diversas categorías, promoviendo el cine nacional y la creatividad. 📊 Temperatura social: Media
+El festival invita a cineastas a participar en diversas categorías, promoviendo el cine nacional y la creatividad.
+
+📊 Temperatura social: Media
 
 🚨 SEGURIDAD & SOCIEDAD
 
 Detienen a uno de los presuntos asesinos de guardia de estación de servicios en Presidente Franco
 
-La captura se realizó tras una intensa búsqueda y ha sido recibida con alivio por la comunidad local. 📊 Temperatura social: Alta
+La captura se realizó tras una intensa búsqueda y ha sido recibida con alivio por la comunidad local.
+
+📊 Temperatura social: Alta
 
 💻 TECNOLOGÍA
 
 Descubren un sistema de fallas que se ha reactivado en la Antártida
 
-Investigadores advierten que esta actividad podría tener implicaciones importantes para el clima global. 📊 Temperatura social: Media
+Investigadores advierten que esta actividad podría tener implicaciones importantes para el clima global.
+
+📊 Temperatura social: Media
 
 🔥 VIRALES & TENDENCIAS
 
 Spider-Man regresa a cines de Paraguay con ‘Un nuevo día’
 
-La película ha generado gran expectativa en redes, convirtiéndose en un tema de conversación popular entre los jóvenes. 📊 Temperatura social: Alta
+La película ha generado gran expectativa en redes, convirtiéndose en un tema de conversación popular entre los jóvenes.
+
+📊 Temperatura social: Alta
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)
 

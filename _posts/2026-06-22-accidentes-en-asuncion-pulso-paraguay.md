@@ -3,40 +3,6 @@ layout: post
 title: "Pulso Paraguay: Accidentes en Asunción — 22 de junio de 2026"
 description: "Accidentes en Asunción: Los accidentes frente a la Municipalidad de Asunción han generado gran preocupación y debate en la ciudadanía. Pulso Paraguay — 22 de junio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-06-22
 last_modified_at: 2026-06-22
 categories: pulso-paraguay
@@ -54,7 +20,9 @@ Los accidentes frente a la Municipalidad de Asunción han generado gran preocupa
 
 Seguidilla de accidentes frente a la Municipalidad de Asunción: esto fue lo que pasó  
 
-Se reportaron varios accidentes en el área, lo que ha llevado a cuestionar la seguridad vial y la responsabilidad de las autoridades locales. 📊 Temperatura social: Alta  
+Se reportaron varios accidentes en el área, lo que ha llevado a cuestionar la seguridad vial y la responsabilidad de las autoridades locales.
+
+📊 Temperatura social: Alta  
 
 🔹 Yolanda Paredes exige que Riera rinda cuentas  
 
@@ -64,13 +32,17 @@ El reclamo se centra en la falta de respuesta ante la seguridad pública, amplia
 
 Salario mínimo en Paraguay es “un techo, no un piso”, cuestionan trabajadores  
 
-Los trabajadores exigen un aumento del salario mínimo, argumentando que no es suficiente para cubrir las necesidades básicas. Actualmente, el salario mínimo se sitúa en 2.300.000 guaraníes. 📊 Temperatura social: Media  
+Los trabajadores exigen un aumento del salario mínimo, argumentando que no es suficiente para cubrir las necesidades básicas. Actualmente, el salario mínimo se sitúa en 2.300.000 guaraníes.
+
+📊 Temperatura social: Media  
 
 ⚽ DEPORTES  
 
 El árbitro “riguroso en las áreas” que dirigirá el duelo entre Paraguay y Australia  
 
-El partido está programado para hoy y se espera que la actuación del árbitro sea crucial para el desarrollo del encuentro. 📊 Temperatura social: Media  
+El partido está programado para hoy y se espera que la actuación del árbitro sea crucial para el desarrollo del encuentro.
+
+📊 Temperatura social: Media  
 
 🔹 Estadounidense Clark conquista su segundo Abierto de Estados Unidos  
 
@@ -80,19 +52,25 @@ Clark ha demostrado una gran habilidad en la cancha, llevándose el título una 
 
 Artistas y organizaciones de Paraguay podrán postular a las ayudas Iberescena hasta el 23 de julio  
 
-Esta iniciativa busca fomentar la creación artística en el país, brindando apoyo financiero a proyectos culturales. 📊 Temperatura social: Baja  
+Esta iniciativa busca fomentar la creación artística en el país, brindando apoyo financiero a proyectos culturales.
+
+📊 Temperatura social: Baja  
 
 🚨 SEGURIDAD & SOCIEDAD  
 
 Marihuana premium: jueza ordena secuestro de dinero en guaraníes, reales y dólares  
 
-La decisión judicial responde a un caso de narcotráfico que involucra grandes sumas de dinero y ha captado la atención de los medios. 📊 Temperatura social: Alta  
+La decisión judicial responde a un caso de narcotráfico que involucra grandes sumas de dinero y ha captado la atención de los medios.
+
+📊 Temperatura social: Alta  
 
 🔥 VIRALES & TENDENCIAS  
 
 Video: la docente detrás del emotivo mensaje en guaraní a la Albirroja  
 
-El video se ha vuelto viral por su conmovedora interpretación y el uso del guaraní, resonando fuertemente en redes sociales. 📊 Temperatura social: Media  
+El video se ha vuelto viral por su conmovedora interpretación y el uso del guaraní, resonando fuertemente en redes sociales.
+
+📊 Temperatura social: Media  
 
 📈 RANKING DEL DÍA (por volumen de conversación estimado)  
 

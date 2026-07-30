@@ -3,40 +3,6 @@ layout: post
 title: "Pulso Paraguay: Resultados de la selección paraguaya de fútbol — 5 de julio de 2026"
 description: "Resultados de la selección paraguaya de fútbol: La derrota de Paraguay ante Francia en el Mundial generó gran conversación y análisis entre los aficionados. Pulso Paraguay — 5 de julio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-07-05
 last_modified_at: 2026-07-05
 categories: pulso-paraguay

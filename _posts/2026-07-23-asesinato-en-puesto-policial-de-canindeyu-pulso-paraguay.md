@@ -3,27 +3,6 @@ layout: post
 title: "Pulso Paraguay: Asesinato en puesto policial de  — 23 de julio de 2026"
 description: "Asesinato en puesto policial de Canindeyú: El asesinato de un civil en un puesto policial ha generado un fuerte revuelo social y mediático. Pulso Paraguay — 23 de julio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-07-23
 last_modified_at: 2026-07-23
 categories: pulso-paraguay

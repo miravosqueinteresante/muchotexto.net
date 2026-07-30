@@ -322,7 +322,9 @@ def call_github_models(prompt: str) -> str | None:
 
 def clean_content(content: str) -> str:
     # Add blank line before temperatura social indicators so markdown creates separate <p>
-    content = re.sub(r'(\S)[ \t]*\n📊 Temperatura social', r'\1\n\n📊 Temperatura social', content)
+    # Handle both inline (". 📊") and newline cases
+    content = re.sub(r'(\S)\s*📊 Temperatura social', r'\1\n\n📊 Temperatura social', content)
+    content = re.sub(r'\n{3,}', '\n\n', content)
 
     # Convert "🔎 FUENTES CONSULTADAS HOY" section to bullet list
     lines = content.split('\n')

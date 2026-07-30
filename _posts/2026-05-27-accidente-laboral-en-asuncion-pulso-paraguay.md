@@ -3,38 +3,6 @@ layout: post
 title: "Pulso Paraguay: Accidente laboral en Asunción — 27 de mayo de 2026"
 description: "Accidente laboral en Asunción: El trágico fallecimiento de un joven obrero ha generado gran preocupación en la sociedad acerca de la seguridad en el trabajo. Pulso Paraguay — 27 de mayo de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 last_modified_at: 2026-05-27
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
@@ -52,7 +20,7 @@ El trágico fallecimiento de un joven obrero ha generado gran preocupación en l
 
 Suspensión de ingreso de suboficiales en 2027 por ajuste presupuestario
 
-El Ministerio del Interior anunció que no habrá ingreso de nuevos suboficiales en 2027 debido a un ajuste presupuestario y una reorganización institucional. Esta medida busca consolidar a los 15.000 efectivos recientes, y la posibilidad de abrir nuevas convocatorias dependerá de la disponibilidad financiera en el futuro.  
+El Ministerio del Interior anunció que no habrá ingreso de nuevos suboficiales en 2027 debido a un ajuste presupuestario y una reorganización institucional. Esta medida busca consolidar a los 15.000 efectivos recientes, y la posibilidad de abrir nuevas convocatorias dependerá de la disponibilidad financiera en el futuro.
 
 📊 Temperatura social: Alta
 
@@ -60,13 +28,13 @@ El Ministerio del Interior anunció que no habrá ingreso de nuevos suboficiales
 
 Riesgo de insolvencia en IPS
 
-Los gremios industriales han alertado sobre un "riesgo de insolvencia" en el Instituto de Previsión Social (IPS) y han propuesto un plan para sostener los fondos jubilatorios. Esta situación ha despertado preocupación en sectores laborales.  
+Los gremios industriales han alertado sobre un "riesgo de insolvencia" en el Instituto de Previsión Social (IPS) y han propuesto un plan para sostener los fondos jubilatorios. Esta situación ha despertado preocupación en sectores laborales.
 
 📊 Temperatura social: Media
 
 🔹 Pacientes hipertensos sin acceso a fármacos en Cabañas
 
-Los pacientes hipertensos de Cabañas siguen sin acceso a medicamentos esenciales, lo que ha llevado a una crisis de salud pública en la región.  
+Los pacientes hipertensos de Cabañas siguen sin acceso a medicamentos esenciales, lo que ha llevado a una crisis de salud pública en la región.
 
 📊 Temperatura social: Alta
 
@@ -74,13 +42,13 @@ Los pacientes hipertensos de Cabañas siguen sin acceso a medicamentos esenciale
 
 Batacazo histórico de Recoleta FC
 
-Recoleta FC logró una victoria histórica al vencer a San Lorenzo de Almagro y clasificarse a los octavos de final de la Copa Sudamericana 2026, manteniéndose invicto en el torneo.  
+Recoleta FC logró una victoria histórica al vencer a San Lorenzo de Almagro y clasificarse a los octavos de final de la Copa Sudamericana 2026, manteniéndose invicto en el torneo.
 
 📊 Temperatura social: Alta
 
 🔹 Cerro Porteño conquista el doble campeonato femenino
 
-Cerro Porteño ha dominado la Liga de Desarrollo femenina, logrando conquistar el doble campeonato, lo que resalta el crecimiento del fútbol femenino en Paraguay.  
+Cerro Porteño ha dominado la Liga de Desarrollo femenina, logrando conquistar el doble campeonato, lo que resalta el crecimiento del fútbol femenino en Paraguay.
 
 📊 Temperatura social: Media
 
@@ -100,7 +68,7 @@ La obra se presenta en el Teatro de las Américas del Centro Cultural Paraguayo 
 
 🔹 Emergentes: una plataforma para artistas
 
-La plataforma "Emergentes" se ha lanzado para brindar impulso a artistas y proyectos culturales, mostrando un crecimiento en la inversión en el sector cultural.  
+La plataforma "Emergentes" se ha lanzado para brindar impulso a artistas y proyectos culturales, mostrando un crecimiento en la inversión en el sector cultural.
 
 📊 Temperatura social: Media
 
@@ -114,7 +82,7 @@ Un hombre de 28 años fue encontrado muerto e incinerado en una zona rural, lo q
 
 🔹 Accidente laboral fatal en Asunción
 
-Un joven de 18 años murió en un accidente laboral tras quedar atrapado en un montacargas en una obra de construcción, resaltando la necesidad de mejorar las condiciones de seguridad laboral en el país.  
+Un joven de 18 años murió en un accidente laboral tras quedar atrapado en un montacargas en una obra de construcción, resaltando la necesidad de mejorar las condiciones de seguridad laboral en el país.
 
 📊 Temperatura social: Alta
 
@@ -122,13 +90,13 @@ Un joven de 18 años murió en un accidente laboral tras quedar atrapado en un m
 
 Operativo antidrogas en Santaní
 
-La detención del hijo de una exdiputada en un operativo antidrogas ha generado un gran revuelo en las redes sociales, con muchos comentarios sobre la relación entre la política y el narcotráfico.  
+La detención del hijo de una exdiputada en un operativo antidrogas ha generado un gran revuelo en las redes sociales, con muchos comentarios sobre la relación entre la política y el narcotráfico.
 
 📊 Temperatura social: Alta
 
 🔹 La victoria de Recoleta FC
 
-La histórica clasificación de Recoleta FC ha sido ampliamente compartida y comentada en redes sociales, generando un ambiente festivo entre los hinchas.  
+La histórica clasificación de Recoleta FC ha sido ampliamente compartida y comentada en redes sociales, generando un ambiente festivo entre los hinchas.
 
 📊 Temperatura social: Alta
 

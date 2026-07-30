@@ -3,40 +3,6 @@ layout: post
 title: "Pulso Paraguay: Crisis en IPS — 24 de junio de 2026"
 description: "Crisis en IPS: La renuncia masiva en el IPS ha generado un fuerte eco en la sociedad paraguaya. Pulso Paraguay — 24 de junio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-06-24
 last_modified_at: 2026-06-24
 categories: pulso-paraguay

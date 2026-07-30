@@ -3,40 +3,6 @@ layout: post
 title: "Pulso Paraguay: Hospital Acosta Ñu y cuadros respiratorios — 23 de junio de 2026"
 description: "Hospital Acosta Ñu y cuadros respiratorios: Las preocupaciones sobre la salud pública son el tema más discutido del día, con un aumento significativo en cuadros respiratorios. Pulso Paraguay — 23 de junio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-06-23
 last_modified_at: 2026-06-23
 categories: pulso-paraguay

@@ -3,40 +3,6 @@ layout: post
 title: "Pulso Paraguay: Falta de medicamentos en IPS — 10 de julio de 2026"
 description: "Falta de medicamentos en IPS: La falta de medicamentos en el IPS genera preocupación entre los asegurados, quienes reclaman una mejor gestión de la institución. Pulso Paraguay — 10 de julio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-07-10
 last_modified_at: 2026-07-10
 categories: pulso-paraguay

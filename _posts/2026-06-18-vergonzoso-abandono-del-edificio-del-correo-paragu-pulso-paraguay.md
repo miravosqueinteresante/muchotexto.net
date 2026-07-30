@@ -3,40 +3,6 @@ layout: post
 title: "Pulso Paraguay: Vergonzoso abandono del edificio del Correo Paraguayo — 18 de junio de 2026"
 description: "Vergonzoso abandono del edificio del Correo Paraguayo: El estado crítico del edificio ha generado un gran volumen de conversación sobre la falta de mantenimiento en edificios públicos. Pulso Paraguay — 18 de junio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-06-18
 last_modified_at: 2026-06-18
 categories: pulso-paraguay

@@ -3,17 +3,6 @@ layout: post
 title: "Pulso Paraguay: Captura de la viuda negra en Yby  — 28 de julio de 2026"
 description: "Captura de la 'viuda negra' en Yby Pyta: La captura de la supuesta 'viuda negra' ha generado gran atencion mediatica y social. Pulso Paraguay — 28 de julio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-07-28
 last_modified_at: 2026-07-28
 categories: pulso-paraguay

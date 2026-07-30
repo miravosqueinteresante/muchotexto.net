@@ -3,40 +3,6 @@ layout: post
 title: "Pulso Paraguay: Frío extremo en Paraguay — 7 de julio de 2026"
 description: "Frío extremo en Paraguay: Las heladas en casi toda la Región Oriental y parte del Chaco generan preocupación en la población. Pulso Paraguay — 7 de julio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 date: 2026-07-07
 last_modified_at: 2026-07-07
 categories: pulso-paraguay

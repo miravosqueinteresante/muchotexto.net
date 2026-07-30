@@ -3,38 +3,6 @@ layout: post
 title: "Pulso Paraguay: Caso Kattya — 10 de junio de 2026"
 description: "Caso Kattya: El tema de mayor conversación hoy es el caso de Kattya González, por el que se cuestiona la idoneidad de ciertos ministros. Pulso Paraguay — 10 de junio de 2026."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 last_modified_at: 2026-06-10
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
