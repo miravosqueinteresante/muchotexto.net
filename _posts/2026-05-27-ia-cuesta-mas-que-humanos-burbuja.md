@@ -130,7 +130,7 @@ Los proyectos anunciados son de una escala que el país nunca vio. X8 Cloud plan
 
 Paraguay tiene lo que la IA necesita: energía barata ($0.04/kWh), 100% renovable, y un gobierno dispuesto a recibirla. El ministro de Industria, Marco Riquelme, viajó a Silicon Valley y se reunió con ejecutivos de NVIDIA, OpenAI y Crusoe. El presidente Peña firmó acuerdos con Taiwán y recibió a Thiel en la residencia presidencial.
 
-Pero la lección de la criptominería debería darnos una pausa. Hoy, 41 empresas del Grupo de Consumo Intensivo Especial consumen ~944 MW, equivalentes al 13.5% de la energía paraguaya de Itaipú, o 1.4 turbinas completas. Generan apenas [1.58 empleos por MW](https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/). El 66% no paga aportes al IPS. Y hay denuncias de que altos directivos de ANDE cobran hasta $500.000 mensuales en coimas de operaciones ilegales.
+Pero la lección de la criptominería debería darnos una pausa. Hoy, 41 empresas del Grupo de Consumo Intensivo Especial consumen ~944 MW, equivalentes al 13.5% de la energía paraguaya de Itaipú, o 1.4 turbinas completas. Generan apenas [1.58 empleos por MW](https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/).
 
 Los centros de datos de IA tienen el mismo perfil: alta intensidad energética, baja creación de empleo. El proyecto insignia de Crusoe en Texas, Abilene, consumirá 1.2 GW y generará unos pocos cientos de empleos permanentes. Para un país que necesita empleo formal y diversificación económica, la ecuación no es automáticamente favorable.
 
