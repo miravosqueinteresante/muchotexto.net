@@ -30,6 +30,11 @@
     de energía para data centers y criptominería.
   category: infraestructura
   featured: true
+  related_laws:
+    - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
+    - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
+    - "Tarifa de Itaipú 2024-2026 — USD 19.28/kW-mes, venta de excedente al mercado brasileño"
+    - "Anexo C del Tratado de Itaipú — vence 1 de enero de 2027"
 
 - slug: itaipu
   name: Itaipú

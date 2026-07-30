@@ -23,6 +23,11 @@ related_articles:
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
     context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
+entity_laws:
+  - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
+  - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
+  - "Tarifa de Itaipú 2024-2026 — USD 19.28/kW-mes, venta de excedente al mercado brasileño"
+  - "Anexo C del Tratado de Itaipú — vence 1 de enero de 2027"
 obs_glosario:
   - label: "ANDE (Administración Nacional de Electricidad)"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
