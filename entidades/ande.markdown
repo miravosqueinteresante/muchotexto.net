@@ -41,9 +41,6 @@ obs_casos-de-uso:
   - label: "Agricultura de precisión"
     url: /articulos/2026/07/13/agro-40-paraguay-ia/
     context: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil. El Ministerio de Agricultura creó una comisión técnica de riesgo climático..."
-  - label: "Data centers como nuevo sector exportador"
-    url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
-    context: "Paraguay tiene la electricidad industrial más barata de Sudamérica (0.03-0.05 USD/kWh). Eso atrae data centers de IA que ven al país como alternativa a Irlanda, Singapur y Virginia."
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
@@ -62,6 +59,9 @@ obs_casos-de-uso:
   - label: "IA en logística"
     url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
     context: "Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos."
+  - label: "AIkuaa: guaraní en la IA"
+    url: /articulos/2026/07/29/guarani-ia/
+    context: "El Surti crea el primer dataset comunitario de voz en guaraní con mingas y un modelo wav2vec2. API abierta de transcripción. Chatbot de WhatsApp. Contraste con maorí (Nueva Zelanda), catalán (ILENIA)..."
 ---
 
 4 articulos en el observatorio mencionan a ANDE.

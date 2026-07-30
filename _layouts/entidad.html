@@ -8,8 +8,8 @@ layout: default
 <article class="page entity-page">
   <div class="entity-header">
     <h1 class="page-title">{{ page.entity_name | default: page.title }}</h1>
-    {% if page.entity_description %}
     <p class="entity-subtitle">{{ page.entity_name_full | default: page.title }}</p>
+    {% if page.entity_description %}
     <p class="entity-desc">{{ page.entity_description }}</p>
     {% endif %}
     <div class="entity-meta">
@@ -55,20 +55,6 @@ layout: default
       <li>{{ law }}</li>
       {% endfor %}
     </ul>
-  </section>
-  {% endif %}
-
-  {% if page.obs_glosario %}
-  <section class="entity-section">
-    <h2>En el glosario</h2>
-    <ul class="entity-glossary-list">
-      {% for term in page.obs_glosario %}
-      <li>
-        <strong>{{ term.label }}</strong> &mdash; {{ term.context }}
-      </li>
-      {% endfor %}
-    </ul>
-    <p class="entity-section-more"><a href="/glosario/">Ver glosario completo &rarr;</a></p>
   </section>
   {% endif %}
 
@@ -127,6 +113,20 @@ layout: default
       {% endfor %}
     </ul>
     <p class="entity-section-more"><a href="/casos-de-uso/">Ver todos los casos de uso &rarr;</a></p>
+  </section>
+  {% endif %}
+
+  {% if page.obs_glosario %}
+  <section class="entity-section">
+    <h2>En el glosario</h2>
+    <ul class="entity-glossary-list">
+      {% for term in page.obs_glosario %}
+      <li>
+        <strong>{{ term.label }}</strong> &mdash; {{ term.context }}
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="entity-section-more"><a href="/glosario/">Ver glosario completo &rarr;</a></p>
   </section>
   {% endif %}
 

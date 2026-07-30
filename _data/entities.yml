@@ -70,16 +70,6 @@
   category: geopolítica
   featured: true
 
-- slug: conacyt
-  name: CONACYT
-  name_full: Consejo Nacional de Ciencia y Tecnología
-  description: >
-    Organismo público paraguayo responsable de la política nacional de ciencia,
-    tecnología e innovación. Financia investigación, otorga becas y coordina
-    programas de formación científica. Es la institución de referencia para
-    proyectos de investigación en IA desde el sector público.
-  category: gobierno
-
 - slug: cert-py
   name: CERT-PY
   name_full: Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay
@@ -217,14 +207,3 @@
     en Silicon Valley (junio 2026) con el MIC, conectando el ecosistema tech
     paraguayo con inversores y empresas estadounidenses.
   category: comunidad
-
-- slug: formato-universidad-ia
-  name: Formación en IA
-  name_full: Formación Universitaria en IA en Paraguay
-  description: >
-    Ecosistema de formación de talento en inteligencia artificial en Paraguay:
-    carreras de ingeniería informática en UNA, UCA, UAA, UA, UNE; becas de
-    Taiwán; bootcamps y programas de capacitación. Paraguay produce 400-600
-    graduados en informática por año, muy por debajo de la demanda proyectada
-    de 3.500-7.000 profesionales para los data centers anunciados.
-  category: academia

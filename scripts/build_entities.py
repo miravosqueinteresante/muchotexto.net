@@ -125,7 +125,8 @@ def extract_paragraph_containing(body, pattern, max_len=250):
 
 
 def find_mentions_in_posts(entity_name):
-    """Find articulos posts where entity name appears in title or first BODY_SCAN_LIMIT chars."""
+    """Find articulos posts where entity name appears in title or first BODY_SCAN_LIMIT chars.
+    Also tries full_name as fallback for matching."""
     entity_pat = safe_pattern(entity_name)
     results = []
 
@@ -139,9 +140,7 @@ def find_mentions_in_posts(entity_name):
         except UnicodeDecodeError:
             continue
 
-        # Strip BOM before any processing
         content = content.lstrip('\ufeff')
-
         fm = parse_frontmatter(content)
         categories = fm.get("categories", "articulos")
         if 'articulos' not in categories:
@@ -153,7 +152,7 @@ def find_mentions_in_posts(entity_name):
         # Check: entity name in title?
         title_match = entity_pat.search(strip_accents(title))
 
-        # Check: entity name in first N chars of body?
+        # Check: entity name in body
         body = content.split('---', 2)[-1] if content.startswith('---') else content
         body_head = strip_accents(body[:BODY_SCAN_LIMIT])
         body_match = entity_pat.search(body_head)
@@ -161,17 +160,11 @@ def find_mentions_in_posts(entity_name):
         if not title_match and not body_match:
             continue
 
-        # Score: title match > body match
         score = 3 if title_match else 1
-
         context = extract_paragraph_containing(body, entity_pat)
-
         results.append({
-            "title": title,
-            "url": url,
-            "date": fm.get("date", ""),
-            "context": context,
-            "score": score,
+            "title": title, "url": url, "date": fm.get("date", ""),
+            "context": context, "score": score,
         })
 
     results.sort(key=lambda a: (-a["score"], a.get("date", "")))
@@ -283,7 +276,7 @@ def match_entity_in_observatory(entity_name, obs_entries):
 
 
 def _article_mentions(entity_name, article_url):
-    """Check if a linked article mentions the entity by name."""
+    """Check if a linked article mentions the entity by name in first 1500 chars."""
     name_lower = strip_accents(entity_name).lower()
     parts = article_url.strip("/").split("/")
     if len(parts) < 4:
@@ -296,8 +289,7 @@ def _article_mentions(entity_name, article_url):
                 with open(fpath, "r", encoding="utf-8") as f:
                     content = f.read().lstrip('\ufeff')
                 body = content.split('---', 2)[-1] if content.startswith('---') else content
-                # Scan deeper for regulacion/casos-de-uso linked articles
-                if name_lower in strip_accents(body[:3000]):
+                if name_lower in strip_accents(body[:1500]):
                     return True
             except (OSError, UnicodeDecodeError):
                 pass
@@ -395,12 +387,27 @@ def main():
     obs_entries = load_observatory_entries()
     os.makedirs(ENTITIES_DIR, exist_ok=True)
 
+    # Remove old entity pages for entities no longer in the list
+    valid_slugs = {e["slug"] for e in entities}
+    for fname in os.listdir(ENTITIES_DIR):
+        if fname == 'index.markdown':
+            continue
+        slug = fname.replace('.markdown', '')
+        if slug not in valid_slugs:
+            os.remove(os.path.join(ENTITIES_DIR, fname))
+            print(f"  ELIMINADO: {slug}")
+
     generated = 0
     for entity in entities:
         slug = entity["slug"]
         name = entity["name"]
+        name_full = entity.get("name_full", name)
 
         related = find_mentions_in_posts(name)
+        # Full-name fallback for entities like MITIC
+        if not related and name_full != name:
+            related = find_mentions_in_posts(name_full)
+
         obs_matches = match_entity_in_observatory(name, obs_entries)
 
         content = generate_entity_page(entity, related, obs_matches)
