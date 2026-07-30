@@ -65,10 +65,10 @@ layout: default
       {% for term in page.obs_glosario %}
       <li>
         <strong>{{ term.label }}</strong> &mdash; {{ term.context }}
-        {% if term.url %}<br><a href="{{ term.url }}">Ver articulo completo</a>{% endif %}
       </li>
       {% endfor %}
     </ul>
+    <p class="entity-section-more"><a href="/glosario/">Ver glosario completo &rarr;</a></p>
   </section>
   {% endif %}
 
