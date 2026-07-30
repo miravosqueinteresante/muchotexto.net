@@ -33,7 +33,7 @@ obs_cronologia:
     context: "Paraguay y Brasil firman el Tratado de Itaipú: 14.000 MW, la hidroeléctrica más grande del mundo."
   - label: "2021"
     url: /cronologia/
-    context: "Atome anuncia proyecto de fertilizantes verdes en Villeta. En abril 2026 alcanza decisión final de inversión (FID) con USD 665M, pero la construcción no empieza por conflicto con ANDE sobre tarifa elé"
+    context: "Atome anuncia proyecto de fertilizantes verdes en Villeta. En abril 2026 alcanza decisión final de inversión (FID) con USD 665M, pero la construcción no empieza por conflicto con ANDE sobre tarifa..."
   - label: "2024"
     url: /cronologia/
     context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."

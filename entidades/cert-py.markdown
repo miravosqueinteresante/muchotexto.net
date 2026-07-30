@@ -19,7 +19,7 @@ entity_laws:
 obs_glosario:
   - label: "CERT-PY"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/
-    context: "Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios de vulnerabilidades, mantiene un SOC gubernamenta"
+    context: "Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios de vulnerabilidades, mantiene un SOC..."
 obs_cronologia:
   - label: "2012"
     url: /cronologia/
@@ -31,7 +31,7 @@ obs_regulacion:
 obs_casos-de-uso:
   - label: "Respuesta a incidentes"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/
-    context: "CERT-PY opera desde 2012. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizó 18 agencias estatales. Paraguay aprobó su primera Estrategia Nacional de Cibers"
+    context: "CERT-PY opera desde 2012. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizó 18 agencias estatales. Paraguay aprobó su primera Estrategia Nacional de..."
 ---
 
 1 articulos en el observatorio mencionan a CERT-PY.

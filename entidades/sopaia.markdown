@@ -13,5 +13,5 @@ entity_category: comunidad
 obs_directorio:
   - label: "SOPAIA"
     url: https://www.sopaia.org/
-    context: "Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia"
+    context: "Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la..."
 ---

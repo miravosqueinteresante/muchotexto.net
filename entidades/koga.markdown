@@ -13,9 +13,9 @@ entity_category: comunidad
 obs_glosario:
   - label: "KOGA Impact Lab"
     url: /articulos/2026/07/14/startups-ia-paraguay/
-    context: "Aceleradora de startups más importante de Paraguay, con más de 14 años de actividad. Ha apoyado a más de 200 startups y capacitado a más de 10.000 emprendedores. Funciona como el punto de encuentro de"
+    context: "Aceleradora de startups más importante de Paraguay, con más de 14 años de actividad. Ha apoyado a más de 200 startups y capacitado a más de 10.000 emprendedores. Funciona como el punto de encuentro..."
 obs_directorio:
   - label: "KOGA Impact Lab"
     url: https://koga.com.py/
-    context: "Más de 14 años operando. Apoyó a 200+ startups y capacitó a 10.000+ emprendedores. Funciona como aceleradora, espacio de coworking y comunidad. Es el punto de encuentro del ecosistema emprendedor tech"
+    context: "Más de 14 años operando. Apoyó a 200+ startups y capacitó a 10.000+ emprendedores. Funciona como aceleradora, espacio de coworking y comunidad. Es el punto de encuentro del ecosistema emprendedor..."
 ---

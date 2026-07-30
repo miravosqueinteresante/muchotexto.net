@@ -17,7 +17,7 @@ related_articles:
 obs_glosario:
   - label: "Starlink"
     url: /articulos/2026/07/15/starlink-paraguay-conectividad/
-    context: "Constelación de internet satelital de SpaceX (Elon Musk) con más de 10.000 satélites en órbita baja terrestre. Disponible en Paraguay desde diciembre de 2023, suma 20.000 usuarios —la mayoría rurales—"
+    context: "Constelación de internet satelital de SpaceX (Elon Musk) con más de 10.000 satélites en órbita baja terrestre. Disponible en Paraguay desde diciembre de 2023, suma 20.000 usuarios —la mayoría..."
 obs_cronologia:
   - label: "2023"
     url: /cronologia/
@@ -25,7 +25,7 @@ obs_cronologia:
 obs_casos-de-uso:
   - label: "Starlink en Paraguay"
     url: /articulos/2026/07/15/starlink-paraguay-conectividad/
-    context: "20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — primer país del mun"
+    context: "20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — primer país del..."
 ---
 
 1 articulos en el observatorio mencionan a Starlink.

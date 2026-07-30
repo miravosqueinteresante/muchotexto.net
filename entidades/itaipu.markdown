@@ -29,10 +29,10 @@ entity_laws:
 obs_glosario:
   - label: "Itaipú"
     url: /glosario/
-    context: "Represa hidroeléctrica compartida con Brasil, de 14.000 MW de capacidad instalada. Paraguay tiene derecho al 50% de la energía pero consume solo el 10%, vendiendo el excedente a Brasil. La renegociaci"
+    context: "Represa hidroeléctrica compartida con Brasil, de 14.000 MW de capacidad instalada. Paraguay tiene derecho al 50% de la energía pero consume solo el 10%, vendiendo el excedente a Brasil. La..."
   - label: "Anexo C de Itaipú"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
-    context: "El anexo financiero del Tratado de Itaipú que fija el precio de la electricidad que Paraguay vende a Brasil. Vence en 2027. Si no se renueva, la tarifa caería un 60% y Paraguay perdería unos USD 1.250"
+    context: "El anexo financiero del Tratado de Itaipú que fija el precio de la electricidad que Paraguay vende a Brasil. Vence en 2027. Si no se renueva, la tarifa caería un 60% y Paraguay perdería unos USD..."
 obs_cronologia:
   - label: "1973"
     url: /cronologia/

@@ -64,10 +64,10 @@ obs_regulacion:
 obs_casos-de-uso:
   - label: "Agricultura de precisión"
     url: /articulos/2026/07/13/agro-40-paraguay-ia/
-    context: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil. El Ministerio de Agricultura creó una comisión técnica de riesgo climático en"
+    context: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil. El Ministerio de Agricultura creó una comisión técnica de riesgo climático..."
   - label: "Telemedicina nacional"
     url: /articulos/2026/07/16/ia-salud-paraguay/
-    context: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta p"
+    context: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con..."
   - label: "Expediente Judicial Electrónico"
     url: /articulos/2026/07/21/ia-justicia-paraguay/
     context: "Paraguay digitalizó sus 18 circunscripciones judiciales desde 2016. El ~42% de los Juzgados de Paz opera con la plataforma. En diez años, ningún tribunal ha usado IA para tomar decisiones."

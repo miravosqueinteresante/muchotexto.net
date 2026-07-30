@@ -17,7 +17,7 @@ related_articles:
 obs_glosario:
   - label: "TSMC (Taiwan Semiconductor Manufacturing Company)"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
-    context: "La mayor fundición de semiconductores del mundo. Fabrica más del 90% de los chips más avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturó USD 122.000 millones en 2025. Sus fábric"
+    context: "La mayor fundición de semiconductores del mundo. Fabrica más del 90% de los chips más avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturó USD 122.000 millones en 2025. Sus..."
 ---
 
 1 articulos en el observatorio mencionan a TSMC.

@@ -208,9 +208,17 @@ def load_observatory_entries():
 
     def clean_context(text):
         """Strip markdown links and formatting from context text."""
-        text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)  # [text](url) -> text
-        text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)  # **bold** -> bold
+        text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+        text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)
         return text.strip()
+
+    def truncate(text, max_len=200):
+        """Truncate at word boundary."""
+        text = text.strip()
+        if len(text) <= max_len:
+            return text
+        cut = text.rfind(' ', 0, max_len)
+        return text[:cut] + "..." if cut > 0 else text[:max_len] + "..."
 
     for page_name, fpath in OBSERVATORY_PAGES.items():
         if not os.path.exists(fpath):
@@ -223,7 +231,7 @@ def load_observatory_entries():
         if page_name == "glosario":
             for m in pat.finditer(body):
                 term = m.group(1).strip()
-                definition = clean_context(m.group(2).strip())[:200]
+                definition = truncate(clean_context(m.group(2).strip()))
                 link_match = re.search(r'→\s*\[.+?\]\((.+?)\)', body[m.end():m.end()+400])
                 url = fix_url(link_match.group(1)) if link_match else f"/{page_name}/"
                 entries[page_name].append({"term": term, "url": url, "context": definition})
@@ -231,7 +239,7 @@ def load_observatory_entries():
         elif page_name == "cronologia":
             for m in pat.finditer(body):
                 year = m.group(1).strip()
-                desc = clean_context(m.group(2).strip())[:200]
+                desc = truncate(clean_context(m.group(2).strip()))
                 link_match = re.search(r'\[(.+?)\]\((.+?)\)', desc)
                 url = fix_url(link_match.group(2)) if link_match else f"/{page_name}/"
                 entries[page_name].append({"label": year, "url": url, "context": desc})
@@ -240,7 +248,7 @@ def load_observatory_entries():
             for m in pat.finditer(body):
                 name = m.group(1).strip()
                 url = fix_url(m.group(2).strip())
-                desc = clean_context(m.group(3).strip())[:200]
+                desc = truncate(clean_context(m.group(3).strip()))
                 entries[page_name].append({"label": name, "url": url, "context": desc})
 
     return entries
@@ -331,7 +339,10 @@ def generate_entity_page(entity, related_articles, obs_matches):
                 e_label = entry.get("label", entry.get("term", "")).replace('"', "'")
                 e_ctx = entry.get("context", "")
                 e_ctx = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', e_ctx)
-                e_ctx = e_ctx[:200].replace('"', "'")
+                if len(e_ctx) > 200:
+                    cut = e_ctx.rfind(' ', 0, 200)
+                    e_ctx = e_ctx[:cut] + "..." if cut > 0 else e_ctx[:200] + "..."
+                e_ctx = e_ctx.replace('"', "'")
                 lines.append(f'  - label: "{e_label}"')
                 lines.append(f'    url: {entry["url"]}')
                 lines.append(f'    context: "{e_ctx}"')
