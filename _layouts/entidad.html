@@ -78,10 +78,13 @@ layout: default
     <ul class="entity-timeline-list">
       {% for item in page.obs_cronologia %}
       <li>
-        <strong>{{ item.label }}</strong> &mdash; {{ item.context | markdownify }}
+        <strong>{{ item.label }}</strong> &mdash;
+        {% if item.url and item.url != '/cronologia/' %}<a href="{{ item.url }}">{{ item.context }}</a>
+        {% else %}{{ item.context }}{% endif %}
       </li>
       {% endfor %}
     </ul>
+    <p class="entity-section-more"><a href="/cronologia/">Ver cronologia completa &rarr;</a></p>
   </section>
   {% endif %}
 
@@ -95,6 +98,7 @@ layout: default
       </li>
       {% endfor %}
     </ul>
+    <p class="entity-section-more"><a href="/directorio/">Ver directorio completo &rarr;</a></p>
   </section>
   {% endif %}
 
@@ -108,6 +112,7 @@ layout: default
       </li>
       {% endfor %}
     </ul>
+    <p class="entity-section-more"><a href="/regulacion/">Ver mapa regulatorio completo &rarr;</a></p>
   </section>
   {% endif %}
 
@@ -121,6 +126,7 @@ layout: default
       </li>
       {% endfor %}
     </ul>
+    <p class="entity-section-more"><a href="/casos-de-uso/">Ver todos los casos de uso &rarr;</a></p>
   </section>
   {% endif %}
 
