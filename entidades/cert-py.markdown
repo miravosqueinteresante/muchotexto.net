@@ -22,8 +22,8 @@ obs_glosario:
     context: "Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios de vulnerabilidades, mantiene un SOC gubernamenta"
 obs_cronologia:
   - label: "2012"
-    url: /articulos/2026/07/17/ciberseguridad-paraguay/
-    context: "Se crea [CERT-PY](/articulos/2026/07/17/ciberseguridad-paraguay/), el centro nacional de respuesta a incidentes de ciberseguridad."
+    url: /cronologia/
+    context: "Se crea CERT-PY, el centro nacional de respuesta a incidentes de ciberseguridad."
 obs_regulacion:
   - label: "Estrategia Nacional de Ciberseguridad 2025-2028"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/

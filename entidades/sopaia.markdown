@@ -14,7 +14,4 @@ obs_directorio:
   - label: "SOPAIA"
     url: https://www.sopaia.org/
     context: "Sociedad Paraguaya de Inteligencia Artificial. Organización que reúne a profesionales, investigadores y entusiastas de la IA en Paraguay para promover el desarrollo y la divulgación de la inteligencia"
-  - label: "IBERAMIA 2026"
-    url: https://www.iberamia.org/iberamia/iberamia2026/
-    context: "19ª Conferencia Iberoamericana de Inteligencia Artificial. 18-20 de noviembre de 2026, Universidad Católica, Asunción. Organizada por UNA, UCA, UCOM y SOPAIA."
 ---

@@ -17,24 +17,13 @@ related_articles:
 entity_laws:
   - "Ley 6822/2022 — servicios de confianza electrónica"
   - "Ley 7593/2025 — protección de datos personales"
-obs_glosario:
-  - label: "InnovandoPY"
-    url: /articulos/2026/07/14/startups-ia-paraguay/
-    context: "Programa de capital semilla no reembolsable del MITIC para startups tecnológicas paraguayas. En 2025 entregó USD 140.000 a siete empresas seleccionadas."
-  - label: "CERT-PY"
-    url: /articulos/2026/07/17/ciberseguridad-paraguay/
-    context: "Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay. Creado el 30 de noviembre de 2012, depende del MITIC. Publica boletines diarios de vulnerabilidades, mantiene un SOC gubernamenta"
 obs_cronologia:
   - label: "2018"
-    url: /articulos/2026/07/16/gobierno-digital-paraguay/
-    context: "Se crea el [MITIC](/articulos/2026/07/16/gobierno-digital-paraguay/), Ministerio de Tecnologías de la Información y Comunicación."
+    url: /cronologia/
+    context: "Se crea el MITIC, Ministerio de Tecnologías de la Información y Comunicación."
   - label: "2024"
-    url: /articulos/2026/07/16/ia-soberana-paraguay/
-    context: "El MITIC realiza [consulta pública para la estrategia nacional de IA](/articulos/2026/07/16/ia-soberana-paraguay/)."
-obs_directorio:
-  - label: "InnovandoPY"
-    url: https://innovando.gov.py/
-    context: "Programa del MITIC que en 2025 otorgó $140.000 en capital semilla a 7 startups tecnológicas. [Leer más](/articulos/2026/07/14/startups-ia-paraguay/)."
+    url: /cronologia/
+    context: "El MITIC realiza consulta pública para la estrategia nacional de IA."
 obs_regulacion:
   - label: "Estrategia Nacional de Ciberseguridad 2025-2028"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/

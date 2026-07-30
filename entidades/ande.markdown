@@ -11,9 +11,6 @@ entity_description: >
   La ANDE es la empresa estatal de electricidad de Paraguay. Opera 16.000 MW de capacidad instalada (Itaipú, Yacyretá, Acaray) con la tarifa industrial más baja de Sudamérica (0.03-0.05 USD/kWh). Es el actor central en la apertura del sector eléctrico (Ley 7599/2025, Decreto 6034) y el principal proveedor de energía para data centers y criptominería.
 entity_category: infraestructura
 related_articles:
-  - title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
-    url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-    context: "﻿--- layout; post title; 'Luces y sombras de la apertura eléctrica; Paraguay y el sector privado' date; 2026-05-27 lastmodifiedat; 2026-05-27 categories; articulos tags; infraestructura-energia description; 'Paraguay habilita por primera vez la..."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
@@ -30,33 +27,20 @@ obs_glosario:
   - label: "ANDE (Administración Nacional de Electricidad)"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "Empresa estatal que genera, transmite y distribuye la electricidad en Paraguay. Opera con tarifas políticas que no cubren sus costos, lo que limita su capacidad de inversión en la red de transmisión."
-  - label: "Yguazú Digital"
-    url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de propied"
-  - label: "ASML / litografía EUV"
-    url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
-    context: "ASML es la empresa holandesa que fabrica las únicas máquinas de litografía ultravioleta extrema (EUV) del mundo, esenciales para producir chips de 7 nanómetros o menos. Una máquina EUV de última gener"
-  - label: "Bitcoin mining"
-    url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
-    context: "Proceso de validación de transacciones en la red Bitcoin que requiere computadoras especializadas (ASICs) consumiendo grandes cantidades de electricidad."
-  - label: "AEX"
-    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
-    context: "Empresa de logística y e-commerce más grande de Paraguay, fundada en 1996. Cubre más de 120 ciudades, opera e-Lockers (casilleros inteligentes con QR) y Puntos AEX (red de retiro en comercios). Ganó l"
 obs_cronologia:
   - label: "1973"
-    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Paraguay y Brasil firman el [Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/): 14.000 MW, la hidroeléctrica más grande del mundo."
+    url: /cronologia/
+    context: "Paraguay y Brasil firman el Tratado de Itaipú: 14.000 MW, la hidroeléctrica más grande del mundo."
+  - label: "2021"
+    url: /cronologia/
+    context: "Atome anuncia proyecto de fertilizantes verdes en Villeta. En abril 2026 alcanza decisión final de inversión (FID) con USD 665M, pero la construcción no empieza por conflicto con ANDE sobre tarifa elé"
   - label: "2024"
-    url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
-    context: "ANDE registra **64 denuncias penales** por [conexiones ilegales de criptominería](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)."
-obs_directorio:
-  - label: "AEX"
-    url: https://www.aex.com.py/
-    context: "Empresa de logística y e-commerce más grande de Paraguay, fundada en 1996. Cubre 120+ ciudades con e-Lockers, Puntos AEX e integración Shopify. E-commerce Awards 2025. [Leer análisis](/articulos/2026/"
+    url: /cronologia/
+    context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
 obs_casos-de-uso:
   - label: "Criptominería"
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
 ---
 
-5 articulos en el observatorio mencionan a ANDE.
+4 articulos en el observatorio mencionan a ANDE.

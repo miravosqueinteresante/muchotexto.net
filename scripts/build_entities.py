@@ -123,6 +123,9 @@ def find_mentions_in_posts(entity_name):
         except UnicodeDecodeError:
             continue
 
+        # Strip BOM before any processing
+        content = content.lstrip('\ufeff')
+
         fm = parse_frontmatter(content)
         categories = fm.get("categories", "articulos")
         if 'articulos' not in categories:
@@ -187,6 +190,12 @@ def load_observatory_entries():
         "casos-de-uso": re.compile(r'^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*[-—]\s*(.+)$', re.MULTILINE),
     }
 
+    def clean_context(text):
+        """Strip markdown links and formatting from context text."""
+        text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)  # [text](url) -> text
+        text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)  # **bold** -> bold
+        return text.strip()
+
     for page_name, fpath in OBSERVATORY_PAGES.items():
         if not os.path.exists(fpath):
             continue
@@ -198,8 +207,7 @@ def load_observatory_entries():
         if page_name == "glosario":
             for m in pat.finditer(body):
                 term = m.group(1).strip()
-                definition = m.group(2).strip()[:200]
-                # Extract the → link if present
+                definition = clean_context(m.group(2).strip())[:200]
                 link_match = re.search(r'→\s*\[.+?\]\((.+?)\)', body[m.end():m.end()+400])
                 url = fix_url(link_match.group(1)) if link_match else f"/{page_name}/"
                 entries[page_name].append({"term": term, "url": url, "context": definition})
@@ -207,7 +215,7 @@ def load_observatory_entries():
         elif page_name == "cronologia":
             for m in pat.finditer(body):
                 year = m.group(1).strip()
-                desc = m.group(2).strip()[:200]
+                desc = clean_context(m.group(2).strip())[:200]
                 link_match = re.search(r'\[(.+?)\]\((.+?)\)', desc)
                 url = fix_url(link_match.group(2)) if link_match else f"/{page_name}/"
                 entries[page_name].append({"label": year, "url": url, "context": desc})
@@ -216,19 +224,28 @@ def load_observatory_entries():
             for m in pat.finditer(body):
                 name = m.group(1).strip()
                 url = fix_url(m.group(2).strip())
-                desc = m.group(3).strip()[:200]
+                desc = clean_context(m.group(3).strip())[:200]
                 entries[page_name].append({"label": name, "url": url, "context": desc})
 
     return entries
 
 
 def match_entity_in_observatory(entity_name, obs_entries):
-    """Find observatory entries mentioning the entity name."""
+    """Find observatory entries mentioning the entity name.
+    - glosario/directorio: match in term/label only (avoid false positives from descriptions)
+    - cronologia/regulacion/casos-de-uso: match in full text"""
     name_lower = strip_accents(entity_name).lower()
     matches = {"glosario": [], "cronologia": [], "directorio": [],
                "regulacion": [], "casos-de-uso": []}
+
     for page_name, entries in obs_entries.items():
         for entry in entries:
+            if page_name in ("glosario", "directorio"):
+                # Only match if entity name is in the entry's own name
+                label = entry.get("term", entry.get("label", ""))
+                if name_lower not in strip_accents(label).lower():
+                    continue
+            # For other pages, match in full text
             search = f"{entry.get('term', '')} {entry.get('label', '')} {entry.get('context', '')}"
             if name_lower in strip_accents(search).lower():
                 matches[page_name].append(entry)

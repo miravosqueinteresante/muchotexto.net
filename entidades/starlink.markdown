@@ -20,8 +20,8 @@ obs_glosario:
     context: "Constelación de internet satelital de SpaceX (Elon Musk) con más de 10.000 satélites en órbita baja terrestre. Disponible en Paraguay desde diciembre de 2023, suma 20.000 usuarios —la mayoría rurales—"
 obs_cronologia:
   - label: "2023"
-    url: /articulos/2026/07/15/starlink-paraguay-conectividad/
-    context: "[CONATEL aprueba Starlink](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay, entre los primeros países de América Latina."
+    url: /cronologia/
+    context: "CONATEL aprueba Starlink en Paraguay, entre los primeros países de América Latina."
 obs_casos-de-uso:
   - label: "Starlink en Paraguay"
     url: /articulos/2026/07/15/starlink-paraguay-conectividad/

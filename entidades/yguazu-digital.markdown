@@ -30,12 +30,6 @@ related_articles:
   - title: "Lo que un data center compra y Paraguay no puede vender"
     url: /articulos/2026/07/25/cadena-valor-data-center/
 obs_glosario:
-  - label: "Data center"
-    url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
-    context: "Instalación que alberga miles de servidores funcionando 24/7 para procesar y almacenar datos. Yguazú Digital proyecta un data center de 1.000 MW en su fase final. Desde los servidores que entrenan a C"
-  - label: "MW (megavatio)"
-    url: /articulos/2026/07/08/red-electrica-paraguay-ia/
-    context: "Unidad de potencia eléctrica. La capacidad de un data center se mide en MW porque la electricidad es su principal insumo. Yguazú Digital planea 10 MW en su fase 1 y 1.000 MW en su fase 3. Un MW abaste"
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de propied"

@@ -23,32 +23,23 @@ related_articles:
   - title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
     url: /articulos/2026/07/16/ia-soberana-paraguay/
 obs_glosario:
-  - label: "GPU"
-    url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
-    context: "Chip especializado en cálculo paralelo, esencial para entrenar modelos de inteligencia artificial. NVIDIA fabrica los más usados (H100 y H200, entre USD 25.000 y 40.000 cada uno). Taiwán, que fabrica "
-  - label: "Yguazú Digital"
-    url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de propied"
   - label: "TSMC (Taiwan Semiconductor Manufacturing Company)"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
     context: "La mayor fundición de semiconductores del mundo. Fabrica más del 90% de los chips más avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturó USD 122.000 millones en 2025. Sus fábric"
-  - label: "Silicon Shield"
-    url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
-    context: "Concepto geopolítico que describe la industria de semiconductores de Taiwán como un activo de defensa estratégica. La lógica: el mundo es tan dependiente de los chips taiwaneses que ninguna potencia s"
   - label: "UPTP (Universidad Politécnica Taiwán-Paraguay)"
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
     context: "Universidad fundada en 2018 como parte de la cooperación bilateral con Taiwán. Ha graduado a más de 300 estudiantes y proyecta 500 ingenieros por año."
 obs_cronologia:
   - label: "2028"
-    url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
-    context: "[Elecciones generales en Paraguay](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/): prueba de fuego para la alianza con Taiwán."
+    url: /cronologia/
+    context: "Elecciones generales en Paraguay: prueba de fuego para la alianza con Taiwán."
 obs_directorio:
   - label: "Universidad Politécnica Taiwán-Paraguay"
     url: https://www.uptp.edu.py/
     context: "Nuevo campus en Luque con apertura prevista para 2027."
   - label: "Becas de Taiwán"
     url: https://www.icdf.org.tw/
-    context: "Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. [Leer más](/articulos/2026/07/09/educacion-tech-paraguay-ia/)."
+    context: "Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. Leer más."
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/

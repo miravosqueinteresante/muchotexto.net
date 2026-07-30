@@ -13,7 +13,7 @@ entity_category: academia
 obs_directorio:
   - label: "PTI-PY (Parque Tecnológico Itaipú)"
     url: https://www.pti.org.py/
-    context: "Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/)."
+    context: "Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). Leer más."
 obs_casos-de-uso:
   - label: "Hidrógeno verde y fertilizantes"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/

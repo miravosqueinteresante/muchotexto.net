@@ -35,57 +35,28 @@ related_articles:
   - title: "Soja, ganado y blockchain: la tokenización del agro en Paraguay"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
     context: "Hay una idea que está girando en los círculos fintech paraguayos y que promete cambiar quién financia el campo, cómo se vende la cosecha y hasta quién puede ser dueño de un pedazo de tierra sin moverse de su casa. Se llama tokenización agropecuaria,."
+  - title: "La IA cuesta más que los humanos que reemplazó: los números"
+    url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
+    context: "Hay un post que circula en redes sociales y que probablemente ya viste. Dice que Uber quemó todo su presupuesto anual de IA en cuatro meses. Que Microsoft está retirando licencias a sus propios ingenieros. Que Starbucks eliminó su sistema de..."
   - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
     context: "La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que Rerum Novarum pero 135 años después, la declaración adquiere otro peso. Es la..."
   - title: "¿Qué es realmente el fútbol?"
     url: /articulos/2026/06/10/que-es-realmente-el-futbol/
-    context: "﻿--- layout; post title; '¿Qué es realmente el fútbol?' date; 2026-06-10 lastmodifiedat; 2026-06-10 categories; articulos tags; cultura-filosofia description; '¿Es el fútbol un deporte, una religión o un espejo de la sociedad? Una reflexión..."
+    context: "La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte; es una religión sin catedral, una guerra sin fusiles, un..."
   - title: "Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026"
     url: /articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/
     context: "Estados Unidos llegó al Mundial 2026 como anfitrión. Nadie lo puso en la lista de favoritos. Brasil, Argentina, Francia, Alemania, España — las potencias de siempre ocupaban los titulares. Pero dos partidos después, USA lidera el Grupo D con 6..."
-  - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
-    url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
-obs_glosario:
-  - label: "Tier III (Uptime Institute)"
-    url: /articulos/2026/07/25/cadena-valor-data-center/
-    context: "Certificación de confiabilidad para data centers que exige mantenimiento concurrente sin interrupción. Emitida por el Uptime Institute. Ninguna empresa constructora paraguaya tiene esta certificación."
-  - label: "ASIC"
-    url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
-    context: "Chip especializado en una única tarea, usado en minería de bitcoin. A diferencia de las GPUs, que sirven para múltiples propósitos, los ASICs solo resuelven problemas criptográficos. Tienen una vida ú"
-  - label: "Token"
-    url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
-    context: "Unidad básica de procesamiento de un LLM. Un token equivale aproximadamente a una sílaba. Los modelos cobran por token procesado. Un chip H100 de NVIDIA procesa miles de millones de tokens por hora."
-  - label: "Silicon Shield"
-    url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
-    context: "Concepto geopolítico que describe la industria de semiconductores de Taiwán como un activo de defensa estratégica. La lógica: el mundo es tan dependiente de los chips taiwaneses que ninguna potencia s"
-  - label: "ASML / litografía EUV"
-    url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
-    context: "ASML es la empresa holandesa que fabrica las únicas máquinas de litografía ultravioleta extrema (EUV) del mundo, esenciales para producir chips de 7 nanómetros o menos. Una máquina EUV de última gener"
-  - label: "Ley 7593/2025"
-    url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "Primera ley integral de protección de datos personales de Paraguay, vigente desde noviembre de 2027. Alineada con el GDPR europeo, pero con una autoridad sin independencia estructural y multas máximas"
-  - label: "Deepfake"
-    url: /articulos/2026/07/16/ia-periodismo-paraguay/
-    context: "Video, imagen o audio falso generado con inteligencia artificial que imita la apariencia o voz de una persona real. La tecnología para crearlos es gratuita en 2026. Brasil prohibió su uso en campañas "
-  - label: "Fact-checking (verificación de datos)"
-    url: /articulos/2026/07/16/ia-periodismo-paraguay/
-    context: "Proceso de contrastar afirmaciones públicas con fuentes verificables. Organizaciones como Chequeado (Argentina) y Aos Fatos (Brasil) usan IA para automatizar la verificación. Paraguay no tiene ninguna"
 obs_cronologia:
   - label: "2009"
-    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Fernando Lugo y Lula firman acuerdo que triplica la [compensación de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) a Paraguay y compromete una línea de 500 kV — que nunca se construyó."
+    url: /cronologia/
+    context: "Fernando Lugo y Lula firman acuerdo que triplica la compensación de Itaipú a Paraguay y compromete una línea de 500 kV — que nunca se construyó."
   - label: "2016"
-    url: /articulos/2026/07/21/ia-justicia-paraguay/
-    context: "La Corte Suprema de Justicia crea el [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/) mediante Acordada N° 1107. Comienza en dos tribunales de Asunción."
+    url: /cronologia/
+    context: "La Corte Suprema de Justicia crea el Expediente Judicial Electrónico mediante Acordada N° 1107. Comienza en dos tribunales de Asunción."
   - label: "2018"
-    url: /articulos/2026/07/21/ia-justicia-paraguay/
-    context: "Brasil lanza [VICTOR](/articulos/2026/07/21/ia-justicia-paraguay/) en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico."
-obs_directorio:
-  - label: "IBERAMIA 2026"
-    url: https://www.iberamia.org/iberamia/iberamia2026/
-    context: "19ª Conferencia Iberoamericana de Inteligencia Artificial. 18-20 de noviembre de 2026, Universidad Católica, Asunción. Organizada por UNA, UCA, UCOM y SOPAIA."
+    url: /cronologia/
+    context: "Brasil lanza VICTOR en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico."
 obs_regulacion:
   - label: "Identidad Electrónica"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/

@@ -35,18 +35,15 @@ obs_glosario:
     context: "El anexo financiero del Tratado de Itaipú que fija el precio de la electricidad que Paraguay vende a Brasil. Vence en 2027. Si no se renueva, la tarifa caería un 60% y Paraguay perdería unos USD 1.250"
 obs_cronologia:
   - label: "1973"
-    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Paraguay y Brasil firman el [Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/): 14.000 MW, la hidroeléctrica más grande del mundo."
+    url: /cronologia/
+    context: "Paraguay y Brasil firman el Tratado de Itaipú: 14.000 MW, la hidroeléctrica más grande del mundo."
   - label: "2009"
-    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Fernando Lugo y Lula firman acuerdo que triplica la [compensación de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) a Paraguay y compromete una línea de 500 kV — que nunca se construyó."
+    url: /cronologia/
+    context: "Fernando Lugo y Lula firman acuerdo que triplica la compensación de Itaipú a Paraguay y compromete una línea de 500 kV — que nunca se construyó."
 obs_directorio:
-  - label: "HIVE Digital Technologies"
-    url: https://www.hivedigitaltechnologies.com/
-    context: "Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech-paraguay-ia/)."
   - label: "PTI-PY (Parque Tecnológico Itaipú)"
     url: https://www.pti.org.py/
-    context: "Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/)."
+    context: "Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). Leer más."
 obs_regulacion:
   - label: "Tarifa de Itaipú 2024-2026"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/

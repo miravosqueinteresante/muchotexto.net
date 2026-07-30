@@ -13,7 +13,7 @@ entity_category: geopolítica
 related_articles:
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
-    context: "﻿--- layout; post title; 'El experimento paraguayo de Peter Thiel' date; 2026-05-16 lastmodifiedat; 2026-05-16 categories; articulos tags; geopolitica-regulacion ia-paraguay description; 'Peter Thiel se reunió con Santiago Peña en Mburuvicha Róga...."
+    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 87 más rica del planeta,..."
 ---
 
 1 articulos en el observatorio mencionan a Peter Thiel.

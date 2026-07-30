@@ -20,7 +20,7 @@ related_articles:
 obs_directorio:
   - label: "HIVE Digital Technologies"
     url: https://www.hivedigitaltechnologies.com/
-    context: "Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech-paraguay-ia/)."
+    context: "Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. Leer análisis."
 ---
 
 2 articulos en el observatorio mencionan a HIVE Digital Technologies.
