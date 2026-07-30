@@ -5,18 +5,18 @@ date: 2026-07-01
 last_modified_at: 2026-07-01
 categories: articulos
 tags: tech-ecosistema paraguay-futuro
-description: "El 51% de las exportaciones de Paraguay es soja. El 36% va a Brasil. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Tiene Paraguay lo necesario para ser el sexto?"
+description: "El 42% de las exportaciones de Paraguay es soja. El 31% va a Brasil. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Tiene Paraguay lo necesario para ser el sexto?"
 ---
 
-En 2022, una sequía redujo la cosecha de soja paraguaya en un 60%. Las exportaciones se desplomaron. El PIB creció 0.1% en vez del 4% proyectado. Un solo producto, un solo evento climático, un país entero frenado. Ese episodio no fue una anomalía: fue una radiografía. Paraguay exporta 17.314 millones de dólares al año, de los cuales el complejo soja representa el 51% y la carne bovina otro 17%. Dos productos concentran más de dos tercios de las divisas que ingresan al país. Y Brasil compra el 36% de todo lo que Paraguay vende al mundo.
+En 2022, una sequía redujo la cosecha de soja paraguaya en un 60%. Las exportaciones se desplomaron. El PIB creció 0.2% en vez del 4% proyectado. Un solo producto, un solo evento climático, un país entero frenado. Ese episodio no fue una anomalía: fue una radiografía. Paraguay exporta aproximadamente 17.000 millones de dólares al año, de los cuales el complejo soja representa alrededor del 42% y la carne bovina otro 17%. Dos productos concentran cerca del 60% de las divisas que ingresan al país. Y Brasil compra el 31% de todo lo que Paraguay vende al mundo.
 
 La pregunta no es si Paraguay debería diversificar su matriz exportadora. La pregunta es si puede, en cuánto tiempo y a qué costo. Cinco países —Costa Rica, Irlanda, Estonia, Israel y Corea del Sur— hicieron ese salto en las últimas décadas. Todos partieron de economías agrícolas o devastadas. Todos tardaron entre 15 y 40 años. Todos invirtieron en lo mismo: educación, estabilidad fiscal, agencias de inversión profesionalizadas y una empresa ancla extranjera que hizo de disparador. Paraguay ya tiene parte de esa infraestructura. Lo que no tiene es tiempo ilimitado: en enero de 2027 vence el Anexo C del Tratado de Itaipú y se libera una cantidad de energía que puede cambiarlo todo.
 
 ## 51% soja, 36% Brasil: la doble dependencia que define a Paraguay
 
-La matriz exportadora paraguaya tiene dos concentraciones que se superponen. La primera es de producto: soja en grano (30%), harina de soja (15%), carne congelada (11%) y aceite de soja (6%). Los primeros tres productos suman el 56% de las exportaciones. El índice Herfindahl-Hirschman —que mide concentración de mercado— se sitúa entre 1.300 y 1.500, un valor que los economistas consideran concentración moderada-alta. Traducido: Paraguay depende de lo que valga la soja en Chicago y de si llueve o no en el Alto Paraná.
+La matriz exportadora paraguaya tiene dos concentraciones que se superponen. La primera es de producto: soja en grano (29%), harina de soja (5%), carne congelada (9%) y aceite de soja (4%). Los primeros tres productos suman el 43% de las exportaciones. El índice Herfindahl-Hirschman —que mide concentración de mercado— se sitúa entre 1.300 y 1.500, un valor que los economistas consideran concentración moderada-alta. Traducido: Paraguay depende de lo que valga la soja en Chicago y de si llueve o no en el Alto Paraná.
 
-La segunda concentración es geográfica. Brasil recibe el 36.3% de las exportaciones, Argentina el 18.9% y Chile el 11.5%. El Mercosur en su conjunto: 57%. Esta dependencia se profundizó en la última década: Brasil pasó de comprar el 16% de las exportaciones paraguayas en 2014 al 36% en 2022. Cada crisis brasileña es una crisis paraguaya.
+La segunda concentración es geográfica. Brasil recibe el 31% de las exportaciones, Argentina el 30% y Chile el 9%. El Mercosur en su conjunto: 57%. Esta dependencia se profundizó en la última década: Brasil pasó de comprar el 16% de las exportaciones paraguayas en 2014 al 36% en 2022, aunque esa cifra bajó al 31% en 2025. Cada crisis brasileña es una crisis paraguaya.
 
 La estructura no se diversificó en los últimos veinte años; al contrario, se re-primarizó. El boom de commodities de 2003-2013 reforzó la especialización en soja y carne, desplazando las manufacturas incipientes. La agricultura pasó de emplear al 27% de la fuerza laboral a generar solo el 11% del PIB —la productividad del campo fuera del agronegocio mecanizado es bajísima—. Las manufacturas representaban el 5% de las exportaciones en 1986 y siguen en el 5% hoy. El algodón, que fue el segundo producto de exportación en los años ochenta, prácticamente desapareció.
 
@@ -34,7 +34,7 @@ El espacio de producto —un mapa de qué tan cerca está un país de exportar b
 
 Cinco países transformaron su matriz exportadora de materias primas a tecnología en las últimas décadas. Ninguno siguió el mismo camino, pero todos coincidieron en tres pilares: una agencia de inversión profesionalizada con autonomía del poder político, un incentivo fiscal focalizado y una inversión masiva en capital humano.
 
-Costa Rica es el espejo más nítido para Paraguay. En 1997, Intel instaló una planta de microprocesadores en un país que hasta entonces exportaba café y banano. La agencia CINDE, fundada en 1982, pasó 15 años preparando el terreno: zonas francas con requisitos de exportación, educación bilingüe desde la abolición del ejército en 1949, estabilidad política. Hoy Costa Rica tiene un ECI positivo (+0.07), exporta dispositivos médicos y servicios corporativos por 33.680 millones de dólares, y la agricultura representa apenas el 5.5% de su PIB.
+Costa Rica es el espejo más nítido para Paraguay. En 1997, Intel instaló una planta de microprocesadores en un país que hasta entonces exportaba café y banano. La agencia CINDE, fundada en 1982, pasó 15 años preparando el terreno: zonas francas con requisitos de exportación, educación bilingüe desde la abolición del ejército en 1949, estabilidad política. Hoy Costa Rica tiene un ECI positivo, exporta dispositivos médicos y servicios corporativos por 33.680 millones de dólares, y la agricultura representa alrededor del 3.5% de su PIB.
 
 Irlanda lo hizo con un impuesto corporativo del 12.5% y la agencia IDA, que atrajo a Intel, Microsoft, Google y Apple. El documento fundacional —"Economic Development", de T.K. Whitaker en 1958— planteó lo impensable para la época: abrir una economía agrícola y proteccionista al comercio y la inversión extranjera. Treinta años después, Irlanda crecía al 10% anual y era conocida como el Tigre Celta. Hoy las exportaciones de bienes superan los 208.000 millones de euros.
 
@@ -66,7 +66,7 @@ El ministro de Industria y Comercio, Marco Riquelme, declaró en junio de 2026: 
 
 En enero de 2027 vence el Anexo C del Tratado de Itaipú. Paraguay dejará de vender su excedente energético a Brasil a un precio fijo y dispondrá de entre 25 y 30 teravatios-hora anuales de electricidad limpia para consumir, exportar o transformar en el país —un cambio de reglas que [la reciente apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) ya empezó a preparar—. Esa cantidad de energía, a los precios industriales paraguayos de 0.045 dólares por kilovatio-hora, equivale a un activo estratégico que ningún otro país de la región puede igualar.
 
-La ventana está abierta. Paraguay tiene la estabilidad macroeconómica que los cinco países exitosos tuvieron como precondición: deuda pública del 19.5% del PIB, grado de inversión otorgado por Moody's en 2024, inflación controlada alrededor del 3.5% y un crecimiento del PIB proyectado en 3.8% para 2025. Tiene una población joven con mediana de 27 años y un sector de servicios digitales que creció 97% en un año. Tiene el régimen fiscal más competitivo de América Latina y una agenda digital financiada por el BID.
+La ventana está abierta. Paraguay tiene la estabilidad macroeconómica que los cinco países exitosos tuvieron como precondición: deuda pública del 38% del PIB, grado de inversión otorgado por Moody's en 2024, inflación controlada alrededor del 3.5% y un crecimiento del PIB proyectado en 3.8% para 2025. Tiene una población joven con mediana de 27 años y un sector de servicios digitales que creció 97% en un año. Tiene el régimen fiscal más competitivo de América Latina y una agenda digital financiada por el BID.
 
 Lo que no tiene —y que los cinco países exitosos tardaron entre 15 y 40 años en construir— es una agencia de atracción de inversiones con la autonomía y los recursos de un CINDE o una IDA, una inversión en investigación y desarrollo que supere el 0.14% del PIB, y un sistema educativo que produzca ingenieros y técnicos al ritmo que la demanda de data centers y empresas tecnológicas va a exigir. También le falta —y esto es más difícil de medir pero igual de importante— la continuidad de políticas a través de los ciclos electorales. Estonia mantuvo su rumbo digital durante 15 años con gobiernos de distintos partidos. Irlanda sostuvo su impuesto corporativo bajo durante cuatro décadas. Costa Rica invirtió en educación desde 1869.
 
@@ -100,7 +100,7 @@ Seguí la transformación de Paraguay en la [guía completa de inteligencia arti
       "name": "Cuanto depende Paraguay de la soja?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay exporta USD 17.314 millones al ano. El complejo soja representa el 51% y la carne bovina el 17%. Dos productos concentran mas de dos tercios de las divisas. Brasil compra el 36% de todo lo que Paraguay vende."
+        "text": "Paraguay exporta aproximadamente USD 17.000 millones al ano. El complejo soja representa alrededor del 42% y la carne bovina el 17%. Dos productos concentran cerca del 60% de las divisas. Brasil compra el 31% de todo lo que Paraguay vende."
       }
     },
     {
