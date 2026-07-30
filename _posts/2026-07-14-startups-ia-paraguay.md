@@ -5,10 +5,10 @@ date: 2026-07-14
 last_modified_at: 2026-07-18
 categories: articulos
 tags: tech-ecosistema ia-paraguay
-description: "Paraguay registró un récord de USD 3.9M en inversión startup en 2025. También entró al Top 100 global de ecosistemas. Pero casi nadie sabe que existen."
+description: "Paraguay registró un récord de USD 3.75M en inversión startup en 2025. También entró al Top 100 global de ecosistemas. Pero casi nadie sabe que existen."
 ---
 
-Once años después de que un estudio académico apenas encontrara startups para analizar, en 2025 Paraguay registró 3,9 millones de dólares en inversión de capital de riesgo en startups tecnológicas. Parece poco —Chile capta mil millones al año— pero es un crecimiento de casi el 300% respecto al millón de dólares que se invirtió en toda la década anterior.
+Once años después de que un estudio académico apenas encontrara startups para analizar, en 2025 Paraguay registró 3,75 millones de dólares en inversión de capital de riesgo en startups tecnológicas. Parece poco —Chile capta mil millones al año— pero es un crecimiento de casi el 300% respecto al millón de dólares que se invirtió en toda la década anterior.
 
 Ese mismo año, Paraguay ingresó por primera vez al Global Startup Ecosystem Index, en el puesto 95 del mundo. La clasificación mide la actividad de startups en más de 1.000 ciudades globales. Paraguay nunca había aparecido.
 
@@ -28,9 +28,9 @@ La organización más importante del ecosistema es KOGA Impact Lab. Con más de 
 
 El gobierno, a través del MITIC, lanzó InnovandoPY, un programa de capital semilla no reembolsable para startups tecnológicas. En 2025 entregó 140.000 dólares a siete startups seleccionadas. No es mucho dinero —una ronda seed en Silicon Valley promedia 2 millones de dólares— pero en Paraguay, donde el salario promedio de un desarrollador es de 600 a 1.100 dólares mensuales, 20.000 dólares pueden mantener a un equipo fundador durante un año.
 
-CONACYT, el consejo nacional de ciencia y tecnología, financia proyectos de innovación a través de su programa PROINNOVA, con unos 3 a 5 millones de dólares anuales en subsidios. Penguin Academy, fundada por uno de los primeros emprendedores tech del país, ha graduado a más de 3.500 personas en sus bootcamps de programación. [La educación tech en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}) que el sistema formal no provee, Penguin Academy y programas similares la están cubriendo desde la iniciativa privada.
+CONACYT, el consejo nacional de ciencia y tecnología, financia proyectos de innovación a través de su programa PROINNOVA, con un promedio de 2 millones de dólares anuales en subsidios (crédito BID). Penguin Academy, fundada por uno de los primeros emprendedores tech del país, ha graduado a más de 3.000 personas en sus bootcamps de programación. [La educación tech en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}) que el sistema formal no provee, Penguin Academy y programas similares la están cubriendo desde la iniciativa privada.
 
-Parcapy, la asociación de capital de riesgo de Paraguay, pasó de tener un fondo registrado en 2015 a siete en 2024. El 55% del capital que invierte en startups paraguayas proviene de Estados Unidos —lo que significa que inversionistas internacionales están empezando a mirar a Paraguay.
+Parcapy, la asociación de capital de riesgo de Paraguay, pasó de tener un fondo registrado en 2015 a siete en 2024. El 66% del capital que invierte en startups paraguayas proviene de Estados Unidos —lo que significa que inversionistas internacionales están empezando a mirar a Paraguay.
 
 ## Lo que falta
 
@@ -38,7 +38,7 @@ Todo lo que no existe en el ecosistema startup paraguayo dice tanto como lo que 
 
 Las rondas de inversión típicas para una startup paraguaya son de 20.000 a 100.000 dólares en etapa pre-seed, generalmente a través de subsidios del CONACYT o del MITIC. Las rondas seed de 100.000 a 1 millón ya son raras y requieren inversores internacionales. Las Series A —un millón de dólares o más— son casi inexistentes. Comparado con Uruguay, que tiene dLocal (valorada en más de 3.000 millones de dólares y cotizando en Nasdaq), Paraguay no tiene ni un solo unicornio, ni una sola salida a bolsa, ni una sola adquisición significativa.
 
-El mercado local es demasiado pequeño —7,5 millones de personas— para sostener startups de software como servicio (SaaS) que necesiten escalar sin salir del país. La [barrera de la fuga de cerebros]({% post_url 2026-07-10-talento-tech-paraguay-ia %}) es igualmente crítica: los desarrolladores e ingenieros paraguayos con talento se van a trabajar al exterior o aceptan salarios en dólares de empresas extranjeras desde sus casas, lo que hace que contratar para una startup local sea prohibitivo.
+El mercado local es demasiado pequeño —6,4 millones de personas— para sostener startups de software como servicio (SaaS) que necesiten escalar sin salir del país. La [barrera de la fuga de cerebros]({% post_url 2026-07-10-talento-tech-paraguay-ia %}) es igualmente crítica: los desarrolladores e ingenieros paraguayos con talento se van a trabajar al exterior o aceptan salarios en dólares de empresas extranjeras desde sus casas, lo que hace que contratar para una startup local sea prohibitivo.
 
 ## Lecciones desde afuera
 
@@ -73,7 +73,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Cuánta inversión reciben las startups paraguayas?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "En 2025 Paraguay registró un récord de USD 3,9 millones en inversión de capital de riesgo en startups tech. Es un crecimiento de casi el 300% respecto al millón de dólares invertido en toda la década anterior. Sin embargo, no existe un fondo de VC con sede en Paraguay y las Series A son casi inexistentes."
+        "text": "En 2025 Paraguay registró un récord de USD 3,75 millones en inversión de capital de riesgo en startups tech. Es un crecimiento de casi el 300% respecto al millón de dólares invertido en toda la década anterior. Sin embargo, no existe un fondo de VC con sede en Paraguay y las Series A son casi inexistentes."
       }
     },
     {
@@ -89,7 +89,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Qué apoyos existen para startups tech en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El MITIC tiene InnovandoPY (capital semilla no reembolsable, USD 140.000 a 7 startups en 2025). CONACYT financia PROINNOVA con USD 3-5 millones anuales. KOGA Impact Lab ha apoyado a más de 200 startups en 14 años. Parcapy pasó de 1 fondo a 7 entre 2015 y 2024."
+        "text": "El MITIC tiene InnovandoPY (capital semilla no reembolsable, USD 140.000 a 7 startups en 2025). CONACYT financia PROINNOVA con un promedio de USD 2 millones anuales (crédito BID). KOGA Impact Lab ha apoyado a más de 200 startups en 14 años. Parcapy pasó de 1 fondo a 7 entre 2015 y 2024."
       }
     }
   ]
