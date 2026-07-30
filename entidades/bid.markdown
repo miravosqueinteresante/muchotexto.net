@@ -2,7 +2,7 @@
 layout: entidad
 title: "Banco Interamericano de Desarrollo"
 description: >
-  Perfil de BID en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Banco Interamericano de Desarrollo.
+  Perfil de BID en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Banco Interamericano de Desarrollo.
 permalink: /entidades/bid/
 last_modified_at: 2026-07-30
 entity_name: BID
@@ -24,4 +24,4 @@ obs_regulacion:
     context: "6 pilares, 55 medidas, financiada por el BID. Pivotea hacia fertilizantes para el mercado brasileño. Documento de política pública sin rango de ley."
 ---
 
-1 articulos en el observatorio mencionan a BID.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.

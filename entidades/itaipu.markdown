@@ -2,7 +2,7 @@
 layout: entidad
 title: "Itaipú Binacional"
 description: >
-  Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
+  Perfil de Itaipú en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
 last_modified_at: 2026-07-30
 entity_name: Itaipú
@@ -53,4 +53,4 @@ obs_regulacion:
     context: "Vence el 1 de enero de 2027. Negociaciones congeladas desde el escándalo ABIN (abril 2025). Sin acuerdo, Paraguay pierde ~$600M/año. Define la base financiera de la binacional hasta 2053."
 ---
 
-4 articulos en el observatorio mencionan a Itaipú.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.

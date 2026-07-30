@@ -2,7 +2,7 @@
 layout: entidad
 title: "Universidad Nacional de Asunción"
 description: >
-  Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
+  Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
 last_modified_at: 2026-07-30
 entity_name: UNA
@@ -91,4 +91,4 @@ obs_casos-de-uso:
     context: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta..."
 ---
 
-12 articulos en el observatorio mencionan a UNA.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.

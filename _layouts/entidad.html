@@ -21,7 +21,7 @@ layout: default
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Thing",
+    "@type": "Corporation",
     "name": {{ page.entity_name | default: page.title | jsonify }},
     "description": {{ page.entity_description | default: page.description | jsonify }},
     "url": "{{ site.url }}{{ page.url }}",
@@ -33,7 +33,7 @@ layout: default
 
   {% if page.related_articles.size > 0 %}
   <section class="entity-section">
-    <h2>Articulos relacionados</h2>
+    <h2>Artículos relacionados</h2>
     <ul class="entity-article-list">
       {% for article in page.related_articles %}
       <li class="entity-article-item">
@@ -132,15 +132,15 @@ layout: default
   {% endif %}
 
   <nav class="entity-back">
-    <a href="/entidades/">&larr; Volver al indice de entidades</a>
+    <a href="/entidades/">&larr; Volver al índice de entidades</a>
   </nav>
 </article>
 
 <div class="author-bio">
-  <div class="author-bio-avatar"><img src="{{ '/assets/images/cesar-sanchez.webp' | relative_url }}" alt="Cesar Sanchez" width="56" height="56" loading="lazy"></div>
+  <div class="author-bio-avatar"><img src="{{ '/assets/images/cesar-sanchez.webp' | relative_url }}" alt="César Sánchez" width="56" height="56" loading="lazy"></div>
   <div class="author-bio-content">
-    <p class="author-bio-name">Cesar Sanchez</p>
-    <p class="author-bio-text">Consultor en automatizacion con IA generativa, anotacion de datos para modelos de lenguaje y desarrollo de soluciones basadas en IA aplicada. Fundo en 2005 uno de los primeros medios digitales sobre tecnologia en Paraguay y ha trabajado con marcas como Coca-Cola en generacion de contenido con IA. Creador del <a href="{{ '/' | relative_url }}">observatorio de IA en Paraguay</a>.</p>
+    <p class="author-bio-name">César Sánchez</p>
+    <p class="author-bio-text">Consultor en automatización con IA generativa, anotación de datos para modelos de lenguaje y desarrollo de soluciones basadas en IA aplicada. Fundó en 2005 uno de los primeros medios digitales sobre tecnología en Paraguay y ha trabajado con marcas como Coca-Cola en generación de contenido con IA. Creador del <a href="{{ '/' | relative_url }}">observatorio de IA en Paraguay</a>.</p>
     <p class="author-bio-links">
       <a href="{{ '/about/' | relative_url }}">Sobre el autor</a>
        |

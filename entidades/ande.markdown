@@ -2,7 +2,7 @@
 layout: entidad
 title: "Administración Nacional de Electricidad"
 description: >
-  Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
+  Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
 last_modified_at: 2026-07-30
 entity_name: ANDE
@@ -69,4 +69,4 @@ obs_casos-de-uso:
     context: "El Surti crea el primer dataset comunitario de voz en guaraní con mingas y un modelo wav2vec2. API abierta de transcripción. Chatbot de WhatsApp. Contraste con maorí (Nueva Zelanda), catalán (ILENIA)..."
 ---
 
-4 articulos en el observatorio mencionan a ANDE.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.

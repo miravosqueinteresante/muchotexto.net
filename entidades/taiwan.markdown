@@ -2,7 +2,7 @@
 layout: entidad
 title: "Taiwán (República de China)"
 description: >
-  Perfil de Taiwán en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwán (República de China).
+  Perfil de Taiwán en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
 last_modified_at: 2026-07-30
 entity_name: Taiwán
@@ -47,4 +47,4 @@ obs_casos-de-uso:
     context: "Paraguay produce 400-600 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026."
 ---
 
-3 articulos en el observatorio mencionan a Taiwán.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.

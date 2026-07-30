@@ -2,7 +2,7 @@
 layout: entidad
 title: "Taiwan Semiconductor Manufacturing Company"
 description: >
-  Perfil de TSMC en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwan Semiconductor Manufacturing Company.
+  Perfil de TSMC en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Taiwan Semiconductor Manufacturing Company.
 permalink: /entidades/tsmc/
 last_modified_at: 2026-07-30
 entity_name: TSMC
@@ -20,4 +20,4 @@ obs_glosario:
     context: "La mayor fundición de semiconductores del mundo. Fabrica más del 90% de los chips más avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturó USD 122.000 millones en 2025. Sus..."
 ---
 
-1 articulos en el observatorio mencionan a TSMC.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.

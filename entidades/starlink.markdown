@@ -2,7 +2,7 @@
 layout: entidad
 title: "Starlink (SpaceX)"
 description: >
-  Perfil de Starlink en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Starlink (SpaceX).
+  Perfil de Starlink en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Starlink (SpaceX).
 permalink: /entidades/starlink/
 last_modified_at: 2026-07-30
 entity_name: Starlink
@@ -28,4 +28,4 @@ obs_casos-de-uso:
     context: "20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — primer país del..."
 ---
 
-1 articulos en el observatorio mencionan a Starlink.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.

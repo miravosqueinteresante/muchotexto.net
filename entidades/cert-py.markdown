@@ -2,7 +2,7 @@
 layout: entidad
 title: "Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay"
 description: >
-  Perfil de CERT-PY en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay.
+  Perfil de CERT-PY en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay.
 permalink: /entidades/cert-py/
 last_modified_at: 2026-07-30
 entity_name: CERT-PY
@@ -34,4 +34,4 @@ obs_casos-de-uso:
     context: "CERT-PY opera desde 2012. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizó 18 agencias estatales. Paraguay aprobó su primera Estrategia Nacional de..."
 ---
 
-1 articulos en el observatorio mencionan a CERT-PY.
+{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.
