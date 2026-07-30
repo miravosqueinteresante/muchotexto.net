@@ -60,9 +60,9 @@ El Fondo de Cooperación y Desarrollo Internacional de Taiwán (ICDF) ya contact
 
 ### La paradoja energética: producir no es entregar
 
-Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red cuya única línea de 500 kV —el doble circuito Yguazú–Valenzuela— tiene apenas 50 kilómetros. Las pérdidas en distribución alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
+Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red de 835 kilómetros de líneas de 500 kV —concentradas entre Itaipú y el área metropolitana de Asunción, sin un anillo nacional— y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
 
-La Fase III del proyecto requeriría 1.500 megavatios —el equivalente a más de dos turbinas de Itaipú—, una carga que la red de transmisión actual, con solo 50 kilómetros de líneas de 500 kV, no podría soportar. Sin una inversión masiva en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
+La Fase III del proyecto requeriría 1.500 megavatios —el equivalente a más de dos turbinas de Itaipú—, una carga que la red de transmisión actual, con 835 kilómetros de líneas de 500 kV concentradas en la región oriental, no podría soportar sin una expansión masiva. Sin inversión en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
 
 La renegociación del Tratado de Itaipú en 2027 es una variable crítica. Paraguay podría recuperar soberanía sobre su excedente energético y destinarlo a proyectos propios, o podría encontrarse con condiciones menos favorables. El resultado de esa negociación define si Yguazú Digital tiene la energía que necesita o si se queda en un anuncio sin voltaje.
 
@@ -169,7 +169,7 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
       "name": "Cuales son los principales riesgos de Yguazu Digital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La red de ANDE tiene solo 50 km de lineas de 500 kV y perdidas del 31%. Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwan, su unico aliado sudamericano."
+        "text": "La red de ANDE tiene 835 km de lineas de 500 kV concentradas en la region oriental y sin anillo nacional y perdidas del 31%. Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwan, su unico aliado sudamericano."
       }
     }
   ]
