@@ -21,8 +21,6 @@ related_articles:
     url: /articulos/2026/06/01/la-albirroja-y-su-lista-de-convocados-para-el-mund-pulso-paraguay/
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-  - title: "Celebraciones y desafíos: el impacto del triunfo de Paraguay — Editorial 30 de junio de 2026"
-    url: /editorial/2026/06/30/celebraciones-y-desafios-el-impacto-del-triunfo-de-paraguay-editorial/
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
@@ -37,4 +35,4 @@ related_articles:
 
 Presidente de Paraguay desde agosto 2023. Su gobierno impulso la apertura del sector electrico (Ley 7599, Decreto 6034), promovio el proyecto Yguazu Digital con Taiwan, y recibio a Peter Thiel y a delegaciones de TSMC. Bajo su administracion, Paraguay se posiciona activamente como hub de IA en Sudamerica.
 
-**10 artículos** en el observatorio mencionan a Santiago Pena.
+**9 artículos** en el observatorio mencionan a Santiago Pena.

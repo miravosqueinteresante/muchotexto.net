@@ -27,16 +27,8 @@ related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "an-crearan-yguazu-digital-un-gigante-de-ia-que-consumira-una-turbina-y-media-de-itaipu/ 11 mayo 2026 - ABC Color — 'Centro de datos soberano con Taiwán; ministro habla de inversión de US$ 40.000 millo"
-  - title: "Pulso Paraguay: Crisis en IPS — 24 de junio de 2026"
-    url: /pulso-paraguay/2026/06/24/crisis-en-ips-pulso-paraguay/
-  - title: "Cuando el sistema colapsa — Editorial 24 de junio de 2026"
-    url: /editorial/2026/06/24/cuando-el-sistema-colapsa-editorial-24-de-junio-de-2026-editorial/
   - title: "El plan de Paraguay para pasar de la soja al silicio"
     url: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
-  - title: "Pulso Paraguay: Desprolijidades en auditoría — 6 de julio de 2026"
-    url: /pulso-paraguay/2026/07/06/desprolijidades-en-auditoria-pulso-paraguay/
-  - title: "Transparencia y confianza en Paraguay desafíos y tensiones — Editorial 6 de julio de 2026"
-    url: /editorial/2026/07/06/transparencia-y-confianza-en-paraguay-desafios-y-tensiones-e-editoria/
   - title: "Lo que la criptominería le cuesta realmente a Paraguay"
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
@@ -44,8 +36,18 @@ related_articles:
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "cuerdo de Itaipú 2024'https;//www.ultimahora.com/que-dice-el-nuevo-acuerdo-de-itaipu-los-7-puntos-claves-que-pactaron-paraguay-y-brasil-en-2024 2024 - Wilson Center — 'Brazil, Paraguay and the Future "
-  - title: "Pulso Paraguay: Heladas en Itapúa — 9 de julio de 2026"
-    url: /pulso-paraguay/2026/07/09/heladas-en-itapua-pulso-paraguay/
+  - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+    url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
+  - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
+  - title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
+    url: /articulos/2026/07/16/ia-soberana-paraguay/
+  - title: "Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años"
+    url: /articulos/2026/07/17/ciberseguridad-paraguay/
+    context: "mos en profundidad en el contexto del Anexo C de Itaipú{% posturl 2026-07-17-itaipu-2027-energia-paraguay %}. El caso expuso algo más grave que la tensión diplomática; reveló que actores estatales —al"
+  - title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
+    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+    context: "e of Itaipú'https;//www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-itaipu 2021 - Última Hora — 'Qué dice el nuevo acuerdo de Itaipú; los 7 puntos claves'https;//www.ultimahora.com/ mayo 202"
 entity_laws:
   - "Anexo C del Tratado de Itaipu — vence 1 enero 2027"
   - "Tarifa Itaipu 2024-2026 — USD 19.28/kW-mes"

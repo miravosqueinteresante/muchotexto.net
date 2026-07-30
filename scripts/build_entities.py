@@ -112,8 +112,13 @@ def find_mentions_in_posts(keywords, max_results=15):
             continue
 
         fm = parse_frontmatter(content)
-        title = clean_title(fm.get("title", ""), fname)
         categories = fm.get("categories", "articulos")
+
+        # Only long-form articles (not Pulso or Editorial AI-generated content)
+        if 'articulos' not in categories:
+            continue
+
+        title = clean_title(fm.get("title", ""), fname)
         post_url = build_post_url(fname, categories)
 
         score = 0

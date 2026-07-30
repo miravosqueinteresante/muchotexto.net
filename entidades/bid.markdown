@@ -47,15 +47,15 @@ related_articles:
   - title: "Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026"
     url: /articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/
     context: "Training Center - BBC Future — 'How Brazil is betting on 'smart vests' in its bid for World Cup glory'https;//www.bbc.com/future/article/20260611-he-was-always-in-the-right-spot-how-brazil-is-betting-"
-  - title: "Pulso Paraguay: Crisis en IPS — 24 de junio de 2026"
-    url: /pulso-paraguay/2026/06/24/crisis-en-ips-pulso-paraguay/
-    context: "sobre una crisis estructural que ha llevado a la renuncia de varios empleados debido a condiciones laborales precarias. Este hecho ha generado preocupación en la sociedad sobre la capacidad del instit"
-  - title: "Cuando el sistema colapsa — Editorial 24 de junio de 2026"
-    url: /editorial/2026/06/24/cuando-el-sistema-colapsa-editorial-24-de-junio-de-2026-editorial/
-    context: "ión de estos fondos es un tema recurrente que, lamentablemente, ha encontrado cabida en el imaginario colectivo como algo casi inmutable. Pero no debería ser así. Cada guaraní que ingresa al erario pú"
-  - title: "Pulso Paraguay: Mundial 2026: Paraguay clasifica a octavos de final — 30 de junio de 2026"
-    url: /pulso-paraguay/2026/06/30/mundial-2026-paraguay-clasifica-a-octavos-de-final-pulso-paraguay/
-    context: "segurados del Instituto de Previsión Social están manifestando su descontento debido a la reprogramación de consultas médicas tras la declaración de feriados. Esto ha generado incertidumbre en la aten"
+  - title: "El plan de Paraguay para pasar de la soja al silicio"
+    url: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
+    context: "ecuta la Agenda Digital Paraguay con un préstamo de 130 millones de dólares del BID. El programa tiene cuatro componentes; gobierno digital 32.6 millones, economía digital 29.6 millones, conectividad "
+  - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
+    url: /articulos/2026/07/08/red-electrica-paraguay-ia/
+    context: ". La ANDE financia sus inversiones de capital con préstamos multilaterales; el BID, el Banco Europeo de Inversiones y la agencia de cooperación taiwanesa ICDF. Los montos son conocidos pero insuficien"
+  - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
+    url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
+    context: "vados como Penguin Academy— pero ninguna alcanza las dimensiones necesarias. El BID financia la Agenda Digital de Paraguay con 130 millones de dólares, que incluye componentes de formación, pero el pr"
 related_glossary:
   - term: "Autograph"
     url: /artículos/2026/07/14/startups-ia-paraguay/
