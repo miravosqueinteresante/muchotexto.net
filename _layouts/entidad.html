@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+{% assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,setiembre,octubre,noviembre,diciembre" | split: "," %}
+{% assign d = page.last_modified_at | date: "%-d" %}
+{% assign m = page.last_modified_at | date: "%-m" | minus: 1 %}
+
 <article class="page entity-page">
   <div class="entity-header">
     <h1 class="page-title">{{ page.entity_name | default: page.title }}</h1>
@@ -10,9 +14,6 @@ layout: default
     {% endif %}
     <div class="entity-meta">
       <span class="entity-category" data-category="{{ page.entity_category }}">{{ page.entity_category | capitalize }}</span>
-      {% assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,setiembre,octubre,noviembre,diciembre" | split: "," %}
-      {% assign d = page.last_modified_at | date: "%-d" %}
-      {% assign m = page.last_modified_at | date: "%-m" | minus: 1 %}
       <span class="entity-updated">Actualizado: {{ d }} de {{ meses[m] }} de {{ page.last_modified_at | date: "%Y" }}</span>
     </div>
   </div>
@@ -21,11 +22,10 @@ layout: default
   {
     "@context": "https://schema.org",
     "@type": "Thing",
-    "name": {{ page.name_full | default: page.title | jsonify }},
+    "name": {{ page.entity_name | default: page.title | jsonify }},
     "description": {{ page.entity_description | default: page.description | jsonify }},
     "url": "{{ site.url }}{{ page.url }}",
     "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
-    {% if page.entity_sameAs %}, "sameAs": {{ page.entity_sameAs | jsonify }}{% endif %}
   }
   </script>
 
@@ -58,23 +58,67 @@ layout: default
   </section>
   {% endif %}
 
-  {% if page.related_glossary %}
+  {% if page.obs_glosario %}
   <section class="entity-section">
     <h2>En el glosario</h2>
     <ul class="entity-glossary-list">
-      {% for term in page.related_glossary %}
-      <li><a href="{{ term.url }}">{{ term.term }}</a></li>
+      {% for term in page.obs_glosario %}
+      <li>
+        <strong>{{ term.label }}</strong> &mdash; {{ term.context }}
+        {% if term.url %}<br><a href="{{ term.url }}">Ver articulo completo</a>{% endif %}
+      </li>
       {% endfor %}
     </ul>
   </section>
   {% endif %}
 
-  {% if page.related_observatory %}
+  {% if page.obs_cronologia %}
   <section class="entity-section">
-    <h2>En el observatorio</h2>
-    <ul class="entity-observatory-list">
-      {% for item in page.related_observatory %}
-      <li><a href="{{ item.url }}">{{ item.label }}</a> &mdash; {{ item.context }}</li>
+    <h2>En la cronologia</h2>
+    <ul class="entity-timeline-list">
+      {% for item in page.obs_cronologia %}
+      <li>
+        <strong>{{ item.label }}</strong> &mdash; {{ item.context | markdownify }}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.obs_directorio %}
+  <section class="entity-section">
+    <h2>En el directorio</h2>
+    <ul class="entity-directory-list">
+      {% for item in page.obs_directorio %}
+      <li>
+        <a href="{{ item.url }}">{{ item.label }}</a> &mdash; {{ item.context }}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.obs_regulacion %}
+  <section class="entity-section">
+    <h2>En regulacion</h2>
+    <ul class="entity-regulation-list">
+      {% for item in page.obs_regulacion %}
+      <li>
+        <a href="{{ item.url }}">{{ item.label }}</a> &mdash; {{ item.context }}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.obs_casos-de-uso %}
+  <section class="entity-section">
+    <h2>Casos de uso</h2>
+    <ul class="entity-casos-list">
+      {% for item in page.obs_casos-de-uso %}
+      <li>
+        <a href="{{ item.url }}">{{ item.label }}</a> &mdash; {{ item.context }}
+      </li>
       {% endfor %}
     </ul>
   </section>
