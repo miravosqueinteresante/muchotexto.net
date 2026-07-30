@@ -26,7 +26,7 @@ Si no hay acuerdo, la tarifa no desaparece —cae al costo de producción. Los e
 
 Paraguay tiene un problema anterior a la negociación con Brasil. No puede usar la energía que ya tiene.
 
-La Administración Nacional de Electricidad opera una red de transmisión que no fue diseñada para transportar los 7.000 megavatios que le corresponden a Paraguay de Itaipú. La capacidad de transmisión de la ANDE es limitada —la única línea de 500 kV del país, el doble circuito Yguazú–Valenzuela, tiene apenas 50 kilómetros—, un problema que analizamos en detalle en [el diagnóstico de la red eléctrica paraguaya]({% post_url 2026-07-08-red-electrica-paraguay-ia %}). Las pérdidas de distribución alcanzan el 31% —casi un tercio de la electricidad se pierde antes de llegar al consumidor—. La subestación Emboscada, un proyecto de 140 millones de dólares financiado en parte por el BID, está en construcción pero no va a resolver el problema por sí sola.
+La Administración Nacional de Electricidad opera una red de transmisión que no fue diseñada para transportar los 7.000 megavatios que le corresponden a Paraguay de Itaipú. La capacidad de transmisión de la ANDE es limitada —el país cuenta con 835 kilómetros de líneas de 500 kV, concentradas entre Itaipú y el área metropolitana de Asunción, sin un anillo que recorra todo el territorio—, un problema que analizamos en detalle en [el diagnóstico de la red eléctrica paraguaya]({% post_url 2026-07-08-red-electrica-paraguay-ia %}). Las pérdidas de distribución alcanzan el 31% —casi un tercio de la electricidad se pierde antes de llegar al consumidor—. La subestación Emboscada, un proyecto de 140 millones de dólares financiado en parte por el BID, está en construcción pero no va a resolver el problema por sí sola.
 
 Esto significa que incluso si Paraguay obtuviera las mejores condiciones posibles en la renegociación —más energía para uso propio, libertad total de venta a terceros—, no tendría cómo transportarla. La energía está en Itaipú, en la frontera con Brasil, a 300 kilómetros de Asunción. La línea de transmisión que debería llevarla a los centros de consumo no existe.
 
@@ -101,7 +101,7 @@ Leé el análisis completo sobre infraestructura y energía en la [guía de inte
       "name": "¿Por qué Paraguay no usa más energía de Itaipú para consumo propio?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Porque la red de transmisión de ANDE no tiene capacidad para transportarla. La única línea de 500 kV del país tiene apenas 50 km, mientras que Paraguay tiene derecho a 7.000 MW de Itaipú. Las pérdidas de distribución alcanzan el 31%. Faltan líneas de 500 kilovoltios que conecten la represa —ubicada en la frontera con Brasil, a 300 km de Asunción— con los centros de consumo."
+        "text": "Porque la red de transmisión de ANDE no tiene capacidad para transportarla. La red de 500 kV del país, con 835 kilómetros concentrados entre Itaipú y el área metropolitana, debe expandirse para llevar energía a todo el territorio. Paraguay tiene derecho a 7.000 MW de Itaipú pero la infraestructura de transmisión es insuficiente. Las pérdidas de distribución alcanzan el 31%. Faltan líneas de 500 kilovoltios que conecten la represa —ubicada en la frontera con Brasil, a 300 km de Asunción— con los centros de consumo."
       }
     }
   ]
