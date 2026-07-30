@@ -11,7 +11,7 @@ entity_description: >
   Centro de investigacion y desarrollo tecnologico vinculado a Itaipu Binacional. Opera la unica unidad experimental de hidrogeno verde del Paraguay (2 Nm3/h). Desarrolla proyectos de innovacion en energia, automatizacion y tecnologia aplicada. Actor clave en la transicion energetica y la diversificacion tecnologica del pais.
 entity_category: academia
 related_articles:
-  - title: "Apertura Sector Electrico Privado Paraguay"
+  - title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "ras que nada tienen que ver con su función, realizadas a través de la Fundación PTI-PY y UNOPS, bypasseando completamente a la Dirección Nacional de Contrataciones Públicas y a la Contraloría. En la m"
   - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"

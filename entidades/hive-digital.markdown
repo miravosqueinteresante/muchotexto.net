@@ -11,10 +11,10 @@ entity_description: >
   Empresa de infraestructura de computo GPU listada en bolsa. Opera un campus de 100 MW en Yguazu con energia de Itaipu, con planes de expandir a 400 MW. Lanzo BUZZ AI Cloud en marzo 2026, el primer cluster de GPU para IA en Paraguay, en un data center Tier III en Asuncion.
 entity_category: empresa
 related_articles:
-  - title: "Ia Cuesta Mas Que Humanos Burbuja"
+  - title: "La IA cuesta más que los humanos que reemplazó: los números"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
     context: "000-millones/ — equivalente al PIB total de Paraguay — para consumir 1.000 MW. Hive Digital ya invirtió $400 milloneshttps;//www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surg"
-  - title: "Magnifica Humanitas Enciclica Ia"
+  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
     context: "a Paraguay negociar con terceros países mientras el acuerdo esté vigente. - Hive Digital es el proyecto más concreto de los tres. Ya invirtió más de 400 millones de dólares no 350, como se ha citado e"
   - title: "El plan de Paraguay para pasar de la soja al silicio"

@@ -11,19 +11,19 @@ entity_description: >
   Taiwan es el ultimo aliado diplomatico de Paraguay en Sudamerica y su socio estrategico en tecnologia. Fabrica el 90% de los semiconductores avanzados del mundo (TSMC). Invierte en Paraguay a traves del ICDF con becas, cooperacion tecnica y el proyecto Yguazu Digital. La relacion Taiwan-Paraguay define la posicion geopolitica del pais en la guerra fria tecnologica entre China y EE.UU.
 entity_category: geopolitica
 related_articles:
-  - title: "Primer Articulo"
+  - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "gia Yguazu Digital, criptomineria, ANDE, geopolitica y regulacion tech China-Taiwan, proteccion de datos, IA sociedad y trabajo anotacion de datos, educacion tech, tecnologia aplicada blockchain, fint"
-  - title: "Peter Thiel Paraguay Experimento"
+  - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
     context: "y/internacionales/2026/05/07/china-insta-a-paraguay-a-romper-sus-relaciones-con-taiwan-ante-el-viaje-de-pena-a-la-isla/'>'China insta a Paraguay a romper relaciones con Taiwán'</a> 7 May 2026</li> <li"
-  - title: "Apertura Sector Electrico Privado Paraguay"
+  - title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "a href='https;//www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/'>'Centro de datos soberano con Taiwán; inversión d"
-  - title: "Ia Cuesta Mas Que Humanos Burbuja"
+  - title: "La IA cuesta más que los humanos que reemplazó: los números"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
     context: "lloneshttps;//www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/ — equivalente al PIB total de Paraguay — para consum"
-  - title: "Magnifica Humanitas Enciclica Ia"
+  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
     context: "aiwán'https;//www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/ 13 may 2026 16. BNamericas — 'Mi objetivo es alcanza"
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"

@@ -11,7 +11,7 @@ entity_description: >
   Servicio de internet satelital de SpaceX que opera en Paraguay desde 2023. Mas de 20.000 usuarios, 1.600 antenas instaladas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizo a Starlink a operar por encima de los limites de potencia de la UIT — Paraguay fue el primer pais del mundo en hacerlo.
 entity_category: empresa
 related_articles:
-  - title: "Tokenizacion Del Agro Paraguay"
+  - title: "Soja, ganado y blockchain: la tokenización del agro en Paraguay"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
     context: "á buena parte de la producción ganadera, la conectividad sigue siendo limitada. Starlink está llegando — 18 comunidades conectadas en enero de 2026 — pero falta mucho. La tokenización no funciona sin "
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"

@@ -11,18 +11,18 @@ entity_description: >
   La hidroelectrica mas grande del mundo en generacion acumulada, operada por Paraguay y Brasil desde 1973. Genera 14.000 MW; Paraguay consume ~20% de su mitad y vende el resto a Brasil. El Anexo C del tratado vence en enero 2027. La energia de Itaipu alimenta los data centers de HIVE y es la ventaja competitiva central de Paraguay en la economia de la IA.
 entity_category: infraestructura
 related_articles:
-  - title: "Peter Thiel Paraguay Experimento"
+  - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
     context: "/strong> – <a href='https;//www.abc.com.py/politica/2026/05/13/gobierno-compara-itaipu-con-el-proyecto-centro-ia-paraguay-taiwan/'>'Gobierno compara Itaipú con proyecto Centro IA Paraguay-Taiwán'</a> "
-  - title: "Tokenizacion Del Agro Paraguay"
+  - title: "Soja, ganado y blockchain: la tokenización del agro en Paraguay"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
-  - title: "Apertura Sector Electrico Privado Paraguay"
+  - title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "y/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/'>'Solo cuatro criptomineras consumen más que una turbina de Itaipú'</a> 16 Mar 2026</li> <li><strong>ABC Color</"
-  - title: "Ia Cuesta Mas Que Humanos Burbuja"
+  - title: "La IA cuesta más que los humanos que reemplazó: los números"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
     context: "y/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/. El 66% no paga aportes al IPS. Y hay denuncias de que altos directivos de ANDE cobran hasta $500.000 mensuales "
-  - title: "Magnifica Humanitas Enciclica Ia"
+  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/

@@ -56,6 +56,8 @@ def load_entities():
 
 
 def parse_frontmatter(content):
+    # Strip BOM and normalize line endings
+    content = content.lstrip('\ufeff').replace('\r\n', '\n')
     m = re.match(r'^---\s*\n(.*?)\n---', content, re.DOTALL)
     if not m:
         return {}

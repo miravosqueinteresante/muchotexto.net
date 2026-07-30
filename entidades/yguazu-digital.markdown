@@ -11,16 +11,16 @@ entity_description: >
   Proyecto binacional Paraguay-Taiwan para construir uno de los centros de datos de IA mas grandes del mundo. Tres fases: Fase I (10 MW, USD 200-500M), Fase II (100 MW, ~USD 5B), Fase III (1 GW, ~USD 40B). El ICDF contacto a Google, Microsoft y Amazon como posibles clientes. Es el ancla de la estrategia de Paraguay como hub de IA.
 entity_category: infraestructura
 related_articles:
-  - title: "Primer Articulo"
+  - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "'Answer', 'text'; 'El sitio cubre 5 pilares; infraestructura y energia Yguazu Digital, criptomineria, ANDE, geopolitica y regulacion tech China-Taiwan, proteccion de datos, IA sociedad y trabajo anota"
-  - title: "Peter Thiel Paraguay Experimento"
+  - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
-  - title: "Apertura Sector Electrico Privado Paraguay"
+  - title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-  - title: "Ia Cuesta Mas Que Humanos Burbuja"
+  - title: "La IA cuesta más que los humanos que reemplazó: los números"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
-  - title: "Magnifica Humanitas Enciclica Ia"
+  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
     context: "beneficios se concentran en el Norte. Paraguay esta apostando a proyectos como Yguazu Digital USD 40.000 millones y X8 Cloud USD 50.000 millones.' } }  } </script>"
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"

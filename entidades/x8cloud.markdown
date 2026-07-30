@@ -11,16 +11,16 @@ entity_description: >
   Empresa con sede en Los Angeles que anuncio un plan de USD 10-50B a 30 anos para construir data centers de IA en Paraguay. Inicio construccion en mayo 2026 con 50 MW iniciales. Uno de los primeros actores privados habilitados por la apertura del sector electrico (Ley 7599, Decreto 6034).
 entity_category: empresa
 related_articles:
-  - title: "Peter Thiel Paraguay Experimento"
+  - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
     context: "00 MW y una inversión estimada de 300 millones de dólares para su fase inicial. X8 Cloud, otra empresa con sede en Los Ángeles, anunció un plan de 10 a 50 mil millones de dólares para centros de datos"
-  - title: "Apertura Sector Electrico Privado Paraguay"
+  - title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "eñar' su mayor riqueza energética sin transferencia tecnológica real.  6.3. X8 Cloud y Crusoe AI X8 Cloud, empresa con sede en Los Ángeles, firmó un contrato con ANDE para construir el megacentro de I"
-  - title: "Ia Cuesta Mas Que Humanos Burbuja"
+  - title: "La IA cuesta más que los humanos que reemplazó: los números"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
     context: "araguay %}. Los proyectos anunciados son de una escala que el país nunca vio. X8 Cloud planea invertir entre $10 y $50 mil milloneshttps;//www.asunciontimes.com/paraguay-news/national-news/ai-data-cen"
-  - title: "Magnifica Humanitas Enciclica Ia"
+  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
     context: "se, transformarían radicalmente el perfil energético y económico del país; - X8 Cloud, una empresa fundada en enero de 2025, proyecta invertir entre 10.000 y 50.000 millones de dólares en 30 años. La "
   - title: "El plan de Paraguay para pasar de la soja al silicio"

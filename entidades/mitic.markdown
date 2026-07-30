@@ -11,17 +11,11 @@ entity_description: >
   Creado en 2018, el MITIC es el ministerio responsable de la politica digital de Paraguay. Administra la identidad electronica (1.5M+ usuarios), los 480+ tramites digitales del portal Paraguay.gov.py, y la infraestructura de datos del Estado. Es la contraparte del BID en la Agenda Digital y lidera la consulta publica para la Estrategia Nacional de IA.
 entity_category: gobierno
 related_articles:
-  - title: "Tokenizacion Del Agro Paraguay"
+  - title: "Soja, ganado y blockchain: la tokenización del agro en Paraguay"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
     context: "paraguayos ya paga con QR. La identidad electrónica Identidad Electrónica del MITIC está operativa con más de 400 trámites en línea. Paraguay no es Finlandia, pero tampoco es el desierto digital que m"
-  - title: "Que Es Realmente El Futbol"
+  - title: "¿Qué es realmente el fútbol?"
     url: /articulos/2026/06/10/que-es-realmente-el-futbol/
-  - title: "Caso Maria Fernanda Pulso Paraguay"
-    url: /articulos/2026/06/17/caso-maria-fernanda-pulso-paraguay/
-    context: "ura social; Alta 🔹 Gobierno mintió; “Jimmy” Villaverde estuvo comisionado en Mitic y no era solo un “militante”. La revelación ha generado un fuerte debate en el ámbito político sobre la transparencia"
-  - title: "Entre Secretos Y Pantallas El Dilema De La Transparencia En Editorial"
-    url: /articulos/2026/06/17/entre-secretos-y-pantallas-el-dilema-de-la-transparencia-en-editorial/
-    context: "a comisionado en el Ministerio de Tecnologías de la Información y Comunicación Mitic, es una muestra más de cómo la línea entre lo público y lo privado queda desdibujada por conveniencias personales y"
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "stro de Industria, Marco Riquelme, habló de 200 a 300 millones; el ministro del MITIC, Gustavo Villate, de 300 a 500 millones. El costo por megavatio instalado se estima entre 30 y 50 millones de dóla"
@@ -88,4 +82,4 @@ related_observatory:
 
 Creado en 2018, el MITIC es el ministerio responsable de la politica digital de Paraguay. Administra la identidad electronica (1.5M+ usuarios), los 480+ tramites digitales del portal Paraguay.gov.py, y la infraestructura de datos del Estado. Es la contraparte del BID en la Agenda Digital y lidera la consulta publica para la Estrategia Nacional de IA.
 
-**15 artículos** en el observatorio mencionan a MITIC.
+**13 artículos** en el observatorio mencionan a MITIC.
