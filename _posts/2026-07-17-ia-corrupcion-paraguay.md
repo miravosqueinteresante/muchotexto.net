@@ -8,7 +8,7 @@ tags: sociedad-trabajo ia-paraguay
 description: "Brasil tiene ALICE, IA que detecta anomalías en licitaciones desde 2015. Paraguay tiene 24/100 en Transparencia Internacional y compras públicas sin auditar."
 ---
 
-En 2015, la Contraloría General de la Unión de Brasil puso en marcha un sistema llamado ALICE. No es un sistema de vigilancia masiva ni una red de denuncias anónimas. Es un algoritmo que lee pliegos de licitación en tiempo real, cruza precios de mercado, verifica que las empresas que compiten no tengan los mismos dueños y detecta patrones que un auditor humano tardaría semanas en encontrar. Costó aproximadamente un millón de dólares desarrollar la primera versión. Solo en 2024, ALICE analizó compras por 30.600 millones de reales y generó beneficios de 1.250 millones de reales. El sistema lo ofrece gratuitamente la Contraloría brasileña a estados y municipios.
+En 2015, la Contraloría General de la Unión de Brasil puso en marcha un sistema llamado ALICE. No es un sistema de vigilancia masiva ni una red de denuncias anónimas. Es un algoritmo que lee pliegos de licitación en tiempo real, cruza precios de mercado, verifica que las empresas que compiten no tengan los mismos dueños y detecta patrones que un auditor humano tardaría semanas en encontrar. Según reportes de prensa brasileña, costó aproximadamente un millón de dólares desarrollar la primera versión. Solo en 2024, ALICE analizó compras por 30.600 millones de reales y generó beneficios de 1.250 millones de reales. El sistema lo ofrece gratuitamente la Contraloría brasileña a estados y municipios.
 
 Paraguay ocupa el puesto 150 de 182 países en el Índice de Percepción de la Corrupción de Transparencia Internacional, con 24 puntos sobre 100. Su puntaje bajó de 30 en 2016 a 24 en 2025. En ese mismo período, la Dirección Nacional de Contrataciones Públicas procesó aproximadamente 3.250 millones de dólares al año en compras del Estado —casi 9.500 adjudicaciones anuales, más de 3.300 proveedores— sin que ningún algoritmo las audite. La plataforma de compras electrónicas existe. Los datos abiertos existen. La ley de compras públicas reformada existe. Lo que no existe es la capa de inteligencia artificial que podría detectar anomalías en esos datos. Este artículo mide esa distancia.
 
@@ -18,7 +18,7 @@ ALICE —siglas de Análise de Licitações, Contratos e Editais— no reemplaza
 
 El diseño es deliberadamente modesto. ALICE no toma decisiones. No bloquea contratos. No reemplaza a nadie. Es un flagger: un sistema que le dice al auditor "acá hay algo que merece que lo mires". La diferencia con una auditoría tradicional es de escala: un equipo de diez auditores puede revisar unas 200 licitaciones por año. ALICE revisa todas.
 
-Brasil no es el único país que hace esto. Corea del Sur opera BRIAS —Bid Rigging Indicator Analysis System— desde 2014, y reporta haber prevenido más de 300 millones de dólares en colusión en licitaciones. Ucrania implementó ProZorro, una plataforma de compras transparentes que ahorró aproximadamente 6.000 millones de dólares entre 2016 y 2019. Colombia tiene análisis de datos sobre su plataforma SECOP. Chile activó en 2025 el Observatorio ChileCompra, que monitorea más de 150.000 procesos de compra al año con inteligencia artificial.
+Brasil no es el único país que hace esto. Corea del Sur opera BRIAS —Bid Rigging Indicator Analysis System— desde 2006, como parte de su sistema de detección de colusión en licitaciones públicas. Ucrania implementó ProZorro, una plataforma de compras transparentes que reportó ahorros por aproximadamente 6.000 millones de dólares entre 2017 y 2021. Colombia tiene análisis de datos sobre su plataforma SECOP. Chile integró inteligencia artificial a su plataforma ChileCompra para monitorear más de 150.000 procesos de compra al año.
 
 En todos los casos, el patrón es el mismo: un país digitaliza sus compras públicas, libera los datos en formato abierto y luego aplica algoritmos de detección de anomalías sobre esa base. Los tres pasos son necesarios. Si falta el primero, no hay datos. Si falta el segundo, los datos existen pero nadie puede usarlos. Si falta el tercero, los datos están disponibles pero nadie los analiza sistemáticamente.
 
@@ -50,7 +50,7 @@ La segunda es voluntad política de actuar sobre lo que el sistema encuentre. AL
 
 La tercera es un ecosistema de datos abiertos que permita que la sociedad civil también audite. El portal de datos abiertos de la DNCP existe. Pero los datos de contrataciones son solo una parte del rompecabezas. Para que ALICE funcione, necesita cruzar información de múltiples fuentes: registros de empresas, datos fiscales, sanciones previas, beneficiarios finales. Si esos datos no son públicos, el algoritmo es ciego a las conexiones que más importan.
 
-El costo de implementar un ALICE paraguayo está en el rango de uno a dos millones de dólares en desarrollo inicial y unos 300.000 a 500.000 dólares anuales en operación. Es menos de lo que el Estado pierde en una sola licitación con sobreprecio. El retorno está documentado: por cada dólar invertido en auditoría algorítmica, los sistemas existentes recuperan entre 5 y 15 dólares, según estimaciones de la OCDE.
+El costo de implementar un ALICE paraguayo está en el rango de uno a dos millones de dólares en desarrollo inicial y unos 300.000 a 500.000 dólares anuales en operación. Es menos de lo que el Estado pierde en una sola licitación con sobreprecio. El retorno está documentado: por cada dólar invertido en auditoría algorítmica, los sistemas existentes recuperan entre 5 y 15 dólares, según estimaciones de organismos internacionales.
 
 Paraguay tiene las compras digitalizadas. Tiene los datos abiertos. Tiene la ley. Brasil ya escribió el código y lo regaló. Lo que falta —lo único que falta— es decidir que auditar las compras del Estado con inteligencia artificial es más importante que no hacerlo.
 
@@ -77,7 +77,7 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
       "name": "¿Qué es ALICE, el sistema brasileño anticorrupción?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "ALICE (Análise de Licitações, Contratos e Editais) es un sistema de inteligencia artificial desarrollado por la Contraloría General de la Unión de Brasil desde 2015. Lee pliegos de licitación en tiempo real, cruza precios de mercado y detecta anomalías. Costó aproximadamente USD 1 millón y generó R$ 1.250 millones en beneficios. Es ofrecido gratuitamente por la Contraloría brasileña a estados y municipios."
+        "text": "ALICE (Análise de Licitações, Contratos e Editais) es un sistema de inteligencia artificial desarrollado por la Contraloría General de la Unión de Brasil desde 2015. Lee pliegos de licitación en tiempo real, cruza precios de mercado y detecta anomalías. Según reportes de prensa, costó aproximadamente USD 1 millón y generó R$ 1.250 millones en beneficios. Es ofrecido gratuitamente por la Contraloría brasileña a estados y municipios."
       }
     },
     {
@@ -93,7 +93,7 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
       "name": "¿Cuánto costaría implementar un sistema como ALICE en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Entre USD 1 y 2 millones en desarrollo inicial y USD 300.000-500.000 anuales en operación. ALICE es de código abierto, lo que elimina el costo de licencias. El retorno estimado es de 5 a 15 dólares por cada dólar invertido, según la OCDE. Brasil recuperó más de R$ 1.250 millones con una inversión inicial de ~R$ 5 millones."
+        "text": "Entre USD 1 y 2 millones en desarrollo inicial y USD 300.000-500.000 anuales en operación. ALICE es de código abierto, lo que elimina el costo de licencias. El retorno estimado es de 5 a 15 dólares por cada dólar invertido, según estimaciones de organismos internacionales. Brasil recuperó más de R$ 1.250 millones con una inversión inicial de ~R$ 5 millones."
       }
     }
   ]
