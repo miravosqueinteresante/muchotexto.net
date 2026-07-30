@@ -26,7 +26,7 @@ En términos de alcance geográfico, la ley es extraterritorial: se aplica a cua
 
 El problema no está en lo que la ley dice. Está en quién va a hacer que se cumpla.
 
-El borrador original de la Coalición de Datos Personales proponía una autoridad independiente, con estructura, presupuesto y personal propios. El texto final que aprobó el Congreso degradó esa autoridad a una Dirección General dentro del MITIC, el Ministerio de Tecnologías de la Información y Comunicación. Una unidad desconcentrada, con autonomía funcional pero sin independencia estructural. En la práctica, compite por presupuesto con todas las demás prioridades del ministerio.
+El borrador original de la Coalición de Datos Personales proponía una autoridad independiente, con estructura, presupuesto y personal propios. El texto final que aprobó el Congreso degradó esa autoridad a una Dirección Nacional dentro del MITIC, el Ministerio de Tecnologías de la Información y Comunicación. Una unidad desconcentrada, con autonomía funcional pero sin independencia estructural. En la práctica, compite por presupuesto con todas las demás prioridades del ministerio.
 
 Las multas máximas son de 1.200 millones de guaraníes, unos 160.000 dólares. Para ponerlo en contexto: el GDPR europeo permite multas de hasta el 4% de la facturación global; la LGPD brasileña permite hasta 50 millones de reales por infracción. Las sanciones paraguayas son, literalmente, dos órdenes de magnitud más bajas.
 
