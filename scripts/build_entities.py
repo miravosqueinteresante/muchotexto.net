@@ -272,8 +272,8 @@ def match_entity_in_observatory(entity_name, obs_entries):
                 # Match in entry text
                 search = f"{entry.get('term', '')} {entry.get('label', '')} {entry.get('context', '')}"
                 if name_lower not in strip_accents(search).lower():
-                    # For regulacion/casos-de-uso: also check linked article
-                    if page_name in ("regulacion", "casos-de-uso") and entry.get("url", "").startswith("/articulos/"):
+                    # For casos-de-uso only: also check linked article
+                    if page_name == "casos-de-uso" and entry.get("url", "").startswith("/articulos/"):
                         if not _article_mentions(entity_name, entry["url"]):
                             continue
                     else:

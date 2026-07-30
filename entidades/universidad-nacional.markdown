@@ -61,27 +61,9 @@ obs_regulacion:
   - label: "Ley 7593/2025"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
     context: "Primera ley integral de protección de datos personales de Paraguay. Sancionada el 5 de noviembre de 2025, promulgada el 27 de noviembre. Entra en vigor en noviembre de 2027 (24 meses de transición)...."
-  - label: "Ley 6822/2022"
-    url: /articulos/2026/07/16/gobierno-digital-paraguay/
-    context: "Servicios de confianza para transacciones electrónicas. Base legal para la identidad digital, firma electrónica y notificaciones digitales."
   - label: "Identidad Electrónica"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/
     context: "No es una ley sino un sistema operativo. Superó 1.5 millones de usuarios en julio 2026 (~30% de adultos). SMS-based 2FA obligatorio. Trámites digitales: 480+ en el portal Paraguay.gov.py."
-  - label: "Ley 4868/2013"
-    url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "Comercio electrónico. Precursora del marco digital, anterior a la ley de datos."
-  - label: "Ley 7503/2025"
-    url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
-    context: "Crea el Sistema Nacional de Pagos. Extiende la supervisión del Banco Central del Paraguay a empresas fintech. Interoperabilidad obligatoria entre billeteras y bancos. SPI/Sipap registró 28 millones..."
-  - label: "Ley 7572/2025"
-    url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
-    context: "Ley del Mercado de Valores. Artículo 73: reconoce instrumentos financieros emitidos en blockchain. Marco legal para la tokenización de activos en Paraguay."
-  - label: "Ley 7599 y Decreto 6034 (2025)"
-    url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-    context: "Abren la generación de energía renovable no convencional al sector privado por primera vez. Cuatro figuras legales nuevas: autogenerador, cogenerador, generador puro y exportador. Decreto 6034..."
-  - label: "Tarifa de Itaipú 2024-2026"
-    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Acuerdo Peña-Lula: $19.28/kW-mes. Paraguay obtiene derecho a vender su excedente en el mercado libre brasileño."
 obs_casos-de-uso:
   - label: "Tokenización del agro"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/

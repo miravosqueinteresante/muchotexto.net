@@ -37,13 +37,6 @@ obs_cronologia:
   - label: "2024"
     url: /cronologia/
     context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
-obs_regulacion:
-  - label: "Ley 7599 y Decreto 6034 (2025)"
-    url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-    context: "Abren la generación de energía renovable no convencional al sector privado por primera vez. Cuatro figuras legales nuevas: autogenerador, cogenerador, generador puro y exportador. Decreto 6034..."
-  - label: "Reglamento tarifario BCP (julio 2026)"
-    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
-    context: "El BCP emitió un reglamento que transparenta las comisiones de los medios de pago electrónicos."
 obs_casos-de-uso:
   - label: "Agricultura de precisión"
     url: /articulos/2026/07/13/agro-40-paraguay-ia/
