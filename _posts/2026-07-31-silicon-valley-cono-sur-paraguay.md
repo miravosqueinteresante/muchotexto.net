@@ -5,14 +5,14 @@ date: 2026-07-31 18:00:00 -0300
 last_modified_at: 2026-07-31 21:00:00 -0300
 categories: articulos
 tags: [geopolitica-regulacion, infraestructura-energia, tech-ecosistema, inversion, silicon-valley]
-description: "Paraguay tiene la electricidad más barata de Sudamérica. HIVE Digital ya invirtió USD 56M y opera 300 MW. Pero el resto de Silicon Valley no se decide."
+description: "Paraguay tiene la electricidad más barata de Sudamérica. HIVE Digital ya invirtió USD 56M y opera 300 MW. Pero el resto de Silicon Valley todavía no se decide a invertir."
 ---
 
 En marzo de 2026 el ministro de Industria y Comercio de Paraguay, Marco Riquelme, aterrizó en Silicon Valley con una agenda de reuniones que incluía a OpenAI, Nvidia, Crusoe y Lambda. La misión: vender a Paraguay como el próximo destino de infraestructura de inteligencia artificial. Pero la empresa que más había invertido en Paraguay ya estaba allí desde antes: una minera de Bitcoin canadiense reconvertida que en noviembre de 2024 había puesto la primera piedra de lo que hoy son 300 megavatios operativos.
 
 > **En resumen:**
 > - HIVE Digital Technologies es el único inversor tech de escala global con presencia real en Paraguay: 300 MW operativos, USD 56M en adquisiciones y 68% de su capacidad mundial en suelo paraguayo.
-> - Crusoe AI, X8Cloud y ASUS no tienen inversiones confirmadas en Paraguay. Crusoe solo tuvo una reunión exploratoria con el gobierno; X8Cloud no tiene presencia web verificable.
+> - Crusoe AI, X8Cloud y ASUS no tienen inversiones confirmadas en Paraguay. Crusoe solo tuvo una reunión exploratoria con el gobierno; X8Cloud promociona servicios pero sin cifras verificables de inversión.
 > - Paraguay tiene la electricidad industrial más barata de Sudamérica (USD 30-45 por MWh), un superávit energético del 200% y un régimen fiscal de maquila con 1% de impuesto a la renta. Pero cero hiperescaladores.
 > - Chile atrajo a cuatro hiperescaladores (AWS, Google, Microsoft, Oracle) con estabilidad jurídica, no con energía barata. Uruguay consiguió a Google con USD 850M de inversión. Paraguay tiene condiciones que ningún otro país ofrece y capital que ningún otro país recibe.
 
@@ -42,7 +42,7 @@ Crusoe AI es, sobre el papel, el inversor perfecto para Paraguay. Fundada en 201
 
 Pero ese tiempo no llegó. La reunión de Riquelme con ejecutivos de Crusoe en marzo de 2026 no produjo ningún memorando de entendimiento, ningún anuncio de inversión, ningún proyecto. Crusoe está consumida por sus compromisos en Estados Unidos: el campus de Abilene, una expansión a 4,5 GW con gas natural, una ronda de financiamiento que la valúa en USD 30.000 millones y una asociación nuclear con Aalo Atomics. Paraguay no aparece en su radar operativo.
 
-El caso de X8Cloud es más extremo. No tiene sitio web, comunicados de prensa ni cobertura en medios paraguayos. El dominio x8cloud.com devuelve un error. La empresa fue mencionada en un advertorial de AccessWire con estimaciones de USD 10.000 a USD 50.000 millones en tres décadas, pero esas cifras no están respaldadas por ninguna fuente corporativa verificable.
+El caso de X8Cloud es distinto. Tiene un sitio web profesional (x8cloud.ai) donde promociona infraestructura de IA con energía de Itaipú, GPUs H100 y A100, y una propuesta de ahorro del 70% frente a data centers en Estados Unidos. Pero el sitio no publica montos de inversión, capacidades en MW ni estado de construcción. Las cifras de USD 10.000 a USD 50.000 millones que circularon en un advertorial de AccessWire no están respaldadas por la propia empresa.
 
 ASUS —el fabricante taiwanés de hardware— mantiene un sitio web localizado para Paraguay y vende notebooks y componentes a través de distribuidores como Soundata y Nissei. Pero no tiene oficina, centro de ensamblaje ni operación directa. Google, Microsoft, AWS, Oracle, IBM y NVIDIA tampoco. La presencia tech global en Paraguay termina en el retail.
 
@@ -103,6 +103,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 15. [Transparency International — Corruption Perceptions Index 2025: Uruguay 73, Paraguay 24](https://www.transparency.org/en/cpi/2025) (febrero 2026)
 16. [Introl Blog — Latin America AI Infrastructure](https://www.introl.com/blog/) (abril 2026)
 17. [Global Data Center Hub — South America: The $380B AI Race](https://www.globaldatacenterhub.com/) (septiembre 2025)
+18. [X8Cloud — sitio oficial](https://x8cloud.ai/?lang=es)
 
 <script type="application/ld+json">
 {
