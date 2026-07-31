@@ -2,8 +2,8 @@
 layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
-description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnología en Paraguay. Actualizado al 27 de julio de 2026."
-last_modified_at: 2026-07-27
+description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnología en Paraguay. Actualizado al 31 de julio de 2026."
+last_modified_at: 2026-07-31
 ---
 
 Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
@@ -16,14 +16,14 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 ## Startups de IA y tecnología
 
 - **[Autograph](https://autograph.ai/)** — Startup paraguaya mencionada en el ecosistema de IA.
-- **[HIVE Digital Technologies](https://www.hivedigitaltechnologies.com/)** — Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. [Leer análisis](/articulos/2026/07/10/talento-tech-paraguay-ia/).
+- **[HIVE Digital Technologies](https://www.hivedigitaltechnologies.com/)** — Opera 300 MW de minería Bitcoin (Tier-I) en Yguazú y Valenzuela con energía de Itaipú. Adquirió Yguazú de Bitfarms por USD 56M en 2025. Lanzó BUZZ AI Cloud en Asunción (Tier-III) y planea un data center Tier-III de IA/HPC para H2 2027 con 100 MW adicionales. [Leer análisis completo](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/).
 - **[BUZZ AI Cloud](https://www.buzzhpc.ai/es/)** — Primer cluster de GPU para inteligencia artificial en Paraguay, lanzado por HIVE en un data center Tier III en Asunción (marzo 2026). [Leer análisis](/articulos/2026/07/16/ia-soberana-paraguay/).
 - **[Tooldata](https://tooldata.io/social-listening-paraguay)** — Empresa chilena fundada en 2018 por Jorge Gálvez Gajardo, con sede en Concón, Chile. Ofrece soluciones de IA y Social Listening con fuerte presencia en Paraguay, donde opera adaptada a normativas locales (SIFEN, Marangatu).
 
 ## Data centers e infraestructura
 
 - **Yguazú Digital** — Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. [Leer análisis](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/).
-- **X8 Cloud** — Empresa con sede en Los Ángeles. Anunció plan de $10-50B a 30 años para data center de IA. Inició construcción en mayo 2026 (50 MW iniciales). [Leer más](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/).
+- **X8 Cloud** — Mencionada en fuentes promocionales con planes de data center de IA en Paraguay, pero sin presencia web verificable ni comunicados corporativos. [Leer más](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/).
 - **Pardat Holding** — Proyecta data center de 100 MW en Yguazú, 700 empleos directos e indirectos. [Leer más](/articulos/2026/07/10/talento-tech-paraguay-ia/).
 - **[Dominion AI](https://dominionaipy.com/)** — Data center subterráneo de IA. Infraestructura para alojar servidores, parte del ecosistema emergente de Paraguay. [Leer análisis](/articulos/2026/07/21/ia-justicia-paraguay/).
 - **Data Center Estatal Tier III** — Adjudicado por el MITIC en mayo 2026: 5.000 VMs, 2.000 contenedores, financiado por el BID. [Leer más](/articulos/2026/07/16/ia-soberana-paraguay/).

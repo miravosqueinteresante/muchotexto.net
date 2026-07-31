@@ -2,8 +2,8 @@
 layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
-description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 27 de julio de 2026."
-last_modified_at: 2026-07-27
+description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 31 de julio de 2026."
+last_modified_at: 2026-07-31
 ---
 
 Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
@@ -49,7 +49,7 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 ## Inversión y régimen fiscal
 
-- **[Ley 7547/2025](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/)** — Reforma la Ley de Maquila 1064/97 para incluir explícitamente servicios intangibles (software, datos, procesos digitales). Tributación al 1%.
+- **[Ley 7599/2024 y Decreto 6034/2024](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)** — Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas pasaron de ~$0.03 a $0.04-0.05/kWh. Es una ley presupuestaria anual, no permanente.*
 - **Régimen fiscal general:** IRAE 10% corporativo (el más bajo del hemisferio), sistema territorial, deuda/PIB 19.5%, déficit 1.1%.
 
 ## Hidrógeno verde

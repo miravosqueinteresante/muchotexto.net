@@ -2,8 +2,8 @@
 layout: page
 title: "Glosario vivo de Inteligencia Artificial en Paraguay"
 permalink: /glosario/
-description: "Glosario vivo de términos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 27 de julio de 2026."
-last_modified_at: 2026-07-27
+description: "Glosario vivo de términos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 31 de julio de 2026."
+last_modified_at: 2026-07-31
 ---
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
@@ -26,7 +26,7 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 **PUE (Power Usage Effectiveness)** — Índice que mide la eficiencia energética de un data center. Un PUE de 1.5 significa que por cada MW utilizado en cómputo, se gasta 0.5 MW adicional en refrigeración y pérdidas. Paraguay parte en desventaja por su falta de experiencia operando data centers a gran escala.
 
-**CAPEX (Capital Expenditure)** — Inversión de capital para construir infraestructura. En un data center de 100 MW ronda USD 800-1.200 millones. El hardware es el 40-50% del CAPEX y es 100% importado. Solo el 15-20% se queda en Paraguay.
+**CAPEX (Capital Expenditure)** — Inversión de capital para construir infraestructura. En un data center de 100 MW ronda USD 800-1.200 millones. El hardware es el 60-70% del CAPEX y es 100% importado. Solo el 15-20% se queda en Paraguay.
 → [Cadena de valor de un data center](/articulos/2026/07/25/cadena-valor-data-center/)
 
 **Tier III (Uptime Institute)** — Certificación de confiabilidad para data centers que exige mantenimiento concurrente sin interrupción. Emitida por el Uptime Institute. Ninguna empresa constructora paraguaya tiene esta certificación.

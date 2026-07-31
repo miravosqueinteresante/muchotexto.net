@@ -2,8 +2,8 @@
 layout: page
 title: "Casos de uso de IA en Paraguay"
 permalink: /casos-de-uso/
-description: "Como se usa la inteligencia artificial en sectores productivos de Paraguay. Casos documentados con fuentes verificables. Actualizado al 27 de julio de 2026."
-last_modified_at: 2026-07-27
+description: "Como se usa la inteligencia artificial en sectores productivos de Paraguay. Casos documentados con fuentes verificables. Actualizado al 31 de julio de 2026."
+last_modified_at: 2026-07-31
 ---
 
 Cada caso enlaza con el artículo completo. 
@@ -17,7 +17,8 @@ Cada caso enlaza con el artículo completo.
 
 - **[Data centers como nuevo sector exportador](/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)** — Paraguay tiene la electricidad industrial más barata de Sudamérica (0.03-0.05 USD/kWh). Eso atrae data centers de IA que ven al país como alternativa a Irlanda, Singapur y Virginia.
 - **[Yguazú Digital](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)** — El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes.
-- **[Apertura del sector eléctrico](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)** — El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. X8 Cloud anunció $10-50B en data centers. HIVE Digital opera 100 MW de GPU.
+- **[Apertura del sector eléctrico](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)** — El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. [Leer más sobre inversión tech](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/).
+- **[HIVE Digital: minería de Bitcoin y computación de IA](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)** — HIVE opera 300 MW de minería Bitcoin en Paraguay y lanzó BUZZ AI Cloud, el primer cluster de GPU para IA en el país. Columbia University validó el entrenamiento intercontinental de modelos de lenguaje desde Nueva York hacia Asunción. Investigadores demostraron que GPUs A40 en Paraguay igualan el rendimiento de H100s en cargas específicas.
 - **[Hidrógeno verde y fertilizantes](/articulos/2026/07/27/hidrogeno-verde-paraguay/)** — Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia Nacional 2025 pivotea a fertilizantes para Brasil.
 - **[Criptominería](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)** — Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social.
 
