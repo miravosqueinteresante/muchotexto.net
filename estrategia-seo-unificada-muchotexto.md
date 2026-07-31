@@ -1,7 +1,7 @@
 # Estrategia SEO Unificada — muchotexto.net
 
 > **Documento definitivo del proyecto.** Cubre estrategia de contenidos, SEO técnico, automatización, control de calidad, procedimientos operativos y seguimiento.
-> Última actualización: 30 de julio de 2026 (revisión final).
+> Última actualización: 31 de julio de 2026 (sincronización post-auditoría).
 
 ---
 
@@ -95,10 +95,10 @@ Posicionar **muchotexto.net** como el referente en español sobre inteligencia a
 
 | Métrica | Valor |
 |---|---|
-| Artículos long-form publicados | 33 (31 en el observatorio) |
-| Editoriales | 33+ |
-| Pulso Paraguay | 54+ |
-| **Total posts** | **120+** |
+| Artículos long-form publicados | 38 (35 en el observatorio) |
+| Editoriales | 44 |
+| Pulso Paraguay | 66 |
+| **Total posts** | **148** |
 | SEO Score (squirrelscan) | 75/100 (C) |
 
 ### 2.2 Hallazgos del análisis de junio 2026
@@ -181,7 +181,7 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 2 | ✅ | Luces y sombras de la apertura eléctrica: Paraguay y el sector privado | `apertura eléctrica Paraguay`, `Ley 7599`, `ANDE energía` |
 | 3 | ✅ | Criptominería en Paraguay: el costo real de la energía barata | `criptominería Paraguay ANDE`, `bitcoin Paraguay energía` |
 | 4 | ✅ | Itaipú 2027: ¿qué pasa con la energía paraguaya cuando se renegocie el tratado? | `Itaipú renegociación 2027`, `energía Paraguay futuro` |
-| 5 | ⬜ | Hidrógeno verde: ¿la próxima frontera energética de Paraguay? | `hidrógeno verde Paraguay`, `transición energética` |
+| 5 | ✅ | Hidrógeno verde: ¿la próxima frontera energética de Paraguay? | `hidrógeno verde Paraguay`, `transición energética` |
 | 6 | ✅ | La red eléctrica de Paraguay frente a la demanda de la IA global | `ANDE capacidad transmisión`, `red eléctrica Paraguay IA` |
 | 7 | ⬜ | Energía renovable y cambio climático: la paradoja paraguaya | `Paraguay energía renovable`, `cambio climático hidroeléctrica` |
 | 8 | ⭐ | El efecto derrame: ¿qué pasa en una ciudad paraguaya cuando llega un data center de $200M? | `data center impacto local Paraguay`, `empleo tecnología Paraguay` |
@@ -225,9 +225,9 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 31 | ✅ | IA y periodismo en Paraguay: ¿quién escribe las noticias del futuro? | `IA periodismo Paraguay`, `deepfakes`, `verificación` |
 | 32 | ✅ | Smart cities en Paraguay: ¿Asunción puede ser una ciudad inteligente? | `smart city Asunción`, `ciudad inteligente Paraguay` |
 | 33 | ✅ | IA en la justicia paraguaya: ¿algoritmos imparciales o sesgo digital? | `IA justicia Paraguay`, `expediente electrónico` |
-| 34 | ⬜ | E-commerce y logística: la transformación silenciosa del comercio paraguayo | `ecommerce Paraguay`, `logística IA` |
+| 34 | ✅ | E-commerce y logística: la transformación silenciosa del comercio paraguayo | `ecommerce Paraguay`, `logística IA` |
 | 35 | ✅ | Startups paraguayas de IA: quiénes son y por qué nadie habla de ellas | `startups IA Paraguay`, `ecosistema emprendedor tech` |
-| 36 | ⭐ | La cadena de valor invisible: todos los negocios que rodean a un centro de datos | `cadena valor data center`, `negocios IA Paraguay` |
+| 36 | ✅ | La cadena de valor invisible: todos los negocios que rodean a un centro de datos | `cadena valor data center`, `negocios IA Paraguay` |
 
 #### Pilar 5: Cultura, filosofía y futuro (6 temas)
 
@@ -240,9 +240,9 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 41 | ✅ | Guaraní e IA: ¿puede una lengua indígena sobrevivir en la era de los algoritmos? | `guaraní inteligencia artificial`, `NLP lenguas indígenas` |
 | 42 | ⬜ | Paraguay 2040: un país construido con datos | `Paraguay futuro tecnología`, `prospectiva digital` |
 
-**Total: 42 temas. 37 publicados (✅). 5 pendientes (3 ⬜ + 2 ⭐).**
+**Total: 42 temas. 38 publicados (✅). 4 pendientes (2 ⬜ + 2 ⭐).**
 
-> **Desglose real del observatorio:** de los 42 temas, 33 están publicados. De esos 33, 31 son análisis de IA que integran el observatorio + 1 artículo extra ("Qué es un data center", explicador de referencia) = **32 en el observatorio**. Los otros 2 publicados (#19 Bienvenidos y #38 Fútbol) no son análisis de IA y están excluidos del observatorio. Total real en `_posts/` con `categories: articulos`: 33.
+> **Desglose real del observatorio:** de los 42 temas, 38 están publicados. De esos 38, 35 son análisis de IA que integran el observatorio + 1 artículo extra ("Qué es un data center", explicador de referencia) = **36 en el observatorio**. Los otros 2 publicados (#19 Bienvenidos y #38 Fútbol) no son análisis de IA y están excluidos del observatorio. Total real en `_posts/` con `categories: articulos`: 38.
 
 ---
 
@@ -1088,7 +1088,7 @@ python scripts/observatorio_intel.py
 | 4 | Publicar artículo #8: Efecto derrame del data center (Pilar 1) | Contenido |
 | 5 | Publicar artículo #15: El modelo Itaipú aplicado a la IA (Pilar 2) | Contenido |
 | 6 | Publicar artículo #16: Silicon Valley en el Cono Sur (Pilar 2) | Contenido |
-| 6 | Publicar artículo #36: Cadena de valor del data center (Pilar 4) | Contenido |
+| 7 | Actualizar §16: auditar artículos #5, #34, #36 (publicados sin registro) | Calidad |
 
 ### Prioridad media
 
@@ -1116,7 +1116,7 @@ python scripts/observatorio_intel.py
 | 22 | Verificar ranking actual de cada long-tail publicada en GSC | Keywords |
 | 23 | Keywords en posiciones 4-15: priorizar actualización | Keywords |
 | 24 | Identificar nuevas oportunidades long-tail (Google PAA + Reddit) | Keywords |
-| 25 | Publicar artículos restantes (#8, #15, #16, #36, #41, #42) | Contenido |
+| 25 | Publicar artículos restantes (#7, #8, #15, #16, #42) | Contenido |
 | 26 | Crear `/indice-adopcion/` (Fase 3 Observatorio) | Observatorio |
 | 27 | Crear `/ranking-universidades/` (Fase 3 Observatorio) | Observatorio |
 
@@ -1164,8 +1164,9 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 37 | 5 tecnologías | 27-jul-2026 | ✅ |
 | 39 | Burbuja IA | 27-jul-2026 | ✅ |
 | 40 | USA fútbol IA | 27-jul-2026 | ✅ |
+| 41 | Guaraní e IA | 28-jul-2026 | ✅ |
 
-**Auditados: 34 de 36.** Artículos #19 y #38 no son análisis. 
+**Auditados: 35 de 35 análisis (38 artículos total; #19 y #38 no son análisis).**
 
 **Regla:** todo artículo nuevo se audita ANTES de commit. Cada 5 artículos nuevos, auditar los 5 más antiguos no auditados.
 
@@ -1409,6 +1410,10 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 
 ## 19. Registro de cambios
 
+### 31 de julio 2026
+
+- Sincronización estrategia↔realidad: §2.1 conteos actualizados (38 artículos, 44 editoriales, 66 pulso, 148 total). §3.2: #5, #34, #36 marcados ✅. Conteo corregido: 38 publicados de 42. §15: artículos publicados removidos del plan pendiente. §16: artículo #41 agregado al registro de auditoría (35/35 análisis auditados). §19: removida línea falsa sobre estrategia removida del repo.
+
 ### 30 de julio 2026
 
 - **Entidades v2:** reescritura completa del sistema. 18 entidades (eliminadas 2 vacías: CONACYT, Formación en IA). Plantilla estándar con 8 secciones fijas para todas las páginas (artículos → leyes → cronología → directorio → regulación → casos de uso → glosario). Reglas de calidad documentadas: sin Pulso/Editorial, coincidencia por nombre de entidad (no keywords genéricos), contextos sin HTML/JSON-LD/markdown, URLs sin acentos, fechas en español, truncado en borde de palabra. Full-name fallback para entidades con nombres alternativos. Deep scan de 1500 chars para casos de uso. `related_laws` curadas en `_data/entities.yml` (ANDE +4 leyes). Glosario y directorio matchean solo por nombre del término/entidad, no por descripción. Layout con links "Ver más →" en las 6 secciones externas. Schema Thing por página. 18/18 OK en auditoría.
@@ -1419,7 +1424,7 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 
 ### 28 de julio 2026
 
-- Seguridad: auditoría del repo. 10 archivos eliminados. Estrategia SEO removida del repo. Sin hallazgos críticos.
+- Seguridad: auditoría del repo. 10 archivos eliminados. Sin hallazgos críticos.
 - /como-trabajamos/ sincronizado: TL;DR, verificación pre-commit, actualizar estrategia. 12 pasos.
 - Artículo #41 cierre: 6 mejoras de calidad. 14 fuentes. 9.5/10 rigor.
 - Pillar page: description reescrita, Próximamente depurado, P1 actualizado.
