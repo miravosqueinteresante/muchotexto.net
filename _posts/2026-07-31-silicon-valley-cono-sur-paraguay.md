@@ -52,7 +52,7 @@ Chile tiene cuatro hiperescaladores operando. Uruguay uno. Paraguay cero. La dif
 
 Chile lanzó el Plan Nacional de Data Centers (PDATA) con metas explícitas: triplicar la capacidad a 2030 y atraer USD 2.500 millones. Es miembro de la OCDE, tiene grado de inversión consolidado, acceso a cables submarinos del Pacífico y la mejor radiación solar del mundo en Atacama. El data center de Google en Santiago no se instaló allí porque la electricidad fuera barata. Se instaló porque Chile ofrecía estabilidad jurídica, conectividad internacional, talento y un mercado doméstico de USD 350.000 millones.
 
-Uruguay consiguió que Google invirtiera USD 850 millones en Canelones con otra fórmula: la estabilidad institucional más sólida de América Latina (76/100 en el índice de corrupción de Transparencia Internacional), 99% de energía renovable certificada, contratos privados de compra de energía a largo plazo, y una generación de talento digital formada desde 2007 por el Plan Ceibal. Uruguay no compitió por precio. Compitió por confianza.
+Uruguay consiguió que Google invirtiera USD 850 millones en Canelones con otra fórmula: la estabilidad institucional más sólida de América Latina (73/100 en el índice de corrupción de Transparencia Internacional, CPI 2025), 99% de energía renovable certificada, contratos privados de compra de energía a largo plazo, y una generación de talento digital formada desde 2007 por el Plan Ceibal. Uruguay no compitió por precio. Compitió por confianza.
 
 Paraguay compite por precio. La tarifa de ANDE es su principal —y casi único— argumento de venta. Pero [la cadena de valor de un data center]({% post_url 2026-07-25-cadena-valor-data-center %}) revela que la energía es solo una parte del costo operativo de un centro de datos de IA. El resto depende de hardware importado, conectividad, talento especializado y seguridad jurídica. En esos rubros, Paraguay parte de una posición más débil que sus competidores.
 
@@ -100,7 +100,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 12. [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
 13. [Ley 60/90 — Régimen de Maquila, Paraguay](https://www.mic.gov.py/)
 14. [Ley 7599 (2024) y Decreto 6034 (2024) — Gaceta Oficial del Paraguay](https://www.gacetaoficial.gov.py/)
-15. [Transparency International — Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)
+15. [Transparency International — Corruption Perceptions Index 2025: Uruguay 73, Paraguay 24](https://www.transparency.org/en/cpi/2025) (febrero 2026)
 16. [Introl Blog — Latin America AI Infrastructure](https://www.introl.com/blog/) (abril 2026)
 17. [Global Data Center Hub — South America: The $380B AI Race](https://www.globaldatacenterhub.com/) (septiembre 2025)
 
