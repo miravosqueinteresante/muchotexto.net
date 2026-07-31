@@ -3,6 +3,7 @@ layout: post
 title: "Pulso Paraguay: Fuertes vientos y cortes de energía — 20 de julio de 2026"
 description: "Fuertes vientos y cortes de energía: Los fuertes vientos que afectaron casi todo Paraguay generaron una ola de comentarios y preocupaciones por los cortes de energía. Pulso Paraguay — 20 de julio de 2026."
 
+
 date: 2026-07-20
 last_modified_at: 2026-07-20
 categories: pulso-paraguay

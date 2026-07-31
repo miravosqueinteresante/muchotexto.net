@@ -3,6 +3,7 @@ layout: post
 title: "Pulso Paraguay: Accidente laboral en Asunción — 27 de mayo de 2026"
 description: "Accidente laboral en Asunción: El trágico fallecimiento de un joven obrero ha generado gran preocupación en la sociedad acerca de la seguridad en el trabajo. Pulso Paraguay — 27 de mayo de 2026."
 
+
 last_modified_at: 2026-05-27
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
