@@ -58,10 +58,10 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** - TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
+- **[Lo que el capital de Silicon Valley busca en Paraguay y no encuentra]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** - HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos.
 
 **Próximamente:**
 - El modelo Itaipú aplicado a la IA: ¿puede funcionar dos veces?
-- Silicon Valley en el Cono Sur
 
 ## IA, sociedad y trabajo
 

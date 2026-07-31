@@ -2,8 +2,8 @@
 layout: page
 title: "Cronología de la IA en Paraguay"
 permalink: /cronologia/
-description: "Hitos de la inteligencia artificial, tecnología y energía en Paraguay desde 1973 hasta hoy. Actualizado al 24 de julio de 2026."
-last_modified_at: 2026-07-24
+description: "Hitos de la inteligencia artificial, tecnología y energía en Paraguay desde 1973 hasta hoy. Actualizado al 31 de julio de 2026."
+last_modified_at: 2026-07-31
 ---
 
 Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. 
@@ -52,6 +52,8 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 ## 2025
 
+- **Noviembre 2024** — [HIVE Digital inicia construcción](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) de su primer data center de 100 MW en Valenzuela, Paraguay.
+- **Enero 2025** — [HIVE adquiere Yguazú 200 MW](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) de Bitfarms por USD 56M. Asume USD 19M en contratos con ANDE.
 - **Enero 2025** — [Bitfarms abandona Paraguay](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/) con pérdida contable de $30M. ~10 mineras cierran en 2 años.
 - **Abril 2025** — Escándalo [ABIN: inteligencia brasileña espía a funcionarios paraguayos](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) durante negociaciones del Anexo C. Paraguay **suspende todas las negociaciones**.
 - **Mayo 2025** — Paraguay aprueba su primera [Estrategia Nacional de Ciberseguridad 2025-2028](/articulos/2026/07/17/ciberseguridad-paraguay/), con apoyo de la OEA.
@@ -69,7 +71,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 ## 2026
 
 - **Enero 2026** — Se lanza el [Registro Único Nacional (RUN)](/articulos/2026/05/18/tokenizacion-del-agro-paraguay/), reemplazando 150 años de registros en papel.
-- **Marzo 2026** — [HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/): primer cluster de GPU para IA en Paraguay.
+- **Marzo 2026** — [HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) en Asunción: primer cluster de GPU para IA en Paraguay. Columbia University inicia investigación de LLM desde Nueva York.
 - **8 Mayo 2026** — Se firma el [MOU de Yguazú Digital](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) en Taipei. Presidentes Peña y Lai Ching-te. Data center binacional Paraguay-Taiwán: Fase I 10 MW/$200-500M.
 - **13 Mayo 2026** — [Peter Thiel y Crusoe AI se reúnen con Peña](/articulos/2026/05/16/peter-thiel-paraguay-experimento/) en Mburuvicha Róga.
 - **19 Mayo 2026** — Peña firma el [Decreto 6034](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/): apertura del sector eléctrico a generación privada renovable.
@@ -78,7 +80,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Mayo 2026** — X8Cloud y Pardat Holding inician [construcción de data centers](/articulos/2026/07/10/talento-tech-paraguay-ia/) en Paraguay.
 - **Junio 2026** — MITIC dona [1.600 antenas Starlink para escuelas rurales](/articulos/2026/07/15/starlink-paraguay-conectividad/).
 - **Junio 2026** — ICDF contacta a [Google, Microsoft y Amazon](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) como potenciales clientes ancla de Yguazú Digital.
-- **Junio 2026** — Ministro de Industria [visita NVIDIA, OpenAI y Crusoe](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/) en Silicon Valley.
+- **Junio 2026** — Ministro de Industria [visita NVIDIA, OpenAI y Crusoe](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) en Silicon Valley. Sin acuerdos concretos hasta la fecha.
 - **Julio 2026** — La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/) (~30% de adultos).
 - **Julio 2026** — Paraguay alcanza [480+ trámites digitales](/articulos/2026/07/16/gobierno-digital-paraguay/), cédula y licencia de conducir digitales disponibles.
 - **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.

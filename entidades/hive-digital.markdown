@@ -17,10 +17,13 @@ related_articles:
   - title: "Lo que un data center compra y Paraguay no puede vender"
     url: /articulos/2026/07/25/cadena-valor-data-center/
     context: "Paraguay está atrayendo data centers con la promesa de energía barata. Yguazú Digital proyecta 1.000 MW en su fase final. HIVE Digital Technologies opera 300 MW de infraestructura de minería Bitcoin en Paraguay (200 MW en Yguazú,..."
+  - title: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
+    url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
+    context: "> **En resumen;** > - HIVE Digital Technologies es el único inversor tech de escala global con presencia real en Paraguay; 300 MW operativos, USD 56M en adquisiciones y 68% de su capacidad mundial en suelo paraguayo. > - Crusoe AI, X8Cloud y ASUS no."
 obs_directorio:
   - label: "HIVE Digital Technologies"
     url: https://www.hivedigitaltechnologies.com/
     context: "Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. Leer análisis."
 ---
 
-2 articulos en el observatorio mencionan a HIVE Digital Technologies.
+3 articulos en el observatorio mencionan a HIVE Digital Technologies.

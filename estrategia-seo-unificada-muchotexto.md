@@ -197,7 +197,7 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 13 | ✅ | Ciberseguridad en Paraguay: ¿estamos preparados para un data center de $40B? | `ciberseguridad Paraguay`, `CERT-PY`, `data center seguridad` |
 | 14 | ✅ | Semiconductores: por qué Taiwán eligió Paraguay | `semiconductores Taiwán Paraguay`, `TSMC`, `cadena chips` |
 | 15 | ⬜ | El modelo Itaipú aplicado a la IA: ¿puede funcionar dos veces? | `entidad binacional Paraguay Taiwán`, `gobernanza IA` |
-| 16 | ⬜ | Silicon Valley en el Cono Sur: ¿por qué los billonarios miran a Paraguay? | `inversión tech Paraguay`, `Crusoe AI`, `X8Cloud` |
+| 16 | ✅ | Silicon Valley en el Cono Sur: ¿por qué los billonarios miran a Paraguay? | `inversión tech Paraguay`, `Crusoe AI`, `X8Cloud` |
 
 #### Pilar 3: IA, sociedad y trabajo (10 temas)
 
@@ -240,9 +240,9 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 41 | ✅ | Guaraní e IA: ¿puede una lengua indígena sobrevivir en la era de los algoritmos? | `guaraní inteligencia artificial`, `NLP lenguas indígenas` |
 | 42 | ⬜ | Paraguay 2040: un país construido con datos | `Paraguay futuro tecnología`, `prospectiva digital` |
 
-**Total: 42 temas. 38 publicados (✅). 4 pendientes (2 ⬜ + 2 ⭐).**
+**Total: 42 temas. 39 publicados (✅). 4 pendientes (3 ⬜ + 1 ⭐).**
 
-> **Desglose real del observatorio:** de los 42 temas, 38 están publicados. De esos 38, 35 son análisis de IA que integran el observatorio + 1 artículo extra ("Qué es un data center", explicador de referencia) = **36 en el observatorio**. Los otros 2 publicados (#19 Bienvenidos y #38 Fútbol) no son análisis de IA y están excluidos del observatorio. Total real en `_posts/` con `categories: articulos`: 38.
+> **Desglose real del observatorio:** de los 42 temas, 39 están publicados. De esos 39, 36 son análisis de IA que integran el observatorio + 1 artículo extra ("Qué es un data center", explicador de referencia) = **37 en el observatorio**. Los otros 2 publicados (#19 Bienvenidos y #38 Fútbol) no son análisis de IA y están excluidos del observatorio. Total real en `_posts/` con `categories: articulos`: 39.
 
 ---
 
@@ -1087,8 +1087,7 @@ python scripts/observatorio_intel.py
 | 3 | Publicar artículo #7: Energía renovable y cambio climático (Pilar 1) | Contenido |
 | 4 | Publicar artículo #8: Efecto derrame del data center (Pilar 1) | Contenido |
 | 5 | Publicar artículo #15: El modelo Itaipú aplicado a la IA (Pilar 2) | Contenido |
-| 6 | Publicar artículo #16: Silicon Valley en el Cono Sur (Pilar 2) | Contenido |
-| 7 | Actualizar §16: auditar artículos #5, #34, #36 (publicados sin registro) | Calidad |
+| 6 | Actualizar §16: auditar artículos #5, #34, #36, #16 (publicados sin registro) | Calidad |
 
 ### Prioridad media
 
@@ -1116,7 +1115,7 @@ python scripts/observatorio_intel.py
 | 22 | Verificar ranking actual de cada long-tail publicada en GSC | Keywords |
 | 23 | Keywords en posiciones 4-15: priorizar actualización | Keywords |
 | 24 | Identificar nuevas oportunidades long-tail (Google PAA + Reddit) | Keywords |
-| 25 | Publicar artículos restantes (#7, #8, #15, #16, #42) | Contenido |
+| 25 | Publicar artículos restantes (#7, #8, #15, #42) | Contenido |
 | 26 | Crear `/indice-adopcion/` (Fase 3 Observatorio) | Observatorio |
 | 27 | Crear `/ranking-universidades/` (Fase 3 Observatorio) | Observatorio |
 
@@ -1142,6 +1141,7 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 12 | Ley protección datos | 27-jul-2026 | ✅ |
 | 13 | Ciberseguridad | 27-jul-2026 | ✅ |
 | 14 | Semiconductores Taiwán | 27-jul-2026 | ✅ |
+| 16 | Silicon Valley Cono Sur | 31-jul-2026 | ✅ |
 | 17 | Anotación de datos | 27-jul-2026 | ✅ |
 | 18 | Educación tech | 27-jul-2026 | ✅ |
 | 20 | Futuro de la identidad | 27-jul-2026 | ✅ |
@@ -1166,7 +1166,7 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 40 | USA fútbol IA | 27-jul-2026 | ✅ |
 | 41 | Guaraní e IA | 28-jul-2026 | ✅ |
 
-**Auditados: 35 de 35 análisis (38 artículos total; #19 y #38 no son análisis).**
+**Auditados: 36 de 36 análisis (39 artículos total; #19 y #38 no son análisis).**
 
 **Regla:** todo artículo nuevo se audita ANTES de commit. Cada 5 artículos nuevos, auditar los 5 más antiguos no auditados.
 
@@ -1412,7 +1412,10 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 
 ### 31 de julio 2026
 
-- Sincronización estrategia↔realidad: §2.1 conteos actualizados (38 artículos, 44 editoriales, 66 pulso, 148 total). §3.2: #5, #34, #36 marcados ✅. Conteo corregido: 38 publicados de 42. §15: artículos publicados removidos del plan pendiente. §16: artículo #41 agregado al registro de auditoría (35/35 análisis auditados). §19: removida línea falsa sobre estrategia removida del repo.
+- Artículo #16: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra" — HIVE Digital 300 MW, Crusoe sin inversión, X8Cloud sin presencia, ASUS solo retail. Comparativa con Chile/Uruguay. 6 H2s, FAQ schema, 2.471 palabras. 17 fuentes verificables.
+- Sincronización estrategia↔realidad: §2.1 conteos actualizados (38→39 artículos). §3.2: #16 marcado ✅ (39 publicados, 4 pendientes). §15: artículo #16 removido del plan pendiente. §16: artículo #16 agregado al registro de auditoría (36/36 análisis auditados).
+- Observatorio actualizado: cronologia (+4 hitos HIVE), pillar page (+artículo #16, -Próximamente), llms.txt (+1 link), entidades regeneradas.
+- Sincronización anterior: §2.1, §3.2 (#5, #34, #36 marcados ✅), §15 (limpieza), §16 (#41 agregado), §19 (corrección).
 
 ### 30 de julio 2026
 
