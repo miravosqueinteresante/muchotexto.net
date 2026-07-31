@@ -4,6 +4,7 @@ title: "Pulso Paraguay: Desprolijidades en auditoría — 6 de julio de 2026"
 description: "Desprolijidades en auditoría: Las revelaciones sobre el informe de la Contraloría General de la República están generando gran respuesta en la ciudadanía. Pulso Paraguay — 6 de julio de 2026."
 
 
+
 date: 2026-07-06
 last_modified_at: 2026-07-06
 categories: pulso-paraguay

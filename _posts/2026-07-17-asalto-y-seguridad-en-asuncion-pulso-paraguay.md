@@ -4,6 +4,7 @@ title: "Pulso Paraguay: Asalto y seguridad en Asunción — 17 de julio de 2026"
 description: "Asalto y seguridad en Asunción: La detención de un presunto organizador de asaltos ha generado una gran conversación en las redes y medios locales. Pulso Paraguay — 17 de julio de 2026."
 
 
+
 date: 2026-07-17
 last_modified_at: 2026-07-17
 categories: pulso-paraguay
