@@ -2,9 +2,9 @@
 layout: entidad
 title: "Universidad Nacional de Asunción"
 description: >
-  Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
+  Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-07-30
+last_modified_at: 2026-07-31
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >
@@ -31,7 +31,7 @@ related_articles:
     context: "Hay un patrón que se repite cada cierto tiempo en la industria tecnológica. Alguien — un emprendedor carismático, una consultora con un PowerPoint, un CEO en una conferencia — anuncia que el futuro llegó. Que tal o cual tecnología va a..."
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
-    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 87 más rica del planeta,..."
+    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta,..."
   - title: "Soja, ganado y blockchain: la tokenización del agro en Paraguay"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
     context: "Hay una idea que está girando en los círculos fintech paraguayos y que promete cambiar quién financia el campo, cómo se vende la cosecha y hasta quién puede ser dueño de un pedazo de tierra sin moverse de su casa. Se llama tokenización agropecuaria,."
@@ -91,4 +91,4 @@ obs_casos-de-uso:
     context: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta..."
 ---
 
-{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.
+12 articulos en el observatorio mencionan a UNA.

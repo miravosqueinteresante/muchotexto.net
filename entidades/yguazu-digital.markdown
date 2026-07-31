@@ -2,9 +2,9 @@
 layout: entidad
 title: "Proyecto Yguazú Digital"
 description: >
-  Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Proyecto Yguazú Digital.
+  Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Proyecto Yguazú Digital.
 permalink: /entidades/yguazu-digital/
-last_modified_at: 2026-07-30
+last_modified_at: 2026-07-31
 entity_name: Yguazú Digital
 entity_name_full: Proyecto Yguazú Digital
 entity_description: >
@@ -35,4 +35,4 @@ obs_casos-de-uso:
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
 ---
 
-{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.
+7 articulos en el observatorio mencionan a Yguazú Digital.

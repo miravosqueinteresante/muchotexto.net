@@ -2,9 +2,9 @@
 layout: entidad
 title: "Parque Tecnológico Itaipú Paraguay"
 description: >
-  Perfil de PTI-PY en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Parque Tecnológico Itaipú Paraguay.
+  Perfil de PTI-PY en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Parque Tecnológico Itaipú Paraguay.
 permalink: /entidades/pti-py/
-last_modified_at: 2026-07-30
+last_modified_at: 2026-07-31
 entity_name: PTI-PY
 entity_name_full: Parque Tecnológico Itaipú Paraguay
 entity_description: >

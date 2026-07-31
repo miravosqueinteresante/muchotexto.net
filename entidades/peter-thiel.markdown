@@ -2,9 +2,9 @@
 layout: entidad
 title: "Peter Thiel"
 description: >
-  Perfil de Peter Thiel en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Peter Thiel.
+  Perfil de Peter Thiel en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Peter Thiel.
 permalink: /entidades/peter-thiel/
-last_modified_at: 2026-07-30
+last_modified_at: 2026-07-31
 entity_name: Peter Thiel
 entity_name_full: Peter Thiel
 entity_description: >
@@ -13,7 +13,7 @@ entity_category: geopolítica
 related_articles:
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
-    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 87 más rica del planeta,..."
+    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta,..."
 ---
 
-{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.
+1 articulos en el observatorio mencionan a Peter Thiel.

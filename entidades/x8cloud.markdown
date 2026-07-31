@@ -2,9 +2,9 @@
 layout: entidad
 title: "X8 Cloud"
 description: >
-  Perfil de X8 Cloud en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre X8 Cloud.
+  Perfil de X8 Cloud en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre X8 Cloud.
 permalink: /entidades/x8cloud/
-last_modified_at: 2026-07-30
+last_modified_at: 2026-07-31
 entity_name: X8 Cloud
 entity_name_full: X8 Cloud
 entity_description: >

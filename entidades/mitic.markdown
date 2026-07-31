@@ -2,9 +2,9 @@
 layout: entidad
 title: "Ministerio de Tecnologías de la Información y Comunicación"
 description: >
-  Perfil de MITIC en el Observatorio de IA en Paraguay: artículos, leyes y fuentes verificables sobre Ministerio de Tecnologías de la Información y Comunicación.
+  Perfil de MITIC en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Ministerio de Tecnologías de la Información y Comunicación.
 permalink: /entidades/mitic/
-last_modified_at: 2026-07-30
+last_modified_at: 2026-07-31
 entity_name: MITIC
 entity_name_full: Ministerio de Tecnologías de la Información y Comunicación
 entity_description: >
@@ -32,4 +32,4 @@ obs_regulacion:
     context: "Aprobada por Decreto 3900 en mayo 2025. Primera estrategia nacional de ciberseguridad, con apoyo de la OEA. CERT-PY opera desde 2012 bajo el MITIC."
 ---
 
-{{ page.related_articles | size }} artículos en el observatorio mencionan a {{ page.entity_name }}.
+1 articulos en el observatorio mencionan a MITIC.
