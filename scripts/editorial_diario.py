@@ -26,7 +26,7 @@ GH_TOKEN = os.environ.get("GH_MODELS_TOKEN")
 GH_MODELS_ENDPOINT = "https://models.inference.ai.azure.com/chat/completions"
 GH_MODEL = "gpt-4o"
 
-PARAGUAY_TZ = timezone(timedelta(hours=-4))
+PARAGUAY_TZ = timezone(timedelta(hours=-3))
 
 MESES = {
     1: "enero", 2: "febrero", 3: "marzo", 4: "abril",
