@@ -15,7 +15,7 @@ import unicodedata
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree
 from urllib.request import Request, urlopen
-from urllib.error import URLError
+from urllib.error import URLError, HTTPError
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("pulso")
@@ -323,6 +323,10 @@ def call_gemini(prompt: str, system_prompt: str = "Eres un analista de tendencia
             return None
         content = data["candidates"][0]["content"]["parts"][0]["text"]
         return content
+    except HTTPError as e:
+        body = e.read().decode() if e.fp else "(no body)"
+        log.error("Gemini HTTP %s: %s", e.code, body[:500])
+        return None
     except Exception as e:
         log.error("Error calling Gemini API: %s", e)
         return None

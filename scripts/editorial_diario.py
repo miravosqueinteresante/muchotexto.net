@@ -14,6 +14,7 @@ import logging
 import unicodedata
 from datetime import datetime, timezone, timedelta
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("editorial")
@@ -134,17 +135,28 @@ def call_gemini(pulso_content: str, pulso_title: str | None = None) -> str | Non
         try:
             with urlopen(req, timeout=180) as resp:
                 data = json.loads(resp.read().decode())
+            if "error" in data:
+                log.error("Gemini API error: %s", json.dumps(data["error"], indent=2))
+                return None
             content = data.get("candidates", [{}])[0].get("content", {}).get("parts", [{}])[0].get("text", "")
             if not content.strip():
                 log.error("API devolvio contenido vacio")
                 return None
             return content.strip()
+        except HTTPError as e:
+            body = e.read().decode() if e.fp else "(no body)"
+            log.warning("Intento %d/%d: Gemini HTTP %s — %s", attempt, max_retries, e.code, body[:300])
+            if attempt < max_retries:
+                time.sleep(2 ** attempt)
+            else:
+                log.error("Error tras %d intentos", max_retries)
+                return None
         except Exception as e:
             log.warning("Intento %d/%d fallo: %s", attempt, max_retries, e)
             if attempt < max_retries:
                 time.sleep(2 ** attempt)
             else:
-                log.error("Error calling Gemini API tras %d intentos: %s", max_retries, e)
+                log.error("Error tras %d intentos: %s", max_retries, e)
                 return None
 
 
