@@ -24,6 +24,19 @@ jobs:
         run: |
           python -m pip install --quiet --upgrade pip
 
+      - name: Diagnosticar API key
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "ERROR: GEMINI_API_KEY no configurado"
+            exit 1
+          fi
+          echo "GEMINI_API_KEY: configurado (${#GEMINI_API_KEY} caracteres)"
+          curl -s -o /dev/null -w "Gemini endpoint HTTP %{http_code}" \
+            "https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash?key=$GEMINI_API_KEY"
+          echo ""
+
       - name: Generar Pulso Paraguay
         id: pulso
         env:
