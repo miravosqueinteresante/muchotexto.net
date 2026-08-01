@@ -33,9 +33,17 @@ jobs:
             exit 1
           fi
           echo "GEMINI_API_KEY: configurado (${#GEMINI_API_KEY} caracteres)"
-          curl -s -o /dev/null -w "Gemini endpoint HTTP %{http_code}" \
-            "https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash?key=$GEMINI_API_KEY"
           echo ""
+          echo "=== Modelos disponibles (flash/lite) ==="
+          curl -s "https://generativelanguage.googleapis.com/v1beta/models?key=$GEMINI_API_KEY" | \
+            python3 -c "
+import sys,json
+data=json.load(sys.stdin)
+for m in data.get('models',[]):
+    n=m['name']
+    if 'gemini' in n.lower() and ('flash' in n.lower() or 'lite' in n.lower() or '2.0' in n.lower() or '2.5' in n.lower()):
+        print(f'  {n}')
+" 2>/dev/null || echo "  (no se pudieron listar modelos)"
 
       - name: Generar Pulso Paraguay
         id: pulso
