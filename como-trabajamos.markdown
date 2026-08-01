@@ -3,7 +3,7 @@ layout: page
 title: Cómo trabajamos
 permalink: /como-trabajamos/
 description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuentes, verificamos datos, usamos inteligencia artificial y corregimos errores."
-last_modified_at: 2026-07-27
+last_modified_at: 2026-08-01
 ---
 
 **muchotexto.net** es el observatorio de inteligencia artificial en Paraguay. Utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
@@ -22,7 +22,7 @@ La IA asiste en tres tareas específicas:
 - **Síntesis estructurada**: organiza la información en categorías temáticas (política, economía, seguridad, deportes, cultura), estima la temperatura social de cada tema y redacta resúmenes basados exclusivamente en el contenido de las fuentes.
 - **Análisis editorial**: a partir del resumen diario, genera un artículo de opinión que busca patrones, conexiones y preguntas relevantes sobre la realidad paraguaya.
 
-Para el Pulso Paraguay y la Editorial Diaria, el modelo principal es **GPT-4o** (OpenAI), ejecutado a través de GitHub Models. Para los artículos de fondo, usamos **DeepSeek** como modelo principal de investigación y redacción asistida. Cada modelo se asigna según la tarea: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario. Cada interacción con la IA está gobernada por un _system prompt_ que establece reglas estrictas: no inventar hechos ni nombres, no especular sin fundamento, usar español paraguayo natural y mantener una perspectiva crítica pero no partidista. La tabla completa de modelos está al final de esta página.
+Para el Pulso Paraguay y la Editorial Diaria usamos **Gemini 3 Flash** (Google Gemini API, tier gratuito). Para los artículos de fondo, usamos **DeepSeek** como modelo principal de investigación y redacción asistida. Cada modelo se asigna según la tarea: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario. Cada interacción con la IA está gobernada por un _system prompt_ que establece reglas estrictas: no inventar hechos ni nombres, no especular sin fundamento, usar español paraguayo natural y mantener una perspectiva crítica pero no partidista. La tabla completa de modelos está al final de esta página.
 
 La IA **no decide** qué se publica ni cuál es la línea editorial. Su rol es exclusivamente instrumental: leer, resumir, organizar y redactar borradores.
 
@@ -77,10 +77,9 @@ Los modelos de lenguaje utilizados en las distintas etapas del proyecto son:
 | Modelo | Uso principal |
 |---|---|
 | **DeepSeek** | Investigación con agentes, razonamiento analítico y redacción asistida de artículos de fondo |
+| **Gemini 3 Flash** | Generación automatizada de Pulso Paraguay y Editorial Diaria (vía Google Gemini API, tier gratuito) |
 | **MiniMax** | Procesamiento de contenido y tareas de síntesis |
 | **Qwen** | Asistencia en desarrollo, mantenimiento del sitio y validación de código |
-| **GPT-4o** | Generación automatizada de Editorial Diaria (vía GitHub Models) |
-| **GPT-4o-mini** | Generación automatizada de Pulso Paraguay, FAQ auto-generator (vía GitHub Models) |
 
 La combinación de múltiples modelos permite aprovechar las fortalezas de cada uno: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario, y capacidad de desarrollo para el mantenimiento técnico del sitio.
 

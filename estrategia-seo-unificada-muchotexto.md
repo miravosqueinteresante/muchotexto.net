@@ -55,8 +55,8 @@
 | Formato | Qué es | Frecuencia | Generación |
 |---|---|---|---|
 | **Artículos long-form** | Análisis de 1.500-2.500 palabras con metodología PROS/CONTRAS, 7 dimensiones de análisis, fuentes verificadas y FAQ schema | 1-2 por semana | Manual, con investigación multi-agente |
-| **Pulso Paraguay** | Reporte diario de las 10 noticias más relevantes del país, con puntuación de temperatura | Lun-Sáb 08:00 | Automático (gpt-4o-mini, 15 feeds RSS) |
-| **Editorial** | Opinión diaria basada en el Pulso, con análisis de una noticia en profundidad, voseo paraguayo, auto-linking a artículos relacionados | Lun-Sáb 18:00 | Automático (gpt-4o, temperature 0.3) |
+| **Pulso Paraguay** | Reporte diario de las 10 noticias más relevantes del país, con puntuación de temperatura | Lun-Sáb 08:00 | Automático (gemini-3-flash-preview, Google Gemini API, 15 feeds RSS) |
+| **Editorial** | Opinión diaria basada en el Pulso, con análisis de una noticia en profundidad, voseo paraguayo, auto-linking a artículos relacionados | Lun-Sáb 18:00 | Automático (gemini-3-flash-preview, Google Gemini API, temperature 0.3) |
 | **Observatorio** | Páginas vivas: cronología de hitos, directorio de startups, mapa regulatorio, glosario, casos de uso por sector | Actualización continua | Manual |
 
 **Para quién es:**
@@ -780,7 +780,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 ### 12.1 Pulso Paraguay (cron 08:00 PYT / 12:00 UTC)
 
 - **Script:** `scripts/pulso_diario.py`
-- **Modelo:** gemini-2.0-flash (Google Gemini API, tier gratuito)
+- **Modelo:** gemini-3-flash-preview (Google Gemini API, tier gratuito v1beta)
 - **Fuentes RSS:** 16 fuentes RSS (15 medios + 1 sección CyT de La Tribuna)
 - **Formato:** TEMA #1 → Política → Economía → Deportes → Cultura → Seguridad → Virales → Ranking → Insight → Análisis → Fuentes
 - **Categoría:** `pulso-paraguay`
@@ -790,7 +790,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 ### 12.2 Editorial Diaria (cron 18:00 PYT / 22:00 UTC)
 
 - **Script:** `scripts/editorial_diario.py`
-- **Modelo:** gemini-2.0-flash (Google Gemini API, tier gratuito), temperature 0.3
+- **Modelo:** gemini-3-flash-preview (Google Gemini API, tier gratuito v1beta), temperature 0.3
 - **Dependencia:** Lee el Pulso del día; si no existe, sale sin error (`sys.exit(0)`)
 - **Categoría:** `editorial`
 - **Pipeline:** Leer Pulso → llamar API (3 retries, backoff 2s/4s/8s) → validar contenido → insertar links → guardar
@@ -902,10 +902,10 @@ muchotexto.net — Observatorio de IA en Paraguay
 | Plugins | jekyll-seo-tag, jekyll-sitemap, jekyll-feed, jekyll-paginate-v2 |
 
 **Modelos IA:**
-- gemini-2.0-flash (pulso + editorial) — Google Gemini API (tier gratuito)
-- DeepSeek (investigación) — GitHub Models
-- MiniMax (síntesis) — GitHub Models
-- Qwen (desarrollo) — GitHub Models
+- gemini-3-flash-preview (pulso + editorial) — Google Gemini API (tier gratuito, v1beta)
+- DeepSeek (investigación) — OpenCode
+- MiniMax (síntesis) — OpenCode
+- Qwen (desarrollo) — OpenCode
 
 ### 13.2 Estructura y navegación
 
@@ -953,8 +953,8 @@ muchotexto.net/
 │   ├── index.markdown       # Landing page: grid de todas las entidades
 │   └── {slug}.markdown      # Pagina individual por entidad (layout: entidad)
 ├── scripts/
-│   ├── pulso_diario.py      # Genera Pulso Paraguay (gpt-4o-mini, 15 RSS feeds)
-│   ├── editorial_diario.py  # Genera Editorial (gpt-4o) + auto-linking + validación
+│   ├── pulso_diario.py      # Genera Pulso Paraguay (gemini-3-flash-preview, 15 RSS feeds)
+│   ├── editorial_diario.py  # Genera Editorial (gemini-3-flash-preview) + auto-linking + validación
 │   ├── generate_faq.py      # Genera FAQPage JSON-LD desde artículos con IA
 │   ├── validate_publish.py  # Pre-commit hook: 12 checks
 │   ├── ping_indexnow.py     # IndexNow auto-ping desde sitemap tras build
