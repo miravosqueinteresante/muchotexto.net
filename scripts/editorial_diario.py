@@ -119,7 +119,7 @@ def call_gemini(pulso_content: str, pulso_title: str | None = None) -> str | Non
         ],
         "generationConfig": {
             "temperature": 0.3,
-            "maxOutputTokens": 2000,
+            "maxOutputTokens": 4000,
         },
     }).encode()
 
@@ -306,7 +306,7 @@ def save_editorial_post(title: str, body: str):
 layout: post
 title: "{sanitize_yaml(title)}"
 description: "{sanitize_yaml(meta_desc)}"
-date: {date} {PY_TIME} -0400
+date: {date} {PY_TIME} -0300
 last_modified_at: {date}
 categories: editorial
 tags: editorial opinion paraguay analisis ia
