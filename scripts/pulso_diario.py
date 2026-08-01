@@ -372,17 +372,17 @@ def save_post(content: str):
         topic_slug = slugify(topic)
         slug = f"{date_str}-{topic_slug}-pulso-paraguay"
         title = f"Pulso Paraguay: {topic} — {fmt_fecha(now)}"
-        # ponytail: enforce max 70 chars, cut at word boundary
+        # enforce max 70 chars, cut topic at word boundary
         if len(title) > 70:
-            # subtract the fixed suffix length
+            prefix = "Pulso Paraguay: "
             suffix = f" — {fmt_fecha(now)}"
-            max_topic = 70 - len(suffix) - 1  # -1 for potential truncation marker
+            max_topic = 70 - len(prefix) - len(suffix)
             if max_topic > 10:
                 cut = topic.rfind(" ", 0, max_topic)
-                topic_short = topic[:cut].rstrip(" ,;:-—") if cut > 10 else topic[:max_topic-1].rstrip(" ,;:-—")
+                topic_short = topic[:cut].rstrip(" ,;:-—") if cut > 10 else topic[:max_topic].rstrip(" ,;:-—")
             else:
                 topic_short = topic[:50].rstrip(" ,;:-—")
-            title = f"Pulso Paraguay: {topic_short} {suffix}"
+            title = f"{prefix}{topic_short}{suffix}"
     else:
         slug = f"{date_str}-pulso-paraguay"
         title = f"Pulso Paraguay — {fmt_fecha(now)}"
