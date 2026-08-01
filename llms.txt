@@ -35,6 +35,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Por qué Taiwán no fabrica semiconductores en Paraguay](https://muchotexto.net/articulos/2026/07/14/semiconductores-taiwan-paraguay/)
 - [Paraguay tiene más GPU que estrategia para inteligencia artificial](https://muchotexto.net/articulos/2026/07/16/ia-soberana-paraguay/)
 - [Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años](https://muchotexto.net/articulos/2026/07/17/ciberseguridad-paraguay/)
+- [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](https://muchotexto.net/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)
 - [Lo que el capital de Silicon Valley busca en Paraguay y no encuentra](https://muchotexto.net/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
 
 ### Pilar 3: IA, sociedad y trabajo

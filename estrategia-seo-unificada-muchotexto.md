@@ -196,7 +196,7 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 12 | ✅ | Ley de protección de datos en Paraguay: ¿llega a tiempo para la era de la IA? | `ley protección datos Paraguay`, `privacidad digital` |
 | 13 | ✅ | Ciberseguridad en Paraguay: ¿estamos preparados para un data center de $40B? | `ciberseguridad Paraguay`, `CERT-PY`, `data center seguridad` |
 | 14 | ✅ | Semiconductores: por qué Taiwán eligió Paraguay | `semiconductores Taiwán Paraguay`, `TSMC`, `cadena chips` |
-| 15 | ⬜ | El modelo Itaipú aplicado a la IA: ¿puede funcionar dos veces? | `entidad binacional Paraguay Taiwán`, `gobernanza IA` |
+| 15 | ✅ | El modelo Itaipú aplicado a la IA: ¿puede funcionar dos veces? | `entidad binacional Paraguay Taiwán`, `gobernanza IA` |
 | 16 | ✅ | Silicon Valley en el Cono Sur: ¿por qué los billonarios miran a Paraguay? | `inversión tech Paraguay`, `Crusoe AI`, `X8Cloud` |
 
 #### Pilar 3: IA, sociedad y trabajo (10 temas)
@@ -240,9 +240,9 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 41 | ✅ | Guaraní e IA: ¿puede una lengua indígena sobrevivir en la era de los algoritmos? | `guaraní inteligencia artificial`, `NLP lenguas indígenas` |
 | 42 | ⬜ | Paraguay 2040: un país construido con datos | `Paraguay futuro tecnología`, `prospectiva digital` |
 
-**Total: 42 temas. 39 publicados (✅). 4 pendientes (3 ⬜ + 1 ⭐).**
+**Total: 42 temas. 40 publicados (✅). 3 pendientes (2 ⬜ + 1 ⭐).**
 
-> **Desglose real del observatorio:** de los 42 temas, 39 están publicados. De esos 39, 36 son análisis de IA que integran el observatorio + 1 artículo extra ("Qué es un data center", explicador de referencia) = **37 en el observatorio**. Los otros 2 publicados (#19 Bienvenidos y #38 Fútbol) no son análisis de IA y están excluidos del observatorio. Total real en `_posts/` con `categories: articulos`: 39.
+> **Desglose real del observatorio:** de los 42 temas, 40 están publicados. De esos 40, 37 son análisis de IA que integran el observatorio + 1 artículo extra ("Qué es un data center", explicador de referencia) = **38 en el observatorio**. Los otros 2 publicados (#19 Bienvenidos y #38 Fútbol) no son análisis de IA y están excluidos del observatorio. Total real en `_posts/` con `categories: articulos`: 40.
 
 ---
 
@@ -1085,8 +1085,7 @@ python scripts/observatorio_intel.py
 | 2 | Verificar indexación y ranking en Google Search Console | SEO |
 | 3 | Publicar artículo #7: Energía renovable y cambio climático (Pilar 1) | Contenido |
 | 4 | Publicar artículo #8: Efecto derrame del data center (Pilar 1) | Contenido |
-| 5 | Publicar artículo #15: El modelo Itaipú aplicado a la IA (Pilar 2) | Contenido |
-| 6 | Actualizar §16: auditar artículos #5, #34, #36, #16 (publicados sin registro) | Calidad |
+| 5 | Actualizar §16: auditar artículos #5, #34, #36, #16, #15 (publicados sin registro) | Calidad |
 
 ### Prioridad media
 
@@ -1098,6 +1097,7 @@ python scripts/observatorio_intel.py
 | 11 | Identificar 3-5 periodistas de tecnología en medios paraguayos | Autoridad |
 | 12 | Crear cuenta/blog en LinkedIn para publicar versiones resumidas | Distribución |
 | 13 | Preparar post de LinkedIn anunciando el cluster IA+Paraguay | Distribución |
+| 13 | Sin `last_modified_at` en artículos pre-julio 2026 | Calidad |
 | 14 | Verificar que páginas `/tags/` se regeneren correctamente | SEO |
 | 15 | Crear template de `research_plan.md` reutilizable | Metodología |
 | 16 | Revisar artículos publicados sin proceso de investigación | Calidad |
@@ -1114,7 +1114,7 @@ python scripts/observatorio_intel.py
 | 22 | Verificar ranking actual de cada long-tail publicada en GSC | Keywords |
 | 23 | Keywords en posiciones 4-15: priorizar actualización | Keywords |
 | 24 | Identificar nuevas oportunidades long-tail (Google PAA + Reddit) | Keywords |
-| 25 | Publicar artículos restantes (#7, #8, #15, #42) | Contenido |
+| 25 | Publicar artículos restantes (#7, #8 y #42) | Contenido |
 | 26 | Crear `/indice-adopcion/` (Fase 3 Observatorio) | Observatorio |
 | 27 | Crear `/ranking-universidades/` (Fase 3 Observatorio) | Observatorio |
 
@@ -1140,6 +1140,7 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 12 | Ley protección datos | 27-jul-2026 | ✅ |
 | 13 | Ciberseguridad | 27-jul-2026 | ✅ |
 | 14 | Semiconductores Taiwán | 27-jul-2026 | ✅ |
+| 15 | Modelo Itaipú IA | 1-ago-2026 | ✅ |
 | 16 | Silicon Valley Cono Sur | 31-jul-2026 | ✅ |
 | 17 | Anotación de datos | 27-jul-2026 | ✅ |
 | 18 | Educación tech | 27-jul-2026 | ✅ |

@@ -60,8 +60,9 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
 - **[Lo que el capital de Silicon Valley busca en Paraguay y no encuentra]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** - HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos.
 
+- **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
+
 **Próximamente:**
-- El modelo Itaipú aplicado a la IA: ¿puede funcionar dos veces?
 
 ## IA, sociedad y trabajo
 

@@ -72,7 +72,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 - **Enero 2026** — Se lanza el [Registro Único Nacional (RUN)](/articulos/2026/05/18/tokenizacion-del-agro-paraguay/), reemplazando 150 años de registros en papel.
 - **Marzo 2026** — [HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) en Asunción: primer cluster de GPU para IA en Paraguay. Columbia University inicia investigación de LLM desde Nueva York.
-- **8 Mayo 2026** — Se firma el [MOU de Yguazú Digital](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) en Taipei. Presidentes Peña y Lai Ching-te. Data center binacional Paraguay-Taiwán: Fase I 10 MW/$200-500M.
+- **8 Mayo 2026** — Se firma el [MOU de Yguazú Digital](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/) en Taipei. Presidentes Peña y Lai Ching-te. Entidad binacional Paraguay-Taiwán modelada sobre Itaipú: Fase I 10 MW/$200-300M con ICDF.
 - **13 Mayo 2026** — [Peter Thiel y Crusoe AI se reúnen con Peña](/articulos/2026/05/16/peter-thiel-paraguay-experimento/) en Mburuvicha Róga.
 - **19 Mayo 2026** — Peña firma el [Decreto 6034](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/): apertura del sector eléctrico a generación privada renovable.
 - **25 Mayo 2026** — El Vaticano presenta [Magnifica Humanitas](/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/), la primera encíclica papal dedicada a la IA.
