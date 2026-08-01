@@ -1,7 +1,7 @@
 # Estrategia SEO Unificada — muchotexto.net
 
 > **Documento definitivo del proyecto.** Cubre estrategia de contenidos, SEO técnico, automatización, control de calidad, procedimientos operativos y seguimiento.
-> Última actualización: 31 de julio de 2026 (sincronización post-auditoría).
+> Última actualización: 31 de julio de 2026 (artículo #16 + observatorio completo + fact-check + AGENTS.md).
 
 ---
 
@@ -95,10 +95,10 @@ Posicionar **muchotexto.net** como el referente en español sobre inteligencia a
 
 | Métrica | Valor |
 |---|---|
-| Artículos long-form publicados | 38 (35 en el observatorio) |
+| Artículos long-form publicados | 39 (36 en el observatorio) |
 | Editoriales | 44 |
 | Pulso Paraguay | 66 |
-| **Total posts** | **148** |
+| **Total posts** | **149** |
 | SEO Score (squirrelscan) | 75/100 (C) |
 
 ### 2.2 Hallazgos del análisis de junio 2026
@@ -1276,6 +1276,9 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 98 | Entidades: `/entidades/` — índice de 18 entidades clave. `build_entities.py`, `_data/entities.yml`, layout entidad, CSS grid. Infraestructura de conocimiento curada con plantilla estándar (8 secciones fijas). | 30-jul |
 | 99 | IndexNow: script reescrito (cache dict, --force). Escapado de comillas dobles en fix_pulso/editorial_descriptions. Sitemap limpio (158 URLs, 0 rotas). | 30-jul |
 | 100 | `_config.yml`: sitemap excluye tags, categories, archive (thin pages). Navegación: +Entidades (8 items). Homepage: reemplaza "Así trabajamos" por "Entidades" en Sobre el observatorio. | 30-jul |
+| 101 | Artículo #16: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra". HIVE 300 MW, Crusoe sin inversión, X8Cloud (x8cloud.ai), comparativa Chile/Uruguay. 6 H2s, FAQ schema, 2.471 palabras, 18 fuentes. 5 subagentes investigación, 2 rondas fact-check. | 31-jul |
+| 102 | Observatorio actualizado post #16: cronologia (+4 hitos HIVE), regulacion (+Ley 7599/Decreto 6034), directorio (HIVE corregido, X8Cloud con dominio real), casos-de-uso (+HIVE AI compute), glosario (CAPEX 60-70%), entidades regeneradas. | 31-jul |
+| 103 | AGENTS.md: base de datos de claims verificados ampliada (Agrotoken, RWA, cripto, Paraguay demografía, CPI 2025). | 31-jul |
 
 ---
 
@@ -1412,10 +1415,11 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 
 ### 31 de julio 2026
 
-- Artículo #16: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra" — HIVE Digital 300 MW, Crusoe sin inversión, X8Cloud sin presencia, ASUS solo retail. Comparativa con Chile/Uruguay. 6 H2s, FAQ schema, 2.471 palabras. 17 fuentes verificables.
-- Sincronización estrategia↔realidad: §2.1 conteos actualizados (38→39 artículos). §3.2: #16 marcado ✅ (39 publicados, 4 pendientes). §15: artículo #16 removido del plan pendiente. §16: artículo #16 agregado al registro de auditoría (36/36 análisis auditados).
-- Observatorio actualizado: cronologia (+4 hitos HIVE), pillar page (+artículo #16, -Próximamente), llms.txt (+1 link), entidades regeneradas.
-- Sincronización anterior: §2.1, §3.2 (#5, #34, #36 marcados ✅), §15 (limpieza), §16 (#41 agregado), §19 (corrección).
+- Artículo #16 publicado: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra". HIVE Digital 300 MW ($56M, 68% capacidad global, BUZZ AI Cloud, Columbia/NeurIPS). Crusoe AI solo reunión exploratoria sin inversión. X8Cloud: sitio profesional (x8cloud.ai) pero sin cifras de inversión verificables. ASUS y big tech sin presencia directa. Comparativa con Chile (4 hiperescaladores) y Uruguay (Google $850M). 6 H2s, FAQ schema (3 preguntas), 2.471 palabras, 18 fuentes.
+- Investigación: 5 subagentes paralelos (Crusoe, X8Cloud, HIVE, tech companies, comparativa LatAm). Gap Report con 8 claims verificados. 2 rondas de fact-check: corrección timeline hook (HIVE pre-existía al viaje de Riquelme), suavizado de superlativos, corrección CPI Uruguay 76→73 (fuente: CPI 2025 Transparency International).
+- Observatorio completo actualizado: cronologia (+4 hitos HIVE), regulacion (+Ley 7599/Decreto 6034), directorio (HIVE corregido, X8Cloud dominio real), casos-de-uso (+HIVE AI compute Columbia), glosario (CAPEX 40-50%→60-70%), llms.txt (+1 link), pillar page (+artículo -Próximamente), entidades regeneradas.
+- Estrategia sincronizada: §2.1 (39 artículos, 149 total), §3.2 (#16 ✅, 39/42 publicados), §15 (#16 removido de pendientes), §16 (#16 auditado 36/36), AGENTS.md (claims verificados ampliados).
+- Deuda técnica saldada: `muchotextonet-logo.png` duplicado eliminado, X8Cloud dominio corregido (x8cloud.com→x8cloud.ai), glosario CAPEX corregido.
 
 ### 30 de julio 2026
 
