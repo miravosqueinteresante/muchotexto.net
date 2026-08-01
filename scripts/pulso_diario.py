@@ -25,7 +25,7 @@ REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_MODEL = "gemini-2.0-flash-latest"
+GEMINI_MODEL = "gemini-2.0-flash"
 GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 PARAGUAY_TZ = timezone(timedelta(hours=-3))
@@ -292,7 +292,7 @@ def call_gemini(prompt: str, system_prompt: str = "Eres un analista de tendencia
         return None
 
     payload = json.dumps({
-        "system_instruction": {
+        "systemInstruction": {
             "parts": [{"text": system_prompt}]
         },
         "contents": [
@@ -316,7 +316,11 @@ def call_gemini(prompt: str, system_prompt: str = "Eres un analista de tendencia
 
     try:
         with urlopen(req, timeout=120) as resp:
-            data = json.loads(resp.read().decode())
+            raw = resp.read().decode()
+            data = json.loads(raw)
+        if "error" in data:
+            log.error("Gemini API error: %s", json.dumps(data["error"], indent=2))
+            return None
         content = data["candidates"][0]["content"]["parts"][0]["text"]
         return content
     except Exception as e:
