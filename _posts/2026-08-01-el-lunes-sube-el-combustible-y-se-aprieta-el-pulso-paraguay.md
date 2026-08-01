@@ -3,6 +3,7 @@ layout: post
 title: "Pulso Paraguay: El lunes sube el combustible y se aprieta el  — 1 de agosto de 2026"
 description: "El lunes sube el combustible y se aprieta el bolsillo: Varios emblemas privados ya confirmaron que desde el lunes los precios en los surtidores se van para arriba, justo después del festejo de la amistad. Pulso Paraguay — 1 de agosto de 2026."
 
+
 date: 2026-08-01
 last_modified_at: 2026-08-01
 categories: pulso-paraguay
