@@ -34,16 +34,8 @@ jobs:
           fi
           echo "GEMINI_API_KEY: configurado (${#GEMINI_API_KEY} caracteres)"
           echo ""
-          echo "=== Modelos disponibles (flash/lite) ==="
-          curl -s "https://generativelanguage.googleapis.com/v1beta/models?key=$GEMINI_API_KEY" | \
-            python3 -c "
-import sys,json
-data=json.load(sys.stdin)
-for m in data.get('models',[]):
-    n=m['name']
-    if 'gemini' in n.lower() and ('flash' in n.lower() or 'lite' in n.lower() or '2.0' in n.lower() or '2.5' in n.lower()):
-        print(f'  {n}')
-" 2>/dev/null || echo "  (no se pudieron listar modelos)"
+          echo "=== Modelos flash/lite disponibles ==="
+          curl -s "https://generativelanguage.googleapis.com/v1beta/models?key=$GEMINI_API_KEY" | grep -oP '"name":\s*"models/[^"]*"' | grep -iE 'flash|lite' || echo "  (ninguno con flash/lite en el nombre)"
 
       - name: Generar Pulso Paraguay
         id: pulso
