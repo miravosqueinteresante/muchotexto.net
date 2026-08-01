@@ -24,9 +24,9 @@ log = logging.getLogger("pulso")
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
 
-GH_TOKEN = os.environ.get("GH_MODELS_TOKEN")
-GH_MODELS_ENDPOINT = "https://models.inference.ai.azure.com/chat/completions"
-GH_MODEL = "gpt-4o-mini"
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_MODEL = "gemini-2.0-flash-latest"
+GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 PARAGUAY_TZ = timezone(timedelta(hours=-3))
 
@@ -286,37 +286,41 @@ DATOS PARA ANALIZAR (NOTICIAS REALES DE HOY):
     return prompt
 
 
-def call_github_models(prompt: str) -> str | None:
-    if not GH_TOKEN:
-        log.error("GH_MODELS_TOKEN no está configurado")
+def call_gemini(prompt: str, system_prompt: str = "Eres un analista de tendencias paraguayas. Generás reportes en español paraguayo.") -> str | None:
+    if not GEMINI_API_KEY:
+        log.error("GEMINI_API_KEY no está configurado")
         return None
 
     payload = json.dumps({
-        "model": GH_MODEL,
-        "messages": [
-            {"role": "system", "content": "Eres un analista de tendencias paraguayas. Generás reportes en español paraguayo."},
-            {"role": "user", "content": prompt},
+        "system_instruction": {
+            "parts": [{"text": system_prompt}]
+        },
+        "contents": [
+            {
+                "role": "user",
+                "parts": [{"text": prompt}]
+            }
         ],
-        "temperature": 0.7,
-        "max_tokens": 4000,
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxOutputTokens": 4000,
+        },
     }).encode()
 
+    url = f"{GEMINI_ENDPOINT}?key={GEMINI_API_KEY}"
     req = Request(
-        GH_MODELS_ENDPOINT,
+        url,
         data=payload,
-        headers={
-            "Authorization": f"Bearer {GH_TOKEN}",
-            "Content-Type": "application/json",
-        },
+        headers={"Content-Type": "application/json"},
     )
 
     try:
         with urlopen(req, timeout=120) as resp:
             data = json.loads(resp.read().decode())
-        content = data["choices"][0]["message"]["content"]
+        content = data["candidates"][0]["content"]["parts"][0]["text"]
         return content
     except Exception as e:
-        log.error("Error calling GitHub Models: %s", e)
+        log.error("Error calling Gemini API: %s", e)
         return None
 
 
@@ -403,9 +407,10 @@ def sanitize_yaml(text: str) -> str:
 
 
 def main():
-    if not GH_TOKEN:
-        log.error("Error: GH_MODELS_TOKEN no está configurado.")
-        log.error("Creá un secret en GitHub: Settings → Secrets → Actions → GH_MODELS_TOKEN")
+    if not GEMINI_API_KEY:
+        log.error("Error: GEMINI_API_KEY no está configurado.")
+        log.error("Creá un API key en https://aistudio.google.com/apikey")
+        log.error("Agregalo en GitHub: Settings → Secrets → Actions → GEMINI_API_KEY")
         sys.exit(1)
 
     log.info("=" * 50)
@@ -420,9 +425,9 @@ def main():
     if len(news) < 5:
         log.warning("Muy pocas noticias (%d). El reporte puede ser limitado.", len(news))
 
-    log.info("Fase 2/3: Generando reporte con GitHub Models (%s)...", GH_MODEL)
+    log.info("Fase 2/3: Generando reporte con Gemini (%s)...", GEMINI_MODEL)
     prompt = build_prompt(news, sources)
-    report = call_github_models(prompt)
+    report = call_gemini(prompt)
 
     if not report:
         log.error("No se pudo generar el reporte. Abortando.")

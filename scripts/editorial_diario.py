@@ -22,9 +22,9 @@ log = logging.getLogger("editorial")
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
 
-GH_TOKEN = os.environ.get("GH_MODELS_TOKEN")
-GH_MODELS_ENDPOINT = "https://models.inference.ai.azure.com/chat/completions"
-GH_MODEL = "gpt-4o"
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_MODEL = "gemini-2.0-flash-latest"
+GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 PARAGUAY_TZ = timezone(timedelta(hours=-3))
 
@@ -95,9 +95,9 @@ def read_pulso_post(date: str) -> tuple[str | None, str | None]:
     return body.strip(), pulso_title
 
 
-def call_github_models(pulso_content: str, pulso_title: str | None = None) -> str | None:
-    if not GH_TOKEN:
-        log.error("GH_MODELS_TOKEN no está configurado")
+def call_gemini(pulso_content: str, pulso_title: str | None = None) -> str | None:
+    if not GEMINI_API_KEY:
+        log.error("GEMINI_API_KEY no está configurado")
         return None
 
     fecha = fmt_fecha_para_titulo(now_py())
@@ -107,22 +107,26 @@ def call_github_models(pulso_content: str, pulso_title: str | None = None) -> st
     context += f"\n\nContenido del Pulso Paraguay:\n\n{pulso_content}\n\nGenera la Editorial."
 
     payload = json.dumps({
-        "model": GH_MODEL,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": context},
+        "system_instruction": {
+            "parts": [{"text": SYSTEM_PROMPT}]
+        },
+        "contents": [
+            {
+                "role": "user",
+                "parts": [{"text": context}]
+            }
         ],
-        "temperature": 0.3,
-        "max_tokens": 2000,
+        "generationConfig": {
+            "temperature": 0.3,
+            "maxOutputTokens": 2000,
+        },
     }).encode()
 
+    url = f"{GEMINI_ENDPOINT}?key={GEMINI_API_KEY}"
     req = Request(
-        GH_MODELS_ENDPOINT,
+        url,
         data=payload,
-        headers={
-            "Authorization": f"Bearer {GH_TOKEN}",
-            "Content-Type": "application/json",
-        },
+        headers={"Content-Type": "application/json"},
     )
 
     max_retries = 3
@@ -130,7 +134,7 @@ def call_github_models(pulso_content: str, pulso_title: str | None = None) -> st
         try:
             with urlopen(req, timeout=180) as resp:
                 data = json.loads(resp.read().decode())
-            content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+            content = data.get("candidates", [{}])[0].get("content", {}).get("parts", [{}])[0].get("text", "")
             if not content.strip():
                 log.error("API devolvio contenido vacio")
                 return None
@@ -140,7 +144,7 @@ def call_github_models(pulso_content: str, pulso_title: str | None = None) -> st
             if attempt < max_retries:
                 time.sleep(2 ** attempt)
             else:
-                log.error("Error calling GitHub Models tras %d intentos: %s", max_retries, e)
+                log.error("Error calling Gemini API tras %d intentos: %s", max_retries, e)
                 return None
 
 
@@ -313,9 +317,10 @@ tags: editorial opinion paraguay analisis ia
 # ─── Main ─────────────────────────────────────────────────────────────────
 
 def main():
-    if not GH_TOKEN:
-        log.error("Error: GH_MODELS_TOKEN no está configurado.")
-        log.error("Creá un secret en GitHub: Settings → Secrets → Actions → GH_MODELS_TOKEN")
+    if not GEMINI_API_KEY:
+        log.error("Error: GEMINI_API_KEY no está configurado.")
+        log.error("Creá un API key en https://aistudio.google.com/apikey")
+        log.error("Agregalo en GitHub: Settings → Secrets → Actions → GEMINI_API_KEY")
         sys.exit(1)
 
     log.info("=" * 50)
@@ -331,8 +336,8 @@ def main():
         log.warning("No se encontró el Pulso Paraguay para hoy (%s). Abortando.", date)
         sys.exit(0)
 
-    log.info("Paso 2/3: Generando Editorial con %s...", GH_MODEL)
-    result = call_github_models(pulso, pulso_title)
+    log.info("Paso 2/3: Generando Editorial con %s...", GEMINI_MODEL)
+    result = call_gemini(pulso, pulso_title)
     if not result:
         log.error("No se pudo generar la Editorial. Abortando.")
         sys.exit(1)

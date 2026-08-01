@@ -780,7 +780,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 ### 12.1 Pulso Paraguay (cron 08:00 PYT / 12:00 UTC)
 
 - **Script:** `scripts/pulso_diario.py`
-- **Modelo:** gpt-4o-mini (GitHub Models)
+- **Modelo:** gemini-2.0-flash (Google Gemini API, tier gratuito)
 - **Fuentes RSS:** 16 fuentes RSS (15 medios + 1 sección CyT de La Tribuna)
 - **Formato:** TEMA #1 → Política → Economía → Deportes → Cultura → Seguridad → Virales → Ranking → Insight → Análisis → Fuentes
 - **Categoría:** `pulso-paraguay`
@@ -790,7 +790,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 ### 12.2 Editorial Diaria (cron 18:00 PYT / 22:00 UTC)
 
 - **Script:** `scripts/editorial_diario.py`
-- **Modelo:** gpt-4o (GitHub Models), temperature 0.3
+- **Modelo:** gemini-2.0-flash (Google Gemini API, tier gratuito), temperature 0.3
 - **Dependencia:** Lee el Pulso del día; si no existe, sale sin error (`sys.exit(0)`)
 - **Categoría:** `editorial`
 - **Pipeline:** Leer Pulso → llamar API (3 retries, backoff 2s/4s/8s) → validar contenido → insertar links → guardar
@@ -880,7 +880,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 
 ### 12.9 Pendientes conocidos (no críticos)
 
-- [ ] Timezone hardcoded UTC-4; Paraguay usa UTC-3 en horario de verano (oct-mar)
+- [x] Timezone hardcoded UTC-4; Paraguay usa UTC-3 permanente desde 2024. Corregido en ambos scripts (1-ago-2026).
 - [ ] No hay dependencia explícita Editorial→Pulso (solo separación horaria de 10h)
 - [ ] Sin dedup al re-ejecutar manualmente (crea posts duplicados)
 
@@ -902,8 +902,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 | Plugins | jekyll-seo-tag, jekyll-sitemap, jekyll-feed, jekyll-paginate-v2 |
 
 **Modelos IA:**
-- gpt-4o (editorial) — GitHub Models
-- gpt-4o-mini (pulso) — GitHub Models
+- gemini-2.0-flash (pulso + editorial) — Google Gemini API (tier gratuito)
 - DeepSeek (investigación) — GitHub Models
 - MiniMax (síntesis) — GitHub Models
 - Qwen (desarrollo) — GitHub Models

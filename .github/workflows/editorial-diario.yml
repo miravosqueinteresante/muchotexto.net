@@ -22,7 +22,7 @@ jobs:
 
       - name: Generar Editorial
         env:
-          GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TZ: America/Asuncion
         run: python scripts/editorial_diario.py
 
