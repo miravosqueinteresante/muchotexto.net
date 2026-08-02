@@ -13,7 +13,7 @@ El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memora
 > **En resumen:**
 > - Paraguay y Taiwán proponen para Yguazú Digital el mismo modelo de entidad binacional 50/50 que creó Itaipú en 1973. No existe ningún precedente mundial de gobernanza binacional aplicada a infraestructura de inteligencia artificial.
 > - Itaipú funcionó en gran medida porque Brasil garantizó la deuda, compró casi toda la energía y compartía frontera física con Paraguay. Ninguna de esas tres condiciones existe con Taiwán.
-> - Yacyretá, la otra entidad binacional paraguaya, costó ocho veces más de lo presupuestado y tardó décadas en completarse. Es el espejo que Paraguay prefiere no mirar.
+> - Yacyretá, la otra entidad binacional paraguaya, costó entre cinco y ocho veces más de lo presupuestado y tardó décadas en alcanzar su capacidad de diseño. Es el espejo que Paraguay prefiere no mirar.
 > - El ICDF taiwanés es una agencia de cooperación al desarrollo, no un inversor con retorno comercial. El modelo financiero de Yguazú Digital para las fases II y III —donde se necesitan entre USD 5.000 y 40.000 millones— no está definido.
 
 Itaipú no es solo la represa más grande del hemisferio occidental. Es el experimento de gobernanza binacional más longevo y exitoso de América Latina. Entender qué lo hizo funcionar —y qué falló— es el primer paso para saber si Yguazú Digital tiene sentido más allá del anuncio.
@@ -24,7 +24,7 @@ La Entidad Binacional Itaipú fue creada por el Tratado firmado entre Paraguay y
 
 Su estructura de gobierno es paritaria: un Consejo de Administración con seis miembros por país y una Dirección Ejecutiva compartida. Las decisiones requieren consenso: ningún país puede imponer su voluntad unilateralmente. El capital social se divide 50% para cada parte, y la energía producida —los 14.000 megavatios de potencia instalada— se reparte en mitades iguales. En la práctica, Paraguay consume menos del 15% de su mitad y vende el excedente a Brasil a precio de costo.
 
-El financiamiento de la obra —aproximadamente USD 19.600 millones en valores históricos— provino casi enteramente de Brasil. Eletrobras, la eléctrica estatal brasileña, actuó como garante de los préstamos internacionales y como comprador monopólico de la energía que Paraguay no usaba. El Tesoro brasileño respaldó la deuda. Paraguay pagó su parte en electricidad, no en efectivo, durante casi cinco décadas. La última cuota de la deuda se canceló el 28 de febrero de 2023.
+El financiamiento de la obra —aproximadamente USD 19.600 millones en valores históricos— provino casi enteramente de Brasil. Eletrobras, la eléctrica estatal brasileña, actuó como garante de los préstamos internacionales y como comprador monopólico de la energía que Paraguay no usaba. El Tesoro brasileño respaldó la deuda. Paraguay pagó su parte en electricidad, no en efectivo, durante casi cinco décadas. La última cuota de la deuda se canceló en 2023.
 
 Este arreglo funcionó porque Brasil necesitaba desesperadamente la energía para alimentar su industrialización acelerada de los años setenta y ochenta. Sin esa demanda brasileña, sin la garantía de Eletrobras y sin la frontera compartida que hacía viable la transmisión, el Tratado de Itaipú probablemente no se habría firmado. Son tres condiciones que no se cumplen con Taiwán.
 
@@ -42,11 +42,11 @@ La diferencia con Itaipú no podría ser más grande. Itaipú nació con un trat
 
 Paraguay ya intentó el modelo binacional una segunda vez. La Entidad Binacional Yacyretá, creada con Argentina en 1973 —el mismo año que Itaipú—, es el contraejemplo que el país prefiere no mencionar cuando habla de Yguazú Digital.
 
-El costo original estimado de Yacyretá era de USD 1.500 millones. El costo final superó los USD 11.500 millones. La obra, prevista para completarse en menos de una década, se extendió por casi treinta años. El embalse, que debía alcanzar la cota de 83 metros sobre el nivel del mar para generar la potencia de diseño de 3.100 megavatios, operó durante casi dos décadas a cota 76 —un 40% por debajo de su capacidad— por disputas entre los dos países sobre el plan de terminación. Las comunidades afectadas por el embalse siguen esperando compensación completa.
+El costo original estimado de Yacyretá oscilaba entre USD 1.500 y 2.000 millones. El costo final superó los USD 11.500 millones. La obra se construyó en 11 años, pero tardó casi tres décadas en alcanzar su capacidad de diseño de 3.100 megavatios, operó durante casi dos décadas a cota 76 —un 40% por debajo de su capacidad— por disputas entre los dos países sobre el plan de terminación. Las comunidades afectadas por el embalse siguen esperando compensación completa.
 
 La lección de Yacyretá no es que las entidades binacionales fallen. Es que sin un socio con incentivos económicos reales para que el proyecto funcione, sin un comprador que necesite el producto y sin mecanismos vinculantes de resolución de disputas, el modelo binacional puede convertirse en una trampa institucional de décadas.
 
-Del otro lado del espectro está el CERN, la Organización Europea para la Investigación Nuclear. Fundada en 1954 por 12 países europeos —hoy son 24—, el CERN gobierna la infraestructura científica más compleja del mundo: el Gran Colisionador de Hadrones, un anillo de 27 kilómetros de imanes superconductores que acelera partículas a velocidades cercanas a la luz. Su presupuesto anual supera los USD 1.200 millones, financiado por contribuciones de los estados miembros proporcionales a su PIB.
+Del otro lado del espectro está el CERN, la Organización Europea para la Investigación Nuclear. Fundada en 1954 por 12 países europeos —hoy son 25—, el CERN gobierna la infraestructura científica más compleja del mundo: el Gran Colisionador de Hadrones, un anillo de 27 kilómetros de imanes superconductores que acelera partículas a velocidades cercanas a la luz. Su presupuesto anual supera los USD 1.500 millones, financiado por contribuciones de los estados miembros proporcionales a su PIB.
 
 El CERN funciona con tres principios que Itaipú nunca tuvo y que Yguazú Digital necesitaría: decisiones basadas en mérito científico (no en cuotas nacionales), un comité de política científica independiente de los gobiernos, y un tratado que puede modificarse por consenso sin requerir renegociación completa. Esos principios están en las antípodas del modelo Itaipú, donde cada decisión relevante requiere acuerdo político al más alto nivel y el tratado es esencialmente inamovible.
 
@@ -72,7 +72,7 @@ El análogo más cercano a lo que Paraguay y Taiwán están intentando no viene 
 
 Paraguay tiene un manual de cincuenta años sobre cómo construir infraestructura compartida entre países. Funcionó con Itaipú —con límites— y fracasó con Yacyretá —con lecciones—. Aplicar ese manual a la inteligencia artificial no es absurdo. Pero requiere responder tres preguntas que el MoU de mayo de 2026 deja abiertas.
 
-Primero, ¿quién compra? Itaipú funcionó porque Brasil necesitaba cada megavatio-hora que la represa producía. Yguazú Digital no tiene un cliente ancla con la escala de Eletrobras. ICDF ya contactó a Google, Microsoft y Amazon, pero ninguna de esas empresas ha firmado una carta de intención.
+Primero, ¿quién compra? Itaipú funcionó porque Brasil necesitaba cada megavatio-hora que la represa producía. Yguazú Digital no tiene un cliente ancla con la escala de Eletrobras. Taiwán ya contactó a Google, Microsoft y Amazon, pero ninguna de esas empresas ha firmado una carta de intención.
 
 Segundo, ¿quién paga? La deuda de Itaipú la estructuró el Tesoro brasileño. Para Yguazú Digital Fase II y III se necesitan entre USD 5.000 y 40.000 millones que el ICDF no puede —ni debe— proveer. Sin un mecanismo de financiamiento definido, las fases ambiciosas del proyecto son expresiones de deseo.
 
