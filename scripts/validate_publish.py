@@ -267,33 +267,33 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
             "Agregarlo: git add llms.txt"
         )
     if staged_posts and not has_glosario:
-        warnings.append(
+        errors.append(
             "Nuevo post detectado pero glosario.markdown no esta en el commit. "
-            "Si el articulo introduce terminos nuevos, agregarlos al glosario. "
+            "Todo articulo nuevo debe actualizar el glosario con al menos un termino. "
             "Agregarlo: git add glosario.markdown"
         )
     if staged_posts and not has_cronologia:
-        warnings.append(
+        errors.append(
             "Nuevo post detectado pero cronologia.markdown no esta en el commit. "
-            "Si el articulo agrega hitos nuevos, actualizarlo. "
+            "Todo articulo nuevo debe agregar al menos un hito a la cronologia. "
             "Agregarlo: git add cronologia.markdown"
         )
     if staged_posts and not has_regulacion:
-        warnings.append(
+        errors.append(
             "Nuevo post detectado pero regulacion.markdown no esta en el commit. "
-            "Si el articulo cubre legislacion nueva, actualizarlo. "
+            "Todo articulo nuevo debe actualizar el mapa regulatorio. "
             "Agregarlo: git add regulacion.markdown"
         )
     if staged_posts and not has_directorio:
-        warnings.append(
+        errors.append(
             "Nuevo post detectado pero directorio.markdown no esta en el commit. "
-            "Si el articulo descubre nuevas entidades del ecosistema, actualizarlo. "
+            "Todo articulo nuevo debe actualizar el directorio con nuevas entidades. "
             "Agregarlo: git add directorio.markdown"
         )
     if staged_posts and not has_casos:
-        warnings.append(
+        errors.append(
             "Nuevo post detectado pero casos-de-uso.markdown no esta en el commit. "
-            "Si el articulo documenta nuevos casos de uso de IA, actualizarlo. "
+            "Todo articulo nuevo debe documentar al menos un caso de uso. "
             "Agregarlo: git add casos-de-uso.markdown"
         )
 
