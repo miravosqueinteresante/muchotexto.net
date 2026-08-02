@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-07-31
+last_modified_at: 2026-08-01
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
@@ -23,6 +23,9 @@ related_articles:
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
     context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
+  - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
@@ -42,6 +45,10 @@ obs_cronologia:
   - label: "2024"
     url: /cronologia/
     context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
+obs_regulacion:
+  - label: "Ley 7599/2024 y Decreto 6034/2024"
+    url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
+    context: "Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas..."
 obs_casos-de-uso:
   - label: "Agricultura de precisión"
     url: /articulos/2026/07/13/agro-40-paraguay-ia/
@@ -51,7 +58,7 @@ obs_casos-de-uso:
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
   - label: "Apertura del sector eléctrico"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-    context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. X8 Cloud anunció $10-50B en data centers. HIVE Digital opera 100 MW de GPU."
+    context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. Leer más sobre inversión tech."
   - label: "Criptominería"
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
@@ -69,4 +76,4 @@ obs_casos-de-uso:
     context: "El Surti crea el primer dataset comunitario de voz en guaraní con mingas y un modelo wav2vec2. API abierta de transcripción. Chatbot de WhatsApp. Contraste con maorí (Nueva Zelanda), catalán (ILENIA)..."
 ---
 
-4 articulos en el observatorio mencionan a ANDE.
+5 articulos en el observatorio mencionan a ANDE.

@@ -20,6 +20,8 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 - **[BUZZ AI Cloud](https://www.buzzhpc.ai/es/)** — Primer cluster de GPU para inteligencia artificial en Paraguay, lanzado por HIVE en un data center Tier III en Asunción (marzo 2026). [Leer análisis](/articulos/2026/07/16/ia-soberana-paraguay/).
 - **[Tooldata](https://tooldata.io/social-listening-paraguay)** — Empresa chilena fundada en 2018 por Jorge Gálvez Gajardo, con sede en Concón, Chile. Ofrece soluciones de IA y Social Listening con fuerte presencia en Paraguay, donde opera adaptada a normativas locales (SIFEN, Marangatu).
 
+- **[ICDF Taiwan](https://www.icdf.org.tw/)** — Fondo de Cooperación y Desarrollo Internacional de Taiwán. Agencia ejecutora de Yguazú Digital. Financia proyectos de desarrollo en países aliados. [Leer más](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/).
+
 ## Data centers e infraestructura
 
 - **Yguazú Digital** — Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. [Leer análisis](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/).

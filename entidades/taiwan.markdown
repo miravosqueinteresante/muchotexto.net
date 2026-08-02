@@ -4,7 +4,7 @@ title: "Taiwán (República de China)"
 description: >
   Perfil de Taiwán en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
-last_modified_at: 2026-07-31
+last_modified_at: 2026-08-01
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
 entity_description: >
@@ -20,6 +20,9 @@ related_articles:
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
     context: "A esto se suma un problema jurisdiccional que la ley paraguaya no resuelve. Si Google, Microsoft o Amazon —empresas que el fondo taiwanés ICDF ya contactó para sondear interés— almacenan datos en Yguazú Digital, la ley estadounidense CLOUD Act..."
+  - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "> **En resumen;** > - Paraguay y Taiwán proponen para Yguazú Digital el mismo modelo de entidad binacional 50/50 que creó Itaipú en 1973. No existe ningún precedente mundial de gobernanza binacional aplicada a infraestructura de inteligencia..."
 obs_glosario:
   - label: "TSMC (Taiwan Semiconductor Manufacturing Company)"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
@@ -47,4 +50,4 @@ obs_casos-de-uso:
     context: "Paraguay produce 400-600 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026."
 ---
 
-3 articulos en el observatorio mencionan a Taiwán.
+4 articulos en el observatorio mencionan a Taiwán.

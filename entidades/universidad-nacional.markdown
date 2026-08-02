@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-07-31
+last_modified_at: 2026-08-01
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >
@@ -64,6 +64,9 @@ obs_regulacion:
   - label: "Identidad Electrónica"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/
     context: "No es una ley sino un sistema operativo. Superó 1.5 millones de usuarios en julio 2026 (~30% de adultos). SMS-based 2FA obligatorio. Trámites digitales: 480+ en el portal Paraguay.gov.py."
+  - label: "Ley 7599/2024 y Decreto 6034/2024"
+    url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
+    context: "Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas..."
 obs_casos-de-uso:
   - label: "Tokenización del agro"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
@@ -79,16 +82,16 @@ obs_casos-de-uso:
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
   - label: "Apertura del sector eléctrico"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-    context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. X8 Cloud anunció $10-50B en data centers. HIVE Digital opera 100 MW de GPU."
+    context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. Leer más sobre inversión tech."
+  - label: "HIVE Digital: minería de Bitcoin y computación de IA"
+    url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
+    context: "HIVE opera 300 MW de minería Bitcoin en Paraguay y lanzó BUZZ AI Cloud, el primer cluster de GPU para IA en el país. Columbia University validó el entrenamiento intercontinental de modelos de..."
   - label: "Hidrógeno verde y fertilizantes"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
     context: "Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia Nacional 2025 pivotea a fertilizantes para Brasil."
   - label: "Criptominería"
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
-  - label: "Telemedicina nacional"
-    url: /articulos/2026/07/16/ia-salud-paraguay/
-    context: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta..."
 ---
 
 12 articulos en el observatorio mencionan a UNA.

@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-07-31
+last_modified_at: 2026-08-01
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
 entity_description: >
@@ -14,6 +14,9 @@ related_articles:
   - title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
     context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
+  - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "1. Tratado de Itaipú — Wikipedia (1973) 2. Itaipú Binacional — sitio oficial 3. Yguazú Digital — cobertura del MoU, ABC Color (mayo 2026) 4...."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "- Focus Taiwan (CNA) — Firma del MOU Paraguay-Taiwán (8 mayo 2026) - [Infobae — 'Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del..."
@@ -53,4 +56,4 @@ obs_regulacion:
     context: "Vence el 1 de enero de 2027. Negociaciones congeladas desde el escándalo ABIN (abril 2025). Sin acuerdo, Paraguay pierde ~$600M/año. Define la base financiera de la binacional hasta 2053."
 ---
 
-4 articulos en el observatorio mencionan a Itaipú.
+5 articulos en el observatorio mencionan a Itaipú.

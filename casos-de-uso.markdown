@@ -22,6 +22,8 @@ Cada caso enlaza con el artículo completo.
 - **[Hidrógeno verde y fertilizantes](/articulos/2026/07/27/hidrogeno-verde-paraguay/)** — Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia Nacional 2025 pivotea a fertilizantes para Brasil.
 - **[Criptominería](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)** — Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social.
 
+- **[Yguazú Digital: gobernanza binacional para IA](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)** — Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El MoU es no vinculante y el financiamiento para las fases II-III depende de inversores privados aún no asegurados.
+
 ## Salud
 
 - **[Telemedicina nacional](/articulos/2026/07/16/ia-salud-paraguay/)** — Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta por WhatsApp.

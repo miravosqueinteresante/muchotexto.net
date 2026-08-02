@@ -4,7 +4,7 @@ title: "HIVE Digital Technologies Ltd."
 description: >
   Perfil de HIVE Digital Technologies en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre HIVE Digital Technologies Ltd..
 permalink: /entidades/hive-digital/
-last_modified_at: 2026-07-31
+last_modified_at: 2026-08-01
 entity_name: HIVE Digital Technologies
 entity_name_full: HIVE Digital Technologies Ltd.
 entity_description: >
@@ -23,7 +23,7 @@ related_articles:
 obs_directorio:
   - label: "HIVE Digital Technologies"
     url: https://www.hivedigitaltechnologies.com/
-    context: "Opera un campus de 100 MW de cómputo GPU en Yguazú con energía de Itaipú; planea expandir a 400 MW. Leer análisis."
+    context: "Opera 300 MW de minería Bitcoin (Tier-I) en Yguazú y Valenzuela con energía de Itaipú. Adquirió Yguazú de Bitfarms por USD 56M en 2025. Lanzó BUZZ AI Cloud en Asunción (Tier-III) y planea un data..."
 ---
 
 3 articulos en el observatorio mencionan a HIVE Digital Technologies.
