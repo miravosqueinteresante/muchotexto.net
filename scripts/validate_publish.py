@@ -255,6 +255,7 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
     has_regulacion = any("regulacion.markdown" in f for f in staged_all)
     has_directorio = any("directorio.markdown" in f for f in staged_all)
     has_casos = any("casos-de-uso.markdown" in f for f in staged_all)
+    has_entidades = any("entidades/" in f for f in staged_all)
 
     if staged_posts and not has_pillar:
         errors.append(
@@ -295,6 +296,12 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
             "Nuevo post detectado pero casos-de-uso.markdown no esta en el commit. "
             "Todo articulo nuevo debe documentar al menos un caso de uso. "
             "Agregarlo: git add casos-de-uso.markdown"
+        )
+    if staged_posts and not has_entidades:
+        errors.append(
+            "Nuevo post detectado pero entidades/ no esta en el commit. "
+            "Ejecuta python scripts/build_entities.py y hace git add entidades/. "
+            "Agregarlo: python scripts/build_entities.py && git add entidades/"
         )
 
     # Check if new article topic is still in Proximamente on pillar page
