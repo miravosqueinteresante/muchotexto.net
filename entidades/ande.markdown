@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-08-01
+last_modified_at: 2026-08-03
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
@@ -62,6 +62,9 @@ obs_casos-de-uso:
   - label: "Criptominería"
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
+  - label: "Yguazú Digital: gobernanza binacional para IA"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
   - label: "E-commerce en Paraguay"
     url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
     context: "Mercado de USD 700M-2.180M, crece 23-40% anual. 8 de cada 10 paraguayos compran online, 81% desde celular. Impulsado por pagos QR y billeteras móviles."
@@ -71,9 +74,6 @@ obs_casos-de-uso:
   - label: "IA en logística"
     url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
     context: "Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos."
-  - label: "AIkuaa: guaraní en la IA"
-    url: /articulos/2026/07/29/guarani-ia/
-    context: "El Surti crea el primer dataset comunitario de voz en guaraní con mingas y un modelo wav2vec2. API abierta de transcripción. Chatbot de WhatsApp. Contraste con maorí (Nueva Zelanda), catalán (ILENIA)..."
 ---
 
 5 articulos en el observatorio mencionan a ANDE.

@@ -24,6 +24,8 @@ Cada caso enlaza con el artículo completo.
 
 - **[Yguazú Digital: gobernanza binacional para IA](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)** — Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El MoU es no vinculante y el financiamiento para las fases II-III depende de inversores privados aún no asegurados.
 
+- **[Paradoja climatica paraguaya: energia limpia, bosques talados](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)** — Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano. Emisor neto.
+
 ## Salud
 
 - **[Telemedicina nacional](/articulos/2026/07/16/ia-salud-paraguay/)** — Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta por WhatsApp.

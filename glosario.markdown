@@ -27,6 +27,9 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **Entidad binacional** — Figura jurídica de derecho internacional creada por tratado entre dos países. Tiene personería jurídica propia, puede contraer deuda y operar infraestructura de forma autónoma. Paraguay forma parte de dos: Itaipú (con Brasil, 1973) y Yacyretá (con Argentina, 1973). Yguazú Digital propone crear una tercera con Taiwán.
 → [El modelo Itaipú aplicado a la IA](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)
 
+**NDC (Contribucion Nacionalmente Determinada)** — Compromiso climatico voluntario que cada pais presenta bajo el Acuerdo de Paris. Paraguay presento su NDC 3.0 en noviembre 2025: reduccion del 20% de emisiones para 2030/2035. La meta se divide en 10% incondicional y 10% condicional (sujeta a USD 24.000M de financiamiento externo).
+→ [Energia renovable y cambio climatico](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)
+
 **PUE (Power Usage Effectiveness)** — Índice que mide la eficiencia energética de un data center. Un PUE de 1.5 significa que por cada MW utilizado en cómputo, se gasta 0.5 MW adicional en refrigeración y pérdidas. Paraguay parte en desventaja por su falta de experiencia operando data centers a gran escala.
 
 **CAPEX (Capital Expenditure)** — Inversión de capital para construir infraestructura. En un data center de 100 MW ronda USD 800-1.200 millones. El hardware es el 60-70% del CAPEX y es 100% importado. Solo el 15-20% se queda en Paraguay.

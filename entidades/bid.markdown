@@ -4,7 +4,7 @@ title: "Banco Interamericano de Desarrollo"
 description: >
   Perfil de BID en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Banco Interamericano de Desarrollo.
 permalink: /entidades/bid/
-last_modified_at: 2026-08-01
+last_modified_at: 2026-08-03
 entity_name: BID
 entity_name_full: Banco Interamericano de Desarrollo
 entity_description: >
@@ -22,6 +22,10 @@ obs_regulacion:
   - label: "Estrategia Nacional de Hidrógeno Verde (julio 2025)"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
     context: "6 pilares, 55 medidas, financiada por el BID. Pivotea hacia fertilizantes para el mercado brasileño. Documento de política pública sin rango de ley."
+obs_casos-de-uso:
+  - label: "Paradoja climatica paraguaya: energia limpia, bosques talados"
+    url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+    context: "Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano...."
 ---
 
 1 articulos en el observatorio mencionan a BID.

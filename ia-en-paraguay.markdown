@@ -44,8 +44,9 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[En 2027 Paraguay puede perder mil millones de dólares de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El Anexo C vence. Las negociaciones están congeladas. Paraguay recibe USD 1.000M al año. ¿Qué pasa si no hay acuerdo?
 - **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
 
+- **[Paraguay tiene energía 100% renovable y el cambio climático la amenaza]({% post_url 2026-08-03-energia-renovable-cambio-climatico-paraguay %})** — El 99.9% de la electricidad es renovable pero el 97% depende de dos represas en una sola cuenca. Sin diversificación solar ni eólica.
+
 **Próximamente:**
-- Energía renovable y cambio climático: la paradoja paraguaya
 - Impacto local de un data center de $200M
 
 ## Geopolítica y regulación tech

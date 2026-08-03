@@ -22,6 +22,8 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 
 - **[ICDF Taiwan](https://www.icdf.org.tw/)** — Fondo de Cooperación y Desarrollo Internacional de Taiwán. Agencia ejecutora de Yguazú Digital. Financia proyectos de desarrollo en países aliados. [Leer más](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/).
 
+- **[MADES — Direccion de Cambio Climatico](http://www.mades.gov.py/)** — Direccion Nacional de Cambio Climatico y Direccion de Mercados de Carbono. Responsables de la NDC y el Plan Nacional de Adaptacion. [Leer mas](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/).
+
 ## Data centers e infraestructura
 
 - **Yguazú Digital** — Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. [Leer análisis](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/).

@@ -4,7 +4,7 @@ title: "Taiwán (República de China)"
 description: >
   Perfil de Taiwán en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
-last_modified_at: 2026-08-01
+last_modified_at: 2026-08-03
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
 entity_description: >
@@ -35,16 +35,26 @@ obs_cronologia:
     url: /cronologia/
     context: "Elecciones generales en Paraguay: prueba de fuego para la alianza con Taiwán."
 obs_directorio:
+  - label: "ICDF Taiwan"
+    url: https://www.icdf.org.tw/
+    context: "Fondo de Cooperación y Desarrollo Internacional de Taiwán. Agencia ejecutora de Yguazú Digital. Financia proyectos de desarrollo en países aliados. Leer más."
   - label: "Universidad Politécnica Taiwán-Paraguay"
     url: https://www.uptp.edu.py/
     context: "Nuevo campus en Luque con apertura prevista para 2027."
   - label: "Becas de Taiwán"
     url: https://www.icdf.org.tw/
     context: "Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. Leer más."
+obs_regulacion:
+  - label: "MoU Yguazu Digital (2026)"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "Propone replicar el modelo binacional 50/50 con Taiwan. Fase I: 10 MW y USD 200-300M con ICDF. Introduce el concepto de Embajada de Datos Digitales. Documento no vinculante. Sin marco regulatorio..."
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+  - label: "Yguazú Digital: gobernanza binacional para IA"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
   - label: "Formación tech"
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
     context: "Paraguay produce 400-600 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026."

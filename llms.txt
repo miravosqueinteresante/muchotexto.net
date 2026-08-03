@@ -28,6 +28,8 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Red eléctrica de Paraguay: el cuello de botella de la IA global](https://muchotexto.net/articulos/2026/07/08/red-electrica-paraguay-ia/)
 - [En 2027 Paraguay puede perder mil millones de dólares de Itaipú](https://muchotexto.net/articulos/2026/07/17/itaipu-2027-energia-paraguay/)
 
+- [Paraguay tiene energía 100% renovable y el cambio climático la amenaza](https://muchotexto.net/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)
+
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
 - [Ley de protección de datos en Paraguay: el marco que la era de la IA necesita](https://muchotexto.net/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)

@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-08-01
+last_modified_at: 2026-08-03
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
 entity_description: >
@@ -26,6 +26,9 @@ related_articles:
   - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
     context: "## Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url..."
+  - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
+    url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+    context: "1. Wikipedia — Electricity sector in Paraguay 2. Itaipú Binacional — Generation reports 3. [Banco Mundial — Paraguay Climate Change Knowledge..."
 entity_laws:
   - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
   - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"
@@ -43,6 +46,9 @@ obs_cronologia:
   - label: "2009"
     url: /cronologia/
     context: "Fernando Lugo y Lula firman acuerdo que triplica la compensación de Itaipú a Paraguay y compromete una línea de 500 kV — que nunca se construyó."
+  - label: "2022"
+    url: /cronologia/
+    context: "Sequía histórica en Paraguay: la cosecha de soja cae 60% por La Niña, Itaipú generación cae 35.6%. El PIB crece solo 0.1%."
 obs_directorio:
   - label: "PTI-PY (Parque Tecnológico Itaipú)"
     url: https://www.pti.org.py/
@@ -54,6 +60,16 @@ obs_regulacion:
   - label: "Anexo C del Tratado de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
     context: "Vence el 1 de enero de 2027. Negociaciones congeladas desde el escándalo ABIN (abril 2025). Sin acuerdo, Paraguay pierde ~$600M/año. Define la base financiera de la binacional hasta 2053."
+  - label: "Tratado de Itaipu (1973)"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo..."
+obs_casos-de-uso:
+  - label: "Yguazú Digital: gobernanza binacional para IA"
+    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
+  - label: "Paradoja climatica paraguaya: energia limpia, bosques talados"
+    url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+    context: "Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano...."
 ---
 
-5 articulos en el observatorio mencionan a Itaipú.
+6 articulos en el observatorio mencionan a Itaipú.
