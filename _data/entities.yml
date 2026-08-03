@@ -91,10 +91,12 @@
   name: HIVE Digital Technologies
   name_full: HIVE Digital Technologies Ltd.
   description: >
-    Empresa de infraestructura de cómputo GPU listada en bolsa. Opera un campus
-    de 100 MW en Yguazú con energía de Itaipú, con planes de expandir a 400 MW.
-    Lanzó BUZZ AI Cloud en marzo 2026, el primer cluster de GPU para IA en
-    Paraguay, en un data center Tier III en Asunción.
+    Empresa de infraestructura digital listada en NASDAQ (HIVE). Opera 300 MW en
+    Paraguay (200 MW Yguazú + 100 MW Valenzuela, fases completadas jun-nov 2025)
+    y construye 100 MW adicionales de cómputo GPU en Yguazú (energización: sept
+    2026). Plan total: 400 MW. Modelo dual: minería Bitcoin (93.5% revenue
+    FY2026) + HPC/AI cloud. Lanzó BUZZ AI Cloud en marzo 2026 en data center
+    Tier III en Asunción.
   category: empresa
 
 - slug: starlink

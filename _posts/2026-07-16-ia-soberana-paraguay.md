@@ -12,7 +12,7 @@ En 2023, Jensen Huang —el CEO de NVIDIA, la empresa que fabrica los chips que 
 
 El discurso es convincente. También es conveniente: NVIDIA vende las GPU que hacen falta para construir esa infraestructura, y cada país que compra la idea de la IA soberana es un país que le compra chips a Huang.
 
-Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies construye un campus de 100 megavatios de cómputo GPU en Yguazú (con energización prevista para septiembre de 2026), el proyecto binacional Yguazú Digital con Taiwán está en desarrollo, y el MITIC está construyendo un data center estatal Tier III. Por otro lado, Paraguay no tiene una estrategia nacional de IA, gasta el 0,14% de su PIB en investigación y desarrollo, y ocupa el puesto 14 de 19 países latinoamericanos en el índice ILIA de preparación para la inteligencia artificial. La brecha entre la infraestructura que se construye y la estrategia que no existe es el tema de este artículo.
+Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies ya opera 300 megavatios de infraestructura en Paraguay (200 MW en Yguazú, 100 MW en Valenzuela, entre minería Bitcoin y HPC) y construye un campus adicional de 100 MW de cómputo GPU en Yguazú (con energización prevista para septiembre de 2026 y finalización del data center Tier-III en el segundo semestre de 2027), el proyecto binacional Yguazú Digital con Taiwán está en desarrollo, y el MITIC está construyendo un data center estatal Tier III. Por otro lado, Paraguay no tiene una estrategia nacional de IA, gasta el 0,14% de su PIB en investigación y desarrollo, y ocupa el puesto 14 de 19 países latinoamericanos en el índice ILIA de preparación para la inteligencia artificial. La brecha entre la infraestructura que se construye y la estrategia que no existe es el tema de este artículo.
 
 ## Qué es la IA soberana (y por qué NVIDIA quiere que la compres)
 
@@ -38,7 +38,7 @@ Chile lidera el ILIA 2025 con 73,03 puntos sobre 100. Paraguay tiene 32,61. La r
 
 Paraguay no tiene un plan de IA soberana. Pero tiene piezas que ningún otro país de su tamaño está construyendo. El problema es que las piezas no forman un rompecabezas: están en cajas distintas.
 
-La pieza más grande se llama HIVE Digital Technologies. Esta empresa canadiense que cotiza en el NASDAQ construye en Yguazú un campus de 100 megavatios de cómputo GPU, alimentado íntegramente con electricidad de Itaipú, con energización prevista para septiembre de 2026 y finalización en el segundo semestre de 2027. El plan es expandirlo a 400 megavatios. De concretarse según lo planeado, Paraguay se posicionaría entre los países con mayor capacidad de cómputo GPU per cápita de América Latina.
+La pieza más grande se llama HIVE Digital Technologies. Esta empresa canadiense que cotiza en el NASDAQ ya opera 300 megavatios en Paraguay —200 MW en Yguazú y 100 MW en Valenzuela, completados en tres fases entre junio y noviembre de 2025— principalmente para minería Bitcoin. En paralelo, construye un campus adicional de 100 MW de cómputo GPU en Yguazú, alimentado con electricidad de Itaipú, con energización prevista para septiembre de 2026 y el data center Tier-III operativo en el segundo semestre de 2027. El plan total es alcanzar 400 megavatios en Paraguay, que representarían el 74% de su huella renovable global esperada (~540 MW en 2026). De concretarse según lo planeado, Paraguay se posicionaría entre los países con mayor capacidad de cómputo GPU per cápita de América Latina.
 
 La segunda pieza es el data center estatal Tier III que el MITIC está construyendo con financiamiento del BID, dentro del Programa de Apoyo a la Agenda Digital de 130 millones de dólares. La licitación se adjudicó en mayo de 2026 al Consorcio TIC. El plazo de ejecución es de 18 meses. La certificación es Uptime Institute Tier III. La capacidad proyectada: 5.000 máquinas virtuales y 2.000 contenedores. Este data center va a alojar NubePY, la nube gubernamental que ya atiende a 113 instituciones públicas y procesó más de 12 millones de transacciones digitales. No es un centro de cómputo para IA —no tiene GPU, no está diseñado para entrenar modelos—, pero es el prerrequisito sin el cual la IA soberana no puede existir: infraestructura donde el Estado controla sus propios datos.
 
@@ -76,7 +76,7 @@ Y, sobre todo, no significa comprarle todo a NVIDIA. La ironía de la IA soberan
 
 Paraguay está en una posición inusual. Tiene más infraestructura de IA que sentido estratégico sobre qué hacer con ella. La oportunidad no es competir con Silicon Valley. Es hacer tres cosas que ningún otro país está haciendo.
 
-La primera es un modelo de lenguaje bilingüe español-guaraní. No desde cero: afinando Llama o Mistral con datos del gobierno, las leyes, los textos escolares y el corpus lingüístico guaraní. Costo estimado: menos de 500.000 dólares. Infraestructura: HIVE Yguazú (cuyo data center de GPU estará operativo en 2027). Tiempo: seis meses. Esto pondría a Paraguay en el mapa como el país que resolvió la inclusión digital de su población en su propio idioma.
+La primera es un modelo de lenguaje bilingüe español-guaraní. No desde cero: afinando Llama o Mistral con datos del gobierno, las leyes, los textos escolares y el corpus lingüístico guaraní. Costo estimado: menos de 500.000 dólares. Infraestructura: HIVE Yguazú (donde el campus de 100 MW GPU estará energizado en septiembre de 2026 y el data center Tier-III en H2 2027). Tiempo: seis meses. Esto pondría a Paraguay en el mapa como el país que resolvió la inclusión digital de su población en su propio idioma.
 
 La segunda es terminar la estrategia nacional de IA. El diagnóstico de UNESCO ya está hecho. Los dos proyectos de ley están en el Congreso. Lo que falta es la decisión política de aprobarlos y asignar un presupuesto que no dependa de la cooperación internacional.
 
@@ -116,7 +116,7 @@ Leé el análisis completo sobre geopolítica tecnológica en la [guía de intel
       "name": "¿Tiene Paraguay una estrategia de IA soberana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Paraguay no tiene una estrategia nacional de IA aprobada. El país gasta el 0,14% de su PIB en I+D y ocupa el puesto 14 de 19 en el índice ILIA 2025. Sin embargo, está construyendo infraestructura relevante: HIVE construye 100 MW de cómputo GPU en Yguazú, el MITIC construye un data center estatal Tier III con financiamiento del BID, y Yguazú Digital con Taiwán está en desarrollo."
+        "text": "No. Paraguay no tiene una estrategia nacional de IA aprobada. El país gasta el 0,14% de su PIB en I+D y ocupa el puesto 14 de 19 en el índice ILIA 2025. Sin embargo, está construyendo infraestructura relevante: HIVE ya opera 300 MW y construye 100 MW adicionales de cómputo GPU en Yguazú, el MITIC construye un data center estatal Tier III con financiamiento del BID, y Yguazú Digital con Taiwán está en desarrollo."
       }
     },
     {

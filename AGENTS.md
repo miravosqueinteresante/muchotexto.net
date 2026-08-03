@@ -66,3 +66,19 @@ Si un dato es inverificable pero viene de una fuente primaria citada en el artí
 
 ### Regulación financiera comparada
 - **FCA sandbox UK**: "75% completaron pruebas, 90% obtuvieron autorización" — NO VERIFICADO
+
+### HIVE Digital Technologies (datos verificados con fuentes oficiales)
+Fuentes: HIVE FY2026 Earnings Release (jun 2026), HIVE Operations Paraguay page, HIVE homepage, Columbia University/NIPS announcement (jun 2026).
+
+- **Capacidad operativa**: 300 MW en Paraguay a julio 2026, distribuidos en:
+  - Yguazú Fase 1: completada junio 2025 (no abril)
+  - Yguazú Fase 2: completada principios de septiembre 2025
+  - Valenzuela Fase 3: completada 10 de noviembre de 2025
+  - NOTA: Los 100 MW de Valenzuela SON la Fase 3 de los 300 MW operativos. No confundir con la expansión GPU de 100 MW (ver abajo).
+- **Expansión GPU 100 MW** (NO es "Fase 3"): subestación en construcción en Yguazú. Energización: septiembre 2026. Data center Tier-III: ready-for-service en H2 2027.
+- **Total plan Paraguay**: 400 MW (~74% de huella renovable global de ~540 MW).
+- **Modelo de negocio**: DUAL (no "migración"). FY2026: minería Bitcoin $278.3M (93.5% revenue) + HPC/AI cloud $19.5M (6.5%).
+- **BUZZ AI Cloud**: lanzado 18 de marzo de 2026 en Asunción, en data center Tier III de Tigo Paraguay.
+- **Inversión**: adquirió sitio Yguazú (Bitfarms) por USD 56M en enero 2025. Revenue FY2026: $297.8M (+158% YoY).
+- **Ubicación**: Yguazú (no "Colonia Iguazú").
+- **Empleo**: sin cifra oficial verificable. Referencia de industria: 20-50 personas por 100 MW.
