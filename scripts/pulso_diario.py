@@ -244,10 +244,10 @@ PULSO TECH PARAGUAY
 
 🔎 FUENTES CONSULTADAS HOY
 
-{{', '.join(sources_used)}}
+{', '.join(sources_used)}
 
 DATOS PARA ANALIZAR (NOTICIAS REALES DE HOY):
-{{context}}
+{context}
 """
 
     return prompt
