@@ -11,6 +11,7 @@ import json
 import hashlib
 import logging
 import re
+import time
 import unicodedata
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree
@@ -65,7 +66,6 @@ def slugify(text: str, max_len: int = 50) -> str:
 RSS_FEEDS = [
     ("ABC Tecnologia", "https://www.abc.com.py/arc/outboundfeeds/rss/tecnologia/"),
     ("ABC Ciencia", "https://www.abc.com.py/arc/outboundfeeds/rss/ciencia/"),
-    ("ABC Economia", "https://www.abc.com.py/arc/outboundfeeds/rss/economia/"),
     ("ABC Nacionales", "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"),
     ("La Nacion", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
     ("NPY", "https://www.npy.com.py/index.rss"),
@@ -281,28 +281,32 @@ def call_gemini(prompt: str, system_prompt: str = "Eres un analista de tendencia
     }).encode()
 
     url = f"{GEMINI_ENDPOINT}?key={GEMINI_API_KEY}"
-    req = Request(
-        url,
-        data=payload,
-        headers={"Content-Type": "application/json"},
-    )
 
-    try:
-        with urlopen(req, timeout=120) as resp:
-            raw = resp.read().decode()
-            data = json.loads(raw)
-        if "error" in data:
-            log.error("Gemini API error: %s", json.dumps(data["error"], indent=2))
+    max_retries = 3
+    for attempt in range(1, max_retries + 1):
+        try:
+            req = Request(url, data=payload, headers={"Content-Type": "application/json"})
+            with urlopen(req, timeout=120) as resp:
+                raw = resp.read().decode()
+                data = json.loads(raw)
+            if "error" in data:
+                log.error("Gemini API error: %s", json.dumps(data["error"], indent=2))
+                return None
+            content = data["candidates"][0]["content"]["parts"][0]["text"]
+            return content
+        except HTTPError as e:
+            body = e.read().decode() if e.fp else "(no body)"
+            if e.code == 503 and attempt < max_retries:
+                wait = 2 ** attempt
+                log.warning("Gemini 503 (intento %d/%d), esperando %ds...", attempt, max_retries, wait)
+                time.sleep(wait)
+            else:
+                log.error("Gemini HTTP %s: %s", e.code, body[:500])
+                if attempt == max_retries:
+                    return None
+        except Exception as e:
+            log.error("Error calling Gemini API: %s", e)
             return None
-        content = data["candidates"][0]["content"]["parts"][0]["text"]
-        return content
-    except HTTPError as e:
-        body = e.read().decode() if e.fp else "(no body)"
-        log.error("Gemini HTTP %s: %s", e.code, body[:500])
-        return None
-    except Exception as e:
-        log.error("Error calling Gemini API: %s", e)
-        return None
 
 
 def clean_content(content: str) -> str:
