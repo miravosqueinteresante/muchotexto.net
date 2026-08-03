@@ -2,7 +2,7 @@
 import os, re, glob
 
 base = os.path.join(os.path.dirname(__file__), '..', '_posts')
-files = glob.glob(os.path.join(base, '*-pulso-paraguay.md'))
+files = glob.glob(os.path.join(base, '*-pulso-tech-paraguay.md'))
 
 count = 0
 for f in files:

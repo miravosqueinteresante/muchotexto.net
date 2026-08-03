@@ -338,18 +338,21 @@ def save_post(content: str):
 
     topic_match = re.search(r"🌡\s*TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
     if not topic_match:
+        # new Pulso Tech format: extract first section title after the header
+        topic_match = re.search(r"📅[^\n]+\n\n([^\n]+)", content)
+    if not topic_match:
         topic_match = re.search(r"TEMA\s*#1\s*DEL\s*DÍA\s*:\s*(.+?)$", content, re.MULTILINE | re.IGNORECASE)
 
     if topic_match:
         topic = topic_match.group(1).strip()
         topic_slug = slugify(topic)
-        slug = f"{date_str}-{topic_slug}-pulso-paraguay"
-        title = f"Pulso Paraguay: {topic} — {fmt_fecha(now)}"
+        slug = f"{date_str}-{topic_slug}-pulso-tech-paraguay"
+        title = f"Pulso Tech Paraguay: {topic} — {fmt_fecha(now)}"
         # enforce max 80 chars for Pulso titles (SEO rule relaxed for automated content)
         TITLE_MAX = 80
         STOPWORDS = {"de", "del", "la", "el", "los", "las", "en", "con", "por", "para", "que", "un", "una", "y", "e", "o", "a", "al"}
         if len(title) > TITLE_MAX:
-            prefix = "Pulso Paraguay: "
+            prefix = "Pulso Tech Paraguay: "
             suffix = f" — {fmt_fecha(now)}"
             max_topic = TITLE_MAX - len(prefix) - len(suffix)
             if max_topic > 10:
@@ -374,8 +377,8 @@ def save_post(content: str):
                     topic_short = topic_short[:topic_short.rfind(" ")].rstrip(" ,;:-—")
             title = f"{prefix}{topic_short}{suffix}"
     else:
-        slug = f"{date_str}-pulso-paraguay"
-        title = f"Pulso Paraguay — {fmt_fecha(now)}"
+        slug = f"{date_str}-pulso-tech-paraguay"
+        title = f"Pulso Tech Paraguay — {fmt_fecha(now)}"
 
     frontmatter = f"""---
 layout: post

@@ -80,7 +80,7 @@ def date_str() -> str:
 
 def read_pulso_post(date: str) -> tuple[str | None, str | None]:
     import glob
-    pattern = os.path.join(POSTS_DIR, f"{date}-*-pulso-paraguay.md")
+    pattern = os.path.join(POSTS_DIR, f"{date}-*-pulso-tech-paraguay.md")
     matches = sorted(glob.glob(pattern))
     if not matches:
         return None, None
@@ -105,8 +105,8 @@ def call_gemini(pulso_content: str, pulso_title: str | None = None) -> str | Non
     fecha = fmt_fecha_para_titulo(now_py())
     context = f"Hoy es {fecha}."
     if pulso_title:
-        context += f" El Pulso Paraguay de hoy se titula: \"{pulso_title}\". IMPORTANTE: el título de esta Editorial NO debe repetir las mismas palabras clave principales del título del Pulso. Debe enfocarse en el ángulo de análisis/opinión, no en la noticia en sí."
-    context += f"\n\nContenido del Pulso Paraguay:\n\n{pulso_content}\n\nGenera la Editorial."
+        context += f" El Pulso Tech Paraguay de hoy se titula: \"{pulso_title}\". IMPORTANTE: el título de esta Editorial NO debe repetir las mismas palabras clave principales del título del Pulso. Debe enfocarse en el ángulo de análisis/opinión, no en la noticia en sí."
+    context += f"\n\nContenido del Pulso Tech Paraguay:\n\n{pulso_content}\n\nGenera la Editorial."
 
     payload = json.dumps({
         "systemInstruction": {
