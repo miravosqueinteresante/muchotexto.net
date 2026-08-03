@@ -372,16 +372,33 @@ def save_post(content: str):
         topic_slug = slugify(topic)
         slug = f"{date_str}-{topic_slug}-pulso-paraguay"
         title = f"Pulso Paraguay: {topic} — {fmt_fecha(now)}"
-        # enforce max 70 chars, cut topic at word boundary
-        if len(title) > 70:
+        # enforce max 80 chars for Pulso titles (SEO rule relaxed for automated content)
+        TITLE_MAX = 80
+        STOPWORDS = {"de", "del", "la", "el", "los", "las", "en", "con", "por", "para", "que", "un", "una", "y", "e", "o", "a", "al"}
+        if len(title) > TITLE_MAX:
             prefix = "Pulso Paraguay: "
             suffix = f" — {fmt_fecha(now)}"
-            max_topic = 70 - len(prefix) - len(suffix)
+            max_topic = TITLE_MAX - len(prefix) - len(suffix)
             if max_topic > 10:
-                cut = topic.rfind(" ", 0, max_topic)
-                topic_short = topic[:cut].rstrip(" ,;:-—") if cut > 10 else topic[:max_topic].rstrip(" ,;:-—")
+                # find all word boundaries within max_topic
+                positions = [i for i in range(max_topic) if topic[i] == " "]
+                # try last valid cut (not before a stopword of 1-3 chars)
+                for pos in reversed(positions):
+                    next_word = topic[pos+1:].split(" ")[0].strip(" ,;:-—")
+                    if len(next_word) > 3 or next_word.lower() not in STOPWORDS:
+                        topic_short = topic[:pos].rstrip(" ,;:-—")
+                        break
+                else:
+                    cut = topic.rfind(" ", 0, max_topic)
+                    topic_short = topic[:cut].rstrip(" ,;:-—") if cut > 10 else topic[:max_topic].rstrip(" ,;:-—")
             else:
                 topic_short = topic[:50].rstrip(" ,;:-—")
+            title = f"{prefix}{topic_short}{suffix}"
+            # strip trailing stopwords from topic for cleaner truncation
+            for _ in range(3):
+                last = topic_short.split(" ")[-1].lower().rstrip(" ,;:-—")
+                if last in STOPWORDS and len(last) <= 3:
+                    topic_short = topic_short[:topic_short.rfind(" ")].rstrip(" ,;:-—")
             title = f"{prefix}{topic_short}{suffix}"
     else:
         slug = f"{date_str}-pulso-paraguay"
