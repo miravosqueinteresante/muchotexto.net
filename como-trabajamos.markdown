@@ -3,7 +3,7 @@ layout: page
 title: Cómo trabajamos
 permalink: /como-trabajamos/
 description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuentes, verificamos datos, usamos inteligencia artificial y corregimos errores."
-last_modified_at: 2026-08-01
+last_modified_at: 2026-08-03
 ---
 
 **muchotexto.net** es el observatorio de inteligencia artificial en Paraguay. Utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
@@ -12,17 +12,17 @@ last_modified_at: 2026-08-01
 
 No producimos noticias de primera mano. Tomamos información ya publicada por medios paraguayos y la organizamos, sintetizamos e interpretamos.
 
-Nuestro sistema recolecta diariamente el contenido de **15 fuentes de noticias** vía RSS, entre ellas ABC Color, La Nación, Última Hora, Diario HOY, La Tribuna, NPY, RDN y otros medios nacionales. Los criterios de selección son: que el medio tenga cobertura nacional verificable, que ofrezca un feed RSS público y actualizado, que represente un espectro editorial diverso y que tenga una trayectoria reconocible en el periodismo paraguayo. Revisamos periódicamente esta selección y podemos agregar o retirar fuentes según su consistencia y relevancia. Toda la información que procesamos proviene de fuentes públicas y atribuibles.
+Nuestro sistema recolecta diariamente el contenido de **7 fuentes de noticias** vía RSS: ABC Tecnología, ABC Ciencia, ABC Nacionales, La Nación, NPY, Diario HOY y La Tribuna. El Pulso Tech Paraguay aplica un filtro temático estricto: solo procesa noticias relacionadas con inteligencia artificial, infraestructura digital, energía para data centers, regulación tecnológica, startups, ciencia aplicada y economía digital. Esta selección deliberada responde al posicionamiento del sitio como observatorio de IA en Paraguay: cada pieza de contenido —desde el artículo de fondo hasta la nota diaria— refuerza la misma señal temática.
 
 ## Qué hace la inteligencia artificial
 
 La IA asiste en tres tareas específicas:
 
-- **Lectura y resumen**: procesa cientos de titulares y notas para identificar los temas de mayor volumen de conversación cada día.
-- **Síntesis estructurada**: organiza la información en categorías temáticas (política, economía, seguridad, deportes, cultura), estima la temperatura social de cada tema y redacta resúmenes basados exclusivamente en el contenido de las fuentes.
-- **Análisis editorial**: a partir del resumen diario, genera un artículo de opinión que busca patrones, conexiones y preguntas relevantes sobre la realidad paraguaya.
+- **Lectura y filtrado temático**: procesa cientos de titulares y notas para identificar exclusivamente los temas de IA, tecnología, infraestructura digital y energía que son relevantes para el observatorio. El contenido ajeno a estos ejes temáticos se descarta.
+- **Síntesis estructurada**: organiza la información en categorías temáticas (infraestructura digital, energía y data centers, inteligencia artificial, regulación tech, innovación y startups, ciencia aplicada), estima la relevancia de cada tema y redacta resúmenes basados exclusivamente en el contenido de las fuentes.
+- **Análisis editorial**: a partir del Pulso Tech, genera un artículo de opinión que busca patrones, conexiones y preguntas relevantes sobre la infraestructura digital y la inteligencia artificial en Paraguay.
 
-Para el Pulso Paraguay y la Editorial Diaria usamos **Gemini 3 Flash** (Google Gemini API, tier gratuito). Para los artículos de fondo, usamos **DeepSeek** como modelo principal de investigación y redacción asistida. Cada modelo se asigna según la tarea: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario. Cada interacción con la IA está gobernada por un _system prompt_ que establece reglas estrictas: no inventar hechos ni nombres, no especular sin fundamento, usar español paraguayo natural y mantener una perspectiva crítica pero no partidista. La tabla completa de modelos está al final de esta página.
+Para el Pulso Tech Paraguay y la Editorial Diaria usamos **Gemini 3.1 Flash Lite** (Google Gemini API, tier gratuito). Para los artículos de fondo, usamos **DeepSeek** como modelo principal de investigación y redacción asistida. Cada modelo se asigna según la tarea: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario. Cada interacción con la IA está gobernada por un _system prompt_ que establece reglas estrictas: no inventar hechos ni nombres, filtrar exclusivamente contenido tech/IA/energía, usar español paraguayo profesional sin jerga coloquial y mantener una perspectiva analítica pero no partidista. La tabla completa de modelos está al final de esta página.
 
 La IA **no decide** qué se publica ni cuál es la línea editorial. Su rol es exclusivamente instrumental: leer, resumir, organizar y redactar borradores.
 
@@ -77,7 +77,7 @@ Los modelos de lenguaje utilizados en las distintas etapas del proyecto son:
 | Modelo | Uso principal |
 |---|---|
 | **DeepSeek** | Investigación con agentes, razonamiento analítico y redacción asistida de artículos de fondo |
-| **Gemini 3 Flash** | Generación automatizada de Pulso Paraguay y Editorial Diaria (vía Google Gemini API, tier gratuito) |
+| **Gemini 3.1 Flash Lite** | Generación automatizada de Pulso Tech Paraguay y Editorial Diaria (vía Google Gemini API, tier gratuito) |
 | **MiniMax** | Procesamiento de contenido y tareas de síntesis |
 | **Qwen** | Asistencia en desarrollo, mantenimiento del sitio y validación de código |
 
