@@ -11,18 +11,18 @@ description: "Paraguay genera el 99.9% de su electricidad con fuentes renovables
 En 2024 Paraguay generó el 99,998% de su electricidad con fuentes renovables. Es un número que ningún país industrializado puede igualar. Pero esa electricidad sale casi enteramente de dos represas —Itaipú y Yacyretá— que dependen de un solo río, el Paraná, cuyo caudal está bajando. Al mismo tiempo, el país perdió 6,3 millones de hectáreas de bosque en dos décadas, una superficie equivalente a todo el departamento de Presidente Hayes. Paraguay es una paradoja climática: el país con la matriz eléctrica más limpia de Sudamérica es también uno de los que más carbono emite por hectárea talada.
 
 > **En resumen:**
-> - Paraguay tiene la matriz eléctrica más limpia de Sudamérica (99,9% renovable) y también la más concentrada: Itaipú y Yacyretá suman el 97% de la capacidad instalada en una sola cuenca hidrográfica.
+> - Paraguay tiene la matriz eléctrica más limpia de Sudamérica (99,9% renovable) y también la más concentrada: Itaipú y Yacyretá suman el 97% de la capacidad hidroeléctrica en una sola cuenca.
 > - La generación de Itaipú cayó un 35,6% durante la sequía de 2021 —de 103,1 a 66,4 teravatios-hora— cuando el Paraná tocó su nivel más bajo en 77 años. El embalse solo almacena un mes de caudal promedio.
 > - Paraguay emite entre 28 y 52 millones de toneladas de CO2 equivalente por año debido a la deforestación, contra 0,01 millones de toneladas del sector eléctrico. Es un emisor neto.
-> - A diferencia de Uruguay (29% eólica), Costa Rica (geotermia de base) y Noruega (1.600 represas en múltiples cuencas), Paraguay no tiene generación solar ni eólica de escala utility. Cero diversificación.
+> - A diferencia de Uruguay (41% eólica), Costa Rica (geotermia de base) y Noruega (1.600 represas en múltiples cuencas), Paraguay no tiene generación solar ni eólica de escala utility.
 
 El gobierno paraguayo promociona al país como una potencia de energía limpia. La etiqueta es técnicamente correcta si uno mira solo la matriz eléctrica. Pero es profundamente engañosa si uno mira el sistema energético completo, la deforestación y la vulnerabilidad climática de la infraestructura que genera esa electricidad.
 
 ## Una matriz 100% renovable que depende de dos represas y un solo río
 
-La capacidad instalada de generación eléctrica en Paraguay es de aproximadamente 8.800 megavatios. Itaipú aporta 7.000 MW (80%), Yacyretá 1.500 MW (17%) y Acaray 210 MW (2,4%). La generación térmica —plantas de emergencia que funcionan con gasoil— representa menos del 0,1% del total y solo se activa en picos de demanda o fallas de transmisión. No hay parques solares conectados al sistema interconectado nacional. No hay parques eólicos. No hay biomasa eléctrica significativa.
+La capacidad instalada de generación eléctrica en Paraguay es de aproximadamente 8.980 megavatios. Itaipú aporta 7.000 MW (78%), Yacyretá 900 MW (10%) y Acaray 210 MW (2,3%). La generación térmica —plantas de emergencia que funcionan con gasoil— representa menos del 0,1% del total y solo se activa en picos de demanda o fallas de transmisión. No hay parques solares conectados al sistema interconectado nacional. No hay parques eólicos. No hay biomasa eléctrica significativa.
 
-Esta configuración convierte a Paraguay en un caso único entre los países con matrices eléctricas cercanas al 100% renovable. Uruguay genera el 29% de su electricidad con viento y otro 25% con biomasa, además de hidroeléctrica y solar. Costa Rica tiene un 12% de generación geotérmica de base —las plantas geotérmicas funcionan 24 horas al día, no dependen del clima— que respalda su matriz hidroeléctrica mayoritaria. Noruega, el único país desarrollado con una matriz comparable, tiene más de 1.600 centrales hidroeléctricas distribuidas en docenas de cuencas independientes. Ninguno de estos países concentra el 97% de su capacidad en dos represas de una sola cuenca.
+Esta configuración convierte a Paraguay en un caso único entre los países con matrices eléctricas cercanas al 100% renovable. Uruguay genera el 41% de su electricidad con viento y otro 25% con biomasa, además de hidroeléctrica y solar. Costa Rica tiene un 12% de generación geotérmica de base —las plantas geotérmicas funcionan 24 horas al día, no dependen del clima— que respalda su matriz hidroeléctrica mayoritaria. Noruega, el único país desarrollado con una matriz comparable, tiene más de 1.600 centrales hidroeléctricas distribuidas en docenas de cuencas independientes. Ninguno de estos países concentra el 97% de su capacidad en dos represas de una sola cuenca.
 
 En Paraguay, si el caudal del Paraná baja, baja todo. Es un riesgo de concentración que ningún otro país con matriz limpia ha aceptado.
 
@@ -34,7 +34,7 @@ Paraguay no sufrió apagones por esa sequía. Pero no fue porque el sistema estu
 
 Ese colchón no es eterno. La demanda eléctrica paraguaya crece a un ritmo de entre 5% y 8% anual, impulsada por la expansión de data centers, la electrificación del transporte y el crecimiento vegetativo. Las proyecciones del Banco Mundial indican que Paraguay podría alcanzar el pico de su capacidad de consumo hacia 2030. Si para entonces no diversificó su matriz, una sequía como la de 2021 ya no será absorbida por el colchón de exportación: golpeará directamente al consumidor paraguayo.
 
-El embalse de Itaipú, además, no fue diseñado para regular sequías prolongadas. Su capacidad de almacenamiento equivale a aproximadamente un mes de caudal promedio del Paraná. En términos hidrológicos, es una represa de pasada: lo que entra, sale. No puede acumular agua de años húmedos para usar en años secos. Las proyecciones climáticas para la cuenca del Paraná bajo escenarios de emisiones intermedias (SSP2-4.5) sugieren un aumento de temperatura de 1,5°C para 2050 y una reducción de la precipitación media. Menos lluvia, más evaporación, mismo embalse.
+El embalse de Itaipú, además, no fue diseñado para regular sequías prolongadas. Su capacidad de almacenamiento equivale a aproximadamente un mes de caudal promedio del Paraná. En términos hidrológicos, es una represa de pasada: lo que entra, sale. No puede acumular agua de años húmedos para usar en años secos. Las proyecciones climáticas para la cuenca del Paraná bajo escenarios de cambio climático sugieren un aumento de temperatura de aproximadamente 1,5°C para mediados de siglo. Las proyecciones de precipitación tienen una incertidumbre muy alta —algunos modelos proyectan reducción y otros aumento—, lo que hace que la planificación energética a largo plazo sea especialmente difícil.
 
 ## La paradoja del carbono: limpio en electricidad, sucio en bosques
 
@@ -46,7 +46,7 @@ En total, Paraguay emite entre 75 y 98 millones de toneladas de CO2 equivalente 
 
 ## Sin plan B: el vacío de la diversificación energética
 
-Paraguay no tiene un solo parque solar conectado al sistema interconectado nacional. No tiene un solo parque eólico. No tiene una sola planta de biomasa de escala utility. La capacidad instalada de energías renovables no convencionales —solar distribuida en techos, pequeñas turbinas aisladas— no llega a los 50 megavatios en un sistema de 8.800 MW.
+Paraguay no tiene un solo parque solar conectado al sistema interconectado nacional. No tiene un solo parque eólico. No tiene una sola planta de biomasa de escala utility. La capacidad instalada de energías renovables no convencionales —solar distribuida en techos, pequeñas turbinas aisladas— es insignificante en un sistema de 8.980 MW.
 
 El potencial existe. Paraguay recibe una irradiación solar promedio de 5,5 kilovatios-hora por metro cuadrado por día en la región occidental —comparable a la del Desierto de Atacama en Chile, que alberga algunos de los parques solares más grandes del mundo—. El Chaco paraguayo tiene vientos constantes con velocidades medias superiores a 6 metros por segundo a 80 metros de altura, viables para generación eólica. Pero no hay proyectos.
 
