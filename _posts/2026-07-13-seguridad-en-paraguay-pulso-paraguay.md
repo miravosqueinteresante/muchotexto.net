@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en Paraguay — 13 de julio de 2026"
-description: "Seguridad en Paraguay: La preocupación por la seguridad ciudadana ha dominado las conversaciones de hoy en Paraguay. Pulso Paraguay — 13 de julio de 2026."
+description: "Seguridad en Paraguay: La preocupación por la seguridad ciudadana ha dominado las conversaciones de hoy en Paraguay. Pulso Tech Paraguay — 13 de julio de 2026."
+
 
 
 

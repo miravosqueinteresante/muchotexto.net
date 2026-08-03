@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Selección Paraguaya y su debut en el Mundial — 13 de junio de 2026"
-description: "Selección Paraguaya y su debut en el Mundial: La caída de Paraguay ante Estados Unidos en su primer partido mundialista ha generado una gran conversación en redes. Pulso Paraguay — 13 de junio de 2026."
+description: "Selección Paraguaya y su debut en el Mundial: La caída de Paraguay ante Estados Unidos en su primer partido mundialista ha generado una gran conversación en redes. Pulso Tech Paraguay — 13 de junio de 2026."
+
 
 
 

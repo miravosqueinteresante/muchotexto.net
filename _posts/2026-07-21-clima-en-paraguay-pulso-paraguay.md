@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Clima en Paraguay — 21 de julio de 2026"
-description: "Clima en Paraguay: Las alertas de tormentas para cuatro departamentos generan preocupación en la población. Pulso Paraguay — 21 de julio de 2026."
+description: "Clima en Paraguay: Las alertas de tormentas para cuatro departamentos generan preocupación en la población. Pulso Tech Paraguay — 21 de julio de 2026."
+
 
 
 

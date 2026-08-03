@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Vuelco de bus paraguayo en…  — 15 de julio de 2026"
-description: "Vuelco de bus paraguayo en Brasil: La tragedia en Brasil genera gran preocupación y discusión en redes sociales. Pulso Paraguay — 15 de julio de 2026."
+description: "Vuelco de bus paraguayo en Brasil: La tragedia en Brasil genera gran preocupación y discusión en redes sociales. Pulso Tech Paraguay — 15 de julio de 2026."
+
 
 
 

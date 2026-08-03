@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Crisis sanitaria en hospitales — 3 de junio de 2026"
-description: "Crisis sanitaria en hospitales: La falta de insumos y recursos en hospitales genera preocupación y descontento social. Pulso Paraguay — 3 de junio de 2026."
+description: "Crisis sanitaria en hospitales: La falta de insumos y recursos en hospitales genera preocupación y descontento social. Pulso Tech Paraguay — 3 de junio de 2026."
+
 
 
 

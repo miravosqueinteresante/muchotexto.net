@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Del abrazo al hachazo  — 29 de julio de 2026"
-description: "Del abrazo al hachazo republicano: La controversia en torno a Beto Ovelar y su intento fallido de negociaciones en la Cámara de Diputados ha generado un gran volumen de conversación hoy. Pulso Paraguay — 29 de julio de 2026."
+description: "Del abrazo al hachazo republicano: La controversia en torno a Beto Ovelar y su intento fallido de negociaciones en la Cámara de Diputados ha generado un gran volumen de conversación hoy. Pulso Tech Paraguay — 29 de julio de 2026."
+
 
 
 

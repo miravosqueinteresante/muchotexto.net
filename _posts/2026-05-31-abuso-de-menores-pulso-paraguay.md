@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Abuso de menores — 31 de mayo de 2026"
-description: "Abuso de menores: El debate sobre el abuso de menores genera una fuerte controversia en la sociedad paraguaya. Pulso Paraguay — 31 de mayo de 2026."
+description: "Abuso de menores: El debate sobre el abuso de menores genera una fuerte controversia en la sociedad paraguaya. Pulso Tech Paraguay — 31 de mayo de 2026."
+
 
 
 

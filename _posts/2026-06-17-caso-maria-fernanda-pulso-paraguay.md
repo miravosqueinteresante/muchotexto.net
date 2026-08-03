@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Pulso Paraguay: Caso María Fernanda — 17 de junio de 2026"
-description: "Caso María Fernanda: El caso sigue generando repercusiones por los testimonios que revelan presuntos encubrimientos. Pulso Paraguay — 17 de junio de 2026."
+description: "Caso María Fernanda: El caso sigue generando repercusiones por los testimonios que revelan presuntos encubrimientos. Pulso Tech Paraguay — 17 de junio de 2026."
+
 
 
 
