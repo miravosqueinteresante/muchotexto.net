@@ -166,121 +166,85 @@ def build_prompt(news_items: list, sources_used: list) -> str:
             context += f"  {item['summary'][:300]}\n"
         context += "\n"
 
-    prompt = f"""Eres un analista de tendencias y sentimiento social especializado en Paraguay.
-Generá el reporte "Pulso Diario Paraguay" para hoy ({dia} {fecha}) en el formato exacto que se indica abajo.
+    prompt = f"""Eres un analista de tecnologia e infraestructura digital especializado en Paraguay.
+Genera el reporte "Pulso Tech Paraguay" para hoy ({dia} {fecha}) usando SOLO las noticias de IA, tecnologia, infraestructura digital, energia para data centers y regulacion tech.
+
+EL FILTRO TEMATICO ES OBLIGATORIO:
+SOLO debes cubrir noticias relacionadas con: inteligencia artificial, machine learning, automatizacion, data centers, infraestructura digital, energia electrica para uso industrial/tecnologico, ciberseguridad, gobierno digital, regulacion de datos y tecnologia, fibra optica, conectividad, startups de tecnologia, ciencia aplicada, innovacion. IGNORA TODO el resto: politica partidaria, futbol, crimen comun, accidentes, salud publica no-digital, entretenimiento general, clima.
 
 INSTRUCCIONES:
-1. Analizá las noticias reales listadas abajo (extraídas de RSS de medios paraguayos hoy).
-2. NO inventes hechos, cifras ni nombres de personas. Los nombres propios deben preservarse EXACTAMENTE como aparecen en las noticias RSS. Si no estás 100% seguro del nombre de una persona, omití el nombre y referite al cargo ("el intendente", "el ministro", etc.).
-3. La temperatura social debe justificarse con datos de volumen y sentimiento estimado.
-4. El Insight del Día es la sección más importante: conectá los temas y proponé una lectura de fondo.
-5. El TEMA #1 debe ser el que más volumen de conversación generó según las noticias disponibles.
-6. Idioma: español de Paraguay (voseo, "che", etc.).
-7. Sin opiniones personales del agente — solo síntesis de lo que circula.
-8. NO uses formato markdown como **negritas** o *cursiva* — solo texto plano.
-9. Cada categoría (🏛💰⚽🎭🚨💻🔥) debe aparecer UNA SOLA VEZ. Si hay varias noticias de la misma categoría, ponelas todas bajo el mismo subtítulo emoji.
-10. La sección 💻 TECNOLOGÍA es OBLIGATORIA. Elegí la noticia más relevante de ABC Tecnología y ABC Ciencia (IA, internet, telecomunicaciones, innovación, ciencia aplicada). Desarrollala en 2-3 líneas con el dato concreto del feed. Prohibido usar "Sin novedades" — ambos feeds siempre tienen contenido del día.
-11. La sección 🔎 FUENTES CONSULTADAS HOY debe listar EXACTAMENTE los medios que aparecen en la línea "FUENTES CONSULTADAS HOY" más abajo. NO agregues ni quites fuentes. Copiala textual.
+1. Analiza las noticias reales listadas abajo y EXTRAE SOLO las que cumplen el filtro tematico.
+2. Si hay MENOS de 3 noticias que cumplen el filtro, genera un mensaje corto: "Sin novedades de IA/tech suficientes para el Pulso del dia." y TERMINA. No generes contenido sobre otros temas.
+3. NO inventes hechos, cifras ni nombres de personas. Nombres propios EXACTOS como en las noticias.
+4. Idioma: español de Paraguay (voseo, "che", etc.).
+5. Sin opiniones personales — solo sintesis de lo que circula.
+6. NO uses formato markdown (**negritas**, *cursiva*) — solo texto plano.
+7. Cada categoria (🌐⚡🤖🔬📋🚀) debe aparecer UNA SOLA VEZ con todas sus noticias bajo el mismo emoji.
+8. El Insight del Dia es la seccion mas importante: conecta los temas tech del dia.
 
-FORMATO EXACTO DEL REPORTE (respetá esta estructura):
+FORMATO EXACTO (si hay >=3 noticias tech):
 
-PULSO DIARIO PARAGUAY
-📅 {dia} {fecha}  |  🕐 Última actualización: {now.strftime("%H:%M")}
+PULSO TECH PARAGUAY
+📅 {dia} {fecha}  |  🕐 Ultima actualizacion: {now.strftime("%H:%M")}
 
-🌡 TEMA #1 DEL DÍA: [Nombre del tema]
+🌐 INFRAESTRUCTURA DIGITAL
 
-[Una línea que resume por qué es el #1]
+[Titulo del tema principal — data centers, fibra, conectividad]
 
-🏛 POLÍTICA
+[2-3 lineas. Dato concreto obligatorio: MW, USD, km de fibra, etc.]
+📊 Relevancia: [Baja / Media / Alta]
 
-[Título del tema principal]
+⚡ ENERGIA Y DATA CENTERS
 
-[2-3 líneas de desarrollo. Dato concreto obligatorio.]
-📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+[Titulo del tema principal — consumo electrico industrial/tech, tarifas, ANDE]
 
-🔹 [Tema secundario si existe]
+[2-3 lineas. Cifras de MW, tarifas, contratos obligatorios.]
+📊 Relevancia: [Baja / Media / Alta]
 
-[1-2 líneas]
+🤖 INTELIGENCIA ARTIFICIAL
 
-💰 ECONOMÍA
+[Titulo del tema principal — IA, machine learning, automatizacion, modelos]
 
-[Título del tema principal]
+[2-3 lineas. Empresa, tecnologia, aplicacion concreta.]
+📊 Relevancia: [Baja / Media / Alta]
 
-[2-3 líneas. Números/cifras obligatorios.]
-📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+📋 REGULACION Y GOBERNANZA TECH
 
-⚽ DEPORTES
+[Titulo del tema principal — leyes, decretos, ciberseguridad, gobierno digital]
 
-[Título del tema principal]
+[2-3 lineas. Numero de ley, fecha, institucion.]
+📊 Relevancia: [Baja / Media / Alta]
 
-[2-3 líneas. Resultado o dato deportivo concreto.]
-📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+🚀 INNOVACION Y STARTUPS
 
-🔹 [Tema secundario si existe]
+[Titulo del tema principal — emprendimientos tech, inversiones, aceleradoras]
 
-🎭 ENTRETENIMIENTO & CULTURA
+[2-3 lineas. Monto, ronda, empresa.]
+📊 Relevancia: [Baja / Media / Alta]
 
-[Título del tema principal]
+🔬 CIENCIA APLICADA
 
-[2-3 líneas.]
-📊 Temperatura social: [Baja / Media / Alta / Explosiva]
+[Titulo del tema principal — investigacion, papers, descubrimientos con impacto tech]
 
-🚨 SEGURIDAD & SOCIEDAD
+[2-3 lineas. Hallazgo concreto, institucion, publicacion.]
+📊 Relevancia: [Baja / Media / Alta]
 
-[Título del tema principal]
-
-[2-3 líneas.]
-📊 Temperatura social: [Baja / Media / Alta / Explosiva]
-
-💻 TECNOLOGÍA
-
-[Título del tema principal]
-
-[2-3 líneas. Noticias de innovación, ciencia, internet, startups, IA o telecomunicaciones de los feeds.]
-📊 Temperatura social: [Baja / Media / Alta / Explosiva]
-
-🔥 VIRALES & TENDENCIAS
-
-[Título del viral o tendencia]
-
-[2-3 líneas. Origen y por qué pegó.]
-📊 Temperatura social: [Baja / Media / Alta / Explosiva]
-
-🔹 [Tema secundario si existe]
-[1-2 líneas]
-
-📈 RANKING DEL DÍA (por volumen de conversación estimado)
+📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 [Tema]
 2. 🥈 [Tema]
 3. 🥉 [Tema]
-4. [Tema]
-5. [Tema]
 
-💡 INSIGHT DEL DÍA
+💡 INSIGHT TECH DEL DIA
 
-[Un párrafo corto con la observación más interesante o
-el patrón que conecta los temas del día. El "por qué"
-detrás de la conversación del día.]
-
-🔍 ANÁLISIS DE SENTIMIENTO POR CATEGORÍA
-
-| Categoría | Volumen | Positivo | Neutral | Negativo | Temperatura |
-|-----------|---------|----------|---------|----------|-------------|
-| 🏛 Política | | % | % | % | 🟢/🟡/🟠/🔴 |
-| 💰 Economía | | % | % | % | 🟢/🟡/🟠/🔴 |
-| ⚽ Deportes | | % | % | % | 🟢/🟡/🟠/🔴 |
-| 🎭 Cultura | | % | % | % | 🟢/🟡/🟠/🔴 |
-| 🚨 Seguridad | | % | % | % | 🟢/🟡/🟠/🔴 |
-| 💻 Tecnología | | % | % | % | 🟢/🟡/🟠/🔴 |
-| 🔥 Virales | | % | % | % | 🟢/🟡/🟠/🔴 |
+[Un parrafo corto conectando los temas tech del dia — el patron, la tendencia o la pregunta que emerge.]
 
 🔎 FUENTES CONSULTADAS HOY
 
-{', '.join(sources_used)}
+{{', '.join(sources_used)}}
 
 DATOS PARA ANALIZAR (NOTICIAS REALES DE HOY):
-{context}
+{{context}}
 """
 
     return prompt
