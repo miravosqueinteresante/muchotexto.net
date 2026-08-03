@@ -42,7 +42,7 @@ for f in files:
     else:
         date_fmt = ''
 
-    desc = f'{topic}: {sentence} Pulso Paraguay \u2014 {date_fmt}.'
+    desc = f'{topic}: {sentence} Pulso Tech Paraguay \u2014 {date_fmt}.'
     desc = desc.replace('"', "'")
 
     lines[3] = f'description: "{desc}"\n'
