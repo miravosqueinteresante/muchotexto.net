@@ -179,8 +179,8 @@ INSTRUCCIONES:
 4. Idioma: español de Paraguay (voseo, "che", etc.).
 5. Sin opiniones personales — solo sintesis de lo que circula.
 6. NO uses formato markdown (**negritas**, *cursiva*) — solo texto plano.
-7. Cada categoria (🌐⚡🤖🔬📋🚀) debe aparecer UNA SOLA VEZ con todas sus noticias bajo el mismo emoji.
-8. El Insight del Dia es la seccion mas importante: conecta los temas tech del dia.
+7. Las secciones son CONDICIONALES: solo inclui las categorias que tengan al menos una noticia del filtro tech. Si hay 3 categorias con noticias, el Pulso tiene 3 secciones. Si hay 6, tiene 6. NUNCA pongas una seccion sin contenido. El orden de las secciones debe reflejar la relevancia (mas noticias = mas arriba).
+8. El Insight Tech del Dia es la seccion mas importante: conecta los temas tech del dia.
 
 FORMATO EXACTO (si hay >=3 noticias tech):
 
