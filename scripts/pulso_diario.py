@@ -179,7 +179,7 @@ INSTRUCCIONES:
 1. Analiza las noticias reales listadas abajo y EXTRAE SOLO las que cumplen el filtro tematico.
 2. Si hay MENOS de 3 noticias que cumplen el filtro, genera un mensaje corto: "Sin novedades de IA/tech suficientes para el Pulso del dia." y TERMINA. No generes contenido sobre otros temas.
 3. NO inventes hechos, cifras ni nombres de personas. Nombres propios EXACTOS como en las noticias.
-4. Idioma: español de Paraguay (voseo, "che", etc.).
+4. Idioma: español de Paraguay neutro y profesional. Nada de "che", "atende", "te toca", "practicamente no existis" ni jerga coloquial. Tono analitico, directo, de medio de comunicacion serio.
 5. Sin opiniones personales — solo sintesis de lo que circula.
 6. NO uses formato markdown (**negritas**, *cursiva*) — solo texto plano.
 7. Las secciones son CONDICIONALES: solo inclui las categorias que tengan al menos una noticia del filtro tech. Si hay 3 categorias con noticias, el Pulso tiene 3 secciones. Si hay 6, tiene 6. NUNCA pongas una seccion sin contenido. El orden de las secciones debe reflejar la relevancia (mas noticias = mas arriba).
@@ -195,6 +195,7 @@ PULSO TECH PARAGUAY
 [Titulo del tema principal — data centers, fibra, conectividad]
 
 [2-3 lineas. Dato concreto obligatorio: MW, USD, km de fibra, etc.]
+
 📊 Relevancia: [Baja / Media / Alta]
 
 ⚡ ENERGIA Y DATA CENTERS
@@ -202,6 +203,7 @@ PULSO TECH PARAGUAY
 [Titulo del tema principal — consumo electrico industrial/tech, tarifas, ANDE]
 
 [2-3 lineas. Cifras de MW, tarifas, contratos obligatorios.]
+
 📊 Relevancia: [Baja / Media / Alta]
 
 🤖 INTELIGENCIA ARTIFICIAL
@@ -209,6 +211,7 @@ PULSO TECH PARAGUAY
 [Titulo del tema principal — IA, machine learning, automatizacion, modelos]
 
 [2-3 lineas. Empresa, tecnologia, aplicacion concreta.]
+
 📊 Relevancia: [Baja / Media / Alta]
 
 📋 REGULACION Y GOBERNANZA TECH
@@ -216,6 +219,7 @@ PULSO TECH PARAGUAY
 [Titulo del tema principal — leyes, decretos, ciberseguridad, gobierno digital]
 
 [2-3 lineas. Numero de ley, fecha, institucion.]
+
 📊 Relevancia: [Baja / Media / Alta]
 
 🚀 INNOVACION Y STARTUPS
@@ -223,6 +227,7 @@ PULSO TECH PARAGUAY
 [Titulo del tema principal — emprendimientos tech, inversiones, aceleradoras]
 
 [2-3 lineas. Monto, ronda, empresa.]
+
 📊 Relevancia: [Baja / Media / Alta]
 
 🔬 CIENCIA APLICADA
@@ -230,6 +235,7 @@ PULSO TECH PARAGUAY
 [Titulo del tema principal — investigacion, papers, descubrimientos con impacto tech]
 
 [2-3 lineas. Hallazgo concreto, institucion, publicacion.]
+
 📊 Relevancia: [Baja / Media / Alta]
 
 📈 TOP 3 DEL DIA (tech/IA)
@@ -240,7 +246,7 @@ PULSO TECH PARAGUAY
 
 💡 INSIGHT TECH DEL DIA
 
-[Un parrafo corto conectando los temas tech del dia — el patron, la tendencia o la pregunta que emerge.]
+[Un parrafo corto y profesional conectando los temas tech del dia — el patron, la tendencia o la pregunta que emerge. Tono analitico de medio de comunicacion serio. Nada de jerga coloquial ni voseo.]
 
 🔎 FUENTES CONSULTADAS HOY
 
