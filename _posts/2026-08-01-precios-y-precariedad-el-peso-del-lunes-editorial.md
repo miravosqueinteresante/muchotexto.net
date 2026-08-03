@@ -4,6 +4,7 @@ title: "Precios y precariedad, el peso del lunes"
 description: "Los emblemas privados de combustible confirmaron que a partir del lunes los precios en los surtidores van a subir, marcando el final de un fin de semana que arrancó con festejos por el Día de la Amistad."
 
 
+
 date: 2026-08-01 18:00:00 -0300
 last_modified_at: 2026-08-01
 categories: editorial
