@@ -163,7 +163,17 @@ def build_prompt(news_items: list, sources_used: list) -> str:
 Genera el reporte "Pulso Tech Paraguay" para hoy ({dia} {fecha}) usando SOLO las noticias de IA, tecnologia, infraestructura digital, energia para data centers y regulacion tech.
 
 EL FILTRO TEMATICO ES OBLIGATORIO:
-SOLO debes cubrir noticias relacionadas con: inteligencia artificial, machine learning, automatizacion, data centers, infraestructura digital, energia electrica para uso industrial/tecnologico, ciberseguridad, gobierno digital, regulacion de datos y tecnologia, fibra optica, conectividad, startups de tecnologia, ciencia aplicada, innovacion. IGNORA TODO el resto: politica partidaria, futbol, crimen comun, accidentes, salud publica no-digital, entretenimiento general, clima.
+SOLO debes cubrir noticias relacionadas con estos ambitos (criterio AMPLIO): 
+- Inteligencia artificial, machine learning, automatizacion, robotica, modelos de lenguaje
+- Data centers, infraestructura digital, fibra optica, conectividad, internet, telecomunicaciones 
+- Energia electrica: ANDE, Itaipu, tarifas, consumo industrial, criptomineria, hidrogeno verde, renovables vinculadas a infraestructura
+- Regulacion y gobierno digital: leyes de datos, ciberseguridad, MITIC, tramites online, identidad digital, proteccion de datos
+- Inversiones tech, startups, innovacion, maquila de servicios digitales, parques tecnologicos
+- Ciencia aplicada, investigacion, papers, universidades con proyectos tech
+- Economia digital: fintech, blockchain, billeteras, pagos electronicos, comercio electronico
+- Educacion tecnologica, formacion de talento tech, becas STEM
+
+EXCLUYE completamente: politica partidaria, elecciones, escandalos de corrupcion no-digitales, futbol y deportes, crimen comun, accidentes de transito, clima, salud publica no-digital, farandula, noticias policiales, noticias internacionales sin vinculo con Paraguay.
 
 INSTRUCCIONES:
 1. Analiza las noticias reales listadas abajo y EXTRAE SOLO las que cumplen el filtro tematico.
@@ -368,7 +378,7 @@ description: "{sanitize_yaml(make_meta_description(content))}"
 date: {date_str}
 last_modified_at: {date_str}
 categories: pulso-paraguay
-tags: pulso paraguay actualidad política economía tecnología deportes
+tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
 
 """
