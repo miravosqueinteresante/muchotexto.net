@@ -20,7 +20,7 @@ El gobierno paraguayo promociona al país como una potencia de energía limpia. 
 
 ## Una matriz 100% renovable que depende de dos represas y un solo río
 
-La capacidad instalada de generación eléctrica en Paraguay es de aproximadamente 8.980 megavatios. Itaipú aporta 7.000 MW (78%), Yacyretá 900 MW (10%) y Acaray 210 MW (2,3%). La generación térmica —plantas de emergencia que funcionan con gasoil— representa menos del 0,1% del total y solo se activa en picos de demanda o fallas de transmisión. No hay parques solares conectados al sistema interconectado nacional. No hay parques eólicos. No hay biomasa eléctrica significativa.
+La capacidad instalada de generación eléctrica disponible para Paraguay es de aproximadamente 8.760 megavatios. Itaipú aporta 7.000 MW (80%), Yacyretá unos 1.550 MW (18%) y Acaray 210 MW (2%). La generación térmica —plantas de emergencia que funcionan con gasoil— representa menos del 0,1% del total y solo se activa en picos de demanda o fallas de transmisión. No hay parques solares conectados al sistema interconectado nacional. No hay parques eólicos. No hay biomasa eléctrica significativa.
 
 Esta configuración convierte a Paraguay en un caso único entre los países con matrices eléctricas cercanas al 100% renovable. Uruguay genera el 41% de su electricidad con viento y otro 25% con biomasa, además de hidroeléctrica y solar. Costa Rica tiene un 12% de generación geotérmica de base —las plantas geotérmicas funcionan 24 horas al día, no dependen del clima— que respalda su matriz hidroeléctrica mayoritaria. Noruega, el único país desarrollado con una matriz comparable, tiene más de 1.600 centrales hidroeléctricas distribuidas en docenas de cuencas independientes. Ninguno de estos países concentra el 97% de su capacidad en dos represas de una sola cuenca.
 
@@ -32,7 +32,7 @@ Entre 2019 y 2022, la cuenca del Paraná experimentó la sequía más severa des
 
 Paraguay no sufrió apagones por esa sequía. Pero no fue porque el sistema estuviera preparado. Fue porque el país consume menos del 16% de su mitad de Itaipú —el resto se exporta a Brasil a precio de costo—. Durante la sequía, lo que cayó fue la exportación, no el consumo interno. El colchón de ventas a Brasil absorbió el golpe.
 
-Ese colchón no es eterno. La demanda eléctrica paraguaya crece a un ritmo de entre 5% y 8% anual, impulsada por la expansión de data centers, la electrificación del transporte y el crecimiento vegetativo. Las proyecciones del Banco Mundial indican que Paraguay podría alcanzar el pico de su capacidad de consumo hacia 2030. Si para entonces no diversificó su matriz, una sequía como la de 2021 ya no será absorbida por el colchón de exportación: golpeará directamente al consumidor paraguayo.
+Ese colchón no es eterno. La demanda eléctrica paraguaya crece a un ritmo que en los últimos años alcanzó picos de entre 12% y 21% anual, según datos de ANDE, impulsada por la expansión de data centers, la electrificación del transporte y el crecimiento vegetativo. Las proyecciones del Banco Mundial indican que Paraguay podría alcanzar el pico de su capacidad de consumo hacia 2030. Si para entonces no diversificó su matriz, una sequía como la de 2021 ya no será absorbida por el colchón de exportación: golpeará directamente al consumidor paraguayo.
 
 El embalse de Itaipú, además, no fue diseñado para regular sequías prolongadas. Su capacidad de almacenamiento equivale a aproximadamente un mes de caudal promedio del Paraná. En términos hidrológicos, es una represa de pasada: lo que entra, sale. No puede acumular agua de años húmedos para usar en años secos. Las proyecciones climáticas para la cuenca del Paraná bajo escenarios de cambio climático sugieren un aumento de temperatura de aproximadamente 1,5°C para mediados de siglo. Las proyecciones de precipitación tienen una incertidumbre muy alta —algunos modelos proyectan reducción y otros aumento—, lo que hace que la planificación energética a largo plazo sea especialmente difícil.
 
@@ -46,11 +46,11 @@ En total, Paraguay emite entre 75 y 98 millones de toneladas de CO2 equivalente 
 
 ## Sin plan B: el vacío de la diversificación energética
 
-Paraguay no tiene un solo parque solar conectado al sistema interconectado nacional. No tiene un solo parque eólico. No tiene una sola planta de biomasa de escala utility. La capacidad instalada de energías renovables no convencionales —solar distribuida en techos, pequeñas turbinas aisladas— es insignificante en un sistema de 8.980 MW.
+Paraguay no tiene un solo parque solar conectado al sistema interconectado nacional. No tiene un solo parque eólico. No tiene una sola planta de biomasa de escala utility. La capacidad instalada de energías renovables no convencionales —solar distribuida en techos, pequeñas turbinas aisladas— es insignificante en un sistema de 8.760 MW.
 
 El potencial existe. Paraguay recibe una irradiación solar promedio de 5,5 kilovatios-hora por metro cuadrado por día en la región occidental —comparable a la del Desierto de Atacama en Chile, que alberga algunos de los parques solares más grandes del mundo—. El Chaco paraguayo tiene vientos constantes con velocidades medias superiores a 6 metros por segundo a 80 metros de altura, viables para generación eólica. Pero no hay proyectos.
 
-La razón no es técnica ni económica. Es institucional. Paraguay no tiene un plan nacional de diversificación energética. No existe una meta vinculante de penetración de energías renovables no convencionales. La Ley 7599 de 2024 abrió el sector eléctrico a la inversión privada por primera vez, pero el Decreto 6034 que la reglamenta está enfocado en grandes consumidores industriales, no en generadores renovables independientes. No hay un mecanismo de subastas de energía renovable como el que usaron Uruguay —desde 2005— y Brasil —desde 2009— para construir sus parques eólicos.
+La razón no es técnica ni económica. Es institucional. Paraguay no tiene un plan nacional de diversificación energética. No existe una meta vinculante de penetración de energías renovables no convencionales. La Ley 7599 de 2025 abrió el sector eléctrico a la inversión privada por primera vez, y su decreto reglamentario (Decreto 6034 de 2026) habilitó seis fuentes renovables no convencionales —solar, eólica, biomasa, biogás, geotermia y almacenamiento— y creó las figuras de autogenerador, cogenerador, exportador y prosumidor. Pero a un año de su promulgación, no se ha concretado ningún proyecto utility-scale bajo este marco. Paraguay sigue sin tener un mecanismo de subastas de energía renovable como el que usaron Uruguay —desde 2006— y Brasil —desde 2009— para construir sus parques eólicos.
 
 ## Lo que dice (y no dice) la política climática paraguaya
 
@@ -81,7 +81,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 9. [Wikipedia — Climate change in Paraguay](https://en.wikipedia.org/wiki/Climate_change_in_Paraguay)
 10. [CEPAL — ILIA 2024](https://www.cepal.org/es)
 11. [Ley 7190/23 — Bonos de carbono Paraguay](https://www.bacn.gov.py/)
-12. [Ley 7599/2024 — Apertura sector eléctrico](https://www.bacn.gov.py/)
+12. [Ley 7599/2025 — Apertura sector eléctrico y Decreto 6034/2026](https://www.bacn.gov.py/)
 
 <script type="application/ld+json">
 {
@@ -93,7 +93,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
       "name": "¿Es Paraguay realmente 100% renovable en energía eléctrica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Técnicamente sí: en 2024 el 99,998% de la electricidad paraguaya se generó con fuentes renovables, principalmente hidroeléctrica (Itaipú, Yacyretá, Acaray). La generación térmica con combustibles fósiles representa menos del 0,1%. Sin embargo, el 97% de la capacidad instalada depende de solo dos represas en una única cuenca hidrográfica (el río Paraná), lo que representa un riesgo extremo de concentración."
+        "text": "Técnicamente sí: en 2024 el 99,998% de la electricidad paraguaya se generó con fuentes renovables, principalmente hidroeléctrica (Itaipú, Yacyretá, Acaray). La generación térmica con combustibles fósiles representa menos del 0,1%. Sin embargo, el 97% de la capacidad hidroeléctrica depende de solo dos represas en una única cuenca hidrográfica (el río Paraná), lo que representa un riesgo extremo de concentración."
       }
     },
     {
