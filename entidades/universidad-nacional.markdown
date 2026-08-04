@@ -20,6 +20,9 @@ related_articles:
   - title: "Por qué Asunción no es una ciudad inteligente todavía"
     url: /articulos/2026/07/17/smart-cities-asuncion-paraguay/
     context: "Medellín tiene un sistema de teleféricos públicos que conecta barrios pobres con el metro. Seis líneas, 14 kilómetros, 22 millones de pasajeros al año. La línea K costó 26 millones de dólares en 2004 y redujo un viaje de dos horas y media a 30..."
+  - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
+    url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+    context: "En noviembre de 2024, una empresa canadiense llamada HIVE Digital Technologies puso una piedra en el suelo de Valenzuela, un distrito del departamento de Cordillera con menos de 10.000 habitantes. Seis meses después, esa piedra se había convertido..."
   - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque 'no hay tiempo'. El contenido se volvió ruido."
@@ -44,9 +47,6 @@ related_articles:
   - title: "¿Qué es realmente el fútbol?"
     url: /articulos/2026/06/10/que-es-realmente-el-futbol/
     context: "La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte; es una religión sin catedral, una guerra sin fusiles, un..."
-  - title: "Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026"
-    url: /articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/
-    context: "Estados Unidos llegó al Mundial 2026 como anfitrión. Nadie lo puso en la lista de favoritos. Brasil, Argentina, Francia, Alemania, España — las potencias de siempre ocupaban los titulares. Pero dos partidos después, USA lidera el Grupo D con 6..."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/

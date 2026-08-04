@@ -26,6 +26,9 @@ related_articles:
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
+  - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
+    url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+    context: "> **En resumen;** > - HIVE Digital opera 300 MW en Yguazú y Valenzuela tras invertir USD 56M en la compra del predio y USD 19M en depósitos de energía con ANDE. La construcción duró seis meses y empleó entre 800 y 1.500 trabajadores temporales. La..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
@@ -76,4 +79,4 @@ obs_casos-de-uso:
     context: "Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos."
 ---
 
-5 articulos en el observatorio mencionan a ANDE.
+6 articulos en el observatorio mencionan a ANDE.

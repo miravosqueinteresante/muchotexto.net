@@ -20,10 +20,13 @@ related_articles:
   - title: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
     url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
     context: "> **En resumen;** > - HIVE Digital Technologies es el único inversor tech de escala global con presencia real en Paraguay; 300 MW operativos, USD 56M en adquisiciones y 68% de su capacidad mundial en suelo paraguayo. > - Crusoe AI, X8Cloud y ASUS no."
+  - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
+    url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+    context: "En noviembre de 2024, una empresa canadiense llamada HIVE Digital Technologies puso una piedra en el suelo de Valenzuela, un distrito del departamento de Cordillera con menos de 10.000 habitantes. Seis meses después, esa piedra se había convertido..."
 obs_directorio:
   - label: "HIVE Digital Technologies"
     url: https://www.hivedigitaltechnologies.com/
     context: "Opera 300 MW de minería Bitcoin (Tier-I) en Yguazú y Valenzuela con energía de Itaipú. Adquirió Yguazú de Bitfarms por USD 56M en 2025. Lanzó BUZZ AI Cloud en Asunción (Tier-III) y planea un data..."
 ---
 
-3 articulos en el observatorio mencionan a HIVE Digital Technologies.
+4 articulos en el observatorio mencionan a HIVE Digital Technologies.

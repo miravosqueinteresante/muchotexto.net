@@ -26,6 +26,8 @@ Cada caso enlaza con el artículo completo.
 
 - **[Paradoja climatica paraguaya: energia limpia, bosques talados](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)** — Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano. Emisor neto.
 
+- **[Impacto local de un data center en una ciudad paraguaya](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — HIVE Digital en Yguazú y Valenzuela: 300 MW, USD 56M de inversión, 60-150 empleos permanentes. La construcción empleó 800-1.500 trabajadores temporales. La infraestructura eléctrica es privada y no hay evidencia de beneficio directo a la red residencial.
+
 ## Salud
 
 - **[Telemedicina nacional](/articulos/2026/07/16/ia-salud-paraguay/)** — Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta por WhatsApp.

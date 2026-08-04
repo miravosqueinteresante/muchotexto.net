@@ -52,7 +52,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 ## 2025
 
-- **Noviembre 2024** — [HIVE Digital inicia construcción](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) de su primer data center de 100 MW en Valenzuela, Paraguay.
+- **Noviembre 2024** — [HIVE Digital inicia construcción](/articulos/2026/08/04/impacto-local-data-center-paraguay/) de su primer data center de 100 MW en Valenzuela, Paraguay. La construcción demandó entre 800 y 1.500 trabajadores temporales.
 - **Enero 2025** — [HIVE adquiere Yguazú 200 MW](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) de Bitfarms por USD 56M. Asume USD 19M en contratos con ANDE.
 - **Enero 2025** — [Bitfarms abandona Paraguay](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/) con pérdida contable de $30M. ~10 mineras cierran en 2 años.
 - **Abril 2025** — Escándalo [ABIN: inteligencia brasileña espía a funcionarios paraguayos](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) durante negociaciones del Anexo C. Paraguay **suspende todas las negociaciones**.

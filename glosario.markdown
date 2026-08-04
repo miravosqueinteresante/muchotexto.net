@@ -13,8 +13,8 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 ## Infraestructura y energía
 
-**Data center** — Instalación que alberga miles de servidores funcionando 24/7 para procesar y almacenar datos. Yguazú Digital proyecta un data center de 1.000 MW en su fase final. Desde los servidores que entrenan a ChatGPT hasta las transacciones financieras, todo pasa por un data center en algún lugar del mundo.
-→ [Qué es un data center y por qué Paraguay quiere construir uno](/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)
+**Data center** — Instalacion que alberga miles de servidores funcionando 24/7. En Paraguay, HIVE Digital opera 300 MW en Yguazu y Valenzuela. Un data center de 100 MW emplea entre 20 y 50 personas en operacion permanente y entre 800 y 1.500 durante la construccion. La infraestructura electrica y de fibra optica es privada y no beneficia automaticamente a la comunidad local.
+→ [Impacto local de un data center](/articulos/2026/08/04/impacto-local-data-center-paraguay/)
 
 **MW (megavatio)** — Unidad de potencia eléctrica. La capacidad de un data center se mide en MW porque la electricidad es su principal insumo. Yguazú Digital planea 10 MW en su fase 1 y 1.000 MW en su fase 3. Un MW abastece aproximadamente 750 hogares.
 → [Red eléctrica de Paraguay](/articulos/2026/07/08/red-electrica-paraguay-ia/)

@@ -46,8 +46,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[Paraguay tiene energía 100% renovable y el cambio climático la amenaza]({% post_url 2026-08-03-energia-renovable-cambio-climatico-paraguay %})** — El 99.9% de la electricidad es renovable pero el 97% depende de dos represas en una sola cuenca. Sin diversificación solar ni eólica.
 
-**Próximamente:**
-- Impacto local de un data center de $200M
+- **[Qué le pasa a una ciudad paraguaya cuando llega un data center]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
 
 ## Geopolítica y regulación tech
 

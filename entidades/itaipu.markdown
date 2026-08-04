@@ -28,7 +28,7 @@ related_articles:
     context: "## Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
-    context: "1. Wikipedia — Electricity sector in Paraguay 2. Itaipú Binacional — Generation reports 3. [Banco Mundial — Paraguay Climate Change Knowledge..."
+    context: "1. Wikipedia ES — Sector eléctrico en Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
 entity_laws:
   - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
   - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"

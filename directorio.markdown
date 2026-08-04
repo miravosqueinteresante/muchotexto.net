@@ -24,6 +24,8 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 
 - **[MADES — Direccion de Cambio Climatico](http://www.mades.gov.py/)** — Direccion Nacional de Cambio Climatico y Direccion de Mercados de Carbono. Responsables de la NDC y el Plan Nacional de Adaptacion. [Leer mas](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/).
 
+**Nota:** HIVE Digital reporta inversiones en escuelas de Valenzuela (aire acondicionado, cableado electrico, pintura). La cobertura de prensa local es limitada y no hay verificacion independiente del impacto comunitario. [Leer analisis completo](/articulos/2026/08/04/impacto-local-data-center-paraguay/).
+
 ## Data centers e infraestructura
 
 - **Yguazú Digital** — Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. [Leer análisis](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/).

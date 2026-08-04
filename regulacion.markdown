@@ -59,8 +59,12 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 ## Cambio climatico y energia
 
-- **[Ley 7190/23 — Bonos de carbono](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)** — Marco legal para la comercializacion de creditos de carbono. Reglamentada por Decreto 3369/2025. Crea el Registro Nacional de Mitigacion (Res. 047/2026).
 - **[NDC 3.0 (2025)](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)** — Contribucion Nacionalmente Determinada: reduccion del 20% de emisiones bajo BAU para 2030/2035 (10% incondicional + 10% condicional). Requiere USD 24.000M en financiamiento externo.
+
+## Data centers e infraestructura digital
+
+- **[Ley 3001/2006](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — Evaluacion de impacto ambiental. Exige compensacion del 1% del costo del proyecto para actividades de alto impacto. Potencialmente aplicable a data centers pero nunca invocada para el sector.
+- **[Sin regulacion especifica para data centers](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — Paraguay no tiene cuotas de contratacion local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental especificas para data centers. La Ley 7599 y la Ley de Maquila son marcos habilitadores, no regulatorios.
 
 ## Hidrogeno verde
 
