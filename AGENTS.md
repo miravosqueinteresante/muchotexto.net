@@ -83,6 +83,19 @@ Fuentes: HIVE FY2026 Earnings Release (jun 2026), HIVE Operations Paraguay page,
 - **Ubicación**: Yguazú (no "Colonia Iguazú").
 - **Empleo**: sin cifra oficial verificable. Referencia de industria: 20-50 personas por 100 MW.
 
+### Data centers e impacto local (datos verificados ago 2026)
+Fuentes: HIVE FY2026 Earnings, HIVE Paraguay operations page, JLARC 2024, Bitfarms SEC filings.
+
+- **HIVE timeline**: adquisición Yguazú enero 2025, construcción 300 MW completada jun-nov 2025. NO usar "noviembre 2024" como fecha de inicio.
+- **HIVE sede**: operativa en San Antonio, Texas. Listada en TSX (Canadá) y Nasdaq. No es "empresa canadiense" en sentido operativo.
+- **HIVE empleo construcción**: 800-1.500 trabajadores temporales durante 6 meses (estimación sectorial, sin cifra oficial).
+- **Bitfarms salida de Paraguay**: vendió Yguazú enero 2025, completó salida enero 2026 con venta de Paso Pe (70 MW, hasta USD 30M). NO decir "abandonó el país en enero 2025".
+- **Subestación Yguazú**: 200 MW (sobredimensionada al doble de Fase 1). Ubicada en Yguazú, NO en Valenzuela.
+- **Infraestructura de data centers**: privada y dedicada. Sin evidencia de beneficio a red eléctrica residencial o conectividad local en Yguazú/Valenzuela.
+- **Loudoun County, Virginia**: 200+ DCs. USD 733M en impuestos a la propiedad (JLARC 2024). 38% del Fondo General. NO usar "45% de ingresos" ni "USD 600M".
+- **Irlanda**: 23% consumo eléctrico de DCs en 2025 (20% en 2023). Moratoria CRU 2021-2025. NO usar "EirGrid impuso moratoria" ni "hogares rurales" (son urbanos).
+- **Paraguay regulación DC**: sin regulación específica. Ley 294/1993 de EIA aplica genéricamente, nunca aplicada al sector. Sin cuotas de contratación local ni obligaciones de beneficio comunitario.
+
 ### Energía, clima y deforestación (datos verificados ago 2026)
 Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global Forest Watch, Itaipú Binacional, ANDE, ABC Color.
 
