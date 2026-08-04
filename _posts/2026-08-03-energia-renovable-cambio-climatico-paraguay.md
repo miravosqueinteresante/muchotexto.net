@@ -70,18 +70,18 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
 ## Fuentes
 
-1. [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
-2. [Itaipú Binacional — Generation reports](https://www.itaipu.gov.py/)
-3. [Banco Mundial — Paraguay Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/paraguay)
-4. [IPCC AR6 WG1 — Regional projections for South America](https://www.ipcc.ch/report/ar6/wg1/)
-5. [UNFCCC — Paraguay NDC 3.0 (2025)](https://unfccc.int/documents/)
-6. [Global Forest Watch — Paraguay deforestation data](https://www.globalforestwatch.org/country/PRY)
+1. [Wikipedia ES — Sector eléctrico en Paraguay](https://es.wikipedia.org/wiki/Sector_el%C3%A9ctrico_en_Paraguay)
+2. [ANDE — Portal oficial](https://www.ande.gov.py/)
+3. [Itaipú Binacional — Informes de generación](https://www.itaipu.gov.py/)
+4. [Banco Mundial — Paraguay Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/paraguay)
+5. [Global Forest Watch — Paraguay deforestation data](https://www.globalforestwatch.org/country/PRY)
+6. [UNFCCC — Paraguay NDC 3.0 (2025)](https://unfccc.int/documents/)
 7. [MADES — Dirección Nacional de Cambio Climático](http://www.mades.gov.py/)
-8. [IRENA — Renewable capacity statistics 2025](https://www.irena.org/)
-9. [Wikipedia — Climate change in Paraguay](https://en.wikipedia.org/wiki/Climate_change_in_Paraguay)
-10. [CEPAL — ILIA 2024](https://www.cepal.org/es)
-11. [Ley 7190/23 — Bonos de carbono Paraguay](https://www.bacn.gov.py/)
-12. [Ley 7599/2025 — Apertura sector eléctrico y Decreto 6034/2026](https://www.bacn.gov.py/)
+8. [Ley 7190/23 — Bonos de carbono Paraguay](https://www.bacn.gov.py/)
+9. [Ley 7599/2025 — Apertura sector eléctrico y Decreto 6034/2026](https://www.bacn.gov.py/)
+10. [ABC Color — Cobertura sector energético](https://www.abc.com.py/)
+11. [IRENA — Renewable capacity statistics 2025](https://www.irena.org/)
+12. [Ember Climate — Paraguay electricity data](https://ember-climate.org/countries/paraguay/)
 
 <script type="application/ld+json">
 {
