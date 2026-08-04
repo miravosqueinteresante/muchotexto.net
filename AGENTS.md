@@ -82,3 +82,28 @@ Fuentes: HIVE FY2026 Earnings Release (jun 2026), HIVE Operations Paraguay page,
 - **Inversión**: adquirió sitio Yguazú (Bitfarms) por USD 56M en enero 2025. Revenue FY2026: $297.8M (+158% YoY).
 - **Ubicación**: Yguazú (no "Colonia Iguazú").
 - **Empleo**: sin cifra oficial verificable. Referencia de industria: 20-50 personas por 100 MW.
+
+### Energía, clima y deforestación (datos verificados ago 2026)
+Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global Forest Watch, Itaipú Binacional, ANDE, ABC Color.
+
+- **Matriz eléctrica**: 99,998% renovable en 2024. Composición: Itaipú 86%, Yacyretá 11%, Acaray 3%. Térmica: 0,002%.
+- **Capacidad instalada**: ~8.760 MW disponibles para Paraguay. Itaipú 7.000 MW (80%), Yacyretá ~1.550 MW (18%), Acaray 210 MW (2%). NO usar cifras de Wikipedia en inglés para Yacyretá — la mitad paraguaya real es ~1.550-1.600 MW (fuente: ANDE/ABC Color 2025-2026), no 900 MW.
+- **Concentración**: Itaipú + Yacyretá = 97% de la capacidad hidroeléctrica en una sola cuenca (Paraná).
+- **Sequía 2019-2022**: Paraná en mínimo histórico de 77 años. Generación Itaipú cayó 35,6%: 103,1 TWh (2016) → 66,4 TWh (2021).
+- **Embalse Itaipú**: capacidad de ~1 mes de caudal promedio. Esencialmente represa de pasada.
+- **Deforestación 2000-2020**: 6,3M ha perdidas (25,8% de cobertura). Concentrada en Chaco (Boquerón, Alto Paraguay).
+- **Emisiones electricidad**: ~0,01 MtCO2e/año. LULUCF (deforestación): 28-52 MtCO2e/año. Total país: 75-98 MtCO2e/año. Paraguay es EMISOR NETO.
+- **Paraguay no tiene**: parques solares utility-scale, parques eólicos, biomasa eléctrica significativa. Cero diversificación renovable no hidro.
+- **Ley 7599**: promulgada en diciembre de 2025 (NO 2024). Abre sector eléctrico a inversión privada. Decreto 6034 de mayo 2026: habilita 6 fuentes renovables (solar, eólica, biomasa, biogás, geotermia, almacenamiento) + autogenerador, cogenerador, exportador, prosumidor.
+- **NDC 3.0**: presentada noviembre 2025. Meta: 20% reducción bajo BAU para 2030/2035 (10% incondicional + 10% condicional, USD 24.000M financiamiento externo).
+- **Demanda eléctrica**: crecimiento 12-21% anual (ANDE, datos recientes). NO usar 5-8% (dato desactualizado).
+
+### Fuentes primarias paraguayas — verificación obligatoria
+Para cualquier dato sobre Paraguay, el fact-checker DEBE consultar:
+- Wikipedia en español (no solo en inglés): https://es.wikipedia.org/
+- ANDE (portal y noticias): https://www.ande.gov.py/
+- BACN (leyes): https://www.bacn.gov.py/
+- MADES (clima/ambiente): http://www.mades.gov.py/
+- ABC Color (secciones Tecnología, Economía, Nacionales): https://www.abc.com.py/
+- La Nación: https://www.lanacion.com.py/
+- Itaipú Binacional: https://www.itaipu.gov.py/
