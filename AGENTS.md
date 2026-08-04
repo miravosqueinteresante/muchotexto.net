@@ -95,6 +95,7 @@ Fuentes: HIVE FY2026 Earnings, HIVE Paraguay operations page, JLARC 2024, Bitfar
 - **Loudoun County, Virginia**: 200+ DCs. USD 733M en impuestos a la propiedad (JLARC 2024). 38% del Fondo General. NO usar "45% de ingresos" ni "USD 600M".
 - **Irlanda**: 23% consumo eléctrico de DCs en 2025 (20% en 2023). Moratoria CRU 2021-2025. NO usar "EirGrid impuso moratoria" ni "hogares rurales" (son urbanos).
 - **Paraguay regulación DC**: sin regulación específica. Ley 294/1993 de EIA aplica genéricamente, nunca aplicada al sector. Sin cuotas de contratación local ni obligaciones de beneficio comunitario.
+- **Consumo intensivo ANDE (ago 2026)**: 41 empresas registradas, 943,8 MW de demanda conjunta (~13,5% de la energía de Itaipú que corresponde a Paraguay). ANDE proyecta ingresos de ~USD 350M en 2026 (+18,6% interanual). Fuente: ABC Color Negocios, 3-ago-2026.
 
 ### Energía, clima y deforestación (datos verificados ago 2026)
 Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global Forest Watch, Itaipú Binacional, ANDE, ABC Color.
