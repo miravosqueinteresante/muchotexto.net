@@ -2,7 +2,7 @@
 layout: post
 title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
 date: 2026-08-04 12:00:00 -0300
-last_modified_at: 2026-08-04
+last_modified_at: 2026-08-04 22:00:00 -0300
 categories: articulos
 tags: [infraestructura-energia, sociedad-trabajo, data-center, empleo, desarrollo-local]
 description: "HIVE Digital invirtió USD 56M en Yguazú y opera 300 MW. La comunidad recibió mejoras en escuelas y empleo temporal en construcción. Después, la relación se vuelve más compleja."
@@ -56,7 +56,9 @@ Suecia muestra un camino distinto. En Luleå, una ciudad de 80.000 habitantes a 
 
 ## El vacío legal paraguayo
 
-Paraguay no tiene una sola regulación específica para data centers. La Ley 7599 de 2025 y el Decreto 6034 de 2026 abrieron el sector eléctrico a la inversión privada y crearon la categoría de consumidores intensivos. La Ley de Maquila (60/90) permite a los data centers exportar servicios de cómputo con un impuesto del 1% sobre el valor agregado nacional y exención de IVA y aranceles en la importación de equipos. Son marcos habilitadores —atraen inversión—, no regulatorios —no protegen a la comunidad—.
+Paraguay no tiene una sola regulación específica para data centers. Y sin embargo el sector ya es significativo: según datos de ANDE publicados en agosto de 2026, 41 empresas están registradas como consumidores intensivos especiales, con una demanda conjunta de 943,8 megavatios —el 13,5% de la energía que le corresponde a Paraguay de Itaipú— y una proyección de ingresos para la ANDE de USD 350 millones en 2026, un 18,6% más que el año anterior. Es el equivalente a 1,4 turbinas de Itaipú funcionando exclusivamente para data centers y criptominería.
+
+La Ley 7599 de 2025 y el Decreto 6034 de 2026 abrieron el sector eléctrico a la inversión privada y crearon la categoría de consumidores intensivos. La Ley de Maquila (60/90) permite a los data centers exportar servicios de cómputo con un impuesto del 1% sobre el valor agregado nacional y exención de IVA y aranceles en la importación de equipos. Son marcos habilitadores —atraen inversión—, no regulatorios —no protegen a la comunidad—.
 
 No existe una cuota mínima de contratación de mano de obra local. No existe una obligación de compartir infraestructura eléctrica o de conectividad con la comunidad. No existe un requisito de evaluación de impacto ambiental específico para data centers —la Ley 294/1993 de evaluación de impacto ambiental aplica genéricamente pero nunca fue aplicada al sector—. La Ley 3001/2006, que exige una compensación ambiental del 1% del costo del proyecto para actividades de alto impacto, podría aplicar en teoría, pero nunca fue invocada para un data center o una operación de criptominería.
 

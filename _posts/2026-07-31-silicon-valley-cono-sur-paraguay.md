@@ -2,7 +2,7 @@
 layout: post
 title: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
 date: 2026-07-31 18:00:00 -0300
-last_modified_at: 2026-07-31 21:00:00 -0300
+last_modified_at: 2026-08-04 22:00:00 -0300
 categories: articulos
 tags: [geopolitica-regulacion, infraestructura-energia, tech-ecosistema, inversion, silicon-valley]
 description: "Paraguay tiene la electricidad más barata de Sudamérica. HIVE Digital ya invirtió USD 56M y opera 300 MW. Pero el resto de Silicon Valley todavía no se decide a invertir."
@@ -71,6 +71,8 @@ El primer obstáculo es geográfico y no tiene solución: Paraguay es mediterrá
 El segundo obstáculo es el talento. Paraguay no figura en el Índice Latinoamericano de Inteligencia Artificial (ILIA 2024) de la CEPAL, donde Chile, Brasil y Uruguay ocupan las categorías de "pioneros". La proporción de graduados STEM es baja, la fuga de cerebros hacia Argentina, Brasil y Estados Unidos es persistente, y ninguna universidad paraguaya aparece en rankings internacionales de ciencias de la computación. HIVE emplea entre 60 y 150 personas en Paraguay —la estimación sectorial es de 20 a 50 empleos directos por cada 100 MW—, pero esas posiciones son mayoritariamente de operación y mantenimiento, no de investigación.
 
 El tercer obstáculo es institucional. En julio de 2024 Paraguay recibió su primer grado de inversión (Baa3 de Moody's), un hito que reduce el riesgo percibido. Pero el puntaje del país en el índice de percepción de corrupción de Transparencia Internacional lo ubica en el tercio inferior de América Latina, y la Ley 7599 que regula las tarifas para grandes consumidores de energía es una ley presupuestaria anual, no permanente. Un inversor que compromete USD 200 millones en infraestructura necesita certeza de que las reglas no van a cambiar con el próximo presupuesto.
+
+Aun con esos riesgos, los números del sector son elocuentes: en agosto de 2026, 41 empresas estaban registradas como consumidores intensivos especiales de ANDE, con una demanda conjunta de 943,8 megavatios —el 13,5% de la energía de Itaipú que corresponde a Paraguay— y una proyección de ingresos para la ANDE de USD 350 millones, un 18,6% más que el año anterior. El capital extranjero ya está pagando por la electricidad paraguaya. La pregunta es si Paraguay va a usar esos ingresos para construir el resto del paquete que los inversores necesitan.
 
 ## Conclusión
 
