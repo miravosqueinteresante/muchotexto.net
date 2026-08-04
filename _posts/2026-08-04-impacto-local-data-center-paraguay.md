@@ -5,7 +5,7 @@ date: 2026-08-04 12:00:00 -0300
 last_modified_at: 2026-08-04
 categories: articulos
 tags: [infraestructura-energia, sociedad-trabajo, data-center, empleo, desarrollo-local]
-description: "HIVE Digital invirtió USD 56M en Yguazú y opera 300 MW. La comunidad recibió mejoras en escuelas y empleo temporal en construccion. Despues, la relacion se vuelve mas compleja."
+description: "HIVE Digital invirtió USD 56M en Yguazú y opera 300 MW. La comunidad recibió mejoras en escuelas y empleo temporal en construcción. Después, la relación se vuelve más compleja."
 ---
 
 A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá —HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la construcción de dos subestaciones eléctricas en Yguazú y Valenzuela, dos distritos del departamento de Cordillera y Alto Paraná. En seis meses, HIVE pasó de cero a 300 megavatios de capacidad instalada en Paraguay, una operación de minería de Bitcoin que factura más que el presupuesto municipal de varias ciudades paraguayas juntas. ¿Qué cambió en esas comunidades cuando el data center llegó? La respuesta es más compleja —y más aleccionadora— de lo que sugieren los comunicados de prensa.
