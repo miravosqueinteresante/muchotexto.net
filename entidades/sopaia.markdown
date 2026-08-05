@@ -4,7 +4,7 @@ title: "Sociedad Paraguaya de Inteligencia Artificial"
 description: >
   Perfil de SOPAIA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Sociedad Paraguaya de Inteligencia Artificial.
 permalink: /entidades/sopaia/
-last_modified_at: 2026-08-03
+last_modified_at: 2026-08-05
 entity_name: SOPAIA
 entity_name_full: Sociedad Paraguaya de Inteligencia Artificial
 entity_description: >

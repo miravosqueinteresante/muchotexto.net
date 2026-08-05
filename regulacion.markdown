@@ -70,6 +70,10 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 - **[Estrategia Nacional de Hidrógeno Verde (julio 2025)](/articulos/2026/07/27/hidrogeno-verde-paraguay/)** — 6 pilares, 55 medidas, financiada por el BID. Pivotea hacia fertilizantes para el mercado brasileño. Documento de política pública sin rango de ley.
 
+## Prospectiva y planificacion
+
+- **[Paraguay 2040 — Prospectiva](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Marco de escenarios a 15 anos basado en datos actuales. Cinco palancas clave: diversificacion energetica, fibra optica soberana, regulacion de data centers, formacion de talento tech y formalizacion del empleo.
+
 ## Lo que está en trámite o pendiente
 
 - **Sin legislación de contenido local para data centers.** El memorándum de entendimiento de Yguazú Digital no incluye compromisos de formación de técnicos paraguayos ni exigencias de contenido local obligatorio. Paraguay captura solo el 15-20% del valor de los proyectos sin mecanismos legales para aumentar esa proporción. [Leer más](/articulos/2026/07/25/cadena-valor-data-center/).

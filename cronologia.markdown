@@ -92,6 +92,8 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 ## Lo que viene
 
+- **[Paraguay 2040: tres escenarios posibles](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Prospectiva del país construida sobre datos actuales. La ventana demográfica se cierra en 2045. El superávit energético hacia 2038. Las decisiones de 2026-2035 definen el camino.
+
 - **1 Enero 2027** — Vence el [Anexo C del Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/). Sin acuerdo, Paraguay pierde ~$600M/año. Negociaciones congeladas desde abril 2025.
 - **Noviembre 2027** — Entra en vigor la [Ley 7593 de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/). Yguazú Digital Fase I debe estar operativo.
 - **2026** — Finalización proyectada del [Corredor Bioceánico](/articulos/2026/07/24/ecommerce-logistica-paraguay/).

@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-08-03
+last_modified_at: 2026-08-05
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
@@ -26,9 +26,9 @@ related_articles:
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
-  - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
-    url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-    context: "> **En resumen;** > - HIVE Digital opera 300 MW en Yguazú y Valenzuela tras invertir USD 56M en la compra del predio y USD 19M en depósitos de energía con ANDE. La construcción duró seis meses y empleó entre 800 y 1.500 trabajadores temporales. La..."
+  - title: "Paraguay 2040: un país construido con datos"
+    url: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+    context: "En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 944 megavatios de data centers y criptominería operando en su territorio, y una proyección de ingresos para ANDE de 350 millones de dólares por ese..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"

@@ -30,6 +30,9 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **NDC (Contribucion Nacionalmente Determinada)** — Compromiso climatico voluntario que cada pais presenta bajo el Acuerdo de Paris. Paraguay presento su NDC 3.0 en noviembre 2025: reduccion del 20% de emisiones para 2030/2035. La meta se divide en 10% incondicional y 10% condicional (sujeta a USD 24.000M de financiamiento externo).
 → [Energia renovable y cambio climatico](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)
 
+**Bono demografico** — Periodo en que la proporcion de personas en edad de trabajar supera a la de dependientes (ninos y adultos mayores). Paraguay esta en su bono demografico ahora (edad media 29,4 anos). Se agota alrededor de 2045, cuando la poblacion empieza a envejecer. Cada ano sin invertir en capital humano es bono desperdiciado.
+→ [Paraguay 2040: un pais construido con datos](/articulos/2026/08/05/paraguay-2040-futuro-datos/)
+
 **PUE (Power Usage Effectiveness)** — Índice que mide la eficiencia energética de un data center. Un PUE de 1.5 significa que por cada MW utilizado en cómputo, se gasta 0.5 MW adicional en refrigeración y pérdidas. Paraguay parte en desventaja por su falta de experiencia operando data centers a gran escala.
 
 **CAPEX (Capital Expenditure)** — Inversión de capital para construir infraestructura. En un data center de 100 MW ronda USD 800-1.200 millones. El hardware es el 60-70% del CAPEX y es 100% importado. Solo el 15-20% se queda en Paraguay.

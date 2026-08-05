@@ -28,6 +28,10 @@ Cada caso enlaza con el artículo completo.
 
 - **[Impacto local de un data center en una ciudad paraguaya](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — HIVE Digital en Yguazú y Valenzuela: 300 MW, USD 56M de inversión, 60-150 empleos permanentes. La construcción empleó 800-1.500 trabajadores temporales. La infraestructura eléctrica es privada y no hay evidencia de beneficio directo a la red residencial.
 
+## Prospectiva
+
+- **[Paraguay 2040: escenarios de desarrollo](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Tres escenarios de prospectiva basados en datos actuales. Escenario A: hub regional de computo (8.000 MW DC, PIB/capita >$20K). Escenario B: exportador de energia barata (statu quo). Escenario C: el superavit que se fue (sequia + aislamiento). Las decisiones de 2026-2035 definen cual se materializa.
+
 ## Salud
 
 - **[Telemedicina nacional](/articulos/2026/07/16/ia-salud-paraguay/)** — Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta por WhatsApp.

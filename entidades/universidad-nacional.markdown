@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-08-03
+last_modified_at: 2026-08-05
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >
@@ -22,7 +22,7 @@ related_articles:
     context: "Medellín tiene un sistema de teleféricos públicos que conecta barrios pobres con el metro. Seis líneas, 14 kilómetros, 22 millones de pasajeros al año. La línea K costó 26 millones de dólares en 2004 y redujo un viaje de dos horas y media a 30..."
   - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
     url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-    context: "En noviembre de 2024, una empresa canadiense llamada HIVE Digital Technologies puso una piedra en el suelo de Valenzuela, un distrito del departamento de Cordillera con menos de 10.000 habitantes. Seis meses después, esa piedra se había convertido..."
+    context: "A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá —HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la construcción de dos subestaciones eléctricas en Yguazú y Valenzuela, dos..."
   - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque 'no hay tiempo'. El contenido se volvió ruido."

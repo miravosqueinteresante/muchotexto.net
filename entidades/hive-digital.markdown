@@ -4,7 +4,7 @@ title: "HIVE Digital Technologies Ltd."
 description: >
   Perfil de HIVE Digital Technologies en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre HIVE Digital Technologies Ltd..
 permalink: /entidades/hive-digital/
-last_modified_at: 2026-08-03
+last_modified_at: 2026-08-05
 entity_name: HIVE Digital Technologies
 entity_name_full: HIVE Digital Technologies Ltd.
 entity_description: >
@@ -22,7 +22,7 @@ related_articles:
     context: "> **En resumen;** > - HIVE Digital Technologies es el único inversor tech de escala global con presencia real en Paraguay; 300 MW operativos, USD 56M en adquisiciones y 68% de su capacidad mundial en suelo paraguayo. > - Crusoe AI, X8Cloud y ASUS no."
   - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
     url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-    context: "En noviembre de 2024, una empresa canadiense llamada HIVE Digital Technologies puso una piedra en el suelo de Valenzuela, un distrito del departamento de Cordillera con menos de 10.000 habitantes. Seis meses después, esa piedra se había convertido..."
+    context: "A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá —HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la construcción de dos subestaciones eléctricas en Yguazú y Valenzuela, dos..."
 obs_directorio:
   - label: "HIVE Digital Technologies"
     url: https://www.hivedigitaltechnologies.com/
