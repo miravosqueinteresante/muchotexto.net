@@ -8,6 +8,10 @@ last_modified_at: 2026-07-31
 
 Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
 
+## Prospectiva y planificacion
+
+- **[Paraguay 2040 — Prospectiva](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Marco de escenarios a 15 anos basado en datos actuales del observatorio. Cinco palancas clave: diversificacion energetica (solar Chaco), fibra optica soberana, regulacion de data centers, formacion de talento tech y formalizacion del empleo.
+
 ## Aceleradoras y hubs
 
 - **[KOGA Impact Lab](https://koga.com.py/)** — Más de 14 años operando. Apoyó a 200+ startups y capacitó a 10.000+ emprendedores. Funciona como aceleradora, espacio de coworking y comunidad. Es el punto de encuentro del ecosistema emprendedor tech en Paraguay. [Leer análisis completo](/articulos/2026/07/14/startups-ia-paraguay/).
