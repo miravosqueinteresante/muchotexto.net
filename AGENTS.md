@@ -113,6 +113,33 @@ Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global 
 - **Demanda eléctrica**: crecimiento 12-21% anual (ANDE, datos recientes). NO usar 5-8% (dato desactualizado).
 
 ### Fuentes primarias paraguayas — verificación obligatoria
+### Demografía y economía (datos verificados ago 2026)
+Fuentes: INE Paraguay, Banco Mundial, BCP, ABC Color.
+
+- **Población**: ~6,5M (2026), proyección ~7,2-7,5M (2040). Edad media: 29,4 años.
+- **Fecundidad**: 1,7-1,8 hijos por mujer (INE 2026). Por debajo del nivel de reemplazo (2,1). NO usar 1,9 (dato desactualizado).
+- **Bono demográfico**: activo hasta ~2045. Ventana se cierra con envejecimiento poblacional.
+- **Urbanización**: 69% (Censo 2022), proyectado ~78-80% (2040).
+- **PIB per cápita**: ~USD 9.400 nominal (2026). Proyección 2040: USD 14.000-17.000. NO usar USD 5.900 (dato 2022-2023).
+- **HCI (Capital Humano)**: 0,528 (Banco Mundial 2020). El más bajo entre pares regionales (Uruguay ~0,60, Chile ~0,65, Costa Rica ~0,63).
+- **Informalidad laboral**: 60-64% según trimestre y medición (INE 2025-2026). NO usar una cifra fija sin especificar fuente y período.
+- **Exportaciones**: soja y carne siguen dominando, servicios digitales en crecimiento bajo maquila.
+
+### Itaipú — Anexo C y negociaciones (datos verificados ago 2026)
+Fuentes: ABC Color, El Nacional, ANDE.
+
+- **Suspensión**: 1 de abril de 2025 por escándalo de espionaje ABIN (Brasil espió a funcionarios paraguayos).
+- **Reanudación**: noviembre 2025, tras entrega del informe confidencial brasileño. Confirmado por Félix Sosa (ANDE).
+- **Estado actual (ago 2026)**: conversaciones reanudadas pero sin nuevo Anexo C firmado. Acuerdo tarifario 2024-2026 (USD 19,28/kW-mes) vence 1 de enero de 2027.
+- **NO decir** "congelada desde abril 2025" ni "Anexo C vence en 2027". Lo congelado fue hasta noviembre 2025; lo que vence es el acuerdo tarifario, no el Anexo.
+
+### Fibra óptica y conectividad (datos verificados ago 2026)
+Fuentes: MITIC, BID, DPL News.
+
+- **Red Nacional de Fibra Óptica**: financiada con préstamo BID de USD 130M (2019). Etapa 1 completada (~2020-2021): unificación de redes de Copaco, ANDE, Interior, Hacienda, MITIC. Etapa 2 en ejecución.
+- **NO decir** "no está construido" ni usar USD 47,9M como presupuesto (esa cifra corresponde a otro componente).
+- **Cables submarinos**: Paraguay no tiene acceso directo. Depende de fibra terrestre a través de Brasil y Argentina. Sin proyecto confirmado de conexión internacional propia.
+
 Para cualquier dato sobre Paraguay, el fact-checker DEBE consultar:
 - Wikipedia en español (no solo en inglés): https://es.wikipedia.org/
 - ANDE (portal y noticias): https://www.ande.gov.py/
