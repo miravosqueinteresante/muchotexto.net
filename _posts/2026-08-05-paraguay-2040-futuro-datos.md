@@ -20,7 +20,7 @@ Proyectar un país a quince años no es un ejercicio de adivinación. Es un ejer
 
 ## El reloj demográfico: una ventana que se cierra en 2045
 
-Paraguay tiene hoy aproximadamente 6,5 millones de habitantes, con una edad media de 29,4 años —una de las poblaciones más jóvenes de Sudamérica—. Las proyecciones del Instituto Nacional de Estadística indican que la población crecerá hasta unos 7,5 millones en 2040, con una tasa de fecundidad que ya está por debajo del nivel de reemplazo (1,9 hijos por mujer y bajando). La urbanización pasará del 69% actual a cerca del 80%.
+Paraguay tiene hoy aproximadamente 6,5 millones de habitantes, con una edad media de 29,4 años —una de las poblaciones más jóvenes de Sudamérica—. Las proyecciones del Instituto Nacional de Estadística indican que la población crecerá hasta unos 7,5 millones en 2040, con una tasa de fecundidad que ya está entre 1,7 y 1,8 hijos por mujer —por debajo del nivel de reemplazo de 2,1— y bajando. La urbanización pasará del 69% actual a cerca del 80%.
 
 Eso significa que Paraguay está viviendo su bono demográfico ahora: hay más personas en edad de trabajar que dependientes (niños y adultos mayores). Pero ese bono se agota alrededor de 2045, cuando la proporción se invierte y el país empieza a envejecer. Cada año que pasa sin invertir en educación, salud y empleo formal para esa población joven es un año de bono demográfico desperdiciado.
 
@@ -34,7 +34,7 @@ A ese ritmo, el superávit energético paraguayo se agota entre 2035 y 2040. Par
 
 La solución está en el oeste. El Chaco paraguayo recibe una irradiación solar promedio de 5,5 kilovatios-hora por metro cuadrado por día, entre las más altas de Sudamérica. La Ley 7599 de 2025 y el Decreto 6034 de 2026 crearon el marco legal para que el sector privado invierta en generación renovable: solar, eólica, biomasa, biogás, geotermia y almacenamiento. Pero a un año de su promulgación, no hay un solo proyecto utility-scale en construcción. El potencial solar del Chaco podría agregar entre 1.000 y 5.000 MW de capacidad instalada para 2040 —suficiente para aumentar la oferta eléctrica en más del 50% respecto a la capacidad instalada actual—, pero eso requiere que alguien construya los parques, las líneas de transmisión y los contratos de compra de energía. Hoy, nada de eso existe.
 
-La renegociación del Anexo C de Itaipú, congelada desde abril de 2025 por el escándalo de espionaje ABIN, añade otra capa de incertidumbre. Sin un acuerdo sobre las nuevas bases financieras de la represa —cuyo acuerdo tarifario vigente (2024-2026) vence el 1 de enero de 2027—, Paraguay no sabe con cuántos ingresos de Itaipú va a contar para financiar su transición energética.
+La renegociación del Anexo C de Itaipú —suspendida en abril de 2025 por el escándalo de espionaje ABIN y reanudada en noviembre de ese año tras la entrega del informe brasileño— añade otra capa de incertidumbre. Aunque las conversaciones volvieron a la mesa, el nuevo Anexo C todavía no está firmado y el acuerdo tarifario vigente (2024-2026) vence el 1 de enero de 2027. Sin un pacto definitivo, Paraguay no sabe con cuántos ingresos de Itaipú va a contar para financiar su transición energética.
 
 ## Data centers: de 944 MW a lo que Paraguay quiera ser
 
@@ -42,7 +42,7 @@ En 2022, Paraguay no tenía un solo data center de escala industrial. En 2026, t
 
 Para ponerlo en perspectiva: Irlanda, el país que se convirtió en el hub de data centers de Europa, tiene aproximadamente 80 centros de datos que consumen el 23% de su electricidad nacional. Loudoun County, Virginia —el "Data Center Alley" del mundo— alberga más de 200 data centers. Paraguay tiene la energía más barata de Sudamérica, una ubicación central en el continente y 99,9% de energía renovable. Los fundamentos están. Lo que falta es todo lo demás.
 
-El primer cuello de botella es la conectividad. Paraguay es mediterráneo y depende de fibra terrestre que atraviesa Brasil y Argentina para conectarse al resto del mundo. No tiene acceso a cables submarinos, que son las autopistas del tráfico internacional de datos. La construcción de una Red Nacional de Fibra Óptica —un proyecto con un presupuesto estimado de USD 47,9 millones que figura en la Agenda Digital— sería el primer backbone de fibra soberano del país. Pero no está construido.
+El primer cuello de botella es la conectividad. Paraguay es mediterráneo y depende de fibra terrestre que atraviesa Brasil y Argentina para conectarse al resto del mundo. No tiene acceso a cables submarinos, que son las autopistas del tráfico internacional de datos. La construcción de una Red Nacional de Fibra Óptica —financiada con un préstamo del BID de USD 130 millones para la Agenda Digital y con un avance parcial en su primera etapa— sería el primer backbone de fibra soberano del país.
 
 El segundo cuello de botella es regulatorio. Paraguay no tiene una sola norma específica para data centers. No hay cuotas de contratación local, no hay obligaciones de beneficio comunitario, no hay evaluaciones de impacto ambiental aplicadas al sector. Chile diseñó el Plan Nacional de Data Centers con metas explícitas a 2030. Paraguay todavía está en la fase de memorandos de entendimiento no vinculantes.
 
@@ -56,7 +56,7 @@ La diferencia la va a marcar la composición de ese PIB. Si Paraguay sigue depen
 
 Hay señales de que el cambio ya empezó. Las exportaciones de servicios bajo el régimen de maquila —que incluyen desarrollo de software, procesamiento de datos y servicios de cómputo— crecieron sostenidamente en los últimos cinco años. La Ley 7547 de 2025 reformó la Ley de Maquila para incluir explícitamente los servicios intangibles. Y la combinación de energía barata, ubicación geográfica y huso horario compatible con Estados Unidos le da a Paraguay una ventana de oportunidad en el mercado de nearshoring de servicios digitales que ningún otro país sudamericano puede replicar.
 
-Pero la informalidad —62% de la fuerza laboral— es el lastre. Un país donde dos de cada tres trabajadores no tienen seguridad social, no califican para crédito hipotecario y no acumulan antigüedad laboral no puede construir una economía digital competitiva. Formalizar el empleo es la reforma estructural más importante que Paraguay puede hacer antes de 2040, y la más difícil.
+Pero la informalidad —que oscila entre el 60% y el 64% de la fuerza laboral según la medición y el trimestre— es el lastre. Un país donde dos de cada tres trabajadores no tienen seguridad social, no califican para crédito hipotecario y no acumulan antigüedad laboral no puede construir una economía digital competitiva. Formalizar el empleo es la reforma estructural más importante que Paraguay puede hacer antes de 2040, y la más difícil.
 
 ## Los tres escenarios
 
