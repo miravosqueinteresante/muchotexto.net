@@ -186,13 +186,18 @@
       }
     }
 
-    // Shock Taiwan: reduces MW growth and investment
+    // Shock Taiwan: Yguazu Digital se frena, la inversion extranjera se retrae.
+    // En vez de un descuento porcentual, pone un techo duro a los MW y al PIB,
+    // porque el principal proyecto binacional (1000 MW) desaparece del tablero.
     if(taiwan){
+      var mwCap = 5000;  // sin Taiwan, el techo de MW baja ~3000 MW (Yguazu + inversion asociada)
+      var pibCap = 16500;
+      var infFloor = 42;  // la informalidad no puede bajar de este piso sin estabilidad geopolitica
       for(var i=2; i<mw.length; i++){
         var severity = Math.min(1, (i-1)/5);
-        mw[i] = mw[i]*(1 - 0.25*severity);
-        pib[i] = pib[i]*(1 - 0.15*severity);
-        informalidad[i] = clamp(informalidad[i]*1.05, 0, 80);
+        mw[i] = lerp(mw[i], Math.min(mw[i], mwCap), severity);
+        pib[i] = lerp(pib[i], Math.min(pib[i], pibCap), severity);
+        informalidad[i] = clamp(Math.max(informalidad[i], infFloor), 0, 80);
       }
     }
 
@@ -270,7 +275,7 @@
       return {
         label: 'Escenario D — Tormenta perfecta',
         color: '#fa5252',
-        text: 'Una sequ\u00EDa prolongada coincide con presi\u00F3n china sobre Taiw\u00E1n. Itaip\u00FA pierde un tercio de generaci\u00F3n y Yguaz\u00FA Digital se congela. Los data centers migran, la inversi\u00F3n se retrae y la informalidad escala. Es el peor escenario posible: el super\u00E1vit energ\u00E9tico y el diplom\u00E1tico desaparecen al mismo tiempo.'
+        text: 'Una sequ\u00EDa prolongada coincide con presi\u00F3n china sobre Taiw\u00E1n. Itaip\u00FA pierde un tercio de generaci\u00F3n y Yguaz\u00FA Digital se congela. Los data centers migran, la inversi\u00F3n se retrae y la informalidad escala. Con el proyecto binacional fuera del tablero y la energ\u00EDa en crisis, ni las mejores pol\u00EDticas internas compensan el doble shock externo.'
       };
     }
     if(sequia){
@@ -284,7 +289,7 @@
       return {
         label: 'Escenario C — Aislamiento geopol\u00EDtico',
         color: '#fab005',
-        text: 'La presi\u00F3n china sobre Taiw\u00E1n escala. Yguaz\u00FA Digital se frena, la inversi\u00F3n extranjera se retrae y Paraguay pierde a su principal socio tecnol\u00F3gico. El crecimiento se desacelera y la dependencia de la soja se profundiza.'
+        text: 'La presi\u00F3n china sobre Taiw\u00E1n escala. Yguaz\u00FA Digital se congela y Paraguay pierde a su principal socio tecnol\u00F3gico. Sin ese proyecto binacional, el techo de data centers baja dr\u00E1sticamente. La inversi\u00F3n extranjera se retrae y otros aliados tardar\u00EDan a\u00F1os en llenar el vac\u00EDo. La informalidad encuentra un piso dif\u00EDcil de perforar sin estabilidad geopol\u00EDtica.'
       };
     }
     if(score >= 0.66){
