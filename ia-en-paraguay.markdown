@@ -107,6 +107,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
 - **[Paraguay está enseñando guaraní a la inteligencia artificial]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset comunitario de voz en guaraní.
 - **[Paraguay 2040: un país construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
+- **[Simulador interactivo Paraguay 2040](/simulador-2040/)** — Cinco palancas, dos shocks y un canvas. Mové los sliders y descubrí qué futuro se construye.
 
 ---
 

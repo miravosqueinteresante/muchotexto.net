@@ -72,6 +72,8 @@ Paraguay en 2040 no va a ser el país que sus políticos prometen ni el que sus 
 
 Las palancas son pocas y claras: diversificar la matriz energética con solar en el Chaco, construir fibra óptica soberana, crear un marco regulatorio para data centers que exija transferencia tecnológica y beneficio comunitario, y multiplicar por diez la inversión en formación de talento tech. Si esas cuatro cosas se hacen, Paraguay puede ser el país que sus nietos no se quieran ir. Si no, va a ser el país que les vendió electricidad barata a los que sí lo hicieron.
 
+**Probá los escenarios:** mové las cinco palancas del [simulador interactivo Paraguay 2040](/simulador-2040/) y descubrí qué futuro se construye con tus decisiones.
+
 Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
 ## Fuentes

@@ -148,3 +148,51 @@ Para cualquier dato sobre Paraguay, el fact-checker DEBE consultar:
 - ABC Color (secciones Tecnología, Economía, Nacionales): https://www.abc.com.py/
 - La Nación: https://www.lanacion.com.py/
 - Itaipú Binacional: https://www.itaipu.gov.py/
+
+### Claims verificados — Paraguay 2040 (ago 2026)
+
+Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco Mundial.
+
+#### Datos demográficos y económicos
+- **Población 6,5M, edad media 29,4 años**: TRUE. Fuente: INE Paraguay, verificado en AGENTS.md.
+- **Proyección 7,2-7,5M en 2040**: TRUE. Fuente: INE, verificado en AGENTS.md.
+- **Fecundidad 1,7-1,8**: TRUE. Fuente: INE 2026, verificado en AGENTS.md.
+- **Urbanización 69% → ~80% en 2040**: TRUE. Fuente: Censo 2022, verificado en AGENTS.md.
+- **Bono demográfico hasta ~2045**: TRUE. Fuente: INE, verificado en AGENTS.md.
+- **HCI Paraguay 0,528**: TRUE. Fuente: Banco Mundial 2020, verificado en AGENTS.md.
+- **HCI Uruguay 0,603, Chile 0,652, Costa Rica 0,623**: PARTIALLY TRUE. Las cifras exactas del Banco Mundial 2020 son: Uruguay 0,60 (no 0,603), Chile 0,65 (no 0,652), Costa Rica 0,63 (no 0,623). El artículo usa cifras con 3 decimales que son estimaciones o de otra fuente/edición. Recomendación: usar "aproximadamente 0,60" o citar la fuente exacta.
+- **PIB per cápita USD 9.400 (2026)**: TRUE. Fuente: BCP, verificado en AGENTS.md.
+- **Proyección PIB per cápita 2040: USD 14.000-17.000**: TRUE. Fuente: verificado en AGENTS.md.
+- **PIB per cápita proyectado Uruguay USD 30.000, Chile USD 28.000, Costa Rica USD 22.000**: UNVERIFIABLE con precisión. Son proyecciones a 15 años de fuentes diversas (FMI, bancos centrales, consultoras). El orden de magnitud es razonable pero no hay una fuente única que consolide estas tres cifras para 2040. Recomendación: atribuir a "proyecciones del FMI y bancos centrales" o citar fuente específica.
+- **Soja y carne >40% de exportaciones totales**: PARTIALLY TRUE. Datos del BCP 2025: soja ~28%, carne ~12%, total ~40%. La cifra es correcta pero depende del año y los precios internacionales. En 2024 fue ligeramente superior al 40%, en 2023 fue inferior. Recomendación: usar "alrededor del 40%" o citar año.
+- **Informalidad 60-64%**: TRUE. Fuente: INE 2025-2026, verificado en AGENTS.md.
+- **Exportaciones de servicios bajo maquila crecieron sostenidamente**: UNVERIFIABLE sin serie temporal concreta. Afirmación cualitativa razonable pero sin cifra específica.
+
+#### Energía
+- **~44 TWh/año generación, ~15 TWh consumo**: PARTIALLY TRUE. La generación total de Paraguay es mayor: Itaipú solo genera ~67 TWh (mitad paraguaya ~33,5 TWh) + Yacyretá ~11 TWh + Acaray ~1 TWh = ~45,5 TWh disponibles para Paraguay. El consumo interno es ~15-16 TWh. Las cifras del artículo son aproximaciones razonables. Fuente: ANDE, Wikipedia ES, AGENTS.md.
+- **Crecimiento demanda 12-21% anual**: TRUE. Fuente: ANDE, verificado en AGENTS.md. NO usar 5-8% (dato desactualizado).
+- **944 MW (41 empresas) = 13,5% de Itaipú**: PARTIALLY TRUE. AGENTS.md registra 943,8 MW (no 944). El redondeo es menor, aceptable para periodismo.
+- **Superávit se agota 2035-2040**: PROYECCIÓN (no verificable como hecho). Es el resultado del modelo del propio artículo, no una proyección oficial.
+- **Irradiación solar Chaco 5,5 kWh/m²/día**: TRUE. Fuentes múltiples (NASA POWER, GHI maps, IRENA) confirman que el Chaco paraguayo recibe 5,0-5,8 kWh/m²/día de irradiación global horizontal. 5,5 es el punto medio razonable.
+- **Ley 7599 (dic 2025) y Decreto 6034 (may 2026)**: TRUE. Fuente: BACN, verificado en AGENTS.md.
+- **Potencial solar Chaco 1.000-5.000 MW**: PROYECCIÓN (no verificable). Estimación razonable basada en recurso solar disponible, pero no hay estudio oficial que la respalde.
+- **99,9% renovable**: PARTIALLY TRUE. AGENTS.md registra 99,998% renovable en 2024. El artículo dice 99,9% — diferencia menor, aceptable.
+- **Energía más barata de Sudamérica**: PARTIALLY TRUE. Paraguay tiene tarifas industriales entre las más bajas (USD 0,03-0,05/kWh), pero afirmar "la más barata" sin comparación exhaustiva con todos los países es impreciso. Competidores cercanos: Argentina (subsidiada), Bolivia.
+
+#### Data centers y conectividad
+- **0 MW en 2022 → 944 MW en 2026**: TRUE. Verificado en AGENTS.md.
+- **HIVE: 300 MW operativos + 100 MW GPU en construcción**: TRUE. Fuente: HIVE FY2026 Earnings, verificado en AGENTS.md.
+- **Yguazú Digital: 3 fases, 10 MW a 1.000 MW**: UNVERIFIABLE en detalle. El artículo de muchotexto.net sobre Yguazú Digital menciona estas fases. No se encontró fuente oficial primaria que confirme los 1.000 MW finales con ese desglose exacto. La prensa paraguaya (ABC Color, La Nación) maneja cifras variables.
+- **BID USD 130M para fibra óptica**: TRUE. Fuente: MITIC, BID, verificado en AGENTS.md.
+- **20-50 empleos por 100 MW en data centers**: TRUE. Fuente: verificado en AGENTS.md (referencia de industria).
+- **Irlanda: ~80 data centers**: UNVERIFIABLE. La cifra exacta varía según fuente: desde 70 hasta 82 según qué se cuenta como "data center". AGENTS.md solo verifica el 23% de consumo. Recomendación: usar "más de 70" o citar fuente (Host in Ireland, CSO Ireland).
+- **Loudoun County: 200+ DCs**: TRUE. Fuente: JLARC 2024, verificado en AGENTS.md.
+
+#### Regulación y leyes
+- **Anexo C: suspendido abr 2025, reanudado nov 2025**: TRUE. Verificado en AGENTS.md.
+- **Acuerdo tarifario vence 1 ene 2027**: TRUE. Verificado en AGENTS.md.
+- **Ley 7547/2025 reforma Ley de Maquila**: UNVERIFIABLE. BACN devuelve una ley no relacionada (Ley 1229 de 1998) para la URL de la Ley 7547. No se pudo confirmar con fuente primaria. La existencia de reformas a la Ley de Maquila es mencionada en prensa pero el número exacto 7547 requiere verificación.
+- **Paraguay sin regulación específica para data centers**: TRUE. Verificado en AGENTS.md ("sin regulación específica. Ley 294/1993 de EIA aplica genéricamente, nunca aplicada al sector").
+
+#### Graduados STEM
+- **Menos de 600 graduados en informática por año**: PARTIALLY TRUE. El artículo del propio observatorio ("Educación tech en Paraguay") menciona 400-600 graduados. Fuentes externas (CONACYT, ANEAES) no publican una cifra consolidada actualizada. La estimación es razonable pero no verificable con fuente oficial primaria. Recomendación: citar la fuente del observatorio y aclarar que es estimación.
