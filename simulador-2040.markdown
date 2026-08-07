@@ -39,62 +39,12 @@ last_modified_at: 2026-08-07
   margin: 0;
 }
 
-/* header */
-.sim-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  gap: 16px;
-  flex-wrap: wrap;
-  border-bottom: 1px solid var(--sim-border-soft);
-  padding-bottom: 16px;
-  margin-bottom: 20px;
-}
-
-.sim-eyebrow {
-  font-family: var(--code-font-family);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--oc-cyan-4);
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 8px;
-}
-
-.sim-dot {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: var(--oc-cyan-4);
-  box-shadow: 0 0 0 3px rgba(34,184,207,0.18);
-  animation: sim-pulse 2.4s ease-in-out infinite;
-}
-
-@keyframes sim-pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.35; }
-}
-
-.sim-title {
-  font-weight: 600;
-  font-size: clamp(22px,3.5vw,30px);
-  letter-spacing: -0.01em;
-  line-height: 1.15;
-  color: var(--oc-gray-2);
-}
-
-.sim-title span {
-  color: var(--sim-muted);
-  font-weight: 400;
-}
-
 /* chips */
 .sim-chips {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
+  margin-top: var(--spacer-2);
   margin-bottom: 22px;
 }
 
@@ -364,11 +314,6 @@ last_modified_at: 2026-08-07
 
   .sim-chips {
     grid-template-columns: repeat(2, 1fr);
-  }
-
-  .sim-header {
-    flex-direction: column;
-    align-items: flex-start;
   }
 }
 
