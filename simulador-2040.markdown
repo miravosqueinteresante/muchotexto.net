@@ -39,12 +39,37 @@ last_modified_at: 2026-08-07
   margin: 0;
 }
 
+.sim-eyebrow {
+  font-family: var(--code-font-family);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--oc-cyan-4);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 var(--spacer) 0;
+}
+
+.sim-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--oc-cyan-4);
+  box-shadow: 0 0 0 3px rgba(34,184,207,0.18);
+  animation: sim-pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes sim-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
 /* chips */
 .sim-chips {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
-  margin-top: var(--spacer-2);
   margin-bottom: 22px;
 }
 
