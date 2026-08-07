@@ -268,43 +268,43 @@
   function scenarioText(score, sequia, taiwan){
     if(sequia && taiwan){
       return {
-        label: 'Escenario D — Tormenta perfecta',
+        label: 'Escenario D \u2014 Tormenta perfecta',
         color: '#fa5252',
-        text: 'Una sequ&iacute;a prolongada coincide con presi&oacute;n china sobre Taiw&aacute;n. Itaip&uacute; pierde un tercio de generaci&oacute;n y Yguaz&uacute; Digital se congela. Los data centers migran, la inversi&oacute;n se retrae y la informalidad escala. Es el peor escenario posible: el super&aacute;vit energ&eacute;tico y el diplom&aacute;tico desaparecen al mismo tiempo.'
+        text: 'Una sequ\u00eda prolongada coincide con presi\u00f3n china sobre Taiw\u00e1n. Itaip\u00fa pierde un tercio de generaci\u00f3n y Yguaz\u00fa Digital se congela. Los data centers migran, la inversi\u00f3n se retrae y la informalidad escala. Es el peor escenario posible: el super\u00e1vit energ\u00e9tico y el diplom\u00e1tico desaparecen al mismo tiempo.'
       };
     }
     if(sequia){
       return {
-        label: 'Escenario C — El super&aacute;vit que se fue',
+        label: 'Escenario C \u2014 El super\u00e1vit que se fue',
         color: '#fa5252',
-        text: 'Con una sequ&iacute;a prolongada golpeando la cuenca del Paran&aacute;, los data centers empiezan a migrar hacia redes m&aacute;s estables. El crecimiento se estanca, la informalidad repunta y el bono demogr&aacute;fico se cierra sin haberse aprovechado.'
+        text: 'Con una sequ\u00eda prolongada golpeando la cuenca del Paran\u00e1, los data centers empiezan a migrar hacia redes m\u00e1s estables. El crecimiento se estanca, la informalidad repunta y el bono demogr\u00e1fico se cierra sin haberse aprovechado.'
       };
     }
     if(taiwan){
       return {
-        label: 'Escenario C — Aislamiento geopol&iacute;tico',
+        label: 'Escenario C \u2014 Aislamiento geopol\u00edtico',
         color: '#fab005',
-        text: 'La presi&oacute;n china sobre Taiw&aacute;n escala. Yguaz&uacute; Digital se frena, la inversi&oacute;n extranjera se retrae y Paraguay pierde a su principal socio tecnol&oacute;gico. El crecimiento se desacelera y la dependencia de la soja se profundiza.'
+        text: 'La presi\u00f3n china sobre Taiw\u00e1n escala. Yguaz\u00fa Digital se frena, la inversi\u00f3n extranjera se retrae y Paraguay pierde a su principal socio tecnol\u00f3gico. El crecimiento se desacelera y la dependencia de la soja se profundiza.'
       };
     }
     if(score >= 0.66){
       return {
-        label: 'Escenario A — Hub regional de c&oacute;mputo',
+        label: 'Escenario A \u2014 Hub regional de c\u00f3mputo',
         color: '#22b8cf',
-        text: 'Con las cinco palancas activadas, Paraguay diversifica su matriz antes de 2030, formaliza el empleo, regula con beneficio comunitario, forma talento t&eacute;cnico y construye infraestructura digital soberana. Las exportaciones de servicios digitales superan a la soja. El PIB per c&aacute;pita supera los USD 20.000.'
+        text: 'Con las cinco palancas activadas, Paraguay diversifica su matriz antes de 2030, formaliza el empleo, regula con beneficio comunitario, forma talento t\u00e9cnico y construye infraestructura digital soberana. Las exportaciones de servicios digitales superan a la soja. El PIB per c\u00e1pita supera los USD 20.000.'
       };
     }
     if(score <= 0.33){
       return {
-        label: 'Escenario B — Exportador de energ&iacute;a barata',
+        label: 'Escenario B \u2014 Exportador de energ\u00eda barata',
         color: '#fab005',
-        text: 'Los data centers siguen llegando, pero sin regulaci&oacute;n ni transferencia tecnol&oacute;gica. La informalidad se mantiene arriba del 55%. Los beneficios se concentran en ANDE y el super&aacute;vit energ&eacute;tico se agota hacia 2038. La soja sigue siendo la principal exportaci&oacute;n.'
+        text: 'Los data centers siguen llegando, pero sin regulaci\u00f3n ni transferencia tecnol\u00f3gica. La informalidad se mantiene arriba del 55%. Los beneficios se concentran en ANDE y el super\u00e1vit energ\u00e9tico se agota hacia 2038. La soja sigue siendo la principal exportaci\u00f3n.'
       };
     }
     return {
-      label: 'Zona intermedia — el resultado m&aacute;s probable hoy',
+      label: 'Zona intermedia \u2014 el resultado m\u00e1s probable hoy',
       color: '#adb5bd',
-      text: 'Con reformas parciales, Paraguay capitaliza parte de su ventaja energ&eacute;tica pero no resuelve a tiempo el cuello de botella regulatorio ni el de talento. El resultado queda entre el hub regional y la simple exportaci&oacute;n de energ&iacute;a barata.'
+      text: 'Con reformas parciales, Paraguay capitaliza parte de su ventaja energ\u00e9tica pero no resuelve a tiempo el cuello de botella regulatorio ni el de talento. El resultado queda entre el hub regional y la simple exportaci\u00f3n de energ\u00eda barata.'
     };
   }
 
