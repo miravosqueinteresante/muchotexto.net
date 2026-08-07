@@ -4,6 +4,7 @@ title: "Infraestructura, energía y producción — Editorial 5 de agosto de 202
 description: "La disponibilidad de energía se posiciona como el factor determinante para la expansión de centros de datos destinados a la Inteligencia Artificial hacia el año 2030, un escenario que condiciona directamente la planificación de infraestructura digital a nivel global."
 
 
+
 date: 2026-08-05 18:00:00 -0300
 last_modified_at: 2026-08-05
 categories: editorial
