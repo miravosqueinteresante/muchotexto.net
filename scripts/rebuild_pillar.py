@@ -63,8 +63,10 @@ La tecnolog\u00eda no existe en el vac\u00edo. Cambia c\u00f3mo nos vemos, c\u00
 - **[Estados Unidos us\u00f3 IA para reinventar el f\u00fatbol en el Mundial 2026]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** - USA no lleg\u00f3 a competir: lleg\u00f3 a demostrar que los datos pueden cambiar el f\u00fatbol.
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - C\u00f3mo la tecnolog\u00eda fragmenta nuestra atenci\u00f3n, relaciones e identidad.
 - **[\u00bfQu\u00e9 es realmente el f\u00fatbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** - Una reflexi\u00f3n filos\u00f3fica sobre el juego m\u00e1s popular del mundo.
+- **[Paraguay 2040: un pa\u00eds construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** \u2014 Prospectiva a 15 a\u00f1os: bono demogr\u00e1fico, super\u00e1vit energ\u00e9tico, data centers y los tres escenarios.
+- **[Simulador interactivo Paraguay 2040](/simulador-2040/)** \u2014 Cinco palancas, dos shocks. Mov\u00e9 los sliders y descubr\u00ed qu\u00e9 futuro se construye.
 
-**Pr\u00f3ximamente:** Guaran\u00ed e IA y Paraguay 2040.
+**Pr\u00f3ximamente:** nuevos an\u00e1lisis del observatorio.
 
 ---
 
