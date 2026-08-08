@@ -4,6 +4,7 @@ title: "Costos energéticos y la IA en Paraguay — Editorial 6 de agosto de 202
 description: "Un estudio internacional proyecta un incremento de hasta el 45,6% en la tarifa eléctrica de la sector eléctrico{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %}, un dato que altera directamente la planificación de cualquier proyecto de infraestructura digital en Paraguay."
 
 
+
 date: 2026-08-06 18:00:00 -0300
 last_modified_at: 2026-08-06
 categories: editorial
