@@ -1,16 +1,16 @@
 <div class="calc-energetica">
 
-  <p class="calc-eyebrow"><span class="calc-dot"></span>Herramienta de comparaci\u00f3n de costos</p>
+  <p class="calc-eyebrow"><span class="calc-dot"></span>Herramienta de comparación de costos</p>
 
-  <div class="calc-alert" id="regalert">
-    <span class="calc-alert-icon">\u26A0</span>
+  <div class="calc-alert">
+    <span class="calc-alert-icon">&#9888;</span>
     <div>
-      <p class="calc-alert-title">Estado regulatorio: en revisi\u00f3n activa (agosto 2026)</p>
+      <p class="calc-alert-title">Estado regulatorio: en revisión activa (agosto 2026)</p>
       <p class="calc-alert-text">
         La tarifa de 30 US$/MWh corresponde al Grupo de Consumo Intensivo Especial de ANDE.
         Tras la renuncia del presidente de ANDE el 27 de julio de 2026, el nuevo titular fue instruido
-        a definir una <b>tarifa t\u00e9cnica \u00fanica</b> para nuevos proyectos &mdash; todav\u00eda sin publicar.
-        <a href="#disclaimer-detail" onclick="document.getElementById('disclaimer-detail').scrollIntoView({behavior:'smooth'});return false;">Ver detalle completo &darr;</a>
+        a definir una <b>tarifa técnica única</b> para nuevos proyectos — todavía sin publicar.
+        <a href="#disclaimer-detail" onclick="document.getElementById('disclaimer-detail').scrollIntoView({behavior:'smooth'});return false;">Ver detalle completo &#8595;</a>
       </p>
     </div>
   </div>
@@ -26,69 +26,81 @@
         <input type="range" id="calc-mw" min="10" max="1000" step="10" value="100" aria-label="Capacidad instalada en MW">
         <div class="calc-range-marks"><span>10 MW</span><span>1.000 MW</span></div>
         <div class="calc-presets">
-          <button class="calc-preset-btn" data-mw="10">Piloto &middot; 10</button>
-          <button class="calc-preset-btn active" data-mw="100">Mediano &middot; 100</button>
-          <button class="calc-preset-btn" data-mw="300">HIVE PY &middot; 300</button>
-          <button class="calc-preset-btn" data-mw="1000">Hiperescala &middot; 1.000</button>
+          <button class="calc-preset-btn" data-mw="10">Piloto · 10 MW</button>
+          <button class="calc-preset-btn active" data-mw="100">Mediano · 100 MW</button>
+          <button class="calc-preset-btn" data-mw="300">HIVE Paraguay · 300 MW</button>
+          <button class="calc-preset-btn" data-mw="1000">Hiperescala · 1.000 MW</button>
         </div>
       </div>
 
       <p class="calc-assumption">
-        Se asume operaci\u00f3n continua (8.760 h/a\u00f1o, factor de carga ~100%), t\u00edpico de un data center.
-        Cada pa\u00eds usa un rango real min&ndash;max; la barra muestra el punto medio.
+        Se asume operación continua (8.760 h/año, factor de carga ~100%), típico de un data center.
+        Cada país usa un rango real min–max verificado; la barra muestra el punto medio.
       </p>
+
+      <div class="calc-howto">
+        <p class="calc-howto-title">Cómo usar esta calculadora</p>
+        <ol class="calc-howto-list">
+          <li>Ajustá la capacidad de tu proyecto con el slider o los botones de abajo.</li>
+          <li>Compará el costo anual de electricidad en 5 mercados.</li>
+          <li>Activá el escenario de riesgo regulatorio para ver qué pasa si ANDE cambia la tarifa.</li>
+        </ol>
+      </div>
     </div>
 
     <div class="calc-panel">
+      <label class="calc-toggle">
+        <input type="checkbox" id="riskScenario">
+        <span class="calc-toggle-text"><b>Mostrar escenario de riesgo regulatorio</b> — si la nueva tarifa técnica única de ANDE se acerca a la tarifa electrointensiva histórica (60 US$/MWh) en vez de mantenerse en 30.</span>
+      </label>
+
       <div class="calc-headline">
         <div class="calc-headline-item">
-          <span class="calc-hl-n" id="hl-py">&mdash;</span>
+          <span class="calc-hl-n" id="hl-py">—</span>
           <span class="calc-hl-l">Costo anual en Paraguay</span>
         </div>
         <div class="calc-headline-item">
-          <span class="calc-hl-n" id="hl-savings">&mdash;</span>
-          <span class="calc-hl-l">Ahorro anual vs. Irlanda</span>
+          <span class="calc-hl-n" id="hl-savings">—</span>
+          <span class="calc-hl-l">Ahorro vs. Irlanda</span>
         </div>
         <div class="calc-headline-item">
-          <span class="calc-hl-n" id="hl-pct">&mdash;</span>
-          <span class="calc-hl-l">Energ\u00eda como % del opex (rango seg\u00fan fuente)</span>
+          <span class="calc-hl-n" id="hl-pct">—</span>
+          <span class="calc-hl-l">Energía como % del opex</span>
         </div>
       </div>
 
-      <p class="calc-panel-title" style="margin-bottom:14px;">Costo anual de electricidad por pa\u00eds</p>
+      <p class="calc-panel-title">Costo anual de electricidad por país</p>
       <div class="calc-bars" id="calc-bars"></div>
-
-      <label class="calc-toggle">
-        <input type="checkbox" id="riskScenario">
-        <span class="calc-toggle-text"><b>Mostrar escenario de riesgo regulatorio</b> &mdash; si la nueva tarifa t\u00e9cnica \u00fanica de ANDE se acerca a la tarifa electrointensiva hist\u00f3rica (60 US$/MWh) en vez de mantenerse en 30.</span>
-      </label>
 
       <div class="calc-narrative" id="narrative"></div>
 
       <div class="calc-disclaimer" id="disclaimer-detail">
-        <b>Tarifas usadas (USD/MWh, rango min&ndash;max):</b>
-        Paraguay 30&ndash;45 &middot; Suecia (Lule\u00e5) 45&ndash;65 &middot; Chile 85&ndash;100 &middot; Virginia, EE.UU. 95&ndash;130 &middot; Irlanda (Dubl\u00edn) 150&ndash;190.<br><br>
+        <p><b>Tarifas usadas (USD/MWh, rango min–max):</b><br>
+        Paraguay 30–45 · Suecia (Luleå) 45–65 · Chile 85–100 · Virginia, EE.UU. 95–130 · Irlanda (Dublín) 150–190.</p>
 
-        <b>Por qu\u00e9 la tarifa de Paraguay est\u00e1 marcada como &quot;en revisi\u00f3n&quot;:</b>
-        El piso de 30 US$/MWh corresponde al contrato del Grupo de Consumo Intensivo Especial (Resoluci\u00f3n ANDE
-        49238/2024, vigente hasta dic. 2027). Cuatro decretos presidenciales (5306, 5307, 5860, 5861, ene&ndash;abr 2026)
-        extendieron esa tarifa a 15 a\u00f1os para industrias convergentes y data centers, pero fueron derogados el 9 de junio
-        de 2026. El presidente de ANDE que se neg\u00f3 a aplicarlos, F\u00e9lix Sosa, renunci\u00f3 el 27 de julio de 2026.
-        Su sucesor, Miguel B\u00e1ez, recibi\u00f3 instrucci\u00f3n de definir una tarifa t\u00e9cnica \u00fanica
-        &mdash; informe entregado el 31 de julio, contenido a\u00fan no p\u00fablico.<br><br>
+        <p><b>¿Por qué la tarifa de Paraguay está "en revisión"?</b><br>
+        El piso de 30 US$/MWh corresponde al Grupo de Consumo Intensivo Especial (Resolución ANDE
+        49238/2024, vigente hasta dic. 2027). Cuatro decretos presidenciales (5306, 5307, 5860, 5861, ene–abr 2026)
+        extendieron esa tarifa a 15 años para data centers, pero fueron derogados el 9 de junio de 2026.
+        El presidente de ANDE que se negó a aplicarlos, Félix Sosa, renunció el 27 de julio de 2026.
+        Su sucesor, Miguel Báez, recibió instrucción de definir una tarifa técnica única
+        — informe entregado el 31 de julio, aún no público.</p>
 
-        <b>Nivel de verificaci\u00f3n por pa\u00eds:</b> Paraguay, con fuente oficial pero en disputa activa.
-        Suecia con dos fuentes de mercado independientes. Chile y Virginia con una fuente de mercado cada una.
-        Irlanda con una sola fuente, sin segundo respaldo.<br><br>
+        <p><b>Nivel de verificación por país:</b><br>
+        Paraguay: fuente oficial (ANDE) pero en disputa activa.
+        Suecia: dos fuentes de mercado independientes.
+        Chile y Virginia: una fuente de mercado cada una.
+        Irlanda: una sola fuente, sin segundo respaldo.</p>
 
-        <b>Sobre el &quot;% de costo operativo&quot;:</b> la cifra de 40&ndash;60% corresponde a un estudio de 2026
-        v\u00eda C\u00e1mara de Comercio de EE.UU.; otras fuentes ubican la electricidad en 15&ndash;25% del opex.
-        Se muestra como rango por esa discrepancia real entre fuentes.<br><br>
+        <p><b>Sobre el "% de costo operativo":</b><br>
+        La cifra de 40–60% corresponde a un estudio de 2026 vía Cámara de Comercio de EE.UU.;
+        otras fuentes especializadas ubican la electricidad en 15–25% del opex.
+        Se muestra como rango por esa discrepancia real entre fuentes.</p>
 
-        Esta calculadora a\u00edsla solo el componente de energ\u00eda. No sustituye una cotizaci\u00f3n real ni asesor\u00eda legal o financiera.
+        <p>Esta calculadora aísla solo el componente de energía. No sustituye una cotización real ni asesoría legal o financiera.</p>
       </div>
 
-      <p class="calc-updated">\u00daltima verificaci\u00f3n de fuentes: 8 de agosto de 2026</p>
+      <p class="calc-updated">Última verificación de fuentes: 8 de agosto de 2026</p>
     </div>
 
   </div>
@@ -97,11 +109,11 @@
 <script>
 (function(){
   var markets = [
-    { id:'py', name:'Paraguay', min:30, max:45, color:'#22b8cf', note:'30 verificado (ANDE), 45 estimado' },
-    { id:'se', name:'Suecia (Lule\u00e5)', min:45, max:65, color:'#748ffc' },
-    { id:'cl', name:'Chile', min:85, max:100, color:'#da77f2' },
-    { id:'va', name:'Virginia, EE.UU.', min:95, max:130, color:'#fab005' },
-    { id:'ie', name:'Irlanda (Dubl\u00edn)', min:150, max:190, color:'#fa5252' }
+    { id:'py', name:'Paraguay',          min:30,  max:45,  color:'#22b8cf', note:'30 verificado (ANDE), ~45 estimado' },
+    { id:'se', name:'Suecia (Luleå)',    min:45,  max:65,  color:'#748ffc', note:'' },
+    { id:'cl', name:'Chile',             min:85,  max:100, color:'#da77f2', note:'' },
+    { id:'va', name:'Virginia, EE.UU.',  min:95,  max:130, color:'#fab005', note:'' },
+    { id:'ie', name:'Irlanda (Dublín)',  min:150, max:190, color:'#fa5252', note:'' }
   ];
 
   var mwEl = document.getElementById('calc-mw');
@@ -125,13 +137,15 @@
 
     var rows = markets.slice();
     if(showRisk){
-      var pyIdx = rows.findIndex(function(m){ return m.id==='py'; });
-      rows.splice(pyIdx+1, 0, { id:'py-risk', name:'Paraguay (escenario en revisi\u00f3n)', min:45, max:60, color:'#adb5bd', note:'hipot\u00e9tico, no confirmado' });
+      rows.splice(1, 0, { id:'py-risk', name:'Paraguay (escenario en revisión)', min:45, max:60, color:'#adb5bd', note:'hipotético, no confirmado' });
     }
 
     var costs = rows.map(function(m){
       var midRate = (m.min+m.max)/2;
-      return { name:m.name, id:m.id, min:m.min, max:m.max, midRate:midRate, cost:mwh*midRate, color:m.color, note:m.note };
+      return {
+        name: m.name, id: m.id, min: m.min, max: m.max,
+        midRate: midRate, cost: mwh * midRate, color: m.color, note: m.note || ''
+      };
     });
 
     var maxCost = Math.max.apply(null, costs.map(function(c){ return c.cost; }));
@@ -140,16 +154,15 @@
       var pct = (c.cost/maxCost)*100;
       var row = document.createElement('div');
       row.className = 'calc-bar-row';
-      var isDashed = c.id === 'py-risk';
-      var isOutside = pct < 22;
+      var noteText = c.note ? ' <span class="calc-bar-note">· ' + c.note + '</span>' : '';
       row.innerHTML =
         '<div class="calc-bar-head">' +
           '<span class="calc-bar-market">' + c.name + '</span>' +
-          '<span class="calc-bar-rate">USD ' + c.min + '\u2013' + c.max + ' /MWh' + (c.note ? ' \u00b7 ' + c.note : '') + '</span>' +
+          '<span class="calc-bar-rate">USD ' + c.min + '–' + c.max + ' /MWh' + noteText + '</span>' +
         '</div>' +
-        '<div class="calc-bar-track"' + (isDashed ? ' style="border-style:dashed"' : '') + '>' +
-          '<div class="calc-bar-fill' + (isOutside ? ' calc-bar-fill-outside' : '') + '" style="width:' + pct + '%;background:' + c.color + '">' +
-            '<span>' + fmtUSD(c.cost) + '/a\u00f1o</span>' +
+        '<div class="calc-bar-track"' + (c.id === 'py-risk' ? ' style="border-style:dashed;opacity:0.7"' : '') + '>' +
+          '<div class="calc-bar-fill' + (pct < 20 ? ' calc-bar-fill-outside' : '') + '" style="width:' + pct + '%;background:' + c.color + '">' +
+            '<span>' + fmtUSD(c.cost) + '/año</span>' +
           '</div>' +
         '</div>';
       barsEl.appendChild(row);
@@ -158,22 +171,21 @@
     var py = costs.find(function(c){ return c.id==='py'; });
     var ie = costs.find(function(c){ return c.id==='ie'; });
     var va = costs.find(function(c){ return c.id==='va'; });
-    var savings = ie.cost - py.cost;
+    var savings = ie ? ie.cost - py.cost : 0;
 
     document.getElementById('hl-py').textContent = fmtUSD(py.cost);
     document.getElementById('hl-savings').textContent = fmtUSD(savings);
-    document.getElementById('hl-pct').textContent = '15\u201360%';
+    document.getElementById('hl-pct').textContent = '15–60%';
 
     var riskNote = showRisk
-      ? ' Si la tarifa t\u00e9cnica \u00fanica que ANDE est\u00e1 definiendo se acerca a la referencia electrointensiva hist\u00f3rica (60 US$/MWh), la ventaja frente a Virginia se reduce pero Paraguay seguir\u00eda siendo m\u00e1s barato que Irlanda.'
+      ? ' Si la tarifa técnica única que ANDE está definiendo se acerca a la referencia electrointensiva histórica (60 US$/MWh), la ventaja frente a Virginia se reduce pero Paraguay seguiría siendo más barato que Irlanda.'
       : '';
 
     document.getElementById('narrative').innerHTML =
-      'Para <b>' + mw.toLocaleString('es-PY') + ' MW</b> operando todo el a\u00f1o, la electricidad en Paraguay costar\u00eda ' +
-      'alrededor de <b>' + fmtUSD(py.cost) + ' al a\u00f1o</b> con la tarifa actual \u2014 frente a <b>' + fmtUSD(ie.cost) + '</b> en ' +
-      'Irlanda y <b>' + fmtUSD(va.cost) + '</b> en Virginia. Esa tarifa est\u00e1 bajo revisi\u00f3n activa por parte de ANDE al ' +
-      'momento de esta verificaci\u00f3n (agosto 2026), as\u00ed que tratala como un punto de partida, no como un compromiso ' +
-      'contractual.' + riskNote;
+      'Para <b>' + mw.toLocaleString('es-PY') + ' MW</b> operando todo el año, la electricidad en Paraguay costaría ' +
+      'alrededor de <b>' + fmtUSD(py.cost) + ' al año</b> con la tarifa actual — frente a <b>' + fmtUSD(ie.cost) + '</b> en ' +
+      'Irlanda y <b>' + fmtUSD(va.cost) + '</b> en Virginia. Esa tarifa está bajo revisión activa por parte de ANDE al ' +
+      'momento de esta verificación (agosto 2026), así que tratala como un punto de partida, no como un compromiso contractual.' + riskNote;
   }
 
   mwEl.addEventListener('input', function(){

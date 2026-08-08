@@ -244,6 +244,34 @@ last_modified_at: 2026-08-08
   margin-top: 4px;
 }
 
+/* how-to box */
+.calc-howto {
+  margin-top: var(--spacer);
+  padding: 12px 14px;
+  border-radius: 8px;
+  background: rgba(34,184,207,0.06);
+  border: 1px solid rgba(34,184,207,0.15);
+}
+
+.calc-howto-title {
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--oc-cyan-4);
+  margin-bottom: 8px;
+}
+
+.calc-howto-list {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 11px;
+  color: var(--calc-muted);
+  line-height: 1.6;
+}
+
+.calc-howto-list li {
+  margin-bottom: 2px;
+}
+
 /* headline */
 .calc-headline {
   display: flex;
@@ -302,6 +330,11 @@ last_modified_at: 2026-08-08
   color: var(--calc-muted);
 }
 
+.calc-bar-note {
+  color: var(--calc-muted-2);
+  font-size: 0.95em;
+}
+
 .calc-bar-track {
   height: 26px;
   background: var(--calc-panel-2);
@@ -344,7 +377,7 @@ last_modified_at: 2026-08-08
   background: var(--calc-panel-2);
   border: 1px solid var(--calc-border-soft);
   border-radius: 8px;
-  margin-top: 14px;
+  margin-bottom: var(--spacer-2);
   cursor: pointer;
 }
 
