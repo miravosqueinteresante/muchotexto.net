@@ -130,7 +130,7 @@ last_modified_at: 2026-08-08
   text-transform: uppercase;
   letter-spacing: 0.07em;
   color: var(--calc-muted);
-  margin: 0 0 16px;
+  margin: 0 0 var(--spacer-2) 0;
 }
 
 /* input field */
@@ -308,15 +308,16 @@ last_modified_at: 2026-08-08
 .calc-bars {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 18px;
+  margin-bottom: var(--spacer);
 }
 
 .calc-bar-head {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  margin-bottom: 5px;
-  font-size: 12.5px;
+  margin-bottom: 6px;
+  font-size: 13px;
 }
 
 .calc-bar-market {
@@ -336,7 +337,7 @@ last_modified_at: 2026-08-08
 }
 
 .calc-bar-track {
-  height: 26px;
+  height: 30px;
   background: var(--calc-panel-2);
   border-radius: 6px;
   overflow: hidden;
@@ -403,7 +404,7 @@ last_modified_at: 2026-08-08
 
 /* narrative */
 .calc-narrative {
-  margin-top: 20px;
+  margin-top: var(--spacer-2);
   font-size: 13px;
   line-height: 1.65;
   color: var(--oc-gray-3);
