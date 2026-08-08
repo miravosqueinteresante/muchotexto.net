@@ -768,6 +768,7 @@ Evolución del sitio de "medio digital" a "observatorio de IA en Paraguay": cont
 muchotexto.net — Observatorio de IA en Paraguay
 ├── /ia-en-paraguay/     (biblioteca de análisis con filtro sectorial)
 ├── /simulador-2040/     (simulador interactivo de escenarios)
+├── /calculadora-energetica/ (calculadora de costo energético comparativo)
 ├── /glosario/           (vivo, con fecha de actualización)
 ├── /cronologia/         (hitos de IA en Paraguay)
 ├── /directorio/         (startups de IA paraguayas)
@@ -926,7 +927,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 | `editorial` | Opinión diaria basada en el Pulso | Automático (cron 18:00 PYT) |
 
 **Páginas estáticas:**
-`/` `/about/` `/como-trabajamos/` `/contacto/` `/ia-en-paraguay/` `/simulador-2040/` `/glosario/` `/cronologia/` `/directorio/` `/regulacion/` `/casos-de-uso/` `/categories/` `/archive/` `/tags/` `/buscar/` `/privacidad/` `/terminos/` `/404.html`
+`/` `/about/` `/como-trabajamos/` `/contacto/` `/ia-en-paraguay/` `/simulador-2040/` `/calculadora-energetica/` `/glosario/` `/cronologia/` `/directorio/` `/regulacion/` `/casos-de-uso/` `/categories/` `/archive/` `/tags/` `/buscar/` `/privacidad/` `/terminos/` `/404.html`
 
 **Navegación:** Inicio | Observatorio IA | Entidades | Glosario | Categorías | Acerca de | Cómo trabajamos | Contacto
 
@@ -938,6 +939,7 @@ muchotexto.net — Observatorio de IA en Paraguay
 muchotexto.net/
 ├── _config.yml              # Jekyll: url, plugins, pagination, SEO defaults
 ├── simulador-2040.markdown  # Página standalone del simulador interactivo
+├── calculadora-energetica.markdown # Página standalone calculadora costo energético
 ├── index.markdown           # Home (layout: home, paginación)
 ├── about.markdown           # Acerca de
 ├── contacto.markdown        # Contacto
@@ -949,6 +951,7 @@ muchotexto.net/
 │   ├── custom-head.html     # CSP, GA4 consent, og:image, GSC/Bing, Person+Organization JSON-LD
 │   ├── critical-css.html    # CSS crítico inline (dark mode only)
 │   ├── simulador-2040.html  # Widget interactivo de escenarios Paraguay 2040
+│   ├── calculadora-energetica.html # Widget comparativo de costo energético
 │   ├── cookie-consent.html  # Banner cookies (GA4 consent)
 │   └── share.html           # Native share API
 ├── _layouts/
@@ -1308,6 +1311,9 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 120 | Homepage: banner CTA del simulador entre Últimos análisis y Sobre el observatorio. | 7-ago |
 | 121 | AGENTS.md: +sección Paraguay 2040 claims (37 verificados). Shock Taiwán corregido a techos duros. | 7-ago |
 | 122 | Estrategia SEO actualizada: +simulador en arquitectura, mapa de archivos y changelog. | 7-ago |
+| 123 | Calculadora de costo energético: página `/calculadora-energetica/`, include `calculadora-energetica.html`, bar chart comparativo 5 países, toggle riesgo regulatorio. | 7-ago |
+| 124 | Homepage: banner 2 columnas (simulador + calculadora) con diseño de tool cards. | 7-ago |
+| 125 | AGENTS.md: +sección Tarifas ANDE Consumo Intensivo Especial (6 claims). Recordatorio re-verificación cada 30 días. | 7-ago |
 
 ---
 
@@ -1444,13 +1450,16 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 
 ### 7 de agosto 2026
 
-- Simulador interactivo Paraguay 2040: página standalone `/simulador-2040/` con include `_includes/simulador-2040.html`. 5 palancas (diversificación energética, formalización laboral, marco regulatorio, capital humano, infraestructura digital) + 2 shocks (sequía Paraná, crisis Taiwán). Canvas chart con proyecciones 2026-2040 de MW data centers, PIB per cápita y tasa de informalidad. Datos verificados contra AGENTS.md. Diseño scoped CSS con tokens del sitio.
-- Homepage: banner CTA del simulador entre "Últimos análisis" y "Sobre el observatorio" (`_layouts/home.html` + `_sass/monophase/_home.scss`).
-- AGENTS.md ampliado: +sección "Claims verificados — Paraguay 2040" (37 claims verificados: 22 TRUE, 7 PARTIALLY TRUE, 5 UNVERIFIABLE, 3 PROYECCIÓN, 0 FALSE).
+- Simulador interactivo Paraguay 2040: página standalone `/simulador-2040/` con include `_includes/simulador-2040.html`. 5 palancas + 2 shocks, canvas chart, scoped CSS.
+- Calculadora de costo energético: página `/calculadora-energetica/` con include `_includes/calculadora-energetica.html`. Bar chart comparativo 5 países (PY, Suecia, Chile, Virginia, Irlanda), toggle riesgo regulatorio ANDE. Tarifas verificadas contra Resolución 49238/2024 y Pliego de Tarifas Nº 21.
+- Homepage: banner 2 columnas "Herramientas interactivas" con tool cards para simulador y calculadora (`_layouts/home.html` + `_sass/monophase/_home.scss`).
+- AGENTS.md ampliado: +sección "Tarifas ANDE — Consumo Intensivo Especial" (6 claims). +sección "Claims verificados — Paraguay 2040" (37 claims). Recordatorio de re-verificación de tarifa ANDE cada 30 días.
 - Artículo #42 actualizado: link al simulador en la conclusión.
-- Pillar page actualizada: entrada del simulador en "Cultura, filosofía y futuro".
-- Shock Taiwán corregido: de descuento porcentual (-25%) a techos duros (MW cap 5000, PIB cap 16500, piso informalidad 42%), reflejando que Yguazú Digital desaparece del tablero.
+- Pillar page actualizada: simulador + calculadora en "Cultura, filosofía y futuro".
+- Shock Taiwán corregido: de descuento porcentual a techos duros.
 - Bug fix: entidades HTML en labels JS corregidas con innerHTML.
+- Estrategia SEO actualizada: +2 páginas en arquitectura, mapa de archivos, progreso y changelog.
+- `rebuild_pillar.py` actualizado con Paraguay 2040 y simulador.
 
 ### 5 de agosto 2026
 

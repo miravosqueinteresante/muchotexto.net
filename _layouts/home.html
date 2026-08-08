@@ -83,15 +83,21 @@ layout: default
 </section>
 
 <section class="home-section">
-  <a class="simulator-banner" href="{{ '/simulador-2040/' | relative_url }}">
-    <span class="simulator-banner-accent"></span>
-    <div class="simulator-banner-body">
-      <span class="simulator-banner-eyebrow">Paraguay 2040</span>
-      <span class="simulator-banner-title">Simulador interactivo de escenarios</span>
-      <span class="simulator-banner-desc">Cinco palancas, dos shocks y un canvas. Mov&eacute; los sliders y descubr&iacute; qu&eacute; futuro se construye con tus decisiones.</span>
-    </div>
-    <span class="simulator-banner-arrow">&rarr;</span>
-  </a>
+  <h2 class="home-section-title">Herramientas interactivas</h2>
+  <div class="tools-grid">
+    <a class="tool-card" href="{{ '/simulador-2040/' | relative_url }}">
+      <span class="tool-card-icon">&#9881;</span>
+      <span class="tool-card-title">Simulador Paraguay 2040</span>
+      <span class="tool-card-desc">Cinco palancas, dos shocks. Mov&eacute; los sliders y descubr&iacute; qu&eacute; futuro se construye.</span>
+      <span class="tool-card-cta">Probar simulador &rarr;</span>
+    </a>
+    <a class="tool-card" href="{{ '/calculadora-energetica/' | relative_url }}">
+      <span class="tool-card-icon">&#9889;</span>
+      <span class="tool-card-title">Calculadora de costo energ&eacute;tico</span>
+      <span class="tool-card-desc">Compar&aacute; el costo de electricidad para data centers en Paraguay vs. Irlanda, Virginia, Suecia y Chile.</span>
+      <span class="tool-card-cta">Abrir calculadora &rarr;</span>
+    </a>
+  </div>
 </section>
 
 <section class="home-section">

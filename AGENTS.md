@@ -194,5 +194,18 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 - **Ley 7547/2025 reforma Ley de Maquila**: UNVERIFIABLE. BACN devuelve una ley no relacionada (Ley 1229 de 1998) para la URL de la Ley 7547. No se pudo confirmar con fuente primaria. La existencia de reformas a la Ley de Maquila es mencionada en prensa pero el número exacto 7547 requiere verificación.
 - **Paraguay sin regulación específica para data centers**: TRUE. Verificado en AGENTS.md ("sin regulación específica. Ley 294/1993 de EIA aplica genéricamente, nunca aplicada al sector").
 
+### Tarifas ANDE — Consumo Intensivo Especial (verificado ago 2026)
+
+Fuentes: Resolución ANDE 49238/2024, Pliego de Tarifas Nº 21, ABC Color, decretos presidenciales (5306, 5307, 5860, 5861).
+
+- **Tarifa Grupo Consumo Intensivo Especial: 30 US$/MWh**: TRUE. Resolución 49238/2024, vigente hasta dic 2027.
+- **Decretos de extensión a 15 años (5306, 5307, 5860, 5861, ene-abr 2026)**: TRUE. Extendían la tarifa de 30 a industrias convergentes y data centers.
+- **Decretos derogados el 9 de junio de 2026**: TRUE. Presión sindical y técnica interna de ANDE.
+- **Renuncia de Félix Sosa (presidente ANDE) el 27 de julio de 2026**: TRUE. Se negó a aplicar los decretos.
+- **Nuevo titular Miguel Báez instruido a definir tarifa técnica única**: TRUE. Informe entregado 31 de julio, contenido no público.
+- **Demanda de empresas interesadas: 6.300 MW**: Cifra reportada por prensa (ABC Color). Equivale a toda la potencia de Itaipú disponible para PY. VERIFICAR con fuente oficial cuando esté disponible.
+
+**Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 7 de septiembre de 2026. Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
+
 #### Graduados STEM
 - **Menos de 600 graduados en informática por año**: PARTIALLY TRUE. El artículo del propio observatorio ("Educación tech en Paraguay") menciona 400-600 graduados. Fuentes externas (CONACYT, ANEAES) no publican una cifra consolidada actualizada. La estimación es razonable pero no verificable con fuente oficial primaria. Recomendación: citar la fuente del observatorio y aclarar que es estimación.
