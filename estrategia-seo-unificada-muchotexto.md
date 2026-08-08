@@ -1313,7 +1313,8 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 122 | Estrategia SEO actualizada: +simulador en arquitectura, mapa de archivos y changelog. | 7-ago |
 | 123 | Calculadora de costo energético: página `/calculadora-energetica/`, include `calculadora-energetica.html`, bar chart comparativo 5 países, toggle riesgo regulatorio. | 7-ago |
 | 124 | Homepage: banner 2 columnas (simulador + calculadora) con diseño de tool cards. | 7-ago |
-| 125 | AGENTS.md: +sección Tarifas ANDE Consumo Intensivo Especial (6 claims). Recordatorio re-verificación cada 30 días. | 7-ago |
+| 125 | AGENTS.md: +sección Tarifas ANDE Consumo Intensivo Especial. Recordatorio re-verificación cada 30 días. | 7-ago |
+| 126 | Calculadora: Irlanda verificada con segunda fuente (Eurostat €255/MWh no-doméstico S2 2025). AGENTS.md: +sección Tarifas eléctricas internacionales. | 7-ago |
 
 ---
 
@@ -1450,16 +1451,15 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 
 ### 7 de agosto 2026
 
-- Simulador interactivo Paraguay 2040: página standalone `/simulador-2040/` con include `_includes/simulador-2040.html`. 5 palancas + 2 shocks, canvas chart, scoped CSS.
-- Calculadora de costo energético: página `/calculadora-energetica/` con include `_includes/calculadora-energetica.html`. Bar chart comparativo 5 países (PY, Suecia, Chile, Virginia, Irlanda), toggle riesgo regulatorio ANDE. Tarifas verificadas contra Resolución 49238/2024 y Pliego de Tarifas Nº 21.
-- Homepage: banner 2 columnas "Herramientas interactivas" con tool cards para simulador y calculadora (`_layouts/home.html` + `_sass/monophase/_home.scss`).
-- AGENTS.md ampliado: +sección "Tarifas ANDE — Consumo Intensivo Especial" (6 claims). +sección "Claims verificados — Paraguay 2040" (37 claims). Recordatorio de re-verificación de tarifa ANDE cada 30 días.
-- Artículo #42 actualizado: link al simulador en la conclusión.
-- Pillar page actualizada: simulador + calculadora en "Cultura, filosofía y futuro".
-- Shock Taiwán corregido: de descuento porcentual a techos duros.
-- Bug fix: entidades HTML en labels JS corregidas con innerHTML.
-- Estrategia SEO actualizada: +2 páginas en arquitectura, mapa de archivos, progreso y changelog.
-- `rebuild_pillar.py` actualizado con Paraguay 2040 y simulador.
+- Simulador interactivo Paraguay 2040: página standalone `/simulador-2040/`. 5 palancas + 2 shocks, canvas chart.
+- Calculadora de costo energético: página `/calculadora-energetica/`. Bar chart comparativo 5 países, toggle riesgo regulatorio ANDE. Tarifas verificadas.
+- Homepage: banner 2 columnas "Herramientas interactivas" con tool cards.
+- AGENTS.md ampliado: +sección Tarifas ANDE (6 claims), +sección Tarifas eléctricas internacionales (5 países verificados), +sección Paraguay 2040 (37 claims). Recordatorio re-verificación tarifa ANDE cada 30 días.
+- Irlanda: verificada con segunda fuente independiente (Eurostat nrg_pc_205, €255/MWh no-doméstico S2 2025).
+- Artículo #42 actualizado: link al simulador.
+- Pillar page actualizada: simulador + calculadora.
+- Shock Taiwán corregido: techos duros en vez de descuento porcentual.
+- Estrategia SEO actualizada: +2 páginas, changelog, progreso. `rebuild_pillar.py` actualizado.
 
 ### 5 de agosto 2026
 

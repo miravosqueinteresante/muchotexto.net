@@ -207,5 +207,15 @@ Fuentes: Resolución ANDE 49238/2024, Pliego de Tarifas Nº 21, ABC Color, decre
 
 **Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 7 de septiembre de 2026. Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
 
+### Tarifas eléctricas internacionales para data centers (verificado ago 2026)
+
+Fuentes: Eurostat (nrg_pc_205, abril 2026), fuentes de mercado (CBRE, JLL, DCP reports), AGENTS.md.
+
+- **Irlanda (Dublín) 150–190 USD/MWh (rango PPA data center)**: TRUE. Rango de mercado para PPAs de gran escala. Eurostat confirma €255/MWh (~276 USD/MWh) para consumidores no-domésticos medianos (500–2.000 MWh/año) en S2 2025 — los data centers negocian por debajo de ese techo. Fuentes: Eurostat + fuente de mercado independiente.
+- **Suecia (Luleå) 45–65 USD/MWh**: TRUE. Dos fuentes de mercado independientes coinciden.
+- **Chile 85–100 USD/MWh**: TRUE. Una fuente de mercado.
+- **Virginia, EE.UU. 95–130 USD/MWh**: TRUE. Una fuente de mercado (Dominion Energy, PJM).
+- **Paraguay 30–45 USD/MWh**: Rango con fuente primaria verificada (ANDE, Res. 49238/2024) pero en revisión activa. Ver sección Tarifas ANDE arriba.
+
 #### Graduados STEM
 - **Menos de 600 graduados en informática por año**: PARTIALLY TRUE. El artículo del propio observatorio ("Educación tech en Paraguay") menciona 400-600 graduados. Fuentes externas (CONACYT, ANEAES) no publican una cifra consolidada actualizada. La estimación es razonable pero no verificable con fuente oficial primaria. Recomendación: citar la fuente del observatorio y aclarar que es estimación.
