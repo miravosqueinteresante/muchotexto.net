@@ -316,8 +316,13 @@ last_modified_at: 2026-08-08
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  flex-wrap: wrap;
   margin-bottom: 6px;
   font-size: 13px;
+}
+
+.calc-bar-head-note {
+  margin-bottom: 4px;
 }
 
 .calc-bar-market {
@@ -329,11 +334,15 @@ last_modified_at: 2026-08-08
   font-family: var(--code-font-family);
   font-size: 10.5px;
   color: var(--calc-muted);
+  margin-left: auto;
 }
 
 .calc-bar-note {
+  width: 100%;
+  text-align: right;
+  font-size: 10px;
   color: var(--calc-muted-2);
-  font-size: 0.95em;
+  line-height: 1.3;
 }
 
 .calc-bar-track {

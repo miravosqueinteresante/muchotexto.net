@@ -154,11 +154,12 @@
       var pct = (c.cost/maxCost)*100;
       var row = document.createElement('div');
       row.className = 'calc-bar-row';
-      var noteText = c.note ? ' <span class="calc-bar-note">· ' + c.note + '</span>' : '';
+      var noteHtml = c.note ? '<span class="calc-bar-note">' + c.note + '</span>' : '';
       row.innerHTML =
-        '<div class="calc-bar-head">' +
+        '<div class="calc-bar-head' + (c.note ? ' calc-bar-head-note' : '') + '">' +
           '<span class="calc-bar-market">' + c.name + '</span>' +
-          '<span class="calc-bar-rate">USD ' + c.min + '–' + c.max + ' /MWh' + noteText + '</span>' +
+          '<span class="calc-bar-rate">USD ' + c.min + '–' + c.max + ' /MWh</span>' +
+          noteHtml +
         '</div>' +
         '<div class="calc-bar-track"' + (c.id === 'py-risk' ? ' style="border-style:dashed;opacity:0.7"' : '') + '>' +
           '<div class="calc-bar-fill' + (pct < 20 ? ' calc-bar-fill-outside' : '') + '" style="width:' + pct + '%;background:' + c.color + '">' +
