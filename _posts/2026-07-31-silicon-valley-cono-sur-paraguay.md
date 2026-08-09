@@ -62,7 +62,7 @@ Paraguay tiene una herramienta que sus competidores no pueden replicar con la mi
 
 Para un data center de inteligencia artificial que importa GPUs, servidores, sistemas de refrigeración y equipos de red —donde [el hardware representa entre el 60% y el 70% de la inversión de capital]({% post_url 2026-07-25-cadena-valor-data-center %})—, la exención de aranceles e IVA sobre equipamiento importado puede representar un ahorro significativo del CAPEX total, estimado entre el 15% y el 20%. Combinado con la tarifa eléctrica más baja de la región, el paquete fiscal paraguayo es uno de los más competitivos de Sudamérica para operaciones de cómputo intensivo.
 
-El Decreto 6034 de agosto de 2024, que reglamentó la Ley 7599, estableció además un marco tarifario específico para consumidores intensivos de energía, definiendo requisitos técnicos —estudios de impacto en la red, garantías financieras— y dando a ANDE la facultad de fijar tarifas diferenciadas. La ley formalizó un sector que hasta entonces operaba en un vacío regulatorio, pero también encareció los contratos: las tarifas para criptominería y data centers pasaron de aproximadamente USD 0,03 por kWh a un rango de USD 0,04-0,05 por kWh. La barrera de entrada subió, y eso beneficia a los operadores grandes establecidos como HIVE, pero desalienta a los nuevos entrantes que no tienen escala para absorber el costo adicional.
+El Decreto 6034 de mayo de 2026, que reglamentó la Ley 7599 de 2025, estableció además un marco tarifario específico para consumidores intensivos de energía, definiendo requisitos técnicos —estudios de impacto en la red, garantías financieras— y dando a ANDE la facultad de fijar tarifas diferenciadas. La ley formalizó un sector que hasta entonces operaba en un vacío regulatorio, pero también encareció los contratos: las tarifas para criptominería y data centers pasaron de aproximadamente USD 0,03 por kWh a un rango de USD 0,04-0,05 por kWh. La barrera de entrada subió, y eso beneficia a los operadores grandes establecidos como HIVE, pero desalienta a los nuevos entrantes que no tienen escala para absorber el costo adicional.
 
 ## Lo que frena a Silicon Valley
 
@@ -101,7 +101,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 11. [CEPAL — Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://www.cepal.org/es) (septiembre 2024)
 12. [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
 13. [Ley 60/90 — Régimen de Maquila, Paraguay](https://www.mic.gov.py/)
-14. [Ley 7599 (2024) y Decreto 6034 (2024) — Gaceta Oficial del Paraguay](https://www.gacetaoficial.gov.py/)
+14. [Ley 7599 (2025) y Decreto 6034 (2026) — Gaceta Oficial del Paraguay](https://www.gacetaoficial.gov.py/)
 15. [Transparency International — Corruption Perceptions Index 2025: Uruguay 73, Paraguay 24](https://www.transparency.org/en/cpi/2025) (febrero 2026)
 16. [Introl Blog — Latin America AI Infrastructure](https://www.introl.com/blog/) (abril 2026)
 17. [Global Data Center Hub — South America: The $380B AI Race](https://www.globaldatacenterhub.com/) (septiembre 2025)
