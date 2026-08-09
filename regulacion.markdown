@@ -27,7 +27,7 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 - **[Ley 7599 y Decreto 6034 (2025)](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)** — Abren la generación de energía renovable no convencional al sector privado por primera vez. Cuatro figuras legales nuevas: autogenerador, cogenerador, generador puro y exportador. Decreto 6034 firmado el 19 de mayo de 2026.
 - **[Tarifa de Itaipú 2024-2026](/articulos/2026/07/17/itaipu-2027-energia-paraguay/)** — Acuerdo Peña-Lula: $19.28/kW-mes. Paraguay obtiene derecho a vender su excedente en el mercado libre brasileño.
-- **[Anexo C del Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/)** — Vence el 1 de enero de 2027. Negociaciones congeladas desde el escándalo ABIN (abril 2025). Sin acuerdo, Paraguay pierde ~$600M/año. Define la base financiera de la binacional hasta 2053.
+- **[Anexo C del Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/)** — Vence el 1 de enero de 2027. Negociaciones suspendidas entre abril y noviembre de 2025 por el escándalo ABIN, y reanudadas en noviembre de 2025 tras la entrega del informe confidencial brasileño. Sin nuevo acuerdo firmado a agosto de 2026. Sin acuerdo, Paraguay pierde ~$600M/año. Define la base financiera de la binacional hasta 2053.
 
 ## Ciberseguridad
 
@@ -49,8 +49,8 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 ## Inversión y régimen fiscal
 
-- **[Ley 7599/2024 y Decreto 6034/2024](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)** — Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas pasaron de ~$0.03 a $0.04-0.05/kWh. Es una ley presupuestaria anual, no permanente.*
-- **Régimen fiscal general:** IRAE 10% corporativo (el más bajo del hemisferio), sistema territorial, deuda/PIB 19.5%, déficit 1.1%.
+- **[Ley 7599/2025 y Decreto 6034/2026](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)** — Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas pasaron de ~$0.03 a $0.04-0.05/kWh. Es una ley presupuestaria anual, no permanente.*
+- **Régimen fiscal general:** IRAE 10% corporativo (el más bajo del hemisferio), sistema territorial, deuda/PIB 38%, déficit 1.1%.
 
 ## Gobernanza binacional
 
@@ -81,5 +81,5 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 - **Estrategia Nacional de IA** — El MITIC realizó consulta pública en 2024. La UNESCO publicó el RAM Report (diagnóstico de preparación) en diciembre 2025. No hay documento oficial publicado aún.
 - **Ley de historia clínica electrónica** — Aprobada en Diputados (media sanción) en abril 2025. Bajo revisión del Senado.
 - **Reglamentación de la Ley 7593** — Debe estar lista antes de noviembre 2027. La autoridad de aplicación (Dirección General dentro del MITIC) aún no fue creada.
-- **Reforma del Anexo C de Itaipú** — Negociaciones suspendidas desde abril 2025. El reloj corre hacia el 1 de enero de 2027.
+- **Reforma del Anexo C de Itaipú** — Negociaciones suspendidas entre abril y noviembre de 2025, reanudadas en noviembre de 2025. Continúan activas sin nuevo acuerdo a agosto de 2026. El reloj corre hacia el 1 de enero de 2027.
 - **Ley integral de ciberseguridad** — No existe. La Estrategia 2025-2028 es el documento más cercano a una política de Estado en la materia.
