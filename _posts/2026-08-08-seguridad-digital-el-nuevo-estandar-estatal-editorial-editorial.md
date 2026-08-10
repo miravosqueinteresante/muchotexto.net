@@ -4,6 +4,7 @@ title: "Seguridad digital, el nuevo estándar estatal — Editorial 08/08/2026"
 description: "El Ministerio de Educación y Ciencias MEC inició el desarrollo de un registro basado en tecnología criptográfica para validar títulos académicos, marcando un hito en la protección de documentos sensibles en Paraguay."
 
 
+
 date: 2026-08-08 18:00:00 -0300
 last_modified_at: 2026-08-08
 categories: editorial
