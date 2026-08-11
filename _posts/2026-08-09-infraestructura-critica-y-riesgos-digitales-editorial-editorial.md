@@ -4,6 +4,7 @@ title: "Infraestructura crítica y riesgos digitales — Editorial 09/08/2026"
 description: "El acuerdo firmado entre Paraguay y Estados Unidos para la transferencia de tecnología nuclear civil marca un punto de inflexión en la planificación energética del país."
 
 
+
 date: 2026-08-09 18:00:00 -0300
 last_modified_at: 2026-08-09
 categories: editorial
