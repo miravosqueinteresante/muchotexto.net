@@ -1,7 +1,7 @@
 # Estrategia SEO Unificada — muchotexto.net
 
 > **Documento definitivo del proyecto.** Cubre estrategia de contenidos, SEO tecnico, automatizacion, control de calidad, procedimientos operativos y seguimiento.
-> Ultima actualizacion: 11 de agosto de 2026 (observatorio completo, mantenimiento semanal ejecutado).
+> Ultima actualizacion: 11 de agosto de 2026 (9 temas verificados en Proximamente, mantenimiento completo del observatorio).
 
 ---
 
@@ -186,6 +186,8 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 7 | ✅ | Energía renovable y cambio climático: la paradoja paraguaya | `Paraguay energía renovable`, `cambio climático hidroeléctrica` |
 | 8 | ✅ | El efecto derrame: ¿qué pasa en una ciudad paraguaya cuando llega un data center de $200M? | `data center impacto local Paraguay`, `empleo tecnología Paraguay` |
 
+**Próximamente (3):** Tigo PIO Tier III (Última Hora 2016 + FOCO 2026), Mesa Energética / PEN 2050 (Presidencia + MOPC + ABC Color), MOU nuclear Paraguay-EE.UU. (U.S. State Dept, 4-ago-2026).
+
 #### Pilar 2: Geopolítica y regulación tech (8 temas)
 
 | # | Estado | Tema | Keywords primarias |
@@ -198,6 +200,8 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 14 | ✅ | Semiconductores: por qué Taiwán eligió Paraguay | `semiconductores Taiwán Paraguay`, `TSMC`, `cadena chips` |
 | 15 | ✅ | El modelo Itaipú aplicado a la IA: ¿puede funcionar dos veces? | `entidad binacional Paraguay Taiwán`, `gobernanza IA` |
 | 16 | ✅ | Silicon Valley en el Cono Sur: ¿por qué los billonarios miran a Paraguay? | `inversión tech Paraguay`, `Crusoe AI`, `X8Cloud` |
+
+**Próximamente (2):** Contratos secretos ANDE (La Nación, 9-ago-2026), Investor Pass (La Nación, 9-ago-2026).
 
 #### Pilar 3: IA, sociedad y trabajo (10 temas)
 
@@ -214,6 +218,8 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 25 | ✅ | ¿Puede la IA reducir la corrupción en Paraguay? | `IA corrupción`, `transparencia algorítmica Paraguay` |
 | 26 | ✅ | De la soja al silicio: el plan de Paraguay para cambiar su matriz exportadora | `matriz exportadora Paraguay`, `diversificación económica IA` |
 
+**Próximamente (2):** Brecha triple jóvenes (La Nación, 9-ago-2026), Cervepar IA (Revista Foco, 8-ago-2026).
+
 #### Pilar 4: Tecnología aplicada + ecosistema (10 temas)
 
 | # | Estado | Tema | Keywords primarias |
@@ -229,6 +235,8 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 35 | ✅ | Startups paraguayas de IA: quiénes son y por qué nadie habla de ellas | `startups IA Paraguay`, `ecosistema emprendedor tech` |
 | 36 | ✅ | La cadena de valor invisible: todos los negocios que rodean a un centro de datos | `cadena valor data center`, `negocios IA Paraguay` |
 
+**Próximamente (2):** 5G subasta Paraguay (DPL News, 6-ago-2026), SIP transfronterizo BCP (DPL News + La Nación, 10-ago-2026).
+
 #### Pilar 5: Cultura, filosofía y futuro (6 temas)
 
 | # | Estado | Tema | Keywords primarias |
@@ -240,7 +248,9 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 41 | ✅ | Guaraní e IA: ¿puede una lengua indígena sobrevivir en la era de los algoritmos? | `guaraní inteligencia artificial`, `NLP lenguas indígenas` |
 | 42 | ✅ | Paraguay 2040: un país construido con datos | `Paraguay futuro tecnología`, `prospectiva digital` |
 
-**Total: 42 temas. 42 publicados (✅). 0 pendientes. Observatorio completo.**
+**Próximamente (0):** Sin temas verificados.
+
+**Total: 42 temas publicados. 9 pendientes (verificados contra fuentes oficiales).**
 
 > **Desglose real del observatorio:** de los 42 temas, 40 están publicados. De esos 40, 37 son análisis de IA que integran el observatorio + 1 artículo extra ("Qué es un data center", explicador de referencia) = **38 en el observatorio**. Los otros 2 publicados (#19 Bienvenidos y #38 Fútbol) no son análisis de IA y están excluidos del observatorio. Total real en `_posts/` con `categories: articulos`: 40.
 
