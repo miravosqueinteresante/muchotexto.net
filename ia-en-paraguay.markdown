@@ -2,8 +2,8 @@
 layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
-description: "Observatorio de IA en Paraguay: data centers, energía, regulación, empleo tech y geopolítica. Análisis con datos duros y fuentes verificables."
-last_modified_at: 2026-07-19
+description: "Observatorio de IA en Paraguay: data centers, energia, regulacion, empleo tech y geopolitica. Analisis con datos duros y fuentes verificables."
+last_modified_at: 2026-08-11
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -48,6 +48,12 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[Qué le pasa a una ciudad paraguaya cuando llega un data center]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
 
+**Próximamente:**
+
+- **Tigo PIO: el data center que Netflix y Amazon ya usan en Paraguay** — El único Tier III certificado del país opera en Villa Elisa hace una década. Netflix y Google usan sus nodos CDN; HIVE lanzó BUZZ AI Cloud ahí en marzo 2026. Verificado con Última Hora (2016), Uptime Institute, FOCO (2026) y HIVE Earnings.
+- **Mesa Energética y PEN 2050: el plan que Paraguay escribió y no ejecuta** — La Mesa existe desde 2012, la Política Energética al 2050 (Decreto 2553/2024) tiene 95 objetivos y 385 metas, y Peña dio 30 días para propuestas el 6 de agosto de 2026. Verificado con Presidencia.gov.py, MOPC, ABC Color.
+- **Energía nuclear en Paraguay: los reactores modulares que vienen de Washington** — El MOU de cooperación nuclear civil firmado entre Marco Rubio y Rubén Ramírez el 4 de agosto de 2026 abre la puerta a SMRs en el país de las hidroeléctricas. Verificado con U.S. Department of State.
+
 ## Geopolítica y regulación tech
 
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo -y Taiwán produce el 90% de los semiconductores más avanzados- esa relación tiene implicancias que van mucho más allá del comercio.
@@ -64,6 +70,9 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 **Próximamente:**
 
+- **Los contratos secretos de ANDE: el Congreso exige la lista de las 41 electrointensivas** — Diputados aprobó un pedido de informes para conocer todos los memorandos y acuerdos de confidencialidad con data centers, criptominería, semiconductores e hidrógeno desde 2020. Plazo: 15 días. Verificado con La Nación, 9-ago-2026.
+- **Investor Pass: Paraguay compite por nómades tech con residencia desde USD 70.000** — Resolución 0283/2026 del MIC habilita cuatro modalidades de residencia permanente directa para inversores extranjeros. Sin los dos años de temporal que exigía el régimen anterior. Verificado con La Nación, 9-ago-2026.
+
 ## IA, sociedad y trabajo
 
 La inteligencia artificial no son solo algoritmos: son cadenas de suministro humanas, sistemas educativos que necesitan reformarse, y una fuerza laboral que debe decidir qué lugar ocupa en la economía del futuro.
@@ -78,6 +87,9 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
 
 **Próximamente:**
+
+- **Inglés, experiencia e IA: la brecha triple de los jóvenes paraguayos** — Encuesta Regional 2026 de Zabe Corporate y Capaser: 53,3% señala la experiencia práctica como barrera, 53% el inglés, 40% habilidades digitales e IA. Verificado con La Nación, 9-ago-2026.
+- **Cervepar y la IA: cuando el algoritmo vende y el humano decide** — Fernando Torres, director nacional de Ventas, presentó en la Academia CAP las cinco soluciones de IA que ya integran en su ecosistema B2B. Verificado con Revista Foco, 8-ago-2026.
 
 ## Tecnología aplicada y ecosistema
 
@@ -96,6 +108,9 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 
 **Próximamente:**
 
+- **5G en Paraguay: Personal y Tigo ganan la segunda subasta** — Conatel adjudicó espectro el 6 de agosto de 2026. Personal recibió la banda 3.700-3.800 MHz, Tigo la 2.300-2.400 MHz. Primera subasta fue para Claro y Nubicom. Verificado con DPL News, 6-ago-2026.
+- **SIP transfronterizo: el BCP construye la autopista financiera digital** — Derlis Montania (BCP) presentó en el Pay Meeting la expansión del Sistema de Pagos Instantáneos a comercios, impuestos e integración regional. Verificado con DPL News y La Nación, 10-ago-2026.
+
 ## Cultura, filosofía y futuro
 
 La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacionamos y qué creemos que es posible.
@@ -109,6 +124,10 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[Paraguay 2040: un país construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
 - **[Simulador interactivo Paraguay 2040](/simulador-2040/)** — Cinco palancas, dos shocks y un canvas. Mové los sliders y descubrí qué futuro se construye.
 - **[Calculadora de costo energético](/calculadora-energetica/)** — Compará el costo anual de electricidad para data centers en Paraguay vs. Irlanda, Virginia, Suecia y Chile. Tarifas verificadas.
+
+**Próximamente:**
+
+- **Energía nuclear en el país de las hidroeléctricas: el fin de un dogma** — El MOU firmado con EE.UU. el 4 de agosto de 2026 quiebra el consenso hidroeléctrico de 50 años. ¿Qué significa para la identidad energética nacional debatir reactores modulares en el país de Itaipú? Verificado con U.S. Department of State.
 
 ---
 
@@ -170,7 +189,7 @@ El observatorio se actualiza con cada investigación nueva. Esta guía refleja e
   "@type": "CollectionPage",
   "@id": "https://muchotexto.net/ia-en-paraguay/#collection",
   "name": "Observatorio de IA en Paraguay",
-  "description": "Guía completa de inteligencia artificial en Paraguay. 31 artículos organizados en 5 pilares: infraestructura, geopolítica, sociedad, ecosistema y futuro.",
+  "description": "Guia completa de inteligencia artificial en Paraguay. 43 articulos organizados en 5 pilares: infraestructura, geopolitica, sociedad, ecosistema y futuro.",
   "url": "https://muchotexto.net/ia-en-paraguay/",
   "about": { "@id": "https://www.wikidata.org/wiki/Q733" },
   "publisher": { "@id": "https://muchotexto.net/#org" }

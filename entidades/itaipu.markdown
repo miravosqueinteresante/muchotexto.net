@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-08-05
+last_modified_at: 2026-08-11
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
 entity_description: >
@@ -59,7 +59,7 @@ obs_regulacion:
     context: "Acuerdo Peña-Lula: $19.28/kW-mes. Paraguay obtiene derecho a vender su excedente en el mercado libre brasileño."
   - label: "Anexo C del Tratado de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Vence el 1 de enero de 2027. Negociaciones congeladas desde el escándalo ABIN (abril 2025). Sin acuerdo, Paraguay pierde ~$600M/año. Define la base financiera de la binacional hasta 2053."
+    context: "Vence el 1 de enero de 2027. Negociaciones suspendidas entre abril y noviembre de 2025 por el escándalo ABIN, y reanudadas en noviembre de 2025 tras la entrega del informe confidencial brasileño. Sin..."
   - label: "Tratado de Itaipu (1973)"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo..."

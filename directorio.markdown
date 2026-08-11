@@ -2,8 +2,8 @@
 layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
-description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnología en Paraguay. Actualizado al 31 de julio de 2026."
-last_modified_at: 2026-07-31
+description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnologia en Paraguay. Actualizado al 11 de agosto de 2026."
+last_modified_at: 2026-08-11
 ---
 
 Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
@@ -40,8 +40,14 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 
 ## Energía e hidrógeno verde
 
-- **[PTI-PY (Parque Tecnológico Itaipú)](https://www.pti.org.py/)** — Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
-- **[Atome](https://www.atomeplc.com/)** — Proyecto de fertilizantes verdes en Villeta. Anunciado en 2021, decisión final de inversión (FID) alcanzada en abril 2026 con USD 665M (USD 420M deuda multilateral + USD 245M equity). Contrato EPC con Casale (USD 465M). Acuerdo con Yara. Construcción pendiente por negociación de tarifa con ANDE. [Leer más](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
+- **[PTI-PY (Parque Tecnologico Itaipu)](https://www.pti.org.py/)** — Opera la unica unidad experimental de hidrogeno verde del Paraguay (2 Nm3/h). [Leer mas](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
+- **[Atome](https://www.atomeplc.com/)** — Proyecto de fertilizantes verdes en Villeta. Anunciado en 2021, decision final de inversion (FID) alcanzada en abril 2026 con USD 665M (USD 420M deuda multilateral + USD 245M equity). Contrato EPC con Casale (USD 465M). Acuerdo con Yara. Construccion pendiente por negociacion de tarifa con ANDE. [Leer mas](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
+
+## Gobernanza energetica
+
+- **[Mesa Energetica Nacional](#)** — Organismo asesor del Presidente creado por decreto en 2012. Reactivada por Santiago Pena en 2023. Coordino la Politica Energetica Nacional al 2050 (Decreto 2553/2024, 95 objetivos, 385 metas). Reconvocada el 6 de agosto de 2026 con 30 dias para presentar propuestas en cuatro ejes: institucionalidad, generacion, participacion publico-privada y reglas para inversores. [Leer mas](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/).
+- **[Mesa Energetica del MIC+UIP](#)** — Iniciativa del Ministerio de Industria y Comercio y la Union Industrial Paraguaya dentro del Consejo Asesor Empresarial. Concluyo el 22 de julio de 2026 que "por primera vez en la historia tenemos mas proyectos que energia disponible" (Ministro Marco Riquelme). [Leer mas](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/).
+- **[Viceministerio de Minas y Energia (VMME)](https://minasyenergia.mopc.gov.py/)** — Dependencia del MOPC. Autoridad que otorga licencias de generacion electrica privada (>1 MW). Maneja energia, minas e hidrocarburos bajo la estructura del Ministerio de Obras Publicas.
 
 ## Comunidades y espacios
 

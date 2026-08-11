@@ -74,6 +74,8 @@ El tercer obstáculo es institucional. En julio de 2024 Paraguay recibió su pri
 
 Aun con esos riesgos, los números del sector son elocuentes: en agosto de 2026, 41 empresas estaban registradas como consumidores intensivos especiales de ANDE, con una demanda conjunta de 943,8 megavatios —el 13,5% de la energía de Itaipú que corresponde a Paraguay— y una proyección de ingresos para la ANDE de USD 350 millones, un 18,6% más que el año anterior. El capital extranjero ya está pagando por la electricidad paraguaya. La pregunta es si Paraguay va a usar esos ingresos para construir el resto del paquete que los inversores necesitan.
 
+Semanas antes de la publicación de este artículo, la Mesa Energética del Consejo Asesor Empresarial del MIC —el mismo ministerio que Riquelme lidera— llegó a una conclusión que cruza el umbral de lo anecdótico: "por primera vez en la historia tenemos más proyectos que energía disponible". En la práctica, eso significa que la ventana de oportunidad —siempre descrita como abundante e inagotable— ya tiene un límite visible y contable. Paraguay ya no compite contra sí mismo: compite contra su propia capacidad de ejecutar.
+
 ## Conclusión
 
 Paraguay tiene los ingredientes para convertirse en un hub de computación de IA: la electricidad más barata de Sudamérica, un superávit energético estructural, un régimen fiscal de maquila extremadamente competitivo y un caso de éxito —HIVE Digital— que demuestra que el modelo es viable. Pero los ingredientes no hacen el plato.

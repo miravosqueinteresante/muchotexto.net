@@ -2,8 +2,8 @@
 layout: page
 title: "Glosario vivo de Inteligencia Artificial en Paraguay"
 permalink: /glosario/
-description: "Glosario vivo de términos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 31 de julio de 2026."
-last_modified_at: 2026-07-31
+description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 11 de agosto de 2026."
+last_modified_at: 2026-08-11
 ---
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
@@ -53,10 +53,20 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **ANDE (Administración Nacional de Electricidad)** — Empresa estatal que genera, transmite y distribuye la electricidad en Paraguay. Opera con tarifas políticas que no cubren sus costos, lo que limita su capacidad de inversión en la red de transmisión.
 → [Luces y sombras de la apertura eléctrica](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
 
-**Apertura eléctrica (Decreto 6034)** — Norma firmada en mayo de 2026 que habilita por primera vez la generación privada de energía renovable no hidráulica en Paraguay. Permite que empresas generen, compren, vendan y exporten electricidad.
-→ [Luces y sombras de la apertura eléctrica](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
+**Apertura electrica (Decreto 6034)** — Norma firmada en mayo de 2026 que habilita por primera vez la generacion privada de energia renovable no hidraulica en Paraguay. Permite que empresas generen, compren, vendan y exporten electricidad.
+→ [Luces y sombras de la apertura electrica](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
 
-**Itaipú** — Represa hidroeléctrica compartida con Brasil, de 14.000 MW de capacidad instalada. Paraguay tiene derecho al 50% de la energía pero consume solo el 10%, vendiendo el excedente a Brasil. La renegociación del Anexo C en 2027 definirá cuánta energía quedará disponible.
+**Mesa Energetica Nacional** — Organismo asesor del Presidente creado por decreto en 2012. Reactivada por Santiago Pena en octubre de 2023 para actualizar la politica energetica al 2050. Reconvocada el 6 de agosto de 2026 con un plazo de 30 dias para presentar propuestas en cuatro ejes: institucionalidad, generacion, participacion publico-privada y reglas para inversores.
+→ [Luces y sombras de la apertura electrica](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
+
+**Politica Energetica Nacional al 2050 (Decreto 2553/2024)** — Documento rector de la politica energetica paraguaya aprobado el 19-20 de septiembre de 2024. Define 95 objetivos y 385 metas con plazos concretos. Incluye la creacion de un Ministerio de Energia, Hidrocarburos y Mineria (plazo original: 2024, aun no creado). Derogo el Decreto 6.092/2016.
+→ [Paraguay 2040: un pais construido con datos](/articulos/2026/08/05/paraguay-2040-futuro-datos/)
+
+**VMME (Viceministerio de Minas y Energia)** — Dependencia del Ministerio de Obras Publicas y Comunicaciones (MOPC) que funciona como autoridad energetica de Paraguay. Maneja energia, minas e hidrocarburos desde una posicion subordinada al MOPC. A diferencia de Brasil (ANEEL), Chile (CNE) o Uruguay (ADME), Paraguay no tiene un regulador energetico independiente.
+
+**Ministerio de Energia, Hidrocarburos y Mineria** — Cartera ministerial independiente propuesta en la Politica Energetica Nacional al 2050 con plazo de creacion en 2024. A agosto de 2026 no se ha creado. Paraguay sigue operando su gobernanza energetica con un viceministerio dentro del MOPC.
+
+**Itaipu** — Represa hidroelectrica compartida con Brasil, de 14.000 MW de capacidad instalada. Paraguay tiene derecho al 50% de la energia pero consume solo el 10%, vendiendo el excedente a Brasil. La renegociacion del Anexo C en 2027 definira cuanta energia quedara disponible.
 
 ---
 

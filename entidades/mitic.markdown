@@ -4,7 +4,7 @@ title: "Ministerio de Tecnologías de la Información y Comunicación"
 description: >
   Perfil de MITIC en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Ministerio de Tecnologías de la Información y Comunicación.
 permalink: /entidades/mitic/
-last_modified_at: 2026-08-05
+last_modified_at: 2026-08-11
 entity_name: MITIC
 entity_name_full: Ministerio de Tecnologías de la Información y Comunicación
 entity_description: >

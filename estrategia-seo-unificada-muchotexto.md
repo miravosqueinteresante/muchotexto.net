@@ -1,7 +1,7 @@
 # Estrategia SEO Unificada — muchotexto.net
 
-> **Documento definitivo del proyecto.** Cubre estrategia de contenidos, SEO técnico, automatización, control de calidad, procedimientos operativos y seguimiento.
-> Última actualización: 5 de agosto de 2026 (artículo #42 — observatorio completo 42/42).
+> **Documento definitivo del proyecto.** Cubre estrategia de contenidos, SEO tecnico, automatizacion, control de calidad, procedimientos operativos y seguimiento.
+> Ultima actualizacion: 11 de agosto de 2026 (observatorio completo, mantenimiento semanal ejecutado).
 
 ---
 
@@ -1092,28 +1092,24 @@ python scripts/observatorio_intel.py
 
 ### Prioridad alta
 
-| # | Acción | Área |
+| # | Accion | Area |
 |---|---|---|
 | 1 | Verificar IndexNow en Bing Webmaster Tools (crawl status) | SEO |
-| 2 | Verificar indexación y ranking en Google Search Console | SEO |
-| 3 | Publicar artículo #7: Energía renovable y cambio climático (Pilar 1) | Contenido |
-| 4 | Publicar artículo #8: Efecto derrame del data center (Pilar 1) | Contenido |
-| 5 | Actualizar §16: auditar artículos #5, #34, #36, #16, #15 (publicados sin registro) | Calidad |
+| 2 | Ejecutar link building: contactar 3-5 periodistas tech de medios PY con piezas de referencia | Autoridad |
+| 3 | Revisar y actualizar articulos con datos del observatorio (Mesa Energetica, PEN 2050) | Contenido |
+| 4 | Verificar indexacion y ranking en Google Search Console (quincenal) | SEO |
 
 ### Prioridad media
 
-| # | Acción | Área |
+| # | Accion | Area |
 |---|---|---|
-| 8 | **Revisión semanal del observatorio** (`observatorio_intel.py` → decidir semana) | Editorial |
-| 9 | Crear/optimizar perfil de LinkedIn con keywords del nicho | Autoridad |
-| 10 | Preparar "media kit" de una página | Autoridad |
-| 11 | Identificar 3-5 periodistas de tecnología en medios paraguayos | Autoridad |
-| 12 | Crear cuenta/blog en LinkedIn para publicar versiones resumidas | Distribución |
-| 13 | Preparar post de LinkedIn anunciando el cluster IA+Paraguay | Distribución |
-| 13 | Sin `last_modified_at` en artículos pre-julio 2026 | Calidad |
-| 14 | Verificar que páginas `/tags/` se regeneren correctamente | SEO |
-| 15 | Crear template de `research_plan.md` reutilizable | Metodología |
-| 16 | Revisar artículos publicados sin proceso de investigación | Calidad |
+| 5 | **Revision semanal del observatorio** (`observatorio_intel.py` → ejecutado 11-ago) | Editorial |
+| 6 | Crear/optimizar perfil de LinkedIn con keywords del nicho | Autoridad |
+| 7 | Preparar "media kit" de una pagina | Autoridad |
+| 8 | Abrir nuevo ciclo editorial: articulo sobre Mesa Energetica Nacional y PEN 2050 | Contenido |
+| 9 | Sin `last_modified_at` en articulos pre-julio 2026 | Calidad |
+| 10 | Verificar que paginas `/tags/` se regeneren correctamente | SEO |
+| 11 | Crear template de `research_plan.md` reutilizable | Metodologia |
 
 ### Prioridad baja
 

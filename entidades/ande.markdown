@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-08-05
+last_modified_at: 2026-08-11
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
@@ -49,7 +49,7 @@ obs_cronologia:
     url: /cronologia/
     context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
 obs_regulacion:
-  - label: "Ley 7599/2024 y Decreto 6034/2024"
+  - label: "Ley 7599/2025 y Decreto 6034/2026"
     url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
     context: "Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas..."
 obs_casos-de-uso:

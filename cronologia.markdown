@@ -2,8 +2,8 @@
 layout: page
 title: "Cronología de la IA en Paraguay"
 permalink: /cronologia/
-description: "Hitos de la inteligencia artificial, tecnología y energía en Paraguay desde 1973 hasta hoy. Actualizado al 31 de julio de 2026."
-last_modified_at: 2026-07-31
+description: "Hitos de la inteligencia artificial, tecnologia y energia en Paraguay desde 1973 hasta hoy. Actualizado al 11 de agosto de 2026."
+last_modified_at: 2026-08-11
 ---
 
 Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. 
@@ -11,6 +11,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 ## 1973 — 2009
 
 - **1973** — Paraguay y Brasil firman el [Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/): 14.000 MW, la hidroeléctrica más grande del mundo.
+- **2012** — Se crea la [Mesa Energética Nacional](#) por decreto presidencial, como organismo asesor del Presidente en materia de política energética. Reactivada en 2023 y 2026.
 - **1997** — Paraguay promulga la [Ley de Maquila 1064/97](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/), base legal para exportación de servicios intangibles.
 - **2004** — [Ley 2501/2004](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/): tarifa social eléctrica, subsidio residencial que persiste hasta hoy.
 - **2009** — Fernando Lugo y Lula firman acuerdo que triplica la [compensación de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) a Paraguay y compromete una línea de 500 kV — que nunca se construyó.
@@ -34,6 +35,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **2022** — [Sequía histórica en Paraguay](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/): la cosecha de soja cae 60% por La Niña, Itaipú generación cae 35.6%. El PIB crece solo 0.1%.
 - **2022** — Paraguay promulga la [Ley 6822/2022](/articulos/2026/07/16/gobierno-digital-paraguay/) de servicios de confianza electrónica, base legal para la identidad digital.
 - **2022** — Paraguay moderniza su [marco de compras públicas](/articulos/2026/07/17/ia-corrupcion-paraguay/) con la Ley 7021/2022.
+- **Octubre 2023** — Santiago Peña reactiva la [Mesa Energética Nacional](#) con el mandato de actualizar la política energética al 2050.
 - **Noviembre 2022** — OpenAI lanza **ChatGPT**. Comienza el superciclo global de inversión en IA.
 - **2023** — [CONATEL aprueba Starlink](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay, entre los primeros países de América Latina.
 - **2023** — [Paraguay cae a 28/100](/articulos/2026/07/17/ia-corrupcion-paraguay/) en el Índice de Percepción de Corrupción (desde 30 en 2016).
@@ -44,6 +46,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **2024** — ANDE registra **64 denuncias penales** por [conexiones ilegales de criptominería](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/).
 - **Mayo 2024** — Peña y Lula acuerdan [tarifa de Itaipú de $19.28/kW-mes](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) para 2024-2026.
 - **Julio 2024** — Brasil lanza el [Plan Brasileño de IA (PBIA)](/articulos/2026/07/16/ia-soberana-paraguay/): R$23 mil millones.
+- **19-20 Septiembre 2024** — Peña firma el Decreto N.º 2553/24, aprobando la [Política Energética Nacional al 2050](#): 95 objetivos, 385 metas. Incluye la creación de un Ministerio de Energía, Hidrocarburos y Minería (plazo: 2024, aún no creado a ago 2026).
 - **2024** — [Moody's otorga grado de inversión](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/) a Paraguay.
 - **2024** — [Paraguay cae a 24/100](/articulos/2026/07/17/ia-corrupcion-paraguay/) en corrupción, uno de los peores descensos regionales.
 - **2024** — El MITIC realiza [consulta pública para la estrategia nacional de IA](/articulos/2026/07/16/ia-soberana-paraguay/).
@@ -52,9 +55,8 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 ## 2025
 
-- **Noviembre 2024** — [HIVE Digital inicia construcción](/articulos/2026/08/04/impacto-local-data-center-paraguay/) de su primer data center de 100 MW en Valenzuela, Paraguay. La construcción demandó entre 800 y 1.500 trabajadores temporales.
-- **Enero 2025** — [HIVE adquiere Yguazú 200 MW](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) de Bitfarms por USD 56M. Asume USD 19M en contratos con ANDE.
-- **Enero 2025** — [Bitfarms abandona Paraguay](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/) con pérdida contable de $30M. ~10 mineras cierran en 2 años.
+- **Enero 2025** — [HIVE adquiere Yguazú 200 MW](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) de Bitfarms por USD 56M. Asume USD 19M en contratos con ANDE. Construcción de fase 1 completada en junio 2025.
+- **Enero 2025** — [Bitfarms vende Yguazú a HIVE](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/) y completa su salida de Paraguay en enero 2026 con la venta de Paso Pe (70 MW, hasta USD 30M). ~10 mineras cierran en 2 años.
 - **Abril 2025** — Escándalo [ABIN: inteligencia brasileña espía a funcionarios paraguayos](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) durante negociaciones del Anexo C. Paraguay **suspende todas las negociaciones**.
 - **Mayo 2025** — Paraguay aprueba su primera [Estrategia Nacional de Ciberseguridad 2025-2028](/articulos/2026/07/17/ciberseguridad-paraguay/), con apoyo de la OEA.
 - **Junio 2025** — [Ransomware paraliza 18 agencias del gobierno paraguayo](/articulos/2026/07/17/ciberseguridad-paraguay/) y expone millones de registros ciudadanos.
@@ -81,7 +83,10 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Junio 2026** — MITIC dona [1.600 antenas Starlink para escuelas rurales](/articulos/2026/07/15/starlink-paraguay-conectividad/).
 - **Junio 2026** — ICDF contacta a [Google, Microsoft y Amazon](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) como potenciales clientes ancla de Yguazú Digital.
 - **Junio 2026** — Ministro de Industria [visita NVIDIA, OpenAI y Crusoe](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) en Silicon Valley. Sin acuerdos concretos hasta la fecha.
+- **22 Julio 2026** — La [Mesa Energética del MIC+UIP](#), dentro del Consejo Asesor Empresarial, concluye: "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme).
 - **Julio 2026** — La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/) (~30% de adultos).
+- **27 Julio 2026** — Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos de extensión tarifaria. [Miguel Báez asume como nuevo titular](#).
+- **6 Agosto 2026** — Santiago Peña [reconvoca la Mesa Energética Nacional](#) y da 30 días para propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa público-privada y reglas para inversores.
 - **Julio 2026** — Paraguay alcanza [480+ trámites digitales](/articulos/2026/07/16/gobierno-digital-paraguay/), cédula y licencia de conducir digitales disponibles.
 - **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.
 - **10 Julio 2026** — [Declaración conjunta EE.UU.-Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/) denunciando operaciones cibernéticas chinas contra el gobierno paraguayo.
@@ -94,7 +99,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 - **[Paraguay 2040: tres escenarios posibles](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Prospectiva del país construida sobre datos actuales. La ventana demográfica se cierra en 2045. El superávit energético hacia 2038. Las decisiones de 2026-2035 definen el camino.
 
-- **1 Enero 2027** — Vence el [Anexo C del Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/). Sin acuerdo, Paraguay pierde ~$600M/año. Negociaciones congeladas desde abril 2025.
+- **1 Enero 2027** — Vence el [acuerdo tarifario de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) (USD 19,28/kW-mes). Sin nuevo Anexo C firmado, Paraguay pierde ~$600M/año. Negociaciones suspendidas entre abril y noviembre de 2025, reanudadas en noviembre de 2025.
 - **Noviembre 2027** — Entra en vigor la [Ley 7593 de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/). Yguazú Digital Fase I debe estar operativo.
 - **2026** — Finalización proyectada del [Corredor Bioceánico](/articulos/2026/07/24/ecommerce-logistica-paraguay/).
 - **2028** — [Elecciones generales en Paraguay](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/): prueba de fuego para la alianza con Taiwán.

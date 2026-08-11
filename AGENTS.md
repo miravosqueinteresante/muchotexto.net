@@ -194,6 +194,22 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 - **Ley 7547/2025 reforma Ley de Maquila**: UNVERIFIABLE. BACN devuelve una ley no relacionada (Ley 1229 de 1998) para la URL de la Ley 7547. No se pudo confirmar con fuente primaria. La existencia de reformas a la Ley de Maquila es mencionada en prensa pero el número exacto 7547 requiere verificación.
 - **Paraguay sin regulación específica para data centers**: TRUE. Verificado en AGENTS.md ("sin regulación específica. Ley 294/1993 de EIA aplica genéricamente, nunca aplicada al sector").
 
+### Mesa Energética Nacional y gobernanza institucional (verificado ago 2026)
+
+Fuentes: Presidencia.gov.py, MOPC, ABC Color, Última Hora, RDN, RCC, MIC.gov.py, Itaipú.gov.py.
+
+- **Mesa Energética Nacional**: creada por decreto presidencial en 2012 como organismo asesor del Presidente. Fuente: Última Hora (6-ago-2026), Itaipú.gov.py.
+- **Reactivación 2023**: el gobierno de Santiago Peña la reactivó en octubre de 2023 con el mandato de actualizar la política energética. Fuente: RDN (9-oct-2023), MOPC Twitter.
+- **Política Energética Nacional al 2050**: aprobada por Decreto N.º 2553/24 el 19-20 de septiembre de 2024. Deroga el decreto 6.092/2016. Define 95 objetivos y 385 metas (dato del propio documento, verificado por el fact-checker con fuente del MOPC). Fuente: MOPC (20-sep-2024), Presidencia.gov.py (16 y 29-sep-2024).
+  - NOTA: El documento dice "95 objetivos y 385 metas" pero el acceso al PDF completo no está disponible online. Atribuir a "según el MOPC" hasta verificación directa.
+- **Meta institucional**: la PEN 2050 incluye la creación y puesta en funcionamiento de un Ministerio de Energía, Hidrocarburos y Minería. Plazo original: 2024. A agosto 2026 no se ha creado. Solo existe el Viceministerio de Minas y Energía (VMME) como dependencia del MOPC. Fuente: MOPC.gov.py.
+- **Reconvocatoria 6 agosto 2026**: Peña convocó la Mesa Energética Nacional y dio 30 días para presentar propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa eléctrica público-privada y reglas para inversores. Fuente: ABC Color (8-ago-2026).
+- **Mesa Energética del MIC+UIP**: dentro del Consejo Asesor Empresarial del MIC, concluyó el 22 de julio de 2026 que "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme). Fuente: RCC (22-jul-2026), MIC.gov.py.
+- **Consumo eléctrico**: ~15-16 TWh de consumo interno (NO 29 TWh). La cifra de 29.419 GWh citada en algunos análisis sectoriales no corresponde al consumo interno sino a generación total o disponible (consumo + exportación + pérdidas). Fuentes: Wikipedia "Energy in Paraguay" (2019: 13.229 GWh), ANDE/AGENTS.md (2025: ~15-16 TWh). NO usar 29 TWh como consumo interno.
+  - Crecimiento histórico del consumo: ~3-5% CAGR (2019-2025).
+  - Crecimiento reciente de demanda (era data centers): 12-21% anual. Ambos datos son correctos en sus respectivos contextos.
+- **6.300 MW**: es la potencia disponible de Itaipú para Paraguay (10 turbinas x 700 MW con 10% de margen), NO exclusivamente la demanda de empresas interesadas. La prensa reporta este número como "demanda de empresas" pero casualmente coincide con la capacidad paraguaya de Itaipú. Fuente: Wikipedia ES ANDE, ABC Color.
+
 ### Tarifas ANDE — Consumo Intensivo Especial (verificado ago 2026)
 
 Fuentes: Resolución ANDE 49238/2024, Pliego de Tarifas Nº 21, ABC Color, decretos presidenciales (5306, 5307, 5860, 5861).
