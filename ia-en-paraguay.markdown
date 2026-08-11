@@ -127,7 +127,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 
 **Próximamente:**
 
-- **Energía nuclear en el país de las hidroeléctricas: el fin de un dogma** — El MOU firmado con EE.UU. el 4 de agosto de 2026 quiebra el consenso hidroeléctrico de 50 años. ¿Qué significa para la identidad energética nacional debatir reactores modulares en el país de Itaipú? Verificado con U.S. Department of State.
+*Sin temas verificados por el momento. Se investigarán fuentes de cultura, filosofía y futuro digital en Paraguay.*
 
 ---
 
