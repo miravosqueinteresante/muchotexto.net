@@ -3,7 +3,7 @@ layout: page
 title: "Cronología de la IA en Paraguay"
 permalink: /cronologia/
 description: "Hitos de la inteligencia artificial, tecnologia y energia en Paraguay desde 1973 hasta hoy. Actualizado al 11 de agosto de 2026."
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-12
 ---
 
 Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. 
@@ -46,7 +46,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **2024** — ANDE registra **64 denuncias penales** por [conexiones ilegales de criptominería](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/).
 - **Mayo 2024** — Peña y Lula acuerdan [tarifa de Itaipú de $19.28/kW-mes](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) para 2024-2026.
 - **Julio 2024** — Brasil lanza el [Plan Brasileño de IA (PBIA)](/articulos/2026/07/16/ia-soberana-paraguay/): R$23 mil millones.
-- **19-20 Septiembre 2024** — Peña firma el Decreto N.º 2553/24, aprobando la [Política Energética Nacional al 2050](#): 95 objetivos, 385 metas. Incluye la creación de un Ministerio de Energía, Hidrocarburos y Minería (plazo: 2024, aún no creado a ago 2026).
+- **19-20 Septiembre 2024** — Peña firma el Decreto N.º 2553/24, aprobando la [Política Energética Nacional al 2050](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/): 95 objetivos, 385 metas. Incluye la creación de un Ministerio de Energía, Hidrocarburos y Minería (plazo: 2024, aún no creado a ago 2026).
 - **2024** — [Moody's otorga grado de inversión](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/) a Paraguay.
 - **2024** — [Paraguay cae a 24/100](/articulos/2026/07/17/ia-corrupcion-paraguay/) en corrupción, uno de los peores descensos regionales.
 - **2024** — El MITIC realiza [consulta pública para la estrategia nacional de IA](/articulos/2026/07/16/ia-soberana-paraguay/).
@@ -83,10 +83,10 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Junio 2026** — MITIC dona [1.600 antenas Starlink para escuelas rurales](/articulos/2026/07/15/starlink-paraguay-conectividad/).
 - **Junio 2026** — ICDF contacta a [Google, Microsoft y Amazon](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) como potenciales clientes ancla de Yguazú Digital.
 - **Junio 2026** — Ministro de Industria [visita NVIDIA, OpenAI y Crusoe](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) en Silicon Valley. Sin acuerdos concretos hasta la fecha.
-- **22 Julio 2026** — La [Mesa Energética del MIC+UIP](#), dentro del Consejo Asesor Empresarial, concluye: "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme).
+- **22 Julio 2026** — La [Mesa Energética del MIC+UIP](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/), dentro del Consejo Asesor Empresarial, concluye: "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme).
 - **Julio 2026** — La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/) (~30% de adultos).
-- **27 Julio 2026** — Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos de extensión tarifaria. [Miguel Báez asume como nuevo titular](#).
-- **6 Agosto 2026** — Santiago Peña [reconvoca la Mesa Energética Nacional](#) y da 30 días para propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa público-privada y reglas para inversores.
+- **27 Julio 2026** — Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos de extensión tarifaria. [Miguel Báez asume como nuevo titular](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
+- **6 Agosto 2026** — Santiago Peña [reconvoca la Mesa Energética Nacional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/) y da 30 días para propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa público-privada y reglas para inversores.
 - **Julio 2026** — Paraguay alcanza [480+ trámites digitales](/articulos/2026/07/16/gobierno-digital-paraguay/), cédula y licencia de conducir digitales disponibles.
 - **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.
 - **10 Julio 2026** — [Declaración conjunta EE.UU.-Paraguay](/articulos/2026/07/17/ciberseguridad-paraguay/) denunciando operaciones cibernéticas chinas contra el gobierno paraguayo.

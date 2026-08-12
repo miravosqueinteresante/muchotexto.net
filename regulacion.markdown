@@ -3,7 +3,7 @@ layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
 description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 11 de agosto de 2026."
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-12
 ---
 
 Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
@@ -26,8 +26,8 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 ## Energía e infraestructura
 
 - **[Ley 7599 y Decreto 6034 (2025)](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)** — Abren la generación de energía renovable no convencional al sector privado por primera vez. Cuatro figuras legales nuevas: autogenerador, cogenerador, generador puro y exportador. Decreto 6034 firmado el 19 de mayo de 2026.
-- **[Política Energética Nacional al 2050 (Decreto 2553/2024)](#)** — Aprobada el 19-20 de septiembre de 2024. 95 objetivos, 385 metas con plazos concretos. Incluye la creación de un Ministerio de Energía, Hidrocarburos y Minería (plazo original: 2024, aún no creado). Deroga el Decreto 6.092/2016. Coordinada por la Mesa Energética Nacional.
-- **[Mesa Energética Nacional](#)** — Creada por decreto en 2012 como órgano asesor del Presidente. Reactivada en octubre de 2023 y nuevamente el 6 de agosto de 2026, con 30 días para presentar propuestas en 4 ejes estratégicos. Existe una segunda mesa dentro del Consejo Asesor Empresarial del MIC+UIP.
+- **[Política Energética Nacional al 2050 (Decreto 2553/2024)](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — Aprobada el 19-20 de septiembre de 2024. 95 objetivos, 385 metas con plazos concretos. Incluye la creación de un Ministerio de Energía, Hidrocarburos y Minería (plazo original: 2024, aún no creado). Deroga el Decreto 6.092/2016. Coordinada por la Mesa Energética Nacional.
+- **[Mesa Energética Nacional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — Creada por decreto en 2012 como órgano asesor del Presidente. Reactivada en octubre de 2023 y nuevamente el 6 de agosto de 2026, con 30 días para presentar propuestas en 4 ejes estratégicos. Existe una segunda mesa dentro del Consejo Asesor Empresarial del MIC+UIP.
 - **[Tarifa de Itaipú 2024-2026](/articulos/2026/07/17/itaipu-2027-energia-paraguay/)** — Acuerdo Peña-Lula: $19.28/kW-mes. Paraguay obtiene derecho a vender su excedente en el mercado libre brasileño.
 - **[Anexo C del Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/)** — Vence el 1 de enero de 2027. Negociaciones suspendidas entre abril y noviembre de 2025 por el escándalo ABIN, y reanudadas en noviembre de 2025 tras la entrega del informe confidencial brasileño. Sin nuevo acuerdo firmado a agosto de 2026. Sin acuerdo, Paraguay pierde ~$600M/año. Define la base financiera de la binacional hasta 2053.
 
@@ -74,7 +74,7 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 ## Prospectiva y planificacion
 
-- **[Política Energética Nacional al 2050 (Decreto 2553/2024)](#)** — Documento rector de la política energética paraguaya. 95 objetivos, 385 metas. Marco de largo plazo para la transición y diversificación energética.
+- **[Política Energética Nacional al 2050 (Decreto 2553/2024)](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — Documento rector de la política energética paraguaya. 95 objetivos, 385 metas. Marco de largo plazo para la transición y diversificación energética.
 - **[Paraguay 2040 — Prospectiva](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Marco de escenarios a 15 anos basado en datos actuales. Cinco palancas clave: diversificacion energetica, fibra optica soberana, regulacion de data centers, formacion de talento tech y formalizacion del empleo.
 
 ## Lo que está en trámite o pendiente

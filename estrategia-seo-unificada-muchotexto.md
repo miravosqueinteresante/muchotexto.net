@@ -185,8 +185,9 @@ Página Pilar: "Observatorio de IA en Paraguay — Guía Completa 2026"
 | 6 | ✅ | La red eléctrica de Paraguay frente a la demanda de la IA global | `ANDE capacidad transmisión`, `red eléctrica Paraguay IA` |
 | 7 | ✅ | Energía renovable y cambio climático: la paradoja paraguaya | `Paraguay energía renovable`, `cambio climático hidroeléctrica` |
 | 8 | ✅ | El efecto derrame: ¿qué pasa en una ciudad paraguaya cuando llega un data center de $200M? | `data center impacto local Paraguay`, `empleo tecnología Paraguay` |
+| 9 | ✅ | El plan energético al 2050 que Paraguay escribió y todavía no ejecuta | `Mesa Energética Paraguay`, `Política Energética Paraguay 2050`, `ministerio energía Paraguay` |
 
-**Próximamente (3):** Tigo PIO Tier III (Última Hora 2016 + FOCO 2026), Mesa Energética / PEN 2050 (Presidencia + MOPC + ABC Color), MOU nuclear Paraguay-EE.UU. (U.S. State Dept, 4-ago-2026).
+**Próximamente (2):** Tigo PIO Tier III (Última Hora 2016 + FOCO 2026), MOU nuclear Paraguay-EE.UU. (U.S. State Dept, 4-ago-2026).
 
 #### Pilar 2: Geopolítica y regulación tech (8 temas)
 
@@ -1116,7 +1117,7 @@ python scripts/observatorio_intel.py
 | 5 | **Revision semanal del observatorio** (`observatorio_intel.py` → ejecutado 11-ago) | Editorial |
 | 6 | Crear/optimizar perfil de LinkedIn con keywords del nicho | Autoridad |
 | 7 | Preparar "media kit" de una pagina | Autoridad |
-| 8 | Abrir nuevo ciclo editorial: articulo sobre Mesa Energetica Nacional y PEN 2050 | Contenido |
+| 8 | ✅ Publicado 12-ago-2026: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta" (Mesa Energética/PEN 2050) | Contenido |
 | 9 | Sin `last_modified_at` en articulos pre-julio 2026 | Calidad |
 | 10 | Verificar que paginas `/tags/` se regeneren correctamente | SEO |
 | 11 | Crear template de `research_plan.md` reutilizable | Metodologia |
@@ -1321,6 +1322,7 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 124 | Homepage: banner 2 columnas (simulador + calculadora) con diseño de tool cards. | 7-ago |
 | 125 | AGENTS.md: +sección Tarifas ANDE Consumo Intensivo Especial. Recordatorio re-verificación cada 30 días. | 7-ago |
 | 126 | Calculadora: Irlanda verificada con segunda fuente (Eurostat €255/MWh no-doméstico S2 2025). AGENTS.md: +sección Tarifas eléctricas internacionales. | 7-ago |
+| 127 | Artículo #43: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta". Mesa Energética, PEN 2050 (95 obj/385 metas, Decreto 2553/24), ministerio de energía sin crear, demanda 15-16 TWh y 943,8 MW, comparación MIEM/Chile/Brasil. 5 H2s, FAQ, ~2.450 palabras, 21 fuentes. 5 subagentes investigación, fact-check independiente 0 FALSE. | 12-ago |
 
 ---
 
@@ -1454,6 +1456,13 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 ---
 
 ## 19. Registro de cambios
+
+### 12 de agosto 2026
+
+- Artículo #43 publicado: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta". Tesis: Paraguay no tiene un problema de energía, tiene un problema de institucionalidad. PEN 2050 (Decreto 2553/24, 95 obj/385 metas, meta MEHM 2024 incumplida), Mesa Energética (creación 2012, reactivación oct-2023, convocatoria 6-ago-2026), intentos de ministerio 2018/2020/2026, consumo 15-16 TWh vs 29.419 GWh con pérdidas, 41 empresas 943,8 MW, 6.300 MW ≈ 90% de 7.000 MW de Itaipú, comparación MIEM/Chile/Brasil. 5 H2s, FAQ schema, ~2.450 palabras, 21 fuentes. 5 subagentes investigación (carpeta `research_mesa-energetica-pen-2050/`), fact-check independiente Compuerta B: 0 FALSE, 2 correcciones menores aplicadas (fecha UIP/Feprinco 7-ago, comillas Pombo).
+- Correcciones de datos detectadas en research: "ANH" no existe en PY (es PETROPAR); Ley 6455/2019 no existe (marco real: Ley 3254/2007 gas natural); "Ley 7580 tarifaria" descartada (marco real: Res. 49238/2024 + decretos derogados).
+- Estrategia SEO sincronizada: §3.2 P1 +tema #9, §15 backlog #8 ✅, §17 +item 127, §19 changelog.
+- Fase Agotamiento del superávit: se quitó el "29 TWh consumo interno" (era demanda SIN con pérdidas) y se usa 15-16 TWh con nota técnica.
 
 ### 7 de agosto 2026
 

@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Observatorio de IA en Paraguay: data centers, energia, regulacion, empleo tech y geopolitica. Analisis con datos duros y fuentes verificables."
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-12
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -48,10 +48,11 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[Qué le pasa a una ciudad paraguaya cuando llega un data center]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
 
+- **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir.
+
 **Próximamente:**
 
 - **Tigo PIO: el data center que Netflix y Amazon ya usan en Paraguay** — El único Tier III certificado del país opera en Villa Elisa hace una década. Netflix y Google usan sus nodos CDN; HIVE lanzó BUZZ AI Cloud ahí en marzo 2026. Verificado con Última Hora (2016), Uptime Institute, FOCO (2026) y HIVE Earnings.
-- **Mesa Energética y PEN 2050: el plan que Paraguay escribió y no ejecuta** — La Mesa existe desde 2012, la Política Energética al 2050 (Decreto 2553/2024) tiene 95 objetivos y 385 metas, y Peña dio 30 días para propuestas el 6 de agosto de 2026. Verificado con Presidencia.gov.py, MOPC, ABC Color.
 - **Energía nuclear en Paraguay: los reactores modulares que vienen de Washington** — El MOU de cooperación nuclear civil firmado entre Marco Rubio y Rubén Ramírez el 4 de agosto de 2026 abre la puerta a SMRs en el país de las hidroeléctricas. Verificado con U.S. Department of State.
 
 ## Geopolítica y regulación tech

@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-12
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
@@ -29,6 +29,9 @@ related_articles:
   - title: "Paraguay 2040: un país construido con datos"
     url: /articulos/2026/08/05/paraguay-2040-futuro-datos/
     context: "En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 944 megavatios de data centers y criptominería operando en su territorio, y una proyección de ingresos para ANDE de 350 millones de dólares por ese..."
+  - title: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta"
+    url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+    context: "La Política Energética al 2050 (Decreto 2553/2024) ordenaba crear el Ministerio de Energía en 2024 y sigue sin existir. La ANDE queda en el centro de la crisis institucional: tarifa de consumo intensivo de 30 USD/MWh, decretos derogados en junio de 2026 y relevo de su presidente en julio."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
