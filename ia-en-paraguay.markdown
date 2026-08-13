@@ -126,6 +126,8 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[Simulador interactivo Paraguay 2040](/simulador-2040/)** — Cinco palancas, dos shocks y un canvas. Mové los sliders y descubrí qué futuro se construye.
 - **[Calculadora de costo energético](/calculadora-energetica/)** — Compará el costo anual de electricidad para data centers en Paraguay vs. Irlanda, Virginia, Suecia y Chile. Tarifas verificadas.
 
+> **¿2040 o 2050?** Las dos fechas conviven a propósito. **2040** es nuestro horizonte de análisis editorial (el futuro que modelamos con datos del observatorio, donde converge el cierre del bono demográfico ~2045 y el fin del superávit energético). **2050** es el horizonte oficial del Estado: el nombre del plan gubernamental (Política Energética Nacional al 2050, Decreto 2553/2024) que analizamos, no una meta que elegimos nosotros. 2040 = el futuro que proyectamos; 2050 = el futuro que el plan del gobierno promete.
+
 **Próximamente:**
 
 *Sin temas verificados por el momento. Se investigarán fuentes de cultura, filosofía y futuro digital en Paraguay.*
