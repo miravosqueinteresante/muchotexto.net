@@ -1323,6 +1323,7 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 | 125 | AGENTS.md: +sección Tarifas ANDE Consumo Intensivo Especial. Recordatorio re-verificación cada 30 días. | 7-ago |
 | 126 | Calculadora: Irlanda verificada con segunda fuente (Eurostat €255/MWh no-doméstico S2 2025). AGENTS.md: +sección Tarifas eléctricas internacionales. | 7-ago |
 | 127 | Artículo #43: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta". Mesa Energética, PEN 2050 (95 obj/385 metas, Decreto 2553/24), ministerio de energía sin crear, demanda 15-16 TWh y 943,8 MW, comparación MIEM/Chile/Brasil. 5 H2s, FAQ, ~2.450 palabras, 21 fuentes. 5 subagentes investigación, fact-check independiente 0 FALSE. | 12-ago |
+| 128 | Pillar page: nota aclaratoria "¿2040 o 2050?" (2040 = horizonte editorial del observatorio; 2050 = horizonte oficial del PEN). Previene ambigüedad de marca entre Paraguay 2040/simulador y el artículo PEN 2050. | 13-ago |
 
 ---
 
@@ -1457,12 +1458,17 @@ Cada artículo debe ser auditado contra fuentes verificables. Los artículos nue
 
 ## 19. Registro de cambios
 
+### 13 de agosto 2026
+
+- Pillar page: nota aclaratoria "¿2040 o 2050?" — aclara que 2040 es el horizonte de análisis editorial del observatorio (cierre del bono demográfico ~2045, fin del superávit energético ~2035-2040) y 2050 es el horizonte oficial del Estado (Política Energética Nacional, Decreto 2553/2024), no una meta editorial. Previene la ambigüedad entre el artículo Paraguay 2040 + simulador y el artículo PEN 2050.
+
 ### 12 de agosto 2026
 
 - Artículo #43 publicado: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta". Tesis: Paraguay no tiene un problema de energía, tiene un problema de institucionalidad. PEN 2050 (Decreto 2553/24, 95 obj/385 metas, meta MEHM 2024 incumplida), Mesa Energética (creación 2012, reactivación oct-2023, convocatoria 6-ago-2026), intentos de ministerio 2018/2020/2026, consumo 15-16 TWh vs 29.419 GWh con pérdidas, 41 empresas 943,8 MW, 6.300 MW ≈ 90% de 7.000 MW de Itaipú, comparación MIEM/Chile/Brasil. 5 H2s, FAQ schema, ~2.450 palabras, 21 fuentes. 5 subagentes investigación (carpeta `research_mesa-energetica-pen-2050/`), fact-check independiente Compuerta B: 0 FALSE, 2 correcciones menores aplicadas (fecha UIP/Feprinco 7-ago, comillas Pombo).
 - Correcciones de datos detectadas en research: "ANH" no existe en PY (es PETROPAR); Ley 6455/2019 no existe (marco real: Ley 3254/2007 gas natural); "Ley 7580 tarifaria" descartada (marco real: Res. 49238/2024 + decretos derogados).
 - Estrategia SEO sincronizada: §3.2 P1 +tema #9, §15 backlog #8 ✅, §17 +item 127, §19 changelog.
 - Fase Agotamiento del superávit: se quitó el "29 TWh consumo interno" (era demanda SIN con pérdidas) y se usa 15-16 TWh con nota técnica.
+- Pillar page: nota aclaratoria "¿2040 o 2050?" — 2040 es el horizonte de análisis editorial del observatorio (cierre del bono demográfico ~2045, fin del superávit ~2035-2040); 2050 es el horizonte oficial del Estado (PEN, Decreto 2553/2024), no una meta elegida. Previene la ambigüedad de marca entre el artículo Paraguay 2040 + simulador y el artículo PEN 2050.
 
 ### 7 de agosto 2026
 
