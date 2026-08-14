@@ -4,6 +4,7 @@ title: "E-commerce y talento, la brecha digital — Editorial 12/08/2026"
 description: "El comercio electrónico en Paraguay alcanzó un volumen de 2.000 millones de dólares durante el año 2025, marcando un hito en el consumo digital local."
 
 
+
 date: 2026-08-12 18:00:00 -0300
 last_modified_at: 2026-08-12
 categories: editorial
