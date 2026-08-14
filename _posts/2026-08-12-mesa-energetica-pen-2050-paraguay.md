@@ -2,11 +2,13 @@
 layout: post
 title: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta"
 date: 2026-08-12 12:00:00 -0300
-last_modified_at: 2026-08-12 12:00:00 -0300
+last_modified_at: 2026-08-13 12:00:00 -0300
 categories: articulos
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
-description: "Paraguay aprobó en 2024 una política energética al 2050 con 95 objetivos y 385 metas, incluido un ministerio que debía existir ese año. Sigue sin existir."
+description: "Paraguay aprobó en 2024 una política energética al 2050 con 95 objetivos y 385 metas, incluido un ministerio que debía existir ese año. Sigue sin existir, aunque el Ejecutivo ya presentó los proyectos de ley."
 ---
+
+> **Actualización (13 de agosto de 2026):** un día después de la publicación de este análisis, el Ejecutivo presentó dos proyectos de ley en la primera reunión de la Mesa Nacional del Sector Eléctrico: la creación del Ministerio de Minas y Energía y la de un ente regulador del sector eléctrico. Los textos fueron puestos a disposición pública para su debate. Son proyectos en discusión —no instituciones creadas—, pero es el primer avance concreto del Ejecutivo en la institucionalidad que este artículo describe como pendiente.
 
 En septiembre de 2024, Paraguay aprobó por decreto su Política Energética Nacional al 2050: 95 objetivos y 385 metas que ordenaban, entre otras cosas, crear el Ministerio de Energía, Hidrocarburos y Minería en el mismo año 2024. Veintidós meses después, ese ministerio no existe, la Mesa Energética que debe conducir la política llevaba dos años sin reunirse y el presidente Santiago Peña tuvo que convocarla de nuevo —con un plazo de 30 días— para que proponga, por tercera vez en una década, cómo ordenar un sector que la criptominería y los centros de datos están desbordando.
 
@@ -38,7 +40,7 @@ En octubre de 2023, Santiago Peña la reactivó con una reunión en Mburuvicha R
 
 La idea de un ministerio de energía no es nueva. En 2018, un proyecto en la Cámara de Diputados proponía crear el Ministerio de Energía y Minas; no prosperó. En noviembre de 2020, un grupo de senadores presentó el proyecto "Que crea el Ministerio de Energía, Minas e Hidrocarburos", que reemplazaría al VMME por un ministerio con tres viceministerios; tuvo dictamen de comisión en diciembre de 2021 y nunca se sancionó. La política de 2016 ya preveía un ministerio del sector, y la PEN 2050 lo ordenó para 2024.
 
-En agosto de 2026, el tema está sobre la mesa desde tres frentes a la vez. El 5 de agosto, la Cámara de Diputados aprobó un proyecto de declaración instando al gobierno a crear el Ministerio de Energía, Minas e Hidrocarburos, señalando la "fragmentación" de competencias. El 7 de agosto, la UIP y la Feprinco pidieron un regulador independiente y un ministerio "sin debilitar a la ANDE". Y el 11 de agosto, el viceministro de Minas y Energía, Mauricio Bejarano, adelantó que el Ejecutivo planteará al sector privado la creación del ministerio, un despacho de carga independiente y un ente regulador "el primero en Paraguay".
+En agosto de 2026, el tema está sobre la mesa desde tres frentes a la vez. El 5 de agosto, la Cámara de Diputados aprobó un proyecto de declaración instando al gobierno a crear el Ministerio de Energía, Minas e Hidrocarburos, señalando la "fragmentación" de competencias. El 7 de agosto, la UIP y la Feprinco pidieron un regulador independiente y un ministerio "sin debilitar a la ANDE". Y el 11 de agosto, el viceministro de Minas y Energía, Mauricio Bejarano, adelantó que el Ejecutivo planteará al sector privado la creación del ministerio, un despacho de carga independiente y un ente regulador "el primero en Paraguay". Dos días después —el 13 de agosto— ese anuncio se materializó: en la primera reunión de la Mesa Nacional del Sector Eléctrico, presidida por Santiago Peña y con más de dos horas y media de consultas a especialistas, el Ejecutivo presentó los proyectos de ley para crear el Ministerio de Minas y Energía y un ente regulador del sector eléctrico, y los puso a disposición pública para su debate.
 
 La secuencia es reveladora: un proyecto que se repite cada dos o tres años, una política que lo ordena con fecha límite y un debate que resurge cada vez que el sector privado espera una respuesta. Definir los roles institucionales del sector energético lleva más de una década sin concreción.
 
@@ -89,6 +91,7 @@ Leé el análisis completo sobre infraestructura y energía en el [Observatorio 
 20. [Ministerio de Industria, Energía y Minería de Uruguay — "Política energética: MIEM avanza en definición de lineamientos estratégicos"](https://www.gub.uy/ministerio-industria-energia-mineria/comunicacion/noticias/politica-energetica-2050-miem-avanza-definicion-lineamientos-estrategicos) (30 de abril de 2026)
 21. [Ministerio de Energía de Chile — Sobre el Ministerio](https://energia.gob.cl/sobre-el-ministerio)
 22. [Ministerio de Energía de Chile — Ley 20.402, Biblioteca del Congreso Nacional](https://www.bcn.cl/leychile/navegar?idNorma=1008692)
+23. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/) (13 de agosto de 2026)
 
 <script type="application/ld+json">
 {
@@ -100,7 +103,7 @@ Leé el análisis completo sobre infraestructura y energía en el [Observatorio 
       "name": "¿Qué es la Política Energética al 2050 de Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Es el documento aprobado por el Decreto 2553/2024 el 19 de septiembre de 2024 que define los objetivos y metas energéticas de Paraguay a 2050. Contiene 95 objetivos y 385 metas en diez ejes estratégicos, e incluía la creación del Ministerio de Energía, Hidrocarburos y Minería en el año 2024. A agosto de 2026 el ministerio no existe."
+        "text": "Es el documento aprobado por el Decreto 2553/2024 el 19 de septiembre de 2024 que define los objetivos y metas energéticas de Paraguay a 2050. Contiene 95 objetivos y 385 metas en diez ejes estratégicos, e incluía la creación del Ministerio de Energía, Hidrocarburos y Minería en el año 2024. A agosto de 2026 el ministerio no existe, pero el 13 de agosto de 2026 el Ejecutivo presentó un proyecto de ley para crearlo, en debate público."
       }
     },
     {
@@ -116,7 +119,7 @@ Leé el análisis completo sobre infraestructura y energía en el [Observatorio 
       "name": "¿Por qué Paraguay no tiene un ministerio de energía?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Los proyectos de ley para crear el ministerio existen desde 2018 (Diputados) y 2020 (Senado, dictamen en 2021) pero nunca se sancionaron. La Política Energética al 2050 lo ordenó para 2024 sin cumplirse. En la práctica solo existe el Viceministerio de Minas y Energía, dependiente del MOPC. En agosto de 2026 el Ejecutivo, el sector privado y la Cámara de Diputados volvieron a impulsar su creación."
+        "text": "Los proyectos de ley para crear el ministerio existen desde 2018 (Diputados) y 2020 (Senado, dictamen en 2021) pero nunca se sancionaron. La Política Energética al 2050 lo ordenó para 2024 sin cumplirse. En la práctica solo existe el Viceministerio de Minas y Energía, dependiente del MOPC. En agosto de 2026 el Ejecutivo, el sector privado y la Cámara de Diputados volvieron a impulsar su creación: el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del Ministerio de Minas y Energía y de un ente regulador del sector eléctrico, aún en debate."
       }
     }
   ]

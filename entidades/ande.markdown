@@ -31,7 +31,7 @@ related_articles:
     context: "En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 944 megavatios de data centers y criptominería operando en su territorio, y una proyección de ingresos para ANDE de 350 millones de dólares por ese..."
   - title: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta"
     url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
-    context: "La Política Energética al 2050 (Decreto 2553/2024) ordenaba crear el Ministerio de Energía en 2024 y sigue sin existir. La ANDE queda en el centro de la crisis institucional: tarifa de consumo intensivo de 30 USD/MWh, decretos derogados en junio de 2026 y relevo de su presidente en julio."
+    context: "La Política Energética al 2050 (Decreto 2553/2024) ordenaba crear el Ministerio de Energía en 2024 y sigue sin existir. El 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del Ministerio de Minas y Energía y de un ente regulador eléctrico. La ANDE queda en el centro de la crisis institucional: tarifa de consumo intensivo de 30 USD/MWh, decretos derogados en junio de 2026 y relevo de su presidente en julio."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"

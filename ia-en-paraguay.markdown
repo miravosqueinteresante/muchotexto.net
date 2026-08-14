@@ -48,7 +48,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[Qué le pasa a una ciudad paraguaya cuando llega un data center]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
 
-- **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir.
+- **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico.
 
 **Próximamente:**
 

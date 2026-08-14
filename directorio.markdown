@@ -2,8 +2,8 @@
 layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
-description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnologia en Paraguay. Actualizado al 11 de agosto de 2026."
-last_modified_at: 2026-08-12
+description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnologia en Paraguay. Actualizado al 13 de agosto de 2026."
+last_modified_at: 2026-08-13
 ---
 
 Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
@@ -48,6 +48,7 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 - **[Mesa Energetica Nacional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — Organismo asesor del Presidente creado por decreto en 2012. Reactivada por Santiago Pena en 2023. Coordino la Politica Energetica Nacional al 2050 (Decreto 2553/2024, 95 objetivos, 385 metas). Reconvocada el 6 de agosto de 2026 con 30 dias para presentar propuestas en cuatro ejes: institucionalidad, generacion, participacion publico-privada y reglas para inversores. [Leer mas](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
 - **[Mesa Energetica del MIC+UIP](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — Iniciativa del Ministerio de Industria y Comercio y la Union Industrial Paraguaya dentro del Consejo Asesor Empresarial. Concluyo el 22 de julio de 2026 que "por primera vez en la historia tenemos mas proyectos que energia disponible" (Ministro Marco Riquelme). [Leer mas](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
 - **[Viceministerio de Minas y Energia (VMME)](https://minasyenergia.mopc.gov.py/)** — Dependencia del MOPC. Autoridad que otorga licencias de generacion electrica privada (>1 MW). Maneja energia, minas e hidrocarburos bajo la estructura del Ministerio de Obras Publicas.
+- **[Ministerio de Minas y Energia y ente regulador (en proyecto)](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/)** — El 13 de agosto de 2026 el Ejecutivo presento dos proyectos de ley para crearlos, en la primera reunion de la Mesa Nacional del Sector Electrico. Son textos en debate publico, no instituciones operativas.
 
 ## Comunidades y espacios
 

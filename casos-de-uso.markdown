@@ -2,8 +2,8 @@
 layout: page
 title: "Casos de uso de IA en Paraguay"
 permalink: /casos-de-uso/
-description: "Como se usa la inteligencia artificial en sectores productivos de Paraguay. Casos documentados con fuentes verificables. Actualizado al 31 de julio de 2026."
-last_modified_at: 2026-08-12
+description: "Como se usa la inteligencia artificial en sectores productivos de Paraguay. Casos documentados con fuentes verificables. Actualizado al 13 de agosto de 2026."
+last_modified_at: 2026-08-13
 ---
 
 Cada caso enlaza con el artículo completo. 
@@ -28,7 +28,7 @@ Cada caso enlaza con el artículo completo.
 
 - **[Impacto local de un data center en una ciudad paraguaya](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — HIVE Digital en Yguazú y Valenzuela: 300 MW, USD 56M de inversión, 60-150 empleos permanentes. La construcción empleó 800-1.500 trabajadores temporales. La infraestructura eléctrica es privada y no hay evidencia de beneficio directo a la red residencial.
 
-- **[Planificación energética institucional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — La Política Energética Nacional al 2050 (Decreto 2553/2024) define 95 objetivos y 385 metas, incluida la creación del Ministerio de Energía con plazo 2024 que sigue sin existir. Paraguay planifica energía sin la institucionalidad para ejecutarla.
+- **[Planificación energética institucional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — La Política Energética Nacional al 2050 (Decreto 2553/2024) define 95 objetivos y 385 metas, incluida la creación del Ministerio de Energía con plazo 2024 que sigue sin existir. El 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del Ministerio de Minas y Energía y de un ente regulador eléctrico. Paraguay planifica energía sin la institucionalidad para ejecutarla.
 
 ## Prospectiva
 
