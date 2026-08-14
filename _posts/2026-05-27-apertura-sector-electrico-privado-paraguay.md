@@ -156,7 +156,7 @@ Para entender qué intereses económicos reales están en juego, hay que mirar q
 
 ### 6.1. El imperio de la criptominería
 
-Cuarenta y un suministros activos conforman el Grupo de Consumo Intensivo Especial (GCIE) de ANDE, con una potencia reservada total de 943,8 MW — equivalente al 13,5% de toda la energía que corresponde a Paraguay de Itaipú, o 1,4 turbinas completas.
+Cuarenta y un suministros activos conforman el Grupo de Consumo Intensivo Especial (GCIE) de ANDE, con una potencia reservada total de 943,8 MW — equivalente al 13,5% de la potencia que corresponde a Paraguay de Itaipú (7.000 MW), o 1,4 turbinas completas.
 
 Solo cuatro empresas (Cademot SA con 300 MW, Zuns SA con 200 MW, Muiden SA con 130 MW y W3X SA con 100 MW) suman 730 MW, más que una turbina de Itaipú. Los contratos vencen el 31 de diciembre de 2027.
 

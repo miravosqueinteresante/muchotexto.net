@@ -10,7 +10,7 @@ description: "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterio
 
 Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. Remiten aproximadamente 1.350 millones de dólares al año, el equivalente al 2,6% del PIB. No existe un censo que diga cuántos de ellos son ingenieros, desarrolladores o científicos de datos. El país está construyendo una industria de inteligencia artificial que necesita a esas personas sin saber cuántas perdió.
 
-Como analizamos en el artículo sobre [educación tecnológica en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}), el sistema produce apenas 400 a 600 graduados en informática por año. El 33% de los becarios de Becal no culminó su programa (2.532 de 3.777). Pero el problema no es solo de oferta educativa. Es también de retención: los pocos profesionales que se forman se van, y los incentivos para que vuelvan no existen.
+Como analizamos en el artículo sobre [educación tecnológica en Paraguay]({% post_url 2026-07-09-educacion-tech-paraguay-ia %}), el sistema produce alrededor de 400 graduados en informática por año. El 33% de los becarios de Becal no culminó su programa (2.532 de 3.777). Pero el problema no es solo de oferta educativa. Es también de retención: los pocos profesionales que se forman se van, y los incentivos para que vuelvan no existen.
 
 ## Adónde se fueron y por qué no vuelven
 

@@ -83,5 +83,5 @@ Cada caso enlaza con el artículo completo.
 
 ## Educación y talento
 
-- **[Formación tech](/articulos/2026/07/09/educacion-tech-paraguay-ia/)** — Paraguay produce 400-600 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026.
+- **[Formación tech](/articulos/2026/07/09/educacion-tech-paraguay-ia/)** — Paraguay produce alrededor de 400 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026.
 - **[Fuga de talento](/articulos/2026/07/10/talento-tech-paraguay-ia/)** — Paraguay no tiene programas de retorno ni red de diáspora tech. Las estimaciones de los data centers requieren 3.500-7.000 profesionales que el país no produce.

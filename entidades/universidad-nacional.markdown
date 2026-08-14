@@ -8,7 +8,7 @@ last_modified_at: 2026-08-11
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >
-  La universidad más grande de Paraguay, fundada en 1889. Sus facultades de Ingeniería y Politécnica forman parte de los 400-600 graduados anuales en informática. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formación de talento tech del país.
+  La universidad más grande de Paraguay, fundada en 1889. Sus facultades de Ingeniería y Politécnica forman parte de los ~400 graduados anuales en informática. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formación de talento tech del país.
 entity_category: academia
 related_articles:
   - title: "Paraguay tiene una ventaja silenciosa en la anotación de datos para IA"

@@ -4,8 +4,8 @@
 
   <div class="sim-chips">
     <div class="sim-chip">
-      <div class="sim-chip-val">944 MW</div>
-      <div class="sim-chip-lbl">Data centers y criptominer&iacute;a operando, agosto 2026</div>
+      <div class="sim-chip-val">943,8 MW</div>
+      <div class="sim-chip-lbl">Potencia reservada para data centers y criptominer&iacute;a, agosto 2026</div>
     </div>
     <div class="sim-chip">
       <div class="sim-chip-val">USD 350M</div>
@@ -31,7 +31,7 @@
           <span class="sim-lever-name">Diversificaci&oacute;n energ&eacute;tica</span>
           <span class="sim-lever-val" id="v-energia">50</span>
         </div>
-        <p class="sim-lever-desc">Solar y e&oacute;lica en el Chaco (5,5 kWh/m&sup2;/d&iacute;a), para no depender solo del Paran&aacute;.</p>
+        <p class="sim-lever-desc">Solar y e&oacute;lica en el Chaco (4,8-4,9 kWh/m&sup2;/d&iacute;a promedio anual), para no depender solo del Paran&aacute;.</p>
         <input type="range" id="energia" min="0" max="100" value="50" aria-label="Diversificaci&oacute;n energ&eacute;tica">
       </div>
 
@@ -153,7 +153,7 @@
   function computeSeries(){
     var score = levers.reduce(function(s,id){ return s+Number(els[id].value); },0) / (levers.length*100);
 
-    var mwStart = 944, mwEnd = lerp(2000, 8000, score);
+    var mwStart = 943.8, mwEnd = lerp(2000, 8000, score);
     var pibStart = 9400, pibEnd = lerp(10000, 20500, score);
     var infStart = 62, infEnd = lerp(62, 35, score); // formalizacion reduce informalidad de 62% a 35%
 
@@ -298,7 +298,7 @@
       return {
         label: 'Escenario B — Exportador de energ\u00EDa barata',
         color: '#fab005',
-        text: 'Los data centers siguen llegando, pero sin regulaci\u00F3n ni transferencia tecnol\u00F3gica. La informalidad se mantiene arriba del 55%. Los beneficios se concentran en ANDE y el super\u00E1vit energ\u00E9tico se agota hacia 2038. La soja sigue siendo la principal exportaci\u00F3n.'
+        text: 'Los data centers siguen llegando, pero sin regulaci\u00F3n ni transferencia tecnol\u00F3gica. La informalidad se mantiene arriba del 55%. Los beneficios se concentran en ANDE y el super\u00E1vit energ\u00E9tico se agota entre 2035 y 2040, seg\u00FAn este modelo. La soja sigue siendo la principal exportaci\u00F3n.'
       };
     }
     return {

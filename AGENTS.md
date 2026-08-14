@@ -95,7 +95,7 @@ Fuentes: HIVE FY2026 Earnings, HIVE Paraguay operations page, JLARC 2024, Bitfar
 - **Loudoun County, Virginia**: 200+ DCs. USD 733M en impuestos a la propiedad (JLARC 2024). 38% del Fondo General. NO usar "45% de ingresos" ni "USD 600M".
 - **Irlanda**: 23% consumo eléctrico de DCs en 2025 (20% en 2023). Moratoria CRU 2021-2025. NO usar "EirGrid impuso moratoria" ni "hogares rurales" (son urbanos).
 - **Paraguay regulación DC**: sin regulación específica. Ley 294/1993 de EIA aplica genéricamente, nunca aplicada al sector. Sin cuotas de contratación local ni obligaciones de beneficio comunitario.
-- **Consumo intensivo ANDE (ago 2026)**: 41 empresas registradas, 943,8 MW de demanda conjunta (~13,5% de la energía de Itaipú que corresponde a Paraguay). ANDE proyecta ingresos de ~USD 350M en 2026 (+18,6% interanual). Fuente: ABC Color Negocios, 3-ago-2026.
+- **Consumo intensivo ANDE (ago 2026)**: 41 empresas registradas, 943,8 MW de potencia reservada contratada (~13,5% de la potencia de Itaipú que corresponde a Paraguay, 7.000 MW — NO de la energía anual). ANDE proyecta ingresos de ~USD 350M en 2026 (+18,6% interanual). Fuente: ABC Color Negocios, 3-ago-2026.
 
 ### Energía, clima y deforestación (datos verificados ago 2026)
 Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global Forest Watch, Itaipú Binacional, ANDE, ABC Color.
@@ -110,15 +110,15 @@ Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global 
 - **Paraguay no tiene**: parques solares utility-scale, parques eólicos, biomasa eléctrica significativa. Cero diversificación renovable no hidro.
 - **Ley 7599**: promulgada en diciembre de 2025 (NO 2024). Abre sector eléctrico a inversión privada. Decreto 6034 de mayo 2026: habilita 6 fuentes renovables (solar, eólica, biomasa, biogás, geotermia, almacenamiento) + autogenerador, cogenerador, exportador, prosumidor.
 - **NDC 3.0**: presentada noviembre 2025. Meta: 20% reducción bajo BAU para 2030/2035 (10% incondicional + 10% condicional, USD 24.000M financiamiento externo).
-- **Demanda eléctrica**: crecimiento 12-21% anual (ANDE, datos recientes). NO usar 5-8% (dato desactualizado).
+- **Demanda eléctrica**: crecimiento 12,5-21% anual (ANDE: +5,7% 2022, +12,4% 2023, +18,5% 2024, +12,5% 2025, +21% 2026). El mínimo oficial es 12,5%, no 12%. NO usar 5-8% como ritmo actual.
 
 ### Fuentes primarias paraguayas — verificación obligatoria
 ### Demografía y economía (datos verificados ago 2026)
 Fuentes: INE Paraguay, Banco Mundial, BCP, ABC Color.
 
-- **Población**: ~6,5M (2026), proyección ~7,2-7,5M (2040). Edad media: 29,4 años.
-- **Fecundidad**: 1,7-1,8 hijos por mujer (INE 2026). Por debajo del nivel de reemplazo (2,1). NO usar 1,9 (dato desactualizado).
-- **Bono demográfico**: activo hasta ~2045. Ventana se cierra con envejecimiento poblacional.
+- **Población**: 6.460.159 (2026, INE Revisión 2025), proyección ~6,9M (2040, INE Revisión 2024), 7,1M recién en 2050. NO usar 7,2-7,5M para 2040. Edad media: 29,4 años.
+- **Fecundidad**: 1,90 hijos por mujer (2026) → 1,72 (2050), INE Revisión 2024. Por debajo del nivel de reemplazo (2,1). NO usar 1,7-1,8 (dato desactualizado).
+- **Bono demográfico**: sin fecha oficial consolidada. INE sitúa el cierre ~2070; UIP estima 2030-2040. Presentar como estimación divergente, nunca como fecha fija.
 - **Urbanización**: 69% (Censo 2022), proyectado ~78-80% (2040).
 - **PIB per cápita**: ~USD 9.400 nominal (2026). Proyección 2040: USD 14.000-17.000. NO usar USD 5.900 (dato 2022-2023).
 - **HCI (Capital Humano)**: 0,528 (Banco Mundial 2020). El más bajo entre pares regionales (Uruguay ~0,60, Chile ~0,65, Costa Rica ~0,63).
@@ -155,10 +155,10 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 
 #### Datos demográficos y económicos
 - **Población 6,5M, edad media 29,4 años**: TRUE. Fuente: INE Paraguay, verificado en AGENTS.md.
-- **Proyección 7,2-7,5M en 2040**: TRUE. Fuente: INE, verificado en AGENTS.md.
-- **Fecundidad 1,7-1,8**: TRUE. Fuente: INE 2026, verificado en AGENTS.md.
+- **Proyección ~6,9M en 2040**: TRUE (INE Revisión 2024/2025). NO usar 7,2-7,5M: 7,1M recién en 2050.
+- **Fecundidad 1,90 (2026) → 1,72 (2050)**: TRUE. Fuente: INE Revisión 2024. El rango 1,7-1,8 estaba desactualizado.
 - **Urbanización 69% → ~80% en 2040**: TRUE. Fuente: Censo 2022, verificado en AGENTS.md.
-- **Bono demográfico hasta ~2045**: TRUE. Fuente: INE, verificado en AGENTS.md.
+- **Bono demográfico "2045"**: PARTIALLY TRUE. No es fecha oficial: INE habla de ~2070, UIP de 2030-2040. Presentar como estimación divergente citando ambas fuentes.
 - **HCI Paraguay 0,528**: TRUE. Fuente: Banco Mundial 2020, verificado en AGENTS.md.
 - **HCI Uruguay 0,603, Chile 0,652, Costa Rica 0,623**: PARTIALLY TRUE. Las cifras exactas del Banco Mundial 2020 son: Uruguay 0,60 (no 0,603), Chile 0,65 (no 0,652), Costa Rica 0,63 (no 0,623). El artículo usa cifras con 3 decimales que son estimaciones o de otra fuente/edición. Recomendación: usar "aproximadamente 0,60" o citar la fuente exacta.
 - **PIB per cápita USD 9.400 (2026)**: TRUE. Fuente: BCP, verificado en AGENTS.md.
@@ -169,18 +169,18 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 - **Exportaciones de servicios bajo maquila crecieron sostenidamente**: UNVERIFIABLE sin serie temporal concreta. Afirmación cualitativa razonable pero sin cifra específica.
 
 #### Energía
-- **~44 TWh/año generación, ~15 TWh consumo**: PARTIALLY TRUE. La generación total de Paraguay es mayor: Itaipú solo genera ~67 TWh (mitad paraguaya ~33,5 TWh) + Yacyretá ~11 TWh + Acaray ~1 TWh = ~45,5 TWh disponibles para Paraguay. El consumo interno es ~15-16 TWh. Las cifras del artículo son aproximaciones razonables. Fuente: ANDE, Wikipedia ES, AGENTS.md.
-- **Crecimiento demanda 12-21% anual**: TRUE. Fuente: ANDE, verificado en AGENTS.md. NO usar 5-8% (dato desactualizado).
-- **944 MW (41 empresas) = 13,5% de Itaipú**: PARTIALLY TRUE. AGENTS.md registra 943,8 MW (no 944). El redondeo es menor, aceptable para periodismo.
+- **~44 TWh/año generación, ~29,4 TWh consumo**: TRUE. ANDE (14-01-2026): consumo nacional 2025 = 29.419 GWh (29,4 TWh), repartido Itaipú 25.768 GWh + Yacyretá 3.081 + Acaray 570. Generación disponible ~45,5 TWh. Excedente exportado ≈35% (~15 TWh). NO usar ~15-16 TWh como consumo.
+- **Crecimiento demanda 12,5-21% anual**: TRUE. Fuente: ANDE (oficiales: 12,5% 2025, 18,5% 2024, 21% 2026). NO usar 12% como mínimo ni 5-8% (desactualizado).
+- **943,8 MW (41 empresas) = 13,5% de Itaipú**: TRUE. Es 13,5% de la POTENCIA que corresponde a Paraguay de Itaipú (7.000 MW), NO de la energía anual. Potencia reservada contratada, no necesariamente operativa.
 - **Superávit se agota 2035-2040**: PROYECCIÓN (no verificable como hecho). Es el resultado del modelo del propio artículo, no una proyección oficial.
-- **Irradiación solar Chaco 5,5 kWh/m²/día**: TRUE. Fuentes múltiples (NASA POWER, GHI maps, IRENA) confirman que el Chaco paraguayo recibe 5,0-5,8 kWh/m²/día de irradiación global horizontal. 5,5 es el punto medio razonable.
+- **Irradiación solar Chaco ~4,8-4,9 kWh/m²/día**: TRUE. Atlas Solar 2016 y estudio académico del Chaco (La Patria, datos NASA 1983-2005): promedio anual GHI 4,7-5,1 kWh/m²/día. En el norte del Chaco más cerca de 5,0-5,1. NO usar 5,5.
 - **Ley 7599 (dic 2025) y Decreto 6034 (may 2026)**: TRUE. Fuente: BACN, verificado en AGENTS.md.
 - **Potencial solar Chaco 1.000-5.000 MW**: PROYECCIÓN (no verificable). Estimación razonable basada en recurso solar disponible, pero no hay estudio oficial que la respalde.
 - **99,9% renovable**: PARTIALLY TRUE. AGENTS.md registra 99,998% renovable en 2024. El artículo dice 99,9% — diferencia menor, aceptable.
 - **Energía más barata de Sudamérica**: PARTIALLY TRUE. Paraguay tiene tarifas industriales entre las más bajas (USD 0,03-0,05/kWh), pero afirmar "la más barata" sin comparación exhaustiva con todos los países es impreciso. Competidores cercanos: Argentina (subsidiada), Bolivia.
 
 #### Data centers y conectividad
-- **0 MW en 2022 → 944 MW en 2026**: TRUE. Verificado en AGENTS.md.
+- **Serie GCIE**: creado 2022 (Res. ANDE 46984). Potencia reservada: ~125 MW (2023) → ~822 MW (2025) → 943,8 MW (2026). NO decir "0 a 944 MW en tres años" ni "en 2022 no había data centers".
 - **HIVE: 300 MW operativos + 100 MW GPU en construcción**: TRUE. Fuente: HIVE FY2026 Earnings, verificado en AGENTS.md.
 - **Yguazú Digital: 3 fases, 10 MW a 1.000 MW**: UNVERIFIABLE en detalle. El artículo de muchotexto.net sobre Yguazú Digital menciona estas fases. No se encontró fuente oficial primaria que confirme los 1.000 MW finales con ese desglose exacto. La prensa paraguaya (ABC Color, La Nación) maneja cifras variables.
 - **BID USD 130M para fibra óptica**: TRUE. Fuente: MITIC, BID, verificado en AGENTS.md.
@@ -206,9 +206,9 @@ Fuentes: Presidencia.gov.py, MOPC, ABC Color, Última Hora, RDN, RCC, MIC.gov.py
 - **Reconvocatoria 6 agosto 2026**: Peña convocó la Mesa Energética Nacional y dio 30 días para presentar propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa eléctrica público-privada y reglas para inversores. Fuente: ABC Color (8-ago-2026).
 - **Proyectos de ley presentados 13 agosto 2026**: el Ejecutivo presentó DOS proyectos de ley —creación del Ministerio de Minas y Energía y creación de un ente regulador del sector eléctrico— en la primera reunión de la Mesa Nacional del Sector Eléctrico presidida por Peña (reunión interinstitucional, reunión "subeléctrica", duró ~2,5 horas). Textos puestos a disposición pública en la web para análisis. Vocero: Guillermo Grance. IMPORTANTE: son proyectos de ley en debate, NO instituciones creadas. Fuente: La Nación (13-ago-2026).
 - **Mesa Energética del MIC+UIP**: dentro del Consejo Asesor Empresarial del MIC, concluyó el 22 de julio de 2026 que "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme). Fuente: RCC (22-jul-2026), MIC.gov.py.
-- **Consumo eléctrico**: ~15-16 TWh de consumo interno (NO 29 TWh). La cifra de 29.419 GWh citada en algunos análisis sectoriales no corresponde al consumo interno sino a generación total o disponible (consumo + exportación + pérdidas). Fuentes: Wikipedia "Energy in Paraguay" (2019: 13.229 GWh), ANDE/AGENTS.md (2025: ~15-16 TWh). NO usar 29 TWh como consumo interno.
+- **Consumo eléctrico**: 29.419 GWh en 2025 (29,4 TWh) según ANDE (14-01-2026): es el CONSUMO NACIONAL (demanda del sistema con pérdidas). El historial ANDE: 18.583 GWh (2021), 19.635 (2022), 22.079 (2023), 26.154 (2024), 29.419 (2025). NO usar ~15-16 TWh como consumo actual (era la cifra ~2019-2020). Excedente exportado ≈35% (~15 TWh).
   - Crecimiento histórico del consumo: ~3-5% CAGR (2019-2025).
-  - Crecimiento reciente de demanda (era data centers): 12-21% anual. Ambos datos son correctos en sus respectivos contextos.
+  - Crecimiento reciente de demanda (era data centers): 12,5-21% anual. El piso oficial reciente es 12,5% (2025); usar "12-21%" es impreciso.
 - **6.300 MW**: es la potencia disponible de Itaipú para Paraguay (10 turbinas x 700 MW con 10% de margen), NO exclusivamente la demanda de empresas interesadas. La prensa reporta este número como "demanda de empresas" pero casualmente coincide con la capacidad paraguaya de Itaipú. Fuente: Wikipedia ES ANDE, ABC Color.
 
 ### Tarifas ANDE — Consumo Intensivo Especial (verificado ago 2026)
@@ -235,4 +235,4 @@ Fuentes: Eurostat (nrg_pc_205, abril 2026), fuentes de mercado (CBRE, JLL, DCP r
 - **Paraguay 30–45 USD/MWh**: Rango con fuente primaria verificada (ANDE, Res. 49238/2024) pero en revisión activa. Ver sección Tarifas ANDE arriba.
 
 #### Graduados STEM
-- **Menos de 600 graduados en informática por año**: PARTIALLY TRUE. El artículo del propio observatorio ("Educación tech en Paraguay") menciona 400-600 graduados. Fuentes externas (CONACYT, ANEAES) no publican una cifra consolidada actualizada. La estimación es razonable pero no verificable con fuente oficial primaria. Recomendación: citar la fuente del observatorio y aclarar que es estimación.
+- **~400 graduados en informática por año**: TRUE (INE vía La Tribuna, 22-01-2026). NO usar "400-600" ni "600" como techo. Estimación sectorial: 20-50 empleos por 100 MW en data centers.

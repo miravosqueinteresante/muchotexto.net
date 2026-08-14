@@ -57,7 +57,7 @@ obs_casos-de-uso:
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
   - label: "Formación tech"
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
-    context: "Paraguay produce 400-600 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026."
+    context: "Paraguay produce alrededor de 400 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026."
 ---
 
 4 articulos en el observatorio mencionan a Taiwán.

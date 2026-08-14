@@ -98,7 +98,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 
 ## Lo que viene
 
-- **[Paraguay 2040: tres escenarios posibles](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Prospectiva del país construida sobre datos actuales. La ventana demográfica se cierra en 2045. El superávit energético hacia 2038. Las decisiones de 2026-2035 definen el camino.
+- **[Paraguay 2040: tres escenarios posibles](/articulos/2026/08/05/paraguay-2040-futuro-datos/)** — Prospectiva del país construida sobre datos actuales. La ventana demográfica se cierra entre 2030 y 2070 según la estimación (el artículo toma ~2045). El superávit energético se agota entre 2035 y 2040 según la proyección. Las decisiones de 2026-2035 definen el camino.
 
 - **1 Enero 2027** — Vence el [acuerdo tarifario de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/) (USD 19,28/kW-mes). Sin nuevo Anexo C firmado, Paraguay pierde ~$600M/año. Negociaciones suspendidas entre abril y noviembre de 2025, reanudadas en noviembre de 2025.
 - **Noviembre 2027** — Entra en vigor la [Ley 7593 de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/). Yguazú Digital Fase I debe estar operativo.

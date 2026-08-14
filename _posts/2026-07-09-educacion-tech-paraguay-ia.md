@@ -5,14 +5,14 @@ date: 2026-07-09
 last_modified_at: 2026-07-09
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
-description: "Paraguay produce entre 400 y 600 graduados en informática por año. Yguazu Digital necesitara profesionales que el sistema educativo no está formando."
+description: "Paraguay produce alrededor de 400 graduados en informática por año. Yguazu Digital necesitara profesionales que el sistema educativo no está formando."
 ---
 
-En noviembre de 2027, cuando abra la primera fase de Yguazú Digital, Paraguay va a necesitar técnicos en refrigeración líquida para servidores de inteligencia artificial, ingenieros eléctricos especializados en subestaciones de alta tensión y administradores de redes de fibra óptica para clústeres de GPUs. El país produce, por año, entre cuatrocientos y seiscientos graduados en informática y ciencias de la computación. La distancia entre lo que Paraguay necesita y lo que su sistema educativo produce no es una brecha: es un abismo.
+En noviembre de 2027, cuando abra la primera fase de Yguazú Digital, Paraguay va a necesitar técnicos en refrigeración líquida para servidores de inteligencia artificial, ingenieros eléctricos especializados en subestaciones de alta tensión y administradores de redes de fibra óptica para clústeres de GPUs. El país produce, por año, alrededor de cuatrocientos graduados en informática y ciencias de la computación. La distancia entre lo que Paraguay necesita y lo que su sistema educativo produce no es una brecha: es un abismo.
 
 ## 400 ingenieros por año para un proyecto de 40.000 millones de dólares
 
-Paraguay tiene cincuenta y cinco universidades —nueve públicas y cuarenta y seis privadas— que en conjunto producen aproximadamente cincuenta y un mil graduados por año en todas las disciplinas. De esos, entre cuatrocientos y seiscientos son en informática o carreras afines, según estimaciones del sector privado que ningún censo oficial respalda. Las otras ingenierías relevantes —eléctrica, electrónica, telecomunicaciones— suman cifras similares.
+Paraguay tiene cincuenta y cinco universidades —nueve públicas y cuarenta y seis privadas— que en conjunto producen aproximadamente cincuenta y un mil graduados por año en todas las disciplinas. De esos, alrededor de cuatrocientos son en informática o carreras afines, según datos del INE. Las otras ingenierías relevantes —eléctrica, electrónica, telecomunicaciones— suman cifras similares.
 
 Para ponerlo en perspectiva, [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) aspira a consumir 1.000 megavatios en su fase final, con una inversión total aspiracional de 40.000 millones de dólares. Un centro de datos de esa escala requiere técnicos en refrigeración líquida para servidores de alta densidad, ingenieros de redes para clústeres de cómputo con GPUs, especialistas en ciberseguridad para infraestructura crítica y administradores de sistemas de alimentación ininterrumpida. Paraguay produce muy pocos profesionales en cada una de esas áreas.
 
@@ -70,7 +70,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Cuántos ingenieros en informática produce Paraguay por año?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay produce entre 400 y 600 graduados en informática por año, de un total de aproximadamente 51.000 graduados universitarios anuales. El país tiene 55 universidades pero invierte solo el 3.5% de su PIB en educación, uno de los porcentajes más bajos de Sudamérica."
+        "text": "Paraguay produce alrededor de 400 graduados en informática por año, de un total de aproximadamente 51.000 graduados universitarios anuales. El país tiene 55 universidades pero invierte solo el 3.5% de su PIB en educación, uno de los porcentajes más bajos de Sudamérica."
       }
     },
     {

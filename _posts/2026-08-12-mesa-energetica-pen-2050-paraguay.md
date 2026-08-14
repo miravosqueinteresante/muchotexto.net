@@ -15,7 +15,7 @@ En septiembre de 2024, Paraguay aprobó por decreto su Política Energética Nac
 > **En resumen:**
 > - La Política Energética al 2050 (Decreto 2553/2024) tiene 95 objetivos y 385 metas y ordenaba crear el Ministerio de Energía, Hidrocarburos y Minería en 2024. A agosto de 2026 no existe; solo hay un viceministerio dependiente del MOPC.
 > - La Mesa Energética Nacional existe desde 2012, fue reactivada en octubre de 2023, aprobó la política en septiembre de 2024 y el 6 de agosto de 2026 Peña la convocó con 30 días para propuestas en cuatro ejes.
-> - El debate llega en contexto de presión: la demanda crece entre 12% y 21% anual, 41 empresas consumidoras intensivas reservan 943,8 MW y la prensa reporta solicitudes de hasta 6.300 MW.
+> - El debate llega en contexto de presión: la demanda crece entre 12,5% y 21% anual, 41 empresas consumidoras intensivas reservan 943,8 MW y la prensa reporta solicitudes de hasta 6.300 MW.
 > - Los intentos de crear un ministerio de energía vienen desde 2018. Chile, Uruguay y Brasil tienen ministerios de energía desde hace décadas.
 
 Paraguay no tiene un problema de energía: tiene un problema de institucionalidad. Genera electricidad renovable de sobra, exporta más de la mitad de lo que produce y, sin embargo, cada vez que el sector privado quiere invertir —un data center, una planta de amoníaco verde— la pregunta es la misma: ¿quién planifica, quién regula y quién decide en Paraguay? La respuesta es la historia de un ministerio prometido, escrito y ordenado en un decreto, pero que todavía no existe.
@@ -46,7 +46,7 @@ La secuencia es reveladora: un proyecto que se repite cada dos o tres años, una
 
 ## Demanda que desborda la planificación
 
-El contexto que obliga a este debate es numérico. El consumo interno de Paraguay es de aproximadamente 15 a 16 TWh anuales —la cifra de 29.419 GWh que publicó la ANDE para 2025 corresponde a la demanda del sistema, que incluye pérdidas de transmisión y distribución, no al consumo final—. Ese consumo crece a un ritmo inédito: +5,7% en 2022, +12,4% en 2023, +18,5% en 2024, +12,5% en 2025 y parciales de 2026 por encima de ese rango, hasta +21% en el primer cuatrimestre. El crecimiento de largo plazo era de 3% a 5% anual; la era de los data centers la triplicó.
+El contexto que obliga a este debate es numérico. El consumo eléctrico nacional alcanzó 29.419 GWh en 2025 (29,4 TWh, según la ANDE), una cifra que incluye las pérdidas de transmisión y distribución. Ese consumo crece a un ritmo inédito: +5,7% en 2022, +12,4% en 2023, +18,5% en 2024, +12,5% en 2025 y parciales de 2026 por encima de ese rango, hasta +21% en el primer cuatrimestre. El crecimiento de largo plazo era de 3% a 5% anual; la era de los data centers lo multiplicó.
 
 Sobre esa base, 41 empresas están registradas como consumidores intensivos especiales, con una potencia reservada conjunta de 943,8 MW —aproximadamente el 13,5% de la potencia que corresponde a Paraguay de Itaipú— y la ANDE proyecta ingresos de ese segmento por unos 350 millones de dólares en 2026, un 18,6% más que en 2025. El pico histórico de potencia instantánea demandada alcanzó los 5.752 MW el 26 de enero de 2026.
 

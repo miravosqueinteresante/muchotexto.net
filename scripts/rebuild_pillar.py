@@ -41,7 +41,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 
 - **[Anotaci\u00f3n de datos para IA: la ventaja silenciosa de Paraguay]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** - Detr\u00e1s de cada respuesta de ChatGPT hay miles de humanos anotando datos.
 - **[De la soja al silicio: el plan de Paraguay para cambiar su matriz exportadora]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** - Cinco pa\u00edses hicieron el salto de materias primas a tecnolog\u00eda.
-- **[Educaci\u00f3n tech en Paraguay: la brecha que frena el hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce 400 a 600 graduados en inform\u00e1tica por a\u00f1o.
+- **[Educaci\u00f3n tech en Paraguay: la brecha que frena el hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce alrededor de 400 graduados en inform\u00e1tica por a\u00f1o.
 
 **Pr\u00f3ximamente:** Talento tech, Starlink, gobierno digital, IA en salud.
 
@@ -152,7 +152,7 @@ Cada semana publicamos uno o dos art\u00edculos nuevos. Esta gu\u00eda se actual
       "name": "\u00bfCu\u00e1l es el principal obst\u00e1culo para que Paraguay sea un hub de IA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El principal obst\u00e1culo no es la energ\u00eda (Paraguay tiene la m\u00e1s barata de Sudam\u00e9rica) ni los acuerdos diplom\u00e1ticos, sino la capacidad de transmisi\u00f3n el\u00e9ctrica (falta una red de 500 kV nacional) y la formaci\u00f3n de talento tech (solo 400-600 graduados en inform\u00e1tica por a\u00f1o)."
+        "text": "El principal obst\u00e1culo no es la energ\u00eda (Paraguay tiene la m\u00e1s barata de Sudam\u00e9rica) ni los acuerdos diplom\u00e1ticos, sino la capacidad de transmisi\u00f3n el\u00e9ctrica (falta una red de 500 kV nacional) y la formaci\u00f3n de talento tech (alrededor de 400 graduados en inform\u00e1tica por a\u00f1o)."
       }
     }
   ]

@@ -80,7 +80,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 
 - **[Anotación de datos para IA: la ventaja silenciosa de Paraguay]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** - Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos.
 - **[De la soja al silicio: el plan de Paraguay para cambiar su matriz exportadora]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** - Cinco países hicieron el salto de materias primas a tecnología.
-- **[Educación tech en Paraguay: la brecha que frena el hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce 400 a 600 graduados en informática por año.
+- **[Educación tech en Paraguay: la brecha que frena el hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce alrededor de 400 graduados en informática por año.
 - **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** - Paraguay no tiene programas de retorno ni red de diaspora tech para traer de vuelta a sus profesionales.
 - **[Starlink ya conecta a 20.000 paraguayos donde la fibra no llega]({% post_url 2026-07-15-starlink-paraguay-conectividad %})** - Starlink opera en Paraguay desde 2023. Mil seiscientas antenas en escuelas rurales, 20.000 usuarios y una pregunta: ¿basta con conectar?
 - **[Paraguay digitalizó 223 trámites pero la cédula sigue siendo en papel]({% post_url 2026-07-16-gobierno-digital-paraguay %})** - Paraguay tiene arquitectura de gobierno digital pero el ciudadano no puede renovar su cédula online.
@@ -179,7 +179,7 @@ El observatorio se actualiza con cada investigación nueva. Esta guía refleja e
       "name": "¿Cuál es el principal obstáculo para que Paraguay sea un hub de IA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El principal obstáculo no es la energía (Paraguay tiene la más barata de Sudamérica) ni los acuerdos diplomáticos, sino la capacidad de transmisión eléctrica (falta una red de 500 kV nacional) y la formación de talento tech (solo 400-600 graduados en informática por año)."
+        "text": "El principal obstáculo no es la energía (Paraguay tiene la más barata de Sudamérica) ni los acuerdos diplomáticos, sino la capacidad de transmisión eléctrica (falta una red de 500 kV nacional) y la formación de talento tech (alrededor de 400 graduados en informática por año)."
       }
     }
   ]

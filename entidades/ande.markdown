@@ -28,7 +28,7 @@ related_articles:
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
   - title: "Paraguay 2040: un país construido con datos"
     url: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-    context: "En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 944 megavatios de data centers y criptominería operando en su territorio, y una proyección de ingresos para ANDE de 350 millones de dólares por ese..."
+    context: "En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 943,8 MW de potencia reservada para data centers y criptominería, y una proyección de ingresos para ANDE de 350 millones de dólares por ese..."
   - title: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta"
     url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
     context: "La Política Energética al 2050 (Decreto 2553/2024) ordenaba crear el Ministerio de Energía en 2024 y sigue sin existir. El 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del Ministerio de Minas y Energía y de un ente regulador eléctrico. La ANDE queda en el centro de la crisis institucional: tarifa de consumo intensivo de 30 USD/MWh, decretos derogados en junio de 2026 y relevo de su presidente en julio."
