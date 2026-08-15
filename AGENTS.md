@@ -222,6 +222,21 @@ Fuentes: Resolución ANDE 49238/2024, Pliego de Tarifas Nº 21, ABC Color, decre
 - **Nuevo titular Miguel Báez instruido a definir tarifa técnica única**: TRUE. Informe entregado 31 de julio, contenido no público.
 - **Demanda de empresas interesadas: 6.300 MW**: Cifra reportada por prensa (ABC Color). Equivale a toda la potencia de Itaipú disponible para PY. VERIFICAR con fuente oficial cuando esté disponible.
 
+### Tarifas y finanzas ANDE — estudio Ceare 2026-2030 (verificado 15-ago-2026)
+
+Fuentes: ABC Color / Silvana Bogarín (9-ago-2026), estudio Ceare (UBA, con apoyo del BID, marco ICP/FMI-SRS), CIER 2025.
+
+- **Costo medio de generación ANDE: serie US$24/MWh (2023) → US$26,39 (2025) → ~US$28 tras incrementos de binacionales**: TRUE. Itaipú pasó de 16,75 a 19,28 US$/kW-mes; Yacyretá de 22,60 a 28 US$. NO citar un solo número sin aclarar período.
+- **Tarifa media ANDE 2024: US$49,49/MWh**: TRUE. NO confundir con tarifa GCIE (30) ni tarifa técnica (~44).
+- **Proyección Ceare 2026-2030**: tarifa media 49,2→68,6 US$/MWh (+39,4%); alta/muy alta tensión 35,3→51,4 (+45,6%); baja tensión 55,8→77,8 (+39,4%). Nuestro techo de 45 US$ era corto como proyección. Es proyección/recomendación, NO tarifa aplicada.
+- **Cripto GCIE**: creció el consumo 14,4% (2022-2025) con criptominería vs 6,9% sin ellas. Cargas GCIE: 854 MW (2025) y 803 MW (2026) —demanda efectiva, NO potencia reservada. Los 943,8 MW de AGENTS.md son potencia reservada/contratada. Distinguir siempre.
+- **Pérdidas de distribución ANDE**: 23,4% (2023) → 21,9% (2024) → 20,03% (2025). Comparables: Celesc 8,9%, Cemig 14,7%, EPEC 13%.
+- **Morosidad particulares (sin Estado)**: 14,02% (2018) → 28,95% pico (2023) → 22,04% (2024) → 18,79% (2025).
+- **Finanzas ANDE**: insuficiencia de rentabilidad US$468,2M (2002) → US$1.800M (2025) / US$2.000M (2026); deuda LP US$343,46M (2010) → US$1.664,29M (2026e); inversión récord 2025 US$349,2M. Carta Orgánica (Ley 966/1964, arts. 85 y 88) exige rentabilidad 8-10% sobre inversión inmovilizada.
+- **CIER 2025**: tarifa residencial PY US$46/MWh e industrial US$35/MWh — las más bajas de 13 países (residencial media regional; industrial menor a El Salvador 207 y Colombia 181). Respaldan "la más barata de Sudamérica" con fuente citable.
+- **Acuerdo Operativo Itaipú 2007**: expira 31-dic-2026 (renovado 2024-2026 por entendimiento del 16-abr/9-may-2024). Beneficio ~US$200M/año; desde 2027 la ANDE contratará toda su necesidad de potencia y podrá vender sobrante en Brasil (aún no vendió 1 kWh). NO confundir con Anexo C (reanudado nov-2025) ni con acuerdo tarifario (19,28, vence 1-ene-2027).
+- **Plan Maestro ANDE 2024-2043**: ~800 MW/año promedio de generación fotovoltaica. Primera licitación: planta solar Loma Plata (Chaco), anunciada mayo-2026. AGO-2026: ninguna planta utility-scale en operación — usar "la primera licitación se anunció en mayo de 2026", NO "no hay ningún proyecto".
+
 **Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 7 de septiembre de 2026. Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
 
 ### Tarifas eléctricas internacionales para data centers (verificado ago 2026)

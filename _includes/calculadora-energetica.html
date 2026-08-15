@@ -51,7 +51,7 @@
     <div class="calc-panel">
       <label class="calc-toggle">
         <input type="checkbox" id="riskScenario">
-        <span class="calc-toggle-text"><b>Mostrar escenario de riesgo regulatorio</b> — si la nueva tarifa técnica única de ANDE se acerca a la tarifa electrointensiva histórica (60 US$/MWh) en vez de mantenerse en 30.</span>
+        <span class="calc-toggle-text"><b>Mostrar escenario de riesgo regulatorio</b> — si la nueva tarifa técnica única de ANDE se acerca a lo que proyecta el estudio Ceare 2026-2030 para alta y muy alta tensión (51,4 US$/MWh) en vez de mantenerse en 30.</span>
       </label>
 
       <div class="calc-headline">
@@ -87,7 +87,9 @@
         extendieron esa tarifa a 15 años para data centers, pero fueron derogados el 9 de junio de 2026.
         El presidente de ANDE que se negó a aplicarlos, Félix Sosa, renunció el 27 de julio de 2026.
         Su sucesor, Miguel Báez, recibió instrucción de definir una tarifa técnica única
-        — informe entregado el 31 de julio, aún no público.</p>
+        — informe entregado el 31 de julio, aún no público. El escenario de riesgo se basa en el estudio
+        Ceare 2026-2030 (con apoyo del BID): proyecta la tarifa de alta y muy alta tensión de 35,3 a 51,4 US$/MWh
+        (+45,6%) y la tarifa media de 49,2 a 68,6 US$/MWh.</p>
 
         <p><b>Nivel de verificación por país:</b><br>
         Paraguay: fuente oficial (ANDE) pero en disputa activa.
@@ -103,7 +105,7 @@
         <p>Esta calculadora aísla solo el componente de energía. No sustituye una cotización real ni asesoría legal o financiera.</p>
       </div>
 
-      <p class="calc-updated">Última verificación de fuentes: 8 de agosto de 2026</p>
+      <p class="calc-updated">Última verificación de fuentes: 15 de agosto de 2026</p>
     </div>
 
   </div>
@@ -140,7 +142,7 @@
 
     var rows = markets.slice();
     if(showRisk){
-      rows.splice(1, 0, { id:'py-risk', name:'Paraguay (escenario en revisión)', min:45, max:60, color:'#adb5bd', note:'hipotético, no confirmado' });
+      rows.splice(1, 0, { id:'py-risk', name:'Paraguay (escenario en revisión)', min:45, max:51, color:'#adb5bd', note:'proyección Ceare alta/muy alta tensión 2030' });
     }
 
     var costs = rows.map(function(m){
@@ -182,7 +184,7 @@
     document.getElementById('hl-pct').textContent = '15–60%';
 
     var riskNote = showRisk
-      ? ' Si la tarifa técnica única que ANDE está definiendo se acerca a la referencia electrointensiva histórica (60 US$/MWh), la ventaja frente a Virginia se reduce pero Paraguay seguiría siendo más barato que Irlanda.'
+      ? ' El estudio Ceare (con apoyo del BID) proyecta que la tarifa de alta y muy alta tensión suba de 35,3 a 51,4 US$/MWh entre 2026 y 2030, y la tarifa media de 49,2 a 68,6. Si la tarifa técnica única que ANDE está definiendo se acerca a esos niveles, la ventaja frente a Virginia se reduce pero Paraguay seguiría siendo más barato que Irlanda.'
       : '';
 
     document.getElementById('narrative').innerHTML =

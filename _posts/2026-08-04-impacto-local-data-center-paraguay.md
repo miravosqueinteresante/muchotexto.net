@@ -86,7 +86,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 8. [Ley 60/90 — Régimen de Maquila, Paraguay](https://www.mic.gov.py/)
 9. [Ley 3001/2006 — Evaluación de impacto ambiental](https://www.bacn.gov.py/)
 10. [Wikipedia ES — Sector eléctrico en Paraguay](https://es.wikipedia.org/wiki/Sector_el%C3%A9ctrico_en_Paraguay)
-11. [EirGrid — Ireland data center moratorium](https://www.eirgrid.ie/) (2023)
+11. [CRU — Data centres and the electricity grid (Irlanda)](https://www.cru.ie/what-we-do/comms-network/energy-consumer-data-centres-and-the-electricity-grid/)
 12. [Forbes — South America's AI Infrastructure Reality Check](https://www.forbes.com/) (enero 2026)
 13. [Chile PDATA — Plan Nacional de Data Centers](https://www.minciencia.gob.cl/) (2025)
 
