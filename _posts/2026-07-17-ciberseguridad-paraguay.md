@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años"
 date: 2026-07-17
-last_modified_at: 2026-07-17
+last_modified_at: 2026-08-15
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay tiene CERT-PY desde 2012 y ratificó el Convenio de Budapest. Pero en 2024 hackers chinos infiltraron el gobierno y en 2025 un ciberataque expuso 7,4 millones de registros de ciudadanos."
@@ -101,3 +101,5 @@ Leé el análisis completo sobre geopolítica y regulación en la [guía de inte
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

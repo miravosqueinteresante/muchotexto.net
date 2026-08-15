@@ -2,7 +2,7 @@
 layout: post
 title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
 date: 2026-07-09
-last_modified_at: 2026-07-09
+last_modified_at: 2026-08-15
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay es el último país de Sudamérica que reconoce a Taiwán. 69 años de relaciones, USD 400M en préstamos y un data center de por medio."
@@ -103,3 +103,5 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

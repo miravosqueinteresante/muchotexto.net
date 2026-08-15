@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay no usa IA para hacer periodismo pero la desinformación sí"
 date: 2026-07-16
-last_modified_at: 2026-07-16
+last_modified_at: 2026-08-15
 categories: articulos
 tags: tech-ecosistema ia-paraguay
 description: "Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas, Brasil prohibió la IA en campañas."
@@ -109,3 +109,5 @@ Leé el análisis completo sobre tecnología aplicada en la [guía de inteligenc
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

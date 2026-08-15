@@ -2,7 +2,7 @@
 layout: post
 title: "Lo que un data center compra y Paraguay no puede vender"
 date: 2026-07-25
-last_modified_at: 2026-07-25
+last_modified_at: 2026-08-15
 categories: articulos
 tags: tech-ecosistema ia-paraguay infraestructura-energia paraguay ia
 description: "Paraguay atrae data centers con energía barata, pero el hardware es 100% importado y los empleos directos son menos de 1 por MW. El valor está en otro lado."
@@ -89,3 +89,5 @@ La respuesta está en si la política pública trata a los data centers como un 
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

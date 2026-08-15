@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
 date: 2026-07-27
-last_modified_at: 2026-07-27
+last_modified_at: 2026-08-15
 categories: articulos
 tags: infraestructura-energia ia-paraguay paraguay ia
 description: "Paraguay puede producir el hidrógeno verde más barato de Sudamérica a USD 1.5/kg. Pero sin puerto ni proyectos en ejecución, la oportunidad sigue en el papel."
@@ -87,3 +87,5 @@ Paraguay no va a competir con Chile en la exportación de hidrógeno a Japón. N
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

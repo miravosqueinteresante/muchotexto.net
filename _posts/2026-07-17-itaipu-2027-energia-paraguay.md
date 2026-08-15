@@ -2,7 +2,7 @@
 layout: post
 title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
 date: 2026-07-17
-last_modified_at: 2026-07-17
+last_modified_at: 2026-08-15
 categories: articulos
 tags: infraestructura-energia ia-paraguay
 description: "El Anexo C de Itaipú vence en 2027. Las negociaciones siguen congeladas por un caso de espionaje. Paraguay recibe USD 1.000M al año y podría perder el 60%."
@@ -109,3 +109,5 @@ Leé el análisis completo sobre infraestructura y energía en la [guía de inte
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

@@ -2,7 +2,7 @@
 layout: post
 title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
 date: 2026-07-15 21:00:00 -0400
-last_modified_at: 2026-07-15
+last_modified_at: 2026-08-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
 description: "Starlink ya suma casi 20.000 usuarios en Paraguay, mayoría rurales. El gobierno donó 1.600 antenas a escuelas. ¿Alcanza con conectar?"
@@ -105,3 +105,5 @@ Leé el análisis completo sobre conectividad y sociedad en la [guía de intelig
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

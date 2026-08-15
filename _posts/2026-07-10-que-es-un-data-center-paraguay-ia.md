@@ -2,7 +2,7 @@
 layout: post
 title: "Qué es un data center y por qué Paraguay quiere construir uno"
 date: 2026-07-10
-last_modified_at: 2026-07-10
+last_modified_at: 2026-08-15
 categories: articulos
 tags: infraestructura-energia ia-paraguay
 description: "Qué es un data center, cómo funciona, qué tiene adentro y por qué Paraguay con su energía barata quiere construir el más grande de la región."
@@ -109,3 +109,5 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

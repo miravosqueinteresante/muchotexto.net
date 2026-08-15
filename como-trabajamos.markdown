@@ -3,7 +3,7 @@ layout: page
 title: Cómo trabajamos
 permalink: /como-trabajamos/
 description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuentes, verificamos datos, usamos inteligencia artificial y corregimos errores."
-last_modified_at: 2026-08-03
+last_modified_at: 2026-08-15
 ---
 
 **muchotexto.net** es el observatorio de inteligencia artificial en Paraguay. Utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
@@ -25,6 +25,45 @@ La IA asiste en tres tareas específicas:
 Para el Pulso Tech Paraguay y la Editorial Diaria usamos **Gemini 3.1 Flash Lite** (Google Gemini API, tier gratuito). Para los artículos de fondo, usamos **DeepSeek** como modelo principal de investigación y redacción asistida. Cada modelo se asigna según la tarea: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario. Cada interacción con la IA está gobernada por un _system prompt_ que establece reglas estrictas: no inventar hechos ni nombres, filtrar exclusivamente contenido tech/IA/energía, usar español paraguayo profesional sin jerga coloquial y mantener una perspectiva analítica pero no partidista. La tabla completa de modelos está al final de esta página.
 
 La IA **no decide** qué se publica ni cuál es la línea editorial. Su rol es exclusivamente instrumental: leer, resumir, organizar y redactar borradores.
+
+## Qué la IA puede y qué no puede hacer
+
+Como principio general, la IA actúa como asistente, nunca como autor final. Cada función de IA tiene un responsable humano que la supervisa y responde por el resultado:
+
+| Función | Responsable | Directriz |
+|---|---|---|
+| Títulos y descripciones | Editor humano | La IA propone candidatos; la elección y edición final es humana |
+| Borradores de artículos de fondo | Editor humano | Solo para borradores internos; la redacción final es humana |
+| Pulso Tech Paraguay | Editor humano (revisión diaria) | Resúmenes basados exclusivamente en las fuentes del día; no genera datos propios |
+| Editorial Diaria | Editor humano (revisión diaria) | Opinión derivada del Pulso; prohibido atribuir citas o ideas que no aparezcan en las fuentes |
+| FAQ automática | Editor humano | Preguntas y respuestas derivadas del texto del artículo publicado |
+| Investigación con agentes | Editor humano | Los hallazgos se sintetizan; nunca se copian textualmente sin verificación |
+| Fact-check | Editor humano | Los agentes verificadores se verifican entre sí (doble fact-check obligatorio) |
+
+**Usos prohibidos:**
+
+- Generar contenido informativo que pueda confundirse con la realidad.
+- Inventar hechos, cifras, fechas, nombres propios o citas.
+- Atribuir declaraciones a personas que no las hicieron.
+- Publicar cualquier contenido sin supervisión editorial humana.
+- Usar la IA para rellenar un dato ausente: si un dato no se pudo verificar, no se inventa ni se aproxima.
+
+## Cómo protegemos los datos en herramientas de IA
+
+- **Solo herramientas autorizadas**: se utilizan únicamente los proveedores y modelos listados en la tabla de infraestructura de este documento. No se usan betas ni sistemas no autorizados para tareas editoriales.
+- **Prohibido ingresar información confidencial** en herramientas de IA comerciales: datos personales de fuentes, borradores de contenidos inéditos o información sensible obtenida en investigación. Esta regla aplica incluso cuando la herramienta tenga licencia, salvo que el contrato con el proveedor garantice que los datos no se usarán para entrenar modelos.
+- **Sin datos personales innecesarios**: los prompts de investigación se redactan sin incluir datos personales de terceros salvo que sea estrictamente necesario para la tarea.
+
+## Riesgos y medidas de mitigación
+
+| Riesgo | Medida |
+|---|---|
+| Alucinaciones y datos fabricados | Gap Report obligatorio, fact-check pre-commit, doble fact-check y cruce contra la base de claims verificados |
+| Sesgo algorítmico | System prompts con reglas de neutralidad y equilibrio PROS/CONTRAS; supervisión del editor; auditorías programadas |
+| Fuga de información sensible | Solo herramientas autorizadas; prohibición de ingresar datos confidenciales en herramientas comerciales |
+| Pérdida de calidad | Supervisión editorial humana obligatoria en toda publicación; revisión diaria del contenido automatizado |
+| Deepfakes y alteración de la realidad | Línea roja: prohibido generar o publicar imágenes o vídeos que puedan confundirse con reales. Aplica si el sitio incorporase contenido multimedia en el futuro |
+| Confianza del lector | Divulgación del uso de IA por formato, incluida la nota-pie en artículos de fondo (ver Declaración sobre uso de IA) |
 
 ## Qué hace el editor humano
 
@@ -122,6 +161,12 @@ Cada artículo registra en sus metadatos una fecha de última modificación (`la
 
 Todo contenido generado con asistencia de IA se identifica como tal. En cada publicación de Pulso Paraguay y Editorial Diaria se indica explícitamente que fue generada por inteligencia artificial, se nombra el modelo utilizado y se explica el proceso.
 
+En los **artículos de fondo**, cuando la IA haya intervenido de forma significativa en la investigación o la redacción, el artículo incluye al pie (a modo de pie de texto, sin interrumpir la lectura) la fórmula:
+
+> "Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net."
+
+Si el uso de la IA incidió en el contenido factual (datos, cifras, fechas), además del pie de texto se indica de forma clara qué parte del proceso fue asistido. No se requiere la fórmula cuando el uso de IA fue de mera asistencia técnica que no afectó el contenido factual (corrección ortográfica, transcripción automatizada de audios, búsqueda de datos en bases propias).
+
 Consideramos que el uso de IA en la producción de contenido es legítimo siempre que:
 - Sea transparente para el lector.
 - No sustituya el criterio editorial humano.
@@ -133,3 +178,13 @@ Consideramos que el uso de IA en la producción de contenido es legítimo siempr
 El editor de muchotexto.net, César Sánchez, trabaja como consultor independiente en proyectos de automatización con IA generativa, anotación de datos y desarrollo de soluciones basadas en IA. Esta actividad profesional es previa a la creación del sitio y es independiente de su línea editorial.
 
 Si en el futuro existiera un conflicto de interés potencial entre un tema tratado y la actividad profesional del editor, se declarará explícitamente en el artículo correspondiente.
+
+## Gobernanza de la política de IA
+
+Esta política se revisa y actualiza de forma periódica, al menos cada 90 días o cada vez que se incorpore un modelo o herramienta nueva a los flujos de producción. La revisión evalúa:
+
+- Si los modelos y herramientas listados siguen siendo los adecuados para cada tarea.
+- Si las reglas de la presente política se cumplieron en las publicaciones del período.
+- Si la política necesita actualizarse frente a nuevas capacidades de la IA o cambios en la normativa aplicable.
+
+El editor humano es el responsable de esta revisión y de publicar las actualizaciones en esta página y en AGENTS.md.

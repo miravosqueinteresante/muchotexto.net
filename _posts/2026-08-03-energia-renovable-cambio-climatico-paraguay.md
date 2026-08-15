@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
 date: 2026-08-03 23:00:00 -0300
-last_modified_at: 2026-08-03
+last_modified_at: 2026-08-15
 categories: articulos
 tags: [infraestructura-energia, paraguay-futuro, cambio-climatico, itaipu, deforestacion]
 description: "Paraguay genera el 99.9% de su electricidad con fuentes renovables. Pero 97% depende de dos represas, perdió 6.3M de hectáreas de bosque y no tiene plan de diversificación."
@@ -115,3 +115,5 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

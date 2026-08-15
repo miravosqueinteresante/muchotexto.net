@@ -2,7 +2,7 @@
 layout: post
 title: "El plan de Paraguay para pasar de la soja al silicio"
 date: 2026-07-01
-last_modified_at: 2026-07-01
+last_modified_at: 2026-08-15
 categories: articulos
 tags: tech-ecosistema paraguay-futuro
 description: "El 42% de las exportaciones de Paraguay es soja. El 31% va a Brasil. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Tiene Paraguay lo necesario para ser el sexto?"
@@ -122,3 +122,5 @@ Seguí la transformación de Paraguay en la [guía completa de inteligencia arti
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

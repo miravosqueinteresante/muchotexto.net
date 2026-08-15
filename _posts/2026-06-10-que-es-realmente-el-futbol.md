@@ -2,7 +2,7 @@
 layout: post
 title: "¿Qué es realmente el fútbol?"
 date: 2026-06-10
-last_modified_at: 2026-06-10
+last_modified_at: 2026-08-15
 categories: articulos
 tags: cultura-filosofia
 description: "¿Es el fútbol un deporte, una religión o un espejo de la sociedad? Una reflexión filosófica sobre el juego más popular del mundo, desde Galeano hasta el Mundial 2026."
@@ -353,3 +353,5 @@ Conocé el panorama de inteligencia artificial en Paraguay en la [guía completa
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

@@ -2,7 +2,7 @@
 layout: post
 title: "El futuro de la identidad y la conciencia"
 date: 2026-05-13
-last_modified_at: 2026-05-13
+last_modified_at: 2026-08-15
 categories: articulos
 tags: cultura-filosofia ia-paraguay
 description: "Vivimos la era más conectada de la historia y también la más solitaria. Cómo la tecnología fragmenta nuestra atención, relaciones e identidad."
@@ -84,3 +84,5 @@ Leé más análisis sobre tecnología y sociedad en la [guía de inteligencia ar
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

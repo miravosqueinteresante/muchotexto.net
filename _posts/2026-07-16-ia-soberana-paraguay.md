@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
 date: 2026-07-16
-last_modified_at: 2026-07-16
+last_modified_at: 2026-08-15
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
 description: "Cada país debería tener su propia IA, dice Jensen Huang. Paraguay tiene GPU, datos y un idioma que ningún modelo habla. ¿Soberanía o marketing?"
@@ -130,3 +130,5 @@ Leé el análisis completo sobre geopolítica tecnológica en la [guía de intel
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

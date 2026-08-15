@@ -2,7 +2,7 @@
 layout: post
 title: "El experimento paraguayo de Peter Thiel"
 date: 2026-05-16
-last_modified_at: 2026-05-16
+last_modified_at: 2026-08-15
 categories: articulos
 tags: geopolitica-regulacion ia-paraguay
 description: "Peter Thiel se reunió con Santiago Peña en Mburuvicha Róga. ¿Qué busca uno de los hombres más ricos de Silicon Valley en Paraguay?"
@@ -167,3 +167,5 @@ Mirá el análisis completo del ecosistema de IA en Paraguay en la [guía de int
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

@@ -2,7 +2,7 @@
 layout: post
 title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
 date: 2026-05-27
-last_modified_at: 2026-05-27
+last_modified_at: 2026-08-15
 categories: articulos
 tags: infraestructura-energia
 description: "Paraguay habilita por primera vez la generación privada de energía renovable. Entre el fin del monopolio de la ANDE y los riesgos de corrupción, ¿qué significa el Decreto 6034?"
@@ -283,3 +283,5 @@ Seguí el análisis completo de los temas de energía en Paraguay en la [guía d
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

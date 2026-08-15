@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene energía para la IA pero no la red para transportarla"
 date: 2026-07-08
-last_modified_at: 2026-07-08
+last_modified_at: 2026-08-15
 categories: articulos
 tags: infraestructura-energia
 description: "Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan. Yguazú Digital, criptominería y la renegociación de Itaipú chocan contra el mismo límite."
@@ -113,3 +113,5 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

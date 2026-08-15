@@ -2,7 +2,7 @@
 layout: post
 title: "El campo paraguayo se moderniza sin el pequeño productor"
 date: 2026-07-13
-last_modified_at: 2026-07-13
+last_modified_at: 2026-08-15
 categories: articulos
 tags: tech-ecosistema
 description: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Mientras Brasil tiene 1.600 agtechs y Argentina 400, Paraguay apenas suma 14 startups."
@@ -100,3 +100,5 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

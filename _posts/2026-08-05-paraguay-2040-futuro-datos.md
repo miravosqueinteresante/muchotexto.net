@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay 2040: un país construido con datos"
 date: 2026-08-05 14:00:00 -0300
-last_modified_at: 2026-08-05
+last_modified_at: 2026-08-15
 categories: articulos
 tags: [paraguay-futuro, prospectiva, infraestructura-energia, tech-ecosistema, desarrollo]
 description: "Paraguay tiene energia limpia, una poblacion joven y 943,8 MW de potencia reservada para data centers. Que puede pasar si en los proximos 15 anos toma las decisiones correctas, y que pasa si no."
@@ -130,3 +130,5 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

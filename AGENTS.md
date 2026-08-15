@@ -26,6 +26,16 @@ Aplicar las correcciones indicadas por el agente. Solo commitear cuando el infor
 ### Regla de escape
 Si un dato es inverificable pero viene de una fuente primaria citada en el artículo y esa fuente es confiable (ABC Color, ANDE, DNCP, IPS, MITIC, BACN, etc.), se puede mantener con la atribución explícita.
 
+## Política editorial de IA (alineada con como-trabajamos.markdown)
+
+- La IA es asistente, nunca autor final. Toda publicación requiere supervisión editorial humana.
+- **Artículos long-form**: si la IA intervino de forma significativa en investigación o redacción, el artículo lleva al pie la fórmula: "Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net." Si el uso incidió en contenido factual, indicar qué parte del proceso fue asistido.
+- Pulso y Editorial ya se marcan como generados por IA con el modelo nombrado.
+- **Prohibido**: ingresar información confidencial, datos personales de fuentes o borradores de contenidos inéditos en herramientas de IA comerciales. Solo herramientas autorizadas (listadas en como-trabajamos.markdown).
+- **Política de revisión**: revisar esta política cada 90 días o al incorporar un modelo/herramienta nueva.
+
+**Recordatorio de mantenimiento:** próxima revisión de la política de IA: 13 de noviembre de 2026.
+
 ## Categorías de error más frecuentes (verificar con especial atención)
 
 - **Números de leyes**: verificar número y año en BACN (www.bacn.gov.py)

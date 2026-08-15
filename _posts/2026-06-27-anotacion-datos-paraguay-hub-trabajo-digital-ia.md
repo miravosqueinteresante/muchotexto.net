@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene una ventaja silenciosa en la anotación de datos para IA"
 date: 2026-06-27
-last_modified_at: 2026-06-27
+last_modified_at: 2026-08-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
 description: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos por centavos. ¿Puede Paraguay ser el hub de anotación de datos para IA?"
@@ -119,3 +119,5 @@ Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guí
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

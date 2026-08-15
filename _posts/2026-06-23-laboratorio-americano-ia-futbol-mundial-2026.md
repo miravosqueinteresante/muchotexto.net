@@ -2,7 +2,7 @@
 layout: post
 title: "Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026"
 date: 2026-06-23
-last_modified_at: 2026-06-23
+last_modified_at: 2026-08-15
 categories: articulos
 tags: cultura-filosofia ia-paraguay
 description: "Sportian, Oura, scouting con machine learning y un centro de entrenamiento de 200 acres. USA no llegó al Mundial 2026 a competir: llegó a demostrar que los datos pueden cambiar el fútbol."
@@ -135,3 +135,5 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

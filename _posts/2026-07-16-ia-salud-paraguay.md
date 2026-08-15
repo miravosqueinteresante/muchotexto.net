@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene telemedicina desde 2013, la IA en salud todavía no"
 date: 2026-07-16
-last_modified_at: 2026-07-16
+last_modified_at: 2026-08-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
 description: "Paraguay tiene telemedicina nacional desde 2013 con más de un millón de diagnósticos. La inteligencia artificial todavía no llegó a sus hospitales."
@@ -96,3 +96,5 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

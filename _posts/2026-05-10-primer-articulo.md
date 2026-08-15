@@ -2,7 +2,7 @@
 layout: post
 title: "Bienvenidos a muchotexto.net"
 date: 2026-05-10
-last_modified_at: 2026-05-10
+last_modified_at: 2026-08-15
 categories: articulos
 tags: ia-paraguay
 description: "Pasamos horas desplazando feeds infinitos y no terminamos nada. muchotexto.net nace como un espacio de lectura profunda, sin distracciones."
@@ -94,3 +94,5 @@ Para seguir explorando estos temas, visitá la [guía completa de inteligencia a
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

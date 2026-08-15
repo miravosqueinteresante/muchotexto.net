@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene los datos judiciales que la IA necesita"
 date: 2026-07-21
-last_modified_at: 2026-07-21
+last_modified_at: 2026-08-15
 categories: articulos
 tags: tech-ecosistema ia-paraguay paraguay ia
 description: "Paraguay digitalizó sus tribunales pero todavía no usa inteligencia artificial. Qué puede aprender de COMPAS, Prometea y VICTOR."
@@ -116,3 +116,5 @@ Paraguay tiene una ventana de oportunidad. Llega décimo a una carrera donde otr
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

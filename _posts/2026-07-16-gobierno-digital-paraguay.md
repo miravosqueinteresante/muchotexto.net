@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
 date: 2026-07-16
-last_modified_at: 2026-07-16
+last_modified_at: 2026-08-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
 description: "Paraguay ya tiene 1.5M de usuarios con Identidad Electrónica, 480 trámites online y cédula digital. Pero la cédula física se emite en persona. ¿Qué falta?"
@@ -115,3 +115,5 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

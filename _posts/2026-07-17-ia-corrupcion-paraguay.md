@@ -2,7 +2,7 @@
 layout: post
 title: "Brasil usa inteligencia artificial contra la corrupción, Paraguay no"
 date: 2026-07-17
-last_modified_at: 2026-07-17
+last_modified_at: 2026-08-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
 description: "Brasil tiene ALICE, IA que detecta anomalías en licitaciones desde 2015. Paraguay tiene 24/100 en Transparencia Internacional y compras públicas sin auditar."
@@ -99,3 +99,5 @@ Leé el análisis completo sobre sociedad y tecnología en la [guía de intelige
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

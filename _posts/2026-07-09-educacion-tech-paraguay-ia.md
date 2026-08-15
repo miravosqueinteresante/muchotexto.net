@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay necesita más ingenieros para sostener su hub de IA"
 date: 2026-07-09
-last_modified_at: 2026-07-09
+last_modified_at: 2026-08-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
 description: "Paraguay produce alrededor de 400 graduados en informática por año. Yguazu Digital necesitara profesionales que el sistema educativo no está formando."
@@ -92,3 +92,5 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

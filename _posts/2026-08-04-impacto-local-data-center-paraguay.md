@@ -2,7 +2,7 @@
 layout: post
 title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
 date: 2026-08-04 12:00:00 -0300
-last_modified_at: 2026-08-04 22:00:00 -0300
+last_modified_at: 2026-08-15
 categories: articulos
 tags: [infraestructura-energia, sociedad-trabajo, data-center, empleo, desarrollo-local]
 description: "HIVE Digital invirtió USD 56M en Yguazú y opera 300 MW. La comunidad recibió mejoras en escuelas y empleo temporal en construcción. Después, la relación se vuelve más compleja."
@@ -122,3 +122,5 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

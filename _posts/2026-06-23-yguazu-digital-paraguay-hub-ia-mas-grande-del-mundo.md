@@ -2,7 +2,7 @@
 layout: post
 title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
 date: 2026-06-23
-last_modified_at: 2026-06-23
+last_modified_at: 2026-08-15
 categories: articulos
 tags: infraestructura-energia ia-paraguay
 description: "Fase I: 10 MW y $200M. Fase III: 1 GW y $40.000M. Paraguay y Taiwán anunciaron uno de los centros de IA más ambiciosos del planeta. ¿Es viable o es un castillo en el aire?"
@@ -175,3 +175,5 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
   ]
 }
 </script>
+
+*Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*
