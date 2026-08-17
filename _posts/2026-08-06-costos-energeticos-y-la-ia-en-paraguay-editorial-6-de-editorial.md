@@ -13,6 +13,7 @@ description: "Un estudio internacional proyecta un incremento de hasta el 45,6% 
 
 
 
+
 date: 2026-08-06 18:00:00 -0300
 last_modified_at: 2026-08-06
 categories: editorial
