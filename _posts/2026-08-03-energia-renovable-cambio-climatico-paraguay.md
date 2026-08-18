@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
 date: 2026-08-03 23:00:00 -0300
-last_modified_at: 2026-08-15
+last_modified_at: 2026-08-18
 categories: articulos
 tags: [infraestructura-energia, paraguay-futuro, cambio-climatico, itaipu, deforestacion]
 description: "Paraguay genera el 99.9% de su electricidad con fuentes renovables. Pero 97% depende de dos represas, perdió 6.3M de hectáreas de bosque y no tiene plan de diversificación."
@@ -48,9 +48,9 @@ En total, Paraguay emite entre 75 y 98 millones de toneladas de CO2 equivalente 
 
 Paraguay no tiene un solo parque solar conectado al sistema interconectado nacional. No tiene un solo parque eólico. No tiene una sola planta de biomasa de escala utility. La capacidad instalada de energías renovables no convencionales —solar distribuida en techos, pequeñas turbinas aisladas— es insignificante en un sistema de 8.760 MW.
 
-El potencial existe. Paraguay recibe una irradiación solar promedio de 5,5 kilovatios-hora por metro cuadrado por día en la región occidental —comparable a la del Desierto de Atacama en Chile, que alberga algunos de los parques solares más grandes del mundo—. El Chaco paraguayo tiene vientos constantes con velocidades medias superiores a 6 metros por segundo a 80 metros de altura, viables para generación eólica. Pero no hay proyectos.
+El potencial existe. Paraguay recibe una irradiación solar promedio de 4,8 a 4,9 kilovatios-hora por metro cuadrado por día en la región occidental (Atlas Solar 2016), entre las más altas de Sudamérica. El Chaco paraguayo tiene vientos constantes con velocidades medias superiores a 6 metros por segundo a 80 metros de altura, viables para generación eólica. Pero no hay proyectos.
 
-La razón no es técnica ni económica. Es institucional. Paraguay no tiene un plan nacional de diversificación energética. No existe una meta vinculante de penetración de energías renovables no convencionales. La Ley 7599 de 2025 abrió el sector eléctrico a la inversión privada por primera vez, y su decreto reglamentario (Decreto 6034 de 2026) habilitó seis fuentes renovables no convencionales —solar, eólica, biomasa, biogás, geotermia y almacenamiento— y creó las figuras de autogenerador, cogenerador, exportador y prosumidor. Pero a un año de su promulgación, no se ha concretado ningún proyecto utility-scale bajo este marco. Paraguay sigue sin tener un mecanismo de subastas de energía renovable como el que usaron Uruguay —desde 2006— y Brasil —desde 2009— para construir sus parques eólicos.
+La razón no es técnica ni económica. Es institucional. Paraguay no tiene un plan nacional de diversificación energética. No existe una meta vinculante de penetración de energías renovables no convencionales. La Ley 7599 de 2025 abrió el sector eléctrico a la inversión privada por primera vez, y su decreto reglamentario (Decreto 6034 de 2026) habilitó seis fuentes renovables no convencionales —solar, eólica, biomasa, biogás, geotermia y almacenamiento— y creó las figuras de autogenerador, cogenerador, generador, exportador y gran consumidor. Pero a un año de su promulgación, no se ha concretado ningún proyecto utility-scale bajo este marco. Paraguay sigue sin tener un mecanismo de subastas de energía renovable como el que usaron Uruguay —desde 2006— y Brasil —desde 2009— para construir sus parques eólicos.
 
 ## Lo que dice (y no dice) la política climática paraguaya
 

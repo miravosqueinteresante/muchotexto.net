@@ -2,7 +2,7 @@
 layout: post
 title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
 date: 2026-07-17
-last_modified_at: 2026-08-15
+last_modified_at: 2026-08-18
 categories: articulos
 tags: infraestructura-energia ia-paraguay
 description: "El Anexo C de Itaipú vence en 2027. Las negociaciones siguen congeladas por un caso de espionaje. Paraguay recibe USD 1.000M al año y podría perder el 60%."
@@ -62,7 +62,7 @@ La tercera es prepararse para el escenario de escasez. Si la demanda sigue creci
 
 En 1973, cuando Paraguay y Brasil firmaron el Tratado de Itaipú, Paraguay era una dictadura militar gobernada por Alfredo Stroessner. En 2009, cuando Lugo y Lula negociaron la primera gran revisión, Paraguay era una democracia joven que recién aprendía a usar su energía como herramienta diplomática. En 2026, tiene centros de datos de inteligencia artificial, una alianza tecnológica con Taiwán y una demanda interna que crece más rápido que su capacidad de transmisión. El país que negocie el próximo Anexo C no es el mismo que firmó el anterior.
 
-Que Paraguay tenga una Política Energética Nacional al 2050 —aprobada por decreto en septiembre de 2024 con 95 objetivos, 385 metas y un ministerio de energía que debía estar funcionando ese mismo año— y que en agosto de 2026 el presidente tenga que reconvocar la Mesa Energética Nacional para discutir lo mismo que ya estaba escrito en ese documento, es elocuente. El 13 de agosto de 2026 el Ejecutivo dio el primer paso concreto presentando los proyectos de ley del Ministerio de Minas y Energía y de un ente regulador eléctrico, pero siguen siendo textos en debate, no instituciones. Itaipú es la joya de la corona. Pero la gobernanza energética paraguaya sigue siendo un archipiélago de instituciones desconectadas —Itaipú por un lado, ANDE por otro, el VMME en el MOPC, la Mesa Energética convocada a intervalos— sin un timón único con autoridad real. Eso no lo resuelve ningún Anexo C.
+Que Paraguay tenga una Política Energética Nacional al 2050 —aprobada por decreto en septiembre de 2024 con 95 objetivos, 385 metas y un ministerio de energía que debía estar funcionando ese mismo año— y que en agosto de 2026 el presidente tenga que reconvocar la Mesa Energética Nacional para discutir lo mismo que ya estaba escrito en ese documento, es elocuente. El 13 de agosto de 2026 el Ejecutivo dio el primer paso concreto presentando los proyectos de ley del Ministerio de Energía, Minería e Hidrocarburos y de un ente regulador eléctrico, pero siguen siendo textos en debate, no instituciones. Itaipú es la joya de la corona. Pero la gobernanza energética paraguaya sigue siendo un archipiélago de instituciones desconectadas —Itaipú por un lado, ANDE por otro, el VMME en el MOPC, la Mesa Energética convocada a intervalos— sin un timón único con autoridad real. Eso no lo resuelve ningún Anexo C.
 
 Leé el análisis completo sobre infraestructura y energía en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
 
