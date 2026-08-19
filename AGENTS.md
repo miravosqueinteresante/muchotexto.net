@@ -236,6 +236,23 @@ Fuentes: Presidencia.gov.py, MOPC, ABC Color, Última Hora, RDN, RCC, MIC.gov.py
   - Crecimiento reciente de demanda (era data centers): 12,5-21% anual. El piso oficial reciente es 12,5% (2025); usar "12-21%" es impreciso.
 - **6.300 MW**: es la potencia disponible de Itaipú para Paraguay (10 turbinas x 700 MW con 10% de margen), NO exclusivamente la demanda de empresas interesadas. La prensa reporta este número como "demanda de empresas" pero casualmente coincide con la capacidad paraguaya de Itaipú. Fuente: Wikipedia ES ANDE, ABC Color.
 
+### Proyecto de ley del Ministerio de Energía, Minería e Hidrocarburos (verificado ago 2026)
+
+Fuentes: texto íntegro "PRELIMINAR VMME" (energia.paraguay.gov.py / drive.mitic.gov.py), BACN.
+
+- **El proyecto crea** el "Ministerio de Energía, Minería e Hidrocarburos" con 27 artículos y 3 viceministerios (Energía, Minería, Hidrocarburos). Absorbe al VMME (MOPC) y a la Dirección de Combustibles (MIC). Presentado el 13-ago-2026 en la Mesa Nacional del Sector Eléctrico. Es PROYECTO, no institución creada.
+- **Art. 5**: 17 incisos de funciones (a-q). NO decir "una docena" ni un número menor.
+- **Art. 10**: coordina 8 entes nominados (Itaipú, Yacyretá, COMIP, ERE, ANDE, PETROPAR, ARRN, INFONA) + cláusula residual (inc. i). La rectoría sectorial (Ley 7278/24, arts. 35-37) alcanza SOLO los incisos d) a i) —incluye al ERE y al catch-all—, NO a las binacionales (a-c) que solo se "coordinan".
+- **COMIP no es binacional**: es la "Comisión Mixta Paraguayo-Argentina del Río Paraná" (convenio 1971). Binacionales son solo Itaipú (Brasil) y Yacyretá (Argentina).
+- **Art. 18**: 8 fuentes de financiamiento (incisos a-h). NO decir "tres fuentes".
+- **Regalías mineras**: 2%-8,4% progresiva sobre renta neta, introducida por Ley 4.935/2013 que modifica la Ley 3.180/2007. NO citar como "Ley 3.180 original".
+- **Reparto de regalías mineras**: Ley 4.592/2012 fija 50% gobierno central / 25% departamento / 25% municipio afectado, y su art. 2 obliga a destinar el 100% de esos ingresos exclusivamente a proyectos de infraestructura. (Verificado contra texto íntegro BACN, 19-ago-2026.)
+- **Regalías hidrocarburos**: Ley 675/1960, 10% (hasta 5.000 barriles/día), 12% (hasta 10.000), 15% (exceso), sin reparto territorial. NO usar "Ley 779" (no existe).
+- **VMME**: denominación legal "Gabinete del Viceministro de Minas y Energía" (Ley 167/1993 creó 2 direcciones; hoy tiene 5). Titular: Mauricio Bejarano.
+- **Cita Cáceres (14-ago)**: dijo "respetar sus funciones" (no "blindar" — ese término es del titular de La Nación). "La carta orgánica de la ANDE tiene 62 años" es correcto (Ley 966/1964).
+- **Cita Oxilia (15-ago)**: "juez y parte" es cita directa suya. El ente regulador debe ser "técnico e independiente del poder político".
+- **UIP/Feprinco**: sin declaración verificada sobre el proyecto. NO atribuirles posición.
+
 ### Tarifas ANDE — Consumo Intensivo Especial (verificado ago 2026)
 
 Fuentes: Resolución ANDE 49238/2024, Pliego de Tarifas Nº 21, ABC Color, decretos presidenciales (5306, 5307, 5860, 5861).
