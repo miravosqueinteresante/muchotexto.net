@@ -14,7 +14,7 @@ Paraguay no necesita descubrir que tiene un problema institucional en su sector 
 > - La consultora brasileña PSR propone separar el sector eléctrico paraguayo en tres piezas: un ministerio (política y planificación), un ente regulador (reglas y arbitraje) y la ANDE enfocada en operar.
 > - El diagnóstico de PSR es que Paraguay ya tiene las cuatro funciones de un sistema eléctrico moderno, pero mezcladas en dos instituciones: el VMME-MOPC y la ANDE.
 > - Hoy la ANDE concentra generación, transmisión, distribución, operación y fija sus propias tarifas: es operador y regulador de facto a la vez.
-> - Uruguay, Chile y Brasil separaron regulación de operación por ley, en secuencias que PSR usa como referencia.
+> - Uruguay, Chile y Brasil separaron regulación de operación por ley; el documento de PSR no los cita, pero sirven de espejo regional para leer su propuesta.
 > - El documento omite seis asuntos decisivos: tarifas, transición de personal, financiamiento del regulador, rol de las binacionales, plazos y costos.
 
 ## El documento que propone cuatro funciones y tres piezas
