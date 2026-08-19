@@ -57,7 +57,7 @@ Cuarto, y el más grave para Paraguay, **el rol de las binacionales**. El diagra
 
 Quinto, **los plazos**. La transición en tres etapas —proyectos de ley, implementación, consolidación— no tiene fechas ni hitos medibles. Sexto, **los costos**: no hay una estimación de cuánto cuesta crear el ministerio y el regulador, ni de dónde sale ese dinero.
 
-Y hay una advertencia que viene de la propia región. S&P Global Ratings documentó en enero de 2025 que, pese a que los reguladores latinoamericanos operan de forma autónoma en el papel, crecieron las interferencias políticas —incluido el congelamiento de tarifas en Chile tras el estallido social. El BID, por su parte, concluye en un estudio de dieciocho países que la gobernanza escrita en la ley no se traduce automáticamente en desempeño real. La independencia formal es condición necesaria, no suficiente.
+Y hay una advertencia que viene de la propia región. El BID, en un estudio de dieciocho países publicado en 2020, asocia la calidad de la gobernanza regulatoria con un mejor desempeño del sector —más capacidad por habitante, más cobertura y mayor asequibilidad—. Es decir: la institucionalidad independiente funciona. Pero funciona cuando es real, y ahí está el matiz que S&P Global Ratings documentó en enero de 2025: pese a que los reguladores latinoamericanos operan de forma autónoma en el papel, crecieron las interferencias políticas —incluido el congelamiento de tarifas en Chile tras el estallido social—. La independencia formal es condición necesaria, no suficiente.
 
 ## Conclusión
 
