@@ -19,7 +19,7 @@ Paraguay no necesita descubrir que tiene un problema institucional en su sector 
 
 ## El documento que propone cuatro funciones y tres piezas
 
-El razonamiento de PSR arranca con una lista que cualquier manual de reforma eléctrica reconocería. Un sistema eléctrico moderno necesita cuatro funciones: planificación, política energética, regulación y operación del sistema. No es una idea propia de la consultora: es la adaptación del modelo estándar de reforma del sector eléctrico que el Banco Mundial y su programa ESMAP vienen promoviendo desde los años noventa, con un regulador independiente separado del operador.
+El razonamiento de PSR arranca con una lista que cualquier manual de reforma eléctrica reconocería. Un sistema eléctrico moderno necesita cuatro funciones: planificación, política energética, regulación y operación del sistema. No es una idea propia de la consultora: es la adaptación del modelo estándar de reforma del sector eléctrico que el Banco Mundial y su programa ESMAP vienen promoviendo desde los años noventa, con un regulador independiente separado del operador, según el marco documentado en el Body of Knowledge on Infrastructure Regulation.
 
 Lo que sigue es el diagnóstico. PSR sostiene que Paraguay "ya cuenta con estas funciones", pero mezcladas entre dos instituciones. El Viceministerio de Minas y Energía (VMME), dependiente del MOPC, ejerce la política energética. La ANDE ejerce la regulación "en parte" y la operación completa. Y la planificación la comparten el MOPC-VMME y la ANDE. El desafío, dice el documento, no es crear funciones nuevas: es "especializarlas".
 
@@ -31,7 +31,7 @@ Para entender qué cambiaría el modelo de PSR, conviene mirar qué hace la ANDE
 
 Sobre esa base, la misma ley le da a la ANDE la facultad de fijar sus propias tarifas: el artículo 84 establece que las tarifas de suministro "serán aprobadas por el Consejo de Administración", y el artículo 88 les fija una meta de rentabilidad de entre 8% y 10% sobre la inversión inmovilizada. El resultado es una anomalía que la propia literatura internacional describe sin ambigüedad: un operador que fija los precios que cobra es juez y parte a la vez.
 
-La enciclopedia especializada en el sector eléctrico de Paraguay lo resume en su tabla institucional: "Responsibility for regulation: ANDE" (la responsabilidad de regular recae en la ANDE) y "Sector unbundling: No" (no hay separación vertical del sector). Es el diagnóstico exacto que el documento de PSR pone sobre la mesa: las funciones existen, pero están tan mezcladas que la transparencia y la previsibilidad —justo lo que un inversor de un data center o una planta industrial necesita para firmar a veinte años— dependen de una sola entidad.
+La entrada de Wikipedia en inglés sobre el sector eléctrico de Paraguay lo resume en su tabla institucional: "Responsibility for regulation: ANDE" (la responsabilidad de regular recae en la ANDE) y "Sector unbundling: No" (no hay separación vertical del sector). Es el diagnóstico exacto que el documento de PSR pone sobre la mesa: las funciones existen, pero están tan mezcladas que la transparencia y la previsibilidad —justo lo que un inversor de un data center o una planta industrial necesita para firmar a veinte años— dependen de una sola entidad.
 
 ## Cómo separaron regulación y operación Uruguay, Chile y Brasil
 
@@ -63,7 +63,7 @@ Y hay una advertencia que viene de la propia región. S&P Global Ratings documen
 
 El documento de PSR es, a la vez, lo más concreto que Paraguay ha tenido sobre su problema institucional y una promesa a medio dibujar. Acierta en el diagnóstico —las funciones existen y están mezcladas— y en la dirección: separar política, regulación y operación en tres instituciones, como ya hicieron Uruguay, Brasil y Chile. Ese es un consenso que el propio viceministro Mauricio Bejarano resumió al anunciar "un ente regulador que será el primero en Paraguay, el árbitro tan necesario" para la inversión privada.
 
-Pero el salto del papel a la ley depende de responder lo que las dieciocho láminas no responden: quién paga, quién se muda y qué se hace con Itaipú y Yacyretá. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) y sigue sin existir. La [apertura del sector a la generación privada]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) ya se firmó sin regulador independiente. Si esta tercera ronda de proyectos de ley vuelve a naufragar, no será por falta de diagnóstico: será por las mismas preguntas que Paraguay lleva una década sin responder.
+Pero el salto del papel a la ley depende de responder lo que el documento no responde: quién paga, quién se muda y qué se hace con Itaipú y Yacyretá. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) y sigue sin existir. La [apertura del sector a la generación privada]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) ya se firmó sin regulador independiente. Si esta tercera ronda de proyectos de ley vuelve a naufragar, no será por falta de diagnóstico: será por las mismas preguntas que Paraguay lleva una década sin responder.
 
 El debate completo sobre energía e institucionalidad está en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
@@ -85,6 +85,7 @@ El debate completo sobre energía e institucionalidad está en el [Observatorio 
 14. [La Nación — "Ejecutivo planteará la creación del Ministerio de Energía ante la Mesa Energética Nacional"](https://www.lanacion.com.py/politica/2026/08/11/ejecutivo-planteara-la-creacion-del-ministerio-de-energia-ante-la-mesa-energetica-nacional/) (11 de agosto de 2026)
 15. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/) (13 de agosto de 2026)
 16. [La Nación — "Expertos avalan nuevo Ministerio de Energía pero exigen blindar funciones de la ANDE"](https://www.lanacion.com.py/politica/2026/08/14/expertos-avalan-nuevo-ministerio-de-energia-pero-exigen-blindar-funciones-de-la-ande/) (14 de agosto de 2026)
+17. [Banco Mundial / BoKIR — "Utility Market Reforms" e "Institutional Design" (marco de separación regulación/operación)](https://regulationbodyofknowledge.org/general-concepts/utility-market-reforms/)
 
 <script type="application/ld+json">
 {
