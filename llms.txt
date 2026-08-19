@@ -32,6 +32,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Qué le pasa a una ciudad paraguaya cuando llega un data center](https://muchotexto.net/articulos/2026/08/04/impacto-local-data-center-paraguay/)
 - [Paraguay 2040: un país construido con datos](https://muchotexto.net/articulos/2026/08/05/paraguay-2040-futuro-datos/)
 - [El plan energético al 2050 que Paraguay escribió y todavía no ejecuta](https://muchotexto.net/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)
+- [El modelo institucional de PSR para el sector eléctrico paraguayo](https://muchotexto.net/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/)
 
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
