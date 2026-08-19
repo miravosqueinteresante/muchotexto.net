@@ -52,11 +52,12 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[El modelo institucional de PSR para el sector eléctrico paraguayo]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %})** — La consultora brasileña PSR propone separar el sector en tres piezas: ministerio, ente regulador y una ANDE enfocada. El documento omite seis asuntos decisivos, desde las tarifas hasta el rol de Itaipú y Yacyretá.
 
+- **[El ministerio de energía que Paraguay prepara con tres viceministerios]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %})** — El proyecto de ley crea el Ministerio de Energía, Minería e Hidrocarburos absorbiendo al VMME y a la Dirección de Combustibles, con financiamiento por regalías y rectoría sobre la ANDE y Petropar.
+
 **Próximamente:**
 
 - **Tigo PIO: el data center que Netflix y Amazon ya usan en Paraguay** — El único Tier III certificado del país opera en Villa Elisa hace una década. Netflix y Google usan sus nodos CDN; HIVE lanzó BUZZ AI Cloud ahí en marzo 2026. Verificado con Última Hora (2016), Uptime Institute, FOCO (2026) y HIVE Earnings.
 - **Energía nuclear en Paraguay: los reactores modulares que vienen de Washington** — El MOU de cooperación nuclear civil firmado entre Marco Rubio y Rubén Ramírez el 4 de agosto de 2026 abre la puerta a SMRs en el país de las hidroeléctricas. Verificado con U.S. Department of State.
-- **Ministerio de Energía, Minería e Hidrocarburos: el ministerio que Paraguay no se pudo crear** — El proyecto de ley presentado el 13 de agosto absorbería al VMME (MOPC) y a la Dirección de Combustibles (MIC). La PEN 2050 lo pedía para 2024 y a agosto de 2026 sigue sin existir. Verificado con el texto oficial "PRELIMINAR VMME" publicado en energia.paraguay.gov.py.
 - **El Ente Regulador de Energía: el fiscalizador que Paraguay nunca tuvo** — El proyecto crea un ente autónomo y autárquico con funciones tarifarias, de arbitraje y de resolución de conflictos, que depende institucionalmente del nuevo ministerio. La ANDE reguló y operó a la vez durante décadas. Verificado con el texto oficial publicado en energia.paraguay.gov.py.
 - **El estudio CEARE que proyecta la tarifa eléctrica paraguaya a 68 dólares** — El informe final del Plan de Mejora de la Gestión Operativa de la ANDE (CEARE-UBA, 17-12-2025) proyecta la tarifa media de 49,2 a 68,6 US$/MWh al 2030, con un capítulo completo de pérdidas, morosidad y costo de generación. Verificado contra el documento publicado en energia.paraguay.gov.py.
 
