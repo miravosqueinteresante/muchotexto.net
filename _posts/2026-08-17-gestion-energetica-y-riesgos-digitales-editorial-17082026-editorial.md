@@ -4,6 +4,7 @@ title: "Gestión energética y riesgos digitales — Editorial 17/08/2026"
 description: "La reciente decisión gubernamental de elevar el Viceministerio de Minas y Energía al rango de Ministerio marca un punto de inflexión en la administración de los recursos eléctricos del país."
 
 
+
 date: 2026-08-17 18:00:00 -0300
 last_modified_at: 2026-08-17
 categories: editorial
