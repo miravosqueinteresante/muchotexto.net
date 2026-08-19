@@ -3,7 +3,7 @@ layout: page
 title: Cómo trabajamos
 permalink: /como-trabajamos/
 description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuentes, verificamos datos, usamos inteligencia artificial y corregimos errores."
-last_modified_at: 2026-08-15
+last_modified_at: 2026-08-19
 ---
 
 **muchotexto.net** es el observatorio de inteligencia artificial en Paraguay. Utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
@@ -38,7 +38,7 @@ Como principio general, la IA actúa como asistente, nunca como autor final. Cad
 | Editorial Diaria | Editor humano (revisión diaria) | Opinión derivada del Pulso; prohibido atribuir citas o ideas que no aparezcan en las fuentes |
 | FAQ automática | Editor humano | Preguntas y respuestas derivadas del texto del artículo publicado |
 | Investigación con agentes | Editor humano | Los hallazgos se sintetizan; nunca se copian textualmente sin verificación |
-| Fact-check | Editor humano | Los agentes verificadores se verifican entre sí (doble fact-check obligatorio) |
+| Fact-check | Editor humano | Verificación en dos capas: datos factuales + claims de atribución (se abre el texto completo de la fuente para comprobar qué concluye realmente) |
 
 **Usos prohibidos:**
 
@@ -58,7 +58,8 @@ Como principio general, la IA actúa como asistente, nunca como autor final. Cad
 
 | Riesgo | Medida |
 |---|---|
-| Alucinaciones y datos fabricados | Gap Report obligatorio, fact-check pre-commit, doble fact-check y cruce contra la base de claims verificados |
+| Alucinaciones y datos fabricados | Gap Report obligatorio, fact-check pre-commit en dos capas (datos + atribución), doble fact-check y cruce contra la base de claims verificados |
+| Atribución incorrecta de conclusiones | El fact-check abre el texto completo de cada fuente citada para verificar que la conclusión atribuida es la que realmente tiene; las comparaciones del autor se marcan como propias |
 | Sesgo algorítmico | System prompts con reglas de neutralidad y equilibrio PROS/CONTRAS; supervisión del editor; auditorías programadas |
 | Fuga de información sensible | Solo herramientas autorizadas; prohibición de ingresar datos confidenciales en herramientas comerciales |
 | Pérdida de calidad | Supervisión editorial humana obligatoria en toda publicación; revisión diaria del contenido automatizado |
@@ -83,10 +84,10 @@ Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA a
 2. **Plan de investigación**: creamos un directorio `research_[tema]/` con un `research_plan.md` que define la pregunta principal, 4 o 5 subtemas específicos y las fuentes esperadas (institutos públicos, papers académicos, documentos oficiales, informes sectoriales).
 3. **Investigación paralela con agentes**: desplegamos de 4 a 5 agentes de IA independientes usando **OpenCode** con capacidad de búsqueda web. Cada agente investiga un subtema distinto en simultáneo, rastreando fuentes primarias verificables. Los resultados se escriben en archivos `findings_N.md` dentro del directorio de investigación.
 4. **Síntesis de hallazgos**: el editor lee y cruza todos los findings, identificando patrones, contradicciones y conexiones entre subtemas que los agentes no pudieron detectar por sí solos.
-5. **Gap Report**: antes de escribir, se genera un reporte que lista **todos los números, fechas, montos y nombres propios** que el artículo va a usar — no solo los claims principales. Para cada uno se verifica: fuente verificable en los findings, dato textual y accesibilidad. Si más de 2 claims no tienen fuente accesible, el proceso se pausa. **Prohibido el cálculo mental:** todo número derivado (suma, resta, porcentaje) debe estar explícitamente en los findings o documentarse en el Gap Report antes de escribir.
+5. **Gap Report**: antes de escribir, se genera un reporte que lista **todos los números, fechas, montos y nombres propios** que el artículo va a usar — no solo los claims principales — y, además, las **afirmaciones interpretativas o de atribución** ("X concluye/afirma/usa/cita Y"), para las que se comprueba que Y está realmente en la fuente de X. Para cada dato se verifica: fuente verificable en los findings, dato textual y accesibilidad. Si más de 2 claims no tienen fuente accesible, el proceso se pausa. **Prohibido el cálculo mental:** todo número derivado (suma, resta, porcentaje) debe estar explícitamente en los findings o documentarse en el Gap Report antes de escribir.
 6. **Redacción**: el editor escribe el artículo con estructura hook → TL;DR → contexto → 4 a 6 secciones H2 → conclusión → fuentes, usando los hallazgos como materia prima verificada. Se aplica la regla de cero datos de memoria: ningún número, fecha, nombre propio o monto se escribe sin fuente verificable en el gap report. El TL;DR es un resumen ejecutivo de 3-4 viñetas justo después del hook, optimizado para extracción por ChatGPT, Perplexity y Google AI Overviews.
 7. **Enlazado interno**: se insertan de 2 a 3 enlaces a otros artículos del sitio, anclados exclusivamente en hechos verificables presentes en los findings.
-8. **Fact-check pre-publicación**: un agente independiente verifica cada afirmación con número, fecha, nombre o monto contra las fuentes. Para cualquier dato sobre Paraguay, el agente debe consultar **fuentes primarias paraguayas** (Wikipedia en español, ANDE, BACN, MADES, ABC Color, La Nación, Itaipú Binacional) y no depender exclusivamente de Wikipedia en inglés o fuentes internacionales. Si el fact-check encuentra errores, se corrigen y se re-ejecuta hasta que pase. Los fact-checkers también se verifican entre sí (doble fact-check obligatorio). Además, el agente **cruza los claims contra los artículos ya publicados en el sitio** y contra la base de **claims verificados en AGENTS.md**.
+8. **Fact-check pre-publicación**: un agente independiente verifica cada afirmación en dos capas. Primero, los datos factuales —números, fechas, nombres y montos— contra las fuentes. Segundo, los claims interpretativos o de atribución: toda oración donde una fuente es el sujeto de un verbo de afirmación ("X concluye/afirma/usa/cita Y") exige abrir el texto completo de esa fuente y comprobar que la conclusión atribuida es la que realmente tiene. Un claim no se aprueba solo porque la fuente existe y el título coincide. Para cualquier dato sobre Paraguay, el agente debe consultar **fuentes primarias paraguayas** (Wikipedia en español, ANDE, BACN, MADES, ABC Color, La Nación, Itaipú Binacional) y no depender exclusivamente de Wikipedia en inglés o fuentes internacionales. Las fuentes primarias ya descargadas se pasan al agente por su ruta local para que las lea completas. Si el fact-check encuentra errores, se corrigen y se re-ejecuta hasta que pase. Los fact-checkers también se verifican entre sí (doble fact-check obligatorio), y el editor abre personalmente 1 o 2 fuentes de alto riesgo antes de publicar. Además, el agente **cruza los claims contra los artículos ya publicados en el sitio** y contra la base de **claims verificados en AGENTS.md**.
 9. **Verificación de proceso**: antes del commit, un agente independiente confirma que se completaron todos los pasos del flujo: carpeta research creada, findings existen, Gap Report existe y cada número del artículo tiene fila, fact-check ejecutado y errores corregidos. Si falta algún paso, el artículo no se publica.
 10. **Validación automatizada**: el artículo pasa por `validate_publish.py`, un script de 12 controles que verifica: longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos, metadatos SEO y más.
 11. **Generación de FAQ**: un script automático (`generate_faq.py`) analiza el contenido del artículo y genera 3 preguntas frecuentes con respuestas basadas en datos del texto. Si el artículo no incluye FAQ, un workflow de GitHub Actions lo detecta y lo genera automáticamente antes de la publicación.
@@ -151,7 +152,7 @@ Cada artículo registra en sus metadatos una fecha de última modificación (`la
 
 ## Principios editoriales
 
-1. **Atribución**: toda información que procesamos tiene un origen identificable. No publicamos rumores ni filtraciones anónimas.
+1. **Atribución**: toda información que procesamos tiene un origen identificable. No publicamos rumores ni filtraciones anónimas. No atribuimos a una fuente una conclusión que no es suya: si decimos "X concluye que Y", verificamos que Y está realmente en lo que X escribió. Las comparaciones y análisis del editor se presentan como propios, no como de las fuentes.
 2. **Independencia**: no recibimos financiamiento de partidos políticos, gobiernos ni corporaciones para influir en nuestra línea editorial. El sitio se sostiene con publicidad no intrusiva.
 3. **Transparencia metodológica**: explicamos cómo producimos cada tipo de contenido y qué rol juega la IA en cada caso.
 4. **Corrección sobre orgullo**: si nos equivocamos, lo corregimos y lo decimos. La credibilidad se construye admitiendo errores.

@@ -15,13 +15,25 @@ O equivalentemente: "Chequea los datos de este artículo con fuentes oficiales".
 
 El agente de verificación hará lo siguiente automáticamente:
 1. Leer el artículo párrafo por párrafo
-2. Extraer todo claim factual: números, fechas, montos, nombres de empresas, leyes, porcentajes
+2. Extraer todo claim en DOS capas:
+   - **Claims factuales**: números, fechas, montos, nombres de empresas, leyes, porcentajes
+   - **Claims interpretativos/atributivos**: toda oración donde una fuente es el sujeto de un verbo de afirmación (sostiene, concluye, propone, usa, cita, refiere, documenta, descarta). Para estos, abrir el texto COMPLETO de la fuente y comparar la conclusión atribuida con la conclusión real de la fuente.
 3. Despachar agentes de búsqueda en paralelo para verificar cada categoría contra fuentes oficiales
 4. Devolver un informe estructurado: TRUE / FALSE / PARTIALLY TRUE / UNVERIFIABLE
 5. Señalar correcciones necesarias con fuentes
 
+**Checklist de atribución (sujeto-verbo), obligatorio en el informe:**
+- Toda oración "X concluye/afirma/usa/cita Y" debe verificar que X existe, que el verbo es correcto y que Y está realmente en la fuente de X.
+- Un claim interpretativo NO se aprueba con TRUE solo porque la fuente existe y el título coincide: hay que leer el abstract/texto completo y comprobar que la conclusión atribuida es la que la fuente realmente tiene. (Error histórico: se aprobó un claim invirtiendo la conclusión del BID porque solo se verificó la existencia del estudio, no su contenido.)
+- Si el claim es una comparación del AUTOR (no atribuida a la fuente), se acepta solo si el texto la presenta como propia del autor, no de la fuente.
+
+**Regla de fuentes primarias locales:** pasar al fact-checker las rutas de las fuentes primarias ya descargadas (ej. `C:\Users\pc\AppData\Local\Temp\opencode\energia_site\*.txt`) con instrucción de leerlas completas antes de emitir veredicto sobre cualquier claim que las involucre. Un claim no se marca UNVERIFIABLE solo porque el agente no encontró la fuente en la web si esa fuente está disponible localmente.
+
 ### Paso 3: Corregir y commitear
-Aplicar las correcciones indicadas por el agente. Solo commitear cuando el informe esté limpio de FALSE.
+1. Aplicar las correcciones indicadas por el agente.
+2. **Grep global del dato corregido**: tras corregir un número, fecha, nombre o frase errónea, buscarlo en TODO el artículo (`grep`) para cazarlo en todas sus apariciones. No corregir solo la primera ocurrencia y dejar residuos.
+3. **Spot-check del orquestador**: al recibir un informe limpio de FALSE, abrir 1-2 fuentes de alto riesgo (las que sostienen claims interpretativos) y verificar personalmente su contenido. No confiar ciegamente en el veredicto del subagente.
+4. Solo commitear cuando el informe esté limpio de FALSE y el spot-check no detectó nada.
 
 ### Regla de escape
 Si un dato es inverificable pero viene de una fuente primaria citada en el artículo y esa fuente es confiable (ABC Color, ANDE, DNCP, IPS, MITIC, BACN, etc.), se puede mantener con la atribución explícita.
