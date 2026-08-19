@@ -27,7 +27,9 @@ El agente de verificación hará lo siguiente automáticamente:
 - Un claim interpretativo NO se aprueba con TRUE solo porque la fuente existe y el título coincide: hay que leer el abstract/texto completo y comprobar que la conclusión atribuida es la que la fuente realmente tiene. (Error histórico: se aprobó un claim invirtiendo la conclusión del BID porque solo se verificó la existencia del estudio, no su contenido.)
 - Si el claim es una comparación del AUTOR (no atribuida a la fuente), se acepta solo si el texto la presenta como propia del autor, no de la fuente.
 
-**Regla de fuentes primarias locales:** pasar al fact-checker las rutas de las fuentes primarias ya descargadas (ej. `C:\Users\pc\AppData\Local\Temp\opencode\energia_site\*.txt`) con instrucción de leerlas completas antes de emitir veredicto sobre cualquier claim que las involucre. Un claim no se marca UNVERIFIABLE solo porque el agente no encontró la fuente en la web si esa fuente está disponible localmente.
+**Regla "el matiz opcional no existe":** toda observación del fact-checker, aunque se etiquete como "matiz", "opcional" o "no FALSE", es una corrección que se aplica antes del commit. Un número impreciso ("tres fuentes" cuando son ocho), una categorización errada ("binacional" aplicada a una comisión mixta) o una lista incompleta (omitir un ente bajo rectoría) son errores, no matices. Si el fact-checker lo señala, se corrige o se justifica explícitamente por qué no. Nunca se difiere.
+
+**Regla de fuentes primarias locales:** pasar al fact-checker las rutas de las fuentes primarias ya descargadas (ej. `C:\Users\pc\AppData\Local\Temp\opencode\energia_site\*.txt`) con instrucción de leerlas completas antes de emitir veredicto sobre cualquier claim que las involucre. Un claim no se marca UNVERIFIABLE solo porque el agente no encontró la fuente en la web si esa fuente está disponible localmente. A la inversa, un claim marcado UNVERIFIABLE por un agente que no abrió una fuente web citada (BACN, La Nación) NO es un error del artículo si la URL ya fue validada con `check_urls.py`.
 
 ### Paso 3: Corregir y commitear
 1. Aplicar las correcciones indicadas por el agente.
