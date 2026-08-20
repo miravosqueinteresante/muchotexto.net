@@ -2,7 +2,7 @@
 layout: page
 title: "Glosario vivo de Inteligencia Artificial en Paraguay"
 permalink: /glosario/
-description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 13 de agosto de 2026."
+description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 20 de agosto de 2026."
 last_modified_at: 2026-08-13
 ---
 
@@ -62,11 +62,17 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **Politica Energetica Nacional al 2050 (Decreto 2553/2024)** — Documento rector de la politica energetica paraguaya aprobado el 19-20 de septiembre de 2024. Define 95 objetivos y 385 metas con plazos concretos. Incluia la creacion de un Ministerio de Energia, Hidrocarburos y Mineria (plazo original: 2024, aun no creado; en debate via proyecto de ley desde el 13 de agosto de 2026). Derogo el Decreto 6.092/2016.
 → [El plan energetico al 2050 que Paraguay escribio y no ejecuta](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)
 
-**VMME (Viceministerio de Minas y Energia)** — Dependencia del Ministerio de Obras Publicas y Comunicaciones (MOPC) que funciona como autoridad energetica de Paraguay. Maneja energia, minas e hidrocarburos desde una posicion subordinada al MOPC. A diferencia de Brasil (ANEEL), Chile (CNE) o Uruguay (ADME), Paraguay no tiene un regulador energetico independiente. El 13 de agosto de 2026 el Ejecutivo presento proyectos de ley para crear un Ministerio de Minas y Energia y un ente regulador del sector electrico, aun en debate.
+**VMME (Viceministerio de Minas y Energia)** — Dependencia del Ministerio de Obras Publicas y Comunicaciones (MOPC) que funciona como autoridad energetica de Paraguay. Maneja energia, minas e hidrocarburos desde una posicion subordinada al MOPC. A diferencia de Brasil (ANEEL), Chile (CNE) o Uruguay (URSEA), Paraguay no tiene un regulador energetico independiente. El 13 de agosto de 2026 el Ejecutivo presento los proyectos de ley para crear el [Ministerio de Energia, Minería e Hidrocarburos](/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/) y el [Ente Regulador de Energia](/articulos/2026/08/19/ente-regulador-energia/), aun en debate.
 → [El plan energetico al 2050 que Paraguay escribio y no ejecuta](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)
 
-**Ministerio de Energia, Hidrocarburos y Mineria** — Cartera ministerial independiente propuesta en la Politica Energetica Nacional al 2050 con plazo de creacion en 2024. A agosto de 2026 no se ha creado; el 13 de agosto de 2026 el Ejecutivo presento un proyecto de ley para crear el Ministerio de Minas y Energia, aun en debate en la Mesa Nacional del Sector Electrico. Paraguay sigue operando su gobernanza energetica con un viceministerio dentro del MOPC.
-→ [El plan energetico al 2050 que Paraguay escribio y no ejecuta](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)
+**Ministerio de Energia, Minería e Hidrocarburos** — Cartera ministerial propuesta en la Politica Energetica Nacional al 2050 con plazo de creacion en 2024. A agosto de 2026 no se ha creado; el 13 de agosto de 2026 el Ejecutivo presento un proyecto de ley para crearlo, aun en debate en la Mesa Nacional del Sector Electrico. Paraguay sigue operando su gobernanza energetica con un viceministerio dentro del MOPC.
+→ [El ministerio de energia que Paraguay prepara con tres viceministerios](/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/)
+
+**Ente Regulador de Energia (ERE)** — Organismo autonomo y autarquico propuesto por proyecto de ley presentado el 13 de agosto de 2026 para regular, fiscalizar y controlar el sector energetico. Su directorio de tres titulares y tres suplentes seria elegido por concurso publico, con mandato de seis anos, y fijaria las tarifas mediante una Revisión Tarifaria Integral cada dos anos con audiencia publica previa. Pondria fin al "juez y parte" de una ANDE que hoy fija sus propias tarifas. Es proyecto, no institucion creada.
+→ [El ente regulador de energia que Paraguay diseña con concurso publico](/articulos/2026/08/19/ente-regulador-energia/)
+
+**Revisión Tarifaria Integral (RTI)** — Proceso por el que un regulador determina las tarifas del servicio electrico para un periodo, basandose en costos eficientes, rentabilidad razonable y audiencia publica previa. El proyecto del Ente Regulador de Energia la fija con periodicidad maxima de dos anos. El estudio Ceare (UBA, con apoyo del BID) recomendo una tarifa tecnica de referencia anual y proyecto la tarifa media de Paraguay de 49,2 a 68,6 US$/MWh al 2030.
+→ [El estudio Ceare que proyecta la tarifa de Paraguay a 68 dolares](/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/)
 
 **Itaipu** — Represa hidroelectrica compartida con Brasil, de 14.000 MW de capacidad instalada. Paraguay tiene derecho al 50% de la energia pero consume solo el 10%, vendiendo el excedente a Brasil. La renegociacion del Anexo C en 2027 definira cuanta energia quedara disponible.
 
