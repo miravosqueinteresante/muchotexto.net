@@ -35,6 +35,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [El modelo institucional de PSR para el sector eléctrico paraguayo](https://muchotexto.net/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/)
 - [El ministerio de energía que Paraguay prepara con tres viceministerios](https://muchotexto.net/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/)
 - [El ente regulador de energía que Paraguay diseña con concurso público](https://muchotexto.net/articulos/2026/08/19/ente-regulador-energia/)
+- [El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares](https://muchotexto.net/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/)
 
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
