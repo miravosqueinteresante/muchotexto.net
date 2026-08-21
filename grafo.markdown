@@ -194,11 +194,9 @@ last_modified_at: 2026-08-20
 
 .grafo-active {
   display: block;
-  position: absolute;
-  left: 50%;
-  bottom: 14px;
-  transform: translateX(-50%);
-  max-width: 90%;
+  width: fit-content;
+  max-width: 100%;
+  margin: 16px auto 0;
   padding: 8px 16px;
   background: var(--oc-gray-8);
   border: 1px solid var(--border-color);
