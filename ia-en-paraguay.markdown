@@ -31,6 +31,8 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Directorio](/directorio/) — Startups, aceleradoras, comunidades y eventos
 - [Casos de uso](/casos-de-uso/) — IA aplicada en sectores productivos
 - [Glosario vivo](/glosario/) — Términos clave explicados en contexto paraguayo
+- [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos de IA y energía
+- [Grafo del Observatorio](/grafo/) — Relaciones entre las 18 entidades clave
 
 ## Infraestructura y energía
 

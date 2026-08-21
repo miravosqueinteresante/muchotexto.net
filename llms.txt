@@ -81,6 +81,8 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Directorio](https://muchotexto.net/directorio/): Startups, aceleradoras, comunidades y data centers de IA en Paraguay
 - [Casos de uso](https://muchotexto.net/casos-de-uso/): IA aplicada en sectores productivos de Paraguay
 - [Glosario de IA en Paraguay](https://muchotexto.net/glosario/): Definiciones de términos clave explicados en contexto paraguayo
+- [Radar legislativo](https://muchotexto.net/radar-legislativo/): Estado de leyes, decretos y proyectos de IA y energía en Paraguay
+- [Grafo del Observatorio](https://muchotexto.net/grafo/): Mapa de relaciones entre las 18 entidades del observatorio
 
 ## Información técnica
 

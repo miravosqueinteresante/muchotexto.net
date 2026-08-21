@@ -11,6 +11,7 @@ Key improvements over v1:
 
 import os
 import re
+import json
 import yaml
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
@@ -297,6 +298,63 @@ def _article_mentions(entity_name, article_url):
     return False
 
 
+# ─── Grafo del Observatorio ──────────────────────────────────────────────
+
+def law_keys(text):
+    """Split a related_laws string into stable (key, label) pairs.
+
+    ponytail: fuzzy matching by normalized key, not exact string. One entry
+    like "Ley 7599 y Decreto 6034" yields two keys. Ceiling: laws mentioned
+    without a number fall back to the whole lowercase string.
+    """
+    t = strip_accents(text).strip()
+    found = []
+    if 'Anexo C' in t:
+        found.append(('anexo-c', 'Anexo C del Tratado de Itaipú'))
+    if 'Tarifa' in t and 'Itaip' in t:
+        found.append(('tarifa-itaipu', 'Tarifa de Itaipú 2024-2026'))
+    for m in re.finditer(r'Ley\s+(\d{3,5})', t):
+        found.append((f'ley-{m.group(1)}', f'Ley {m.group(1)}'))
+    for m in re.finditer(r'Decreto\s+(\d{3,5})', t):
+        found.append((f'decreto-{m.group(1)}', f'Decreto {m.group(1)}'))
+    if 'Ciberseguridad' in t:
+        found.append(('estrategia-ciberseguridad', 'Estrategia Nacional de Ciberseguridad'))
+    if not found:
+        norm = re.sub(r'\s+', ' ', t).lower()
+        found.append((norm, text.strip()))
+    return found
+
+
+def compute_graph(entities, entity_articles, entity_laws):
+    """Nodes = entities. Edges = shared article (exact URL) or shared law (key)."""
+    nodes = []
+    for e in entities:
+        nodes.append({
+            "slug": e["slug"],
+            "name": e["name"],
+            "name_full": e.get("name_full", e["name"]),
+            "category": e.get("category", ""),
+            "url": f"/entidades/{e['slug']}/",
+        })
+
+    edges = []
+    slugs = [e["slug"] for e in entities]
+    for i in range(len(slugs)):
+        arts_i = {a["url"]: a.get("title", "") for a in entity_articles.get(slugs[i], [])}
+        laws_i = dict(entity_laws.get(slugs[i], []))
+        for j in range(i + 1, len(slugs)):
+            s, t = slugs[i], slugs[j]
+            arts_j = entity_articles.get(slugs[j], [])
+            for a in arts_j:
+                if a["url"] in arts_i:
+                    edges.append({"source": s, "target": t, "type": "articulo", "label": a.get("title", a["url"])})
+            laws_j = dict(entity_laws.get(slugs[j], []))
+            for key in set(laws_i) & set(laws_j):
+                edges.append({"source": s, "target": t, "type": "ley", "label": laws_i[key]})
+
+    return {"nodes": nodes, "edges": edges}
+
+
 # ─── Page generation ─────────────────────────────────────────────────────
 
 def generate_entity_page(entity, related_articles, obs_matches):
@@ -397,6 +455,14 @@ def main():
             os.remove(os.path.join(ENTITIES_DIR, fname))
             print(f"  ELIMINADO: {slug}")
 
+    entity_laws = {}
+    for entity in entities:
+        keys = []
+        for law in entity.get("related_laws", []):
+            keys.extend(law_keys(law))
+        entity_laws[entity["slug"]] = keys
+
+    entity_articles = {}
     generated = 0
     for entity in entities:
         slug = entity["slug"]
@@ -407,6 +473,8 @@ def main():
         # Full-name fallback for entities like MITIC
         if not related and name_full != name:
             related = find_mentions_in_posts(name_full)
+
+        entity_articles[slug] = related
 
         obs_matches = match_entity_in_observatory(name, obs_entries)
 
@@ -425,6 +493,23 @@ def main():
         generated += 1
 
     print(f"\n{generated} entity pages generated in entidades/")
+
+    graph = compute_graph(entities, entity_articles, entity_laws)
+    node_slugs = {n["slug"] for n in graph["nodes"]}
+    assert len(graph["nodes"]) == len(entities), "grafo: node count mismatch"
+    for e in graph["edges"]:
+        assert e["source"] in node_slugs and e["target"] in node_slugs, f"grafo: bad edge {e}"
+    assert len(graph["edges"]) >= 1, "grafo: no edges computed"
+
+    graph_path = os.path.join(REPO_DIR, "grafo.json")
+    with open(graph_path, "w", encoding="utf-8") as f:
+        json.dump(graph, f, ensure_ascii=False, indent=2)
+
+    n_ley = sum(1 for e in graph["edges"] if e["type"] == "ley")
+    n_art = sum(1 for e in graph["edges"] if e["type"] == "articulo")
+    print(f"grafo.json: {len(graph['nodes'])} nodos, {len(graph['edges'])} aristas "
+          f"({n_ley} leyes, {n_art} articulos)")
+
     return 0
 
 

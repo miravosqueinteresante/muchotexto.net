@@ -44,10 +44,10 @@ jobs:
           NEW_FILES=$(git diff --name-only --diff-filter=A HEAD~1..HEAD 2>/dev/null || true)
           HAS_ARTICULO=$(echo "$NEW_FILES" | grep "_posts/" | xargs grep -l "categories: articulos" 2>/dev/null || true)
           if [ -n "$HAS_ARTICULO" ]; then
-            echo "Nuevo articulo detectado. Verificando 8 paginas del observatorio..."
+            echo "Nuevo articulo detectado. Verificando 9 paginas del observatorio..."
             CHANGED=$(git diff --name-only HEAD~1..HEAD 2>/dev/null || true)
             FAIL=0
-            for page in cronologia.markdown regulacion.markdown directorio.markdown casos-de-uso.markdown glosario.markdown ia-en-paraguay.markdown llms.txt; do
+            for page in cronologia.markdown regulacion.markdown directorio.markdown casos-de-uso.markdown glosario.markdown ia-en-paraguay.markdown llms.txt radar-legislativo.markdown; do
               if ! echo "$CHANGED" | grep -q "$page"; then
                 echo "::error::Falta $page en el commit"
                 FAIL=1
@@ -58,7 +58,7 @@ jobs:
               FAIL=1
             fi
             if [ "$FAIL" = "1" ]; then
-              echo "::error::Articulo nuevo requiere las 8 paginas del observatorio. Deploy cancelado."
+              echo "::error::Articulo nuevo requiere las 9 paginas del observatorio. Deploy cancelado."
               exit 1
             fi
             echo "Observatorio completo: OK"

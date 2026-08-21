@@ -1,0 +1,360 @@
+{
+  "nodes": [
+    {
+      "slug": "mitic",
+      "name": "MITIC",
+      "name_full": "Ministerio de Tecnologías de la Información y Comunicación",
+      "category": "gobierno",
+      "url": "/entidades/mitic/"
+    },
+    {
+      "slug": "ande",
+      "name": "ANDE",
+      "name_full": "Administración Nacional de Electricidad",
+      "category": "infraestructura",
+      "url": "/entidades/ande/"
+    },
+    {
+      "slug": "itaipu",
+      "name": "Itaipú",
+      "name_full": "Itaipú Binacional",
+      "category": "infraestructura",
+      "url": "/entidades/itaipu/"
+    },
+    {
+      "slug": "yguazu-digital",
+      "name": "Yguazú Digital",
+      "name_full": "Proyecto Yguazú Digital",
+      "category": "infraestructura",
+      "url": "/entidades/yguazu-digital/"
+    },
+    {
+      "slug": "taiwan",
+      "name": "Taiwán",
+      "name_full": "Taiwán (República de China)",
+      "category": "geopolítica",
+      "url": "/entidades/taiwan/"
+    },
+    {
+      "slug": "cert-py",
+      "name": "CERT-PY",
+      "name_full": "Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay",
+      "category": "gobierno",
+      "url": "/entidades/cert-py/"
+    },
+    {
+      "slug": "hive-digital",
+      "name": "HIVE Digital Technologies",
+      "name_full": "HIVE Digital Technologies Ltd.",
+      "category": "empresa",
+      "url": "/entidades/hive-digital/"
+    },
+    {
+      "slug": "starlink",
+      "name": "Starlink",
+      "name_full": "Starlink (SpaceX)",
+      "category": "empresa",
+      "url": "/entidades/starlink/"
+    },
+    {
+      "slug": "koga",
+      "name": "KOGA Impact Lab",
+      "name_full": "KOGA Impact Lab",
+      "category": "comunidad",
+      "url": "/entidades/koga/"
+    },
+    {
+      "slug": "x8cloud",
+      "name": "X8 Cloud",
+      "name_full": "X8 Cloud",
+      "category": "empresa",
+      "url": "/entidades/x8cloud/"
+    },
+    {
+      "slug": "peter-thiel",
+      "name": "Peter Thiel",
+      "name_full": "Peter Thiel",
+      "category": "geopolítica",
+      "url": "/entidades/peter-thiel/"
+    },
+    {
+      "slug": "santiago-pena",
+      "name": "Santiago Peña",
+      "name_full": "Santiago Peña Palacios",
+      "category": "gobierno",
+      "url": "/entidades/santiago-pena/"
+    },
+    {
+      "slug": "bid",
+      "name": "BID",
+      "name_full": "Banco Interamericano de Desarrollo",
+      "category": "geopolítica",
+      "url": "/entidades/bid/"
+    },
+    {
+      "slug": "tsmc",
+      "name": "TSMC",
+      "name_full": "Taiwan Semiconductor Manufacturing Company",
+      "category": "geopolítica",
+      "url": "/entidades/tsmc/"
+    },
+    {
+      "slug": "sopaia",
+      "name": "SOPAIA",
+      "name_full": "Sociedad Paraguaya de Inteligencia Artificial",
+      "category": "comunidad",
+      "url": "/entidades/sopaia/"
+    },
+    {
+      "slug": "pti-py",
+      "name": "PTI-PY",
+      "name_full": "Parque Tecnológico Itaipú Paraguay",
+      "category": "academia",
+      "url": "/entidades/pti-py/"
+    },
+    {
+      "slug": "universidad-nacional",
+      "name": "UNA",
+      "name_full": "Universidad Nacional de Asunción",
+      "category": "academia",
+      "url": "/entidades/universidad-nacional/"
+    },
+    {
+      "slug": "amcham",
+      "name": "AmCham Paraguay",
+      "name_full": "Cámara de Comercio Paraguayo-Americana",
+      "category": "comunidad",
+      "url": "/entidades/amcham/"
+    }
+  ],
+  "edges": [
+    {
+      "source": "mitic",
+      "target": "bid",
+      "type": "articulo",
+      "label": "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
+    },
+    {
+      "source": "ande",
+      "target": "itaipu",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "ande",
+      "target": "itaipu",
+      "type": "articulo",
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
+    },
+    {
+      "source": "ande",
+      "target": "itaipu",
+      "type": "articulo",
+      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
+    },
+    {
+      "source": "ande",
+      "target": "itaipu",
+      "type": "ley",
+      "label": "Anexo C del Tratado de Itaipú"
+    },
+    {
+      "source": "ande",
+      "target": "itaipu",
+      "type": "ley",
+      "label": "Tarifa de Itaipú 2024-2026"
+    },
+    {
+      "source": "ande",
+      "target": "yguazu-digital",
+      "type": "articulo",
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
+    },
+    {
+      "source": "ande",
+      "target": "yguazu-digital",
+      "type": "articulo",
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+    },
+    {
+      "source": "ande",
+      "target": "yguazu-digital",
+      "type": "articulo",
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    },
+    {
+      "source": "ande",
+      "target": "yguazu-digital",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "ande",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+    },
+    {
+      "source": "ande",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    },
+    {
+      "source": "ande",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "ande",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+    },
+    {
+      "source": "ande",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "ande",
+      "target": "bid",
+      "type": "articulo",
+      "label": "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
+    },
+    {
+      "source": "ande",
+      "target": "tsmc",
+      "type": "articulo",
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    },
+    {
+      "source": "itaipu",
+      "target": "yguazu-digital",
+      "type": "articulo",
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
+    },
+    {
+      "source": "itaipu",
+      "target": "yguazu-digital",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "itaipu",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "itaipu",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Paraguay aprobó una ley de protección de datos que cambia las reglas"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "taiwan",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "hive-digital",
+      "type": "articulo",
+      "label": "Lo que un data center compra y Paraguay no puede vender"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "tsmc",
+      "type": "articulo",
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    },
+    {
+      "source": "yguazu-digital",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "Paraguay aprobó una ley de protección de datos que cambia las reglas"
+    },
+    {
+      "source": "taiwan",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+    },
+    {
+      "source": "taiwan",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+    },
+    {
+      "source": "taiwan",
+      "target": "tsmc",
+      "type": "articulo",
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    },
+    {
+      "source": "taiwan",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "Paraguay aprobó una ley de protección de datos que cambia las reglas"
+    },
+    {
+      "source": "hive-digital",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "Qué le pasa a una ciudad paraguaya cuando llega un data center"
+    },
+    {
+      "source": "peter-thiel",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "El experimento paraguayo de Peter Thiel"
+    },
+    {
+      "source": "peter-thiel",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "El experimento paraguayo de Peter Thiel"
+    },
+    {
+      "source": "santiago-pena",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "El experimento paraguayo de Peter Thiel"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+<div class="grafo">
+  <p class="grafo-eyebrow"><span class="grafo-dot-pulse"></span>Mapa de relaciones del Observatorio</p>
+
+  <p class="grafo-intro">Cada nodo es una de las 18 entidades del Observatorio. Las líneas muestran dos tipos de vínculo: dos entidades que aparecen <strong>en el mismo artículo</strong> o que comparten una <strong>ley o normativa</strong>. Hacé clic en un nodo para abrir su perfil.</p>
+
+  <div class="grafo-legend">
+    <span class="grafo-legend-item"><i class="grafo-dot c-gobierno"></i>Gobierno</span>
+    <span class="grafo-legend-item"><i class="grafo-dot c-infraestructura"></i>Infraestructura</span>
+    <span class="grafo-legend-item"><i class="grafo-dot c-empresa"></i>Empresa</span>
+    <span class="grafo-legend-item"><i class="grafo-dot c-geopolitica"></i>Geopolítica</span>
+    <span class="grafo-legend-item"><i class="grafo-dot c-comunidad"></i>Comunidad</span>
+    <span class="grafo-legend-item"><i class="grafo-dot c-academia"></i>Academia</span>
+  </div>
+
+  <div class="grafo-stage">
+    <svg id="grafo-svg" viewBox="0 0 800 520" role="img" aria-label="Grafo de relaciones entre las entidades del observatorio"></svg>
+    <noscript>
+      <p class="grafo-noscript">Este mapa interactivo requiere JavaScript. La lista completa de entidades está más abajo.</p>
+    </noscript>
+  </div>
+
+  <div class="grafo-list">
+    <h3 class="grafo-list-title">Entidades del observatorio</h3>
+    <ul class="grafo-entities">
+      {% for e in site.data.entities %}
+      <li class="grafo-entity">
+        {% case e.category %}
+          {% when 'gobierno' %}{% assign c = 'c-gobierno' %}
+          {% when 'infraestructura' %}{% assign c = 'c-infraestructura' %}
+          {% when 'empresa' %}{% assign c = 'c-empresa' %}
+          {% when 'geopolítica' %}{% assign c = 'c-geopolitica' %}
+          {% when 'comunidad' %}{% assign c = 'c-comunidad' %}
+          {% when 'academia' %}{% assign c = 'c-academia' %}
+          {% else %}{% assign c = 'c-gobierno' %}
+        {% endcase %}
+        <a href="/entidades/{{ e.slug }}/"><span class="grafo-dot {{ c }}"></span><strong>{{ e.name }}</strong> — {{ e.name_full }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<script>
+(function () {
+  var svg = document.getElementById('grafo-svg');
+  if (!svg) return;
+
+  var NS = 'http://www.w3.org/2000/svg';
+  var W = 800, H = 520;
+  var COLORS = {
+    'gobierno': '#22b8cf',
+    'infraestructura': '#4dabf7',
+    'empresa': '#69db7c',
+    'geopolítica': '#ff6b6b',
+    'comunidad': '#ffd43b',
+    'academia': '#b197fc'
+  };
+
+  function el(tag, attrs) {
+    var n = document.createElementNS(NS, tag);
+    for (var k in attrs) n.setAttribute(k, attrs[k]);
+    return n;
+  }
+
+  fetch('/grafo.json')
+    .then(function (r) { return r.json(); })
+    .then(function (g) {
+      if (!g.nodes || !g.nodes.length) return;
+
+      var bySlug = {};
+      g.nodes.forEach(function (n) { bySlug[n.slug] = n; });
+
+      // Deduplicate edges into unique pairs with a weight (co-occurrence count).
+      var pairMap = {};
+      g.edges.forEach(function (e) {
+        var a = e.source, b = e.target;
+        var k = a < b ? a + '|' + b : b + '|' + a;
+        pairMap[k] = (pairMap[k] || 0) + 1;
+      });
+
+      var links = Object.keys(pairMap).map(function (k) {
+        var p = k.split('|');
+        return { s: p[0], t: p[1], w: pairMap[k] };
+      });
+
+      var nodes = g.nodes.map(function (n, i) {
+        var a = 2 * Math.PI * i / g.nodes.length;
+        return {
+          slug: n.slug, name: n.name, nameFull: n.name_full, cat: n.category, url: n.url,
+          x: W / 2 + Math.cos(a) * 140, y: H / 2 + Math.sin(a) * 140,
+          vx: 0, vy: 0, deg: 0
+        };
+      });
+
+      var nodeBy = {};
+      nodes.forEach(function (n) { nodeBy[n.slug] = n; });
+      links.forEach(function (l) {
+        if (nodeBy[l.s]) nodeBy[l.s].deg += 1;
+        if (nodeBy[l.t]) nodeBy[l.t].deg += 1;
+      });
+
+      // Force-directed layout: repulsion + spring attraction + damping + centering.
+      for (var it = 0; it < 260; it++) {
+        for (var i = 0; i < nodes.length; i++) {
+          for (var j = i + 1; j < nodes.length; j++) {
+            var a = nodes[i], b = nodes[j];
+            var dx = a.x - b.x, dy = a.y - b.y;
+            var d2 = dx * dx + dy * dy + 0.01, d = Math.sqrt(d2);
+            var f = 5200 / d2;
+            var fx = dx / d * f, fy = dy / d * f;
+            a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
+          }
+        }
+        links.forEach(function (l) {
+          var a = nodeBy[l.s], b = nodeBy[l.t];
+          if (!a || !b) return;
+          var dx = b.x - a.x, dy = b.y - a.y;
+          var d = Math.sqrt(dx * dx + dy * dy) + 0.01;
+          var f = d * d / 900 * l.w;
+          a.vx += dx / d * f; a.vy += dy / d * f; b.vx -= dx / d * f; b.vy -= dy / d * f;
+        });
+        nodes.forEach(function (n) {
+          n.vx *= 0.85; n.vy *= 0.85;
+          n.x += n.vx; n.y += n.vy;
+          n.x = Math.max(40, Math.min(W - 40, n.x));
+          n.y = Math.max(24, Math.min(H - 24, n.y));
+          n.vx += (W / 2 - n.x) * 0.002;
+          n.vy += (H / 2 - n.y) * 0.002;
+        });
+      }
+
+      // Render edges.
+      links.forEach(function (l) {
+        var a = nodeBy[l.s], b = nodeBy[l.t];
+        if (!a || !b) return;
+        svg.appendChild(el('line', {
+          x1: a.x, y1: a.y, x2: b.x, y2: b.y,
+          stroke: '#3d434a', 'stroke-width': Math.min(3, 1 + l.w * 0.6),
+          opacity: 0.8
+        }));
+      });
+
+      // Render nodes + labels.
+      nodes.forEach(function (n) {
+        var color = COLORS[n.cat] || '#adb5bd';
+        var r = 8 + Math.min(12, n.deg * 2.5);
+        var g = el('g', { class: 'grafo-node', cursor: 'pointer' });
+        var circle = el('circle', { cx: n.x, cy: n.y, r: r, fill: color, 'fill-opacity': 0.9, stroke: '#14171a', 'stroke-width': 1.5 });
+        g.appendChild(circle);
+        var label = el('text', {
+          x: n.x, y: n.y + r + 12, 'text-anchor': 'middle',
+          fill: '#c1c6cc', 'font-size': '10px', 'font-family': 'ui-monospace, Menlo, monospace'
+        });
+        label.textContent = n.name;
+        g.appendChild(label);
+        var title = el('title', {});
+        title.textContent = n.nameFull + ' (' + n.cat + ')';
+        g.appendChild(title);
+        g.addEventListener('click', function () { window.location.href = n.url; });
+        svg.appendChild(g);
+      });
+    })
+    .catch(function () {});
+})();
+</script>
