@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-20
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >
@@ -65,7 +65,7 @@ obs_regulacion:
     url: /articulos/2026/07/16/gobierno-digital-paraguay/
     context: "No es una ley sino un sistema operativo. Superó 1.5 millones de usuarios en julio 2026 (~30% de adultos). SMS-based 2FA obligatorio. Trámites digitales: 480+ en el portal Paraguay.gov.py."
   - label: "Mesa Energética Nacional"
-    url: #
+    url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
     context: "Creada por decreto en 2012 como órgano asesor del Presidente. Reactivada en octubre de 2023 y nuevamente el 6 de agosto de 2026, con 30 días para presentar propuestas en 4 ejes estratégicos. Existe..."
   - label: "Ley 7599/2025 y Decreto 6034/2026"
     url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/

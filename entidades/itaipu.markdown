@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-08-11
+last_modified_at: 2026-08-20
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
 entity_description: >
@@ -33,9 +33,9 @@ entity_laws:
   - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
   - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"
 obs_glosario:
-  - label: "Itaipú"
+  - label: "Itaipu"
     url: /glosario/
-    context: "Represa hidroeléctrica compartida con Brasil, de 14.000 MW de capacidad instalada. Paraguay tiene derecho al 50% de la energía pero consume solo el 10%, vendiendo el excedente a Brasil. La..."
+    context: "Represa hidroelectrica compartida con Brasil, de 14.000 MW de capacidad instalada. Paraguay tiene derecho al 50% de la energia pero consume solo el 10%, vendiendo el excedente a Brasil. La..."
   - label: "Anexo C de Itaipú"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "El anexo financiero del Tratado de Itaipú que fija el precio de la electricidad que Paraguay vende a Brasil. Vence en 2027. Si no se renueva, la tarifa caería un 60% y Paraguay perdería unos USD..."
@@ -50,9 +50,9 @@ obs_cronologia:
     url: /cronologia/
     context: "Sequía histórica en Paraguay: la cosecha de soja cae 60% por La Niña, Itaipú generación cae 35.6%. El PIB crece solo 0.1%."
 obs_directorio:
-  - label: "PTI-PY (Parque Tecnológico Itaipú)"
+  - label: "PTI-PY (Parque Tecnologico Itaipu)"
     url: https://www.pti.org.py/
-    context: "Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). Leer más."
+    context: "Opera la unica unidad experimental de hidrogeno verde del Paraguay (2 Nm3/h). Leer mas."
 obs_regulacion:
   - label: "Tarifa de Itaipú 2024-2026"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
