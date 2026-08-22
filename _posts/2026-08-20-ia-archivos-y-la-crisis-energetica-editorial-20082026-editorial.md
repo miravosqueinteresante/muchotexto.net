@@ -4,6 +4,7 @@ title: "IA, archivos y la crisis energética — Editorial 20/08/2026"
 description: "El Ministerio de Educación y Ciencias presentó el proyecto Memoria escrita de un gigante 1845-1904, una iniciativa que emplea inteligencia artificial para la digitalización y recuperación de archivos históricos."
 
 
+
 date: 2026-08-20 18:00:00 -0300
 last_modified_at: 2026-08-20
 categories: editorial
