@@ -95,6 +95,7 @@ Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA a
     - **`/cronologia/`**: agregar hitos nuevos (eventos, fechas, proyectos) mencionados en el artículo.
     - **`/regulacion/`**: agregar leyes, decretos o normas nuevas si el artículo cubre legislación.
     - **`/radar-legislativo/`**: actualizar el estado de las normas (vigente/proyecto/en-tramite/pendiente) en `_data/leyes.yml`.
+    - **`/claims-verificados/`**: agregar los claims verificados o corregidos por el fact-check del artículo.
     - **`/directorio/`**: agregar startups, comunidades, instituciones o personas clave si el artículo descubre nuevas entidades del ecosistema.
     - **`/casos-de-uso/`**: agregar sectores o aplicaciones nuevas de IA en Paraguay que el artículo documente.
     - **`/glosario/`**: agregar términos nuevos específicos del cluster de IA en Paraguay con enlace al artículo.
@@ -102,7 +103,7 @@ Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA a
     - **`llms.txt`**: agregar el artículo al pilar correspondiente.
     - **Documento de estrategia**: marcar el artículo como ✅ en §3.2, actualizar conteo de publicados/pendientes, mover de pendiente a completado en §15, agregar al progreso en §17.
     Cada página actualizada incrementa su `last_modified_at`. No todas las páginas se actualizan en cada artículo — solo las que tengan contenido nuevo que aportar.
-    Las páginas de entidades (`/entidades/`) y el grafo (`/grafo/`) no se editan a mano: se regeneran con `python scripts/build_entities.py` tras publicar artículos nuevos.
+    Las páginas de entidades (`/entidades/`) y el grafo (`/grafo/`) no se editan a mano: se regeneran con `python scripts/build_entities.py` tras publicar artículos nuevos. El dashboard (`/dashboard-energetico/`) se actualiza por cadencia de re-verificación de datos (cada 30 días), no por artículo.
 
 Además, aplicamos una **auditoría programada**: cada 5 artículos nuevos, re-auditamos los artículos más antiguos no auditados contra sus fuentes originales. Mantenemos un **registro de verificación** con la fecha del último chequeo de cada artículo — los números se actualizan con cada auditoría. Cada artículo nuevo se audita antes de publicarse; ningún artículo sale sin pasar por fact-check. Este proceso detectó y corrigió más de 40 errores en las auditorías de julio de 2026.
 

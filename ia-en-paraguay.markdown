@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Observatorio de IA en Paraguay: data centers, energia, regulacion, empleo tech y geopolitica. Analisis con datos duros y fuentes verificables."
-last_modified_at: 2026-08-12
+last_modified_at: 2026-08-21
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -31,9 +31,14 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Directorio](/directorio/) — Startups, aceleradoras, comunidades y eventos
 - [Casos de uso](/casos-de-uso/) — IA aplicada en sectores productivos
 - [Glosario vivo](/glosario/) — Términos clave explicados en contexto paraguayo
-- [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos de IA y energía
+
+**Herramientas interactivas:**
+
+- [Simulador Paraguay 2040](/simulador-2040/) — Cinco palancas, dos shocks
+- [Calculadora de costo energético](/calculadora-energetica/) — Comparación internacional de tarifas
+- [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos
 - [Grafo del Observatorio](/grafo/) — Relaciones entre las 18 entidades clave
-- [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo en un tablero
+- [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo
 - [Claims verificados](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
 
 ## Infraestructura y energía
@@ -135,9 +140,6 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
 - **[Paraguay está enseñando guaraní a la inteligencia artificial]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset comunitario de voz en guaraní.
 - **[Paraguay 2040: un país construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
-- **[Simulador interactivo Paraguay 2040](/simulador-2040/)** — Cinco palancas, dos shocks y un canvas. Mové los sliders y descubrí qué futuro se construye.
-- **[Calculadora de costo energético](/calculadora-energetica/)** — Compará el costo anual de electricidad para data centers en Paraguay vs. Irlanda, Virginia, Suecia y Chile. Tarifas verificadas.
-
 > **¿2040 o 2050?** Las dos fechas conviven a propósito. **2040** es nuestro horizonte de análisis editorial (el futuro que modelamos con datos del observatorio, donde converge el cierre del bono demográfico ~2045 y el fin del superávit energético). **2050** es el horizonte oficial del Estado: el nombre del plan gubernamental (Política Energética Nacional al 2050, Decreto 2553/2024) que analizamos, no una meta que elegimos nosotros. 2040 = el futuro que proyectamos; 2050 = el futuro que el plan del gobierno promete.
 
 **Próximamente:**
