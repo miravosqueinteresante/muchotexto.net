@@ -34,6 +34,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos de IA y energía
 - [Grafo del Observatorio](/grafo/) — Relaciones entre las 18 entidades clave
 - [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo en un tablero
+- [Claims verificados](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
 
 ## Infraestructura y energía
 
