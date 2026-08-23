@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pulso Paraguay: Elecciones internas de la ANR — 7 de junio de 2026"
 description: "Elecciones internas de la ANR: Las elecciones internas de la Asociación Nacional Republicana (ANR) generaron un gran volumen de conversación y seguimiento en todo el país. Pulso Tech Paraguay — 7 de junio de 2026."
@@ -82,7 +82,7 @@ Un enfrentamiento entre simpatizantes de la ANR llevó a la suspensión temporal
 
 Neymar anuncia su "último baile" para la Copa del Mundo  
 
-El anuncio de Neymar sobre su última participación en el Mundial ha generado un fuerte revuelo en redes sociales, captando la atención de fanáticos de todo el mundo.
+El Anuncio de Neymar sobre su última participación en el Mundial ha generado un fuerte revuelo en redes sociales, captando la atención de fanáticos de todo el mundo.
 
 📊 Temperatura social: Alta  
 

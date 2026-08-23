@@ -42,7 +42,7 @@ HIVE emplea entre 60 y 150 personas en sus operaciones paraguayas, según la est
 
 Los puestos son mayoritariamente técnicos: operadores de los contenedores de minería, electricistas para el mantenimiento de las subestaciones, personal de seguridad y vigilancia, y una capa administrativa y gerencial mínima. La mayoría de estos puestos no requieren formación universitaria, pero sí capacitación técnica específica que HIVE proporciona internamente. Los salarios del sector en Paraguay no están documentados públicamente, pero el rango estimado para posiciones técnicas de operación en la industria oscila entre 1,5 y 3 salarios mínimos.
 
-La promesa de "empleo masivo" que a veces acompaña los anuncios de data centers no se sostiene contra los números. La construcción de Yguazú generó cientos de empleos temporales durante seis meses. La operación permanente generó decenas. Para un distrito de 10.000 habitantes como Valenzuela, 60 empleos estables no son irrelevantes —representan aproximadamente el 1,5% de la población económicamente activa local—. Pero están muy lejos de la narrativa de "transformación económica" que suele envolver estos proyectos.
+La promesa de "empleo masivo" que a veces acompaña los Anuncios de data centers no se sostiene contra los números. La construcción de Yguazú generó cientos de empleos temporales durante seis meses. La operación permanente generó decenas. Para un distrito de 10.000 habitantes como Valenzuela, 60 empleos estables no son irrelevantes —representan aproximadamente el 1,5% de la población económicamente activa local—. Pero están muy lejos de la narrativa de "transformación económica" que suele envolver estos proyectos.
 
 El contraste con otros sectores es instructivo. Una planta de autopartes en el régimen de maquila emplea típicamente entre 200 y 500 personas para una inversión similar. Un call center de 500 posiciones ocupa más gente que un data center de 300 MW. La razón es estructural: los data centers son intensivos en capital y en energía, no en trabajo.
 
@@ -77,7 +77,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 ## Fuentes
 
 1. [HIVE Digital Technologies — FY2026 Financial Results](https://www.hivedigitaltechnologies.com/news/hive-achieves-fy2026-total-revenue-of-2978-million-158-yoy-hives-buzz-hpc-positioned-for-growth/) (junio 2026)
-2. [HIVE Digital Technologies — Adquisición de Yguazú 200 MW](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-the-acquisition-of-bitfarms-yguazu-paraguay-site-a-200-mw-bitcoin-mining-site-setting-the-stage-for-substantial-growth-to-25-ehs-by-september-2025/) (enero 2025)
+2. [HIVE Digital Technologies — Adquisición de Yguazú 200 MW](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-the-acquisition-of-bitfarms-Yguazú-paraguay-site-a-200-mw-bitcoin-mining-site-setting-the-stage-for-substantial-growth-to-25-ehs-by-september-2025/) (enero 2025)
 3. [HIVE Digital Technologies — Operaciones en Paraguay](https://www.hivedigitaltechnologies.com/operations/paraguay/)
 4. [Baker Tilly — Community Benefit Agreements for Data Centers](https://www.bakertilly.com/) (2025)
 5. [Rest of World — The Global Backlash Against Data Centers](https://restofworld.org/) (2025)
@@ -113,10 +113,10 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
     },
     {
       "@type": "Question",
-      "name": "¿Qué regulaciones tiene Paraguay para data centers?",
+      "name": "¿Qué regulaciónes tiene Paraguay para data centers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay no tiene regulaciones específicas para data centers. La Ley 7599/2025 y el Decreto 6034/2026 habilitan la inversión privada en el sector eléctrico pero no establecen cuotas de contratación local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental específicas. La Ley de Maquila (60/90) ofrece incentivos fiscales sin contraprestaciones sociales. Chile, en contraste, tiene el Plan Nacional de Data Centers (PDATA) con criterios de sostenibilidad e impacto local."
+        "text": "Paraguay no tiene regulaciónes específicas para data centers. La Ley 7599/2025 y el Decreto 6034/2026 habilitan la inversión privada en el sector eléctrico pero no establecen cuotas de contratación local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental específicas. La Ley de Maquila (60/90) ofrece incentivos fiscales sin contraprestaciones sociales. Chile, en contraste, tiene el Plan Nacional de Data Centers (PDATA) con criterios de sostenibilidad e impacto local."
       }
     }
   ]

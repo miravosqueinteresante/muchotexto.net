@@ -8,7 +8,7 @@ tags: infraestructura-energia ia-paraguay
 description: "Fase I: 10 MW y $200M. Fase III: 1 GW y $40.000M. Paraguay y Taiwán anunciaron uno de los centros de IA más ambiciosos del planeta. ¿Es viable o es un castillo en el aire?"
 ---
 
-¿Qué se necesita para transformar a un país agroexportador de 6,5 millones de habitantes en un polo de inteligencia artificial? Energía barata, chips de última generación, un socio tecnológico de primer nivel y la voluntad política de hacerlo. Paraguay tiene todo eso sobre la mesa. La pregunta es si tiene también lo que no se ve en los anuncios: la red de transmisión que aguante, el talento que opere, los contratos que financien y la estabilidad geopolítica que sostenga.
+¿Qué se necesita para transformar a un país agroexportador de 6,5 millones de habitantes en un polo de inteligencia artificial? Energía barata, chips de última generación, un socio tecnológico de primer nivel y la voluntad política de hacerlo. Paraguay tiene todo eso sobre la mesa. La pregunta es si tiene también lo que no se ve en los Anuncios: la red de transmisión que aguante, el talento que opere, los contratos que financien y la estabilidad geopolítica que sostenga.
 
 El proyecto se llama Yguazú Digital. El nombre viene del guaraní: *y* (agua) + *guasu* (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones: convertir la energía en poder de cómputo. El 8 de mayo de 2026, en el palacio presidencial de Taiwán, los cancilleres de ambos países firmaron el Memorándum de Entendimiento. Lo presenciaron los presidentes Santiago Peña y Lai Ching-te. Lo que sigue es un análisis de lo que se sabe, lo que se prometió y lo que falta para que la promesa se vuelva realidad.
 
@@ -60,11 +60,11 @@ El Fondo de Cooperación y Desarrollo Internacional de Taiwán (ICDF) ya contact
 
 ### La paradoja energética: producir no es entregar
 
-Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red de 835 kilómetros de líneas de 500 kV —concentradas entre Itaipú y el área metropolitana de Asunción, sin un anillo nacional— y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
+Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red de 835 kilómetros de líneas de 500 kV —concentradas entre Itaipú y el área metropolitana de Asunción, sin un anillo nacional— y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
 
 La Fase III del proyecto requeriría 1.500 megavatios —el equivalente a más de dos turbinas de Itaipú—, una carga que la red de transmisión actual, con 835 kilómetros de líneas de 500 kV concentradas en la región oriental, no podría soportar sin una expansión masiva. Sin inversión en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
 
-La renegociación del Tratado de Itaipú en 2027 es una variable crítica. Paraguay podría recuperar soberanía sobre su excedente energético y destinarlo a proyectos propios, o podría encontrarse con condiciones menos favorables. El resultado de esa negociación define si Yguazú Digital tiene la energía que necesita o si se queda en un anuncio sin voltaje.
+La renegociación del Tratado de Itaipú en 2027 es una variable crítica. Paraguay podría recuperar soberanía sobre su excedente energético y destinarlo a proyectos propios, o podría encontrarse con condiciones menos favorables. El resultado de esa negociación define si Yguazú Digital tiene la energía que necesita o si se queda en un Anuncio sin voltaje.
 
 ### Sin cliente ancla, sin financiamiento
 
@@ -82,7 +82,7 @@ El gobierno es consciente del déficit. Los programas Becas TIC y Bootcamp TIC d
 
 Yguazú Digital no es un proyecto comercial. Es un proyecto geopolítico con fachada tecnológica. Paraguay es el único aliado diplomático de Taiwán en Sudamérica y uno de solo 12 en todo el mundo. China ha desmantelado sistemáticamente esa red: Panamá rompió en 2017, República Dominicana y El Salvador en 2018, Nicaragua en 2021, Honduras en 2023.
 
-La respuesta de Beijing al anuncio de mayo fue inmediata: urgió a Paraguay a "ponerse del lado correcto de la historia" y romper relaciones con Taipéi. bne Intellinews, un medio especializado en mercados emergentes, fue lapidario: "El anuncio del hub de IA se lee mejor como una intervención política en el debate doméstico que como una inversión creíble a corto plazo. La lealtad de Paraguay a Taiwán tiene un precio, y Beijing sabe exactamente cuál es."
+La respuesta de Beijing al Anuncio de mayo fue inmediata: urgió a Paraguay a "ponerse del lado correcto de la historia" y romper relaciones con Taipéi. bne Intellinews, un medio especializado en mercados emergentes, fue lapidario: "El Anuncio del hub de IA se lee mejor como una intervención política en el debate doméstico que como una inversión creíble a corto plazo. La lealtad de Paraguay a Taiwán tiene un precio, y Beijing sabe exactamente cuál es."
 
 El riesgo para los hyperscalers es real. Google, Microsoft y Amazon tienen operaciones comerciales significativas en China continental. Ser el cliente ancla de un proyecto financiado explícitamente como maniobra diplomática de Taiwán es una exposición que ningún departamento legal va a ignorar. Startup Fortune lo resumió con crudeza: si ningún hyperscaler firma, el proyecto será "un artefacto diplomático que computa para nadie en particular."
 
@@ -98,7 +98,7 @@ La ventaja energética de Paraguay es real, pero la energía es solo uno de los 
 
 ## 4. Lo que la historia enseña
 
-En 2008, Kenia anunció Konza Technology City, la "Silicon Savannah": una ciudad tecnológica planificada a 60 kilómetros de Nairobi con una inversión estimada de 14.500 millones de dólares. Dieciocho años después, Konza sigue mayormente vacía. Se construyeron unos pocos edificios. El resto es un monumento a la brecha entre el anuncio y la ejecución.
+En 2008, Kenia anunció Konza Technology City, la "Silicon Savannah": una ciudad tecnológica planificada a 60 kilómetros de Nairobi con una inversión estimada de 14.500 millones de dólares. Dieciocho años después, Konza sigue mayormente vacía. Se construyeron unos pocos edificios. El resto es un monumento a la brecha entre el Anuncio y la ejecución.
 
 América Latina tiene su propio cementerio de hubs tecnológicos que no despegaron. Múltiples iniciativas —Chilecon Valley, Zonamérica Uruguay, Porto Digital en Brasil— produjeron resultados mixtos, con la mayoría lejos de sus metas originales. Un estudio del ISPI de 2022 sobre megaproyectos en la región concluyó que requieren "herramientas formales para vincularlos con la planificación estratégica" y que los requisitos mínimos incluyen un caso estratégico y un caso de negocio completo. La región tiene un historial documentado de megaproyectos que fallan en la fase de ejecución.
 
@@ -110,7 +110,7 @@ El caso de Fermi America es instructivo. La empresa recaudó 746 millones de dó
 
 Yguazú Digital no es un proyecto. Son tres. Y cada uno tiene una probabilidad de éxito distinta.
 
-La **Fase I** —10 megavatios, 200 a 500 millones de dólares, uso gubernamental— es viable y probablemente se construirá. El MITIC ya lidera la ejecución. La delegación taiwanesa ya visitó el terreno. Ambos gobiernos tienen incentivos políticos para mostrar resultados concretos antes de que termine 2027. Es un proyecto modesto en escala pero significativo en simbolismo.
+La **Fase I** —10 megavatios, 200 a 500 millones de dólares, uso gubernamental— es viable y probablemente se construirá. El MITIC ya lidera la ejecución. La delegación Taiwánesa ya visitó el terreno. Ambos gobiernos tienen incentivos políticos para mostrar resultados concretos antes de que termine 2027. Es un proyecto modesto en escala pero significativo en simbolismo.
 
 La **Fase II** —100 megavatios, 5.000 millones— depende de una variable que hoy no existe: un cliente ancla. Si Google, Microsoft o Amazon firman, el proyecto se vuelve financiable. Si no, se queda en papel. El ICDF está haciendo las llamadas, pero entre llamar y firmar hay un abismo.
 
@@ -126,20 +126,20 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
 
 ## Fuentes
 
-- [Focus Taiwan (CNA) — Firma del MOU Paraguay-Taiwán](https://focustaiwan.tw/politics/202605080014) (8 mayo 2026)
-- [Infobae — "Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del mundo"](https://www.infobae.com/america/america-latina/2026/05/10/paraguay-y-taiwan-anunciaron-el-desarrollo-de-uno-de-los-mayores-centros-de-inteligencia-artificial-del-mundo/) (10 mayo 2026)
-- [La Nación — "Mediante histórico acuerdo, Paraguay y Taiwán construirán uno de los mayores centros de IA del mundo"](https://www.lanacion.com.py/politica/2026/05/10/mediante-historico-acuerdo-paraguay-y-taiwan-construiran-uno-de-los-mayores-centros-de-ia-del-mundo/) (10 mayo 2026)
-- [ABC Color — "Paraguay y Taiwán crearán Yguazú Digital, un gigante de IA que consumirá una turbina y media de Itaipú"](https://www.abc.com.py/economia/2026/05/11/paraguay-y-taiwan-crearan-yguazu-digital-un-gigante-de-ia-que-consumira-una-turbina-y-media-de-itaipu/) (11 mayo 2026)
-- [ABC Color — "Centro de datos soberano con Taiwán: ministro habla de inversión de US$ 40.000 millones"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 mayo 2026)
-- [DEF Online — "Inteligencia artificial: qué es Yguazú Digital, el megaproyecto de Paraguay y Taiwán"](https://defonline.com.ar/ciencia-tecnologia/inteligencia-artificial-que-es-yguazu-digital-el-megaproyecto-de-paraguay-y-taiwan/) (15 mayo 2026)
-- [Hoy — "MITIC liderará fase piloto del ambicioso plan de IA junto a Taiwán"](https://www.hoy.com.py/nacionales/2026/05/20/mitic-liderara-fase-piloto-del-ambicioso-plan-de-ia-junto-a-taiwan) (20 mayo 2026)
-- [Taipei Times — "Taiwan deputy FM visits Paraguay to inspect planned AI data center site"](https://www.taipeitimes.com/News/taiwan/archives/2026/06/21/2003859473) (21 junio 2026)
-- [Vision Times — "Taiwan and Paraguay sign three major cooperation agreements"](https://www.visiontimes.com/2026/05/12/taiwan-and-paraguay-sign-three-major-cooperation-agreements-deepening-bilateral-partnership.html) (12 mayo 2026)
-- [bne Intellinews — Análisis geopolítico del anuncio Paraguay-Taiwán] (11 mayo 2026)
-- [MITIC — "MITIC y delegación de Taiwán recorren el futuro sitio del Data Center Binacional"](https://mitic.gov.py/mitic-y-delegacion-de-taiwan-recorren-el-futuro-sitio-del-data-center-binacional-de-inteligencia-artificial/) (15 junio 2026)
+- [Focus Taiwán (CNA) — Firma del MOU Paraguay-Taiwán](https://focusTaiwán.tw/politics/202605080014) (8 mayo 2026)
+- [Infobae — "Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del mundo"](https://www.infobae.com/america/america-latina/2026/05/10/paraguay-y-Taiwán-anunciaron-el-desarrollo-de-uno-de-los-mayores-centros-de-inteligencia-artificial-del-mundo/) (10 mayo 2026)
+- [La Nación — "Mediante histórico acuerdo, Paraguay y Taiwán construirán uno de los mayores centros de IA del mundo"](https://www.lanacion.com.py/politica/2026/05/10/mediante-historico-acuerdo-paraguay-y-Taiwán-construiran-uno-de-los-mayores-centros-de-ia-del-mundo/) (10 mayo 2026)
+- [ABC Color — "Paraguay y Taiwán crearán Yguazú Digital, un gigante de IA que consumirá una turbina y media de Itaipú"](https://www.abc.com.py/economia/2026/05/11/paraguay-y-Taiwán-crearan-Yguazú-digital-un-gigante-de-ia-que-consumira-una-turbina-y-media-de-Itaipú/) (11 mayo 2026)
+- [ABC Color — "Centro de datos soberano con Taiwán: ministro habla de inversión de US$ 40.000 millones"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-Taiwán-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 mayo 2026)
+- [DEF Online — "Inteligencia artificial: qué es Yguazú Digital, el megaproyecto de Paraguay y Taiwán"](https://defonline.com.ar/ciencia-Tecnología/inteligencia-artificial-que-es-Yguazú-digital-el-megaproyecto-de-paraguay-y-Taiwán/) (15 mayo 2026)
+- [Hoy — "MITIC liderará fase piloto del ambicioso plan de IA junto a Taiwán"](https://www.hoy.com.py/nacionales/2026/05/20/mitic-liderara-fase-piloto-del-ambicioso-plan-de-ia-junto-a-Taiwán) (20 mayo 2026)
+- [Taipei Times — "Taiwán deputy FM visits Paraguay to inspect planned AI data center site"](https://www.taipeitimes.com/News/Taiwán/archives/2026/06/21/2003859473) (21 junio 2026)
+- [Vision Times — "Taiwán and Paraguay sign three major cooperation agreements"](https://www.visiontimes.com/2026/05/12/Taiwán-and-paraguay-sign-three-major-cooperation-agreements-deepening-bilateral-partnership.html) (12 mayo 2026)
+- [bne Intellinews — Análisis geopolítico del Anuncio Paraguay-Taiwán] (11 mayo 2026)
+- [MITIC — "MITIC y delegación de Taiwán recorren el futuro sitio del Data Center Binacional"](https://mitic.gov.py/mitic-y-delegacion-de-Taiwán-recorren-el-futuro-sitio-del-data-center-binacional-de-inteligencia-artificial/) (15 junio 2026)
 - [MITIC — "Paraguay recibe el primer lote de kits Starlink"](https://mitic.gov.py/paraguay-recibe-el-primer-lote-de-kits-starlink-para-ampliar-la-conectividad-nacional/) (18 junio 2026)
 - [DataGuidance — Paraguay Data Protection Law overview](https://www.dataguidance.com/jurisdiction/paraguay)
-- [Wikipedia — Itaipu Dam](https://en.wikipedia.org/wiki/Itaipu_Dam)
+- [Wikipedia — Itaipú Dam](https://en.wikipedia.org/wiki/Itaipú_Dam)
 - [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
 - [Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://indicelatam.cl/)
 
@@ -150,10 +150,10 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Que es Yguazu Digital y cuanto invertira?",
+      "name": "Que es Yguazú Digital y cuanto invertira?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yguazu Digital es un proyecto binacional Paraguay-Taiwan firmado el 8 de mayo de 2026. Tiene tres fases: Fase I de 10 MW (USD 200-500M), Fase II de 100 MW (USD 5.000M), Fase III de 1 GW (USD 40.000M). La propiedad sera 50/50 modelada sobre Itaipu."
+        "text": "Yguazú Digital es un proyecto binacional Paraguay-Taiwán firmado el 8 de mayo de 2026. Tiene tres fases: Fase I de 10 MW (USD 200-500M), Fase II de 100 MW (USD 5.000M), Fase III de 1 GW (USD 40.000M). La propiedad sera 50/50 modelada sobre Itaipú."
       }
     },
     {
@@ -161,15 +161,15 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
       "name": "Por que Paraguay es atractivo para centros de datos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay tiene el costo de electricidad industrial mas bajo de Latinoamerica: USD 30-45 por MWh, 100% hidroelectrica. En un data center la energia representa el 40-60% del costo operativo. Taiwan co-invierte aportando chips NVIDIA."
+        "text": "Paraguay tiene el costo de electricidad industrial mas bajo de Latinoamerica: USD 30-45 por MWh, 100% hidroeléctrica. En un data center la energia representa el 40-60% del costo operativo. Taiwán co-invierte aportando chips NVIDIA."
       }
     },
     {
       "@type": "Question",
-      "name": "Cuales son los principales riesgos de Yguazu Digital?",
+      "name": "Cuales son los principales riesgos de Yguazú Digital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La red de ANDE tiene 835 km de lineas de 500 kV concentradas en la region oriental y sin anillo nacional y perdidas del 31%. Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwan, su unico aliado sudamericano."
+        "text": "La red de ANDE tiene 835 km de lineas de 500 kV concentradas en la region oriental y sin anillo nacional y perdidas del 31%. Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwán, su unico aliado Sudaméricano."
       }
     }
   ]

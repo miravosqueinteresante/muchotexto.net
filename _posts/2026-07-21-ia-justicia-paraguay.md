@@ -46,7 +46,7 @@ Ninguno de estos sistemas es ciencia ficción. Todos son herramientas de product
 
 ## Lo que Paraguay no tiene (y necesita antes de implementar IA)
 
-Paraguay no tiene legislación específica sobre inteligencia artificial. El Sistema de Información Legislativa (SILPy) no registra ningún proyecto de ley en trámite sobre el tema. La Ley 7593 de Protección de Datos Personales, promulgada en 2025 y con entrada en vigencia prevista para 2027, incluye disposiciones sobre decisiones automatizadas y derecho a explicación algorítmica —pero está en vacatio legis, y su reglamentación aún no existe. [Paraguay aprobó su primera ley integral de protección de datos]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}) con implicancias directas para cualquier sistema automatizado de decisiones, pero la justicia todavía no ha adaptado sus procesos a ese estándar.
+Paraguay no tiene legislación específica sobre inteligencia artificial. El Sistema de Información Legislativa (SILPy) no registra ningún proyecto de ley en trámite sobre el tema. La Ley 7593 de Protección de Datos Personales, promulgada en 2025 y con entrada en vigencia prevista para 2027, incluye disposiciones sobre decisiones automatizadas y derecho a explicación algorítmica —pero está en vacatio legis, y su reglamentación aún no existe. [Paraguay aprobó su primera ley Integral de protección de datos]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}) con implicancias directas para cualquier sistema automatizado de decisiones, pero la justicia todavía no ha adaptado sus procesos a ese estándar.
 
 Lo que falta no es solo la ley. Es el ecosistema completo:
 
@@ -78,7 +78,7 @@ Paraguay tiene una ventana de oportunidad. Llega décimo a una carrera donde otr
 4. [Dressel & Farid — "The accuracy, fairness, and limits of predicting recidivism" (Science Advances, 2018)](https://www.science.org/doi/10.1126/sciadv.aao5580)
 5. [Wired — "Estonia wants an AI-powered judge" (marzo 2019)](https://www.wired.com/story/estonia-ai-judge/)
 6. [UNESCO — "Prometea: Artificial Intelligence in the Buenos Aires Public Prosecutor's Office"](https://en.unesco.org/artificial-intelligence/rule-law)
-7. [Supremo Tribunal Federal — Projeto VICTOR](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=471331)
+7. [Supremo Tribunal Federal — Projeto VICTOR](https://portal.stf.jus.br/Noticias/verNoticiaDetalhe.asp?idConteudo=471331)
 8. [Corte Constitucional de Colombia — PretorIA](https://www.corteconstitucional.gov.co/noticia.php?PretorIA-9252)
 9. [EU AI Act — Reglamento (UE) 2024/1689](https://artificialintelligenceact.eu/)
 10. [UNESCO — Recomendación sobre la Ética de la IA (2021)](https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa)

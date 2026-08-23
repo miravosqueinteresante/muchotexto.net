@@ -10,9 +10,9 @@ description: "Paraguay tiene la electricidad más barata de Sudamérica, el Acu�
 
 Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para existir. El mundo entero aprendió esta lección durante la pandemia: cuando las fábricas de chips se frenan, todo lo demás se frena con ellas.
 
-Paraguay es el último aliado diplomático de Taiwán en Sudamérica. Juntos firmaron [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), un centro de datos de inteligencia artificial de 200 millones de dólares. Taiwán le prestó 400 millones a Paraguay en décadas de cooperación. Paraguay tiene la electricidad industrial más barata de Sudamérica, el Acuífero Guaraní —la segunda reserva de agua dulce del planeta— y un régimen de maquila que grava las exportaciones tecnológicas al 1%. Las condiciones, sobre el papel, parecen diseñadas para atraer semiconductores.
+Paraguay es el último aliado diplomático de Taiwán en Sudamérica. Juntos firmaron [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), un centro de datos de inteligencia artificial de 200 millones de dólares. Taiwán le prestó 400 millones a Paraguay en décadas de cooperación. Paraguay tiene la electricidad industrial más barata de Sudamérica, el Acuífero Guaraní —la segunda reserva de agua dulce del planeta— y un régimen de maquila que grava las exportaciones tecnológicas al 1%. Las condiciones, sobre el papel, parecen diseñadas para atraer semiconductores.
 
-Sin embargo, Taiwán está construyendo fábricas de chips en Arizona, en Kumamoto, en Dresde. En Paraguay no hay ninguna. Ni siquiera un anuncio. Este artículo explica por qué.
+Sin embargo, Taiwán está construyendo fábricas de chips en Arizona, en Kumamoto, en Dresde. En Paraguay no hay ninguna. Ni siquiera un Anuncio. Este artículo explica por qué.
 
 ## TSMC: la fábrica de la que depende el mundo
 
@@ -20,7 +20,7 @@ TSMC no vende productos. Fabrica los chips que otras empresas diseñan. Es lo qu
 
 Para ponerlo en perspectiva: los GPU H100 y B200 de NVIDIA, que entrenan los modelos de inteligencia artificial más grandes del mundo, los procesadores M4 de Apple, los chips que corren en los centros de datos de Google y Amazon —todos salen de fábricas de TSMC. La empresa tiene plantas en Taiwán, Estados Unidos (Arizona), Japón (Kumamoto), China (Shanghai, Nanjing) y Singapur —aunque la gran mayoría de su capacidad avanzada sigue concentrada en la isla.
 
-Esta concentración geográfica extrema tiene un nombre: el Silicon Shield. La lógica es que el mundo es tan dependiente de los chips taiwaneses que ninguna potencia —ni siquiera China— se atrevería a interrumpir su producción. Taiwan Semiconductor es, al mismo tiempo, una empresa y un activo de defensa nacional. Durante la presidencia de Tsai Ing-wen (2016-2024), y bajo el gobierno taiwanés en general, la industria de semiconductores fue considerada "la montaña divina que protege a la nación".
+Esta concentración geográfica extrema tiene un nombre: el Silicon Shield. La lógica es que el mundo es tan dependiente de los chips Taiwáneses que ninguna potencia —ni siquiera China— se atrevería a interrumpir su producción. Taiwán Semiconductor es, al mismo tiempo, una empresa y un activo de defensa nacional. Durante la presidencia de Tsai Ing-wen (2016-2024), y bajo el gobierno Taiwánés en general, la industria de semiconductores fue considerada "la montaña divina que protege a la nación".
 
 Pero el Silicon Shield tiene grietas. La sequía de 2021 en Taiwán obligó a TSMC a transportar agua en camiones para mantener sus fábricas operando. Una sola planta de semiconductores consume entre 7 y 15 millones de litros de agua por día —el equivalente a una ciudad de 40.000 personas. Taiwán, una isla de 36.000 kilómetros cuadrados con 23 millones de habitantes, tiene límites físicos que ninguna innovación puede eludir.
 
@@ -50,7 +50,7 @@ En Taiwán, la misma empresa es el mayor consumidor individual de electricidad d
 
 **Agua.** Debajo de Paraguay está el Acuífero Guaraní, la segunda reserva de agua dulce subterránea más grande del mundo, compartida con Brasil, Argentina y Uruguay. Una fábrica de semiconductores necesita agua ultrapura —más limpia que el agua potable— para lavar las obleas de silicio entre cada una de las docenas de etapas del proceso de fabricación. En 2021, una sequía en Taiwán forzó a TSMC a negociar con agricultores locales por el acceso al agua. Ese tipo de competencia por recursos no existe en Paraguay.
 
-**Impuestos.** El régimen de maquila paraguayo grava los servicios y manufacturas exportados al 1% sobre el valor agregado. El sistema tributario es territorial: solo se pagan impuestos sobre ingresos generados dentro del país. El impuesto corporativo general es del 10%. Si una empresa taiwanesa de semiconductores quisiera instalar una planta de ensamblaje y prueba —la etapa menos intensiva en capital de la cadena— Paraguay es, en términos impositivos, más atractivo que Taiwán, Estados Unidos o Alemania.
+**Impuestos.** El régimen de maquila paraguayo grava los servicios y manufacturas exportados al 1% sobre el valor agregado. El sistema tributario es territorial: solo se pagan impuestos sobre ingresos generados dentro del país. El impuesto corporativo general es del 10%. Si una empresa Taiwánesa de semiconductores quisiera instalar una planta de ensamblaje y prueba —la etapa menos intensiva en capital de la cadena— Paraguay es, en términos impositivos, más atractivo que Taiwán, Estados Unidos o Alemania.
 
 **Tierra y ubicación.** El precio del suelo industrial en Paraguay es una fracción del de Taiwán, donde el espacio es escaso y caro. Paraguay está dentro del Mercosur, lo que le da acceso libre de aranceles a un mercado de 295 millones de personas. Y, quizás más importante en términos geopolíticos, está a 20.000 kilómetros de Pekín.
 
@@ -74,15 +74,15 @@ Hay un camino intermedio que ningún análisis serio debería descartar. No es u
 
 El backend de los semiconductores es menos intensivo en capital que el frontend. Una planta OSAT cuesta entre 500 millones y 2.000 millones de dólares, no 15.000. Consume menos agua, menos electricidad y requiere menos ingenieros con doctorados. Es la etapa de la cadena que Malasia, Vietnam y Filipinas ya están capturando, y que América Latina —con la excepción de las antiguas operaciones de Intel en Costa Rica, que cerraron en 2014— ha ignorado sistemáticamente.
 
-ASE Technology, la empresa taiwanesa número uno mundial en ensamblaje y prueba de semiconductores, tiene plantas en Taiwán, China, Corea, Japón, Malasia y Singapur. Foxconn, el mayor fabricante de electrónicos por contrato y socio estratégico de Taiwán, está explorando México, India y Vietnam para nuevas plantas. Paraguay compite con esos países, no con Arizona.
+ASE Technology, la empresa Taiwánesa número uno mundial en ensamblaje y prueba de semiconductores, tiene plantas en Taiwán, China, Corea, Japón, Malasia y Singapur. Foxconn, el mayor fabricante de electrónicos por contrato y socio estratégico de Taiwán, está explorando México, India y Vietnam para nuevas plantas. Paraguay compite con esos países, no con Arizona.
 
-La ventana existe. El programa Pax Silica, impulsado por el Departamento de Estado de Estados Unidos, busca explícitamente construir cadenas de suministro tecnológicas en países aliados. Estados Unidos y Taiwán negociaron en 2026 un acuerdo de garantías crediticias para que empresas taiwanesas de chips expandan su presencia en países aliados. Paraguay califica en lo diplomático. No califica —todavía— en lo técnico.
+La ventana existe. El programa Pax Silica, impulsado por el Departamento de Estado de Estados Unidos, busca explícitamente construir cadenas de suministro tecnológicas en países aliados. Estados Unidos y Taiwán negociaron en 2026 un acuerdo de garantías crediticias para que empresas Taiwánesas de chips expandan su presencia en países aliados. Paraguay califica en lo diplomático. No califica —todavía— en lo técnico.
 
 Para que Paraguay entre al mapa de los semiconductores, necesitaría tres cosas. La primera es una línea de transmisión dedicada desde Itaipú que garantice energía ininterrumpida —algo que la ANDE no puede ofrecer con su infraestructura actual. La segunda es un programa de formación técnica en microelectrónica, probablemente en alianza con la Universidad Politécnica Taiwán-Paraguay, que forme a los primeros cientos de técnicos e ingenieros en procesos de manufactura electrónica. La tercera es un acuerdo bilateral con Taiwán que vaya más allá de los centros de datos —Yguazú Digital es procesamiento, no fabricación— y que ofrezca incentivos específicos para la industria de semiconductores.
 
 Ninguna de esas tres cosas existe hoy. Pero tampoco existía, hace cinco años, la idea de que Paraguay podría alojar uno de los centros de datos de inteligencia artificial más grandes del mundo. Y sin embargo, Yguazú Digital está en construcción.
 
-La pregunta no es si Paraguay puede competir con TSMC en 3 nanómetros. No puede. La pregunta es si puede competir con Malasia en ensamblaje de chips. Y la respuesta, como en casi todo lo que rodea a la inteligencia artificial en Paraguay, es que depende de si el país decide construir lo que todavía no tiene: infraestructura de transmisión, capital humano calificado y un marco regulatorio que le dé a un inversionista taiwanés la certeza de que su planta no se va a quedar sin electricidad un jueves a las tres de la tarde.
+La pregunta no es si Paraguay puede competir con TSMC en 3 nanómetros. No puede. La pregunta es si puede competir con Malasia en ensamblaje de chips. Y la respuesta, como en casi todo lo que rodea a la inteligencia artificial en Paraguay, es que depende de si el país decide construir lo que todavía no tiene: infraestructura de transmisión, capital humano calificado y un marco regulatorio que le dé a un inversionista Taiwánés la certeza de que su planta no se va a quedar sin electricidad un jueves a las tres de la tarde.
 
 Leé la guía completa de geopolítica tecnológica en la [guía de inteligencia artificial en Paraguay](/ia-en-paraguay/).
 
@@ -93,10 +93,10 @@ Leé la guía completa de geopolítica tecnológica en la [guía de inteligencia
 - [Wikipedia — CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act) — subsidios, adjudicaciones, empresa por empresa
 - [Wikipedia — United States sanctions against China](https://en.wikipedia.org/wiki/United_States_sanctions_against_China) — controles de exportación de semiconductores
 - [Wikipedia — Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry) — concentración geográfica, costos de fabricación
-- [Reuters — "Paraguay stands by Taiwan as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-taiwan-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
-- [Bloomberg — "Taiwan's Chipmaker Lobby Goes Global"](https://www.bloomberg.com/news/articles/2026-01-20/taiwan-s-chipmaker-lobby-goes-global) (enero 2026)
-- [CSIS — "The Geopolitics of Taiwan's Semiconductor Dominance"](https://www.csis.org/analysis/geopolitics-taiwans-semiconductor-dominance) (2024)
-- [Foreign Policy — "The Silicon Shield: Why Taiwan Matters for AI"](https://foreignpolicy.com/2025/11/20/taiwan-ai-chips-semiconductors-geopolitics/) (20 noviembre 2025)
+- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwán-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
+- [Bloomberg — "Taiwán's Chipmaker Lobby Goes Global"](https://www.bloomberg.com/news/articles/2026-01-20/Taiwán-s-chipmaker-lobby-goes-global) (enero 2026)
+- [CSIS — "The Geopolitics of Taiwán's Semiconductor Dominance"](https://www.csis.org/analysis/geopolitics-Taiwáns-semiconductor-dominance) (2024)
+- [Foreign Policy — "The Silicon Shield: Why Taiwán Matters for AI"](https://foreignpolicy.com/2025/11/20/Taiwán-ai-chips-semiconductors-geopolitics/) (20 noviembre 2025)
 - [White House — "Pax Silica: Building Trusted Technology Supply Chains"](https://www.whitehouse.gov/briefing-room/2025/09/15/pax-silica-trusted-technology-supply-chains/) (15 septiembre 2025)
 
 <script type="application/ld+json">
@@ -109,7 +109,7 @@ Leé la guía completa de geopolítica tecnológica en la [guía de inteligencia
       "name": "¿Fabrica Taiwán semiconductores en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Taiwán no tiene fábricas de semiconductores en Paraguay ni en ningún país de América Latina. Las expansiones internacionales de TSMC y otras empresas taiwanesas de chips se concentran en Estados Unidos (Arizona), Japón (Kumamoto) y Alemania (Dresde). En Paraguay, la inversión taiwanesa más importante es Yguazú Digital, un centro de datos de inteligencia artificial, no una fábrica de chips."
+        "text": "No. Taiwán no tiene fábricas de semiconductores en Paraguay ni en ningún país de América Latina. Las expansiones internacionales de TSMC y otras empresas Taiwánesas de chips se concentran en Estados Unidos (Arizona), Japón (Kumamoto) y Alemania (Dresde). En Paraguay, la inversión Taiwánesa más importante es Yguazú Digital, un centro de datos de inteligencia artificial, no una fábrica de chips."
       }
     },
     {

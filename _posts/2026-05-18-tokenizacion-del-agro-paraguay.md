@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Soja, ganado y blockchain: la tokenización del agro en Paraguay"
 date: 2026-05-18
@@ -129,7 +129,7 @@ Suiza exige auditoría técnica de smart contracts desde su DLT Act de 2021. VAR
 
 La Ley de Protección de Datos Personales (Ley 7593/2025) se aprobó en noviembre de 2025. Está inspirada en el GDPR europeo y la LGPD brasileña. Tiene todos los elementos correctos: consentimiento explícito, derechos de acceso y cancelación, sanciones de hasta 10.000 salarios mínimos. Pero no entra en vigor hasta noviembre de 2027. La agencia reguladora aún no se ha creado. Los reglamentos secundarios no se han redactado.
 
-Paraguay no tiene, hoy, ninguna ley de protección de datos efectiva. Una plataforma de tokenización que procese datos financieros de productores e inversores opera [en un país que está recibiendo inversiones billonarias en infraestructura de IA]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) y [abriendo sectores estratégicos al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) sin un marco de protección de datos que funcione.
+Paraguay no tiene, hoy, ninguna ley de protección de datos efectiva. Una plataforma de tokenización que procese datos financieros de productores e inversores opera [en un país que está recibiendo inversiones billonarias en infraestructura de IA]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) y [abriendo sectores estratégicos al capital privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}) sin un marco de protección de datos que funcione.
 
 ---
 
@@ -143,7 +143,7 @@ No se trata de decir "no a la tokenización". Se trata de hacerla bien. Acá va 
 
 **Prioridad 3: Educación vía cooperativas.** Las casi 600 cooperativas paraguayas activas con 1,8 millones de socios son el canal natural. No a través de apps ni cursos online, sino de extensionistas rurales, radio y módulos en el sistema de extensión del MAG. La alfabetización financiera digital no es un requisito previo: se construye paralelamente.
 
-**Prioridad 4: Identidad digital rural.** La Identidad Electrónica del MITIC tiene que llegar al productor rural. Sin identidad verificable, el KYC/AML es imposible, y sin KYC/AML la plataforma no puede operar legalmente. La biometría móvil y el acuerdo con Starlink/Copaco para conectar escuelas rurales son el camino.
+**Prioridad 4: identidad digital rural.** La Identidad Electrónica del MITIC tiene que llegar al productor rural. Sin identidad verificable, el KYC/AML es imposible, y sin KYC/AML la plataforma no puede operar legalmente. La biometría móvil y el acuerdo con Starlink/Copaco para conectar escuelas rurales son el camino.
 
 **Prioridad 5: Piloto selectivo en BVPASA.** Un emisor institucional — una cooperativa grande, un fondo de inversión — tokeniza un activo específico en la Bolsa de Valores de Asunción, bajo supervisión plena de la SIV. Se aprende haciendo, pero a escala controlada y con protección al inversor.
 
@@ -185,7 +185,7 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
 <li><strong>CoinTelegraph</strong> – "Farmway tokenizes $100M Georgia almond orchards" (2025)</li>
 <li><strong>CoinTelegraph</strong> – "CertiK RWA Security Report 2025"</li>
 <li>**Olympix** — "90% of exploited smart contracts were audited" (2026)</li>
-<li><strong>CriptoNoticias</strong> – <a href="https://www.criptonoticias.com/seguridad-bitcoin/detenido-mexico-promotor-criptomoneda-agrocoin">"Detenido en México promotor de criptomoneda Agrocoin"</a></li>
+<li><strong>CriptoNoticias</strong> – <a href="https://www.criptoNoticias.com/seguridad-bitcoin/detenido-mexico-promotor-criptomoneda-agrocoin">"Detenido en México promotor de criptomoneda Agrocoin"</a></li>
 <li><strong>IAPP</strong> – <a href="https://iapp.org/news/a/paraguay-da-un-paso-hacia-un-marco-moderno-de-protecci-n-de-la-privacidad">"Paraguay da un paso hacia un marco moderno de protección de la privacidad"</a> (Dec 2025)</li>
 <li><strong>Ferrere Abogados</strong> – <a href="https://www.ferrere.com/es/novedades/paraguay-adopta-su-ley-de-proteccion-de-datos-personales">"Paraguay adopta su Ley de Protección de Datos Personales"</a> (Nov 2025)</li>
 <li><strong>IDB</strong> – <a href="https://www.iadb.org/en/news/paraguay-will-improve-security-land-ownership-idb-support">"Paraguay will improve security of land ownership with IDB support"</a> (PR-L1061)</li>
@@ -204,7 +204,7 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
 <li><strong>IDB</strong> – <a href="https://publications.iadb.org/publications/english/document/Regulatory-Sandboxes-Innovation-Hubs-and-Other-Regulatory-Innovation-Tools-in-Latin-America-and-the-Caribbean.pdf">Regulatory Sandboxes, Innovation Hubs in LAC</a></li>
 <li><strong>INVENTTA / Doble Filo MX</strong> – Blockchain soberana paraguaya</li>
 <li><strong>RDN</strong> – <a href="https://www.rdn.com.py/2026/02/10/paraguay-en-las-puertas-del-negocio-bitcoin/">Entrevista a Bruno Vaccotti</a> (Feb 2026)</li>
-<li><strong>Vouga Abogados</strong> – <a href="https://www.vouga.com.py/en/avances-en-la-regulacion-fintech-en-el-paraguay-criptomonedas-y-cripto-activos/">Avances en regulación fintech</a></li>
+<li><strong>Vouga Abogados</strong> – <a href="https://www.vouga.com.py/en/avances-en-la-regulación-fintech-en-el-paraguay-criptomonedas-y-cripto-activos/">Avances en regulación fintech</a></li>
 <li>**Nethermind** — "Securing Tokenized RWAs" (2026)</li>
 </ol>
 

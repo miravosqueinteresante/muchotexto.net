@@ -58,7 +58,7 @@ El jugador anunció su salida del club, donde se convirtió en un ícono, dejand
 
 📊 Temperatura social: Media  
 
-🔹 Tigre pone un pie en octavos de la Sudamericana al golear a Nacional en Montevideo.
+🔹 Tigre pone un pie en octavos de la Sudaméricana al golear a Nacional en Montevideo.
 
 📊 Temperatura social: Media  
 

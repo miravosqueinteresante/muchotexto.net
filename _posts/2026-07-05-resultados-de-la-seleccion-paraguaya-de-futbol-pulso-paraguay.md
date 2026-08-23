@@ -38,7 +38,7 @@ La Fiscalía ha ampliado el plazo para investigar a un presunto narcopiloto, lo 
 
 📊 Temperatura social: Alta
 
-🔹 Paraguay firma con Chile un acuerdo integral contra la trata de personas
+🔹 Paraguay firma con Chile un acuerdo Integral contra la trata de personas
 
 Este acuerdo busca fortalecer la lucha contra la trata de personas en la región, un tema de gran relevancia social.  
 
@@ -96,7 +96,7 @@ El gesto de Mbappé tras el encuentro ha generado un gran revuelo en redes socia
 
 💡 INSIGHT DEL DÍA
 
-La derrota de Paraguay en el Mundial, combinada con noticias sobre narcotráfico y escándalos en la política local, refleja un momento de alta tensión social. La población parece estar buscando respuestas y soluciones a problemas que van más allá del deporte, conectando la frustración deportiva con preocupaciones más profundas sobre seguridad y gobernanza.
+La derrota de Paraguay en el Mundial, combinada con Noticias sobre narcotráfico y escándalos en la política local, refleja un momento de alta tensión social. La población parece estar buscando respuestas y soluciones a problemas que van más allá del deporte, conectando la frustración deportiva con preocupaciones más profundas sobre seguridad y gobernanza.
 
 🔍 ANÁLISIS DE SENTIMIENTO POR CATEGORÍA
 

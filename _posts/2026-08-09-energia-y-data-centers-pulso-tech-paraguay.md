@@ -13,7 +13,7 @@ PULSO TECH PARAGUAY
 
 ⚡ ENERGIA Y DATA CENTERS
 
-Paraguay inicia era de tecnologia nuclear civil
+Paraguay inicia era de Tecnología nuclear civil
 Paraguay firmó un acuerdo estratégico con Estados Unidos para la transferencia de tecnología nuclear civil, marcando un paso clave para el blindaje energético del país. La Autoridad Reguladora Radiológica y Nuclear (ARRN) supervisará este proceso de implementación tecnológica a largo plazo.
 
 📊 Relevancia: Alta

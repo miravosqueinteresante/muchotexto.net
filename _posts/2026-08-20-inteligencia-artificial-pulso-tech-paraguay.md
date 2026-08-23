@@ -33,6 +33,6 @@ La jornada de hoy destaca la convergencia entre la gestión de datos históricos
 
 🔎 FUENTES CONSULTADAS HOY
 
-- ABC Tecnologia
+- ABC Tecnología
 - ABC Nacionales
 - La Nacion

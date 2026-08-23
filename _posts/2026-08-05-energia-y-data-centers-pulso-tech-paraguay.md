@@ -31,7 +31,7 @@ Reportes sobre el comportamiento del consumidor digital señalan una preferencia
 
 Crecimiento en importación de bienes de capital y tecnología
 
-La Cámara Paraguaya de Exportadores y Comercializadores de Cereales y Oleaginosas (Capeco) informó un aumento del 30% en la importación de maquinaria durante el primer semestre de 2026. Este crecimiento refleja una mayor tecnificación e inversión en activos productivos dentro del sector agrícola nacional.
+La Cámara Paraguaya de Exportadores y Comercializadores de Cereales y Oleaginosas (Capeco) informó un aumento del 30% en la importación de Máquinaria durante el primer semestre de 2026. Este crecimiento refleja una mayor tecnificación e inversión en activos productivos dentro del sector agrícola nacional.
 
 📊 Relevancia: Media
 
@@ -39,7 +39,7 @@ La Cámara Paraguaya de Exportadores y Comercializadores de Cereales y Oleaginos
 
 1. 🥇 Inversiones energéticas para infraestructura de centros de datos.
 2. 🥈 Preferencia del consumidor en contenidos generados por IA.
-3. 🥉 Aumento en la tecnificación e importación de maquinaria agrícola.
+3. 🥉 Aumento en la tecnificación e importación de Máquinaria agrícola.
 
 💡 INSIGHT TECH DEL DIA
 
@@ -47,6 +47,6 @@ La convergencia entre el sector energético y la infraestructura digital se cons
 
 🔎 FUENTES CONSULTADAS HOY
 
-- ABC Tecnologia
+- ABC Tecnología
 - La Nacion
 - Capeco.

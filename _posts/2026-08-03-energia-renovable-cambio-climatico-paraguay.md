@@ -72,7 +72,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
 1. [Wikipedia ES — Sector eléctrico en Paraguay](https://es.wikipedia.org/wiki/Sector_el%C3%A9ctrico_en_Paraguay)
 2. [ANDE — Portal oficial](https://www.ande.gov.py/)
-3. [Itaipú Binacional — Informes de generación](https://www.itaipu.gov.py/)
+3. [Itaipú Binacional — Informes de generación](https://www.Itaipú.gov.py/)
 4. [Banco Mundial — Paraguay Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/paraguay)
 5. [Global Forest Watch — Paraguay deforestation data](https://www.globalforestwatch.org/country/PRY)
 6. [UNFCCC — Paraguay NDC 3.0 (2025)](https://unfccc.int/documents/)

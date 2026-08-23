@@ -19,7 +19,7 @@ El Gobierno Nacional avanza en el consenso con el sector privado y expertos ener
 
 📊 Relevancia: Alta
 
-📋 REGULACION Y GOBERNANZA TECH
+📋 regulación Y GOBERNANZA TECH
 
 Servidores del Poder Judicial fuera de servicio
 

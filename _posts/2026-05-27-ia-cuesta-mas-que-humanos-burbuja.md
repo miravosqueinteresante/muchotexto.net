@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "La IA cuesta más que los humanos que reemplazó: los números"
 date: 2026-05-27
@@ -124,13 +124,13 @@ Los ingresos de IA empresarial crecen al 40% anual. El backlog de Google Cloud c
 
 ## 8. El contraste paraguayo: ¿llegamos tarde o justo a tiempo?
 
-Todo lo anterior importa poco si no se conecta con la realidad local. Porque Paraguay está apostando su recurso más valioso — la energía de Itaipú — a esta misma industria, justo cuando el mercado global muestra señales de corrección. [La apuesta tiene nombre concreto: Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), [en un país que recién está abriendo su sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}).
+Todo lo anterior importa poco si no se conecta con la realidad local. Porque Paraguay está apostando su recurso más valioso — la energía de Itaipú — a esta misma industria, justo cuando el mercado global muestra señales de corrección. [La apuesta tiene nombre concreto: Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), [en un país que recién está abriendo su sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}).
 
-Los proyectos anunciados son de una escala que el país nunca vio. X8 Cloud planea invertir entre [$10 y $50 mil millones](https://www.asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/) en 30 años para construir el centro de datos de IA "más grande de América Latina", con un target de 5 GW de capacidad. Yguazú Digital, la alianza con Taiwán, proyecta tres fases que culminan en una inversión de [$40 mil millones](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) — equivalente al PIB total de Paraguay — para consumir 1.000 MW. Hive Digital ya invirtió [$400 millones](https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier) y está expandiendo sus centros a 400 MW. Crusoe AI y Peter Thiel están explorando el país.
+Los proyectos anunciados son de una escala que el país nunca vio. X8 Cloud planea invertir entre [$10 y $50 mil millones](https://www.asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/) en 30 años para construir el centro de datos de IA "más grande de América Latina", con un target de 5 GW de capacidad. Yguazú Digital, la alianza con Taiwán, proyecta tres fases que culminan en una inversión de [$40 mil millones](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-Taiwán-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) — equivalente al PIB total de Paraguay — para consumir 1.000 MW. Hive Digital ya invirtió [$400 millones](https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier) y está expandiendo sus centros a 400 MW. Crusoe AI y Peter Thiel están explorando el país.
 
 Paraguay tiene lo que la IA necesita: energía barata ($0.04/kWh), 100% renovable, y un gobierno dispuesto a recibirla. El ministro de Industria, Marco Riquelme, viajó a Silicon Valley y se reunió con ejecutivos de NVIDIA, OpenAI y Crusoe. El presidente Peña firmó acuerdos con Taiwán y recibió a Thiel en la residencia presidencial.
 
-Pero la lección de la criptominería debería darnos una pausa. Hoy, 41 empresas del Grupo de Consumo Intensivo Especial reservan 943,8 MW, equivalentes al 13.5% de la potencia paraguaya de Itaipú (7.000 MW), o 1.4 turbinas completas. Generan apenas [1.58 empleos por MW](https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/).
+Pero la lección de la criptominería debería darnos una pausa. Hoy, 41 empresas del Grupo de Consumo Intensivo Especial reservan 943,8 MW, equivalentes al 13.5% de la potencia paraguaya de Itaipú (7.000 MW), o 1.4 turbinas completas. Generan apenas [1.58 empleos por MW](https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-Itaipú/).
 
 Los centros de datos de IA tienen el mismo perfil: alta intensidad energética, baja creación de empleo. El proyecto insignia de Crusoe en Texas, Abilene, consumirá 1.2 GW y generará unos pocos cientos de empleos permanentes. Para un país que necesita empleo formal y diversificación económica, la ecuación no es automáticamente favorable.
 
@@ -160,7 +160,7 @@ La tecnología no necesita ser una burbuja para ser una mala inversión para un 
 
 ---
 
-Accedé al análisis integral sobre inteligencia artificial en Paraguay en la [guía completa de IA](/ia-en-paraguay/).
+Accedé al análisis Integral sobre inteligencia artificial en Paraguay en la [guía completa de IA](/ia-en-paraguay/).
 
 ## Fuentes
 
@@ -185,8 +185,8 @@ Accedé al análisis integral sobre inteligencia artificial en Paraguay en la [g
 <li><strong>OfficeChai</strong> – <a href="https://officechai.com/ai/how-uber-microsoft-klarna-and-others-are-pulling-back-from-ai/">"How Uber, Microsoft, Klarna and Others Are Pulling Back From AI"</a> (27 mayo 2026)</li>
 <li><strong>BNamericas</strong> – <a href="https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier">"Paraguay's multimillion AI data center surge: LatAm's new frontier?"</a> (abril 2026)</li>
 <li><strong>BNamericas</strong> – <a href="https://www.bnamericas.com/en/interviews/my-goal-is-to-reach-5gw-of-ai-says-x8-cloud-about-mega-project-in-paraguay">"My goal is to reach 5GW of AI, says X8 Cloud"</a> (septiembre 2025)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/">"Centro de datos soberano con Taiwán: inversión de US$ 40.000 millones"</a> (13 mayo 2026)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/">"Solo cuatro criptomineras consumen más que una turbina de Itaipú"</a> (16 marzo 2026)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-Taiwán-ministro-de-industria-habla-de-inversion-de-us-40000-millones/">"Centro de datos soberano con Taiwán: inversión de US$ 40.000 millones"</a> (13 mayo 2026)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-Itaipú/">"Solo cuatro criptomineras consumen más que una turbina de Itaipú"</a> (16 marzo 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2025/04/24/senado-pide-informe-urgente-a-la-ande-sobre-crisis-electrica-pronosticada-para-el-2029/">"Senado pide informe urgente a la ANDE sobre crisis eléctrica"</a> (24 abril 2025)</li>
 <li><strong>Asunción Times</strong> – <a href="https://asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/">"AI Data Centre Paraguay: biggest-ever foreign investment"</a> (diciembre 2025)</li>
 <li><strong>Startup Fortune</strong> – <a href="https://startupfortune.com/uber-burned-its-entire-2026-ai-budget-in-four-months-and-claude-code-is-why-finance-teams-should-be-worried/">"Uber Burned Its Entire 2026 AI Budget in Four Months"</a> (2 mayo 2026)</li>

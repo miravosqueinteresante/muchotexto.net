@@ -12,7 +12,7 @@ La confirmación de irregularidades en el informe de la Contraloría General de 
 
 ## La transparencia en el ojo del huracán
 
-El informe de la CGR, que revela desprolijidades en la administración pública, ha encendido el debate sobre la transparencia gubernamental. La alta temperatura social en torno a este tema refleja una creciente desconfianza hacia las instituciones encargadas de velar por el buen uso de los recursos públicos. Además, el cuestionamiento de la senadora Esperanza Martínez sobre el hermetismo del Gobierno en las negociaciones de [energía de Itaipú]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) refuerza la percepción de opacidad en asuntos clave para el país.
+El informe de la CGR, que revela desprolijidades en la administración pública, ha encendido el debate sobre la transparencia gubernamental. La alta temperatura social en torno a este tema refleja una creciente desconfianza hacia las instituciones encargadas de velar por el buen uso de los recursos públicos. Además, el cuestionamiento de la senadora Esperanza Martínez sobre el hermetismo del Gobierno en las negociaciones de [energía de Itaipú]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}) refuerza la percepción de opacidad en asuntos clave para el país.
 
 Estas dos situaciones, aunque distintas en su naturaleza, comparten un eje común: la falta de claridad en la gestión pública. En ambos casos, la ciudadanía exige mayor apertura y rendición de cuentas, lo que evidencia una demanda sostenida por mayor transparencia en Paraguay.
 

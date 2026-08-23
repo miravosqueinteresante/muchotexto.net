@@ -14,7 +14,7 @@ La salud pública en Paraguay enfrenta una crisis silenciosa pero devastadora: n
 
 Hoy, más del 60% de las consultas e internaciones en el Hospital Acosta Ñu están relacionadas con problemas respiratorios. Una cifra alarmante que nos lleva a pensar en las condiciones de un sistema sanitario que, huelga decirlo, ya venía mostrando signos de desgaste. Pero lo más preocupante no es la cantidad de pacientes que ingresan; es el hecho de que, en pleno 2026, aún existe resistencia a la vacunación, un rechazo que se nutre de teorías conspirativas, información falsa y una crisis de confianza en las instituciones.
 
-Las autoridades insisten en la vacunación como la principal herramienta para frenar este aumento de cuadros respiratorios, pero ¿cuántos realmente están escuchando? La proliferación de noticias sin base científica, discursos anticientíficos y la falta de un plan efectivo de comunicación por parte del Estado han creado un caldo de cultivo ideal para la desinformación. Paraguay, a pesar de sus avances en conectividad, sigue siendo vulnerable a narrativas que apelan más al miedo que a la razón.
+Las autoridades insisten en la vacunación como la principal herramienta para frenar este aumento de cuadros respiratorios, pero ¿cuántos realmente están escuchando? La proliferación de Noticias sin base científica, discursos anticientíficos y la falta de un plan efectivo de comunicación por parte del Estado han creado un caldo de cultivo ideal para la desinformación. Paraguay, a pesar de sus avances en conectividad, sigue siendo vulnerable a narrativas que apelan más al miedo que a la razón.
 
 ## ¿Dónde está el liderazgo que necesitamos?
 

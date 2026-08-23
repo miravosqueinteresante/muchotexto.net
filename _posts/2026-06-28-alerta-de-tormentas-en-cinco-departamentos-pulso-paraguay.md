@@ -46,7 +46,7 @@ Esta temática sigue generando debate sobre la ética en el uso de fondos públi
 
 La Cumbre del Mercosur empieza mañana con expectativas y tensiones sobre su relacionamiento externo
 
-Los líderes de la región se reunirán para discutir asuntos económicos críticos, con un enfoque especial en el comercio internacional.
+Los líderes de la región se reunirán para discutir asuntos económicos críticos, con un enfoque especial en el Comercio internacional.
 
 📊 Temperatura social: Media  
 

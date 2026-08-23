@@ -66,9 +66,9 @@ La crisis del IPS no es un hecho aislado; es, antes que nada, una consecuencia d
 
 La renuncia masiva de funcionarios no solo perjudica la operatividad del IPS, sino que también deja a miles de paraguayos navegando un sistema ya saturado y disfuncional. Es aquí donde el verdadero costo de la falta de visión política y administrativa se hace evidente. Porque detrás de cada renuncia hay una cama vacía en un hospital, una fila más larga para una consulta y una familia que se queda sin respuestas.
 
-## ¿Y el dinero de [energía de Itaipú]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})?
+## ¿Y el dinero de [energía de Itaipú]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %})?
 
-Es inevitable vincular esta crisis con el reciente anuncio de los US$ 462 millones que la represa Itaipú transfirió al Estado paraguayo en 2025. ¿Dónde están esos fondos en este momento de necesidad? ¿No podría una parte de ese dinero haber sido destinada a mejorar las condiciones laborales en el IPS y garantizar un servicio de calidad? En un país donde los recursos naturales deberían ser sinónimo de prosperidad, resulta irónico ver cómo se perpetúan las carencias estructurales. 
+Es inevitable vincular esta crisis con el reciente Anuncio de los US$ 462 millones que la represa Itaipú transfirió al Estado paraguayo en 2025. ¿Dónde están esos fondos en este momento de necesidad? ¿No podría una parte de ese dinero haber sido destinada a mejorar las condiciones laborales en el IPS y garantizar un servicio de calidad? En un país donde los recursos naturales deberían ser sinónimo de prosperidad, resulta irónico ver cómo se perpetúan las carencias estructurales. 
 
 La falta de transparencia en la gestión de estos fondos es un tema recurrente que, lamentablemente, ha encontrado cabida en el imaginario colectivo como algo casi inmutable. Pero no debería ser así. Cada guaraní que ingresa al erario público debe estar destinado a asegurar el bienestar ciudadano, y no a engrosar las filas de una burocracia que parece más preocupada por perpetuar sus privilegios que por solucionar los problemas del país.
 

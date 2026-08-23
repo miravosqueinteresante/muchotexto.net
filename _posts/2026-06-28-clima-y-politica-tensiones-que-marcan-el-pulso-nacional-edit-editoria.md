@@ -20,6 +20,6 @@ En el ámbito político, la condena de Mons. Valenzuela a la corrupción y las �
 
 ## Expectativas económicas en medio de tensiones sociales
 
-Mientras el clima y la política dominan la agenda, la Cumbre del Mercosur, que inicia mañana, también genera expectativas. Aunque la temperatura social en economía es media, el evento tiene el potencial de influir en el comercio internacional y el relacionamiento externo de Paraguay. Sin embargo, la atención pública parece estar más centrada en los problemas internos, como la inseguridad climática y la corrupción, lo que podría limitar el impacto de los debates económicos en la percepción ciudadana.
+Mientras el clima y la política dominan la agenda, la Cumbre del Mercosur, que inicia mañana, también genera expectativas. Aunque la temperatura social en economía es media, el evento tiene el potencial de influir en el Comercio internacional y el relacionamiento externo de Paraguay. Sin embargo, la atención pública parece estar más centrada en los problemas internos, como la inseguridad climática y la corrupción, lo que podría limitar el impacto de los debates económicos en la percepción ciudadana.
 
 La combinación de una alerta climática que moviliza a la sociedad y un llamado político que expone las tensiones institucionales refleja un Paraguay que enfrenta desafíos en múltiples frentes. La demanda de soluciones concretas y transparentes, tanto en la gestión del clima como en la política, es un mensaje claro de una ciudadanía que no está dispuesta a mirar hacia otro lado.

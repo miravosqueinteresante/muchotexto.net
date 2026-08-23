@@ -30,7 +30,7 @@ Paraguay no aparece en ese mapa. No tiene una industria BPO consolidada, no tien
 
 Hay un dato que Paraguay no comparte con ningún otro país de América Latina y que es, para esta industria, una ventaja estructural: el costo de la electricidad. Con 0.045 dólares por kilovatio-hora para consumo empresarial, Paraguay tiene una de las electricidades más baratas del mundo para consumo empresarial. Un centro de operaciones de 100 kilovatios que funcione 24 horas al día pagaría unos 3.240 dólares mensuales en electricidad en Paraguay, contra 14.600 en Colombia o 11.600 en Perú. La diferencia puede superar los 10.000 dólares por mes.
 
-Esa ventaja energética, que ya está atrayendo centros de datos como [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), se traduce en una ventaja operativa para cualquier empresa que necesite infraestructura de cómputo para procesar, almacenar y servir datasets. Pero el atractivo de Paraguay no termina en el precio del kilovatio-hora.
+Esa ventaja energética, que ya está atrayendo centros de datos como [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), se traduce en una ventaja operativa para cualquier empresa que necesite infraestructura de cómputo para procesar, almacenar y servir datasets. Pero el atractivo de Paraguay no termina en el precio del kilovatio-hora.
 
 El país tiene una de las poblaciones más jóvenes de Sudamérica —la mitad tiene menos de 27 años—, con una penetración de internet del 82.9% y una penetración móvil del 132% (más SIMs que habitantes). El 87% habla español, el 90% guaraní. El costo de vida es 54% más bajo que en Estados Unidos: un departamento de un dormitorio en el centro de Asunción cuesta 403 dólares mensuales. El salario mínimo ronda los 370 dólares, lo que sitúa el costo laboral paraguayo en el rango más competitivo de la región, comparable a Bolivia y Perú, y muy por debajo de México o Costa Rica.
 
@@ -64,7 +64,7 @@ El primero es el inglés. El país ocupa el puesto 43 en el EF English Proficien
 
 El segundo es la escala. Con 6.5 millones de habitantes, Paraguay no va a competir por volumen contra Colombia (52 millones) o México (128 millones). Lo que puede ofrecer es calidad y estabilidad: una operación de 200 a 500 anotadores bien pagados, con formación continua, contratos formales y condiciones laborales dignas. Eso es exactamente lo que falta en los hubs masificados, donde la rotación de personal es un problema crónico que encarece el reclutamiento y degrada la calidad del etiquetado. Paraguay puede ser el país donde una empresa de anotación construye una reputación de excelencia, no de explotación.
 
-El tercero es el Estado. La Ley de Maquila existe, pero ¿sabe REDIEX vender servicios de anotación de datos? ¿Conocen las agencias de promoción de inversiones lo que es el RLHF? ¿Tiene el MITIC una hoja de ruta para atraer operaciones de datos? El [proceso de apertura del sector eléctrico]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) demuestra que Paraguay puede moverse rápido cuando entiende la oportunidad. Pero la anotación de datos no es un data center de 40.000 millones de dólares con alfombra roja diplomática. Es una industria más modesta, más silenciosa y —bien hecha— más distribuida.
+El tercero es el Estado. La Ley de Maquila existe, pero ¿sabe REDIEX vender servicios de anotación de datos? ¿Conocen las agencias de promoción de inversiones lo que es el RLHF? ¿Tiene el MITIC una hoja de ruta para atraer operaciones de datos? El [proceso de apertura del sector eléctrico]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}) demuestra que Paraguay puede moverse rápido cuando entiende la oportunidad. Pero la anotación de datos no es un data center de 40.000 millones de dólares con alfombra roja diplomática. Es una industria más modesta, más silenciosa y —bien hecha— más distribuida.
 
 El panorama tiene una ironía de fondo. [El análisis sobre los costos reales de la IA]({% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %}) demuestra, con números, que la inteligencia artificial está quemando presupuestos a un ritmo insostenible. Uber agotó el suyo en cuatro meses. Starbucks eliminó su sistema de IA porque funcionaba peor que un humano. La burbuja de la IA se sostiene, en parte, sobre la promesa de que reemplazar humanos con máquinas va a ser más barato. Pero mientras tanto, la misma industria depende de ejércitos de humanos mal pagados para seguir funcionando.
 
@@ -105,7 +105,7 @@ Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guí
       "name": "Que ventajas tiene Paraguay para la anotacion de datos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay tiene electricidad a USD 0.045/kWh (una de las mas baratas del mundo), salario minimo de USD 370/mes, regimen de maquila con tasa efectiva del 1%, y zona horaria UTC-3 alineada con el Cono Sur."
+        "text": "Paraguay tiene electricidad a USD 0.045/kWh (una de las más baratas del mundo), salario minimo de USD 370/mes, regimen de maquila con tasa efectiva del 1%, y zona horaria UTC-3 alineada con el Cono Sur."
       }
     },
     {

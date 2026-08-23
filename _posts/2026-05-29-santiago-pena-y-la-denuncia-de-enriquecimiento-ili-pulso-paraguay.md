@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pulso Paraguay: Santiago Peña y la denuncia de enriquecimiento ilícito — 29 de mayo de 2026"
 description: "Santiago Peña y la denuncia de enriquecimiento ilícito: Las acusaciones sobre el patrimonio del presidente generan un intenso debate en la política nacional. Pulso Tech Paraguay — 29 de mayo de 2026."
@@ -44,9 +44,9 @@ La conmoción generada por el hallazgo de un feto en un predio baldío ha captad
 
 💰 ECONOMÍA  
 
-Oportunidades y desafíos en el comercio con India  
+Oportunidades y desafíos en el Comercio con India  
 
-Un economista ha resaltado las posibilidades de incrementar el comercio con India, destacando que las exportaciones paraguayas podrían beneficiarse significativamente, aunque también hay retos que superar, como la adaptación a estándares internacionales.
+Un economista ha resaltado las posibilidades de incrementar el Comercio con India, destacando que las exportaciones paraguayas podrían beneficiarse significativamente, aunque también hay retos que superar, como la adaptación a estándares internacionales.
 
 📊 Temperatura social: Media  
 
@@ -58,9 +58,9 @@ Cerro Porteño logró una victoria ante Sporting Cristal y, con este resultado, 
 
 📊 Temperatura social: Alta  
 
-🔹 Olimpia también avanzó en la Copa Sudamericana  
+🔹 Olimpia también avanzó en la Copa Sudaméricana  
 
-Olimpia confirmó su clasificación a los octavos de final en la Copa Sudamericana 2026, aumentando la expectativa en torno al rendimiento de los clubes paraguayos en competencias internacionales.  
+Olimpia confirmó su clasificación a los octavos de final en la Copa Sudaméricana 2026, aumentando la expectativa en torno al rendimiento de los clubes paraguayos en competencias internacionales.  
 
 🎭 ENTRETENIMIENTO & CULTURA  
 
@@ -91,7 +91,7 @@ La Dirección de Meteorología emitió alertas por tormentas intensas y posible 
 1. 🥇 Santiago Peña y la denuncia de enriquecimiento ilícito  
 2. 🥈 Cerro Porteño avanza a octavos de la Libertadores  
 3. 🥉 Hallazgo de feto en Limpio  
-4. Oportunidades en el comercio con India  
+4. Oportunidades en el Comercio con India  
 5. Alertas de tormentas intensas  
 
 💡 INSIGHT DEL DÍA  

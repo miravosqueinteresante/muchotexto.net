@@ -53,7 +53,7 @@ Tercero, la criptominería. El informe vincula el repunte de pérdidas no técni
 
 ## Conclusión
 
-El estudio Ceare es el eslabón que faltaba entre la crisis de la ANDE y la reforma institucional. [El ministerio]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %}) y [el ente regulador]({% post_url 2026-08-19-ente-regulador-energia %}) son la respuesta institucional a un problema que el estudio ya había cuantificado: una tarifa que debe subir un 39,4% para reflejar sus costos, una empresa con pérdidas del 26,5% y una morosidad que triplica la de sus pares. La [Política Energética al 2050]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) ya había ordenado la institucionalidad para 2024; el Ceare le puso los números.
+El estudio Ceare es el eslabón que faltaba entre la crisis de la ANDE y la reforma institucional. [El ministerio]({% post_url 2026-08-19-ministerio-energia-Minería-hidrocarburos %}) y [el ente regulador]({% post_url 2026-08-19-ente-regulador-energia %}) son la respuesta institucional a un problema que el estudio ya había cuantificado: una tarifa que debe subir un 39,4% para reflejar sus costos, una empresa con pérdidas del 26,5% y una morosidad que triplica la de sus pares. La [Política Energética al 2050]({% post_url 2026-08-12-mesa-energética-pen-2050-paraguay %}) ya había ordenado la institucionalidad para 2024; el Ceare le puso los números.
 
 La pregunta incómoda que el estudio deja sobre la mesa no es si la tarifa debe subir —su propia aritmética dice que sí—, sino quién decide cuándo, cuánto y a qué ritmo, y si los sectores más pobres quedarán protegidos en el proceso. El informe recomienda explícitamente usar la tarifa social de la Ley 3.480 para blindar a los vulnerables. Que eso ocurra no depende del estudio ni del regulador: depende de que, cuando la tarifa empiece a subir, haya alguien con la autoridad y la voluntad de no descargar todo el costo sobre el más débil. Ese es el verdadero examen, y ningún informe lo aprueba por sí solo.
 
@@ -67,7 +67,7 @@ El debate completo sobre energía e institucionalidad está en el [Observatorio 
 4. [ABC Color — "ANDE definirá este mes nueva tarifa técnica para Atome y todas las industrias que quieran venir"](https://www.abc.com.py/economia/2026/08/04/ande-definira-este-mes-nueva-tarifa-tecnica-para-atome-y-todas-las-industrias-que-quieran-venir/) (4 de agosto de 2026)
 5. [BACN — Ley 966/1964, Carta Orgánica de la ANDE](https://www.bacn.gov.py/leyes-paraguayas/2417/texto)
 6. [BACN — Ley 3.480/2008 "Que amplía la tarifa social de energía eléctrica"](https://www.bacn.gov.py/leyes-paraguayas/154/ley-n-3480-amplia-la-tarifa-social-de-energia-electrica)
-7. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/) (13 de agosto de 2026)
+7. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-eléctrico/) (13 de agosto de 2026)
 8. [ABC Color — "El descargo de Félix Sosa tras ser relevado de la presidencia de ANDE"](https://www.abc.com.py/nacionales/2026/07/27/el-descargo-de-felix-sosa-tras-ser-relevado-de-la-presidencia-de-ande/) (27 de julio de 2026)
 9. [CEARE-UBA — sitio institucional](https://www.ceare.org/) (para el perfil del autor del estudio)
 

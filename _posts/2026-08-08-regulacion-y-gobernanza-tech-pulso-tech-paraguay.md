@@ -11,7 +11,7 @@ tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 PULSO TECH PARAGUAY
 📅 SÁBADO 8 de agosto de 2026  |  🕐 Ultima actualizacion: 09:53
 
-📋 REGULACION Y GOBERNANZA TECH
+📋 regulación Y GOBERNANZA TECH
 
 Avance en registro criptográfico del MEC para títulos.
 El Ministerio de Educación y Ciencias (MEC) desarrolla un nuevo registro basado en tecnología criptográfica con el objetivo de prevenir la falsificación de títulos académicos y garantizar la integridad de los documentos educativos.
@@ -43,5 +43,5 @@ La jornada de hoy destaca una tendencia clara hacia la digitalización de la fe 
 🔎 FUENTES CONSULTADAS HOY
 
 - ABC Nacionales
-- ABC Tecnologia
+- ABC Tecnología
 - La Nacion

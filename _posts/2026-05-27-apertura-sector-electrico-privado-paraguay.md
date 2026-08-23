@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
 date: 2026-05-27
@@ -62,7 +62,7 @@ La experiencia internacional ofrece casos exitosos de referencia.
 
 **Uruguay** transformó su matriz en menos de una década, pasando de apagones crónicos a 98-99% de generación renovable. La clave fue una política de Estado consistente (2005-2015), contratos PPA a 20 años, y un rol estatal fuerte en la regulación y transmisión, con generación privada bajo supervisión estricta.
 
-**Chile** demostró que las subastas competitivas funcionan: más de 19 GW de ERNC operativos a fines de 2025, subastas transparentes, y un mercado que sigue atrayendo inversión. Pero también mostró las fallas del modelo: concentración de mercado en pocos actores, 40 años sin cambios estructurales en el marco regulatorio de distribución, y 158 casos documentados de injusticia distributiva en proyectos energéticos sudamericanos, según Business & Human Rights Resource Centre (2021).
+**Chile** demostró que las subastas competitivas funcionan: más de 19 GW de ERNC operativos a fines de 2025, subastas transparentes, y un mercado que sigue atrayendo inversión. Pero también mostró las fallas del modelo: concentración de mercado en pocos actores, 40 años sin cambios estructurales en el marco regulatorio de distribución, y 158 casos documentados de injusticia distributiva en proyectos energéticos Sudaméricanos, según Business & Human Rights Resource Centre (2021).
 
 **República Dominicana** probó que la velocidad en los procesos de aprobación atrae capital: 37 proyectos renovables operativos, más de USD 1.000 millones anuales de inversión, meta de 30% renovable para 2030.
 
@@ -114,7 +114,7 @@ En febrero de 2026, la licitación para la subestación Carmelo Peralta recibió
 
 En diciembre de 2025, la subasta de transformadores duró apenas 2 minutos y 16 segundos. Once de catorce empresas no fueron precalificadas. La denuncia ante la Contraloría se presentó en enero de 2026.
 
-En marzo de 2026, ANDE forzó en Contrataciones Públicas la aprobación de una licitación de limpieza por G. 27.600 millones, suspendida por denuncias de direccionamiento. Se exigía maquinaria específica y certificaciones ISO que solo dos empresas — vinculadas a contratistas actuales de ANDE — podían cumplir.
+En marzo de 2026, ANDE forzó en Contrataciones Públicas la aprobación de una licitación de limpieza por G. 27.600 millones, suspendida por denuncias de direccionamiento. Se exigía Máquinaria específica y certificaciones ISO que solo dos empresas — vinculadas a contratistas actuales de ANDE — podían cumplir.
 
 Paralelamente, ocho funcionarios de ANDE conformaron una asociación criminal para sustraer 334.213 metros lineales de cables del depósito de la sede Boggiani. El perjuicio: G. 7.200 millones. Y el expresidente de ANDE, Carlos Heisele, acusado por desvío de G. 9.400 millones, vio su caso prescribir porque el fiscal Francisco Cabrera presentó el recurso de casación 49 días después del plazo legal.
 
@@ -176,7 +176,7 @@ El expresidente de ANDE, Pedro Ferreira, advirtió que Paraguay podría "empeña
 
 X8 Cloud, empresa con sede en Los Ángeles, firmó un contrato con ANDE para construir el megacentro de IA "más grande de América Latina". Inversión proyectada: entre USD 10.000 y 50.000 millones en 30 años. Su CEO exige contratos de 30 a 50 años y tarifas específicas.
 
-[Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) — cofundador de PayPal y Palantir, entre las 90 personas más ricas del planeta según Forbes — se reunió con Peña junto a Cully Cavness, cofundador de Crusoe AI. El mensaje oficial: exploraban Paraguay como sede para centros de datos. La misma semana, [Paraguay y Taiwán firmaban el memorándum de Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto de centro de IA binacional más ambicioso de la región.
+[Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) — cofundador de PayPal y Palantir, entre las 90 personas más ricas del planeta según Forbes — se reunió con Peña junto a Cully Cavness, cofundador de Crusoe AI. El mensaje oficial: exploraban Paraguay como sede para centros de datos. La misma semana, [Paraguay y Taiwán firmaban el memorándum de Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto de centro de IA binacional más ambicioso de la región.
 
 ---
 
@@ -217,35 +217,35 @@ Seguí el análisis completo de los temas de energía en Paraguay en la [guía d
 <ol class="sources-list">
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2026/05/20/pena-reglamenta-ley-que-abre-al-sector-privado-la-generacion-de-energia-renovable/">"Peña reglamenta ley que abre al sector privado la generación de energía renovable"</a> (20 May 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2026/05/27/pena-era-socio-de-proveedor-que-recibio-us-195-millones-publicos-en-su-gobierno/">"Peña era socio de proveedor que recibió US$ 19,5 millones públicos en su gobierno"</a> (27 May 2026)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/">"Solo cuatro criptomineras consumen más que una turbina de Itaipú"</a> (16 Mar 2026)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/03/15/ande-41-empresas-consumen-el-135-de-nuestra-energia-de-itaipu/">"ANDE: 41 empresas consumen el 13,5% de nuestra energía de Itaipú"</a> (15 Mar 2026)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-Itaipú/">"Solo cuatro criptomineras consumen más que una turbina de Itaipú"</a> (16 Mar 2026)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/03/15/ande-41-empresas-consumen-el-135-de-nuestra-energia-de-Itaipú/">"ANDE: 41 empresas consumen el 13,5% de nuestra energía de Itaipú"</a> (15 Mar 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2025/12/10/ande-lote-1-costara-el-doble-de-lo-estimado-ademas-hubo-un-solo-oferente/">"ANDE: Lote 1 costará el doble de lo estimado"</a> (10 Dic 2025)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2025/04/28/mas-de-g-14-billones-de-la-itaipu-se-usaron-sin-control-en-13-meses/">"Más de G. 1,4 billones de Itaipú se usaron sin control en 13 meses"</a> (28 Abr 2025)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/nacionales/2025/04/06/pupitres-de-oro-itaipu-complaciente-ante-abierta-violacion-del-contrato/">"Pupitres de oro: Itaipú complaciente ante abierta violación del contrato"</a> (6 Abr 2025)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2025/04/28/mas-de-g-14-billones-de-la-Itaipú-se-usaron-sin-control-en-13-meses/">"Más de G. 1,4 billones de Itaipú se usaron sin control en 13 meses"</a> (28 Abr 2025)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/nacionales/2025/04/06/pupitres-de-oro-Itaipú-complaciente-ante-abierta-violacion-del-contrato/">"Pupitres de oro: Itaipú complaciente ante abierta violación del contrato"</a> (6 Abr 2025)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2026/05/26/santiago-pena-parcho-sus-ddjj-en-pleno-examen-de-contraloria/">"Santiago Peña parcheó sus DD.JJ. en pleno examen de Contraloría"</a> (26 May 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2026/05/26/mario-abdo-dice-que-pena-debe-hacerle-una-estatua-porque-en-su-gobierno-se-hizo-multimillonario/">"Mario Abdo dice que Peña debe hacerle una estatua"</a> (26 May 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2026/05/27/chats-confirman-gestion-de-senador-zacarias-irun/">"Chats confirman gestión de senador Zacarías Irún"</a> (27 May 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2025/02/18/contratos-de-ande-con-las-criptomineras-vencen-el-31-de-diciembre-de-2027-por-que/">"Contratos de ANDE con las criptomineras vencen el 31 de diciembre de 2027"</a> (18 Feb 2025)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/">"Centro de datos soberano con Taiwán: inversión de US$ 40.000 millones"</a> (13 May 2026)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/04/11/criptomineria-inyectara-us-350-millones-a-la-ande-en-2026-unos-186-mas/">"Criptominería inyectará US$ 350 millones a la ANDE en 2026"</a> (11 Abr 2026)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-Taiwán-ministro-de-industria-habla-de-inversion-de-us-40000-millones/">"Centro de datos soberano con Taiwán: inversión de US$ 40.000 millones"</a> (13 May 2026)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2026/04/11/criptoMinería-inyectara-us-350-millones-a-la-ande-en-2026-unos-186-mas/">"Criptominería inyectará US$ 350 millones a la ANDE en 2026"</a> (11 Abr 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2025/04/24/senado-pide-informe-urgente-a-la-ande-sobre-crisis-electrica-pronosticada-para-el-2029/">"Senado pide informe urgente a la ANDE sobre crisis eléctrica pronosticada para el 2029"</a> (24 Abr 2025)</li>
-<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2025/06/03/contraloria-exige-respuestas-a-la-ande-sobre-itaipu-cuestiona-34-puntos/">"Contraloría exige respuestas a la ANDE sobre Itaipú, cuestiona 34 puntos"</a> (3 Jun 2025)</li>
+<li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/economia/2025/06/03/contraloria-exige-respuestas-a-la-ande-sobre-Itaipú-cuestiona-34-puntos/">"Contraloría exige respuestas a la ANDE sobre Itaipú, cuestiona 34 puntos"</a> (3 Jun 2025)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/politica/2025/04/04/santi-aparece-como-socio-de-red-mimada-con-contratos-del-estado/">"Santi aparece como socio de red mimada con contratos del Estado"</a> (4 Abr 2025)</li>
 <li><strong>Última Hora</strong> – <a href="https://www.ultimahora.com/sector-privado-ya-puede-generar-energia-y-luego-vender-a-la-ande">"Sector privado ya puede generar energía y vender a la ANDE"</a> (21 May 2026)</li>
 <li><strong>Última Hora</strong> – <a href="https://www.ultimahora.com/denuncian-ante-contraloria-el-saqueo-energetico-y-vaciamiento-de-la-ande">"Denuncian ante Contraloría el saqueo energético y vaciamiento de la ANDE"</a> (5 Mar 2026)</li>
-<li><strong>Última Hora</strong> – <a href="https://www.ultimahora.com/electrointensivas-requieren-como-cinco-centrales-acaray">"Electrointensivas requieren como cinco centrales Acaray"</a> (6 Ene 2026)</li>
+<li><strong>Última Hora</strong> – <a href="https://www.ultimahora.com/electrointensivas-requieren-como-cinco-centrales-Acaray">"Electrointensivas requieren como cinco centrales Acaray"</a> (6 Ene 2026)</li>
 <li><strong>ABC Color</strong> – <a href="https://www.abc.com.py/nacionales/2026/05/14/corte-ordena-indagar-a-fiscal-tras-ratificar-sobreseimiento-definitivo-de-extitular-de-ande/">"Corte ordena indagar a fiscal tras ratificar sobreseimiento de extitular de ANDE"</a> (14 May 2026)</li>
 <li><strong>Yahoo Noticias / EFE</strong> – "Presidente paraguayo recibe a Peter Thiel y Cully Cavness" (13 May 2026)</li>
 <li><strong>Bitcoin Magazine</strong> – <a href="https://bitcoinmagazine.com/featured/paraguay-miners-bitcoin-mining">"Paraguay miners bitcoin mining"</a> (3 Mar 2026)</li>
 <li><strong>Asunción Times</strong> – <a href="https://asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/">"AI Data Centre Paraguay Becomes Country's Biggest-Ever Foreign Investment"</a> (8 Dec 2025)</li>
 <li><strong>BNamericas</strong> – <a href="https://www.bnamericas.com/en/interviews/my-goal-is-to-reach-5gw-of-ai-says-x8-cloud-about-mega-project-in-paraguay">"My goal is to reach 5GW of AI, says X8 Cloud"</a> (25 Sep 2025)</li>
 <li><strong>El Prisma</strong> – <a href="https://elprisma.com.py/uip-plantea-generacion-termoelectrica-para-enfrentar-el-previsible-colapso-energetico/">"UIP plantea generación termoeléctrica para enfrentar colapso energético"</a> (15 Abr 2025)</li>
-<li><strong>Ministerio de Energía (Chile)</strong> – <a href="https://energia.gob.cl/noticias/nacional/comite-de-expertos-propone-reforma-al-sector-electrico-con-foco-en-el-segmento-de-la-distribucion">Comité de Expertos propone reforma al sector distribución</a> (Mar 2026)</li>
+<li><strong>Ministerio de Energía (Chile)</strong> – <a href="https://energia.gob.cl/Noticias/nacional/comite-de-expertos-propone-reforma-al-sector-eléctrico-con-foco-en-el-segmento-de-la-distribucion">Comité de Expertos propone reforma al sector distribución</a> (Mar 2026)</li>
 <li><strong>Yale Climate Connections</strong> – <a href="https://yaleclimateconnections.org/2024/05/uruguay-pionero-en-energia-renovable">"Uruguay pionero en energía renovable"</a> (May 2024)</li>
 <li><strong>CAF</strong> – "Costa Rica lidera la transición energética en América Latina" (Feb 2025)</li>
-<li><strong>Comisión Nacional de Energía (RD)</strong> – <a href="https://cne.gob.do/noticia/37-proyectos-renovables-ya-operan-en-el-sistema-electrico-nacional">"37 proyectos renovables operan en el sistema eléctrico nacional"</a> (Jun 2025)</li>
+<li><strong>Comisión Nacional de Energía (RD)</strong> – <a href="https://cne.gob.do/noticia/37-proyectos-renovables-ya-operan-en-el-sistema-eléctrico-nacional">"37 proyectos renovables operan en el sistema eléctrico nacional"</a> (Jun 2025)</li>
 <li><strong>Poder360 / DOJ</strong> – <a href="https://www.poder360.com.br/justica/odebrecht-admitiu-nos-eua-r-3-bi-em-propinas-para-obras-de-12-paises/">"Odebrecht admitiu nos EUA R$ 3 bi em propinas para obras de 12 países"</a></li>
-<li><strong>La Jornada (México)</strong> – <a href="https://www.jornada.com.mx/noticia/2025/09/23/economia/desorden-en-generacion-causado-por-la-reforma-energetica-de-2013-aun-persiste-cenace">"Desorden en generación causado por reforma energética de 2013 aún persiste: Cenace"</a> (Sep 2025)</li>
+<li><strong>La Jornada (México)</strong> – <a href="https://www.jornada.com.mx/noticia/2025/09/23/economia/desorden-en-generacion-causado-por-la-reforma-energética-de-2013-aun-persiste-cenace">"Desorden en generación causado por reforma energética de 2013 aún persiste: Cenace"</a> (Sep 2025)</li>
 <li><strong>Business & Human Rights</strong> – <a href="https://www.business-humanrights.org/en/from-us/briefings/renewable-energy-injustice-in-latin-america/">"Renewable energy (in)justice in Latin America"</a> (2021)</li>
 <li><strong>MarketData</strong> – "El 57% de la biomasa consumida en Paraguay se destina a la industria" (Oct 2025)</li>
 <li><strong>Clym.io</strong> – <a href="https://www.clym.io/regulations/law-no-7593-paraguay">"Law No. 7593 Paraguay Data Protection"</a> (Nov 2025)</li>
@@ -266,15 +266,15 @@ Seguí el análisis completo de los temas de energía en Paraguay en la [guía d
     },
     {
       "@type": "Question",
-      "name": "Por que Paraguay necesita la reforma energetica?",
+      "name": "Por que Paraguay necesita la reforma energética?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El consumo electrico nacional crecio un 50% en tres anos, con un 18% solo en 2024. Los excedentes energeticos se agotaran entre 2030 y 2033. La ANDE necesita inversiones de USD 9.000 millones hasta 2043 pero no puede financiarlas sola."
+        "text": "El consumo eléctrico nacional crecio un 50% en tres anos, con un 18% solo en 2024. Los excedentes energeticos se agotaran entre 2030 y 2033. La ANDE necesita inversiones de USD 9.000 millones hasta 2043 pero no puede financiarlas sola."
       }
     },
     {
       "@type": "Question",
-      "name": "Cuales son los riesgos de corruption en la apertura electrica?",
+      "name": "Cuales son los riesgos de corruption en la apertura eléctrica?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "La ANDE tiene antecedentes de licitaciones direccionadas: un contrato por USD 19,2 millones con costo estimado de USD 9,6 millones con un solo oferente. Ocho funcionarios robaron 334.213 metros de cables. El presidente Pena enfrenta denuncias por enriquecimiento ilicito."

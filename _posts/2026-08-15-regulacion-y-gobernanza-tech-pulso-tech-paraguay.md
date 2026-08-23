@@ -11,7 +11,7 @@ tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 PULSO TECH PARAGUAY
 📅 SÁBADO 15 de agosto de 2026  |  🕐 Ultima actualizacion: 09:42
 
-📋 REGULACION Y GOBERNANZA TECH
+📋 regulación Y GOBERNANZA TECH
 
 Nuevas modalidades en ciberataques bancarios
 

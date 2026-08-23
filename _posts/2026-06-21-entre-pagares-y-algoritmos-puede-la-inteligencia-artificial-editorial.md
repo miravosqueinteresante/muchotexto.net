@@ -56,7 +56,7 @@ Hoy, Paraguay se encuentra zarandeado por la indignación pública que ha desata
 
 ## El peso del papel y la deuda simbólica
 
-Los pagarés, esos papeles que deberían ser simples instrumentos de crédito, se han convertido en armas letales para muchas familias paraguayas. No se trata solo de deudas impagables; se trata de la manipulación de la vulnerabilidad, el abuso de poder y la perpetuación de un sistema que, desde hace décadas, se alimenta de la desigualdad. La denuncia del Mons. Valenzuela señala que la corrupción y la pobreza no son fenómenos aislados, sino componentes de una maquinaria perfectamente aceitada, donde el sufrimiento humano no es más que el combustible que la mantiene en movimiento.
+Los pagarés, esos papeles que deberían ser simples instrumentos de crédito, se han convertido en armas letales para muchas familias paraguayas. No se trata solo de deudas impagables; se trata de la manipulación de la vulnerabilidad, el abuso de poder y la perpetuación de un sistema que, desde hace décadas, se alimenta de la desigualdad. La denuncia del Mons. Valenzuela señala que la corrupción y la pobreza no son fenómenos aislados, sino componentes de una Máquinaria perfectamente aceitada, donde el sufrimiento humano no es más que el combustible que la mantiene en movimiento.
 
 Las víctimas hablan de "indefensión absoluta", y con razón. El sistema judicial, lejos de ser un refugio, en muchos casos se convierte en otro engranaje de este mecanismo perverso. Ante la catarata de solicitudes de juicio político para los ministros de la Corte, el pueblo no clama solo por justicia, sino por algún vestigio de dignidad en un país donde las instituciones parecen tambalear al borde del abismo.
 

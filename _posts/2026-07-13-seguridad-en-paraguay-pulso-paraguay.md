@@ -46,7 +46,7 @@ Se intensifican los esfuerzos para localizar a cinco menores reportadas como des
 
 Puente de la Bioceánica se unirá esta semana: ¿cuándo se habilitará?  
 
-Se espera que el Puente de la Bioceánica se habilite esta semana, lo que podría tener un impacto significativo en el comercio y la economía de la región. Este proyecto ha sido muy esperado y podría facilitar la conexión entre Paraguay y otros países.
+Se espera que el Puente de la Bioceánica se habilite esta semana, lo que podría tener un impacto significativo en el Comercio y la economía de la región. Este proyecto ha sido muy esperado y podría facilitar la conexión entre Paraguay y otros países.
 
 📊 Temperatura social: Media  
 

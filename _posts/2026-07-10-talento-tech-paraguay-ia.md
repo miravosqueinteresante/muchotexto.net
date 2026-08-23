@@ -30,7 +30,7 @@ El resultado es una forma silenciosa de fuga de cerebros: el profesional está f
 
 ## Tres data centers, una misma competencia por talento
 
-Mientras tanto, la demanda de profesionales crece. No es solo [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}): HIVE Digital está expandiendo su capacidad de cómputo en Paraguay de 300 a 400 megavatios para minería de criptoactivos. Pardat Holding proyecta un centro de datos de 100 megavatios en Yguazú que generaría 700 empleos directos e indirectos. X8Cloud inició obras en el segundo trimestre de 2026 con una capacidad inicial de 50 megavatios.
+Mientras tanto, la demanda de profesionales crece. No es solo [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}): HIVE Digital está expandiendo su capacidad de cómputo en Paraguay de 300 a 400 megavatios para minería de criptoactivos. Pardat Holding proyecta un centro de datos de 100 megavatios en Yguazú que generaría 700 empleos directos e indirectos. X8Cloud inició obras en el segundo trimestre de 2026 con una capacidad inicial de 50 megavatios.
 
 Cada uno de estos proyectos necesita técnicos, ingenieros y administradores que compiten por el mismo pool limitado de profesionales. La demanda es acumulativa, no secuencial. Y se suma a la demanda de las empresas de servicios de TI que ya operan en el país —Applaudo, BairesDev, Kraken— y que también buscan los mismos perfiles. El mercado laboral tech paraguayo no está creciendo por capas que se complementan: todos los empleadores están pescando en la misma pecera, y la pecera es chica. Y cuando la demanda supera a la oferta en un mercado pequeño, el resultado no es que se forman más profesionales —eso lleva años— sino que los salarios suben para los pocos que hay y los proyectos se frenan para los que no pueden pagarlos.
 
@@ -49,7 +49,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 ## Fuentes
 
 - [Becal Paraguay — Estadísticas de becarios](https://www.becal.gov.py/) (3.787 becarios, 2.682 retornados)
-- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptomineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
+- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMinería-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
 - [TEDIC — "Todo lo que tenés que saber sobre la criptominería en Paraguay"](https://www.tedic.org/cripto_en_py/) (6 noviembre 2024)
 - [Wikipedia — Tiigrihüpe](https://en.wikipedia.org/wiki/Tiigrih%C3%BCpe)
 

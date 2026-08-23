@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seguridad, economía y frío — Editorial 7 de julio 2026"
-description: "El frío extremo que afecta a Paraguay este 7 de julio no solo ha impactado el clima, sino que también ha puesto en evidencia tensiones sociales y económicas que ya venían acumulándose."
+description: "Frío extremo (7/07) expone tensiones: heladas en Oriente/Chaco, robo G.50M en Minga Guazú (+70% sentimiento negativo seguridad), Ñande Feria reactiva contra inflación. Pulso 7/07."
 
 
 
@@ -47,7 +47,7 @@ description: "El frío extremo que afecta a Paraguay este 7 de julio no solo ha 
 
 
 date: 2026-07-07 18:00:00 -0400
-last_modified_at: 2026-07-07
+last_modified_at: 2026-08-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---

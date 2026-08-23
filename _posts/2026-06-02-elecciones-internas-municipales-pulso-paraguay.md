@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pulso Paraguay: Elecciones internas municipales — 2 de junio de 2026"
 description: "Elecciones internas municipales: Las elecciones internas municipales del próximo domingo generan un intenso debate y movimientos políticos significativos. Pulso Tech Paraguay — 2 de junio de 2026."
@@ -78,7 +78,7 @@ Se confirmaron cuatro casos de botulismo vinculados al consumo de alimentos en l
 
 El fenómeno de El Niño y su impacto
 
-La ONU advirtió sobre un 80% de probabilidad de que se presente El Niño entre junio y agosto, lo que podría provocar sequías severas y olas de calor. Este anuncio ha generado un debate sobre las medidas preventivas a adoptar.
+La ONU advirtió sobre un 80% de probabilidad de que se presente El Niño entre junio y agosto, lo que podría provocar sequías severas y olas de calor. Este Anuncio ha generado un debate sobre las medidas preventivas a adoptar.
 
 📊 Temperatura social: Alta
 

@@ -21,7 +21,7 @@ El banco ueno ha ejecutado una inversion en desarrollo de software que supera en
 
 🔬 CIENCIA APLICADA
 
-Analisis sobre el impacto de la tecnologia en la infancia
+Analisis sobre el impacto de la Tecnología en la infancia
 
 El especialista Miguel Angel Gaspar analiza los efectos de la exposicion temprana a entornos digitales, abordando los desafios de la soledad digital y el desarrollo cognitivo en los menores paraguayos ante el avance tecnologico.
 

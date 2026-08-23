@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "El futuro de la identidad y la conciencia"
 date: 2026-05-13
@@ -59,7 +59,7 @@ Leé más análisis sobre tecnología y sociedad en la [guía de inteligencia ar
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Como fragmenta la tecnologia nuestra identidad?",
+      "name": "Como fragmenta la Tecnología nuestra identidad?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Hoy tenemos una identidad en Instagram, otra en LinkedIn, otra en X. El articulo pregunta si el yo original aun existe cuando la mente esta repartida entre multiples perfiles, un historial de busqueda y un feed algoritmico."
@@ -78,7 +78,7 @@ Leé más análisis sobre tecnología y sociedad en la [guía de inteligencia ar
       "name": "Que es una conciencia ciberhumana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Una conciencia ciberhumana no rechaza la tecnologia sino que la usa con intencion: elegir que leer, cuando estar disponible, como relacionarse con el contenido. Reconoce que desconectarse sin culpa es parte de esa conciencia."
+        "text": "Una conciencia ciberhumana no rechaza la Tecnología sino que la usa con intencion: elegir que leer, cuando estar disponible, como relacionarse con el contenido. Reconoce que desconectarse sin culpa es parte de esa conciencia."
       }
     }
   ]

@@ -19,7 +19,7 @@ La Administración Nacional de Electricidad (ANDE) reportó un aumento del 18,2 
 
 📊 Relevancia: Alta
 
-📋 REGULACION Y GOBERNANZA TECH
+📋 regulación Y GOBERNANZA TECH
 
 Operativo Falso Match contra la ciberdelincuencia
 
@@ -47,6 +47,6 @@ El reporte de hoy evidencia una dualidad crítica en el ecosistema digital parag
 
 🔎 FUENTES CONSULTADAS HOY
 
-- ABC Tecnologia
+- ABC Tecnología
 - La Nacion
 - NPY

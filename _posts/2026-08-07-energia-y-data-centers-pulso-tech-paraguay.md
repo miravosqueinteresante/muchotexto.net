@@ -40,5 +40,5 @@ La convergencia entre la disponibilidad de energía limpia y la demanda global d
 🔎 FUENTES CONSULTADAS HOY
 
 - La Nacion
-- ABC Tecnologia
+- ABC Tecnología
 - ABC Ciencia

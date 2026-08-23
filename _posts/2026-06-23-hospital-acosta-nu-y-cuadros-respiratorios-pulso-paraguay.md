@@ -60,7 +60,7 @@ Este fin de semana vuelve la acción en la División Intermedia, lo que ha gener
 
 🔹 Cerro Porteño: altas, bajas y cartelera de amistosos  
 
-Cerro Porteño está en la mira de los hinchas con noticias sobre su plantilla y los próximos amistosos.  
+Cerro Porteño está en la mira de los hinchas con Noticias sobre su plantilla y los próximos amistosos.  
 
 🎭 ENTRETENIMIENTO & CULTURA  
 
@@ -96,7 +96,7 @@ Con la proximidad de las fiestas de San Juan, la guía de eventos ha comenzado a
 
 💡 INSIGHT DEL DÍA  
 
-El aumento de cuadros respiratorios y la insistencia en la vacunación reflejan una creciente preocupación por la salud pública en Paraguay. La conexión entre estas noticias sugiere que la población está más alerta ante problemas de salud, lo que podría influir en el comportamiento social y en la búsqueda de información.  
+El aumento de cuadros respiratorios y la insistencia en la vacunación reflejan una creciente preocupación por la salud pública en Paraguay. La conexión entre estas Noticias sugiere que la población está más alerta ante problemas de salud, lo que podría influir en el comportamiento social y en la búsqueda de información.  
 
 🔍 ANÁLISIS DE SENTIMIENTO POR CATEGORÍA  
 

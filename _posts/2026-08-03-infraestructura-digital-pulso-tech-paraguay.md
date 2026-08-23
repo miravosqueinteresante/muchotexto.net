@@ -19,7 +19,7 @@ La Dirección Nacional de Aeronáutica Civil (DINAC) avanza en la segunda etapa 
 
 📊 Relevancia: Alta
 
-📋 REGULACION Y GOBERNANZA TECH
+📋 regulación Y GOBERNANZA TECH
 
 Reforma de la Ley de Comercio Electrónico y control de espectadores.
 

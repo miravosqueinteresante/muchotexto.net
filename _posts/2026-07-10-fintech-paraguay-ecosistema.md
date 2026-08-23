@@ -88,7 +88,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Qué leyes regulan las fintechs en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dos leyes principales: la Ley 7503/2025 creó el Sistema Nacional de Pagos, expandiendo la supervisión del BCP a las fintechs y exigiendo interoperabilidad. La Ley 7572/2025 reformó el mercado de valores y reconoció los instrumentos en blockchain. Paraguay no tiene aún una Ley Fintech integral, sandbox regulatorio ni regulación de open banking."
+        "text": "Dos leyes principales: la Ley 7503/2025 creó el Sistema Nacional de Pagos, expandiendo la supervisión del BCP a las fintechs y exigiendo interoperabilidad. La Ley 7572/2025 reformó el mercado de valores y reconoció los instrumentos en blockchain. Paraguay no tiene aún una Ley Fintech Integral, sandbox regulatorio ni regulación de open banking."
       }
     }
   ]

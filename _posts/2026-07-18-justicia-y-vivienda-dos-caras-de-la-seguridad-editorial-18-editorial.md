@@ -65,8 +65,8 @@ En paralelo, la Cámara de Primera Vivienda ha propuesto ampliar el acceso al cr
 
 El Pulso destaca que la temperatura social en torno a la economía es media, con un 50% de sentimiento negativo. Esto sugiere que, aunque las iniciativas como Che Róga Porã son bien recibidas, persiste una preocupación por las dificultades económicas que enfrentan muchas familias en Paraguay. La conexión entre estabilidad económica y seguridad social es un tema que merece mayor atención en el debate público.
 
-## Seguridad, un desafío integral
+## Seguridad, un desafío Integral
 
-La intersección entre justicia, vivienda y seguridad es ineludible. Los datos del Pulso muestran que los paraguayos están cada vez más conscientes de cómo estos factores se entrelazan para influir en su calidad de vida. La alta temperatura social en torno a la seguridad y la política, combinada con la atención a las propuestas económicas, sugiere que la ciudadanía exige soluciones integrales que aborden tanto la protección inmediata como las causas estructurales de la inseguridad.
+La intersección entre justicia, vivienda y seguridad es ineludible. Los datos del Pulso muestran que los paraguayos están cada vez más conscientes de cómo estos factores se entrelazan para influir en su calidad de vida. La alta temperatura social en torno a la seguridad y la política, combinada con la atención a las propuestas económicas, sugiere que la ciudadanía exige soluciones Integrales que aborden tanto la protección inmediata como las causas estructurales de la inseguridad.
 
 En conclusión, el panorama actual en Paraguay subraya la necesidad de una respuesta coordinada que no solo refuerce la seguridad pública, sino que también aborde las desigualdades sociales y las deficiencias en el sistema judicial. La seguridad no es un fenómeno aislado; es el resultado de un entramado de factores que requieren atención simultánea y sostenida.

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pulso Paraguay: Manifestación por ingresos a la Policía — 28 de mayo de 2026"
 description: "Manifestación por ingresos a la Policía: Miles de aspirantes a la Policía Nacional se movilizaron en Asunción, lo que generó gran volumen de conversación en redes sociales y medios. Pulso Tech Paraguay — 28 de mayo de 2026."
@@ -48,9 +48,9 @@ El Ejecutivo aún no ha resuelto el proyecto que busca saldar deudas que asciend
 
 ⚽ DEPORTES  
 
-Olimpia clasifica a octavos de la Sudamericana  
+Olimpia clasifica a octavos de la Sudaméricana  
 
-Olimpia logró una remontada espectacular y venció a Audax Italiano, asegurando su lugar en los octavos de final de la Copa Sudamericana 2026.
+Olimpia logró una remontada espectacular y venció a Audax Italiano, asegurando su lugar en los octavos de final de la Copa Sudaméricana 2026.
 
 📊 Temperatura social: Media  
 
@@ -82,7 +82,7 @@ La detección de un dron sobre la Penitenciaría de Minga Guazú ha generado pre
 
 1. 🥇 Manifestación por ingresos a la Policía  
 2. 🥈 Delincuencia en Capiatá  
-3. 🥉 Clasificación de Olimpia en la Sudamericana  
+3. 🥉 Clasificación de Olimpia en la Sudaméricana  
 4. Dilación en la Ley de deudas con proveedoras  
 5. Inauguración del Museo Viedma  
 

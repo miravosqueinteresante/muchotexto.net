@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "5 tecnologías que prometieron cambiar todo pero no cambiaron nada"
 date: 2026-05-15
@@ -18,7 +18,7 @@ Acá van cinco ejemplos que vale la pena recordar, sobre todo ahora que estamos 
 
 ## 1. El Metaverso de Meta: la apuesta más cara de la historia de la tecnología
 
-En octubre de 2021, Mark Zuckerberg se paró frente a una cámara y anunció que Facebook, la empresa que lo había convertido en uno de los hombres más poderosos del planeta, ya no se iba a llamar Facebook. Iba a llamarse Meta. La empresa entera cambiaba de nombre para pivotear hacia el metaverso, que Zuckerberg describió como "la próxima frontera" de la conexión humana. Prometió que llegaría a mil millones de personas y albergaría cientos de miles de millones de dólares en comercio digital.
+En octubre de 2021, Mark Zuckerberg se paró frente a una cámara y anunció que Facebook, la empresa que lo había convertido en uno de los hombres más poderosos del planeta, ya no se iba a llamar Facebook. Iba a llamarse Meta. La empresa entera cambiaba de nombre para pivotear hacia el metaverso, que Zuckerberg describió como "la próxima frontera" de la conexión humana. Prometió que llegaría a mil millones de personas y albergaría cientos de miles de millones de dólares en Comercio digital.
 
 Cinco años después, Horizon Worlds — la plataforma estrella del metaverso de Meta — llegó a tener tan pocos usuarios activos diarios que casi podrían contarse manualmente. Una investigación independiente estimó que en 2023 tenía apenas 900 usuarios activos por día. Para ponerlo en contexto: 900 de los mil millones que Zuckerberg había prometido.
 

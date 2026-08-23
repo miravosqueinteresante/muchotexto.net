@@ -62,7 +62,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 
 - [World Bank — "Paraguay Overview: Agriculture"](https://www.worldbank.org/en/country/paraguay/overview)
 - [FAO — "Paraguay at a glance"](https://www.fao.org/paraguay/fao-in-paraguay/paraguay-at-a-glance/en/)
-- [ABC Color — "Producción lechera: 108,7 litros por día con precisión genética"](https://www.abc.com.py/negocios/2026/07/10/produccion-lechera-1087-litros-por-dia-con-genetica-de-precision/) (10 julio 2026)
+- [ABC Color — "Producción lechera: 108,7 litros por día con precisión genética"](https://www.abc.com.py/negocios/2026/07/10/produccion-lechera-1087-litros-por-dia-con-genética-de-precision/) (10 julio 2026)
 - [BID Lab — "Smart Soil Py: agricultura inteligente"](https://www.iadb.org/es/project/PR-T1251)
 - [NASA — "Landsat 9: Earth observation"](https://landsat.gsfc.nasa.gov/satellites/landsat-9/)
 - [ESA — "Copernicus Sentinel-2"](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)

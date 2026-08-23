@@ -8,7 +8,7 @@ tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucio
 description: "Paraguay prepara su Ministerio de Energía, Minería e Hidrocarburos con tres viceministerios y financiamiento por regalías. Qué absorbería y qué omite."
 ---
 
-Por primera vez en su historia, Paraguay tiene sobre la mesa un texto legal completo para crear el ministerio que su sector energético nunca tuvo. No es un anuncio ni una promesa: es un proyecto de ley de 27 artículos, publicado el 13 de agosto de 2026 en la Mesa Nacional del Sector Eléctrico, que crea el Ministerio de Energía, Minería e Hidrocarburos con tres viceministerios, absorbe dos dependencias públicas y se financia con regalías que hoy van a otra parte.
+Por primera vez en su historia, Paraguay tiene sobre la mesa un texto legal completo para crear el ministerio que su sector energético nunca tuvo. No es un Anuncio ni una promesa: es un proyecto de ley de 27 artículos, publicado el 13 de agosto de 2026 en la Mesa Nacional del Sector Eléctrico, que crea el Ministerio de Energía, Minería e Hidrocarburos con tres viceministerios, absorbe dos dependencias públicas y se financia con regalías que hoy van a otra parte.
 
 > **En resumen:**
 > - El proyecto crea el Ministerio de Energía, Minería e Hidrocarburos con tres viceministerios: Energía, Minería e Hidrocarburos.
@@ -65,7 +65,7 @@ Tercero, el reparto de regalías mineras es una batalla territorial en potencia.
 
 El proyecto del Ministerio de Energía, Minería e Hidrocarburos es, al mismo tiempo, lo más ambicioso y lo más conservador de la agenda energética paraguaya. Ambicioso, porque reúne por primera vez en una sola cartera la energía, la minería y los hidrocarburos, con tres viceministerios y financiamiento propio. Conservador, porque respeta los límites de la rectoría sectorial, no toca la autonomía de la ANDE y deja a las binacionales fuera de su alcance.
 
-La pregunta que queda no es si Paraguay necesita este ministerio —el consenso técnico, de Cáceres a Oxilia, es abrumador— sino si el texto logrará convertirse en ley antes de que el sector vuelva a quedar atrás. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) y no se cumplió. El [modelo institucional de PSR]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %}) ya había trazado este mapa en septiembre de 2025. Ahora el Congreso tiene el texto en la mano, y por primera vez la creación del ministerio deja de ser una promesa para convertirse en un borrador que se puede enmendar, votar o rechazar.
+La pregunta que queda no es si Paraguay necesita este ministerio —el consenso técnico, de Cáceres a Oxilia, es abrumador— sino si el texto logrará convertirse en ley antes de que el sector vuelva a quedar atrás. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energética-pen-2050-paraguay %}) y no se cumplió. El [modelo institucional de PSR]({% post_url 2026-08-19-modelo-institucional-psr-sector-eléctrico %}) ya había trazado este mapa en septiembre de 2025. Ahora el Congreso tiene el texto en la mano, y por primera vez la creación del ministerio deja de ser una promesa para convertirse en un borrador que se puede enmendar, votar o rechazar.
 
 El debate completo sobre energía e institucionalidad está en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
@@ -78,14 +78,14 @@ El debate completo sobre energía e institucionalidad está en el [Observatorio 
 5. [BACN — Ley 7278/2024 "Que regula la Organización Administrativa del Estado" (rectoría sectorial, arts. 35-37)](https://www.bacn.gov.py/leyes-paraguayas/12597/ley-n-72782024-que-regula-la-organizacion-administrativa-del-estado)
 6. [BACN — Ley 4.935/2013 que modifica la Ley 3.180/2007 "De Minería" (regalía progresiva 2%-8,4%)](https://www.bacn.gov.py/leyes-paraguayas/1144/ley-n-4935-modifica-y-ampl-a-la-ley-n-3-180-07-de-miner-a-modificada-por-la-ley-n-4-269-11-br)
 7. [BACN — Ley 4.592/2012 (distribución de regalías: 50% Estado / 25% dptos / 25% municipios)](https://www.bacn.gov.py/leyes-paraguayas/2584/ley-n-4592-establece-la-distribuci-n-y-deposito-de-parte-de-las-denominadas-relagias-a-los-gobiernos-departamentales-y-municipales-br)
-8. [BACN — Ley 675/1960 (régimen de hidrocarburos, regalías 10-15%)](https://www.bacn.gov.py/leyes-paraguayas/2617/ley-n-675-establece-el-regimen-legal-para-la-prospeccion-exploracion-y-explotacion-de-petroleo-y-otros-hidrocarburos-br)
+8. [BACN — Ley 675/1960 (régimen de hidrocarburos, regalías 10-15%)](https://www.bacn.gov.py/leyes-paraguayas/2617/ley-n-675-establece-el-regimen-legal-para-la-prospeccion-exploracion-y-explotacion-de-petróleo-y-otros-hidrocarburos-br)
 9. [VMME-MOPC — Historia y funciones del Viceministerio de Minas y Energía](https://minasyenergia.mopc.gov.py/index.php?option=com_content&view=article&id=1212&Itemid=578)
 10. [MIC — Trámites y marco legal de Combustibles](https://www.mic.gov.py/marco-legal/)
-11. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/) (13 de agosto de 2026)
-12. [La Nación — "Ejecutivo planteará la creación del Ministerio de Energía ante la Mesa Energética Nacional"](https://www.lanacion.com.py/politica/2026/08/11/ejecutivo-planteara-la-creacion-del-ministerio-de-energia-ante-la-mesa-energetica-nacional/) (11 de agosto de 2026)
+11. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-eléctrico/) (13 de agosto de 2026)
+12. [La Nación — "Ejecutivo planteará la creación del Ministerio de Energía ante la Mesa Energética Nacional"](https://www.lanacion.com.py/politica/2026/08/11/ejecutivo-planteara-la-creacion-del-ministerio-de-energia-ante-la-mesa-energética-nacional/) (11 de agosto de 2026)
 13. [La Nación — "Expertos avalan nuevo Ministerio de Energía pero exigen blindar funciones de la ANDE"](https://www.lanacion.com.py/politica/2026/08/14/expertos-avalan-nuevo-ministerio-de-energia-pero-exigen-blindar-funciones-de-la-ande/) (14 de agosto de 2026)
 14. [La Nación — "Ente regulador energético debe ser 'técnico e independiente del poder político', dice experto"](https://www.lanacion.com.py/politica/2026/08/15/ente-regulador-energetico-debe-ser-tecnico-e-independiente-del-poder-politico-dice-experto/) (15 de agosto de 2026)
-15. [Última Hora — "Aplauden plan para sector eléctrico, pero piden celeridad y bajar pérdidas"](https://www.ultimahora.com/aplauden-plan-para-sector-electrico-pero-piden-celeridad-y-bajar-perdidas) (15 de agosto de 2026)
+15. [Última Hora — "Aplauden plan para sector eléctrico, pero piden celeridad y bajar pérdidas"](https://www.ultimahora.com/aplauden-plan-para-sector-eléctrico-pero-piden-celeridad-y-bajar-perdidas) (15 de agosto de 2026)
 
 <script type="application/ld+json">
 {

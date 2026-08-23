@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "¿Qué es realmente el fútbol?"
 date: 2026-06-10
@@ -126,7 +126,7 @@ Nelson Mandela (líder sudafricano) dijo: *"El deporte tiene el poder de cambiar
 
 En 1971, Pier Paolo Pasolini (cineasta, poeta y escritor italiano) publicó un artículo titulado "Il calcio è un linguaggio con i suoi poeti e prosatori" —El fútbol es un lenguaje con sus poetas y prosistas—. Su tesis era radical: el fútbol es un sistema semiótico completo, un lenguaje con todas las características fundamentales del lenguaje: un sistema de signos, una gramática, una sintaxis.
 
-Pasolini dividió el fútbol en dos categorías. El "calcio di prosa" es el fútbol europeo: racional, táctico, colectivo. Un partido de prosa es como un discurso bien estructurado. El "calcio di poesia" es el fútbol sudamericano, especialmente el brasileño: basado en la improvisación, el talento individual, el regate. *"El regate y el gol son los momentos individualistas-poéticos del fútbol; por eso el fútbol brasileño es poesía"*, escribió.
+Pasolini dividió el fútbol en dos categorías. El "calcio di prosa" es el fútbol europeo: racional, táctico, colectivo. Un partido de prosa es como un discurso bien estructurado. El "calcio di poesia" es el fútbol Sudaméricano, especialmente el brasileño: basado en la improvisación, el talento individual, el regate. *"El regate y el gol son los momentos individualistas-poéticos del fútbol; por eso el fútbol brasileño es poesía"*, escribió.
 
 Mario Benedetti (escritor uruguayo) lo resumió así: *"El fútbol es el único lenguaje verdaderamente universal que tenemos. Un gol en Montevideo se celebra igual que un gol en Buenos Aires, en São Paulo o en la Ciudad de México. Esa es nuestra verdadera lengua franca."*
 

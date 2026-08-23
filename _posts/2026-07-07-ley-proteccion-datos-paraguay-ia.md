@@ -8,9 +8,9 @@ tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025). Entra en vigor en noviembre de 2027, el mismo año que abre Yguazú Digital. Alcanza o llega tarde?"
 ---
 
-En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera: va a entrar en vigor la Ley 7593, la primera ley integral de protección de datos personales de la historia del país. La segunda: va a abrir sus puertas la primera fase de Yguazú Digital, el centro de datos de inteligencia artificial con Taiwán. Dos instituciones que van a convivir, una al lado de la otra, sin que nadie haya puesto sobre la mesa si la primera está a la altura de la segunda.
+En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera: va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda: va a abrir sus puertas la primera fase de Yguazú Digital, el centro de datos de inteligencia artificial con Taiwán. Dos instituciones que van a convivir, una al lado de la otra, sin que nadie haya puesto sobre la mesa si la primera está a la altura de la segunda.
 
-Paraguay fue, hasta noviembre de 2025, el último país de Sudamérica —junto con Bolivia— sin una ley integral de protección de datos. Tenía artículos sueltos en la Constitución (el 33, el 36, el 135 de habeas data), una ley de datos crediticios (la 6534/2020) y una de comercio electrónico (la 4868/2013). Pero no existía una autoridad nacional, no había obligación de notificar brechas de seguridad, no se sabía qué pasaba con los datos de un paraguayo si terminaban en un servidor en otro continente. La Ley 7593/2025 cambió eso. La pregunta es si cambió lo suficiente.
+Paraguay fue, hasta noviembre de 2025, el último país de Sudamérica —junto con Bolivia— sin una ley Integral de protección de datos. Tenía artículos sueltos en la Constitución (el 33, el 36, el 135 de habeas data), una ley de datos crediticios (la 6534/2020) y una de Comercio electrónico (la 4868/2013). Pero no existía una autoridad nacional, no había obligación de notificar brechas de seguridad, no se sabía qué pasaba con los datos de un paraguayo si terminaban en un servidor en otro continente. La Ley 7593/2025 cambió eso. La pregunta es si cambió lo suficiente.
 
 ## De la nada al GDPR criollo: qué trae la Ley 7593
 
@@ -38,9 +38,9 @@ La experiencia brasileña, que es el espejo más cercano, muestra que implementa
 
 La simultaneidad es incómoda. La Ley 7593 entra en vigor en noviembre de 2027. La fase 1 de Yguazú Digital —10 megavatios, 200 millones de dólares, enfocada en procesar datos del gobierno paraguayo: registros médicos, impositivos, sistemas de vigilancia— apunta a estar operativa para fines de ese mismo año.
 
-En el [análisis que publicamos sobre Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), detallamos la magnitud del proyecto: tres fases, de 10 MW a 1 GW, inversión total aspiracional de 40.000 millones de dólares, modelo de gestión binacional copiado de Itaipú. Lo que no mencionamos en ese artículo —porque no estaba en ningún documento público— es que el memorándum de entendimiento entre Paraguay y Taiwán no contiene una sola línea sobre protección de datos. Ni privacidad, ni autoridad de control, ni reglas de transferencia transfronteriza. Cero.
+En el [análisis que publicamos sobre Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), detallamos la magnitud del proyecto: tres fases, de 10 MW a 1 GW, inversión total aspiracional de 40.000 millones de dólares, modelo de gestión binacional copiado de Itaipú. Lo que no mencionamos en ese artículo —porque no estaba en ningún documento público— es que el memorándum de entendimiento entre Paraguay y Taiwán no contiene una sola línea sobre protección de datos. Ni privacidad, ni autoridad de control, ni reglas de transferencia transfronteriza. Cero.
 
-A esto se suma un problema jurisdiccional que la ley paraguaya no resuelve. Si Google, Microsoft o Amazon —empresas que el fondo taiwanés ICDF ya contactó para sondear interés— almacenan datos en Yguazú Digital, la ley estadounidense CLOUD Act permite que las autoridades de Estados Unidos exijan acceso a esos datos independientemente de dónde estén físicamente. Paraguay no tiene un acuerdo bilateral con Estados Unidos bajo el marco de la CLOUD Act que le permita negociar, condicionar o rechazar esos pedidos. Los datos estarían en suelo paraguayo, pero sujetos a una jurisdicción que Paraguay no controla.
+A esto se suma un problema jurisdiccional que la ley paraguaya no resuelve. Si Google, Microsoft o Amazon —empresas que el fondo Taiwánés ICDF ya contactó para sondear interés— almacenan datos en Yguazú Digital, la ley estadounidense CLOUD Act permite que las autoridades de Estados Unidos exijan acceso a esos datos independientemente de dónde estén físicamente. Paraguay no tiene un acuerdo bilateral con Estados Unidos bajo el marco de la CLOUD Act que le permita negociar, condicionar o rechazar esos pedidos. Los datos estarían en suelo paraguayo, pero sujetos a una jurisdicción que Paraguay no controla.
 
 El ejemplo de Estonia es instructivo, y en sentido inverso. Estonia almacena copias de sus datos gubernamentales en un centro de datos en Luxemburgo —su "embajada de datos"— bajo un acuerdo que establece explícitamente que esos datos retienen soberanía estonia aunque estén físicamente en Luxemburgo. Paraguay está en la situación opuesta: va a alojar datos extranjeros sin haber negociado qué soberanía se aplica. El modelo Itaipú, que el gobierno cita explícitamente como inspiración para la gobernanza del centro de datos, tiene un historial de operar con opacidad y fuera de los marcos regulatorios domésticos normales.
 
@@ -74,11 +74,11 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
 
 - [TEDIC — "La ley sobre la protección de datos personales en Paraguay: Un logro colectivo"](https://www.tedic.org/la-ley-sobre-la-proteccion-de-datos-personales-en-paraguay-un-logro-colectivo-basado-en-evidencia-y-participacion-plural/) (28 noviembre 2025)
 - [BACN — Ley Nº 7593/2025 de Protección de Datos Personales](https://www.bacn.gov.py/leyes-paraguayas/12924/ley-n-75932025-de-proteccion-de-datos-personales-en-la-republica-del-paraguay)
-- [Senado.gov.py — "Senado ratificó su versión del proyecto de Protección de Datos Personales"](https://www.senado.gov.py/index.php/noticias/noticias-presidencia/16067-senado-ratifico-su-version-del-proyecto-de-proteccion-de-datos-personales-2025-11-05-17-57-40) (5 noviembre 2025)
+- [Senado.gov.py — "Senado ratificó su versión del proyecto de Protección de Datos Personales"](https://www.senado.gov.py/index.php/Noticias/Noticias-presidencia/16067-senado-ratifico-su-version-del-proyecto-de-proteccion-de-datos-personales-2025-11-05-17-57-40) (5 noviembre 2025)
 - [La Nación — "Ley de Protección de Datos: implicancias, desafíos e impacto transversal"](https://www.lanacion.com.py/negocios/2025/12/03/ley-de-proteccion-de-datos-implicancias-desafios-e-impacto-transversal-en-toda-la-economia-paraguaya/) (3 diciembre 2025)
 - [BKM Berkemeyer — "Análisis de la Ley N° 7593/2025 de Protección de Datos Personales"](https://www.berke.com.py/analisis-de-la-ley-n-7593-2025-de-proteccion-de-datos-personales-de-paraguay1/) (noviembre 2025)
 - [DLA Piper — Data Protection Handbook: Paraguay](https://www.dlapiperdataprotection.com/index.html?t=law&c=PY) (actualizado 30 marzo 2026)
-- [Bloomberg Línea — "Taiwán ayudará a financiar un centro de datos de IA de US$200 millones en Paraguay"](https://www.bloomberglinea.com/latinoamerica/taiwan-ayudara-a-financiar-un-centro-de-datos-de-ia-de-us200-millones-en-paraguay/) (12 junio 2026)
+- [Bloomberg Línea — "Taiwán ayudará a financiar un centro de datos de IA de US$200 millones en Paraguay"](https://www.bloomberglinea.com/latinoamerica/Taiwán-ayudara-a-financiar-un-centro-de-datos-de-ia-de-us200-millones-en-paraguay/) (12 junio 2026)
 - [IAPP — "Lessons from Brazilian DPA sanctions to date"](https://iapp.org/news/a/lessons-from-brazilian-dpa-sanctions-to-date) (8 octubre 2024)
 - [ABC Color — "Camino hacia la protección de datos en Paraguay"](https://www.abc.com.py/negocios/2025/06/04/camino-hacia-la-proteccion-de-datos-en-paraguay/) (4 junio 2025)
 
@@ -92,7 +92,7 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
       "name": "Que establece la Ley 7593/2025 de proteccion de datos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Es la primera ley integral de proteccion de datos de Paraguay, sancionada el 5 de noviembre de 2025 con 24 votos. Establece 10 principios, derechos ARCO, notificacion de brechas en 72 horas y alcance extraterritorial copiando al GDPR europeo."
+        "text": "Es la primera ley Integral de proteccion de datos de Paraguay, sancionada el 5 de noviembre de 2025 con 24 votos. Establece 10 principios, derechos ARCO, notificacion de brechas en 72 horas y alcance extraterritorial copiando al GDPR europeo."
       }
     },
     {
@@ -105,10 +105,10 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
     },
     {
       "@type": "Question",
-      "name": "Como se relaciona la ley de datos con Yguazu Digital?",
+      "name": "Como se relaciona la ley de datos con Yguazú Digital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El MOU de Yguazu Digital no contiene ninguna clausula sobre proteccion de datos. La ley no regula datos extranjeros en servidores paraguayos. La ley estadounidense CLOUD Act permite que EE.UU. exija acceso a datos de empresas estadounidenses aunque esten en Paraguay."
+        "text": "El MOU de Yguazú Digital no contiene ninguna clausula sobre proteccion de datos. La ley no regula datos extranjeros en servidores paraguayos. La ley estadounidense CLOUD Act permite que EE.UU. exija acceso a datos de empresas estadounidenses aunque esten en Paraguay."
       }
     }
   ]

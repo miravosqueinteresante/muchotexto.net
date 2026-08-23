@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Bienvenidos a muchotexto.net"
 date: 2026-05-10
@@ -42,7 +42,7 @@ Este espacio nace de la convicción de que **la lectura profunda todavía vale l
 
 ## Lo que vas a encontrar
 
-- **Pulso Paraguay**: Reporte diario automatizado con las noticias más relevantes del país.
+- **Pulso Paraguay**: Reporte diario automatizado con las Noticias más relevantes del país.
 - **Editorial Diaria**: Análisis de opinión generado por IA, con profundidad cultural y política.
 - **Artículos de fondo**: Ensayos sobre tecnología, filosofía, sociedad paraguaya y más.
 
@@ -72,7 +72,7 @@ Para seguir explorando estos temas, visitá la [guía completa de inteligencia a
       "name": "Que es muchotexto.net?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "muchotexto.net es un espacio de lectura profunda sobre inteligencia artificial, tecnologia y sociedad desde Paraguay. Publica articulos de 1.500 a 2.500 palabras con fuentes verificables, una editorial diaria de opinion y el Pulso Paraguay, un reporte automatizado que sintetiza las noticias del pais desde 15 fuentes periodisticas."
+        "text": "muchotexto.net es un espacio de lectura profunda sobre inteligencia artificial, Tecnología y sociedad desde Paraguay. Publica articulos de 1.500 a 2.500 palabras con fuentes verificables, una editorial diaria de opinion y el Pulso Paraguay, un reporte automatizado que sintetiza las Noticias del pais desde 15 fuentes periodisticas."
       }
     },
     {
@@ -88,7 +88,7 @@ Para seguir explorando estos temas, visitá la [guía completa de inteligencia a
       "name": "Que temas cubre muchotexto.net?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El sitio cubre 5 pilares: infraestructura y energia (Yguazu Digital, criptomineria, ANDE), geopolitica y regulacion tech (China-Taiwan, proteccion de datos), IA sociedad y trabajo (anotacion de datos, educacion tech), tecnologia aplicada (blockchain, fintech), y cultura filosofia y futuro (etica de la IA, identidad digital)."
+        "text": "El sitio cubre 5 pilares: Infraestructura y energía (Yguazú Digital, criptoMinería, ANDE), geopolítica y regulación tech (China-Taiwán, proteccion de datos), IA sociedad y trabajo (anotacion de datos, educacion tech), tecnología aplicada (blockchain, fintech), y cultura filosofía y futuro (ética de la IA, identidad digital)."
       }
     }
   ]

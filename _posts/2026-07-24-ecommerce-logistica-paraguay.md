@@ -8,9 +8,9 @@ tags: tech-ecosistema ia-paraguay paraguay ia
 description: "El e-commerce paraguayo mueve hasta USD 2.180M y crece al 40% anual. Pero las direcciones no estandarizadas frenan la logística. Qué puede hacer la IA."
 ---
 
-Paraguay tiene uno de los mercados de comercio electrónico de más rápido crecimiento en América Latina —entre 23% y 40% anual según la fuente— pero entrega paquetes usando referencias como "al lado de la farmacia" porque el país nunca estandarizó sus direcciones. Ocho de cada diez paraguayos ya compran online. El 55% de las compras son a vendedores locales según encuestas de Capace (mayo 2025). Por volumen de transacciones, el 77% del comercio electrónico es transfronterizo según PCMI —dos métricas distintas que reflejan hábitos de compra diferentes. El comercio electrónico explotó. La logística todavía está en 1995.
+Paraguay tiene uno de los mercados de Comercio electrónico de más rápido crecimiento en América Latina —entre 23% y 40% anual según la fuente— pero entrega paquetes usando referencias como "al lado de la farmacia" porque el país nunca estandarizó sus direcciones. Ocho de cada diez paraguayos ya compran online. El 55% de las compras son a vendedores locales según encuestas de Capace (mayo 2025). Por volumen de transacciones, el 77% del Comercio electrónico es transfronterizo según PCMI —dos métricas distintas que reflejan hábitos de compra diferentes. El Comercio electrónico explotó. La logística todavía está en 1995.
 
-El tamaño del mercado depende de a quién le preguntes. La consultora PCMI midió USD 700 millones en comercio minorista online en 2024. La Cámara Paraguaya de Comercio Electrónico (Capace) prefiere hablar de USD 2.180 millones cuando incluye toda la economía digital —pagos electrónicos, servicios, plataformas. La verdad probablemente esté en el medio, pero el consenso es claro: el comercio electrónico crece a un ritmo que ningún otro sector de la economía paraguaya puede igualar, impulsado por tres factores que convergieron en los últimos tres años: la pandemia que forzó la digitalización, la expansión de los pagos QR y las billeteras móviles, y la llegada de infraestructura logística que antes no existía.
+El tamaño del mercado depende de a quién le preguntes. La consultora PCMI midió USD 700 millones en Comercio minorista online en 2024. La Cámara Paraguaya de Comercio Electrónico (Capace) prefiere hablar de USD 2.180 millones cuando incluye toda la economía digital —pagos electrónicos, servicios, plataformas. La verdad probablemente esté en el medio, pero el consenso es claro: el Comercio electrónico crece a un ritmo que ningún otro sector de la economía paraguaya puede igualar, impulsado por tres factores que convergieron en los últimos tres años: la pandemia que forzó la digitalización, la expansión de los pagos QR y las billeteras móviles, y la llegada de infraestructura logística que antes no existía.
 
 ## Paraguay ya no es un desierto logístico
 
@@ -20,13 +20,13 @@ El problema no es la infraestructura gruesa. Es el último kilómetro.
 
 Paraguay no tiene un sistema de direcciones estandarizado. No existe un equivalente funcional al CEP brasileño o al CPA argentino. Las direcciones se describen con referencias —"a 50 metros de la iglesia, casa de dos plantas con rejas verdes"— que ningún algoritmo de optimización de rutas puede procesar. Para un repartidor humano que conoce el barrio, funciona. Para un sistema de logística que necesita escalar a 120 ciudades como el que opera [AEX](https://www.aex.com.py/), la empresa de logística más grande del país fundada en 1996, es una pesadilla operativa.
 
-AEX es el caso más interesante del ecosistema logístico paraguayo. Con 5 sucursales y 107 agencias que cubren el 87% de la población, opera e-Lockers —casilleros inteligentes con apertura por QR— y una red de Puntos AEX en comercios adheridos que funcionan como puntos de retiro. Ganó los E-commerce Awards 2025 y ofrece integración vía API para Shopify. Pero incluso AEX depende de la misma base de datos de direcciones que todo el mundo. El 77% del comercio electrónico paraguayo es transfronterizo —los productos vienen de Miami, São Paulo o Shenzhen—, lo que significa que cada paquete que entra al país tiene que ser redirigido a una dirección que el sistema postal internacional no puede interpretar.
+AEX es el caso más interesante del ecosistema logístico paraguayo. Con 5 sucursales y 107 agencias que cubren el 87% de la población, opera e-Lockers —casilleros inteligentes con apertura por QR— y una red de Puntos AEX en Comercios adheridos que funcionan como puntos de retiro. Ganó los E-commerce Awards 2025 y ofrece integración vía API para Shopify. Pero incluso AEX depende de la misma base de datos de direcciones que todo el mundo. El 77% del Comercio electrónico paraguayo es transfronterizo —los productos vienen de Miami, São Paulo o Shenzhen—, lo que significa que cada paquete que entra al país tiene que ser redirigido a una dirección que el sistema postal internacional no puede interpretar.
 
 ## Donde crece el dinero digital
 
 [Paraguay tiene más fintechs que bancos](/articulos/2026/07/10/fintech-paraguay-ecosistema/) y esa transformación financiera es el combustible del e-commerce. El Sistema de Pagos Instantáneos (SIP) del Banco Central procesa transferencias en tiempo real en horario ampliado durante días hábiles. Los pagos QR —impulsados por Bancard, la procesadora dominante— crecen a doble dígito mensual. Las billeteras móviles como Personal Pay, Tigo Money, Mango y Ueno compiten por cada transacción. En julio de 2026, el BCP emitió un nuevo reglamento tarifario que busca transparentar las comisiones de los medios de pago electrónicos, una señal de que el regulador ya trata a los pagos digitales como infraestructura crítica y no como un nicho.
 
-El 81% de las compras online en Paraguay se hacen desde un celular. El comercio electrónico paraguayo es mobile-first por necesidad, no por estrategia: el teléfono es la primera —y muchas veces única— computadora de una parte significativa de la población. Pero el abandono de carrito sigue siendo un problema no medido con precisión. Las razones probables son las mismas que en cualquier mercado emergente: fricción en el checkout, desconfianza en el vendedor, costos de envío no transparentes.
+El 81% de las compras online en Paraguay se hacen desde un celular. El Comercio electrónico paraguayo es mobile-first por necesidad, no por estrategia: el teléfono es la primera —y muchas veces única— computadora de una parte significativa de la población. Pero el abandono de carrito sigue siendo un problema no medido con precisión. Las razones probables son las mismas que en cualquier mercado emergente: fricción en el checkout, desconfianza en el vendedor, costos de envío no transparentes.
 
 ## Lo que la IA ya hace en logística (y Paraguay todavía no)
 
@@ -65,7 +65,7 @@ La solución no es futurista. Es regulatoria y de datos. Un sistema de direccion
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "¿Cuánto mueve el comercio electrónico en Paraguay?",
+      "name": "¿Cuánto mueve el Comercio electrónico en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Entre USD 700 millones en 2024 (retail online, según PCMI) y USD 2.180 millones en 2025 (economía digital total, según Capace). El mercado crece entre 23% y 40% anual, uno de los ritmos más rápidos de América Latina. El 81% de las compras se hacen desde celulares y 8 de cada 10 paraguayos ya compran online."
@@ -84,7 +84,7 @@ La solución no es futurista. Es regulatoria y de datos. Un sistema de direccion
       "name": "¿Qué empresas lideran la logística del e-commerce en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AEX es la empresa más grande, operando desde 1996 con cobertura en más de 120 ciudades. Opera e-Lockers (casilleros inteligentes con QR) y Puntos AEX (red de retiro en comercios). Ofrece integración API para Shopify y ganó los E-commerce Awards 2025. También operan Paraguay Courier, DHL y otros jugadores internacionales."
+        "text": "AEX es la empresa más grande, operando desde 1996 con cobertura en más de 120 ciudades. Opera e-Lockers (casilleros inteligentes con QR) y Puntos AEX (red de retiro en Comercios). Ofrece integración API para Shopify y ganó los E-commerce Awards 2025. También operan Paraguay Courier, DHL y otros jugadores internacionales."
       }
     }
   ]

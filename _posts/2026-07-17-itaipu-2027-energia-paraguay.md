@@ -30,7 +30,7 @@ La Administración Nacional de Electricidad opera una red de transmisión que no
 
 Esto significa que incluso si Paraguay obtuviera las mejores condiciones posibles en la renegociación —más energía para uso propio, libertad total de venta a terceros—, no tendría cómo transportarla. La energía está en Itaipú, en la frontera con Brasil, a 300 kilómetros de Asunción. La línea de transmisión que debería llevarla a los centros de consumo no existe.
 
-La demanda eléctrica paraguaya crece a un ritmo de entre el 5% y el 8% anual, impulsada por la expansión de la criptominería, [que ya convirtió a Paraguay en el cuarto mayor minero de bitcoin del mundo]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}), los centros de datos y el crecimiento económico general. Si ese ritmo se mantiene, Paraguay podría necesitar toda su energía de Itaipú para consumo doméstico en menos de quince años. En ese escenario, la pregunta deja de ser "¿cuánto nos paga Brasil?" y pasa a ser "¿tenemos suficiente para nosotros?".
+La demanda eléctrica paraguaya crece a un ritmo de entre el 5% y el 8% anual, impulsada por la expansión de la criptominería, [que ya convirtió a Paraguay en el cuarto mayor minero de bitcoin del mundo]({% post_url 2026-07-07-criptoMinería-paraguay-energia-barata %}), los centros de datos y el crecimiento económico general. Si ese ritmo se mantiene, Paraguay podría necesitar toda su energía de Itaipú para consumo doméstico en menos de quince años. En ese escenario, la pregunta deja de ser "¿cuánto nos paga Brasil?" y pasa a ser "¿tenemos suficiente para nosotros?".
 
 ## Lo que pasó en 2009 (y por qué importa ahora)
 
@@ -69,11 +69,11 @@ Leé el análisis completo sobre infraestructura y energía en la [guía de inte
 ## Fuentes
 
 - [Wikipedia — Tratado de Itaipú](https://es.wikipedia.org/wiki/Tratado_de_Itaip%C3%BA) — historia, estructura, Anexo C
-- [Wilson Center — "Brazil, Paraguay, and the Future of Itaipú"](https://www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-itaipu) (2021)
+- [Wilson Center — "Brazil, Paraguay, and the Future of Itaipú"](https://www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-Itaipú) (2021)
 - [Última Hora — "Qué dice el nuevo acuerdo de Itaipú: los 7 puntos claves"](https://www.ultimahora.com/) (mayo 2024)
 - [La Nación — "Anexo C: Tratado debe mantener la misión de Itaipú como motor de desarrollo"](https://www.lanacion.com.py/) (febrero 2025)
 - [El País — "Paraguay convoca al embajador de Brasil por un caso de espionaje"](https://elpais.com/america/2025-04-02/paraguay-convoca-al-embajador-de-brasil-en-asuncion-por-un-caso-de-espionaje.html) (abril 2025)
-- [Wikipedia — Itaipu Dam](https://en.wikipedia.org/wiki/Itaipu_Dam) — datos técnicos, capacidad, generación
+- [Wikipedia — Itaipú Dam](https://en.wikipedia.org/wiki/Itaipú_Dam) — datos técnicos, capacidad, generación
 - [New York Times — "In Paraguay, a Deal With Brazil Has the Energy to Transform"](https://www.nytimes.com/2009/07/27/world/americas/27paraguay.html) (julio 2009)
 - [The Economist — "Paraguay's flourishing cryptomining industry"](https://www.economist.com/) (julio 2024)
 

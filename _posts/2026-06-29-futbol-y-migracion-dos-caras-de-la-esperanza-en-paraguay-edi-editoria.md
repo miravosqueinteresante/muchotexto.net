@@ -26,7 +26,7 @@ La conexión entre estos temas es evidente. Mientras el fútbol ofrece una vía 
 
 El análisis de sentimiento del día muestra un contraste interesante. Mientras el fútbol genera un 70% de emociones positivas y una temperatura social alta, temas como la falta de medicamentos en el Hospital Regional de Caacupé y la migración de jóvenes tienen una carga negativa significativa. Esto evidencia una dualidad en la percepción social: por un lado, el entusiasmo por el Mundial; por otro, la preocupación por problemas que afectan directamente la calidad de vida de los paraguayos.
 
-La economía también ocupa un lugar destacado, con el anuncio del Ministerio de Hacienda sobre el desembolso de 50 millones de dólares para el pago a proveedores del Estado. Aunque este movimiento busca aliviar la liquidez de las empresas, no parece suficiente para contrarrestar el descontento generalizado por la falta de empleo y servicios básicos.
+La economía también ocupa un lugar destacado, con el Anuncio del Ministerio de Hacienda sobre el desembolso de 50 millones de dólares para el pago a proveedores del Estado. Aunque este movimiento busca aliviar la liquidez de las empresas, no parece suficiente para contrarrestar el descontento generalizado por la falta de empleo y servicios básicos.
 
 ## Conclusión
 

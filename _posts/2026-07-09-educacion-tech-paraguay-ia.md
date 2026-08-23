@@ -14,7 +14,7 @@ En noviembre de 2027, cuando abra la primera fase de Yguazú Digital, Paraguay v
 
 Paraguay tiene cincuenta y cinco universidades —nueve públicas y cuarenta y seis privadas— que en conjunto producen aproximadamente cincuenta y un mil graduados por año en todas las disciplinas. De esos, alrededor de cuatrocientos son en informática o carreras afines, según datos del INE. Las otras ingenierías relevantes —eléctrica, electrónica, telecomunicaciones— suman cifras similares.
 
-Para ponerlo en perspectiva, [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) aspira a consumir 1.000 megavatios en su fase final, con una inversión total aspiracional de 40.000 millones de dólares. Un centro de datos de esa escala requiere técnicos en refrigeración líquida para servidores de alta densidad, ingenieros de redes para clústeres de cómputo con GPUs, especialistas en ciberseguridad para infraestructura crítica y administradores de sistemas de alimentación ininterrumpida. Paraguay produce muy pocos profesionales en cada una de esas áreas.
+Para ponerlo en perspectiva, [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}) aspira a consumir 1.000 megavatios en su fase final, con una inversión total aspiracional de 40.000 millones de dólares. Un centro de datos de esa escala requiere técnicos en refrigeración líquida para servidores de alta densidad, ingenieros de redes para clústeres de cómputo con GPUs, especialistas en ciberseguridad para infraestructura crítica y administradores de sistemas de alimentación ininterrumpida. Paraguay produce muy pocos profesionales en cada una de esas áreas.
 
 La asociación de la industria tecnológica estima que hay entre 3.000 y 8.000 desarrolladores de software en todo el país. No existe un censo oficial. El Instituto de Previsión Social, que registra empleos formales, no tiene una categoría separada para trabajador tecnológico. El sector es en buena medida informal, freelance o registrado bajo categorías genéricas. Uruguay, con una población similar, tiene aproximadamente veintidós mil desarrolladores. Chile, con el triple de la población, más de setenta mil.
 
@@ -57,7 +57,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [Webometrics — Ranking of Universities in Paraguay](https://www.webometrics.info/en/latin_america/paraguay)
 - [TEDIC — "Todo lo que tenés que saber sobre la criptominería en Paraguay"](https://www.tedic.org/cripto_en_py/) (6 noviembre 2024)
 - [Plan Ceibal — Jóvenes a Programar](https://jovenesaprogramar.ceibal.edu.uy/)
-- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptomineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
+- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMinería-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
 - [Becal Paraguay — Estadísticas](https://www.becal.gov.py/) (3.787 becarios, 2.682 retornados)
 
 <script type="application/ld+json">

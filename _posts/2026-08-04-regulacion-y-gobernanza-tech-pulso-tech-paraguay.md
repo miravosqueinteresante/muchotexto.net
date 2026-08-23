@@ -11,7 +11,7 @@ tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 PULSO TECH PARAGUAY
 📅 MARTES 4 de agosto de 2026  |  🕐 Ultima actualizacion: 11:22
 
-📋 REGULACION Y GOBERNANZA TECH
+📋 regulación Y GOBERNANZA TECH
 
 [Ciberseguridad y protección de datos]
 
@@ -39,6 +39,6 @@ La agenda tecnológica de hoy se concentra en la vulnerabilidad de los sistemas 
 
 🔎 FUENTES CONSULTADAS HOY
 
-- ABC Tecnologia
+- ABC Tecnología
 - La Nacion
 - NPY

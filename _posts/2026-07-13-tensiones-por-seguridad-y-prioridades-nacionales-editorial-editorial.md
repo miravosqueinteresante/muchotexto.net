@@ -56,7 +56,7 @@ La seguridad ciudadana en Paraguay ha sido el tema más discutido en la jornada 
 
 ## Reubicación de la Comandancia y dudas sobre el impacto
 
-El anuncio del traslado de la Comandancia de la Policía Nacional al Puerto de Asunción ha generado inquietud en la población, especialmente en lo que respecta a la seguridad en el centro de la ciudad. Aunque el ministro Riera aseguró que este cambio no afectará negativamente la seguridad, el Pulso destaca que el clima social en torno a este tema es tenso, con una temperatura alta en las conversaciones. Esto sugiere que, más allá de las declaraciones oficiales, persisten dudas en la ciudadanía sobre cómo se gestionará la seguridad en una zona clave de la capital.
+El Anuncio del traslado de la Comandancia de la Policía Nacional al Puerto de Asunción ha generado inquietud en la población, especialmente en lo que respecta a la seguridad en el centro de la ciudad. Aunque el ministro Riera aseguró que este cambio no afectará negativamente la seguridad, el Pulso destaca que el clima social en torno a este tema es tenso, con una temperatura alta en las conversaciones. Esto sugiere que, más allá de las declaraciones oficiales, persisten dudas en la ciudadanía sobre cómo se gestionará la seguridad en una zona clave de la capital.
 
 ## Escalada de violencia y percepción ciudadana
 

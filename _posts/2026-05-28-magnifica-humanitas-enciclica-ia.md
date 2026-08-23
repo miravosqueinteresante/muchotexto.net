@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
 date: 2026-05-28
@@ -126,7 +126,7 @@ La conexión es poderosa: la Iglesia que llegó tarde a condenar la esclavitud n
 
 Todo lo anterior sería una discusión académica si no tuviera una conexión directa con la realidad del país desde el que se escribe este artículo. La tiene, y profunda.
 
-Paraguay está en el centro de [una de las apuestas más grandes del mundo en infraestructura de inteligencia artificial]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}). También está en el radar de [inversores como Peter Thiel, que ven en el vacío regulatorio paraguayo una ventana de oportunidad]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}). En menos de dos años, se han anunciado proyectos que, de concretarse, transformarían radicalmente el perfil energético y económico del país:
+Paraguay está en el centro de [una de las apuestas más grandes del mundo en infraestructura de inteligencia artificial]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}). También está en el radar de [inversores como Peter Thiel, que ven en el vacío regulatorio paraguayo una ventana de oportunidad]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}). En menos de dos años, se han anunciado proyectos que, de concretarse, transformarían radicalmente el perfil energético y económico del país:
 
 - **X8 Cloud**, una empresa fundada en enero de 2025, proyecta invertir entre 10.000 y 50.000 millones de dólares en 30 años. La fase inicial es modesta —6 MW, unos 260 millones de dólares, 4.000 GPUs— pero la empresa declaró a BNamericas que su objetivo es alcanzar 5 GW. El presidente de ANDE firmó un memorándum de entendimiento, pero la propia entidad aclaró que el documento no es vinculante y no obliga a ninguna de las partes a concretar el proyecto. La cifra de 50.000 millones es el techo máximo a 30 años, no una inversión asegurada. Críticos señalaron que el CEO, Juan Carlos Dueñas, proviene del mundo de startups de realidad virtual y música, sin experiencia previa en infraestructura de centros de datos.
 
@@ -177,12 +177,12 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 7. [NBC News — "Tech titans mostly silent after Pope Leo's warning on risks of AI"](https://www.nbcnews.com/tech/innovation/tech-titans-mostly-silent-pope-leos-warning-risks-ai-rcna346903) (26 may 2026)
 8. [Infobae — "El Papa León XIV publicó la encíclica Magnifica Humanitas"](https://www.infobae.com/america/mundo/2026/05/25/el-papa-leon-xiv-publico-la-enciclica-magnifica-humanitas-y-pidio-que-la-inteligencia-artificial-no-domine-al-ser-humano/) (25 may 2026)
 9. [El País — "El papa lanza una llamada de alarma contra el tecnofascismo"](https://elpais.com/sociedad/2026-05-25/el-papa-leon-xiv-lanza-con-su-primera-enciclica-una-llamada-de-alarma-contra-el-tecnofascismo-quien-controla-la-ia-impondra-su-vision-moral.html) (25 may 2026)
-10. [ACI Prensa — "El Papa León XIV publica su primera encíclica: Magnifica Humanitas"](https://www.aciprensa.com/noticias/125373/el-papa-leon-xiv-publica-su-primera-enciclica-magnifica-humanitas) (25 may 2026)
+10. [ACI Prensa — "El Papa León XIV publica su primera encíclica: Magnifica Humanitas"](https://www.aciprensa.com/Noticias/125373/el-papa-leon-xiv-publica-su-primera-enciclica-magnifica-humanitas) (25 may 2026)
 11. [AlfayOmega — "El Papa León XIV presentará él mismo su primera encíclica"](https://alfayomega.es/el-papa-leon-xiv-presentara-el-mismo-su-primera-enciclica-magnifica-humanitas/) (18 may 2026)
 12. [ADN Celam — "Cardenal paraguayo advierte riesgos éticos de inteligencia artificial"](https://adn.celam.org/cardenal-paraguayo-advierte-riesgos-eticos-de-inteligencia-artificial-tras-publicacion-de-magnifica-humanitas/) (27 may 2026)
 13. [VIA.bible — "La humanidad como frontera sagrada"](https://www.via.bible/es/la-humanidad-como-frontera-sagrada-magnifica-humanitas-y-el-desafio-digital-en-america-latina/) (4 may 2026)
 14. [Rome Call for AI Ethics](https://www.romecall.org/the-call)
-15. [ABC Color — "Centro de datos soberano con Taiwán"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 may 2026)
+15. [ABC Color — "Centro de datos soberano con Taiwán"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-Taiwán-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 may 2026)
 16. [BNamericas — "Mi objetivo es alcanzar los 5GW de IA"](https://www.bnamericas.com/es/entrevistas/mi-objetivo-es-alcanzar-los-5gw-de-ia-afirma-x8-cloud-sobre-megaproyecto-en-paraguay) (2025-2026)
 
 *Este artículo es parte del [Observatorio de IA en Paraguay](/ia-en-paraguay/), una guía viva sobre cómo la inteligencia artificial está transformando el país.*
@@ -202,7 +202,7 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
     },
     {
       "@type": "Question",
-      "name": "Que formacion tiene el Papa Leon XIV en tecnologia?",
+      "name": "Que formacion tiene el Papa Leon XIV en Tecnología?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Leon XIV es licenciado en Matematicas por la Universidad de Villanova. Es el primer Papa que asistio personalmente a la presentacion de su propia enciclica, acompanado por Christopher Olah, cofundador de Anthropic."
@@ -213,7 +213,7 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
       "name": "Que relacion tiene Magnifica Humanitas con Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La enciclica advierte sobre el colonialismo de nuevo cuno donde el Sur Global provee recursos mientras los beneficios se concentran en el Norte. Paraguay esta apostando a proyectos como Yguazu Digital (USD 40.000 millones) y X8 Cloud (USD 50.000 millones)."
+        "text": "La enciclica advierte sobre el colonialismo de nuevo cuno donde el Sur Global provee recursos mientras los beneficios se concentran en el Norte. Paraguay esta apostando a proyectos como Yguazú Digital (USD 40.000 millones) y X8 Cloud (USD 50.000 millones)."
       }
     }
   ]

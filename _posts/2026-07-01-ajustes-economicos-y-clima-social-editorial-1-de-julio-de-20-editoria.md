@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ajustes económicos y clima social — Editorial 1 de julio de 2026"
-description: "Hoy, Paraguay enfrenta un día marcado por decisiones económicas y eventos sociales que generan debate."
+description: "Ajuste salario mínimo entra en vigencia 1/07; nuevos aranceles migratorios; alerta meteorológica 4 dptos; Paraguay-Albirroja vs Alemania Mundial 2026. Pulso 1/07."
 
 
 
@@ -47,7 +47,7 @@ description: "Hoy, Paraguay enfrenta un día marcado por decisiones económicas 
 
 
 date: 2026-07-01 18:00:00 -0400
-last_modified_at: 2026-07-01
+last_modified_at: 2026-08-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---

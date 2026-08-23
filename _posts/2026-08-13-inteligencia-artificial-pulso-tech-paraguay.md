@@ -19,7 +19,7 @@ El sector financiero nacional identifica a la IA como una herramienta clave para
 
 📊 Relevancia: Media
 
-📋 REGULACION Y GOBERNANZA TECH
+📋 regulación Y GOBERNANZA TECH
 
 Validación del Plan Nacional de Desarrollo Paraguay 2050
 

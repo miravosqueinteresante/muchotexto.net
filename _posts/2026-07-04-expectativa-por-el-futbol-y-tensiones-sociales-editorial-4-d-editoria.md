@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Expectativa y tensión social — Editorial 4 de julio 2026"
-description: "El partido de Paraguay contra Francia en los octavos de final del Mundial 2026 domina la conversación nacional, con una temperatura social alta y un sentimiento mayoritariamente positivo."
+description: "Paraguay vs Francia octavos Mundial 2026: fervor futbolístico (70% sentimiento positivo) contrasta con economía (salarios Fuerte Olimpo, matadero Misiones) y alerta meteorológica. Pulso 4/07."
 
 
 
@@ -47,7 +47,7 @@ description: "El partido de Paraguay contra Francia en los octavos de final del 
 
 
 date: 2026-07-04 18:00:00 -0400
-last_modified_at: 2026-07-04
+last_modified_at: 2026-08-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---

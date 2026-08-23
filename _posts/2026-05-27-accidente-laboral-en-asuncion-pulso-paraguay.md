@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pulso Paraguay: Accidente laboral en Asunción — 27 de mayo de 2026"
 description: "Accidente laboral en Asunción: El trágico fallecimiento de un joven obrero ha generado gran preocupación en la sociedad acerca de la seguridad en el trabajo. Pulso Tech Paraguay — 27 de mayo de 2026."
@@ -56,7 +56,7 @@ Los pacientes hipertensos de Cabañas siguen sin acceso a medicamentos esenciale
 
 Batacazo histórico de Recoleta FC
 
-Recoleta FC logró una victoria histórica al vencer a San Lorenzo de Almagro y clasificarse a los octavos de final de la Copa Sudamericana 2026, manteniéndose invicto en el torneo.
+Recoleta FC logró una victoria histórica al vencer a San Lorenzo de Almagro y clasificarse a los octavos de final de la Copa Sudaméricana 2026, manteniéndose invicto en el torneo.
 
 📊 Temperatura social: Alta
 
@@ -118,7 +118,7 @@ La histórica clasificación de Recoleta FC ha sido ampliamente compartida y com
 
 1. 🥇 Accidente laboral en Asunción
 2. 🥈 Hallazgo de cuerpo en Pedro Juan Caballero
-3. 🥉 Batacazo de Recoleta FC en Sudamericana
+3. 🥉 Batacazo de Recoleta FC en Sudaméricana
 4. Suspensión de ingreso de suboficiales en 2027
 5. Riesgo de insolvencia en IPS
 
