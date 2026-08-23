@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "El ente regulador de energía que Paraguay diseña con concurso público"
 date: 2026-08-19 12:00:00 -0300
@@ -57,7 +57,7 @@ Tercero, el despacho de carga. En la antesala de la presentación se habló de u
 
 ## Conclusión
 
-El Ente Regulador de Energía es la pieza que le faltaba al tablero. Con su directorio por concurso, su revisión tarifaria con audiencia y su tasa que alcanza a la ANDE, es un diseño deliberadamente ambicioso para cerrar seis décadas de juez y parte. La [Política Energética al 2050 ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energética-pen-2050-paraguay %}) y no se cumplió; el [modelo de PSR]({% post_url 2026-08-19-modelo-institucional-psr-sector-eléctrico %}) ya trazó la arquitectura, y el [ministerio que lo cobijaría]({% post_url 2026-08-19-ministerio-energia-Minería-hidrocarburos %}) se presentó el mismo día.
+El Ente Regulador de Energía es la pieza que le faltaba al tablero. Con su directorio por concurso, su revisión tarifaria con audiencia y su tasa que alcanza a la ANDE, es un diseño deliberadamente ambicioso para cerrar seis décadas de juez y parte. La [Política Energética al 2050 ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) y no se cumplió; el [modelo de PSR]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %}) ya trazó la arquitectura, y el [ministerio que lo cobijaría]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %}) se presentó el mismo día.
 
 Pero un regulador no se hace con una ley: se hace con años de decisiones creíbles. El concurso público y el mandato de seis años son un buen punto de partida, pero el verdadero blindaje no está en el texto —está en que, cuando llegue la primera decisión tarifaria impopular, el Ejecutivo de turno no llame por teléfono al directorio. Eso no se legisla: se cultiva. Y de eso depende que el árbitro que Paraguay diseña hoy no termine siendo, dentro de una década, un árbitro al que nadie le saca la roja.
 

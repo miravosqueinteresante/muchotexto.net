@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "La IA cuesta más que los humanos que reemplazó: los números"
 date: 2026-05-27
@@ -124,7 +124,7 @@ Los ingresos de IA empresarial crecen al 40% anual. El backlog de Google Cloud c
 
 ## 8. El contraste paraguayo: ¿llegamos tarde o justo a tiempo?
 
-Todo lo anterior importa poco si no se conecta con la realidad local. Porque Paraguay está apostando su recurso más valioso — la energía de Itaipú — a esta misma industria, justo cuando el mercado global muestra señales de corrección. [La apuesta tiene nombre concreto: Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), [en un país que recién está abriendo su sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}).
+Todo lo anterior importa poco si no se conecta con la realidad local. Porque Paraguay está apostando su recurso más valioso — la energía de Itaipú — a esta misma industria, justo cuando el mercado global muestra señales de corrección. [La apuesta tiene nombre concreto: Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), [en un país que recién está abriendo su sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}).
 
 Los proyectos anunciados son de una escala que el país nunca vio. X8 Cloud planea invertir entre [$10 y $50 mil millones](https://www.asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/) en 30 años para construir el centro de datos de IA "más grande de América Latina", con un target de 5 GW de capacidad. Yguazú Digital, la alianza con Taiwán, proyecta tres fases que culminan en una inversión de [$40 mil millones](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-Taiwán-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) — equivalente al PIB total de Paraguay — para consumir 1.000 MW. Hive Digital ya invirtió [$400 millones](https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier) y está expandiendo sus centros a 400 MW. Crusoe AI y Peter Thiel están explorando el país.
 

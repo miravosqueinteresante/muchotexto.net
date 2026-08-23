@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
 date: 2026-07-27
@@ -18,7 +18,7 @@ Pero el único proyecto de hidrógeno verde que opera actualmente en Paraguay es
 
 Paraguay presentó en julio de 2025 una Estrategia Nacional de Hidrógeno Verde financiada por el BID, con 6 pilares y 55 medidas. Es un documento de política pública serio. Pero Chile lanzó su estrategia en 2020 —cinco años antes— y ya tiene proyectos en Magallanes con inversiones de HIF, Enel y Total Eren que suman varios miles de millones de dólares. La diferencia no es solo de tiempo: Chile tiene puertos en el Pacífico y viento en la Patagonia. Paraguay tiene energía hidroeléctrica 24/7 —lo que los expertos llaman baseload, el santo grial del hidrógeno verde porque ninguna planta solar o eólica puede garantizar producción continua sin baterías— pero no tiene costa.
 
-## [Paraguay puede perder mil millones de dólares de Itaipú en 2027]({% post_url 2026-07-17-Itaipú-2027-energia-paraguay %}) si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url 2026-07-08-red-electrica-paraguay-ia %})— necesita duplicarse para soportar la demanda de electrolizadores a escala industrial.
+## [Paraguay puede perder mil millones de dólares de Itaipú en 2027]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %}) si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url 2026-07-08-red-electrica-paraguay-ia %})— necesita duplicarse para soportar la demanda de electrolizadores a escala industrial.
 
 El problema no es el agua. Es el Atlántico.
 

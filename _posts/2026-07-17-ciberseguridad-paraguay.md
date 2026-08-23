@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años"
 date: 2026-07-17
@@ -28,7 +28,7 @@ La cronología de incidentes recientes es más densa de lo que la infraestructur
 
 En 2024, el grupo Flax Typhoon —un actor de amenazas persistentes avanzadas vinculado por agencias de inteligencia occidentales al Ministerio de Seguridad del Estado de China— infiltró sistemas informáticos del gobierno paraguayo. La técnica fue clásica: spear-phishing dirigido a funcionarios con acceso a redes sensibles, explotación de vulnerabilidades sin parche y movimiento lateral dentro de la red una vez obtenido el acceso inicial. El objetivo no fue el robo de datos masivo sino la persistencia: permanecer dentro de los sistemas el mayor tiempo posible sin ser detectado.
 
-En abril de 2025, la Agencia Brasileña de Inteligencia fue acusada de espiar a funcionarios paraguayos involucrados en la negociación del Anexo C de Itaipú. Paraguay suspendió las negociaciones con Brasil, que fueron reanudadas en noviembre de 2025 tras la entrega del informe confidencial brasileño, [un escenario que analizamos en profundidad en el contexto del Anexo C de Itaipú]({% post_url 2026-07-17-Itaipú-2027-energia-paraguay %}). El caso expuso algo más grave que la tensión diplomática: reveló que actores estatales —aliados o adversarios— consideran a Paraguay un objetivo legítimo de operaciones de inteligencia ofensiva, y que la capacidad paraguaya de detectar esas operaciones es limitada.
+En abril de 2025, la Agencia Brasileña de Inteligencia fue acusada de espiar a funcionarios paraguayos involucrados en la negociación del Anexo C de Itaipú. Paraguay suspendió las negociaciones con Brasil, que fueron reanudadas en noviembre de 2025 tras la entrega del informe confidencial brasileño, [un escenario que analizamos en profundidad en el contexto del Anexo C de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %}). El caso expuso algo más grave que la tensión diplomática: reveló que actores estatales —aliados o adversarios— consideran a Paraguay un objetivo legítimo de operaciones de inteligencia ofensiva, y que la capacidad paraguaya de detectar esas operaciones es limitada.
 
 En junio de 2025, un ataque de ransomware —atribuido al grupo Brigada Cyber PMC— comprometió bases de datos del gobierno paraguayo. Los atacantes cifraron datos y exigieron un rescate millonario. Al menos 7,4 millones de registros de ciudadanos quedaron expuestos y las instituciones afectadas operaron sin acceso a sus sistemas de gestión durante días. En un incidente separado, un ataque DDoS en mayo de 2025 había afectado temporalmente los sistemas de 18 agencias gubernamentales.
 

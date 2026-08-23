@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Qué es un data center y por qué Paraguay quiere construir uno"
 date: 2026-07-10
@@ -42,7 +42,7 @@ Un data center consume electricidad en tres cosas: procesamiento, refrigeración
 
 Para ponerlo en números concretos: Yguazú Digital, en su fase 1, va a consumir 10 megavatios. Esa cantidad de energía alcanza para abastecer a aproximadamente 7.500 hogares. En su fase 3, a 1.000 megavatios, consumirá lo mismo que una ciudad de 750.000 personas —más que la población de Asunción.
 
-La [criptominería]({% post_url 2026-07-07-criptoMinería-paraguay-energia-barata %}) también consume enormes cantidades de electricidad, pero con una diferencia importante: los mineros de bitcoin usan chips especializados llamados ASIC que hacen una sola tarea —resolver problemas criptográficos— y la hacen de manera extremadamente eficiente. Un data center de IA tiene que ser más flexible: los mismos servidores que hoy entrenan un modelo de lenguaje pueden mañana procesar imágenes médicas o simular escenarios climáticos.
+La [criptominería]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}) también consume enormes cantidades de electricidad, pero con una diferencia importante: los mineros de bitcoin usan chips especializados llamados ASIC que hacen una sola tarea —resolver problemas criptográficos— y la hacen de manera extremadamente eficiente. Un data center de IA tiene que ser más flexible: los mismos servidores que hoy entrenan un modelo de lenguaje pueden mañana procesar imágenes médicas o simular escenarios climáticos.
 
 ## Data center normal vs data center de IA
 
@@ -60,13 +60,13 @@ La diferencia fundamental es la densidad de potencia. En el mismo espacio físic
 
 ## Por qué Paraguay
 
-Paraguay tiene la electricidad industrial más barata de Sudamérica: entre 30 y 45 dólares por megavatio-hora. Para un data center de 100 megavatios, cada dólar de diferencia en el precio de la electricidad representa aproximadamente 876.000 dólares al año. En un data center donde la energía representa entre el 40% y el 60% del costo operativo, la [ventaja de estar en Paraguay]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}) no es marginal: es existencial.
+Paraguay tiene la electricidad industrial más barata de Sudamérica: entre 30 y 45 dólares por megavatio-hora. Para un data center de 100 megavatios, cada dólar de diferencia en el precio de la electricidad representa aproximadamente 876.000 dólares al año. En un data center donde la energía representa entre el 40% y el 60% del costo operativo, la [ventaja de estar en Paraguay]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) no es marginal: es existencial.
 
 Pero la energía barata no alcanza. Hace falta también [una red de transmisión que llegue hasta el data center]({% post_url 2026-07-08-red-electrica-paraguay-ia %}), acuerdos diplomáticos que garanticen el suministro de chips —que llevaron a Paraguay a asociarse con Taiwán—, y un marco legal que proteja los datos que se procesen en el país. Todas esas piezas están en movimiento. Este artículo explica la primera: qué es la máquina que Paraguay quiere encender.
 
 ---
 
-El cluster de inteligencia artificial en Paraguay se construye sobre esta pieza fundamental: entender qué es un data center. Los artículos sobre [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), la red eléctrica, la criptominería y la geopolítica de los semiconductores asumen este conocimiento. Si llegaste hasta acá, ya tenés las bases para leer cualquiera de ellos.
+El cluster de inteligencia artificial en Paraguay se construye sobre esta pieza fundamental: entender qué es un data center. Los artículos sobre [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), la red eléctrica, la criptominería y la geopolítica de los semiconductores asumen este conocimiento. Si llegaste hasta acá, ya tenés las bases para leer cualquiera de ellos.
 
 Este artículo es parte de la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).
 

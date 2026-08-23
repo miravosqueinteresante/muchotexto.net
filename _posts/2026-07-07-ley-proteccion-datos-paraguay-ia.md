@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
 date: 2026-07-07
@@ -38,7 +38,7 @@ La experiencia brasileña, que es el espejo más cercano, muestra que implementa
 
 La simultaneidad es incómoda. La Ley 7593 entra en vigor en noviembre de 2027. La fase 1 de Yguazú Digital —10 megavatios, 200 millones de dólares, enfocada en procesar datos del gobierno paraguayo: registros médicos, impositivos, sistemas de vigilancia— apunta a estar operativa para fines de ese mismo año.
 
-En el [análisis que publicamos sobre Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), detallamos la magnitud del proyecto: tres fases, de 10 MW a 1 GW, inversión total aspiracional de 40.000 millones de dólares, modelo de gestión binacional copiado de Itaipú. Lo que no mencionamos en ese artículo —porque no estaba en ningún documento público— es que el memorándum de entendimiento entre Paraguay y Taiwán no contiene una sola línea sobre protección de datos. Ni privacidad, ni autoridad de control, ni reglas de transferencia transfronteriza. Cero.
+En el [análisis que publicamos sobre Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), detallamos la magnitud del proyecto: tres fases, de 10 MW a 1 GW, inversión total aspiracional de 40.000 millones de dólares, modelo de gestión binacional copiado de Itaipú. Lo que no mencionamos en ese artículo —porque no estaba en ningún documento público— es que el memorándum de entendimiento entre Paraguay y Taiwán no contiene una sola línea sobre protección de datos. Ni privacidad, ni autoridad de control, ni reglas de transferencia transfronteriza. Cero.
 
 A esto se suma un problema jurisdiccional que la ley paraguaya no resuelve. Si Google, Microsoft o Amazon —empresas que el fondo Taiwánés ICDF ya contactó para sondear interés— almacenan datos en Yguazú Digital, la ley estadounidense CLOUD Act permite que las autoridades de Estados Unidos exijan acceso a esos datos independientemente de dónde estén físicamente. Paraguay no tiene un acuerdo bilateral con Estados Unidos bajo el marco de la CLOUD Act que le permita negociar, condicionar o rechazar esos pedidos. Los datos estarían en suelo paraguayo, pero sujetos a una jurisdicción que Paraguay no controla.
 

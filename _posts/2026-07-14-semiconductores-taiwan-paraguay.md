@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
 date: 2026-07-14 20:00:00 -0400
@@ -10,7 +10,7 @@ description: "Paraguay tiene la electricidad más barata de Sudamérica, el Acu�
 
 Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para existir. El mundo entero aprendió esta lección durante la pandemia: cuando las fábricas de chips se frenan, todo lo demás se frena con ellas.
 
-Paraguay es el último aliado diplomático de Taiwán en Sudamérica. Juntos firmaron [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), un centro de datos de inteligencia artificial de 200 millones de dólares. Taiwán le prestó 400 millones a Paraguay en décadas de cooperación. Paraguay tiene la electricidad industrial más barata de Sudamérica, el Acuífero Guaraní —la segunda reserva de agua dulce del planeta— y un régimen de maquila que grava las exportaciones tecnológicas al 1%. Las condiciones, sobre el papel, parecen diseñadas para atraer semiconductores.
+Paraguay es el último aliado diplomático de Taiwán en Sudamérica. Juntos firmaron [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), un centro de datos de inteligencia artificial de 200 millones de dólares. Taiwán le prestó 400 millones a Paraguay en décadas de cooperación. Paraguay tiene la electricidad industrial más barata de Sudamérica, el Acuífero Guaraní —la segunda reserva de agua dulce del planeta— y un régimen de maquila que grava las exportaciones tecnológicas al 1%. Las condiciones, sobre el papel, parecen diseñadas para atraer semiconductores.
 
 Sin embargo, Taiwán está construyendo fábricas de chips en Arizona, en Kumamoto, en Dresde. En Paraguay no hay ninguna. Ni siquiera un Anuncio. Este artículo explica por qué.
 

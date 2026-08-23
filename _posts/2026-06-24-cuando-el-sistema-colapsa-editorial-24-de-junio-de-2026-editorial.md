@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Cuando el sistema colapsa — Editorial 24 de junio de 2026"
 description: "La renuncia masiva en el Instituto de Previsión Social IPS ha expuesto, una vez más, los crónicos problemas de gestión que arrastra una de las instituciones más emblemáticas y necesarias de Paraguay."
@@ -66,7 +66,7 @@ La crisis del IPS no es un hecho aislado; es, antes que nada, una consecuencia d
 
 La renuncia masiva de funcionarios no solo perjudica la operatividad del IPS, sino que también deja a miles de paraguayos navegando un sistema ya saturado y disfuncional. Es aquí donde el verdadero costo de la falta de visión política y administrativa se hace evidente. Porque detrás de cada renuncia hay una cama vacía en un hospital, una fila más larga para una consulta y una familia que se queda sin respuestas.
 
-## ¿Y el dinero de [energía de Itaipú]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %})?
+## ¿Y el dinero de [energía de Itaipú]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})?
 
 Es inevitable vincular esta crisis con el reciente Anuncio de los US$ 462 millones que la represa Itaipú transfirió al Estado paraguayo en 2025. ¿Dónde están esos fondos en este momento de necesidad? ¿No podría una parte de ese dinero haber sido destinada a mejorar las condiciones laborales en el IPS y garantizar un servicio de calidad? En un país donde los recursos naturales deberían ser sinónimo de prosperidad, resulta irónico ver cómo se perpetúan las carencias estructurales. 
 

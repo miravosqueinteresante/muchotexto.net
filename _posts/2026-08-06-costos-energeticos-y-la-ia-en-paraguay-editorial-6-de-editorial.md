@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Costos energéticos y la IA en Paraguay — Editorial 6 de agosto de 2026"
 description: "Un estudio internacional proyecta un incremento de hasta el 45,6% en la tarifa eléctrica de la sector eléctrico{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %}, un dato que altera directamente la planificación de cualquier proyecto de infraestructura digital en Paraguay."
@@ -25,7 +25,7 @@ categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
 
-Un estudio internacional proyecta un incremento de hasta el 45,6% en la tarifa eléctrica de la [sector eléctrico]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}), un dato que altera directamente la planificación de cualquier proyecto de infraestructura digital en Paraguay. Esta cifra no es un número aislado, sino una variable que condiciona la viabilidad operativa de las industrias que dependen de un consumo eléctrico intensivo para sostener sus operaciones tecnológicas. Mientras este escenario de costos se plantea en el sector energético, la Asociación de Bancos del Paraguay (Asoban) desarrolla su convención anual con la inteligencia artificial como eje central de la transformación digital del sector financiero nacional.
+Un estudio internacional proyecta un incremento de hasta el 45,6% en la tarifa eléctrica de la [sector eléctrico]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}), un dato que altera directamente la planificación de cualquier proyecto de infraestructura digital en Paraguay. Esta cifra no es un número aislado, sino una variable que condiciona la viabilidad operativa de las industrias que dependen de un consumo eléctrico intensivo para sostener sus operaciones tecnológicas. Mientras este escenario de costos se plantea en el sector energético, la Asociación de Bancos del Paraguay (Asoban) desarrolla su convención anual con la inteligencia artificial como eje central de la transformación digital del sector financiero nacional.
 
 ## La presión sobre la infraestructura digital
 

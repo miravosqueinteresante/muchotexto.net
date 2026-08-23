@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
 date: 2026-07-17
@@ -30,7 +30,7 @@ La Administración Nacional de Electricidad opera una red de transmisión que no
 
 Esto significa que incluso si Paraguay obtuviera las mejores condiciones posibles en la renegociación —más energía para uso propio, libertad total de venta a terceros—, no tendría cómo transportarla. La energía está en Itaipú, en la frontera con Brasil, a 300 kilómetros de Asunción. La línea de transmisión que debería llevarla a los centros de consumo no existe.
 
-La demanda eléctrica paraguaya crece a un ritmo de entre el 5% y el 8% anual, impulsada por la expansión de la criptominería, [que ya convirtió a Paraguay en el cuarto mayor minero de bitcoin del mundo]({% post_url 2026-07-07-criptoMinería-paraguay-energia-barata %}), los centros de datos y el crecimiento económico general. Si ese ritmo se mantiene, Paraguay podría necesitar toda su energía de Itaipú para consumo doméstico en menos de quince años. En ese escenario, la pregunta deja de ser "¿cuánto nos paga Brasil?" y pasa a ser "¿tenemos suficiente para nosotros?".
+La demanda eléctrica paraguaya crece a un ritmo de entre el 5% y el 8% anual, impulsada por la expansión de la criptominería, [que ya convirtió a Paraguay en el cuarto mayor minero de bitcoin del mundo]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}), los centros de datos y el crecimiento económico general. Si ese ritmo se mantiene, Paraguay podría necesitar toda su energía de Itaipú para consumo doméstico en menos de quince años. En ese escenario, la pregunta deja de ser "¿cuánto nos paga Brasil?" y pasa a ser "¿tenemos suficiente para nosotros?".
 
 ## Lo que pasó en 2009 (y por qué importa ahora)
 

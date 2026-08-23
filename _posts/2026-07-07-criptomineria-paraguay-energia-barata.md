@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Lo que la criptominería le cuesta realmente a Paraguay"
 date: 2026-07-07
@@ -30,7 +30,7 @@ Las pérdidas por hurto de energía —conexiones directas a la red de media ten
 
 La paradoja es doble. La minería ilegal existe porque la electricidad es tan barata que incluso pagarla es opcional para quien tiene acceso a una conexión clandestina. Y la ANDE, la misma empresa que persigue a los mineros ilegales, depende crecientemente de los ingresos de los mineros legales para sostener su estructura tarifaria.
 
-En 2022, la ANDE intentó aumentar las tarifas a los mineros en un 60%. El Congreso intervino y rechazó una ley que habría consolidado el aumento. Desde entonces, la solución han sido los contratos de compra de energía a largo plazo (PPA, por sus siglas en inglés), que dan previsibilidad a ambas partes pero que vencen, en su mayoría, en 2027. Ese año —el mismo en que se renegocia el Anexo C de Itaipú y en que entra en vigor la [apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %})— va a definir el futuro del sector.
+En 2022, la ANDE intentó aumentar las tarifas a los mineros en un 60%. El Congreso intervino y rechazó una ley que habría consolidado el aumento. Desde entonces, la solución han sido los contratos de compra de energía a largo plazo (PPA, por sus siglas en inglés), que dan previsibilidad a ambas partes pero que vencen, en su mayoría, en 2027. Ese año —el mismo en que se renegocia el Anexo C de Itaipú y en que entra en vigor la [apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})— va a definir el futuro del sector.
 
 ## 383 empleos para 500 megavatios: la pregunta que nadie quiere responder
 
@@ -60,7 +60,7 @@ El caso Villarrica ilustra el costo social. Vecinos de una granja de Bitfarms en
 
 El sector minero en Paraguay tiene una fecha de vencimiento: 2027. Ese año vencen la mayoría de los contratos de suministro eléctrico entre la ANDE y los mineros. Es también el año en que se renegocia el Anexo C del Tratado de Itaipú —que define cuánta energía le corresponde a Paraguay y a qué precio se la compra Brasil— y el año en que entra en vigor la Ley 7593 de protección de datos, la misma que analizamos en nuestro [artículo anterior]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}).
 
-En ese mismo horizonte temporal, Paraguay está apostando a un modelo económico distinto: los centros de datos de inteligencia artificial. [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto con Taiwán, apunta a consumir —en su fase final— un gigavatio de potencia, el doble de lo que consume hoy todo el sector de criptominería. Pero mientras la minería de criptoactivos genera entre 0.5 y 1 empleo por megavatio, los centros de datos de IA prometen —al menos sobre el papel— mayor valor agregado, transferencia tecnológica, becas de formación y un ecosistema de servicios alrededor.
+En ese mismo horizonte temporal, Paraguay está apostando a un modelo económico distinto: los centros de datos de inteligencia artificial. [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto con Taiwán, apunta a consumir —en su fase final— un gigavatio de potencia, el doble de lo que consume hoy todo el sector de criptominería. Pero mientras la minería de criptoactivos genera entre 0.5 y 1 empleo por megavatio, los centros de datos de IA prometen —al menos sobre el papel— mayor valor agregado, transferencia tecnológica, becas de formación y un ecosistema de servicios alrededor.
 
 La pregunta no es si Paraguay debe elegir entre una cosa y la otra. El país tiene suficiente energía para ambas, al menos por ahora. La pregunta es si la energía más barata y limpia de Sudamérica debería usarse para alimentar máquinas que resuelven problemas criptográficos cuyo valor social es, como mínimo, discutible.
 

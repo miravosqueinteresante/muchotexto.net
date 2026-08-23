@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
 date: 2026-06-23
@@ -60,7 +60,7 @@ El Fondo de Cooperación y Desarrollo Internacional de Taiwán (ICDF) ya contact
 
 ### La paradoja energética: producir no es entregar
 
-Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red de 835 kilómetros de líneas de 500 kV —concentradas entre Itaipú y el área metropolitana de Asunción, sin un anillo nacional— y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
+Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red de 835 kilómetros de líneas de 500 kV —concentradas entre Itaipú y el área metropolitana de Asunción, sin un anillo nacional— y pérdidas en distribución que alcanzan el 31%. Para ponerlo en números: de cada 100 megavatios generados, 31 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
 
 La Fase III del proyecto requeriría 1.500 megavatios —el equivalente a más de dos turbinas de Itaipú—, una carga que la red de transmisión actual, con 835 kilómetros de líneas de 500 kV concentradas en la región oriental, no podría soportar sin una expansión masiva. Sin inversión en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "El ministerio de energía que Paraguay prepara con tres viceministerios"
 date: 2026-08-19 12:00:00 -0300
@@ -65,7 +65,7 @@ Tercero, el reparto de regalías mineras es una batalla territorial en potencia.
 
 El proyecto del Ministerio de Energía, Minería e Hidrocarburos es, al mismo tiempo, lo más ambicioso y lo más conservador de la agenda energética paraguaya. Ambicioso, porque reúne por primera vez en una sola cartera la energía, la minería y los hidrocarburos, con tres viceministerios y financiamiento propio. Conservador, porque respeta los límites de la rectoría sectorial, no toca la autonomía de la ANDE y deja a las binacionales fuera de su alcance.
 
-La pregunta que queda no es si Paraguay necesita este ministerio —el consenso técnico, de Cáceres a Oxilia, es abrumador— sino si el texto logrará convertirse en ley antes de que el sector vuelva a quedar atrás. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energética-pen-2050-paraguay %}) y no se cumplió. El [modelo institucional de PSR]({% post_url 2026-08-19-modelo-institucional-psr-sector-eléctrico %}) ya había trazado este mapa en septiembre de 2025. Ahora el Congreso tiene el texto en la mano, y por primera vez la creación del ministerio deja de ser una promesa para convertirse en un borrador que se puede enmendar, votar o rechazar.
+La pregunta que queda no es si Paraguay necesita este ministerio —el consenso técnico, de Cáceres a Oxilia, es abrumador— sino si el texto logrará convertirse en ley antes de que el sector vuelva a quedar atrás. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) y no se cumplió. El [modelo institucional de PSR]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %}) ya había trazado este mapa en septiembre de 2025. Ahora el Congreso tiene el texto en la mano, y por primera vez la creación del ministerio deja de ser una promesa para convertirse en un borrador que se puede enmendar, votar o rechazar.
 
 El debate completo sobre energía e institucionalidad está en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 

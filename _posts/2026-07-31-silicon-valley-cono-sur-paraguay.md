@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
 date: 2026-07-31 18:00:00 -0300
@@ -34,7 +34,7 @@ El costo de la electricidad industrial en Paraguay oscila entre USD 30 y USD 45 
 
 La ventaja no es solo de precio. Es de escala. Paraguay genera aproximadamente 44 TWh al año y consume 29,4 TWh (29.419 GWh en 2025, según la ANDE). El excedente —alrededor del 35% de su producción, unos 15 TWh— se exporta a Brasil y Argentina a precios mayoristas. Ningún otro país de la región tiene una brecha semejante entre generación y consumo. Ninguno ofrece energía 100% hidroeléctrica con ese margen de capacidad ociosa.
 
-[Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto insignia del gobierno con Taiwán, promete escalar de 10 MW a 1 GW en tres fases. Paraguay y Taiwán proyectan una inversión acumulada de hasta USD 40.000 millones, aunque las cifras dependen de que se concreten las fases II y III. La red de ANDE tiene pérdidas de distribución estimadas en 31%, contra un promedio regional de 13,5%. La capacidad de transmisión interna —aproximadamente 1.700 MW según los datos más recientes disponibles— es insuficiente para mover la energía desde las represas del este hasta los potenciales centros de consumo industrial. Se necesitan entre USD 500 y USD 1.000 millones en infraestructura de transmisión para que el superávit energético se convierta en una ventaja competitiva real.
+[Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto insignia del gobierno con Taiwán, promete escalar de 10 MW a 1 GW en tres fases. Paraguay y Taiwán proyectan una inversión acumulada de hasta USD 40.000 millones, aunque las cifras dependen de que se concreten las fases II y III. La red de ANDE tiene pérdidas de distribución estimadas en 31%, contra un promedio regional de 13,5%. La capacidad de transmisión interna —aproximadamente 1.700 MW según los datos más recientes disponibles— es insuficiente para mover la energía desde las represas del este hasta los potenciales centros de consumo industrial. Se necesitan entre USD 500 y USD 1.000 millones en infraestructura de transmisión para que el superávit energético se convierta en una ventaja competitiva real.
 
 ## Crusoe, X8Cloud y los que solo pasaron a saludar
 

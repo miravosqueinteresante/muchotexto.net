@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
 date: 2026-07-09
@@ -30,7 +30,7 @@ China ha desplegado su manual de seducción en la región. Diecinueve legislador
 
 ## Yguazú Digital: el ancla geopolítica
 
-El proyecto [Yguazú Digital]({% post_url 2026-06-23-Yguazú-digital-paraguay-hub-ia-mas-grande-del-mundo %}) es, al mismo tiempo, un proyecto de infraestructura tecnológica y una declaración geopolítica. Lo que hace único al acuerdo es su estructura: copia el modelo Itaipú, con una empresa binacional 50/50 entre Paraguay y Taiwán. No es una concesión ni un contrato de servicios: es una sociedad de capital compartido, la misma que Paraguay tiene con Brasil para su represa más importante.
+El proyecto [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) es, al mismo tiempo, un proyecto de infraestructura tecnológica y una declaración geopolítica. Lo que hace único al acuerdo es su estructura: copia el modelo Itaipú, con una empresa binacional 50/50 entre Paraguay y Taiwán. No es una concesión ni un contrato de servicios: es una sociedad de capital compartido, la misma que Paraguay tiene con Brasil para su represa más importante.
 
 El diseño no es casual. Al atar la suerte de Yguazú Digital a la relación bilateral, Paraguay le da a Taiwán una razón de peso para mantenerse comprometido con el país, y Taiwán le da a Paraguay un socio tecnológico que ningún otro aliado diplomático podría ofrecerle.
 

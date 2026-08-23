@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "El modelo institucional de PSR para el sector eléctrico paraguayo"
 date: 2026-08-19 12:00:00 -0300
@@ -63,7 +63,7 @@ Y hay una advertencia que viene de la propia región. El BID, en un estudio de d
 
 El documento de PSR es, a la vez, lo más concreto que Paraguay ha tenido sobre su problema institucional y una promesa a medio dibujar. Acierta en el diagnóstico —las funciones existen y están mezcladas— y en la dirección: separar política, regulación y operación en tres instituciones, como ya hicieron Uruguay, Brasil y Chile. Ese es un consenso que el propio viceministro Mauricio Bejarano resumió al anunciar "un ente regulador que será el primero en Paraguay, el árbitro tan necesario" para la inversión privada.
 
-Pero el salto del papel a la ley depende de responder lo que el documento no responde: quién paga, quién se muda y qué se hace con Itaipú y Yacyretá. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energética-pen-2050-paraguay %}) y sigue sin existir. La [apertura del sector a la generación privada]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %}) ya se firmó sin regulador independiente. Si esta tercera ronda de proyectos de ley vuelve a naufragar, no será por falta de diagnóstico: será por las mismas preguntas que Paraguay lleva una década sin responder.
+Pero el salto del papel a la ley depende de responder lo que el documento no responde: quién paga, quién se muda y qué se hace con Itaipú y Yacyretá. La [Política Energética al 2050 ya ordenó crear el ministerio para 2024]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) y sigue sin existir. La [apertura del sector a la generación privada]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) ya se firmó sin regulador independiente. Si esta tercera ronda de proyectos de ley vuelve a naufragar, no será por falta de diagnóstico: será por las mismas preguntas que Paraguay lleva una década sin responder.
 
 El debate completo sobre energía e institucionalidad está en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 

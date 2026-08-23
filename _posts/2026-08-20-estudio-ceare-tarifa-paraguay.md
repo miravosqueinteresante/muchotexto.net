@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
 date: 2026-08-20 12:00:00 -0300
@@ -53,7 +53,7 @@ Tercero, la criptominería. El informe vincula el repunte de pérdidas no técni
 
 ## Conclusión
 
-El estudio Ceare es el eslabón que faltaba entre la crisis de la ANDE y la reforma institucional. [El ministerio]({% post_url 2026-08-19-ministerio-energia-Minería-hidrocarburos %}) y [el ente regulador]({% post_url 2026-08-19-ente-regulador-energia %}) son la respuesta institucional a un problema que el estudio ya había cuantificado: una tarifa que debe subir un 39,4% para reflejar sus costos, una empresa con pérdidas del 26,5% y una morosidad que triplica la de sus pares. La [Política Energética al 2050]({% post_url 2026-08-12-mesa-energética-pen-2050-paraguay %}) ya había ordenado la institucionalidad para 2024; el Ceare le puso los números.
+El estudio Ceare es el eslabón que faltaba entre la crisis de la ANDE y la reforma institucional. [El ministerio]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %}) y [el ente regulador]({% post_url 2026-08-19-ente-regulador-energia %}) son la respuesta institucional a un problema que el estudio ya había cuantificado: una tarifa que debe subir un 39,4% para reflejar sus costos, una empresa con pérdidas del 26,5% y una morosidad que triplica la de sus pares. La [Política Energética al 2050]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %}) ya había ordenado la institucionalidad para 2024; el Ceare le puso los números.
 
 La pregunta incómoda que el estudio deja sobre la mesa no es si la tarifa debe subir —su propia aritmética dice que sí—, sino quién decide cuándo, cuánto y a qué ritmo, y si los sectores más pobres quedarán protegidos en el proceso. El informe recomienda explícitamente usar la tarifa social de la Ley 3.480 para blindar a los vulnerables. Que eso ocurra no depende del estudio ni del regulador: depende de que, cuando la tarifa empiece a subir, haya alguien con la autoridad y la voluntad de no descargar todo el costo sobre el más débil. Ese es el verdadero examen, y ningún informe lo aprueba por sí solo.
 

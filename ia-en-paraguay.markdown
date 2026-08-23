@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
@@ -13,7 +13,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 ### Empezá por acá
 
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y USD 200 millones a 1 GW y USD 40.000 millones. El artículo más leído del observatorio.
-- **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable. El cambio estructural más importante de la última década.
+- **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable. El cambio estructural más importante de la última década.
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** — El cofundador de Palantir y Founders Fund se reunió con el presidente en Mburuvicha Róga. Lo que significa para la vigilancia, los datos y la soberanía.
 
 **Biblioteca de análisis** — {{ site.posts | where_exp: "p","p.categories contains 'articulos'" | size | minus: 2 }} artículos organizados por sector:
@@ -47,7 +47,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** - Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** - El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
-- **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-eléctrico-privado-paraguay %})** - El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
+- **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** - El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
 - **[Criptominería en Paraguay: el costo real de la energía barata]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto pais con mayor minería de bitcoin del mundo.
 - **[Red eléctrica de Paraguay: el cuello de botella de la IA global]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** - Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
 - **[En 2027 Paraguay puede perder mil millones de dólares de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El Anexo C vence. Las negociaciones están congeladas. Paraguay recibe USD 1.000M al año. ¿Qué pasa si no hay acuerdo?
@@ -57,9 +57,9 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[Qué le pasa a una ciudad paraguaya cuando llega un data center]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
 
-- **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energética-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico.
+- **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico.
 
-- **[El modelo institucional de PSR para el sector eléctrico paraguayo]({% post_url 2026-08-19-modelo-institucional-psr-sector-eléctrico %})** — La consultora brasileña PSR propone separar el sector en tres piezas: ministerio, ente regulador y una ANDE enfocada. El documento omite seis asuntos decisivos, desde las tarifas hasta el rol de Itaipú y Yacyretá.
+- **[El modelo institucional de PSR para el sector eléctrico paraguayo]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %})** — La consultora brasileña PSR propone separar el sector en tres piezas: ministerio, ente regulador y una ANDE enfocada. El documento omite seis asuntos decisivos, desde las tarifas hasta el rol de Itaipú y Yacyretá.
 
 - **[El ministerio de energía que Paraguay prepara con tres viceministerios]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %})** — El proyecto de ley crea el Ministerio de Energía, Minería e Hidrocarburos absorbiendo al VMME y a la Dirección de Combustibles, con financiamiento por regalías y rectoría sobre la ANDE y Petropar.
 
