@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
@@ -78,7 +78,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** - El cofundador de Palantir se reunió con Santiago Peña en Mburuvicha Róga.
 - **[Ley de protección de datos en Paraguay: el marco que la era de la IA necesita]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** - Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
-- **[Paraguay entre China y Taiwán: el último aliado tecnológico]({% post_url 2026-07-09-paraguay-china-taiwan-geopolítica-ia %})** - Paraguay es el último pais de Sudamérica que reconoce a Taiwán.
+- **[Paraguay entre China y Taiwán: el último aliado tecnológico]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** - Paraguay es el último pais de Sudamérica que reconoce a Taiwán.
 - **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** - TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un pais de USD 45 mil millones de PIB?
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
