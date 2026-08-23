@@ -1,7 +1,8 @@
 ﻿---
 layout: post
 title: "Heladas y veda, un malestar común — Editorial 9 de julio 2026"
-description: "Heladas en Itapúa dañan cultivos; veda electoral silencia a Itaipú. El Pulso Paraguay 9/07 analiza impacto agro y silencio institucional. Contexto político, económico y climático."
+description: "El Pulso Paraguay de hoy destaca dos temas que, aunque a primera vista parecen desconectados, revelan un trasfondo común de preocupación social: el impacto de las heladas en la producción agrícola de Itapúa y las tensiones generadas por la veda electoral en energía de Itaipú{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %}."
+
 
 
 

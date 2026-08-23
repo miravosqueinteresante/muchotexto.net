@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gestión pública, la hoja de ruta digital — Editorial 21/08/2026"
-description: "La oficialización de la Estrategia Nacional de Inclusión Financiera ENIF 2026-2031 y el anuncio de un plan de innovación digital en la Municipalidad de Asunción marcan el ritmo de la agenda tecnológica de hoy en Paraguay."
+description: "La oficialización de la Estrategia Nacional de Inclusión Financiera ENIF 2026-2031 y el Anuncio de un plan de innovación digital en la Municipalidad de Asunción marcan el ritmo de la agenda tecnológica de hoy en Paraguay."
+
 
 
 date: 2026-08-21 18:00:00 -0300

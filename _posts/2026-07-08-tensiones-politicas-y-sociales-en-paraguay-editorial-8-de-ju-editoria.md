@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Entre política y fútbol — Editorial 8 de julio 2026"
-description: "Polémica Celeste Amarilla vs. Mbappé desata cruce política-deporte. Bachi Núñez llevará caso al Senado; MUVH bajo presión por predio MRA; seguridad infantil en Santa Rosa. Pulso 8/07."
+description: "La controversia entre Celeste Amarilla y Kylian Mbappé ha dominado las conversaciones en Paraguay, generando un cruce entre política y deporte que ha captado la atención nacional."
+
 
 
 
