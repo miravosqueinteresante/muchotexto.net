@@ -2,7 +2,7 @@
 layout: post
 title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
 date: 2026-05-28
-last_modified_at: 2026-08-15
+last_modified_at: 2026-08-23
 categories: articulos
 tags: cultura-filosofia ia-paraguay
 description: "El Papa León XIV publicó la primera encíclica sobre inteligencia artificial en 135 años. Un análisis de Magnifica Humanitas y lo que dice sobre ética, trabajo y dignidad humana."
@@ -10,12 +10,12 @@ description: "El Papa León XIV publicó la primera encíclica sobre inteligenci
 
 La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la advertencia central de *Magnifica Humanitas*, el primer documento papal dedicado íntegramente a la inteligencia artificial, y probablemente la intervención moral más significativa sobre el tema que haya producido líder religioso alguno.
 
-El 25 de mayo de 2026, el Vaticano publicó la primera encíclica del pontificado de León XIV. El subtítulo lo dice todo: *"Sobre la custodia de la persona humana en el tiempo de la inteligencia artificial"*. No es un documento técnico sobre algoritmos —el propio Papa reconoce su "incompetencia técnica" en la materia— sino una actualización de la Doctrina Social de la Iglesia para la era digital. La pregunta que la atraviesa de principio a fin es una sola: ¿qué significa ser humano cuando las máquinas pueden pensar, decidir y crear?
+El 15 de mayo de 2026, el Vaticano publicó la primera encíclica del pontificado de León XIV, presentada oficialmente el 25 de mayo. El subtítulo lo dice todo: *"Sobre la custodia de la persona humana en el tiempo de la inteligencia artificial"*. No es un documento técnico sobre algoritmos —el propio Papa reconoce su "incompetencia técnica" en la materia— sino una actualización de la Doctrina Social de la Iglesia para la era digital. La pregunta que la atraviesa de principio a fin es una sola: ¿qué significa ser humano cuando las máquinas pueden pensar, decidir y crear?
 
 Este artículo es una lectura comentada de ese documento, una exploración de sus ideas centrales y un intento de responder a la pregunta que deja flotando: ¿qué tiene que ver esto con nosotros?
 
 > **En resumen:**
-> - El Papa León XIV publicó *Magnifica Humanitas* el 25 de mayo de 2026, la primera encíclica sobre inteligencia artificial de la historia —135 años después de *Rerum Novarum*.
+> - El Papa León XIV publicó *Magnifica Humanitas* el 15 de mayo de 2026, la primera encíclica sobre inteligencia artificial de la historia —135 años después de *Rerum Novarum*.
 > - Declara que la IA no es neutral: sin supervisión humana y límites éticos, degrada el trabajo, la privacidad y la dignidad.
 > - Propone un "humanismo digital" con tres principios: la máquina al servicio del trabajo (no al revés), la privacidad como derecho humano, y la conciencia humana como límite infranqueable de la automatización. 
 > - No condena la tecnología sino su uso sin criterio moral, y llama a legisladores, desarrolladores y ciudadanos a decidir qué tipo de futuro quieren construir.
@@ -197,7 +197,7 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
       "name": "Que dice la enciclica Magnifica Humanitas sobre la IA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Publicada el 25 de mayo de 2026 por el Papa Leon XIV, de 110 paginas, es la primera enciclica dedicada a la IA en 135 anos. Sostiene que la IA no es moralmente neutra: toma el rostro de quien la concibe, la financia, la regula, la utiliza."
+        "text": "Publicada el 15 de mayo de 2026 por el Papa Leon XIV, de 110 paginas, es la primera enciclica dedicada a la IA en 135 anos. Sostiene que la IA no es moralmente neutra: toma el rostro de quien la concibe, la financia, la regula, la utiliza."
       }
     },
     {
