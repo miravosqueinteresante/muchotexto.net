@@ -3,6 +3,7 @@ layout: post
 title: "Consumo digital y cautela financiera — Editorial 24/08/2026"
 description: "El comercio electrónico en Paraguay multiplicó su volumen por nueve en los últimos cinco años, consolidándose como el motor principal de la transformación económica local."
 
+
 date: 2026-08-24 18:00:00 -0300
 last_modified_at: 2026-08-24
 categories: editorial

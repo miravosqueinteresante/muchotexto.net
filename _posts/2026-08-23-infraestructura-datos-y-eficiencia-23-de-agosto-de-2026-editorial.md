@@ -4,6 +4,7 @@ title: "Infraestructura, datos y eficiencia, 23 de agosto de 2026"
 description: "El desarrollo de una red neuronal convolucional para la detección de tuberculosis marca un hito en la aplicación de inteligencia artificial dentro del sistema de salud en Paraguay."
 
 
+
 date: 2026-08-23 18:00:00 -0300
 last_modified_at: 2026-08-23
 categories: editorial
