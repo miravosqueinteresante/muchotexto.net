@@ -12,7 +12,9 @@ last_modified_at: 2026-08-21
 
 No producimos noticias de primera mano. Tomamos información ya publicada por medios paraguayos y la organizamos, sintetizamos e interpretamos.
 
-Nuestro sistema recolecta diariamente el contenido de **7 fuentes de noticias** vía RSS: ABC Tecnología, ABC Ciencia, ABC Nacionales, La Nación, NPY, Diario HOY y La Tribuna. El Pulso Tech Paraguay aplica un filtro temático estricto: solo procesa noticias relacionadas con inteligencia artificial, infraestructura digital, energía para data centers, regulación tecnológica, startups, ciencia aplicada y economía digital. Esta selección deliberada responde al posicionamiento del sitio como observatorio de IA en Paraguay: cada pieza de contenido —desde el artículo de fondo hasta la nota diaria— refuerza la misma señal temática.
+Nuestro sistema recolecta diariamente el contenido de **6 fuentes de noticias** vía RSS: ABC Tecnología, ABC Ciencia, ABC Nacionales, La Nación, NPY y La Tribuna. El Pulso Tech Paraguay aplica un filtro temático estricto: solo procesa noticias relacionadas con inteligencia artificial, infraestructura digital, energía para data centers, regulación tecnológica, startups, ciencia aplicada y economía digital. Esta selección deliberada responde al posicionamiento del sitio como observatorio de IA en Paraguay: cada pieza de contenido —desde el artículo de fondo hasta la nota diaria— refuerza la misma señal temática.
+
+La cobertura da prioridad a las noticias tech de Paraguay o con vínculo directo con el país; cuando hay menos de tres locales, se completa con noticias de IA, semiconductores, data centers y regulación digital globales relevantes para el sector. El mensaje "sin novedades" solo se usa en días sin ninguna noticia tech real, local o internacional; ante la duda, se genera el Pulso. Diario HOY fue retirado de las fuentes en agosto de 2026 porque su RSS permanecía estancado desde diciembre de 2023.
 
 ## Qué hace la inteligencia artificial
 
