@@ -5,6 +5,7 @@ description: "El desarrollo de una red neuronal convolucional para la detección
 
 
 
+
 date: 2026-08-23 18:00:00 -0300
 last_modified_at: 2026-08-23
 categories: editorial
