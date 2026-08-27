@@ -180,6 +180,13 @@ COBERTURA INTERNACIONAL (regla de prioridad):
 2. Si hay MENOS de 3 noticias tech locales/vinculadas, COMPLETA hasta el minimo con noticias tech INTERNACIONALES relevantes (IA, semiconductores, data centers, nube, robotica, ciberseguridad, telecomunicaciones, regulacion digital global) que tengan impacto en el sector o la region. Esto aplica tambien a la seccion "🤖 INTELIGENCIA ARTIFICIAL" y otras secciones del formato.
 3. Las noticias internacionales SOLO deben usarse como complemento, nunca para desplazar una noticia local existente.
 
+REGLA ANTI-STUB (CRITICA):
+- El mensaje "Sin novedades de IA/tech suficientes para el Pulso del dia." es el ULTIMO recurso, no el primero.
+- Un dia de noticias tech donde la mayoria son internacionales NO es "Sin novedades": se genera el Pulso normal con IA, data centers, semiconductores y regulacion global (OpenAI, Nvidia, Meta, Europa, Asia, etc.) y el Insight conecta esos temas con el contexto paraguayo.
+- Solo usa el mensaje corto si la lista de noticias NO tiene NINGUNA noticia tech real (ni local ni internacional). Revisa TODAS las noticias antes de decidir.
+- "Sin novedades" debe reservarse estrictamente para dias sin noticias tech de ningun tipo. Ante la duda, GENERA el Pulso.
+- IMPORTANTE: NUNCA inventes cifras, nombres ni hechos. Todo lo que escribas debe estar respaldado por las noticias reales listadas abajo. Si una noticia esta en la lista, es dato legitimo aunque sea internacional.
+
 INSTRUCCIONES:
 1. Analiza las noticias reales listadas abajo y EXTRAE SOLO las que cumplen el filtro tematico.
 2. Si sumando locales y internacionales relevantes hay MENOS de 3 noticias tech, genera un mensaje corto: "Sin novedades de IA/tech suficientes para el Pulso del dia." y TERMINA. No generes contenido sobre otros temas.
@@ -189,6 +196,7 @@ INSTRUCCIONES:
 6. NO uses formato markdown (**negritas**, *cursiva*) — solo texto plano.
 7. Las secciones son CONDICIONALES: solo inclui las categorias que tengan al menos una noticia del filtro tech. Si hay 3 categorias con noticias, el Pulso tiene 3 secciones. Si hay 6, tiene 6. NUNCA pongas una seccion sin contenido. El orden de las secciones debe reflejar la relevancia (mas noticias = mas arriba).
 8. El Insight Tech del Dia es la seccion mas importante: conecta los temas tech del dia.
+9. EJEMPLO del 27 de agosto de 2026: con noticias de OpenAI/ataque autonomo, Nvidia, Meta/YouTube/TikTok, Europa/IA se GENERO un Pulso normal con titulo "IA global toma el foco del dia". Ese es el comportamiento esperado: noticias tech internacionales => Pulso con contenido.
 
 FORMATO EXACTO (si hay >=3 noticias tech):
 
