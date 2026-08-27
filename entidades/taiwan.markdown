@@ -4,25 +4,22 @@ title: "Taiwán (República de China)"
 description: >
   Perfil de Taiwán en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
-last_modified_at: 2026-08-20
+last_modified_at: 2026-08-27
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
 entity_description: >
-  Taiwán es el último aliado diplomático de Paraguay en Sudamérica y su socio estratégico en tecnología. Fabrica el 90% de los semiconductores avanzados del mundo (TSMC). Invierte en Paraguay a través del ICDF con becas, cooperación técnica y el proyecto Yguazú Digital. La relación Taiwán-Paraguay define la posición geopolítica del país en la guerra fría tecnológica entre China y EE.UU.
+  Taiwán es el último aliado diplomático de Paraguay en Sudamérica y su socio estratégico en tecnología. Fabrica el 90% de los semiconductores avanzados del mundo (TSMC). Invierte en Paraguay a través del ICDF con becas, cooperación técnica y el proyecto Yguazú Digital. En agosto 2026 el fabricante de memorias ADATA (2º productor mundial de módulos DRAM) inició la prospección de una planta de ensamblaje de memorias y SSDs en Minga Guazú bajo el régimen de maquila (Ley 7547/2025). La relación Taiwán-Paraguay define la posición geopolítica del país en la guerra fría tecnológica entre China y EE.UU.
 entity_category: geopolítica
 related_articles:
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
-    context: "Los préstamos taiwaneses a Paraguay superan los 400 millones de dólares. No son donaciones; son créditos para infraestructura, educación y tecnología, con condiciones más favorables que las del mercado y, sobre todo, sin las condiciones políticas..."
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
-    context: "Esta concentración geográfica extrema tiene un nombre; el Silicon Shield. La lógica es que el mundo es tan dependiente de los chips taiwaneses que ninguna potencia —ni siquiera China— se atrevería a interrumpir su producción. Taiwan Semiconductor..."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "A esto se suma un problema jurisdiccional que la ley paraguaya no resuelve. Si Google, Microsoft o Amazon —empresas que el fondo taiwanés ICDF ya contactó para sondear interés— almacenan datos en Yguazú Digital, la ley estadounidense CLOUD Act..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
-    context: "> **En resumen;** > - Paraguay y Taiwán proponen para Yguazú Digital el mismo modelo de entidad binacional 50/50 que creó Itaipú en 1973. No existe ningún precedente mundial de gobernanza binacional aplicada a infraestructura de inteligencia..."
+    context: "La asimetría Itaipú era de tamaño; Brasil tiene 28 veces la población de Paraguay y 47 veces su PIB. Pero compartían un río y una necesidad concreta; energía. La asimetría Paraguay-Taiwán es de naturaleza. Taiwán no necesita la energía de Paraguay..."
 obs_glosario:
   - label: "TSMC (Taiwan Semiconductor Manufacturing Company)"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/

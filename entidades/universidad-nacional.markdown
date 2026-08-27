@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-08-20
+last_modified_at: 2026-08-27
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >
@@ -16,7 +16,7 @@ related_articles:
     context: "Cada vez que un modelo de inteligencia artificial responde una pregunta, traduce un texto o identifica un objeto en una imagen, hubo un ser humano que lo entrenó. Uno que etiquetó datos durante horas por centavos de dólar. Uno cuyo nombre no aparece."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley integral de protección de datos personales de la historia del país. La segunda; va a abrir sus puertas la primera..."
+    context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda; va a abrir sus puertas la primera..."
   - title: "Por qué Asunción no es una ciudad inteligente todavía"
     url: /articulos/2026/07/17/smart-cities-asuncion-paraguay/
     context: "Medellín tiene un sistema de teleféricos públicos que conecta barrios pobres con el metro. Seis líneas, 14 kilómetros, 22 millones de pasajeros al año. La línea K costó 26 millones de dólares en 2004 y redujo un viaje de dos horas y media a 30..."
