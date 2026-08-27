@@ -215,7 +215,7 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 #### Regulación y leyes
 - **Anexo C: suspendido abr 2025, reanudado nov 2025**: TRUE. Verificado en AGENTS.md.
 - **Acuerdo tarifario vence 1 ene 2027**: TRUE. Verificado en AGENTS.md.
-- **Ley 7547/2025 reforma Ley de Maquila**: UNVERIFIABLE. BACN devuelve una ley no relacionada (Ley 1229 de 1998) para la URL de la Ley 7547. No se pudo confirmar con fuente primaria. La existencia de reformas a la Ley de Maquila es mencionada en prensa pero el número exacto 7547 requiere verificación.
+- **Ley 7547/2025 reforma Ley de Maquila**: VERIFICADO (27-ago-2026). BACN tiene la norma: "Ley Nº 7547/2025 / DEL RÉGIMEN DE MAQUILA", promulgada y publicada el 08-09-2025. Reemplaza a la Ley 1064/97. URL BACN: https://www.bacn.gov.py/leyes-paraguayas/12853/ley-n-75472025-del-regimen-de-maquila. Confirma tributo único del 1% sobre valor agregado nacional o factura de exportación (el mayor), maquila de servicios, duración máxima de 20 años, devolución de IVA (tope 0,5% para servicios), modalidades shelter/capacidad ociosa. Además existe la Ley 7548/2025 (incentivos fiscales a inversiones) y la Ley 7546/2025 (ensamblaje), según la Cámara de Comercio Paraguay-Brasil.
 - **Paraguay sin regulación específica para data centers**: TRUE. Verificado en AGENTS.md ("sin regulación específica. Ley 294/1993 de EIA aplica genéricamente, nunca aplicada al sector").
 
 ### Mesa Energética Nacional y gobernanza institucional (verificado ago 2026)
