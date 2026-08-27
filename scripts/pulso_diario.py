@@ -69,7 +69,7 @@ RSS_FEEDS = [
     ("ABC Nacionales", "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"),
     ("La Nacion", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
     ("NPY", "https://www.npy.com.py/index.rss"),
-    ("Diario HOY", "https://www.hoy.com.py/feed/"),
+    # HOY removed 2026-08-25: RSS stale since Dec 2023 (hoy.com.py/feed/ and /rss/ both return 2023 articles)
     ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
 ]
 
