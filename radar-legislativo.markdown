@@ -3,7 +3,7 @@ layout: page
 title: "Radar legislativo de IA en Paraguay"
 permalink: /radar-legislativo/
 description: "Estado de leyes, decretos y proyectos de IA, energía y datos en Paraguay: vigentes, en trámite y pendientes. Actualizado con fuentes verificadas."
-last_modified_at: 2026-08-20
+last_modified_at: 2026-08-28
 ---
 
 <style>

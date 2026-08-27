@@ -2,8 +2,8 @@
 layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
-description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 13 de agosto de 2026."
-last_modified_at: 2026-08-13
+description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 28 de agosto de 2026."
+last_modified_at: 2026-08-28
 ---
 
 Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
@@ -22,6 +22,12 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 - **[Ley 7503/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/)** — Crea el Sistema Nacional de Pagos. Extiende la supervisión del Banco Central del Paraguay a empresas fintech. Interoperabilidad obligatoria entre billeteras y bancos. SPI/Sipap registró 28 millones de transacciones en junio 2025.
 - **[Ley 7572/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/)** — Ley del Mercado de Valores. Artículo 73: reconoce instrumentos financieros emitidos en blockchain. Marco legal para la tokenización de activos en Paraguay.
+
+## Industria, maquila y ensamblaje electrónico
+
+- **[Ley 7547/2025 del Régimen de Maquila](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/)** — Moderniza la Ley 1064/97. Tributo único del **1%** sobre el valor agregado nacional o la factura de exportación (el mayor), beneficios hasta **20 años**, maquila de servicios, modalidades shelter y capacidad ociosa. Promulgada y publicada el 8 de septiembre de 2025.
+- **[Ley 7546/2025 de Producción y Ensamblaje](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/)** — Política Nacional para la Producción y el Ensamblaje de Equipos Eléctricos, Electrónicos, Electromecánicos y Digitales. IVA sobre base reducida (15% materiales, 45% producto final), mínimo **20% de valor agregado nacional**, beneficios 20 años. A diferencia de la maquila, permite venta en mercado interno. Publicada el 8 de septiembre de 2025.
+- **[Ley 7548/2025 de Incentivos Fiscales](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/)** — Actualiza el Decreto-Ley 27 y la Ley 60/90. Exención de arancel aduanero a la importación de bienes de capital, exención de IVA, INR e IDU (el piso de inversión de US$13M aplica solo a las exenciones de INR/IDU). Reglamentada por el Decreto 5432 (30 de enero de 2026). Publicada el 8 de septiembre de 2025.
 
 ## Energía e infraestructura
 

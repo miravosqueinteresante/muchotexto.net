@@ -2,8 +2,8 @@
 layout: page
 title: "Glosario vivo de Inteligencia Artificial en Paraguay"
 permalink: /glosario/
-description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 20 de agosto de 2026."
-last_modified_at: 2026-08-13
+description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 28 de agosto de 2026."
+last_modified_at: 2026-08-28
 ---
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
@@ -111,6 +111,8 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **TSMC (Taiwan Semiconductor Manufacturing Company)** — La mayor fundición de semiconductores del mundo. Fabrica más del 90% de los chips más avanzados (7nm, 5nm, 3nm) para clientes como NVIDIA, Apple y AMD. Facturó USD 122.000 millones en 2025. Sus fábricas fuera de Taiwán están en Arizona, Kumamoto (Japón) y Dresden (Alemania). No tiene presencia en América Latina.
 → [Por qué Taiwán no fabrica semiconductores en Paraguay](/articulos/2026/07/15/semiconductores-taiwan-paraguay/)
 
+**Backend de semiconductores** — El eslabón de la cadena que va de la oblea al producto terminado: ensamblaje de los chips en módulos de memoria, soldadura, encapsulado y testeo. A diferencia de las fundiciones (frontend, que requieren inversiones multimillonarias), el backend es viable con salas limpias y tecnología de montaje superficial (SMT). Es el eslabón que [ADATA proyecta para Minga Guazú](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/).
+
 **Silicon Shield** — Concepto geopolítico que describe la industria de semiconductores de Taiwán como un activo de defensa estratégica. La lógica: el mundo es tan dependiente de los chips taiwaneses que ninguna potencia se atrevería a interrumpir su producción. Taiwán produce aproximadamente el 60% de todos los semiconductores del mundo.
 → [Por qué Taiwán no fabrica semiconductores en Paraguay](/articulos/2026/07/15/semiconductores-taiwan-paraguay/)
 
@@ -120,7 +122,7 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **Ley 7593/2025** — Primera ley integral de protección de datos personales de Paraguay, vigente desde noviembre de 2027. Alineada con el GDPR europeo, pero con una autoridad sin independencia estructural y multas máximas de USD 160.000.
 → [Ley de protección de datos en Paraguay](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 
-**Maquila tecnológica** — Régimen tributario que grava los servicios tecnológicos exportados al 1%, creado por la Ley 7547/2025. Similar al modelo de India y Filipinas. Paraguay lo aprobó pero aún no lo utiliza a escala.
+**Maquila tecnológica** — Régimen tributario que grava los servicios tecnológicos exportados al 1%, creado por la Ley 7547/2025. Similar al modelo de India y Filipinas. En agosto de 2026, el fabricante taiwanés de memorias [ADATA inició la prospección de una planta de ensamblaje](https://muchotexto.net/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/) bajo este régimen en Minga Guazú.
 
 **UPTP (Universidad Politécnica Taiwán-Paraguay)** — Universidad fundada en 2018 como parte de la cooperación bilateral con Taiwán. Ha graduado a más de 300 estudiantes y proyecta 500 ingenieros por año.
 → [Educación tech en Paraguay](/articulos/2026/07/09/educacion-tech-paraguay-ia/)

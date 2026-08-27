@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Observatorio de IA en Paraguay: data centers, energia, regulación, empleo tech y geopolítica. Analisis con datos duros y fuentes verificables."
-last_modified_at: 2026-08-21
+last_modified_at: 2026-08-28
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -123,6 +123,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[El comercio electrónico paraguayo crece al 40% anual. ¿Y la logística?]({% post_url 2026-07-24-ecommerce-logistica-paraguay %})** - El e-commerce mueve USD 700-2.180M y crece 40% anual, pero sin direcciones estandarizadas la última milla sigue a ciegas.
 
 - **[Lo que un data center compra y Paraguay no puede vender]({% post_url 2026-07-25-cadena-valor-data-center %})** - La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW.
+- **[ADATA mira a Minga Guazú para ensamblar memorias y SSDs]({% post_url 2026-08-28-adata-minga-guazu-memorias-semiconductores %})** - El 2.º fabricante mundial de memorias DRAM explora una planta de ensamblaje en Minga Guazú: maquila (Ley 7547), ensamblaje (7546), regla de origen del Mercosur (60% hasta 2038) y la tarifa que falta definir.
 
 **Próximamente:**
 

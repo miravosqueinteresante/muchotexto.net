@@ -100,3 +100,18 @@
   estado: pendiente
   nota: "Paraguay no tiene cuotas de contratación local ni obligaciones de beneficio comunitario para data centers."
   articulo: /articulos/2026/07/25/cadena-valor-data-center/
+
+- nombre: "Ley 7547/2025 — Régimen de Maquila"
+  estado: vigente
+  nota: "Moderniza la Ley 1064/97. Tributo único del 1% sobre valor agregado nacional o factura de exportación (el mayor), beneficios hasta 20 años, maquila de servicios, modalidades shelter y capacidad ociosa. Promulgada y publicada el 08-09-2025."
+  articulo: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
+
+- nombre: "Ley 7546/2025 — Producción y ensamblaje electrónico"
+  estado: vigente
+  nota: "Política Nacional para la Producción y el Ensamblaje de Equipos Eléctricos, Electrónicos, Electromecánicos y Digitales. IVA sobre base reducida (15% materiales, 45% producto), mínimo 20% de valor agregado nacional, beneficios 20 años. Publicada el 08-09-2025. Distinta de la maquila: permite venta en mercado interno."
+  articulo: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
+
+- nombre: "Ley 7548/2025 — Incentivos fiscales para inversiones"
+  estado: vigente
+  nota: "Actualiza el Decreto-Ley 27 y la Ley 60/90. Exención de arancel aduanero a bienes de capital, exención de IVA, INR e IDU (piso de US$13M solo para INR/IDU). Reglamentada por Decreto 5432 (30-ene-2026). Publicada el 08-09-2025."
+  articulo: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
