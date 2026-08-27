@@ -95,7 +95,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Julio 2026** — [BCP emite reglamento tarifario](/articulos/2026/07/24/ecommerce-logistica-paraguay/) para transparentar comisiones de medios de pago electrónicos.
 - **Julio 2026** — MOPC presenta [monitoreo inteligente del Puente Bioceánico](/articulos/2026/07/17/smart-cities-asuncion-paraguay/) con sensores sísmicos y gemelos digitales.
 - **2 Julio 2026** — El [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/) se expande a Juzgados Penales de Saltos del Guairá. ~42% de Juzgados de Paz ya opera con el sistema.
-- **18-20 Agosto 2026** — El [vicepresidente de ADATA para América Latina, Felipe Masselli](#), se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de ensamblaje de memorias DRAM y SSDs en Minga Guazú. Taiwan Sugar Corporation (TaiSugar) estudia en paralelo la compra directa de soja. Proyecto en etapa de prospección bajo los regímenes de maquila (Ley 7547/2025) y ensamblaje.
+- **18-20 Agosto 2026** — El [vicepresidente de ADATA, Felipe Masselli](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/), se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de ensamblaje de memorias DRAM y SSDs en Minga Guazú. Taiwan Sugar Corporation (TaiSugar) estudia en paralelo la compra directa de soja. Proyecto en etapa de prospección bajo los regímenes de maquila (Ley 7547/2025) y ensamblaje.
 
 ## Lo que viene
 

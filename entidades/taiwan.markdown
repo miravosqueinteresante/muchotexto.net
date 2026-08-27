@@ -20,6 +20,9 @@ related_articles:
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "La asimetría Itaipú era de tamaño; Brasil tiene 28 veces la población de Paraguay y 47 veces su PIB. Pero compartían un río y una necesidad concreta; energía. La asimetría Paraguay-Taiwán es de naturaleza. Taiwán no necesita la energía de Paraguay..."
+  - title: "ADATA mira a Minga Guazú para ensamblar memorias y SSDs"
+    url: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
+    context: "El fabricante taiwanés de memorias ADATA, segundo mayor productor del mundo de módulos DRAM, inició la prospección de una planta de ensamblaje de memorias y unidades de estado sólido en Minga Guazú, Alto Paraná. Su vicepresidente lo dijo sin..."
 obs_glosario:
   - label: "TSMC (Taiwan Semiconductor Manufacturing Company)"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
@@ -57,4 +60,4 @@ obs_casos-de-uso:
     context: "Paraguay produce alrededor de 400 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en..."
 ---
 
-4 articulos en el observatorio mencionan a Taiwán.
+5 articulos en el observatorio mencionan a Taiwán.
