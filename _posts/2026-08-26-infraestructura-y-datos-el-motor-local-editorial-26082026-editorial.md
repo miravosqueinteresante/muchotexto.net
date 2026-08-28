@@ -3,6 +3,7 @@ layout: post
 title: "Infraestructura y datos, el motor local — Editorial 26/08/2026"
 description: "La expansión operativa de New Zone Importados en Ciudad del Este, que proyecta pasar de 9.800 a 25.000 metros cuadrados para el 2027, marca un punto de inflexión en la forma en que el sector comercial de Paraguay adopta la gestión de datos."
 
+
 date: 2026-08-26 18:00:00 -0300
 last_modified_at: 2026-08-26
 categories: editorial
