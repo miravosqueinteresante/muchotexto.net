@@ -3,6 +3,7 @@ layout: post
 title: "Digitalización estatal, retos de seguridad — Editorial 29/08/2026"
 description: "El Instituto de Previsión Social IPS anunció el inicio de un censo digital para jubilados y pensionados a partir de setiembre, marcando un paso concreto en la modernización administrativa del Estado paraguayo."
 
+
 date: 2026-08-29 18:00:00 -0300
 last_modified_at: 2026-08-29
 categories: editorial
