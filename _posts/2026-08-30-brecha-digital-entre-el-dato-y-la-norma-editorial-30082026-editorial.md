@@ -3,6 +3,7 @@ layout: post
 title: "Brecha digital, entre el dato y la norma — Editorial 30/08/2026"
 description: "El debate técnico sobre la naturaleza cognitiva de la inteligencia artificial, que hoy ocupa la agenda global, contrasta directamente con la realidad administrativa que se vive en Paraguay."
 
+
 date: 2026-08-30 18:00:00 -0300
 last_modified_at: 2026-08-30
 categories: editorial
