@@ -3,6 +3,7 @@ layout: post
 title: "Infraestructura, IA y el futuro eléctrico — Editorial 01/09/2026"
 description: "La estatal de energía anunció la licitación de nuevos módulos fotovoltaicos en el Chaco, marcando un hito en la planificación energética del país."
 
+
 date: 2026-09-01 18:00:00 -0300
 last_modified_at: 2026-09-01
 categories: editorial
