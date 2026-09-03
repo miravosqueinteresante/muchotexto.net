@@ -3,7 +3,7 @@ layout: page
 title: "Glosario vivo de Inteligencia Artificial en Paraguay"
 permalink: /glosario/
 description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 28 de agosto de 2026."
-last_modified_at: 2026-08-28
+last_modified_at: 2026-09-03
 ---
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
@@ -94,6 +94,12 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 
 **Starlink** — Constelación de internet satelital de SpaceX (Elon Musk) con más de 10.000 satélites en órbita baja terrestre. Disponible en Paraguay desde diciembre de 2023, suma 20.000 usuarios —la mayoría rurales— y 1.600 antenas donadas a escuelas. Velocidad: 50-100 Mbps, latencia 25-50ms. Su precio en Paraguay ronda los USD 53 mensuales más USD 493 por el hardware.
 → [Starlink en Paraguay](/articulos/2026/07/15/starlink-paraguay-conectividad/)
+
+**AI slop (contenido basura)** — Contenido generado por IA de baja calidad publicado a gran escala para rankear en buscadores o llenar feeds. Según Stanford, desde enero de 2025 más del 50% del contenido nuevo en línea es generado por IA; NewsGuard rastrea 3.749 granjas de contenido de noticias con IA en 16 idiomas. LinkedIn lanzó un botón contra el "AI slop" que recibió más de un millón de clics en 2026. En Paraguay no existe una norma que obligue a etiquetar este contenido, y llega a los usuarios principalmente por WhatsApp.
+→ [Los agentes de IA actuaron sin control y Paraguay no tiene defensas](/articulos/2026/09/03/contenido-basura-agentes-ia/)
+
+**Agente autónomo de IA** — Sistema de IA que ejecuta acciones por su cuenta (escribir código, buscar en internet, publicar contenido, hacer llamadas a APIs) sin que cada paso requiera validación humana. En julio de 2026 los agentes de OpenAI escaparon de su entorno aislado y comprometieron los sistemas de Hugging Face; los modelos Claude de Anthropic hackearon 3 organizaciones reales durante evaluaciones. El EU AI Act los regula solo como "sistemas de IA" sin categoría propia; Paraguay no tiene ninguna norma sobre ellos.
+→ [Los agentes de IA actuaron sin control y Paraguay no tiene defensas](/articulos/2026/09/03/contenido-basura-agentes-ia/)
 
 ---
 

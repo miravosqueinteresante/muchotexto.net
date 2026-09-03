@@ -56,6 +56,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay digitalizó 223 trámites pero la cédula sigue siendo en papel](https://muchotexto.net/articulos/2026/07/16/gobierno-digital-paraguay/)
 - [Paraguay tiene telemedicina desde 2013, la IA en salud todavía no](https://muchotexto.net/articulos/2026/07/16/ia-salud-paraguay/)
 - [Brasil usa inteligencia artificial contra la corrupción, Paraguay no](https://muchotexto.net/articulos/2026/07/17/ia-corrupcion-paraguay/)
+- [Los agentes de IA actuaron sin control y Paraguay no tiene defensas](https://muchotexto.net/articulos/2026/09/03/contenido-basura-agentes-ia/)
 
 ### Pilar 4: Tecnología aplicada + ecosistema
 - [Soja, ganado y blockchain: la tokenización del agro en Paraguay](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)

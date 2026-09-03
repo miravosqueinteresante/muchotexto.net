@@ -2,8 +2,8 @@
 layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
-description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 28 de agosto de 2026."
-last_modified_at: 2026-08-28
+description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 3 de septiembre de 2026."
+last_modified_at: 2026-09-03
 ---
 
 Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
@@ -89,6 +89,7 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 - **Sin legislación de contenido local para data centers.** El memorándum de entendimiento de Yguazú Digital no incluye compromisos de formación de técnicos paraguayos ni exigencias de contenido local obligatorio. Paraguay captura solo el 15-20% del valor de los proyectos sin mecanismos legales para aumentar esa proporción. [Leer más](/articulos/2026/07/25/cadena-valor-data-center/).
 
 - **Estrategia Nacional de IA** — El MITIC realizó consulta pública en 2024. La UNESCO publicó el RAM Report (diagnóstico de preparación) en diciembre 2025. No hay documento oficial publicado aún.
+- **Ley general de IA, de deepfakes y de contenido sintético — AUSENCIA.** No existe norma paraguaya vigente que regule la inteligencia artificial, los deepfakes, los agentes autónomos ni el contenido sintético. Existen tres proyectos en trámite: el proyecto general de ley de IA (S-2502197, Senado, ingresado mayo 2025), un proyecto de tipificación de deepfakes (D-2585277, Diputados, junio 2025) y una iniciativa del Senado de marzo 2026 contra las imitaciones digitales no consentidas. [Análisis del vacío](/articulos/2026/09/03/contenido-basura-agentes-ia/).
 - **Ley de historia clínica electrónica** — Aprobada en Diputados (media sanción) en abril 2025. Bajo revisión del Senado.
 - **Reglamentación de la Ley 7593** — Debe estar lista antes de noviembre 2027. La autoridad de aplicación (Dirección General dentro del MITIC) aún no fue creada.
 - **Reforma del Anexo C de Itaipú** — Negociaciones suspendidas entre abril y noviembre de 2025, reanudadas en noviembre de 2025. Continúan activas sin nuevo acuerdo a agosto de 2026. El reloj corre hacia el 1 de enero de 2027.

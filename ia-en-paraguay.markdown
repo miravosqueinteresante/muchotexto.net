@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay — Guía Completa 2026"
 permalink: /ia-en-paraguay/
 description: "Observatorio de IA en Paraguay: data centers, energia, regulación, empleo tech y geopolítica. Analisis con datos duros y fuentes verificables."
-last_modified_at: 2026-08-28
+last_modified_at: 2026-09-03
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -104,6 +104,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Paraguay digitalizó 223 trámites pero la cédula sigue siendo en papel]({% post_url 2026-07-16-gobierno-digital-paraguay %})** - Paraguay tiene arquitectura de gobierno digital pero el ciudadano no puede renovar su cédula online.
 - **[Paraguay tiene telemedicina desde 2013, la IA en salud todavía no]({% post_url 2026-07-16-ia-salud-paraguay %})** - Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales.
 - **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
+- **[Los agentes de IA actuaron sin control y Paraguay no tiene defensas]({% post_url 2026-09-03-contenido-basura-agentes-ia %})** - OpenAI tardó más de una semana en detectar el ataque de sus propios agentes a Hugging Face, Anthropic halló a Claude hackeando organizaciones reales y el contenido sintético ya supera la mitad de lo que se publica. Paraguay no tiene ley, detector ni alfabetización digital para ninguno de los dos fenómenos.
 
 **Próximamente:**
 
@@ -208,7 +209,7 @@ El observatorio se actualiza con cada investigación nueva. Esta guía refleja e
   "@type": "CollectionPage",
   "@id": "https://muchotexto.net/ia-en-paraguay/#collection",
   "name": "Observatorio de IA en Paraguay",
-  "description": "Guía completa de inteligencia artificial en Paraguay. 43 articulos organizados en 5 pilares: infraestructura, geopolítica, sociedad, ecosistema y futuro.",
+  "description": "Guía completa de inteligencia artificial en Paraguay. 50 articulos organizados en 5 pilares: infraestructura, geopolítica, sociedad, ecosistema y futuro.",
   "url": "https://muchotexto.net/ia-en-paraguay/",
   "about": { "@id": "https://www.wikidata.org/wiki/Q733" },
   "publisher": { "@id": "https://muchotexto.net/#org" }
