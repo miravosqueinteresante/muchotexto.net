@@ -293,3 +293,34 @@ Fuentes: Eurostat (nrg_pc_205, abril 2026), fuentes de mercado (CBRE, JLL, DCP r
 
 #### Graduados STEM
 - **~400 graduados en informática por año**: TRUE (INE vía La Tribuna, 22-01-2026). NO usar "400-600" ni "600" como techo. Estimación sectorial: 20-50 empleos por 100 MW en data centers.
+
+### Auditoría de sitio — squirrelscan (2-sep-2026)
+
+**Score final: 80/100 (B)**. CLI: `npx squirrelscan audit https://muchotexto.net`.
+
+| Categoría | Score | Notas |
+|-----------|-------|-------|
+| Structured Data | 100% | JSON-LD completo (Article, BreadcrumbList, Organization, Person, WebPage). El error `coverage-outlier` (18 pages sin Article schema) es en páginas estáticas (about, contacto, etc.) — esperado. |
+| Core SEO | 71% | 54 meta titles >60 chars, 29 meta descriptions >160 chars. Fixable reduciendo títulos/descripciones de artículos. |
+| E-E-A-T | 100% | Author byline con `rel="author"` linkeando a `/about`. Visible en posts. |
+| Crawlability | 100% | sitemap.xml completo, robots.txt correcto. |
+| Links | 82% | 24 broken external links (15×404, 4×403 — sobre todo URLs con caracteres acentuados en ABC). 14 orphan pages (editorial/pulso sin inbound links internos). |
+| Performance | 60% | TTFB ~600ms (GitHub Pages), lazy loading en above-fold (cesar-sanchez.webp), unminified CSS/JS. Limitaciones de hosting. |
+| Security | 88% | Sin HSTS/CSP headers (requiere CDN/server). Expected for GitHub Pages. |
+| Content | 77% | 8 thin entity pages (<300 words). Heading hierarchy warnings en /entidades/, /grafo/, /radar-legislativo/. |
+| Images | 66% | cesar-sanchez.webp 56×56 sin srcset (oversized). |
+| Analytics | 100% | GA4 configurado. |
+| Social Media | 100% | Open Graph + Twitter cards completas. |
+| Accessibility | 85% | 127 warnings (color contrast, identical links, focus outlines). |
+
+**Historial de commits de auditoría:**
+- `76a3465` — JSON-LD, broken links, meta titles, E-E-A-T
+- `8f8b191` — image, publisher.logo
+- `37e4dfb` — datePublished fallback, WebPage.name
+- `b01dc58` — author byline con `rel="author"` (E-E-A-T → 100%)
+
+**Acciones pendientes de alto impacto:**
+1. Reducir meta titles a ≤60 chars (54 páginas afectadas)
+2. Corregir 24 broken external links (acentos en URLs)
+3. Agregar Article schema a páginas estáticas para eliminar `coverage-outlier`
+4. Agregar inbound links a editorial/pulso para reducir orphan pages
