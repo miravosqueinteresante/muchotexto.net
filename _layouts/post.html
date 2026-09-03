@@ -58,7 +58,11 @@ layout: default
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
     "author": { "@id": "https://muchotexto.net/#author", "name": "César Sánchez" },
-    "publisher": { "@id": "https://muchotexto.net/#org", "name": "MuchoTexto" },
+    "publisher": {
+      "@id": "https://muchotexto.net/#org",
+      "name": "MuchoTexto",
+      "logo": { "@type": "ImageObject", "url": "{{ site.url }}/assets/images/og-image.png" }
+    },
     "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
   }
   </script>
