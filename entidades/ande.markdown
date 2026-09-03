@@ -4,12 +4,14 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-08-27
+last_modified_at: 2026-09-03
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
   La ANDE es la empresa estatal de electricidad de Paraguay. Opera 16.000 MW de capacidad instalada (Itaipú, Yacyretá, Acaray) con la tarifa industrial más baja de Sudamérica (0.03-0.05 USD/kWh). Es el actor central en la apertura del sector eléctrico (Ley 7599/2025, Decreto 6034) y el principal proveedor de energía para data centers y criptominería.
 entity_category: infraestructura
+entity_datos_url: https://datospublicos.muchotexto.net/energia.html
+entity_datos_desc: "75 indicadores del sistema eléctrico paraguayo: consumo, demanda, pérdidas, clientes y tarifas"
 related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/

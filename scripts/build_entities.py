@@ -384,6 +384,12 @@ def generate_entity_page(entity, related_articles, obs_matches):
             lines.append(f"  {stripped}")
     lines.append(f"entity_category: {category}")
 
+    # Capa de datos (MuchoTexto Data): se emite solo si la entidad tiene datos_url
+    if entity.get("datos_url"):
+        lines.append(f"entity_datos_url: {entity['datos_url']}")
+        if entity.get("datos_desc"):
+            lines.append(f'entity_datos_desc: "{entity["datos_desc"]}"')
+
     if related_articles:
         lines.append("related_articles:")
         for art in related_articles:

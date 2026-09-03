@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-08-27
+last_modified_at: 2026-09-03
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >

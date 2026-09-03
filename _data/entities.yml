@@ -30,6 +30,8 @@
     de energía para data centers y criptominería.
   category: infraestructura
   featured: true
+  datos_url: "https://datospublicos.muchotexto.net/energia.html"
+  datos_desc: "75 indicadores del sistema eléctrico paraguayo: consumo, demanda, pérdidas, clientes y tarifas"
   related_laws:
     - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
     - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
@@ -47,9 +49,28 @@
     competitiva central de Paraguay en la economía de la IA.
   category: infraestructura
   featured: true
+  datos_url: "https://datospublicos.muchotexto.net/itaipu.html"
+  datos_desc: "135 indicadores (2000–2026): generación por sector 50/60 Hz y suministro a Paraguay y Brasil"
   related_laws:
     - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
     - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"
+
+- slug: yacyreta
+  name: Yacyretá
+  name_full: Entidad Binacional Yacyretá
+  description: >
+    La Entidad Binacional Yacyretá (EBY), creada con Argentina en 1973, es la
+    segunda mayor hidroeléctrica de Paraguay. Aporta alrededor de 1.550 MW al
+    sistema paraguayo (18% de la capacidad instalada) y cerca del 11% de la
+    generación de la matriz. Junto con Itaipú concentra el 97% de la capacidad
+    hidroeléctrica del país en la cuenca del Paraná. Su serie de generación
+    histórica se publica en MuchoTexto Data.
+  category: infraestructura
+  featured: true
+  datos_url: "https://datospublicos.muchotexto.net/yacyreta.html"
+  datos_desc: "Generación binacional Paraguay-Argentina: mensual EBY y agregada anual"
+  related_laws:
+    - "Tratado de Yacyretá (1973) — entidad binacional Paraguay-Argentina"
 
 - slug: yguazu-digital
   name: Yguazú Digital

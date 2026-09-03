@@ -37,7 +37,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Simulador Paraguay 2040](/simulador-2040/) — Cinco palancas, dos shocks
 - [Calculadora de costo energético](/calculadora-energética/) — Comparación internacional de tarifas
 - [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos
-- [Grafo del Observatorio](/grafo/) — Relaciones entre las 18 entidades clave
+- [Grafo del Observatorio](/grafo/) — Relaciones entre las 19 entidades clave
 - [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo
 - [Claims verificados](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
 - [Datos verificados — MuchoTexto Data](https://datospublicos.muchotexto.net/) — Infraestructura de datos verificables sobre Paraguay: ANDE, Itaipú y Yacyretá con fuente y trazabilidad completa

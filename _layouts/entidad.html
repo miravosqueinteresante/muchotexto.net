@@ -59,6 +59,14 @@ layout: default
   </section>
   {% endif %}
 
+  {% if page.entity_datos_url %}
+  <section class="entity-section">
+    <h2>Datos verificados</h2>
+    <p class="entity-section-more">La serie histórica de esta entidad se publica con fuente, método de extracción y trazabilidad en MuchoTexto Data.</p>
+    <p class="entity-section-more"><a href="{{ page.entity_datos_url }}" rel="noopener noreferrer" target="_blank">{% if page.entity_datos_desc %}{{ page.entity_datos_desc }}{% else %}Explorar los datos &rarr;{% endif %}</a></p>
+  </section>
+  {% endif %}
+
   {% if page.obs_cronologia %}
   <section class="entity-section">
     <h2>En la cronologia</h2>
