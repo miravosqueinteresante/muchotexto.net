@@ -204,7 +204,7 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
 <li><strong>IDB</strong> – <a href="https://publications.iadb.org/publications/english/document/Regulatory-Sandboxes-Innovation-Hubs-and-Other-Regulatory-Innovation-Tools-in-Latin-America-and-the-Caribbean.pdf">Regulatory Sandboxes, Innovation Hubs in LAC</a></li>
 <li><strong>INVENTTA / Doble Filo MX</strong> – Blockchain soberana paraguaya</li>
 <li><strong>RDN</strong> – <a href="https://www.rdn.com.py/2026/02/10/paraguay-en-las-puertas-del-negocio-bitcoin/">Entrevista a Bruno Vaccotti</a> (Feb 2026)</li>
-<li><strong>Vouga Abogados</strong> – <a href="https://www.vouga.com.py/en/avances-en-la-regulación-fintech-en-el-paraguay-criptomonedas-y-cripto-activos/">Avances en regulación fintech</a></li>
+<li><strong>Vouga Abogados</strong> – <a href="https://www.vouga.com.py/avances-en-la-regulacion-fintech-en-el-paraguay-criptomonedas-y-cripto-activos/">Avances en regulación fintech</a></li>
 <li>**Nethermind** — "Securing Tokenized RWAs" (2026)</li>
 </ol>
 

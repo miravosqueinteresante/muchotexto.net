@@ -10,9 +10,10 @@ layout: default
     "@type": "TechArticle",
     "headline": {{ page.title | jsonify }},
     "description": {{ page.description | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
-    "author": { "@id": "https://muchotexto.net/#author" },
-    "publisher": { "@id": "https://muchotexto.net/#org" },
+    "author": { "@id": "https://muchotexto.net/#author", "name": "César Sánchez" },
+    "publisher": { "@id": "https://muchotexto.net/#org", "name": "MuchoTexto" },
     "isPartOf": { "@id": "https://muchotexto.net/ia-en-paraguay/#collection" },
     "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
     {% if page.faq %}

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Entidades — Infraestructura de conocimiento sobre IA en Paraguay"
-description: "Índice de entidades clave del Observatorio de IA en Paraguay. MITIC, ANDE, Itaipú, Yguazú Digital, Taiwán y más. Perfiles con artículos, leyes, cronología y fuentes verificables."
+title: "Entidades — Observatorio IA Paraguay"
+description: "Entidades clave del Observatorio de IA en Paraguay: MITIC, ANDE, Itaipú, Yguazú Digital, Taiwán y más. Perfiles con artículos, leyes y fuentes verificables."
 permalink: /entidades/
 last_modified_at: 2026-07-30
 ---

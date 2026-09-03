@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de
+title: Acerca de MuchoTexto
 permalink: /about/
 description: "Conocé al autor de muchotexto.net, su trayectoria en anotación de datos y análisis de IA, y la filosofía de lectura profunda del medio digital."
 ---

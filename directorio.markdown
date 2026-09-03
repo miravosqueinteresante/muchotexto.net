@@ -26,7 +26,7 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 
 - **[ICDF Taiwan](https://www.icdf.org.tw/)** — Fondo de Cooperación y Desarrollo Internacional de Taiwán. Agencia ejecutora de Yguazú Digital. Financia proyectos de desarrollo en países aliados. [Leer más](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/).
 
-- **[MADES — Direccion de Cambio Climatico](http://www.mades.gov.py/)** — Direccion Nacional de Cambio Climatico y Direccion de Mercados de Carbono. Responsables de la NDC y el Plan Nacional de Adaptacion. [Leer mas](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/).
+- **[MADES — Direccion de Cambio Climatico](https://www.mades.gov.py/)** — Direccion Nacional de Cambio Climatico y Direccion de Mercados de Carbono. Responsables de la NDC y el Plan Nacional de Adaptacion. [Leer mas](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/).
 
 **Nota:** HIVE Digital reporta inversiones en escuelas de Valenzuela (aire acondicionado, cableado electrico, pintura). La cobertura de prensa local es limitada y no hay verificacion independiente del impacto comunitario. [Leer analisis completo](/articulos/2026/08/04/impacto-local-data-center-paraguay/).
 

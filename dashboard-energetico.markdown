@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dashboard energético de data centers y tarifas"
+title: "Dashboard energético — Data Centers"
 permalink: /dashboard-energetico/
 description: "Potencia reservada, tarifa GCIE y consumo eléctrico de data centers en Paraguay. Datos verificados contra ANDE y el estudio Ceare."
 last_modified_at: 2026-08-21

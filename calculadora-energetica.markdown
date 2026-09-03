@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Calculadora de costo energ\u00e9tico \u2014 Data Centers"
+title: "Calculadora energ\u00e9tica \u2014 Data Centers"
 permalink: /calculadora-energetica/
-description: "Compar\u00e1 el costo anual de electricidad para un data center en Paraguay vs. Irlanda, Virginia, Suecia y Chile. Tarifas verificadas contra fuentes oficiales. Ajust\u00e1 los MW y descubr\u00ed la diferencia."
+description: "Compar\u00e1 el costo de electricidad para un data center en Paraguay vs. Irlanda, Virginia, Suecia y Chile. Tarifas oficiales verificadas."
 last_modified_at: 2026-08-08
 ---
 

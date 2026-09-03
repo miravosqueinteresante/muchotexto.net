@@ -57,8 +57,8 @@ layout: default
     "image": "{{ site.url }}{{ page.image | default: '/assets/images/og-image.png' }}",
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-    "author": { "@id": "https://muchotexto.net/#author" },
-    "publisher": { "@id": "https://muchotexto.net/#org" },
+    "author": { "@id": "https://muchotexto.net/#author", "name": "César Sánchez" },
+    "publisher": { "@id": "https://muchotexto.net/#org", "name": "MuchoTexto" },
     "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
   }
   </script>
@@ -80,15 +80,9 @@ layout: default
         </time>
       {%- endif -%}
     {%- endif -%}
-    {%- if page.author -%}
-      <span> | </span>
-      {% for author in page.author %}
-        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-          {{ author }}
-        </span>
-        {%- if forloop.last == false %}, {% endif -%}
-      {% endfor %}
-    {%- endif -%}
+    <span class="post-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <span itemprop="name">César Sánchez</span>
+    </span>
     {% if page.categories.size > 0 %}
       <span> | </span>
       <span class="post-categories-section">
