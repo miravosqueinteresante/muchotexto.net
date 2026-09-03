@@ -325,5 +325,7 @@ last_modified_at: 2026-08-21
 
 <p class="dash-disclaimer">Este tablero se re-verifica contra fuentes oficiales cada 30 días (próxima revisión de la tarifa: 7 de septiembre de 2026). Es una instantánea estática, no un feed en tiempo real. Complementa el <a href="/radar-legislativo/">radar legislativo</a> (estado de las normas) y la <a href="/calculadora-energetica/">calculadora de costo energético</a> (comparación internacional).</p>
 
+{% include datos-verificados.html entidad="ande" %}
+
 </div>
 </div>

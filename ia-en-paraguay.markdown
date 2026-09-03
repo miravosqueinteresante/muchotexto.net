@@ -40,6 +40,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Grafo del Observatorio](/grafo/) — Relaciones entre las 18 entidades clave
 - [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo
 - [Claims verificados](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
+- [Datos verificados — MuchoTexto Data](https://datospublicos.muchotexto.net/) — Infraestructura de datos verificables sobre Paraguay: ANDE, Itaipú y Yacyretá con fuente y trazabilidad completa
 
 ## Infraestructura y energía
 

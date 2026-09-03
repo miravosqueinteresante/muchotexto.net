@@ -758,3 +758,35 @@ a.pagination-item:hover {
   letter-spacing: 0.03em;
   font-size: 0.85em;
 }
+
+/* ── Datos verificados (MuchoTexto Data) ──────────────────────────── */
+
+.datos-verificados {
+  margin: 1.5rem 0;
+  padding: 0.9rem 1rem;
+  background: rgba(34, 184, 207, 0.06);
+  border: 1px solid rgba(34, 184, 207, 0.18);
+  border-left: 3px solid var(--oc-cyan-4, #22b8cf);
+  border-radius: 8px;
+  font-size: 0.9em;
+  line-height: 1.55;
+}
+
+.datos-verificados-tag {
+  display: inline-block;
+  font-family: var(--code-font-family, inherit);
+  font-size: 0.72em;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--oc-cyan-4, #22b8cf);
+  margin-bottom: 0.25rem;
+}
+
+.datos-verificados-text {
+  margin: 0;
+  color: var(--text-color-light);
+
+  a {
+    color: var(--oc-cyan-3, #3bc9db);
+  }
+}

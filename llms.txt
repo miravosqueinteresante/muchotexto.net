@@ -87,6 +87,14 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Dashboard energético](https://muchotexto.net/dashboard-energetico/): Potencia reservada, tarifa GCIE y consumo eléctrico de data centers en Paraguay
 - [Claims verificados](https://muchotexto.net/claims-verificados/): Registro público de verificación de datos del observatorio
 
+## Datos verificables (MuchoTexto Data)
+
+- [MuchoTexto Data](https://datospublicos.muchotexto.net/): Infraestructura de datos verificables sobre Paraguay — capa de datos debajo del contenido editorial
+- [Energía — ANDE](https://datospublicos.muchotexto.net/energia.html): 75 indicadores (consumo, demanda, pérdidas, clientes, tarifas)
+- [Itaipú Binacional](https://datospublicos.muchotexto.net/itaipu.html): 135 indicadores (2000–2026), generación por sector y suministro PY/BR
+- [Yacyretá](https://datospublicos.muchotexto.net/yacyreta.html): Generación binacional Paraguay-Argentina (EBY)
+- [Grafo de datos](https://datospublicos.muchotexto.net/grafo.html): entidades → indicadores → artículos
+
 ## Información técnica
 
 - Sitemap: https://muchotexto.net/sitemap.xml
