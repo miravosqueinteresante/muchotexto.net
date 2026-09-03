@@ -314,6 +314,31 @@ last_modified_at: 2026-08-21
   </table>
 </section>
 
+<section class="dash-section">
+  <h2 class="dash-section-title">Abastecimiento — suministro a Paraguay</h2>
+  <p class="dash-intro">Serie anual sincronizada desde <a href="https://datospublicos.muchotexto.net/" rel="noopener noreferrer" target="_blank">MuchoTexto Data</a> (última sincronización: {% if site.data.datos_publicos._meta %}{{ site.data.datos_publicos._meta.sincronizado }}{% else %}snapshot local{% endif %}). Itaipú hídrico 2000–2026 y generación total de Yacyretá 2016–2025.</p>
+  {% assign itaipu_series = site.data.datos_publicos.indicadores | where: "entidad_id", "itaipu" | where: "indicador", "suministro_paraguay" | sort: "fecha_inicio" %}
+  {% assign itaipu_max = 0 %}{% for r in itaipu_series %}{% if r.valor > itaipu_max %}{% assign itaipu_max = r.valor %}{% endif %}{% endfor %}
+  {% for r in itaipu_series offset: 17 %}
+  <div class="dash-bar">
+    <span class="dash-bar-year">{{ r.fecha_inicio | slice: 0, 4 }}</span>
+    <div class="dash-bar-track"><div class="dash-bar-fill" style="width: {{ r.valor | times: 100.0 | divided_by: itaipu_max | round: 0 }}%"></div></div>
+    <span class="dash-bar-value">{{ r.valor | round: 0 }} GWh</span>
+  </div>
+  {% endfor %}
+  <p class="dash-disclaimer">Suministro de Itaipú al sistema paraguayo (fuente: ONS Brasil). Serie completa de 27 años en <a href="https://datospublicos.muchotexto.net/itaipu.html" rel="noopener noreferrer" target="_blank">MuchoTexto Data — Itaipú</a>.</p>
+  {% assign yacy_series = site.data.datos_publicos.indicadores | where: "entidad_id", "yacyreta" | where: "indicador", "generacion_total" | sort: "fecha_inicio" %}
+  {% assign yacy_max = 0 %}{% for r in yacy_series %}{% if r.valor > yacy_max %}{% assign yacy_max = r.valor %}{% endif %}{% endfor %}
+  {% for r in yacy_series %}
+  <div class="dash-bar">
+    <span class="dash-bar-year">{{ r.fecha_inicio | slice: 0, 4 }}</span>
+    <div class="dash-bar-track"><div class="dash-bar-fill" style="width: {{ r.valor | times: 100.0 | divided_by: yacy_max | round: 0 }}%"></div></div>
+    <span class="dash-bar-value">{{ r.valor | round: 0 }} GWh</span>
+  </div>
+  {% endfor %}
+  <p class="dash-disclaimer">Generación total de Yacyretá (fuente: EBY). Serie completa en <a href="https://datospublicos.muchotexto.net/yacyreta.html" rel="noopener noreferrer" target="_blank">MuchoTexto Data — Yacyretá</a>.</p>
+</section>
+
 <div class="dash-note">
   <strong>Distinciones que importan:</strong>
   <ul>

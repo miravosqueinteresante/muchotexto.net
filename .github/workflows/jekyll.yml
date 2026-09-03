@@ -32,6 +32,15 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Setup Python (sync datos)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Sync datos (MuchoTexto Data)
+        run: |
+          python scripts/sync_datos.py
+        env:
+          JEKYLL_ENV: production
       - name: Build with Jekyll
         run: |
           echo "url: https://muchotexto.net" > _config_pages.yml
@@ -63,10 +72,6 @@ jobs:
             fi
             echo "Observatorio completo: OK"
           fi
-      - name: Setup Python (IndexNow)
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
       - name: Ping IndexNow
         run: python scripts/ping_indexnow.py
       - name: Upload artifact
