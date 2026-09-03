@@ -7,6 +7,13 @@ Todo artículo long-form en `_posts/` debe pasar por verificación de datos ante
 ### Paso 1: Escribir el borrador
 Redactar el artículo normalmente. Las fuentes deben citarse al pie.
 
+**Fuente de datos energéticos (OBLIGATORIO consultar primero):** si el artículo menciona consumo, generación, suministro, pérdidas, clientes o tarifas de ANDE, Itaipú o Yacyretá, consultar primero la capa de datos local **antes de investigar en la web**:
+
+- **`_data/datos_publicos.json`** — 224 indicadores sincronizados con trazabilidad completa (`fuente`, `url`, `metodo_extraccion`, `fecha_extraccion`, `estado_verificacion`). Ver schema en §Capa de datos local abajo.
+- **datospublicos.muchotexto.net** — la versión pública navegable (energia.html, itaipu.html, yacyreta.html).
+
+Un dato que ya está en la capa de datos NO se re-investiga en la web: se cita con su `url` de proveniencia. El dato solo se busca afuera si no está en la capa. La URL citada puede enlazar a datospublicos (página de datos) o directamente a la fuente original del indicador.
+
 ### Paso 2: Verificar datos
 ```
 fact-check-article _posts/NOMBRE-DEL-ARTICULO.md
@@ -31,6 +38,8 @@ El agente de verificación hará lo siguiente automáticamente:
 
 **Regla de fuentes primarias locales:** pasar al fact-checker las rutas de las fuentes primarias ya descargadas (ej. `C:\Users\pc\AppData\Local\Temp\opencode\energia_site\*.txt`) con instrucción de leerlas completas antes de emitir veredicto sobre cualquier claim que las involucre. Un claim no se marca UNVERIFIABLE solo porque el agente no encontró la fuente en la web si esa fuente está disponible localmente. A la inversa, un claim marcado UNVERIFIABLE por un agente que no abrió una fuente web citada (BACN, La Nación) NO es un error del artículo si la URL ya fue validada con `check_urls.py`.
 
+**Cruce contra la capa de datos (energía):** para claims de consumo, generación, suministro, pérdidas, clientes o tarifas, el fact-checker DEBE contrastar contra `_data/datos_publicos.json` ANTES de buscar en la web (ver §Capa de datos local). Si el indicador existe en la capa y su `estado_verificacion` es `verificado`/`revisado`, el dato se usa con su `url` de proveniencia. Si es `extraido` o `requiere_revision`, se abre la `url` original del indicador y se contrasta antes del veredicto.
+
 ### Paso 3: Corregir y commitear
 1. Aplicar las correcciones indicadas por el agente.
 2. **Grep global del dato corregido**: tras corregir un número, fecha, nombre o frase errónea, buscarlo en TODO el artículo (`grep`) para cazarlo en todas sus apariciones. No corregir solo la primera ocurrencia y dejar residuos.
@@ -39,6 +48,33 @@ El agente de verificación hará lo siguiente automáticamente:
 
 ### Regla de escape
 Si un dato es inverificable pero viene de una fuente primaria citada en el artículo y esa fuente es confiable (ABC Color, ANDE, DNCP, IPS, MITIC, BACN, etc.), se puede mantener con la atribución explícita.
+
+## Capa de datos local (muchotexto.net ↔ datos-publicos)
+
+El repo hermano `miravosqueinteresante/datos-publicos` (dominio `datospublicos.muchotexto.net`) es la **infraestructura de datos verificables** del ecosistema: extrae indicadores de ANDE (75), Itaipú/ONS (135) y Yacyretá/EBY (14) con trazabilidad completa. `scripts/sync_datos.py` los descarga en cada build y escribe `_data/datos_publicos.json` (con fallback a snapshot commiteado: si la red falla, el build no se rompe).
+
+**Schema de cada indicador en `_data/datos_publicos.json`:**
+
+```
+id, entidad, entidad_id, indicador, valor, unidad,
+fecha_inicio, fecha_fin, fuente, documento, url,
+fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
+```
+
+**Ejemplo:** `indicador: consumo_total`, `valor: 29418.538`, `unidad: GWh`, `entidad_id: ande`.
+
+**Uso en artículos:**
+- Un dato que está en la capa se cita con su `url` de proveniencia, sin re-investigar en la web.
+- Estados de verificación: `verificado` / `extraido` / `revisado` / `en_conflicto` / `obsoleto` / `requiere_revision`. Un indicador `extraido` o `requiere_revision` se contrasta contra la fuente original antes de usarlo.
+- El dato sin importar su origen en el repo hermano: si cambia ahí, se actualiza solo en el próximo build.
+
+**Para cruzar en fact-check:** `_data/datos_publicos.json` es fuente local de verificación rápida para claims de energía (consumo, demanda, pérdidas, clientes, tarifas, generación, suministro). El veredicto se emite contra la `url` original del indicador si el estado lo requiere.
+
+**Canon de datos (dos capas, sin conflicto):**
+1. **Serie del conector** (generación, suministro, pérdidas, clientes, consumo) → se sincroniza desde datos-publicos; NO se edita a mano.
+2. **Canon editorial verificado** (tarifa GCIE, timeline de decretos, proyección Ceare, distinciones, consumo por categoría) → vive en `_data/energia.yml` contra AGENTS.md; se re-verifica cada 30 días (próxima: 7-sep-2026).
+
+**Entidades energéticas con datos:** `ande`, `itaipu`, `yacyreta` tienen `datos_url` en `_data/entities.yml` y sección "Datos verificados" en sus páginas. Para crear/editar la página de una entidad, regenerar con `python scripts/build_entities.py` (nunca a mano).
 
 ## Política editorial de IA (alineada con como-trabajamos.markdown)
 
