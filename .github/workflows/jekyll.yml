@@ -6,6 +6,8 @@ on:
   workflow_run:
     workflows: ["🇵🇾 Pulso Diario Paraguay", "Editorial Diario"]
     types: [completed]
+  schedule:
+    - cron: "17 13 * * 1"  # lun 13:17 UTC / 09:17 PYT: refresco semanal de datos MuchoTexto Data
   workflow_dispatch:
 
 permissions:
