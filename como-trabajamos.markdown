@@ -3,7 +3,7 @@ layout: page
 title: Cómo trabajamos
 permalink: /como-trabajamos/
 description: "Metodología editorial de muchotexto.net: cómo seleccionamos fuentes, verificamos datos, usamos inteligencia artificial y corregimos errores."
-last_modified_at: 2026-08-21
+last_modified_at: 2026-09-03
 ---
 
 **muchotexto.net** es el observatorio de inteligencia artificial en Paraguay. Utiliza inteligencia artificial como asistente en el proceso de producción de contenido. Esta página explica con transparencia cómo funciona ese proceso.
@@ -41,6 +41,7 @@ Como principio general, la IA actúa como asistente, nunca como autor final. Cad
 | FAQ automática | Editor humano | Preguntas y respuestas derivadas del texto del artículo publicado |
 | Investigación con agentes | Editor humano | Los hallazgos se sintetizan; nunca se copian textualmente sin verificación |
 | Fact-check | Editor humano | Verificación en dos capas: datos factuales + claims de atribución (se abre el texto completo de la fuente para comprobar qué concluye realmente) |
+| Capa de datos (MuchoTexto Data) | Editor humano | Los indicadores energéticos se sincronizan automáticamente desde la capa de datos verificables en cada build; el editor re-verifica el canon editorial cada 30 días |
 
 **Usos prohibidos:**
 
@@ -128,12 +129,24 @@ Los modelos de lenguaje utilizados en las distintas etapas del proyecto son:
 
 La combinación de múltiples modelos permite aprovechar las fortalezas de cada uno: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario, y capacidad de desarrollo para el mantenimiento técnico del sitio.
 
+### Capa de datos verificables
+
+El sitio mantiene una capa de datos separada —**MuchoTexto Data** ([datospublicos.muchotexto.net](https://datospublicos.muchotexto.net/))— que estructura, normaliza y demuestra con evidencia oficial los números que el observatorio utiliza. Cada fuente (ANDE, Itaipú vía ONS, Yacyretá vía EBY) es un conector independiente que sigue el principio de no almacenar lo que no se necesita: se extraen únicamente los indicadores, metadatos y trazabilidad necesarios, conservando la referencia exacta a la fuente.
+
+La integración con el sitio funciona así:
+
+- **Sincronización en build**: un script (`scripts/sync_datos.py`) descarga los indicadores públicos de MuchoTexto Data y los combina en `_data/datos_publicos.json` antes de cada build de Jekyll.
+- **Tolerancia a fallos**: si la descarga falla (red, parseo o estructura inválida), el sitio conserva el último snapshot sincronizado y publica igual. El build nunca se rompe por datos externos.
+- **Refresco automático**: además de cada push, un cron semanal actualiza los datos aunque no haya actividad en el sitio.
+- **Doble canon**: las series que son producto del conector (generación, suministro, pérdidas, clientes) se sincronizan automáticamente; los datos que dependen de criterio editorial (tarifa GCIE, timeline de decretos, proyección Ceare, distinciones de categoría) se mantienen curados y se re-verifican cada 30 días contra AGENTS.md.
+
 ## Cómo verificamos los datos
 
 Nuestro método de verificación varía según el tipo de contenido:
 
 - **Pulso Paraguay y Editorial Diaria**: toda afirmación fáctica proviene de las fuentes originales procesadas ese día. La IA no genera datos propios. Si una fuente se equivoca, podemos heredar ese error; por eso cada publicación incluye la lista completa de fuentes consultadas para que el lector pueda verificarlas por su cuenta.
 - **Artículos de fondo**: cada afirmación estadística, económica o factual se respalda con enlaces a fuentes originales verificables (institutos públicos, papers académicos, documentos oficiales, informes sectoriales). Si un dato no puede ser verificado con una fuente primaria, se indica explícitamente. Cada URL en la sección Fuentes apunta a la página específica del dato, no al dominio raíz de la fuente.
+- **Datos verificables (MuchoTexto Data)**: los números del sector energético que usa el sitio —generación, suministro, consumo, pérdidas, tarifas— tienen una capa dedicada de datos verificables en [datospublicos.muchotexto.net](https://datospublicos.muchotexto.net/). Cada indicador se extrae de la fuente oficial (ANDE, ONS Brasil, EBY), conserva su trazabilidad (fuente, método de extracción, fecha) y se sincroniza automáticamente con el sitio en cada build. El [dashboard energético](/dashboard-energetico/) y las páginas de entidad de ANDE, Itaipú y Yacyretá muestran esas series con su proveniencia. Si una serie del conector cambia en la fuente, el sitio la actualiza solo; los datos que dependen de criterio editorial (proyecciones, tarifas en revisión, distinciones de categoría) se re-verifican manualmente cada 30 días.
 
 ### Qué ocurre cuando las fuentes discrepan
 
