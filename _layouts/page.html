@@ -11,7 +11,7 @@ layout: default
     "headline": {{ page.title | jsonify }},
     "description": {{ page.description | jsonify }},
     "image": "{{ site.url }}/assets/images/og-image.png",
-    "datePublished": "{{ page.date | default: page.last_modified_at | date_to_xmlschema }}",
+    "datePublished": "{{ page.date | default: page.last_modified_at | default: site.time | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
     "author": { "@id": "https://muchotexto.net/#author", "name": "César Sánchez" },
     "publisher": {
