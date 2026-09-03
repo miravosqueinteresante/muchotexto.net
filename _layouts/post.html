@@ -72,21 +72,25 @@ layout: default
     <p class="post-excerpt">{{ page.description }}</p>
   {%- endif -%}
   <div class="post-meta">
-    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-      {{ page.date | date_to_string }}
-    </time>
+    <span class="post-date">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date_to_string }}
+      </time>
+    </span>
     {%- if page.last_modified_at -%}
       {%- assign mdate = page.last_modified_at | date_to_xmlschema -%}
       {%- assign pdate = page.date | date_to_xmlschema -%}
       {%- if mdate != pdate -%}
         <span> ~ </span>
-        <time datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date_to_string }}
-        </time>
+        <span class="post-date-modified">
+          <time datetime="{{ mdate }}" itemprop="dateModified">
+            {{ mdate | date_to_string }}
+          </time>
+        </span>
       {%- endif -%}
     {%- endif -%}
     <span class="post-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-      <span itemprop="name">César Sánchez</span>
+      <a href="{{ '/about' | relative_url }}" rel="author"><span itemprop="name">César Sánchez</span></a>
     </span>
     {% if page.categories.size > 0 %}
       <span> | </span>
