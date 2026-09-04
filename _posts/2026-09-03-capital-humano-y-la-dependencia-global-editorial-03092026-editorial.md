@@ -3,6 +3,7 @@ layout: post
 title: "Capital humano y la dependencia global — Editorial 03/09/2026"
 description: "La llegada de 87 estudiantes paraguayos a Taiwán para completar sus estudios de ingeniería marca un punto de inflexión en la estrategia de formación técnica del país."
 
+
 date: 2026-09-03 18:00:00 -0300
 last_modified_at: 2026-09-03
 categories: editorial
