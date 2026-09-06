@@ -4,6 +4,7 @@ title: "IA aplicada, la nueva escala del agro — Editorial 04/09/2026"
 description: "El desarrollo de aeronaves ultralivianas no tripuladas con inteligencia artificial para la fumigación agrícola marca un punto de inflexión en la adopción tecnológica en Paraguay."
 
 
+
 date: 2026-09-04 18:00:00 -0300
 last_modified_at: 2026-09-04
 categories: editorial
