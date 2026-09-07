@@ -3,6 +3,7 @@ layout: post
 title: "Gestión de datos, el desafío estatal — Editorial 6 de setiembre de 2026"
 description: "El Instituto de Previsión Social IPS inicia este lunes el censo digital obligatorio para 90.855 jubilados y pensionados, marcando un paso concreto en la digitalización de servicios públicos en Paraguay."
 
+
 date: 2026-09-06 18:00:00 -0300
 last_modified_at: 2026-09-06
 categories: editorial
