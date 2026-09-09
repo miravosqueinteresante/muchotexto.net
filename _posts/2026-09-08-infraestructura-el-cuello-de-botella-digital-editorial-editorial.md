@@ -3,6 +3,7 @@ layout: post
 title: "Infraestructura, el cuello de botella digital — Editorial 08/09/2026"
 description: "La regularización de más de 100.000 usuarios por parte de la sector eléctrico{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %} marca un punto de inflexión en la salud financiera de nuestra principal proveedora de energía."
 
+
 date: 2026-09-08 18:00:00 -0300
 last_modified_at: 2026-09-08
 categories: editorial

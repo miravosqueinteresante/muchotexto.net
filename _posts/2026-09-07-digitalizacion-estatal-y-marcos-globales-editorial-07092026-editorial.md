@@ -4,6 +4,7 @@ title: "Digitalización estatal y marcos globales — Editorial 07/09/2026"
 description: "El inicio del Censo Digital 2026 por parte del Instituto de Previsión Social marca un hito en la gestión pública, al obligar a una parte significativa de la población a interactuar con plataformas digitales para mantener sus beneficios."
 
 
+
 date: 2026-09-07 18:00:00 -0300
 last_modified_at: 2026-09-07
 categories: editorial
