@@ -4,6 +4,7 @@ title: "Seguridad y talento, el nuevo equilibrio — Editorial 11/09/2026"
 description: "La propuesta de ralentizar el desarrollo global de la inteligencia artificial, planteada por el CEO de OpenAI, marca un punto de inflexión que obliga a repensar la velocidad de la innovación tecnológica."
 
 
+
 date: 2026-09-11 18:00:00 -0300
 last_modified_at: 2026-09-11
 categories: editorial
