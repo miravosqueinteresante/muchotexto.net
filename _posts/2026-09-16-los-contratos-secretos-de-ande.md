@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Los contratos secretos de ANDE: 943 MW bajo llave"
+title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
 date: 2026-09-16 12:00:00 -0300
 last_modified_at: 2026-09-16
 categories: [articulos]
 tags: [transparencia, tarifas-ande, gcie, data-centers, energia-paraguay]
-description: "ANDE administra contratos de criptominería y data centers que afectan al 13% de Itaipú sin que los ciudadanos conozcan las condiciones completas. Decretos paralelos derogados, una renuncia y cero respuestas."
+description: "943 MW de criptominería bajo contrato secreto en la ANDE. Tarifas, decretos derogados y una renuncia que la empresa no quiere explicar."
 schema_type: TechArticle
 image_path: /assets/img/posts/contratos-ande.webp
 ---
@@ -89,6 +89,41 @@ El proyecto de Atome, con su inversión de 665 millones de dólares, es el ejemp
 Lo que es innegable es que la ciudadanía no tiene acceso fácil a la información básica para evaluar estas condiciones. Los diputados que pidieron datos en agosto no han confirmado respuesta. Los contratos individuales no aparecen en la sección de transparencia de la ANDE de forma habitual. Y el estudio Ceare proyecta un aumento tarifario que, si se concreta, recaería en todos los usuarios.
 
 Mientras tanto, los 943,8 MW de potencia reservada siguen operando bajo un marco regulatorio cuyas condiciones individuales son, en su mayoría, de conocimiento limitado.
+
+## Preguntas frecuentes
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Qué es el GCIE de la ANDE?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El Programa de Grandes Consumidores de Energía Intensiva (GCIE) es un régimen tarifario de la ANDE creado por la Resolución 47191/2022, en el marco del Decreto 7824/2022, que ofrece tarifas diferenciadas a empresas de alto consumo energético —principalmente criptomineras y data centers— según su nivel de tensión de conexión (220 kV, 66 kV o 23 kV)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuántas empresas usan el GCIE y cuánto consumen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A julio de 2026, el GCIE tiene 41 suministros activos con 943,8 MW de potencia reservada, equivalente al 13,5% de los 7.000 MW de potencia que corresponden a Paraguay en Itaipú. Las cuatro principales empresas (Cademot, Zuns, Muiden y W3X) concentran el 77% de la potencia total."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Por qué los contratos del GCIE son polémicos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Las condiciones individuales de cada contrato no son de acceso público habitual, pese a que la Ley 5282/2014 de transparencia obliga a las empresas públicas a facilitar información. El caso más visible es el de Atome, que busca una tarifa fija de 30 US$/MWh bajo el Decreto 5307, mientras la tarifa técnica de la ANDE es de 44 US$/MWh. Cuatro decretos que intentaban extender el esquema fueron derogados en junio de 2026."
+      }
+    }
+  ]
+}
+</script>
 
 ---
 
