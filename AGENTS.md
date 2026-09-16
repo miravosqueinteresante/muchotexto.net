@@ -9,6 +9,17 @@ Redactar el artículo normalmente. Las fuentes deben citarse al pie.
 
 **Fuente de datos energéticos (OBLIGATORIO consultar primero):** si el artículo menciona consumo, generación, suministro, pérdidas, clientes o tarifas de ANDE, Itaipú o Yacyretá, consultar primero la capa de datos local **antes de investigar en la web**:
 
+```bash
+python scripts/prefetch_data.py [keywords del artículo]
+# Ejemplos:
+python scripts/prefetch_data.py ande consumo demanda tarifa
+python scripts/prefetch_data.py itaipu generacion suministro
+python scripts/prefetch_data.py --list-entities          # ver entidades disponibles
+python scripts/prefetch_data.py --list-indicators ande   # ver todos los indicadores de ANDE
+```
+
+El script lee `_data/datos_publicos.json` y devuelve los indicadores relevantes con su fuente y URL. **Adjuntar la salida al prompt de los subagentes de research** como contexto obligatorio antes de despacharlos.
+
 - **`_data/datos_publicos.json`** — 224 indicadores sincronizados con trazabilidad completa (`fuente`, `url`, `metodo_extraccion`, `fecha_extraccion`, `estado_verificacion`). Ver schema en §Capa de datos local abajo.
 - **datospublicos.muchotexto.net** — la versión pública navegable (energia.html, itaipu.html, yacyreta.html).
 
