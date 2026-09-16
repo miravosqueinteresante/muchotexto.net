@@ -90,8 +90,6 @@ Lo que es innegable es que la ciudadanía no tiene acceso fácil a la informaci�
 
 Mientras tanto, los 943,8 MW de potencia reservada siguen operando bajo un marco regulatorio cuyas condiciones individuales son, en su mayoría, de conocimiento limitado.
 
-## Preguntas frecuentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
