@@ -82,8 +82,8 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Mayo 2026** — X8Cloud y Pardat Holding inician [construcción de data centers](/articulos/2026/07/10/talento-tech-paraguay-ia/) en Paraguay.
 - **Junio 2026** — MITIC dona [1.600 antenas Starlink para escuelas rurales](/articulos/2026/07/15/starlink-paraguay-conectividad/).
 - **Junio 2026** — ICDF contacta a [Google, Microsoft y Amazon](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) como potenciales clientes ancla de Yguazú Digital.
-- **Enero-Abril 2026** — El gobierno publica cuatro decretos (5306, 5307, 5860, 5861) que extienden la tarifa GCIE por 15 años a industrias y data centers. Un quinto decreto autoriza 3.000 MW adicionales. Sin debate público.
-- **9 Junio 2026** — La ANDE deroga los cuatro decretos GCIE tras presión sindical (SITRANDE) y cuestionamientos internos sobre la opacidad de contratos con empresas de consumo intensivo.
+- **Enero-Abril 2026** — El gobierno publica cuatro decretos (5306, 5307, 5860, 5861) que crean un esquema paralelo al GCIE para "industrias convergentes" y "Power to X" con contratos en dólares a 15 años. Un quinto decreto autoriza 3.000 MW adicionales. Sin debate público.
+- **9 Junio 2026** — La ANDE deroga los cuatro decretos paralelos tras presión sindical (SITRANDE) y cuestionamientos internos sobre la opacidad de contratos con empresas de criptominería y data centers.
 - **Junio 2026** — Ministro de Industria [visita NVIDIA, OpenAI y Crusoe](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) en Silicon Valley. Sin acuerdos concretos hasta la fecha.
 - **22 Julio 2026** — La [Mesa Energética del MIC+UIP](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/), dentro del Consejo Asesor Empresarial, concluye: "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme).
 - **Julio 2026** — La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/) (~30% de adultos).
