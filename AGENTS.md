@@ -332,7 +332,7 @@ Fuentes: Eurostat (nrg_pc_205, abril 2026), fuentes de mercado (CBRE, JLL, DCP r
 
 ### Auditoría de sitio — squirrelscan (2-sep-2026)
 
-**Score final: 80/100 (B)**. CLI: `npx squirrelscan audit https://muchotexto.net`.
+**Score final: 79/100 (C)**. CLI: `npx squirrelscan audit https://muchotexto.net`.
 
 | Categoría | Score | Notas |
 |-----------|-------|-------|
