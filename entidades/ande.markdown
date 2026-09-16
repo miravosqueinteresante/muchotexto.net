@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-16
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
@@ -37,6 +37,9 @@ related_articles:
   - title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto hay un número que explica por qué se discuten; 68,6. Ese es, en dólares por megavatio-hora, el valor al que la tarifa media de la electricidad paraguaya debería llegar en.."
+  - title: "Los contratos secretos de ANDE: 943 MW bajo llave"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "ANDE administra contratos de consumo intensivo que afectan al 13% de Itaipú sin que los ciudadanos conozcan las condiciones. Cuatro decretos derogados, una renuncia y cero respuestas."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"

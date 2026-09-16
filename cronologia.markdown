@@ -2,8 +2,8 @@
 layout: page
 title: "Cronología de la IA en Paraguay"
 permalink: /cronologia/
-description: "Hitos de la inteligencia artificial, tecnologia y energia en Paraguay desde 1973 hasta hoy. Actualizado al 3 de septiembre de 2026."
-last_modified_at: 2026-09-03
+description: "Hitos de la inteligencia artificial, tecnologia y energia en Paraguay desde 1973 hasta hoy. Actualizado al 16 de septiembre de 2026."
+last_modified_at: 2026-09-16
 ---
 
 Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. 
@@ -82,11 +82,14 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **Mayo 2026** — X8Cloud y Pardat Holding inician [construcción de data centers](/articulos/2026/07/10/talento-tech-paraguay-ia/) en Paraguay.
 - **Junio 2026** — MITIC dona [1.600 antenas Starlink para escuelas rurales](/articulos/2026/07/15/starlink-paraguay-conectividad/).
 - **Junio 2026** — ICDF contacta a [Google, Microsoft y Amazon](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/) como potenciales clientes ancla de Yguazú Digital.
+- **Enero-Abril 2026** — El gobierno publica cuatro decretos (5306, 5307, 5860, 5861) que extienden la tarifa GCIE por 15 años a industrias y data centers. Un quinto decreto autoriza 3.000 MW adicionales. Sin debate público.
+- **9 Junio 2026** — La ANDE deroga los cuatro decretos GCIE tras presión sindical (SITRANDE) y cuestionamientos internos sobre la opacidad de contratos con empresas de consumo intensivo.
 - **Junio 2026** — Ministro de Industria [visita NVIDIA, OpenAI y Crusoe](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/) en Silicon Valley. Sin acuerdos concretos hasta la fecha.
 - **22 Julio 2026** — La [Mesa Energética del MIC+UIP](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/), dentro del Consejo Asesor Empresarial, concluye: "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme).
 - **Julio 2026** — La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/) (~30% de adultos).
 - **27 Julio 2026** — Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos de extensión tarifaria. [Miguel Báez asume como nuevo titular](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
 - **6 Agosto 2026** — Santiago Peña [reconvoca la Mesa Energética Nacional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/) y da 30 días para propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa público-privada y reglas para inversores.
+- **9 Agosto 2026** — Cinco diputados nacionales solicitan formalmente información sobre los contratos GCIE de la ANDE. A la fecha de publicación del artículo, no han recibido respuesta.
 - **13 Agosto 2026** — El Ejecutivo presenta **dos proyectos de ley** en la primera reunión de la Mesa Nacional del Sector Eléctrico: la [creación del Ministerio de Energía, Minería e Hidrocarburos](/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/) y del [Ente Regulador de Energía](/articulos/2026/08/19/ente-regulador-energia/). El [documento base es la propuesta de modernización de la consultora PSR](/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/), y el [estudio Ceare sobre la tarifa](/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/) fue el punto 04 de la agenda. Textos a disposición pública para análisis. No son instituciones creadas, sino proyectos en debate.
 - **Julio 2026** — Paraguay alcanza [480+ trámites digitales](/articulos/2026/07/16/gobierno-digital-paraguay/), cédula y licencia de conducir digitales disponibles.
 - **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.

@@ -2,8 +2,8 @@
 layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
-description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 3 de septiembre de 2026."
-last_modified_at: 2026-09-03
+description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 16 de septiembre de 2026."
+last_modified_at: 2026-09-16
 ---
 
 Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
@@ -74,6 +74,11 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 - **[Ley 3001/2006](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — Evaluacion de impacto ambiental. Exige compensacion del 1% del costo del proyecto para actividades de alto impacto. Potencialmente aplicable a data centers pero nunca invocada para el sector.
 - **[Sin regulacion especifica para data centers](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — Paraguay no tiene cuotas de contratacion local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental especificas para data centers. La Ley 7599 y la Ley de Maquila son marcos habilitadores, no regulatorios.
+
+## Transparencia y contratos de consumo intensivo
+
+- **[Ley 7278/2024 — Marco GCIE](/articulos/2026/09/16/los-contratos-secretos-de-ande/)** — Crea el Programa de Grandes Consumidores de Energía Intensiva. Resolución ANDE 49238/2024 fija tarifa base de 30 US$/MWh para alta tension (rango real: 44-60 US$/MWh por nivel de tensión). 41 empresas activas, 943,8 MW reservados (13,5% de Itaipú). Cuatro decretos (5306, 5307, 5860, 5861) intentaron extender beneficios 15 años; derogados el 9 de junio de 2026. [Artículo completo](/articulos/2026/09/16/los-contratos-secretos-de-ande/).
+- **[Ley 5282/2014 — Transparencia Pública](/articulos/2026/09/16/los-contratos-secretos-de-ande/)** — Obliga a los organismos del Estado a publicar contratos en 90 días. Los contratos GCIE no han sido publicados pese a haber transcurrido años desde su firma. SITRANDE denuncia "30 años sin información". Cinco diputados solicitaron datos el 9 de agosto de 2026; sin respuesta.
 
 ## Hidrogeno verde
 
