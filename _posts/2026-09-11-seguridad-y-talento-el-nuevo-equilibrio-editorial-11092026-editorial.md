@@ -8,6 +8,7 @@ description: "La propuesta de ralentizar el desarrollo global de la inteligencia
 
 
 
+
 date: 2026-09-11 18:00:00 -0300
 last_modified_at: 2026-09-11
 categories: editorial
