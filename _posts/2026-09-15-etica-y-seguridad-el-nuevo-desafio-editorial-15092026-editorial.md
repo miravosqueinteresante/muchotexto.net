@@ -3,6 +3,7 @@ layout: post
 title: "Ética y seguridad, el nuevo desafío — Editorial 15/09/2026"
 description: "La Semana Social Paraguaya 2026 puso sobre la mesa el debate sobre la inteligencia artificial, marcando un punto de inflexión donde la tecnología deja de ser solo una herramienta de eficiencia para convertirse en un objeto de reflexión ética en Paraguay."
 
+
 date: 2026-09-15 18:00:00 -0300
 last_modified_at: 2026-09-15
 categories: editorial
