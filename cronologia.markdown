@@ -3,7 +3,7 @@ layout: page
 title: "Cronología de la IA en Paraguay"
 permalink: /cronologia/
 description: "Hitos de la inteligencia artificial, tecnologia y energia en Paraguay desde 1973 hasta hoy. Actualizado al 16 de septiembre de 2026."
-last_modified_at: 2026-09-16
+last_modified_at: 2026-09-18
 ---
 
 Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables. 
@@ -90,6 +90,7 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 - **27 Julio 2026** — Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos de extensión tarifaria. [Miguel Báez asume como nuevo titular](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
 - **6 Agosto 2026** — Santiago Peña [reconvoca la Mesa Energética Nacional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/) y da 30 días para propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa público-privada y reglas para inversores.
 - **9 Agosto 2026** — Cinco diputados nacionales solicitan formalmente información sobre los contratos GCIE de la ANDE. A la fecha de publicación del artículo, no han recibido respuesta.
+- **17 Septiembre 2026** — [Atome PLC presenta un Aviso de Controversia contra Paraguay](https://www.abc.com.py/economia/2026/09/18/caso-atome-la-denuncia-por-us-117-millones-que-la-contraloria-nunca-resolvio/) ante el CIADI, primer paso hacia un arbitraje internacional por hasta US$ 665 millones, por la revocación de los decretos de 2026. En paralelo, sigue sin resolución una denuncia ante la Contraloría (28-dic-2022) que calculaba un presunto daño patrimonial de US$ 117 millones en el contrato original ANDE-Atome de 2022.
 - **13 Agosto 2026** — El Ejecutivo presenta **dos proyectos de ley** en la primera reunión de la Mesa Nacional del Sector Eléctrico: la [creación del Ministerio de Energía, Minería e Hidrocarburos](/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/) y del [Ente Regulador de Energía](/articulos/2026/08/19/ente-regulador-energia/). El [documento base es la propuesta de modernización de la consultora PSR](/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/), y el [estudio Ceare sobre la tarifa](/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/) fue el punto 04 de la agenda. Textos a disposición pública para análisis. No son instituciones creadas, sino proyectos en debate.
 - **Julio 2026** — Paraguay alcanza [480+ trámites digitales](/articulos/2026/07/16/gobierno-digital-paraguay/), cédula y licencia de conducir digitales disponibles.
 - **Julio 2026** — [Starlink alcanza ~20.000 usuarios](/articulos/2026/07/15/starlink-paraguay-conectividad/) en Paraguay.
