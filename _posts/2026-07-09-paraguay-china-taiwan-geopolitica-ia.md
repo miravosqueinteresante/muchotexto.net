@@ -63,13 +63,12 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
 - [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwán-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
 - [The Economist — "The lonely road: Paraguay holds out against China"](https://www.economist.com/the-americas/2024/05/02/paraguay-holds-out-against-china) (2 mayo 2024)
 - [New York Times — "China Is Winning in Latin America. One Country Is Holding Out."](https://www.nytimes.com/2025/05/14/world/americas/paraguay-china-Taiwán.html) (14 mayo 2025)
-- [ABC Color — "Paraguay expulsa a diplomático chino por interferencia"](https://www.abc.com.py/politica/2024/12/05/gobierno-expulsa-a-diplomático-chino-por-interferir-en-relaciones-con-Taiwán/) (5 diciembre 2024)
-- [Infobae — "La guerra fría entre China y Taiwán se pelea en Paraguay"](https://www.infobae.com/america/america-latina/2025/06/15/la-guerra-fria-entre-china-y-Taiwán-se-pelea-en-paraguay/) (15 junio 2025)
-- [Asunción Times — "Taiwán and Paraguay sign landmark AI data center deal"](https://www.asunciontimes.com/2026/05/08/Taiwán-paraguay-ai-data-center/) (8 mayo 2026)
-- [CSIS — "The Geopolitics of Taiwán's Semiconductor Dominance"](https://www.csis.org/analysis/geopolitics-Taiwáns-semiconductor-dominance) (2024)
-- [Foreign Policy — "The Silicon Shield: Why Taiwán Matters for AI"](https://foreignpolicy.com/2025/11/20/Taiwán-ai-chips-semiconductors-geopolitics/) (20 noviembre 2025)
+- [ABC Color — "Cancillería intima a 'ministro' chino a abandonar Paraguay"](https://www.abc.com.py/politica/2024/12/05/cancilleria-intima-a-ministro-chino-a-abandonar-paraguay/) (5 diciembre 2024)
+- [El País — "Paraguay, clave geopolítica en la disputa entre China y Taiwán"](https://elpais.com/america/2025-07-31/paraguay-clave-geopolitica.html) (31 julio 2025)
+- [Asunción Times — "Taiwán and Paraguay: AI data center deal"](https://asunciontimes.com/paraguay-news/international-news/president-santiago-pena-paraguay-to-build-one-of-worlds-largest-ai-data-centres/) (8 mayo 2026)
+- [CSIS — "Taiwan's Semiconductor Dominance: Implications for Cross-Strait Relations"](https://www.csis.org/blogs/perspectives-innovation/taiwans-semiconductor-dominance-implications-cross-strait-relations) (marzo 2022)
+- [Foreign Policy — "Taiwan's Government Is Scared of Its Own Semiconductor Giant"](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) (3 noviembre 2025)
 - [White House — "Pax Silica: Building Trusted Technology Supply Chains"](https://www.whitehouse.gov/briefing-room/2025/09/15/pax-silica-trusted-technology-supply-chains/) (15 septiembre 2025)
-- [El País — "Taiwán y Paraguay: la alianza que desafía a China en Sudamérica"](https://elpais.com/internacional/2025-07-10/Taiwán-y-paraguay-la-alianza-que-desafia-a-china-en-Sudamérica.html) (10 julio 2025)
 
 <script type="application/ld+json">
 {

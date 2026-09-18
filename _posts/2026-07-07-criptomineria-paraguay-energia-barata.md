@@ -79,7 +79,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
 - [Hashrate Index — "The State of Bitcoin Mining in Paraguay 2026"](https://hashrateindex.com/blog/the-state-of-bitcoin-mining-in-paraguay-2026-2/) (mayo 2026)
 - [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
 - [InfoNegocios — "Minería de criptoactivos: más de US$ 1.100 millones en inversión"](https://infonegocios.com.py/plus/Mineria-de-criptoactivos-mas-de-us-1-100-millones-en-inversion-y-un-marco-regulatorio-que-se-fortalece) (21 julio 2025)
-- [La Nación — "ANDE confirma 64 denuncias penales por criptominería ilegal"](https://www.lanacion.com.py/negocios/2024/04/17/criptoMinería-ilegal-ande-64-denuncias/) (17 abril 2024)
+- [La Nación — "ANDE ya formuló 64 denuncias ante la fiscalía por criptonegocios ilegales"](https://www.lanacion.com.py/pais/2024/04/17/ande-ya-formulo-64-denuncias-ante-la-fiscalia-por-criptonegocios-ilegales/) (17 abril 2024)
 - [Digiconomist — Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption)
 - [Cambridge Centre for Alternative Finance — Bitcoin Electricity Consumption Index](https://ccaf.io/cbnsi/cbeci)
 - [De Vries et al. — "Revisiting Bitcoin's carbon footprint", Joule (2022)](https://www.sciencedirect.com/science/article/pii/S2542435122000867)
