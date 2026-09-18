@@ -4,7 +4,7 @@ title: "Entidad Binacional Yacyretá"
 description: >
   Perfil de Yacyretá en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Entidad Binacional Yacyretá.
 permalink: /entidades/yacyreta/
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-18
 entity_name: Yacyretá
 entity_name_full: Entidad Binacional Yacyretá
 entity_description: >

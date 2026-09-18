@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-18
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
 entity_description: >
@@ -26,6 +26,9 @@ related_articles:
     context: "## Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+  - title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
+    url: /[articulos]/2026/09/16/los-contratos-secretos-de-ande/
+    context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
 entity_laws:
   - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
   - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"
@@ -60,6 +63,9 @@ obs_regulacion:
   - label: "Tratado de Itaipu (1973)"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo..."
+  - label: "Resolución ANDE 47191/2022 y Decreto 7824/2022 — Marco GCIE"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "Crea el Programa de Grandes Consumidores de Energía Intensiva, regulado por la Resolución 49238/2024. Tarifa base 30 US$/MWh para Muy Alta Tensión (220 kV); rango real: 37-60 US$/MWh por nivel de..."
 obs_casos-de-uso:
   - label: "Yguazú Digital: gobernanza binacional para IA"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
@@ -69,4 +75,4 @@ obs_casos-de-uso:
     context: "Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano...."
 ---
 
-6 articulos en el observatorio mencionan a Itaipú.
+7 articulos en el observatorio mencionan a Itaipú.

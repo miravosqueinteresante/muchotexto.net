@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Glosario vivo de Inteligencia Artificial en Paraguay"
+title: "Glosario de IA en Paraguay"
 permalink: /glosario/
 description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 28 de agosto de 2026."
 last_modified_at: 2026-09-03
@@ -282,7 +282,7 @@ Este glosario se actualiza a medida que crece el ecosistema. Para un análisis c
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
   "@id": "https://muchotexto.net/glosario/#glossary",
-  "name": "Glosario vivo de Inteligencia Artificial en Paraguay",
+  "name": "Glosario de IA en Paraguay",
   "description": "Términos clave de inteligencia artificial explicados en contexto paraguayo.",
   "hasDefinedTerm": [
     {

@@ -366,10 +366,13 @@ def generate_entity_page(entity, related_articles, obs_matches):
     now = datetime.now(PARAGUAY_TZ)
     today = now.strftime("%Y-%m-%d")
 
+    # SEO title: full name when it fits 60 chars with site suffix, else short name + cluster context.
+    seo_title = name_full if len(name_full) <= 43 else f"{name} | Observatorio de IA en Paraguay"
+
     lines = []
     lines.append("---")
     lines.append("layout: entidad")
-    lines.append(f'title: "{name_full}"')
+    lines.append(f'title: "{seo_title}"')
     lines.append("description: >")
     lines.append(f'  Perfil de {name} en el Observatorio de IA en Paraguay: articulos, '
                  f'leyes y fuentes verificables sobre {name_full}.')

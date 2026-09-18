@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-09-16
+last_modified_at: 2026-09-18
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
@@ -13,6 +13,9 @@ entity_category: infraestructura
 entity_datos_url: https://datospublicos.muchotexto.net/energia.html
 entity_datos_desc: "75 indicadores del sistema eléctrico paraguayo: consumo, demanda, pérdidas, clientes y tarifas"
 related_articles:
+  - title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
+    url: /[articulos]/2026/09/16/los-contratos-secretos-de-ande/
+    context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; *y* (agua) + *guasu* (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en."
@@ -37,9 +40,6 @@ related_articles:
   - title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto hay un número que explica por qué se discuten; 68,6. Ese es, en dólares por megavatio-hora, el valor al que la tarifa media de la electricidad paraguaya debería llegar en.."
-  - title: "Los contratos secretos de ANDE: 943 MW bajo llave"
-    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-    context: "ANDE administra contratos de consumo intensivo que afectan al 13% de Itaipú sin que los ciudadanos conozcan las condiciones. Cuatro decretos derogados, una renuncia y cero respuestas."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
@@ -63,6 +63,12 @@ obs_regulacion:
   - label: "Ley 7599/2025 y Decreto 6034/2026"
     url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
     context: "Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas..."
+  - label: "Resolución ANDE 47191/2022 y Decreto 7824/2022 — Marco GCIE"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "Crea el Programa de Grandes Consumidores de Energía Intensiva, regulado por la Resolución 49238/2024. Tarifa base 30 US$/MWh para Muy Alta Tensión (220 kV); rango real: 37-60 US$/MWh por nivel de..."
+  - label: "Ley 5282/2014 — Transparencia Pública"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "Obliga a los organismos del Estado a responder solicitudes de información en 15 días hábiles (Art. 16). Los contratos GCIE no han sido publicados pese a haber transcurrido años desde su firma...."
 obs_casos-de-uso:
   - label: "Agricultura de precisión"
     url: /articulos/2026/07/13/agro-40-paraguay-ia/
@@ -90,4 +96,4 @@ obs_casos-de-uso:
     context: "Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos."
 ---
 
-8 articulos en el observatorio mencionan a ANDE.
+9 articulos en el observatorio mencionan a ANDE.
