@@ -2,8 +2,8 @@
 layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
-description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnologia en Paraguay. Actualizado al 13 de agosto de 2026."
-last_modified_at: 2026-08-13
+description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnologia en Paraguay. Actualizado al 18 de septiembre de 2026."
+last_modified_at: 2026-09-18
 ---
 
 Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).*
@@ -38,6 +38,10 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 - **[Dominion AI](https://dominionaipy.com/)** — Data center subterráneo de IA. Infraestructura para alojar servidores, parte del ecosistema emergente de Paraguay. [Leer análisis](/articulos/2026/07/21/ia-justicia-paraguay/).
 - **Data Center Estatal Tier III** — Adjudicado por el MITIC en mayo 2026: 5.000 VMs, 2.000 contenedores, financiado por el BID. [Leer más](/articulos/2026/07/16/ia-soberana-paraguay/).
 
+## Industria y manufactura
+
+- **[ADATA](https://www.adata.com/)** — Segundo fabricante global de módulos DRAM (TrendForce 2024). Evalúa ensamblar memorias y SSDs en Minga Guazú bajo los regímenes de maquila (Ley 7547/2025), ensamblaje (7546) e incentivos (7548). Reunión del vicepresidente Felipe Masselli con MIC, Rediex y delegación de Taiwán (18-20 agosto 2026). Proyecto en etapa de prospección. [Leer análisis](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/).
+
 ## Energía e hidrógeno verde
 
 - **[PTI-PY (Parque Tecnologico Itaipu)](https://www.pti.org.py/)** — Opera la unica unidad experimental de hidrogeno verde del Paraguay (2 Nm3/h). [Leer mas](/articulos/2026/07/27/hidrogeno-verde-paraguay/).
@@ -48,7 +52,9 @@ Este directorio se actualiza constantemente. Si conocés una startup, comunidad 
 - **[Mesa Energetica Nacional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — Organismo asesor del Presidente creado por decreto en 2012. Reactivada por Santiago Pena en 2023. Coordino la Politica Energetica Nacional al 2050 (Decreto 2553/2024, 95 objetivos, 385 metas). Reconvocada el 6 de agosto de 2026 con 30 dias para presentar propuestas en cuatro ejes: institucionalidad, generacion, participacion publico-privada y reglas para inversores. [Leer mas](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
 - **[Mesa Energetica del MIC+UIP](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — Iniciativa del Ministerio de Industria y Comercio y la Union Industrial Paraguaya dentro del Consejo Asesor Empresarial. Concluyo el 22 de julio de 2026 que "por primera vez en la historia tenemos mas proyectos que energia disponible" (Ministro Marco Riquelme). [Leer mas](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
 - **[Viceministerio de Minas y Energia (VMME)](https://minasyenergia.mopc.gov.py/)** — Dependencia del MOPC. Autoridad que otorga licencias de generacion electrica privada (>1 MW). Maneja energia, minas e hidrocarburos bajo la estructura del Ministerio de Obras Publicas.
-- **[Ministerio de Minas y Energia y ente regulador (en proyecto)](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/)** — El 13 de agosto de 2026 el Ejecutivo presento dos proyectos de ley para crearlos, en la primera reunion de la Mesa Nacional del Sector Electrico. Son textos en debate publico, no instituciones operativas.
+- **[Ministerio de Energía, Minería e Hidrocarburos (en proyecto)](/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/)** — Proyecto de ley presentado el 13 de agosto de 2026 en la Mesa Nacional del Sector Eléctrico: 27 artículos, 3 viceministerios, absorbe al VMME (MOPC) y la Dirección de Combustibles (MIC), rectoría sectorial sobre ANDE/Petropar. Son textos en debate público, no instituciones operativas.
+- **[Ente Regulador de Energía (en proyecto)](/articulos/2026/08/19/ente-regulador-energia/)** — Proyecto de ley del regulador independiente: directorio 3+3 por concurso público, mandato 6 años, RTI cada 2 años con audiencia pública, tasa de regulación hasta 2%. Presentado junto al Ministerio el 13 de agosto de 2026.
+- **[Programa GCIE de la ANDE](/articulos/2026/09/16/los-contratos-secretos-de-ande/)** — Grandes Consumidores de Energía Intensiva: 943,8 MW reservados para 41 empresas (criptomineras y data centers), tarifa Resolución 49238/2024, 13,5% de la potencia de Itaipú. La transparencia de los contratos individuales está en discusión.
 
 ## Comunidades y espacios
 
@@ -96,7 +102,7 @@ Las siguientes secciones requieren investigación adicional y se incorporarán e
   "@id": "https://muchotexto.net/directorio/#directory",
   "name": "Directorio de IA en Paraguay",
   "description": "Startups, aceleradoras, comunidades y espacios de inteligencia artificial y tecnología en Paraguay.",
-  "numberOfItems": 15,
+  "numberOfItems": 5,
   "itemListElement": [
     {
       "@type": "ListItem",

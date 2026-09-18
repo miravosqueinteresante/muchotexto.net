@@ -2,8 +2,8 @@
 layout: page
 title: "Casos de uso de IA en Paraguay"
 permalink: /casos-de-uso/
-description: "Como se usa la inteligencia artificial en sectores productivos de Paraguay. Casos documentados con fuentes verificables. Actualizado al 13 de agosto de 2026."
-last_modified_at: 2026-08-13
+description: "Como se usa la inteligencia artificial en sectores productivos de Paraguay. Casos documentados con fuentes verificables. Actualizado al 18 de septiembre de 2026."
+last_modified_at: 2026-09-18
 ---
 
 Cada caso enlaza con el artículo completo. 
@@ -29,6 +29,9 @@ Cada caso enlaza con el artículo completo.
 - **[Impacto local de un data center en una ciudad paraguaya](/articulos/2026/08/04/impacto-local-data-center-paraguay/)** — HIVE Digital en Yguazú y Valenzuela: 300 MW, USD 56M de inversión, 60-150 empleos permanentes. La construcción empleó 800-1.500 trabajadores temporales. La infraestructura eléctrica es privada y no hay evidencia de beneficio directo a la red residencial.
 
 - **[Planificación energética institucional](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)** — La Política Energética Nacional al 2050 (Decreto 2553/2024) define 95 objetivos y 385 metas, incluida la creación del Ministerio de Energía con plazo 2024 que sigue sin existir. El 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del Ministerio de Minas y Energía y de un ente regulador eléctrico. Paraguay planifica energía sin la institucionalidad para ejecutarla.
+- **[Diagnóstico de la tarifa eléctrica](/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/)** — El estudio CEARE-UBA (con apoyo del BID, diciembre 2025) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2026 y 2030 (+39,4%). El costo medio de generación subió de 24 a ~28 US$/MWh tras los ajustes de Itaipú y Yacyretá. La tarifa técnica de 220 kV es ~44 US$/MWh.
+- **[Transparencia de los contratos GCIE](/articulos/2026/09/16/los-contratos-secretos-de-ande/)** — 41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW) está publicado en el portal de transparencia como excepción a la regla. Atome busca tarifa fija de 30 US$/MWh a 10 años.
+- **[Modernización institucional del sector eléctrico](/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/)** — El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay, Brasil y Chile, pero omite tarifas, transición de personal y rol de Itaipú/Yacyretá.
 
 ## Prospectiva
 
@@ -44,6 +47,7 @@ Cada caso enlaza con el artículo completo.
 - **[Gobierno digital](/articulos/2026/07/16/gobierno-digital-paraguay/)** — Paraguay tiene 480+ trámites online, 1.5M de identidades electrónicas, cédula y licencia de conducir digitales. Pero la arquitectura de datos sigue fragmentada y no existe interoperabilidad real entre instituciones.
 - **[Registro Único Nacional](/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)** — Lanzado en enero 2026. Reemplazó 150 años de registros catastrales en papel.
 - **[IA anticorrupción — el caso Brasil](/articulos/2026/07/17/ia-corrupcion-paraguay/)** — Brasil opera ALICE desde 2015: un algoritmo que lee pliegos de licitación en tiempo real y detecta anomalías. Detectó 7.500 irregularidades en 4 años. Paraguay digitalizó sus compras en la DNCP pero no las audita con IA.
+- **[Agentes de IA y contenidos sintéticos](/articulos/2026/09/03/contenido-basura-agentes-ia/)** — Incidentes documentados de agentes de IA que actuaron sin supervisión (OpenAI-Hugging Face, Anthropic, AISI Reino Unido) y un contenido generado por IA que ya supera la mitad del contenido nuevo en línea. Paraguay no tiene ninguna ley vigente para regular agentes ni contenido sintético; al menos cuatro proyectos de ley en trámite, ninguno sancionado.
 
 ## Finanzas
 
@@ -63,6 +67,10 @@ Cada caso enlaza con el artículo completo.
 ## Infraestructura inteligente
 
 - **[Puente Bioceánico](/articulos/2026/07/17/smart-cities-asuncion-paraguay/)** — El MOPC presentó en julio 2026 un sistema de monitoreo inteligente con sensores sísmicos, acelerómetros y gemelos digitales. Es el proyecto de infraestructura inteligente técnicamente más avanzado del país.
+
+## Manufactura electrónica
+
+- **[Ensamblaje de memorias y SSDs](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/)** — ADATA, segundo fabricante mundial de módulos DRAM, evalúa una planta de ensamblaje en Minga Guazú. Combina los regímenes de maquila (Ley 7547/2025), ensamblaje (7546) e incentivos (7548), con regla de origen Mercosur. Un estudio de factibilidad depende de tarifa eléctrica y costos logísticos.
 
 ## Ciberseguridad
 

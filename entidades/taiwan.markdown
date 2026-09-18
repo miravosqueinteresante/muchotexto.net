@@ -13,8 +13,10 @@ entity_category: geopolítica
 related_articles:
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
+    context: "- Reuters — 'Paraguay stands by Taiwán as island's last South American ally' (16 abril 2024) - [The Economist — 'The lonely road;..."
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
+    context: "- Wikipedia — TSMC — ingresos, clientes, fábricas, procesos - Wikipedia — Silicon Shield — concepto geopolítico, cuota de mercado, dependencia global - [Wikipedia..."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
@@ -55,6 +57,9 @@ obs_casos-de-uso:
   - label: "Yguazú Digital: gobernanza binacional para IA"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
+  - label: "Ensamblaje de memorias y SSDs"
+    url: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
+    context: "ADATA, segundo fabricante mundial de módulos DRAM, evalúa una planta de ensamblaje en Minga Guazú. Combina los regímenes de maquila (Ley 7547/2025), ensamblaje (7546) e incentivos (7548), con regla..."
   - label: "Formación tech"
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
     context: "Paraguay produce alrededor de 400 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en..."

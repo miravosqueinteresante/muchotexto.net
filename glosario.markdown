@@ -3,7 +3,7 @@ layout: page
 title: "Glosario de IA en Paraguay"
 permalink: /glosario/
 description: "Glosario vivo de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 28 de agosto de 2026."
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-18
 ---
 
 Este glosario reúne los términos clave sobre inteligencia artificial en Paraguay y los explica en contexto local. Cada definición conecta con un artículo completo de la [guía de IA en Paraguay](/ia-en-paraguay/), donde el tema se trata en profundidad con fuentes y datos verificables.
@@ -19,7 +19,10 @@ Los términos están agrupados por tema: infraestructura y energía, tecnología
 **MW (megavatio)** — Unidad de potencia eléctrica. La capacidad de un data center se mide en MW porque la electricidad es su principal insumo. Yguazú Digital planea 10 MW en su fase 1 y 1.000 MW en su fase 3. Un MW abastece aproximadamente 750 hogares.
 → [Red eléctrica de Paraguay](/articulos/2026/07/08/red-electrica-paraguay-ia/)
 
-**GPU** — Chip especializado en cálculo paralelo, esencial para entrenar modelos de inteligencia artificial. NVIDIA fabrica los más usados (H100 y H200, entre USD 25.000 y 40.000 cada uno). Taiwán, que fabrica estos chips, es socia de Paraguay en el proyecto Yguazú Digital.
+**GPU** — Chip especializado en cálculo paralelo, esencial para entrenar modelos de inteligencia artificial.
+
+**GCIE (Gran Consumidor de Energía Intensiva)** — Programa tarifario de la ANDE (Resolución 47191/2022 y Decreto 7824/2022) para empresas de alto consumo eléctrico —principalmente criptomineras y data centers— que opera con tarifas diferenciadas por nivel de tensión (220 kV, 66 kV, 23 kV). A julio de 2026 alcanza 943,8 MW de potencia reservada en 41 suministros. El Pliego de Tarifas Nº 21 (Resolución 49238/2024) fija la tarifa de referencia de 30 US$/MWh.
+→ [Los contratos secretos de ANDE: 943 MW bajo llave](/articulos/2026/09/16/los-contratos-secretos-de-ande/) NVIDIA fabrica los más usados (H100 y H200, entre USD 25.000 y 40.000 cada uno). Taiwán, que fabrica estos chips, es socia de Paraguay en el proyecto Yguazú Digital.
 → [Qué es un data center](/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)
 
 **Rack** — Gabinete metálico donde se apilan servidores. Un rack estándar contiene entre 20 y 40 servidores. Los racks para IA consumen 40-80 kW por unidad, cinco veces más que los racks tradicionales.
@@ -304,6 +307,11 @@ Este glosario se actualiza a medida que crece el ecosistema. Para un análisis c
       "@type": "DefinedTerm",
       "name": "PUE",
       "description": "Índice que mide la eficiencia energética de un data center."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "GCIE",
+      "description": "Programa tarifario de la ANDE para grandes consumidores de energía intensiva (criptomineras y data centers), con tarifas por nivel de tensión. 943,8 MW reservados a julio 2026."
     },
     {
       "@type": "DefinedTerm",

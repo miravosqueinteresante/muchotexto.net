@@ -3,7 +3,7 @@ layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
 description: "Marco legal de la inteligencia artificial en Paraguay. Leyes, decretos y estrategias vigentes y en tramite. Actualizado al 16 de septiembre de 2026."
-last_modified_at: 2026-09-16
+last_modified_at: 2026-09-18
 ---
 
 Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
@@ -79,6 +79,7 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 - **[Resolución ANDE 47191/2022 y Decreto 7824/2022 — Marco GCIE](/articulos/2026/09/16/los-contratos-secretos-de-ande/)** — Crea el Programa de Grandes Consumidores de Energía Intensiva, regulado por la Resolución 49238/2024. Tarifa base 30 US$/MWh para Muy Alta Tensión (220 kV); rango real: 37-60 US$/MWh por nivel de tensión. 41 empresas activas, 943,8 MW reservados (13,5% de Itaipú). Criptomineras y data centers son los principales beneficiarios. Decretos paralelos 5306/5307 (industrias convergentes, Power to X) derogados el 9 de junio de 2026. [Artículo completo](/articulos/2026/09/16/los-contratos-secretos-de-ande/).
 - **[Ley 5282/2014 — Transparencia Pública](/articulos/2026/09/16/los-contratos-secretos-de-ande/)** — Obliga a los organismos del Estado a responder solicitudes de información en 15 días hábiles (Art. 16). Los contratos GCIE no han sido publicados pese a haber transcurrido años desde su firma. SITRANDE denuncia "30 años sin información". Cinco diputados solicitaron datos el 9 de agosto de 2026; sin respuesta.
+- **Arbitraje internacional Atome-Paraguay (17 septiembre 2026)** — Atome PLC presentó un Aviso de Controversia contra el Estado paraguayo ante el CIADI, primer paso hacia un arbitraje por hasta US$ 665 millones, por la revocación de los decretos de 2026. Sigue sin resolverse una denuncia ante la Contraloría (diciembre 2022) por presunto daño patrimonial de US$ 117 millones en el contrato original ANDE-Atome de 2022. [Cobertura de ABC Color](https://www.abc.com.py/economia/2026/09/18/caso-atome-la-denuncia-por-us-117-millones-que-la-contraloria-nunca-resolvio/).
 
 ## Hidrogeno verde
 

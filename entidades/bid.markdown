@@ -29,6 +29,9 @@ obs_casos-de-uso:
   - label: "Paradoja climatica paraguaya: energia limpia, bosques talados"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
     context: "Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano...."
+  - label: "Diagnóstico de la tarifa eléctrica"
+    url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
+    context: "El estudio CEARE-UBA (con apoyo del BID, diciembre 2025) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2026 y 2030 (+39,4%). El costo medio de generación subió de 24 a ~28 US$/MWh..."
 ---
 
 2 articulos en el observatorio mencionan a BID.

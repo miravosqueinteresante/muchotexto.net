@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay"
 permalink: /ia-en-paraguay/
 description: "Observatorio de IA en Paraguay: data centers, energia, regulación, empleo tech y geopolítica. Analisis con datos duros y fuentes verificables."
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-18
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -68,6 +68,8 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares]({% post_url 2026-08-20-estudio-ceare-tarifa-paraguay %})** — El diagnóstico de la UBA con apoyo del BID: tarifa media de 49,2 a 68,6 US$/MWh al 2030, con pérdidas y morosidad que justifican la reforma institucional.
 
+- **[ANDE oculta 943 MW de contratos de criptominería bajo llave]({% post_url 2026-09-16-los-contratos-secretos-de-ande %})** — 41 empresas del GCIE concentran 943,8 MW y 5.465 GWh de consumo, pero las condiciones individuales de cada contrato no son públicas. Decretos derogados, renuncia de Félix Sosa y un arbitraje de Atome en el CIADI.
+
 **Próximamente:**
 
 - **Tigo PIO: el data center que Netflix y Amazon ya usan en Paraguay** — El único Tier III certificado del pais opera en Villa Elisa hace una década. Netflix y Google usan sus nodos CDN; HIVE lanzó BUZZ AI Cloud ahí en marzo 2026. Verificado con Última Hora (2016), Uptime Institute, FOCO (2026) y HIVE Earnings.
@@ -89,7 +91,6 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 **Próximamente:**
 
-- **Los contratos secretos de ANDE: el Congreso exige la lista de las 41 electrointensivas** — Diputados aprobó un pedido de informes para conocer todos los memorandos y acuerdos de confidencialidad con data centers, criptominería, semiconductores e hidrógeno desde 2020. Plazo: 15 días. Verificado con La Nación, 9-ago-2026.
 - **Investor Pass: Paraguay compite por nómades tech con residencia desde USD 70.000** — Resolución 0283/2026 del MIC habilita cuatro modalidades de residencia permanente directa para inversores extranjeros. Sin los dos años de temporal que exigía el régimen anterior. Verificado con La Nación, 9-ago-2026.
 
 ## IA, sociedad y trabajo

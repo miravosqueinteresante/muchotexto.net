@@ -15,17 +15,22 @@ entity_datos_desc: "135 indicadores (2000–2026): generación por sector 50/60 
 related_articles:
   - title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+    context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    context: "1. Tratado de Itaipú — Wikipedia (1973) 2. Itaipú Binacional — sitio oficial 3. Yguazú Digital — cobertura del MoU, ABC Color (mayo 2026) 4...."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
+    context: "- Focus Taiwán (CNA) — Firma del MOU Paraguay-Taiwán (8 mayo 2026) - [Infobae — 'Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del..."
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
+    context: "- ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones' (4 julio 2026) - [Última Hora —..."
   - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
     context: "## Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+    context: "1. Wikipedia ES — Sector eléctrico en Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
   - title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
     url: /[articulos]/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
@@ -73,6 +78,15 @@ obs_casos-de-uso:
   - label: "Paradoja climatica paraguaya: energia limpia, bosques talados"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
     context: "Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano...."
+  - label: "Diagnóstico de la tarifa eléctrica"
+    url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
+    context: "El estudio CEARE-UBA (con apoyo del BID, diciembre 2025) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2026 y 2030 (+39,4%). El costo medio de generación subió de 24 a ~28 US$/MWh..."
+  - label: "Transparencia de los contratos GCIE"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW)..."
+  - label: "Modernización institucional del sector eléctrico"
+    url: /articulos/2026/08/19/modelo-institucional-psr-sector-electrico/
+    context: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay,..."
 ---
 
 7 articulos en el observatorio mencionan a Itaipú.

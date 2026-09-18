@@ -59,6 +59,10 @@ obs_cronologia:
   - label: "2024"
     url: /cronologia/
     context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
+obs_directorio:
+  - label: "Programa GCIE de la ANDE"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "Grandes Consumidores de Energía Intensiva: 943,8 MW reservados para 41 empresas (criptomineras y data centers), tarifa Resolución 49238/2024, 13,5% de la potencia de Itaipú. La transparencia de los..."
 obs_regulacion:
   - label: "Ley 7599/2025 y Decreto 6034/2026"
     url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
@@ -85,15 +89,15 @@ obs_casos-de-uso:
   - label: "Yguazú Digital: gobernanza binacional para IA"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
-  - label: "E-commerce en Paraguay"
-    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
-    context: "Mercado de USD 700M-2.180M, crece 23-40% anual. 8 de cada 10 paraguayos compran online, 81% desde celular. Impulsado por pagos QR y billeteras móviles."
-  - label: "Logística de último kilómetro"
-    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
-    context: "Sin direcciones estandarizadas. AEX cubre 120+ ciudades. El 77% del e-commerce es transfronterizo."
-  - label: "IA en logística"
-    url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
-    context: "Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos."
+  - label: "Diagnóstico de la tarifa eléctrica"
+    url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
+    context: "El estudio CEARE-UBA (con apoyo del BID, diciembre 2025) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2026 y 2030 (+39,4%). El costo medio de generación subió de 24 a ~28 US$/MWh..."
+  - label: "Transparencia de los contratos GCIE"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW)..."
+  - label: "Modernización institucional del sector eléctrico"
+    url: /articulos/2026/08/19/modelo-institucional-psr-sector-electrico/
+    context: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay,..."
 ---
 
 9 articulos en el observatorio mencionan a ANDE.

@@ -63,6 +63,11 @@
   nota: "Acuerdo Peña-Lula: USD 19,28/kW-mes. Vence el 1 de enero de 2027."
   articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
 
+- nombre: "Resolución ANDE 49238/2024 — Pliego de Tarifas Nº 21"
+  estado: vigente
+  nota: "Regula las tarifas del Programa de Grandes Consumidores de Energía Intensiva (GCIE): 943,8 MW reservados, tarifa de referencia de 30 US$/MWh, vigente hasta diciembre de 2027. Base legal del programa: Res. 47191/2022 y Decreto 7824/2022."
+  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+
 - nombre: "Ministerio de Energía, Minería e Hidrocarburos"
   estado: proyecto
   nota: "Proyecto de ley presentado por el Ejecutivo el 13 de agosto de 2026. Absorbe al VMME y a la Dirección de Combustibles."
