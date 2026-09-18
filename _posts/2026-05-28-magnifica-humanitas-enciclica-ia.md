@@ -182,7 +182,7 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 12. [ADN Celam — "Cardenal paraguayo advierte riesgos éticos de inteligencia artificial"](https://adn.celam.org/cardenal-paraguayo-advierte-riesgos-eticos-de-inteligencia-artificial-tras-publicacion-de-magnifica-humanitas/) (27 may 2026)
 13. [VIA.bible — "La humanidad como frontera sagrada"](https://www.via.bible/es/la-humanidad-como-frontera-sagrada-magnifica-humanitas-y-el-desafio-digital-en-america-latina/) (4 may 2026)
 14. [Rome Call for AI Ethics](https://www.romecall.org/the-call)
-15. [ABC Color — "Centro de datos soberano con Taiwán"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-Taiwán-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 may 2026)
+15. [ABC Color — "Centro de datos soberano con Taiwán"](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) (13 may 2026)
 16. [BNamericas — "Mi objetivo es alcanzar los 5GW de IA"](https://www.bnamericas.com/es/entrevistas/mi-objetivo-es-alcanzar-los-5gw-de-ia-afirma-x8-cloud-sobre-megaproyecto-en-paraguay) (2025-2026)
 
 *Este artículo es parte del [Observatorio de IA en Paraguay](/ia-en-paraguay/), una guía viva sobre cómo la inteligencia artificial está transformando el país.*

@@ -49,7 +49,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 ## Fuentes
 
 - [Becal Paraguay — Estadísticas de becarios](https://www.becal.gov.py/) (3.787 becarios, 2.682 retornados)
-- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMinería-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
+- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
 - [TEDIC — "Todo lo que tenés que saber sobre la criptominería en Paraguay"](https://www.tedic.org/cripto_en_py/) (6 noviembre 2024)
 - [Wikipedia — Tiigrihüpe](https://en.wikipedia.org/wiki/Tiigrih%C3%BCpe)
 

@@ -78,7 +78,7 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
 - [La Nación — "Ley de Protección de Datos: implicancias, desafíos e impacto transversal"](https://www.lanacion.com.py/negocios/2025/12/03/ley-de-proteccion-de-datos-implicancias-desafios-e-impacto-transversal-en-toda-la-economia-paraguaya/) (3 diciembre 2025)
 - [BKM Berkemeyer — "Análisis de la Ley N° 7593/2025 de Protección de Datos Personales"](https://www.berke.com.py/analisis-de-la-ley-n-7593-2025-de-proteccion-de-datos-personales-de-paraguay1/) (noviembre 2025)
 - [DLA Piper — Data Protection Handbook: Paraguay](https://www.dlapiperdataprotection.com/index.html?t=law&c=PY) (actualizado 30 marzo 2026)
-- [Bloomberg Línea — "Taiwán ayudará a financiar un centro de datos de IA de US$200 millones en Paraguay"](https://www.bloomberglinea.com/latinoamerica/Taiwán-ayudara-a-financiar-un-centro-de-datos-de-ia-de-us200-millones-en-paraguay/) (12 junio 2026)
+- [Bloomberg Línea — "Taiwán ayudará a financiar un centro de datos de IA de US$200 millones en Paraguay"](https://www.bloomberglinea.com/latinoamerica/Taiw%C3%A1n-ayudara-a-financiar-un-centro-de-datos-de-ia-de-us200-millones-en-paraguay/) (12 junio 2026)
 - [IAPP — "Lessons from Brazilian DPA sanctions to date"](https://iapp.org/news/a/lessons-from-brazilian-dpa-sanctions-to-date) (8 octubre 2024)
 - [ABC Color — "Camino hacia la protección de datos en Paraguay"](https://www.abc.com.py/negocios/2025/06/04/camino-hacia-la-proteccion-de-datos-en-paraguay/) (4 junio 2025)
 

@@ -91,7 +91,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 ## Fuentes
 
 1. [HIVE Digital Technologies — FY2026 Financial Results](https://www.hivedigitaltechnologies.com/news/hive-achieves-fy2026-total-revenue-of-2978-million-158-yoy-hives-buzz-hpc-positioned-for-growth/) (junio 2026)
-2. [HIVE Digital Technologies — Adquisición de Yguazú 200 MW](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-the-acquisition-of-bitfarms-Yguazú-paraguay-site-a-200-mw-bitcoin-mining-site-setting-the-stage-for-substantial-growth-to-25-ehs-by-september-2025/) (enero 2025)
+2. [HIVE Digital Technologies — Adquisición de Yguazú 200 MW](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-the-acquisition-of-bitfarms-yguazu-paraguay-site-a-200-mw-bitcoin-mining-site-setting-the-stage-for-substantial-growth-to-25-ehs-by-september-2025/) (enero 2025)
 3. [HIVE Digital Technologies — Expansión 100 MW en Paraguay](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-targets-35-ehs-in-2026-with-newly-signed-100-mw-hydroelectric-expansion-in-paraguay-and-a-5x-growth-in-hpc-and-ai-operations-through-strategic-partnerships-with-bell-canada/) (octubre 2025)
 4. [HIVE Digital Technologies — Lanzamiento BUZZ AI Cloud en Asunción](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-expands-into-paraguay-launching-one-of-the-first-purpose-built-ai-buzz-cloud-platforms-in-the-country/) (enero 2026)
 5. [HIVE Digital Technologies — Columbia University LLM research en Paraguay](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-reaches-ai-cloud-milestone-in-paraguay-powers-columbia-university-llm-research-from-new-york-to-asuncion/) (marzo 2026)

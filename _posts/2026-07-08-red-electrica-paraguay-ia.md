@@ -65,13 +65,13 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 ## Fuentes
 
 - [ABC Color — "Peña reporta avances en la red eléctrica y millonarias inversiones"](https://www.abc.com.py/economia/2026/07/04/pena-reporta-avances-en-la-red-electrica-y-millonarias-inversiones-en-su-informe-anual/) (4 julio 2026)
-- [Última Hora — "Los 7 puntos clave del acuerdo de Itaipú 2024"](https://www.ultimahora.com/que-dice-el-nuevo-acuerdo-de-Itaipú-los-7-puntos-claves-que-pactaron-paraguay-y-brasil-en-2024) (2024)
-- [Wilson Center — "Brazil, Paraguay and the Future of Itaipú"](https://www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-Itaipú)
-- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMinería-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
+- [Última Hora — "Los 7 puntos clave del acuerdo de Itaipú 2024"](https://www.ultimahora.com/que-dice-el-nuevo-acuerdo-de-Itaipu-los-7-puntos-claves-que-pactaron-paraguay-y-brasil-en-2024) (2024)
+- [Wilson Center — "Brazil, Paraguay and the Future of Itaipú"](https://www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-Itaipu)
+- [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
 - [ABC Color — "ANDE: tarifas y el dilema del sector privado"](https://www.abc.com.py/economia/2026/03/10/ande-tarifas-y-el-dilema-del-sector-privado/) (10 marzo 2026)
 - [El País — "La fiebre del bitcoin en Paraguay: ¿bendición o maldición?"](https://elpais.com/america-futura/2025-08-15/la-fiebre-del-bitcoin-en-paraguay-bendicion-o-maldicion.html) (15 agosto 2025)
 - [La Nación — "ADVERTENCIA: Paraguay podría enfrentar crisis energética 2026-2035"](https://www.lanacion.com.py/negocios/2025/10/05/paraguay-podria-enfrentar-crisis-energética-entre-2026-y-2035) (5 octubre 2025)
-- [Itaipú Binacional — "Itaipú supera los 14.600 GWh de generación en el primer semestre"](https://www.Itaipú.gov.py/es/sala-de-prensa/noticia/Itaipú-supera-los-14600-gwh-de-generacion-en-el-primer-semestre-de-2026) (julio 2026)
+- [Itaipú Binacional — "Itaipú supera los 14.600 GWh de generación en el primer semestre"](https://www.Itaipu.gov.py/es/sala-de-prensa/noticia/Itaipú-supera-los-14600-gwh-de-generacion-en-el-primer-semestre-de-2026) (julio 2026)
 - [EirGrid — "Data Centre Connection Offer Process"](https://www.eirgrid.ie/grid/DataCentres) (Irlanda)
 - [Comisión de Regulación de Servicios Públicos (CRU) de Irlanda — "Data centres and the electricity grid"](https://www.cru.ie/what-we-do/comms-network/energy-consumer-data-centres-and-the-electricity-grid/)
 - [JLARC Virginia — costo y beneficios de los data centers en Loudoun](https://jlarc.virginia.gov/)

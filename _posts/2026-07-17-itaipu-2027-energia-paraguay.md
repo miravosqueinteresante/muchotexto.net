@@ -69,11 +69,11 @@ Leé el análisis completo sobre infraestructura y energía en la [guía de inte
 ## Fuentes
 
 - [Wikipedia — Tratado de Itaipú](https://es.wikipedia.org/wiki/Tratado_de_Itaip%C3%BA) — historia, estructura, Anexo C
-- [Wilson Center — "Brazil, Paraguay, and the Future of Itaipú"](https://www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-Itaipú) (2021)
+- [Wilson Center — "Brazil, Paraguay, and the Future of Itaipú"](https://www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-Itaipu) (2021)
 - [Última Hora — "Qué dice el nuevo acuerdo de Itaipú: los 7 puntos claves"](https://www.ultimahora.com/) (mayo 2024)
 - [La Nación — "Anexo C: Tratado debe mantener la misión de Itaipú como motor de desarrollo"](https://www.lanacion.com.py/) (febrero 2025)
 - [El País — "Paraguay convoca al embajador de Brasil por un caso de espionaje"](https://elpais.com/america/2025-04-02/paraguay-convoca-al-embajador-de-brasil-en-asuncion-por-un-caso-de-espionaje.html) (abril 2025)
-- [Wikipedia — Itaipú Dam](https://en.wikipedia.org/wiki/Itaipú_Dam) — datos técnicos, capacidad, generación
+- [Wikipedia — Itaipú Dam](https://en.wikipedia.org/wiki/Itaipu_Dam) — datos técnicos, capacidad, generación
 - [New York Times — "In Paraguay, a Deal With Brazil Has the Energy to Transform"](https://www.nytimes.com/2009/07/27/world/americas/27paraguay.html) (julio 2009)
 - [The Economist — "Paraguay's flourishing cryptomining industry"](https://www.economist.com/) (julio 2024)
 

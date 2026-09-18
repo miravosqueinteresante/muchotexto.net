@@ -86,14 +86,14 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
 ## Fuentes
 
-1. [Tratado de Itaipú — Wikipedia](https://en.wikipedia.org/wiki/Itaipú_Dam) (1973)
-2. [Itaipú Binacional — sitio oficial](https://www.Itaipú.gov.py/)
+1. [Tratado de Itaipú — Wikipedia](https://en.wikipedia.org/wiki/Itaipu_Dam) (1973)
+2. [Itaipú Binacional — sitio oficial](https://www.Itaipu.gov.py/)
 3. [Yguazú Digital — cobertura del MoU, ABC Color](https://www.abc.com.py/) (mayo 2026)
 4. [Wikipedia — Yacyretá Dam](https://en.wikipedia.org/wiki/Yacyret%C3%A1_Dam)
 5. [CERN — Governance structure](https://home.cern/about/who-we-are/our-governance)
 6. [ICDF Taiwán — sitio oficial](https://www.icdf.org.tw/)
 7. [AP News — Paraguay expulsa a diplomático chino Xu Wei](https://apnews.com/) (diciembre 2024)
-8. [Wikipedia — Paraguay-Taiwán relations](https://en.wikipedia.org/wiki/Paraguay%E2%80%93Taiwán_relations)
+8. [Wikipedia — Paraguay-Taiwán relations](https://en.wikipedia.org/wiki/Paraguay%E2%80%93Taiwan_relations)
 9. [UNESCO — Recommendation on the Ethics of AI (2021)](https://unesco.org/en/artificial-intelligence/recommendation-ethics)
 10. [European Union — AI Act (2024)](https://artificialintelligenceact.eu/)
 11. [Submarine cable consortia — Telegeography](https://www2.telegeography.com/submarine-cable-faqs)

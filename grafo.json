@@ -162,14 +162,20 @@
     {
       "source": "ande",
       "target": "itaipu",
-      "type": "ley",
-      "label": "Tarifa de Itaipú 2024-2026"
+      "type": "articulo",
+      "label": "ANDE oculta 943 MW de contratos de criptominería bajo llave"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
       "label": "Anexo C del Tratado de Itaipú"
+    },
+    {
+      "source": "ande",
+      "target": "itaipu",
+      "type": "ley",
+      "label": "Tarifa de Itaipú 2024-2026"
     },
     {
       "source": "ande",

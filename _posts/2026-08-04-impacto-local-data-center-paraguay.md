@@ -77,7 +77,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 ## Fuentes
 
 1. [HIVE Digital Technologies — FY2026 Financial Results](https://www.hivedigitaltechnologies.com/news/hive-achieves-fy2026-total-revenue-of-2978-million-158-yoy-hives-buzz-hpc-positioned-for-growth/) (junio 2026)
-2. [HIVE Digital Technologies — Adquisición de Yguazú 200 MW](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-the-acquisition-of-bitfarms-Yguazú-paraguay-site-a-200-mw-bitcoin-mining-site-setting-the-stage-for-substantial-growth-to-25-ehs-by-september-2025/) (enero 2025)
+2. [HIVE Digital Technologies — Adquisición de Yguazú 200 MW](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-the-acquisition-of-bitfarms-yguazu-paraguay-site-a-200-mw-bitcoin-mining-site-setting-the-stage-for-substantial-growth-to-25-ehs-by-september-2025/) (enero 2025)
 3. [HIVE Digital Technologies — Operaciones en Paraguay](https://www.hivedigitaltechnologies.com/operations/paraguay/)
 4. [Baker Tilly — Community Benefit Agreements for Data Centers](https://www.bakertilly.com/) (2025)
 5. [Rest of World — The Global Backlash Against Data Centers](https://restofworld.org/) (2025)

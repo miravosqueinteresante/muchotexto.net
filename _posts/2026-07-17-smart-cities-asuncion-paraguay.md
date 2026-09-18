@@ -70,7 +70,7 @@ Leé el análisis completo sobre tecnología y ecosistema en la [guía de inteli
 - [Wikipedia — Medellín Metro + Metrocable](https://en.wikipedia.org/wiki/Medell%C3%ADn_Metro) — ridership, costos, cronología
 - [Wikipedia — Red Metropolitana de Movilidad (Santiago)](https://en.wikipedia.org/wiki/Red_Metropolitana_de_Movilidad) — buses eléctricos, Transantiago
 - [Wikipedia — Curitiba / Rede Integrada de Transporte](https://en.wikipedia.org/wiki/Rede_Integrada_de_Transporte) — BRT pioneer, ridership
-- [Wikipedia — Gran Asunción](https://en.wikipedia.org/wiki/Gran_Asunción) — población, municipios
+- [Wikipedia — Gran Asunción](https://en.wikipedia.org/wiki/Gran_Asuncion) — población, municipios
 - [Wikipedia — Water supply and sanitation in Paraguay](https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Paraguay) — alcantarillado 16%
 - [Wikipedia — Crime in Paraguay](https://en.wikipedia.org/wiki/Crime_in_Paraguay) — Asunción 3ra capital más segura
 - [MOPC — Monitoreo inteligente Puente de la Bioceánica](https://www.mopc.gov.py/) (julio 2026)

@@ -67,7 +67,7 @@ El debate completo sobre energía e institucionalidad está en el [Observatorio 
 4. [ABC Color — "ANDE definirá este mes nueva tarifa técnica para Atome y todas las industrias que quieran venir"](https://www.abc.com.py/economia/2026/08/04/ande-definira-este-mes-nueva-tarifa-tecnica-para-atome-y-todas-las-industrias-que-quieran-venir/) (4 de agosto de 2026)
 5. [BACN — Ley 966/1964, Carta Orgánica de la ANDE](https://www.bacn.gov.py/leyes-paraguayas/2417/texto)
 6. [BACN — Ley 3.480/2008 "Que amplía la tarifa social de energía eléctrica"](https://www.bacn.gov.py/leyes-paraguayas/154/ley-n-3480-amplia-la-tarifa-social-de-energia-electrica)
-7. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-eléctrico/) (13 de agosto de 2026)
+7. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/) (13 de agosto de 2026)
 8. [ABC Color — "El descargo de Félix Sosa tras ser relevado de la presidencia de ANDE"](https://www.abc.com.py/nacionales/2026/07/27/el-descargo-de-felix-sosa-tras-ser-relevado-de-la-presidencia-de-ande/) (27 de julio de 2026)
 9. [CEARE-UBA — sitio institucional](https://www.ceare.org/) (para el perfil del autor del estudio)
 
