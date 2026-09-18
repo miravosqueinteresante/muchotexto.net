@@ -1,6 +1,8 @@
 # Dashboard energético — datos verificados contra AGENTS.md (ago 2026).
 # Fuentes: ANDE, Res. 49238/2024, estudio Ceare (UBA/BID), ABC Color.
-# Recordatorio: re-verificar la tarifa de ANDE cada 30 días (próxima: 7-sep-2026).
+# Recordatorio: re-verificar la tarifa de ANDE cada 30 días.
+# Re-verificada: 18-sep-2026 (sin cambios — GCIE 30 US$/MWh vigente, Res. 49238/2024 hasta dic 2027).
+# Próxima: 7-oct-2026.
 
 kpis:
   - label: "Potencia reservada"

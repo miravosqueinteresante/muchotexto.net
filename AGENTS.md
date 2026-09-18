@@ -326,7 +326,7 @@ Fuentes: ABC Color / Silvana Bogarín (9-ago-2026), estudio Ceare (UBA, con apoy
 - **Acuerdo Operativo Itaipú 2007**: expira 31-dic-2026 (renovado 2024-2026 por entendimiento del 16-abr/9-may-2024). Beneficio ~US$200M/año; desde 2027 la ANDE contratará toda su necesidad de potencia y podrá vender sobrante en Brasil (aún no vendió 1 kWh). NO confundir con Anexo C (reanudado nov-2025) ni con acuerdo tarifario (19,28, vence 1-ene-2027).
 - **Plan Maestro ANDE 2024-2043**: ~800 MW/año promedio de generación fotovoltaica. Primera licitación: planta solar Loma Plata (Chaco), anunciada mayo-2026. AGO-2026: ninguna planta utility-scale en operación — usar "la primera licitación se anunció en mayo de 2026", NO "no hay ningún proyecto".
 
-**Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 7 de septiembre de 2026. Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
+**Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 7 de octubre de 2026 (última: 18-sep-2026, sin cambios). Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
 
 ### Tarifas eléctricas internacionales para data centers (verificado ago 2026)
 
