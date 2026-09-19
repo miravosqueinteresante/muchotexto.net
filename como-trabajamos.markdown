@@ -42,6 +42,7 @@ Como principio general, la IA actúa como asistente, nunca como autor final. Cad
 | Investigación con agentes | Editor humano | Los hallazgos se sintetizan; nunca se copian textualmente sin verificación |
 | Fact-check | Editor humano | Verificación en dos capas: datos factuales + claims de atribución (se abre el texto completo de la fuente para comprobar qué concluye realmente) |
 | Capa de datos (MuchoTexto Data) | Editor humano | Los indicadores energéticos se sincronizan automáticamente desde la capa de datos verificables en cada build; el editor re-verifica el canon editorial cada 30 días |
+{: aria-label="Funciones asistidas por IA y su responsable humano"}
 
 **Usos prohibidos:**
 
@@ -68,6 +69,7 @@ Como principio general, la IA actúa como asistente, nunca como autor final. Cad
 | Pérdida de calidad | Supervisión editorial humana obligatoria en toda publicación; revisión diaria del contenido automatizado |
 | Deepfakes y alteración de la realidad | Línea roja: prohibido generar o publicar imágenes o vídeos que puedan confundirse con reales. Aplica si el sitio incorporase contenido multimedia en el futuro |
 | Confianza del lector | Divulgación del uso de IA por formato, incluida la nota-pie en artículos de fondo (ver Declaración sobre uso de IA) |
+{: aria-label="Riesgos del uso de IA y sus medidas de mitigación"}
 
 ## Qué hace el editor humano
 
@@ -126,6 +128,7 @@ Los modelos de lenguaje utilizados en las distintas etapas del proyecto son:
 | **Gemini 3.1 Flash Lite** | Generación automatizada de Pulso Tech Paraguay y Editorial Diaria (vía Google Gemini API, tier gratuito) |
 | **MiniMax** | Procesamiento de contenido y tareas de síntesis |
 | **Qwen** | Asistencia en desarrollo, mantenimiento del sitio y validación de código |
+{: aria-label="Modelos de lenguaje usados por etapa del proyecto"}
 
 La combinación de múltiples modelos permite aprovechar las fortalezas de cada uno: razonamiento profundo para la investigación, eficiencia para el contenido automatizado diario, y capacidad de desarrollo para el mantenimiento técnico del sitio.
 

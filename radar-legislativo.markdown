@@ -59,7 +59,7 @@ last_modified_at: 2026-09-03
 .radar-count {
   font-family: var(--code-font-family);
   font-size: 0.8em;
-  opacity: 0.55;
+  opacity: 0.75;
   font-weight: 400;
 }
 

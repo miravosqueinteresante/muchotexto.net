@@ -10,7 +10,7 @@ Paraguay está en el mapa de la inteligencia artificial global. No como consumid
 
 Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre inteligencia artificial en Paraguay. Cada artículo es un análisis en profundidad -1.500 a 2.500 palabras, fuentes verificadas, argumentos a favor y en contra- publicado con un solo objetivo: que entiendas lo que está pasando, por qué importa y qué puede significar para el pais.
 
-### Empezá por acá
+## Empezá por acá
 
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y USD 200 millones a 1 GW y USD 40.000 millones. El artículo más leído del observatorio.
 - **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable. El cambio estructural más importante de la última década.

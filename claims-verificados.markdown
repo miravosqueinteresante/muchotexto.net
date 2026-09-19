@@ -86,7 +86,7 @@ last_modified_at: 2026-08-21
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  opacity: 0.6;
+  opacity: 0.8;
   margin: 0 0 var(--spacer) 0;
   padding-bottom: var(--spacer);
   border-bottom: 1px solid var(--border-color);
@@ -114,7 +114,7 @@ last_modified_at: 2026-08-21
   display: block;
   margin-top: 6px;
   font-size: 0.78em;
-  opacity: 0.65;
+  opacity: 0.8;
   line-height: 1.5;
   padding-left: 0;
 }
