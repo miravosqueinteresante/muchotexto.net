@@ -86,7 +86,9 @@ python scripts/audit_consistency.py --json   # salida para CI
 
 **Regla:** se deriva lo que es lista, conteo o relación; se cura lo que es juicio, redacción o interpretación — pero en una sola fuente. Al agregar una superficie nueva con un conteo derivable, declararla en `CANON` dentro del auditor.
 
-**Estado:** read-only, **bloqueante en CI** (paso "Auditar consistencia" del workflow, corre en todo build antes de Jekyll). Si hay hallazgos, cancela el deploy. Prueba de detección: `_planning/selftest_auditor.py` (rompe INV-1/INV-9/INV-10 y confirma exit 1).
+**Estado:** read-only, **bloqueante en CI** (paso "Validar y preparar datos" del workflow, corre en todo build antes de Jekyll). Si hay hallazgos, cancela el deploy. Prueba de detección: `_planning/selftest_auditor.py` (rompe INV-1/INV-9/INV-10 y confirma exit 1).
+
+**Superficies derivadas:** `scripts/build_derived.py` (motor único) genera cronología, glosario, casos de uso y directorio desde el front matter de los artículos (`hitos`, `glosario`, `casos`, `directorio`) más su seed. Sus tests (`scripts/test_build_derived.py`, 19 casos) corren en el mismo paso de CI.
 
 ## Capa de datos local (muchotexto.net ↔ datos-publicos)
 
