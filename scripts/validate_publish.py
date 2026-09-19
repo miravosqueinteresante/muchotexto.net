@@ -45,6 +45,18 @@ def get_staged_posts() -> list[str]:
     return files
 
 
+def get_new_posts() -> list[str]:
+    """Posts NUEVOS (--diff-filter=A). Solo estos disparan el gate del observatorio;
+    los posts modificados se validan por-post pero no exigen tocar todo el observatorio."""
+    result = subprocess.run(
+        ["git", "diff", "--cached", "--name-only", "--diff-filter=A"],
+        capture_output=True, text=True, cwd=REPO_DIR
+    )
+    if result.returncode != 0:
+        return []
+    return [f for f in result.stdout.strip().split("\n") if f.startswith("_posts/") and f.endswith(".md")]
+
+
 def get_last_n_posts(n: int = 3) -> list[dict]:
     posts = sorted(glob.glob(os.path.join(POSTS_DIR, "*.md")), reverse=True)
     result = []
@@ -244,7 +256,7 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     return errors, warnings
 
 
-def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[list[str], list[str]]:
+def check_ecosistema(new_posts: list[str], staged_all: list[str]) -> tuple[list[str], list[str]]:
     errors = []
     warnings = []
 
@@ -257,47 +269,47 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
     has_casos = any("_data/casos.yml" in f for f in staged_all)
     has_entidades = any("entidades/" in f for f in staged_all)
 
-    if staged_posts and not has_pillar:
+    if new_posts and not has_pillar:
         errors.append(
             "Nuevo post detectado pero ia-en-paraguay.markdown no esta en el commit. "
             "Agregarlo: git add ia-en-paraguay.markdown"
         )
-    if staged_posts and not has_llms:
+    if new_posts and not has_llms:
         errors.append(
             "Nuevo post detectado pero llms.txt no esta en el commit. "
             "Agregarlo: git add llms.txt"
         )
-    if staged_posts and not has_glosario:
+    if new_posts and not has_glosario:
         errors.append(
             "Nuevo post detectado pero _data/glosario.yml no esta en el commit. "
             "Declarar los terminos nuevos en el front matter del articulo (campo `glosario`) "
             "y correr python scripts/build_glosario.py. Agregarlo: git add _data/glosario.yml"
         )
-    if staged_posts and not has_cronologia:
+    if new_posts and not has_cronologia:
         errors.append(
             "Nuevo post detectado pero _data/cronologia.yml no esta en el commit. "
             "Declarar los hitos en el front matter del articulo (campo `hitos`) y correr "
             "python scripts/build_cronologia.py. Agregarlo: git add _data/cronologia.yml"
         )
-    if staged_posts and not has_regulacion:
+    if new_posts and not has_regulacion:
         errors.append(
             "Nuevo post detectado pero regulacion.markdown no esta en el commit. "
             "Todo articulo nuevo debe actualizar el mapa regulatorio. "
             "Agregarlo: git add regulacion.markdown"
         )
-    if staged_posts and not has_directorio:
+    if new_posts and not has_directorio:
         errors.append(
             "Nuevo post detectado pero _data/directorio.yml no esta en el commit. "
             "Declarar las entidades nuevas en el front matter del articulo (campo `directorio`) "
             "y correr python scripts/build_directorio.py. Agregarlo: git add _data/directorio.yml"
         )
-    if staged_posts and not has_casos:
+    if new_posts and not has_casos:
         errors.append(
             "Nuevo post detectado pero _data/casos.yml no esta en el commit. "
             "Declarar los casos en el front matter del articulo (campo `casos`) y correr "
             "python scripts/build_casos.py. Agregarlo: git add _data/casos.yml"
         )
-    if staged_posts and not has_entidades:
+    if new_posts and not has_entidades:
         errors.append(
             "Nuevo post detectado pero entidades/ no esta en el commit. "
             "Ejecuta python scripts/build_entities.py y hace git add entidades/. "
@@ -305,7 +317,7 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
         )
 
     # Check if new article topic is still in Proximamente on pillar page
-    for post_file in staged_posts:
+    for post_file in new_posts:
         post_path = os.path.join(REPO_DIR, post_file)
         content = read_file(post_path)
         title = extract_frontmatter_field(content, "title")
@@ -365,6 +377,7 @@ def main():
         sys.exit(EXIT_FAIL if errors else EXIT_PASS)
 
     staged_posts = get_staged_posts()
+    new_posts = get_new_posts()
     staged_all = subprocess.run(
         ["git", "diff", "--cached", "--name-only", "--diff-filter=ACM"],
         capture_output=True, text=True, cwd=REPO_DIR
@@ -389,7 +402,7 @@ def main():
         all_warnings.extend(warnings)
         print_report(errors, warnings, os.path.basename(post_file))
 
-    e, w = check_ecosistema(staged_posts, staged_all)
+    e, w = check_ecosistema(new_posts, staged_all)
     all_errors.extend(e)
     all_warnings.extend(w)
 
