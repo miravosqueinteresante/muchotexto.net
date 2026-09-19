@@ -60,6 +60,21 @@ obs_cronologia:
   - label: "2024"
     url: /cronologia/
     context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
+  - label: "Diciembre 2024"
+    url: /cronologia/
+    context: "ANDE: consumo eléctrico crece 18% en un año, el triple del promedio histórico."
+  - label: "Enero 2025"
+    url: /cronologia/
+    context: "HIVE adquiere Yguazú 200 MW de Bitfarms por USD 56M. Asume USD 19M en contratos con ANDE. Construcción de fase 1 completada en junio 2025."
+  - label: "9 Junio 2026"
+    url: /cronologia/
+    context: "La ANDE deroga los cuatro decretos paralelos tras presión sindical (SITRANDE) y cuestionamientos internos sobre la opacidad de contratos con empresas de criptominería y data centers."
+  - label: "2 Julio 2026"
+    url: /cronologia/
+    context: "El Expediente Judicial Electrónico se expande a Juzgados Penales de Saltos del Guairá. ~42% de Juzgados de Paz ya opera con el sistema."
+  - label: "27 Julio 2026"
+    url: /cronologia/
+    context: "Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos de extensión tarifaria. Miguel Báez asume como nuevo titular."
 obs_directorio:
   - label: "Programa GCIE de la ANDE"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/

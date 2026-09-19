@@ -8,6 +8,9 @@ tags: [transparencia, tarifas-ande, gcie, data-centers, energia-paraguay]
 description: "943 MW de criptominería bajo contrato secreto en la ANDE. Tarifas, decretos derogados y una renuncia que la empresa no quiere explicar."
 schema_type: TechArticle
 image_path: /assets/img/posts/contratos-ande.webp
+hitos:
+  - fecha: "2026-09-17"
+    texto: "Atome PLC presenta un Aviso de Controversia contra Paraguay ante el CIADI, primer paso hacia un arbitraje internacional por hasta US$ 665 millones, por la revocación de los decretos de 2026."
 ---
 
 En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465 GWh, el 18,6% del consumo total nacional de 29.419 GWh. Eso equivale al 13,5% de los 7.000 MW de potencia que corresponden a Paraguay en [Itaipú](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/). Las tarifas del programa están reguladas por la Resolución ANDE 49238/2024 y son públicas. Pero las condiciones particulares de cada contrato no lo están: un acuerdo entre la ANDE y Atome Paraguay está disponible en el portal de transparencia, pero es la excepción, no la regla. Y un proyecto de Atome que busca una tarifa fija de 30 dólares por MWh a 10 años bajo el Decreto 5307 generó la crisis política más intensa del sector energético en años.

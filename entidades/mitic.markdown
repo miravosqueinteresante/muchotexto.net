@@ -24,6 +24,12 @@ obs_cronologia:
   - label: "2024"
     url: /cronologia/
     context: "El MITIC realiza consulta pública para la estrategia nacional de IA."
+  - label: "Mayo 2026"
+    url: /cronologia/
+    context: "MITIC adjudica el Data Center estatal Tier III (5.000 VMs, 2.000 contenedores, financiado por el BID)."
+  - label: "Junio 2026"
+    url: /cronologia/
+    context: "MITIC dona 1.600 antenas Starlink para escuelas rurales."
 obs_regulacion:
   - label: "Ley 7593/2025"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/

@@ -245,6 +245,18 @@ def section4_observatory_density():
         if not os.path.exists(fpath):
             results.append((name, 0, "no existe"))
             continue
+        if filename == "cronologia.markdown":
+            # Derivada de _data/cronologia.yml (build_cronologia.py)
+            count = 0
+            crono = os.path.join(REPO_DIR, "_data", "cronologia.yml")
+            if os.path.exists(crono):
+                import yaml
+                with open(crono, "r", encoding="utf-8") as cf:
+                    data = yaml.safe_load(cf) or []
+                count = sum(len(g.get("items", [])) for g in data)
+            fm = parse_frontmatter(open(fpath, encoding="utf-8").read())
+            results.append((name, count, fm.get("last_modified_at", "sin dato")))
+            continue
         count, last_mod = _count_entries(fpath, is_glosario)
         results.append((name, count, last_mod))
     return results

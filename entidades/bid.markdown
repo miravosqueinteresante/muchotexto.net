@@ -22,6 +22,12 @@ obs_cronologia:
   - label: "2019"
     url: /cronologia/
     context: "Paraguay firma préstamo de $130M con el BID para la Agenda Digital. Se funda la Cámara Paraguaya de Fintech."
+  - label: "Mayo 2026"
+    url: /cronologia/
+    context: "MITIC adjudica el Data Center estatal Tier III (5.000 VMs, 2.000 contenedores, financiado por el BID)."
+  - label: "9 Agosto 2026"
+    url: /cronologia/
+    context: "Cinco diputados nacionales solicitan formalmente información sobre los contratos GCIE de la ANDE. A la fecha de publicación del artículo, no han recibido respuesta."
 obs_regulacion:
   - label: "Estrategia Nacional de Hidrógeno Verde (julio 2025)"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/

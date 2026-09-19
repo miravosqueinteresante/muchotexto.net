@@ -23,6 +23,12 @@ obs_cronologia:
   - label: "2023"
     url: /cronologia/
     context: "CONATEL aprueba Starlink en Paraguay, entre los primeros países de América Latina."
+  - label: "Junio 2026"
+    url: /cronologia/
+    context: "MITIC dona 1.600 antenas Starlink para escuelas rurales."
+  - label: "Julio 2026"
+    url: /cronologia/
+    context: "Starlink alcanza ~20.000 usuarios en Paraguay."
 obs_casos-de-uso:
   - label: "Starlink en Paraguay"
     url: /articulos/2026/07/15/starlink-paraguay-conectividad/

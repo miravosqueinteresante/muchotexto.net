@@ -32,6 +32,16 @@ obs_glosario:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: 10 MW (USD 200M), 100 MW (USD 5.000M), 1.000 MW (USD 40.000M). Modelo de..."
+obs_cronologia:
+  - label: "8 Mayo 2026"
+    url: /cronologia/
+    context: "Se firma el MOU de Yguazú Digital en Taipei. Presidentes Peña y Lai Ching-te. Entidad binacional Paraguay-Taiwán modelada sobre Itaipú: Fase I 10 MW/$200-300M con ICDF."
+  - label: "Junio 2026"
+    url: /cronologia/
+    context: "ICDF contacta a Google, Microsoft y Amazon como potenciales clientes ancla de Yguazú Digital."
+  - label: "Noviembre 2027"
+    url: /cronologia/
+    context: "Entra en vigor la Ley 7593 de protección de datos. Yguazú Digital Fase I debe estar operativo."
 obs_regulacion:
   - label: "Tratado de Itaipu (1973)"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/

@@ -251,7 +251,7 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
     has_pillar = any("ia-en-paraguay.markdown" in f for f in staged_all)
     has_llms = any("llms.txt" in f for f in staged_all)
     has_glosario = any("glosario.markdown" in f for f in staged_all)
-    has_cronologia = any("cronologia.markdown" in f for f in staged_all)
+    has_cronologia = any("_data/cronologia.yml" in f for f in staged_all)
     has_regulacion = any("regulacion.markdown" in f for f in staged_all)
     has_directorio = any("directorio.markdown" in f for f in staged_all)
     has_casos = any("casos-de-uso.markdown" in f for f in staged_all)
@@ -275,9 +275,9 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
         )
     if staged_posts and not has_cronologia:
         errors.append(
-            "Nuevo post detectado pero cronologia.markdown no esta en el commit. "
-            "Todo articulo nuevo debe agregar al menos un hito a la cronologia. "
-            "Agregarlo: git add cronologia.markdown"
+            "Nuevo post detectado pero _data/cronologia.yml no esta en el commit. "
+            "Declarar los hitos en el front matter del articulo (campo `hitos`) y correr "
+            "python scripts/build_cronologia.py. Agregarlo: git add _data/cronologia.yml"
         )
     if staged_posts and not has_regulacion:
         errors.append(

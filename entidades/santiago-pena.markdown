@@ -20,6 +20,13 @@ related_articles:
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+obs_cronologia:
+  - label: "Octubre 2023"
+    url: /cronologia/
+    context: "Santiago Peña reactiva la Mesa Energética Nacional con el mandato de actualizar la política energética al 2050."
+  - label: "6 Agosto 2026"
+    url: /cronologia/
+    context: "Santiago Peña reconvoca la Mesa Energética Nacional y da 30 días para propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa público-privada y reglas para inversores."
 ---
 
 4 articulos en el observatorio mencionan a Santiago Peña.

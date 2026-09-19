@@ -231,12 +231,20 @@ def load_observatory_entries():
                 entries[page_name].append({"term": term, "url": url, "context": definition})
 
         elif page_name == "cronologia":
-            for m in pat.finditer(body):
-                year = m.group(1).strip()
-                desc = clean_context(m.group(2).strip())
-                link_match = re.search(r'\[(.+?)\]\((.+?)\)', desc)
-                url = fix_url(link_match.group(2)) if link_match else f"/{page_name}/"
-                entries[page_name].append({"label": year, "url": url, "context": desc})
+            # La cronologia es derivada: se lee de _data/cronologia.yml
+            # (generado por build_cronologia.py desde el seed + hitos de articulos).
+            crono = os.path.join(REPO_DIR, "_data", "cronologia.yml")
+            if os.path.exists(crono):
+                with open(crono, "r", encoding="utf-8") as cf:
+                    data = yaml.safe_load(cf) or []
+                for grupo in data:
+                    for item in grupo.get("items", []):
+                        label = str(item.get("fecha", "")).strip()
+                        desc = clean_context(str(item.get("texto", "")).strip())
+                        link_match = re.search(r'\[(.+?)\]\((.+?)\)', desc)
+                        url = fix_url(link_match.group(2)) if link_match else "/cronologia/"
+                        entries["cronologia"].append({"label": label, "url": url, "context": desc})
+            continue
 
         else:
             for m in pat.finditer(body):

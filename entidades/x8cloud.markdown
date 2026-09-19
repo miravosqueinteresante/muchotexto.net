@@ -11,4 +11,8 @@ entity_name_full: X8 Cloud
 entity_description: >
   Empresa con sede en Los Ángeles que anunció un plan de USD 10-50B a 30 años para construir data centers de IA en Paraguay. Inició construcción en mayo 2026 con 50 MW iniciales. Uno de los primeros actores privados habilitados por la apertura del sector eléctrico (Ley 7599, Decreto 6034).
 entity_category: empresa
+obs_cronologia:
+  - label: "Diciembre 2025"
+    url: /cronologia/
+    context: "X8 Cloud anuncia plan de $10-50B para centro de datos de IA en Paraguay."
 ---

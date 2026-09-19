@@ -55,6 +55,15 @@ obs_cronologia:
   - label: "2022"
     url: /cronologia/
     context: "Sequía histórica en Paraguay: la cosecha de soja cae 60% por La Niña, Itaipú generación cae 35.6%. El PIB crece solo 0.1%."
+  - label: "Mayo 2024"
+    url: /cronologia/
+    context: "Peña y Lula acuerdan tarifa de Itaipú de $19.28/kW-mes para 2024-2026."
+  - label: "8 Mayo 2026"
+    url: /cronologia/
+    context: "Se firma el MOU de Yguazú Digital en Taipei. Presidentes Peña y Lai Ching-te. Entidad binacional Paraguay-Taiwán modelada sobre Itaipú: Fase I 10 MW/$200-300M con ICDF."
+  - label: "1 Enero 2027"
+    url: /cronologia/
+    context: "Vence el acuerdo tarifario de Itaipú (USD 19,28/kW-mes). Sin nuevo Anexo C firmado, Paraguay pierde ~$600M/año. Negociaciones suspendidas entre abril y noviembre de 2025, reanudadas en noviembre de..."
 obs_directorio:
   - label: "PTI-PY (Parque Tecnologico Itaipu)"
     url: https://www.pti.org.py/

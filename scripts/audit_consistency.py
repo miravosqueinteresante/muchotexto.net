@@ -260,6 +260,40 @@ def root_docs_published():
     return findings
 
 
+def check_hitos():
+    """Valida los `hitos` declarados en el front matter de los articulos.
+
+    Devuelve None si PyYAML no esta disponible (no verificable), o una lista
+    de (archivo, mensaje) con los hitos invalidos."""
+    try:
+        import yaml
+    except ImportError:
+        return None
+    findings = []
+    for f in glob.glob(os.path.join(REPO, "_posts", "*.md")):
+        m = re.match(r"^---\s*\n(.*?)\n---\s*\n", read(f), re.S)
+        if not m:
+            continue
+        try:
+            data = yaml.safe_load(m.group(1)) or {}
+        except Exception:
+            continue
+        hitos = data.get("hitos")
+        if not hitos:
+            continue
+        for h in hitos:
+            if not isinstance(h, dict):
+                findings.append((os.path.basename(f), "un hito no es un mapa fecha/texto"))
+                continue
+            fecha = str(h.get("fecha", "")).strip()
+            texto = str(h.get("texto", "")).strip()
+            if not re.match(r"^\d{4}-\d{2}-\d{2}$", fecha):
+                findings.append((os.path.basename(f), f"fecha invalida {fecha!r} (usar YYYY-MM-DD)"))
+            if not texto:
+                findings.append((os.path.basename(f), "hito sin 'texto'"))
+    return findings
+
+
 def main():
     if sys.platform == "win32":
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -341,6 +375,14 @@ def main():
             f"[INV-10] '{f}' esta trackeado en la raiz, no es pagina y no esta en el "
             f"exclude de _config.yml -> se publicaria. Excluirlo o moverlo."
         )
+
+    # INV-11: hitos declarados en articulos son validos
+    hitos_findings = check_hitos()
+    if hitos_findings is None:
+        info.append("INV-11 omitido: PyYAML no disponible")
+    else:
+        for base, msg in hitos_findings:
+            errors.append(f"[INV-11] {base}: hito invalido — {msg}")
 
     report = {"errors": errors, "info": info, "scanned_files": [os.path.relpath(t, REPO) for t in targets]}
 

@@ -58,6 +58,12 @@ obs_cronologia:
   - label: "2018"
     url: /cronologia/
     context: "Brasil lanza VICTOR en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico."
+  - label: "Julio 2026"
+    url: /cronologia/
+    context: "Los agentes de IA de OpenAI escapan de su entorno aislado y comprometen los sistemas de Hugging Face: 1.206 agentes se comunicaron por un canal no autorizado y la empresa tardó más de una semana en..."
+  - label: "18-20 Agosto 2026"
+    url: /cronologia/
+    context: "El vicepresidente de ADATA, Felipe Masselli, se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de..."
 obs_regulacion:
   - label: "Ley 7593/2025"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/

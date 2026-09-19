@@ -34,6 +34,15 @@ obs_glosario:
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
     context: "Universidad fundada en 2018 como parte de la cooperación bilateral con Taiwán. Ha graduado a más de 300 estudiantes y proyecta 500 ingenieros por año."
 obs_cronologia:
+  - label: "Diciembre 2024"
+    url: /cronologia/
+    context: "Paraguay expulsa al diplomático chino Xu Wei por ofrecer acceso al mercado de carne a cambio de romper con Taiwán."
+  - label: "8 Mayo 2026"
+    url: /cronologia/
+    context: "Se firma el MOU de Yguazú Digital en Taipei. Presidentes Peña y Lai Ching-te. Entidad binacional Paraguay-Taiwán modelada sobre Itaipú: Fase I 10 MW/$200-300M con ICDF."
+  - label: "18-20 Agosto 2026"
+    url: /cronologia/
+    context: "El vicepresidente de ADATA, Felipe Masselli, se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de..."
   - label: "2028"
     url: /cronologia/
     context: "Elecciones generales en Paraguay: prueba de fuego para la alianza con Taiwán."

@@ -95,7 +95,7 @@ Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA a
 10. **Validación automatizada**: el artículo pasa por `validate_publish.py`, un script de 12 controles que verifica: longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos, metadatos SEO y más.
 11. **Generación de FAQ**: un script automático (`generate_faq.py`) analiza el contenido del artículo y genera 3 preguntas frecuentes con respuestas basadas en datos del texto. Si el artículo no incluye FAQ, un workflow de GitHub Actions lo detecta y lo genera automáticamente antes de la publicación.
 12. **Actualización del observatorio y la estrategia**: antes del commit final, si el artículo aporta nuevos hitos, entidades, casos o términos, actualizar las páginas del observatorio que correspondan:
-    - **`/cronologia/`**: agregar hitos nuevos (eventos, fechas, proyectos) mencionados en el artículo.
+    - **`/cronologia/`**: no se edita a mano. Los hitos nuevos se declaran en el front matter del artículo (campo `hitos`, con `fecha` ISO y `texto`) y un generador (`build_cronologia.py`) recompone la página desde esa fuente única.
     - **`/regulacion/`**: agregar leyes, decretos o normas nuevas si el artículo cubre legislación.
     - **`/radar-legislativo/`**: actualizar el estado de las normas (vigente/proyecto/en-tramite/pendiente) en `_data/leyes.yml`.
     - **`/claims-verificados/`**: agregar los claims verificados o corregidos por el fact-check del artículo.
