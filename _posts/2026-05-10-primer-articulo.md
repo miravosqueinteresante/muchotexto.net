@@ -80,7 +80,7 @@ Para seguir explorando estos temas, visitá la [guía completa de inteligencia a
       "name": "Quien creo muchotexto.net?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cesar Sanchez, un analista de inteligencia artificial desde Paraguay. Consultor en automatizacion con IA generativa, anotacion de datos y desarrollo de soluciones basadas en IA."
+        "text": "César Sánchez, un analista de inteligencia artificial desde Paraguay. Consultor en automatización con IA generativa, anotacion de datos y desarrollo de soluciones basadas en IA."
       }
     },
     {

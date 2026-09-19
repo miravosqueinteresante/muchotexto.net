@@ -1,6 +1,6 @@
 # Casos de uso — seed curado.
 # Generado por _planning/migrate_casos.py (one-shot).
-# build_casos.py fusiona este seed con los `casos` del front matter de los articulos.
+# build_derived.py fusiona este seed con los `casos` del front matter de los articulos.
 
 - tema: "Agro"
   casos:

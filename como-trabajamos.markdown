@@ -95,13 +95,13 @@ Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA a
 10. **Validación automatizada**: el artículo pasa por `validate_publish.py`, un script de 12 controles que verifica: longitud del título, detección de clickbait, presencia de schema FAQ, enlace al cluster de IA en Paraguay, conteo de palabras, acentos, metadatos SEO y más.
 11. **Generación de FAQ**: un script automático (`generate_faq.py`) analiza el contenido del artículo y genera 3 preguntas frecuentes con respuestas basadas en datos del texto. Si el artículo no incluye FAQ, un workflow de GitHub Actions lo detecta y lo genera automáticamente antes de la publicación.
 12. **Actualización del observatorio y la estrategia**: antes del commit final, si el artículo aporta nuevos hitos, entidades, casos o términos, actualizar las páginas del observatorio que correspondan:
-    - **`/cronologia/`**: no se edita a mano. Los hitos nuevos se declaran en el front matter del artículo (campo `hitos`, con `fecha` ISO y `texto`) y un generador (`build_cronologia.py`) recompone la página desde esa fuente única.
+    - **`/cronologia/`**: no se edita a mano. Los hitos nuevos se declaran en el front matter del artículo (campo `hitos`, con `fecha` ISO y `texto`) y un generador (`build_derived.py`) recompone la página desde esa fuente única.
     - **`/regulacion/`**: agregar leyes, decretos o normas nuevas si el artículo cubre legislación.
     - **`/radar-legislativo/`**: actualizar el estado de las normas (vigente/proyecto/en-tramite/pendiente) en `_data/leyes.yml`.
     - **`/claims-verificados/`**: agregar los claims verificados o corregidos por el fact-check del artículo.
-    - **`/directorio/`**: no se edita a mano. Las entidades nuevas se declaran en el front matter del artículo (campo `directorio`, con `seccion`, `nombre` y `descripcion`) y un generador (`build_directorio.py`) recompone la página desde esa fuente única.
-    - **`/casos-de-uso/`**: no se edita a mano. Los casos nuevos se declaran en el front matter del artículo (campo `casos`, con `tema` y `texto`) y un generador (`build_casos.py`) recompone la página; la URL apunta al propio artículo.
-    - **`/glosario/`**: no se edita a mano. Los términos nuevos se declaran en el front matter del artículo (campo `glosario`, con `tema`, `termino` y `definicion`) y un generador (`build_glosario.py`) recompone la página; los duplicados se omiten por término.
+    - **`/directorio/`**: no se edita a mano. Las entidades nuevas se declaran en el front matter del artículo (campo `directorio`, con `seccion`, `nombre` y `descripcion`) y un generador (`build_derived.py`) recompone la página desde esa fuente única.
+    - **`/casos-de-uso/`**: no se edita a mano. Los casos nuevos se declaran en el front matter del artículo (campo `casos`, con `tema` y `texto`) y un generador (`build_derived.py`) recompone la página; la URL apunta al propio artículo.
+    - **`/glosario/`**: no se edita a mano. Los términos nuevos se declaran en el front matter del artículo (campo `glosario`, con `tema`, `termino` y `definicion`) y un generador (`build_derived.py`) recompone la página; los duplicados se omiten por término.
     - **`/ia-en-paraguay/`**: agregar el artículo a su pilar correspondiente y moverlo de "Próximamente" si estaba listado.
     - **`llms.txt`**: agregar el artículo al pilar correspondiente.
     - **Documento de estrategia**: marcar el artículo como ✅ en §3.2, actualizar conteo de publicados/pendientes, mover de pendiente a completado en §15, agregar al progreso en §17.

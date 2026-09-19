@@ -246,7 +246,7 @@ def section4_observatory_density():
             results.append((name, 0, "no existe"))
             continue
         if filename == "cronologia.markdown":
-            # Derivada de _data/cronologia.yml (build_cronologia.py)
+            # Derivada de _data/cronologia.yml (build_derived.py)
             count = 0
             crono = os.path.join(REPO_DIR, "_data", "cronologia.yml")
             if os.path.exists(crono):
@@ -258,7 +258,7 @@ def section4_observatory_density():
             results.append((name, count, fm.get("last_modified_at", "sin dato")))
             continue
         if filename == "glosario.markdown":
-            # Derivado de _data/glosario.yml (build_glosario.py)
+            # Derivado de _data/glosario.yml (build_derived.py)
             count = 0
             glos = os.path.join(REPO_DIR, "_data", "glosario.yml")
             if os.path.exists(glos):
@@ -270,7 +270,7 @@ def section4_observatory_density():
             results.append((name, count, fm.get("last_modified_at", "sin dato")))
             continue
         if filename == "casos-de-uso.markdown":
-            # Derivado de _data/casos.yml (build_casos.py)
+            # Derivado de _data/casos.yml (build_derived.py)
             count = 0
             casos_f = os.path.join(REPO_DIR, "_data", "casos.yml")
             if os.path.exists(casos_f):
@@ -282,7 +282,7 @@ def section4_observatory_density():
             results.append((name, count, fm.get("last_modified_at", "sin dato")))
             continue
         if filename == "directorio.markdown":
-            # Derivado de _data/directorio.yml (build_directorio.py)
+            # Derivado de _data/directorio.yml (build_derived.py)
             count = 0
             dir_f = os.path.join(REPO_DIR, "_data", "directorio.yml")
             if os.path.exists(dir_f):

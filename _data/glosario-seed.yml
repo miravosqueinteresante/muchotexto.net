@@ -1,6 +1,6 @@
 # Glosario — seed curado.
 # Generado por _planning/migrate_glosario.py (one-shot).
-# build_glosario.py fusiona este seed con los `glosario` del front matter de los articulos.
+# build_derived.py fusiona este seed con los `glosario` del front matter de los articulos.
 
 - tema: "Infraestructura y energía"
   terminos:

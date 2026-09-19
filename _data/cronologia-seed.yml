@@ -1,6 +1,6 @@
 # Cronologia — seed curado (hitos historicos y contexto).
 # Generado por _planning/migrate_cronologia.py (one-shot).
-# build_cronologia.py fusiona este seed con los `hitos` del front matter de los articulos.
+# build_derived.py fusiona este seed con los `hitos` del front matter de los articulos.
 
 - seccion: "1973 — 2009"
   items:

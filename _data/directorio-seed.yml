@@ -1,6 +1,6 @@
 # Directorio — seed curado.
 # Generado por _planning/migrate_directorio.py (one-shot).
-# build_directorio.py fusiona este seed con los `directorio` del front matter de los articulos.
+# build_derived.py fusiona este seed con los `directorio` del front matter de los articulos.
 
 - seccion: "Prospectiva y planificacion"
   items:
