@@ -38,6 +38,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Auditar consistencia (fuente unica de verdad)
+        run: python scripts/audit_consistency.py
       - name: Sync datos (MuchoTexto Data)
         run: |
           python scripts/sync_datos.py
