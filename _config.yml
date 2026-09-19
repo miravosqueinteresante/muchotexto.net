@@ -73,17 +73,28 @@ include:
   - llms.txt
   - 624a4302f1714f068e9851beb7b692f2.txt
 
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # Documentos internos: NO deben publicarse en el sitio.
+  - AGENTS.md
+  - README.md
+  - borrador_media_kit.md
+  - analisis_junio_2026.md
+  - analisis_julio_2026.md
+  - pulso_july_16_31_structured.json
+  - squirrel-audit-report.md
+  - squirrel-audit-report-v2.md
+  - squirrel-audit-report-v3.md
+  - squirrel-audit-report-v4.md
+  - squirrel-audit-report-v5.md
 
 # Monophase theme settings
 tagline: "Observatorio de IA en Paraguay"
