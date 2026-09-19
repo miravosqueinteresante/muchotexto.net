@@ -184,7 +184,7 @@ def iter_article_items(cfg):
                 yield res
 
 
-def build_surface(name, yaml):
+def build_surface(name, yaml, out_dir=DATA):
     cfg = SURFACES[name]
     seed = yaml.safe_load(read(os.path.join(DATA, cfg["seed"]))) or []
     sec = cfg["section_key"]
@@ -223,7 +223,7 @@ def build_surface(name, yaml):
         entry[ikey] = items
         out.append(entry)
 
-    with open(os.path.join(DATA, cfg["out"]), "w", encoding="utf-8") as f:
+    with open(os.path.join(out_dir, cfg["out"]), "w", encoding="utf-8") as f:
         yaml.safe_dump(out, f, allow_unicode=True, sort_keys=False, default_flow_style=False)
     n = sum(len(g[ikey]) for g in out)
     return len(out), n

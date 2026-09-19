@@ -40,15 +40,18 @@ jobs:
           python-version: "3.12"
       - name: Instalar dependencias Python
         run: pip install pyyaml
-      - name: Auditar consistencia (fuente unica de verdad)
-        run: python scripts/audit_consistency.py
-      - name: Sync datos (MuchoTexto Data)
+      - name: Validar y preparar datos
         run: |
+          echo "== Auditar consistencia =="
+          python scripts/audit_consistency.py
+          echo "== Tests de generadores =="
+          python scripts/test_build_derived.py
+          echo "== Sync datos (MuchoTexto Data) =="
           python scripts/sync_datos.py
+          echo "== Generar superficies derivadas =="
+          python scripts/build_derived.py
         env:
           JEKYLL_ENV: production
-      - name: Generar superficies derivadas (cronologia, glosario, casos, directorio)
-        run: python scripts/build_derived.py
       - name: Build with Jekyll
         run: |
           echo "url: https://muchotexto.net" > _config_pages.yml
