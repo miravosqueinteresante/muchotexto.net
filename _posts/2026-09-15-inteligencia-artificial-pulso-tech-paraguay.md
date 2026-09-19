@@ -36,7 +36,9 @@ Ante la creciente sofisticación de amenazas, países como Corea del Sur han ini
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Debate sobre riesgos éticos y sociales de la IA en la Semana Social Paraguaya.
+
 2. 🥈 Consenso internacional de líderes tech (Gates, Musk, OpenAI) sobre la necesidad de ralentizar el avance de la IA.
+
 3. 🥉 Aumento de alertas de seguridad por el uso de IA en actividades de grupos mercenarios y ataques a plataformas digitales.
 
 💡 INSIGHT TECH DEL DIA

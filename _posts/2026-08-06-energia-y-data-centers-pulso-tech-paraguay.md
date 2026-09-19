@@ -30,7 +30,9 @@ La Asociación de Bancos del Paraguay (Asoban) inició su segunda convención an
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Impacto potencial de la suba de tarifas eléctricas de la ANDE en el sector industrial y digital.
+
 2. 🥈 Debates sobre la implementación de IA en la banca paraguaya durante la convención de Asoban.
+
 3. 🥉 Necesidad de adaptación tecnológica ante las nuevas exigencias de eficiencia del mercado financiero.
 
 💡 INSIGHT TECH DEL DIA

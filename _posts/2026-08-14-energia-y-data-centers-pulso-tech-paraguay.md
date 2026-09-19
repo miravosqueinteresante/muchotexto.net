@@ -30,7 +30,9 @@ El sistema informático del Poder Judicial presenta interrupciones en sus servic
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Impulso al Ministerio de Energía, Minería e Hidrocarburo.
+
 2. 🥈 Interrupción de servicios digitales en el Poder Judicial.
+
 3. 🥉 (Sin tercera noticia relevante bajo los criterios establecidos).
 
 💡 INSIGHT TECH DEL DIA

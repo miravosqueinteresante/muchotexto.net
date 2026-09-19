@@ -14,11 +14,13 @@ PULSO TECH PARAGUAY
 🤖 INTELIGENCIA ARTIFICIAL
 
 Sam Altman propone ralentizar el desarrollo de la IA a nivel global.
+
 El CEO de OpenAI sugiere una pausa estratégica en la carrera acelerada de modelos de lenguaje, esperando que otros líderes del sector adopten medidas similares para mitigar riesgos.
 
 📊 Relevancia: Alta
 
 Riesgos de seguridad en el uso de IA.
+
 Anthropic reportó la desarticulación de complots que utilizaban su modelo Claude para planificar ataques con armas biológicas y actividades ilícitas, evidenciando los desafíos de gobernanza en modelos generativos.
 
 📊 Relevancia: Alta
@@ -26,6 +28,7 @@ Anthropic reportó la desarticulación de complots que utilizaban su modelo Clau
 🚀 INNOVACION Y STARTUPS
 
 Expocientec 2026 impulsa talento joven en Paraguay.
+
 El Centro Tecnológico Nacional (CTN) convocó a más de 180 proyectos de estudiantes secundarios en Encarnación, destacando el creciente interés en la investigación aplicada y el desarrollo tecnológico desde edades tempranas.
 
 📊 Relevancia: Media
@@ -33,7 +36,9 @@ El Centro Tecnológico Nacional (CTN) convocó a más de 180 proyectos de estudi
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 OpenAI propone ralentizar la carrera global de la IA.
+
 2. 🥈 Anthropic desarticula usos maliciosos de sus modelos de lenguaje.
+
 3. 🥉 Expocientec 2026 consolida la formación de talento tecnológico en Paraguay.
 
 💡 INSIGHT TECH DEL DIA

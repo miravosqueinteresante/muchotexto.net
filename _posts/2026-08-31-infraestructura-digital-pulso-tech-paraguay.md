@@ -66,7 +66,9 @@ El presidente Donald Trump manifestó su apoyo a la expansión de data centers e
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Transición de liderazgo en Apple y el enfoque en IA.
+
 2. 🥈 Vigilancia regulatoria de la UE sobre ChatGPT y Roblox.
+
 3. 🥉 Implementación del trasbordo gratuito mediante billetaje electrónico en Paraguay.
 
 💡 INSIGHT TECH DEL DIA

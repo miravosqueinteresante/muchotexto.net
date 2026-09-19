@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 🤖 INTELIGENCIA ARTIFICIAL
 
 IA como eje estratégico nacional
+
 El presidente Santiago Peña manifestó que Paraguay tiene el objetivo de posicionarse como un protagonista clave en la revolución de la inteligencia artificial. El anuncio subraya la intención del Gobierno de integrar tecnologías emergentes en la agenda de desarrollo país.
 
 📊 Relevancia: Alta
@@ -21,6 +22,7 @@ El presidente Santiago Peña manifestó que Paraguay tiene el objetivo de posici
 🚀 INNOVACION Y STARTUPS
 
 Innovación industrial con apoyo de Conacyt
+
 La empresa Menro S.A. incorporó maquinaria de liofilización para la producción de frutas con alto valor nutricional, aprovechando excedentes de producción. El proyecto cuenta con el respaldo del Consejo Nacional de Ciencia y Tecnología (Conacyt) para potenciar la competitividad del sector alimentario.
 
 📊 Relevancia: Media
@@ -28,7 +30,9 @@ La empresa Menro S.A. incorporó maquinaria de liofilización para la producció
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Declaraciones del Presidente Peña sobre el rol de Paraguay en la IA.
+
 2. 🥈 Implementación de tecnología de liofilización en la industria local vía Conacyt.
+
 3. 🥉 Debates globales sobre la ética y los límites en el desarrollo de la inteligencia artificial.
 
 💡 INSIGHT TECH DEL DIA

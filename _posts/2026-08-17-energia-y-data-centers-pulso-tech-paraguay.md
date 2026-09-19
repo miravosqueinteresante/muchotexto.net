@@ -30,7 +30,9 @@ Expertos advierten sobre el peligro creciente de la percepción errónea derivad
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Reforma institucional del sector energético y creación del Ministerio de Minas y Energía.
+
 2. 🥈 Impacto de la desinformación visual mediante inteligencia artificial.
+
 3. 🥉 Debate sobre la eficiencia energética en la construcción para reducir el consumo eléctrico.
 
 💡 INSIGHT TECH DEL DIA

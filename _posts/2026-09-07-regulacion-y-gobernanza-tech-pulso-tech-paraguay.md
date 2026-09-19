@@ -22,7 +22,9 @@ El Instituto de Previsión Social (IPS) habilitó este lunes el Censo Digital 20
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Implementación del Censo Digital 2026 para el sector pasivo del IPS.
+
 2. 🥈 Seminario internacional sobre evolución y desafíos de los sistemas de pagos organizado por el BCP.
+
 3. 🥉 Avances globales en regulación de IA y uso de modelos de lenguaje, con foco en la ONU y China.
 
 💡 INSIGHT TECH DEL DIA

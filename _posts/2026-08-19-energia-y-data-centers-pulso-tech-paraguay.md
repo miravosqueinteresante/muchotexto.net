@@ -38,7 +38,9 @@ Banco Basa anunció una nueva estrategia de gestión enfocada en la innovación 
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Incremento del 18,2 % en el consumo eléctrico nacional (ANDE).
+
 2. 🥈 Desarticulación de red de extorsión digital en Ciudad del Este (Operativo Falso Match).
+
 3. 🥉 Nueva estrategia de innovación y servicios digitales en el sector bancario (Banco Basa).
 
 💡 INSIGHT TECH DEL DIA

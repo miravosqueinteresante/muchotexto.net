@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 🌐 INFRAESTRUCTURA DIGITAL
 
 Canal digital de apuestas registra alto impacto en el mercado local
+
 Un usuario de Asunción obtuvo un premio de G. 573.542.750 tras realizar su jugada a través del portal www.megaloto.com.py, confirmando la consolidación de los canales digitales para el entretenimiento y las transacciones de azar en el país.
 
 📊 Relevancia: Media
@@ -21,6 +22,7 @@ Un usuario de Asunción obtuvo un premio de G. 573.542.750 tras realizar su juga
 🤖 INTELIGENCIA ARTIFICIAL
 
 Debate global sobre el control y regulación de la IA
+
 Sam Altman de OpenAI y líderes de Anthropic coinciden en la necesidad de ralentizar el avance de la IA ante riesgos de pérdida de control. En paralelo, Microsoft se compromete a mantener sus futuros modelos bajo supervisión humana, mientras Estados Unidos y China mantienen tensiones diplomáticas por el dominio de esta tecnología.
 
 📊 Relevancia: Alta
@@ -28,6 +30,7 @@ Sam Altman de OpenAI y líderes de Anthropic coinciden en la necesidad de ralent
 📋 REGULACION Y GOBERNANZA TECH
 
 ONU advierte sobre riesgos a los derechos humanos por el avance de la IA
+
 El organismo internacional ha señalado que el desarrollo acelerado de la inteligencia artificial pone en riesgo derechos fundamentales, instando a una gobernanza global que equilibre la innovación con la protección de los ciudadanos.
 
 📊 Relevancia: Media
@@ -35,6 +38,7 @@ El organismo internacional ha señalado que el desarrollo acelerado de la inteli
 🚀 INNOVACION Y STARTUPS
 
 Crecimiento sostenido del sector de servicios digitales
+
 El régimen de maquila, que incluye servicios digitales, alcanzó exportaciones superiores a los USD 1.000 millones a agosto de 2026, con un crecimiento del 26 % interanual y la generación de cerca de 40.000 empleos, posicionándose como un motor clave para la economía de servicios en Paraguay.
 
 📊 Relevancia: Alta
@@ -42,6 +46,7 @@ El régimen de maquila, que incluye servicios digitales, alcanzó exportaciones 
 🔬 CIENCIA APLICADA
 
 Avances en neuroprótesis para pacientes con parálisis
+
 Investigaciones recientes han logrado desarrollar una neuroprótesis que permite a pacientes con parálisis comunicar palabras y gestos, marcando un hito en la aplicación de interfaces cerebro-computadora para la salud.
 
 📊 Relevancia: Baja
@@ -49,7 +54,9 @@ Investigaciones recientes han logrado desarrollar una neuroprótesis que permite
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Crecimiento del sector de servicios digitales y maquila en Paraguay.
+
 2. 🥈 Consolidación de canales de apuestas digitales en el mercado local.
+
 3. 🥉 Debate internacional sobre la necesidad de ralentizar y controlar la IA.
 
 💡 INSIGHT TECH DEL DIA

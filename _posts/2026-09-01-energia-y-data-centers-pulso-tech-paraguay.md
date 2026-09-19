@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 ⚡ ENERGIA Y DATA CENTERS
 
 Proyecto de parque solar en el Chaco para refuerzo energético
+
 La estatal de energía prevé licitar la instalación de nuevos módulos fotovoltaicos en la región chaqueña. El objetivo es complementar la producción de las centrales hidroeléctricas y asegurar el abastecimiento ante el crecimiento de la demanda industrial en la próxima década.
 
 📊 Relevancia: Alta
@@ -21,6 +22,7 @@ La estatal de energía prevé licitar la instalación de nuevos módulos fotovol
 🤖 INTELIGENCIA ARTIFICIAL
 
 Nokia impulsa automatización de redes con IA
+
 La tecnológica Nokia inauguró un centro de I+D en Arabia Saudí enfocado en la automatización de redes mediante inteligencia artificial. Este desarrollo busca optimizar la eficiencia de las infraestructuras de conectividad a gran escala.
 
 📊 Relevancia: Media
@@ -28,6 +30,7 @@ La tecnológica Nokia inauguró un centro de I+D en Arabia Saudí enfocado en la
 🚀 INNOVACION Y STARTUPS
 
 Emprendimiento universitario potencia el valor del mbokajá
+
 Un estudiante universitario desarrolló una línea de alimentos saludables basados en el mbokajá. El proyecto combina investigación aplicada y desarrollo de productos naturales, generando empleo local y atendiendo nichos nutricionales específicos.
 
 📊 Relevancia: Baja
@@ -35,6 +38,7 @@ Un estudiante universitario desarrolló una línea de alimentos saludables basad
 📋 REGULACION Y GOBERNANZA TECH
 
 Unión Europea impone vigilancia sobre ChatGPT y Roblox
+
 Las autoridades regulatorias de la Unión Europea han establecido un esquema de máxima vigilancia sobre las plataformas ChatGPT y Roblox. La medida busca asegurar el cumplimiento de las normativas de protección de datos y seguridad digital en entornos de IA y juegos interactivos.
 
 📊 Relevancia: Media
@@ -42,7 +46,9 @@ Las autoridades regulatorias de la Unión Europea han establecido un esquema de 
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Proyecto de parque solar en el Chaco para asegurar el suministro energético.
+
 2. 🥈 Nokia abre centro de I+D enfocado en automatización de redes con IA.
+
 3. 🥉 Regulación de la Unión Europea sobre ChatGPT y Roblox.
 
 💡 INSIGHT TECH DEL DIA

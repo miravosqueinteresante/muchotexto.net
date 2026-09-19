@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 📋 REGULACION Y GOBERNANZA TECH
 
 Lanzamiento del Registro Unificado Nacional (RUN)
+
 El Gobierno presentó el nuevo sistema que integra la base de datos de catastro y registros públicos bajo un código único. Esta herramienta digital busca garantizar la seguridad jurídica, la transparencia y la agilidad en el régimen de propiedad en Paraguay.
 
 📊 Relevancia: Alta
@@ -21,6 +22,7 @@ El Gobierno presentó el nuevo sistema que integra la base de datos de catastro 
 🤖 INTELIGENCIA ARTIFICIAL
 
 Debate sobre el impacto de la IA en la educación y la gobernanza global
+
 Expertos y autoridades advirtieron durante la Semana Social que Paraguay ha perdido tres años en reformas educativas, señalando que los jóvenes aún no comprenden el funcionamiento de la IA. A nivel internacional, el papa León XIV alertó sobre los riesgos éticos de delegar decisiones humanas críticas a sistemas automatizados, mientras que el secretario general de la ONU, António Guterres, instó a una visión global para controlar una tecnología que calificó como desbocada.
 
 📊 Relevancia: Alta
@@ -28,6 +30,7 @@ Expertos y autoridades advirtieron durante la Semana Social que Paraguay ha perd
 ⚡ ENERGIA Y DATA CENTERS
 
 ANDE intensifica controles contra conexiones ilegales
+
 La Administración Nacional de Electricidad (ANDE) ha reforzado los operativos de fiscalización en todo el país. Estas acciones incluyen la imposición de multas millonarias a usuarios que operan conexiones irregulares, en un contexto donde el control del consumo eléctrico industrial es prioritario para la estabilidad del sistema.
 
 📊 Relevancia: Media
@@ -35,6 +38,7 @@ La Administración Nacional de Electricidad (ANDE) ha reforzado los operativos d
 🚀 INNOVACION Y STARTUPS
 
 Huawei busca competir en infraestructura global para IA
+
 La firma china Huawei ha anunciado formalmente su objetivo estratégico de competir directamente con Nvidia en el mercado de infraestructura de hardware para Inteligencia Artificial, marcando una intensificación en la carrera por dominar los componentes necesarios para el desarrollo de modelos de lenguaje.
 
 📊 Relevancia: Media
@@ -42,7 +46,9 @@ La firma china Huawei ha anunciado formalmente su objetivo estratégico de compe
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Implementación del Registro Unificado Nacional (RUN) en Paraguay.
+
 2. 🥈 Alerta global sobre el control ético y educativo de la Inteligencia Artificial.
+
 3. 🥉 Intensificación de controles de la ANDE ante el uso irregular de energía eléctrica.
 
 💡 INSIGHT TECH DEL DIA

@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 🤖 INTELIGENCIA ARTIFICIAL
 
 Debate global sobre la naturaleza cognitiva de la IA
+
 Especialistas analizan la diferencia técnica entre la capacidad de razonamiento lógico y la predicción estadística de palabras en modelos de lenguaje. El debate se centra en determinar si los sistemas actuales poseen procesos cognitivos o simplemente optimización predictiva.
 
 📊 Relevancia: Media
@@ -21,6 +22,7 @@ Especialistas analizan la diferencia técnica entre la capacidad de razonamiento
 📋 REGULACION Y GOBERNANZA TECH
 
 Digitalizacion del registro de nacimientos
+
 Autoridades de salud refuerzan la obligatoriedad del registro digital y físico de recién nacidos en hospitales públicos. La medida busca garantizar el derecho a la identidad mediante procesos administrativos estandarizados y el cumplimiento de plazos de reporte.
 
 📊 Relevancia: Baja
@@ -28,7 +30,9 @@ Autoridades de salud refuerzan la obligatoriedad del registro digital y físico 
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Debate técnico sobre el funcionamiento de la Inteligencia Artificial.
+
 2. 🥈 Fortalecimiento del registro digital de identidad en el sistema de salud.
+
 3. 🥉 Innovaciones en observatorios espaciales y cooperación tecnológica internacional.
 
 💡 INSIGHT TECH DEL DIA

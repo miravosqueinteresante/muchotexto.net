@@ -30,7 +30,9 @@ A nivel global, se reportan innovaciones significativas en modelos de lenguaje, 
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Posicionamiento de Paraguay como destino para infraestructura de IA por su energía renovable.
+
 2. 🥈 Lanzamiento de Muse Code por Meta para optimización de tareas de desarrollo de software.
+
 3. 🥉 Avances en IA aplicada a la biotecnología para el diseño de genomas funcionales.
 
 💡 INSIGHT TECH DEL DIA

@@ -34,7 +34,9 @@ Adquisición estratégica en el sector IA. Nvidia concretó la compra de la plat
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Desarrollo nacional de fumigación autónoma con IA para el agro.
+
 2. 🥈 Adquisición de Hugging Face por parte de Nvidia.
+
 3. 🥉 Lanzamiento global del modelo autónomo Astra de OpenAI.
 
 💡 INSIGHT TECH DEL DIA

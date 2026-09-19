@@ -38,7 +38,9 @@ El Tribunal ratificó la negativa de acceso al código fuente de las máquinas d
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Pericia informática en el sistema de COPACO por presunto desvío.
+
 2. 🥈 Ratificación judicial sobre la reserva del código fuente de máquinas de votación.
+
 3. 🥉 Llamado global de OpenAI y Hugging Face para reforzar la ciberseguridad.
 
 💡 INSIGHT TECH DEL DIA

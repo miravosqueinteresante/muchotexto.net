@@ -22,7 +22,9 @@ La empresa New Zone Importados integra tecnología y gestión de datos en un mod
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Integración de datos y expansión logística en el sector retail de Ciudad del Este.
+
 2. 🥈 Innovaciones internacionales en chips de inteligencia artificial (OpenAI y Apple) con impacto en el ecosistema global.
+
 3. 🥉 Mantenimiento de la tasa de política monetaria del BCP, factor clave para la estabilidad de inversiones en sectores de base tecnológica.
 
 💡 INSIGHT TECH DEL DIA

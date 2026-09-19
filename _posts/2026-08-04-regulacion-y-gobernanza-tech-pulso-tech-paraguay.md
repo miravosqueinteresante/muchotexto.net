@@ -30,7 +30,9 @@ La firma Fortaleza presentó el proyecto Fortaleza Pellegrini, un desarrollo inm
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Audiencia pública contra fraudes cibernéticos impulsada por el Congreso.
+
 2. 🥈 Recomendaciones de seguridad del Departamento contra el Cibercrimen ante el aumento de ataques.
+
 3. 🥉 Inversión de 28 millones de dólares en infraestructura inmobiliaria de gran escala en Asunción.
 
 💡 INSIGHT TECH DEL DIA

@@ -35,7 +35,9 @@ Fase 1 (200 MW Yguazú) completada jun-2025; Fase 2 (100 MW Valenzuela) nov-2025
 📊 TOP 3 DEL DÍA (tech/IA)
 
 1. 🥇 Brasil: supercomputador IA 7.200 petaflops (US$ 192M, 2027)
+
 2. 🥈 ANDE: 943,8 MW reservados data centers (13,5% de Itaipú)
+
 3. 🥉 HIVE: 300 MW operativos + GPU en construcción
 
 💡 INSIGHT TECH DEL DÍA

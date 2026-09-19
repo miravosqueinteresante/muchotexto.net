@@ -42,7 +42,9 @@ Presión de la UE sobre Meta. La Comisión Europea mantiene su postura crítica 
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Nvidia adquiere Hugging Face por 13.000 millones de dólares.
+
 2. 🥈 Estudiantes paraguayos de ingeniería avanzan su formación en Taiwán.
+
 3. 🥉 Caída masiva de ChatGPT en Estados Unidos.
 
 💡 INSIGHT TECH DEL DIA

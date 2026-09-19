@@ -38,7 +38,9 @@ Informes recientes señalan que grupos externos estan utilizando herramientas de
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Integracion de datos clinicos entre IPS y Ministerio de Salud.
+
 2. 🥈 Reactivacion de la Mesa Energética Nacional para atraer inversiones.
+
 3. 🥉 Riesgos de seguridad digital derivados de la automatizacion con IA.
 
 💡 INSIGHT TECH DEL DIA

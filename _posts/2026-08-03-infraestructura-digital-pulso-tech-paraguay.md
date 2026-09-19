@@ -30,7 +30,9 @@ El Ministerio de Industria y Comercio (MIC) anunció una reforma normativa con p
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Reforma de la Ley de Comercio Electrónico y digitalización de trámites comunales.
+
 2. 🥈 Implementación del Registro Nacional de Espectadores (RENAES) con identidad digital.
+
 3. 🥉 Operativo Yida Transfronteriza contra estafas mediante billeteras digitales.
 
 💡 INSIGHT TECH DEL DIA

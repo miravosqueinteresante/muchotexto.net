@@ -328,6 +328,13 @@ def clean_content(content: str) -> str:
     content = re.sub(r'(\S)\s*📊 Temperatura social', r'\1\n\n📊 Temperatura social', content)
     content = re.sub(r'\n{3,}', '\n\n', content)
 
+    # Ensure each news item title is its own paragraph: title and body must be
+    # separated by a blank line or kramdown merges them into one <p>.
+    # Pattern: a content line (title) immediately followed by another content line
+    # (body) with no blank line and no section marker in between.
+    # Section markers (emoji blocks) and metadata lines delimit items.
+    content = _separate_title_from_body(content)
+
     # Convert "🔎 FUENTES CONSULTADAS HOY" section to bullet list
     lines = content.split('\n')
     result = []
@@ -345,6 +352,54 @@ def clean_content(content: str) -> str:
             continue
         result.append(line)
     return '\n'.join(result)
+
+
+def _separate_title_from_body(content: str) -> str:
+    """Insert a blank line between a news title and the body that follows it.
+
+    The model sometimes emits:
+        Preocupación por brecha digital en Paraguay
+        Diversas organizaciones religiosas han manifestado...
+    and kramdown reads that as ONE <p>. The title must be its own paragraph.
+
+    Rule: inside each news item, the title is the line that follows a
+    structural boundary (blank line after a section header, or after a
+    ``📊 Relevancia:`` line). The first body line glued right after the
+    title gets separated by a blank line. Remaining body lines (2-3 line
+    summaries) stay together as one paragraph.
+    """
+    section_markers = ('📅', '🌐', '⚡', '🤖', '📋', '🚀', '🔬', '📈', '💡',
+                       '🔎', '🥇', '🥈', '🥉', 'PULSO TECH PARAGUAY')
+    role_markers = ('📊 Relevancia:', '📊 Temperatura')
+
+    def is_marker(s: str) -> bool:
+        return s.startswith(section_markers) or any(s.startswith(m) for m in role_markers)
+
+    lines = content.split('\n')
+    out: list[str] = []
+    # State — True when the next content line is the title of a news item
+    # (i.e. we just crossed a structural boundary).
+    after_boundary = True
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            out.append('')
+            after_boundary = True
+            continue
+        if is_marker(stripped):
+            out.append(line)
+            after_boundary = True
+            continue
+        if after_boundary:
+            # This line is the item title; emit it, next content line is body.
+            out.append(line)
+            after_boundary = False
+            continue
+        # Content line right after the title: body glued to title.
+        out.append('')
+        out.append(line)
+    return '\n'.join(out)
 
 
 def save_post(content: str):

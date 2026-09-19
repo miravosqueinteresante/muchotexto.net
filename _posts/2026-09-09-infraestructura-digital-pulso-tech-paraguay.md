@@ -46,7 +46,9 @@ Tras pedidos de informes desde el Senado, ueno bank emitió un comunicado oficia
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Avances disruptivos en IA: OpenAI resuelve problemas matemáticos complejos.
+
 2. 🥈 Ciberseguridad financiera: Solicitud de informes al BCP por fraudes cibernéticos.
+
 3. 🥉 Talento digital: Reconocimiento a la formación en informática como motor de empleabilidad.
 
 💡 INSIGHT TECH DEL DIA

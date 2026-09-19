@@ -295,6 +295,36 @@ def validate_content(body: str, pulso_content: str):
     return {"critical": len(critical), "warnings": len(warnings)}
 
 
+def clean_editorial_body(body: str) -> str:
+    """Normalize markdown spacing: bodies must keep title and paragraph on
+    separate lines so the rendered <p>/<h2> blocks are visually separated.
+
+    * Blank line after every heading (``## ...``) when the model glued the
+      heading straight to the paragraph.
+    * Paragraphs glued to a non-blank previous line are split.
+    """
+    heading_re = re.compile(r"^#{1,6}\s.*$", re.MULTILINE)
+    lines = body.split('\n')
+    out: list[str] = []
+    prev_is_heading = False
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            out.append('')
+            prev_is_heading = False
+            continue
+        is_heading = bool(heading_re.match(line))
+        # Blank line before a heading if the previous line was a paragraph.
+        if is_heading and out and out[-1].strip() and not prev_is_heading:
+            out.append('')
+        # Blank line after a heading if it was glued to a paragraph.
+        if prev_is_heading and not is_heading:
+            out.append('')
+        out.append(line)
+        prev_is_heading = is_heading
+    return '\n'.join(out)
+
+
 def save_editorial_post(title: str, body: str):
     now = now_py()
     date = date_str()
@@ -314,6 +344,7 @@ tags: editorial opinion paraguay analisis ia
 ---
 
 """
+    body = clean_editorial_body(body)
     body = add_internal_links(body)
     full_content = frontmatter + body + "\n"
 

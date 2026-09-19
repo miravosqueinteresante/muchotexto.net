@@ -30,7 +30,9 @@ La empresa Personal realizó la tercera edición de Encuentros 4.0 Experiencia P
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Potencial exportador del e-commerce paraguayo
+
 2. 🥈 Encuentros 4.0 sobre impacto de la IA
+
 3. 🥉 Expansión global de cables submarinos "Americas Connect"
 
 💡 INSIGHT TECH DEL DIA

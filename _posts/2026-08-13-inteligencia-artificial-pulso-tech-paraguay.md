@@ -30,7 +30,9 @@ El Ministerio de Economía y Finanzas (MEF) inició el proceso de validación de
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Adopción de IA en el sector financiero para eficiencia comercial.
+
 2. 🥈 Proceso de validación de indicadores digitales en el Plan Paraguay 2050.
+
 3. 🥉 (Sin tercera noticia relevante bajo el filtro técnico estricto).
 
 💡 INSIGHT TECH DEL DIA

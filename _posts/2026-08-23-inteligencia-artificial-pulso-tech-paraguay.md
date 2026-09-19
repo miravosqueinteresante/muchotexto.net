@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 🤖 INTELIGENCIA ARTIFICIAL
 
 Desarrollan red neuronal para detección de tuberculosis
+
 Investigadores han desarrollado una red neuronal convolucional capaz de identificar patrones complejos en señales registradas por dispositivos médicos, optimizando el diagnóstico de la enfermedad.
 
 📊 Relevancia: Alta
@@ -21,6 +22,7 @@ Investigadores han desarrollado una red neuronal convolucional capaz de identifi
 🚀 INNOVACION Y STARTUPS
 
 Ideal Tower inaugura infraestructura de oficinas modernas
+
 La firma Ideal Tower concretó la inauguración de un nuevo edificio corporativo en una zona estratégica de Asunción, orientado a atraer inversiones y empresas del sector servicios.
 
 📊 Relevancia: Media
@@ -28,6 +30,7 @@ La firma Ideal Tower concretó la inauguración de un nuevo edificio corporativo
 🔬 CIENCIA APLICADA
 
 Investigación colaborativa sobre techos fríos y transición energética
+
 Un proyecto paraguayo, seleccionado en una convocatoria regional con apoyo del Conacyt, explora el potencial de los techos fríos como solución de eficiencia energética para la infraestructura edilicia.
 
 📊 Relevancia: Media
@@ -35,7 +38,9 @@ Un proyecto paraguayo, seleccionado en una convocatoria regional con apoyo del C
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Avances en redes neuronales para diagnóstico médico.
+
 2. 🥈 Expansión de infraestructura corporativa tech.
+
 3. 🥉 Proyectos de I+D en eficiencia energética y materiales.
 
 💡 INSIGHT TECH DEL DIA

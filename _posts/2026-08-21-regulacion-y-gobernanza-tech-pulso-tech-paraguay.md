@@ -30,7 +30,9 @@ Se ha oficializado la puesta en marcha de la Estrategia Nacional de Inclusion Fi
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Estrategia Nacional de Inclusion Financiera 2026-2031
+
 2. 🥈 Plan de innovacion digital en la Municipalidad de Asuncion
+
 3. 🥉 Proyecto de transformacion institucional de Camilo Pérez
 
 💡 INSIGHT TECH DEL DIA

@@ -14,11 +14,13 @@ PULSO TECH PARAGUAY
 🤖 INTELIGENCIA ARTIFICIAL
 
 Preocupación por brecha digital en Paraguay
+
 Diversas organizaciones religiosas han manifestado su alerta ante el avance de la inteligencia artificial, advirtiendo que su implementación sin criterios de equidad podría profundizar las desigualdades sociales existentes en el país.
 
 📊 Relevancia: Media
 
 IA global: Claude y el desarrollo de modelos
+
 A nivel internacional, se reporta que Claude ya ejecuta el 26 por ciento del trabajo en la creación de nuevos modelos de IA para Anthropic. Paralelamente, investigadores han documentado pruebas de estrés donde una IA fue utilizada para evaluar vulnerabilidades en sistemas de OpenAI.
 
 📊 Relevancia: Media
@@ -26,6 +28,7 @@ A nivel internacional, se reporta que Claude ya ejecuta el 26 por ciento del tra
 🚀 INNOVACION Y STARTUPS
 
 Porsche introduce movilidad eléctrica de alta gama en Paraguay
+
 La marca presentó en el mercado local su nuevo SUV Cayenne eléctrico, vehículo que alcanza una velocidad de 260 km/h, cuenta con 1.156 CV y ofrece una autonomía de hasta 642 kilómetros, consolidando la oferta tecnológica en el sector automotriz nacional.
 
 📊 Relevancia: Baja
@@ -33,7 +36,9 @@ La marca presentó en el mercado local su nuevo SUV Cayenne eléctrico, vehícul
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Alerta sobre el impacto social de la IA en Paraguay.
+
 2. 🥈 Avances de Claude en la automatización de modelos de lenguaje.
+
 3. 🥉 Lanzamiento de tecnología eléctrica de alto rendimiento en el mercado local.
 
 💡 INSIGHT TECH DEL DIA

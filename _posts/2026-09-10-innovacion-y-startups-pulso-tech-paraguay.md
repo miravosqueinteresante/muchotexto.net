@@ -46,7 +46,9 @@ Google oficializó una inversión de 13.000 millones de euros en Finlandia, dest
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Sirius Automotores gana 30.000 USD en Moonshot 2026.
+
 2. 🥈 Inversión masiva de Google en infraestructura para IA en Finlandia.
+
 3. 🥉 Avances de OpenAI en la resolución de problemas matemáticos del Milenio.
 
 💡 INSIGHT TECH DEL DIA

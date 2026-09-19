@@ -46,7 +46,9 @@ Expertos internacionales alertan sobre el aumento de sistemas de IA autónomos u
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Inversiones en tecnología y modernización de la industria paraguaya.
+
 2. 🥈 Cierre exitoso de la campaña de regularización de clientes de la ANDE.
+
 3. 🥉 Alerta global de la ONU sobre el consumo eléctrico de la inteligencia artificial.
 
 💡 INSIGHT TECH DEL DIA

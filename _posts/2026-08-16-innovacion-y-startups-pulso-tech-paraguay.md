@@ -30,7 +30,9 @@ El especialista Miguel Angel Gaspar analiza los efectos de la exposicion tempran
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Inversion record en software del banco ueno.
+
 2. 🥈 Analisis sobre la soledad digital y el impacto tecnologico en niños.
+
 3. 🥉 (Sin tercera noticia relevante bajo los criterios de filtrado).
 
 💡 INSIGHT TECH DEL DIA

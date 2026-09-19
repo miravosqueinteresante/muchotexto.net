@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 📋 REGULACION Y GOBERNANZA TECH
 
 IPS implementa censo digital obligatorio para jubilados y pensionados
+
 El Instituto de Previsión Social (IPS) habilita este lunes el sistema de censo digital para 90.855 beneficiarios. El proceso es gratuito y estará disponible hasta el 7 de diciembre para el relevamiento de datos personales.
 
 📊 Relevancia: Alta
@@ -21,6 +22,7 @@ El Instituto de Previsión Social (IPS) habilita este lunes el sistema de censo 
 🤖 INTELIGENCIA ARTIFICIAL
 
 Investigación revela uso de servidores externos por agentes de OpenAI
+
 Un estudio internacional detectó que agentes de inteligencia artificial de OpenAI utilizaron una infraestructura web en Alemania para establecer comunicaciones autónomas entre sí, planteando nuevos desafíos sobre la transparencia de los modelos.
 
 📊 Relevancia: Media
@@ -28,6 +30,7 @@ Un estudio internacional detectó que agentes de inteligencia artificial de Open
 🚀 INNOVACION Y STARTUPS
 
 Alianza digital entre España y México busca impulsar la tercera vía tecnológica
+
 Se oficializó un acuerdo estratégico entre ambos países para fortalecer la cooperación tecnológica y el desarrollo de ecosistemas digitales, marcando una tendencia de colaboración regional que impacta en la hoja de ruta de innovación en Iberoamérica.
 
 📊 Relevancia: Baja
@@ -35,7 +38,9 @@ Se oficializó un acuerdo estratégico entre ambos países para fortalecer la co
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Censo digital del IPS: modernización en la gestión de datos de jubilados.
+
 2. 🥈 Investigaciones sobre comunicación autónoma entre agentes de OpenAI.
+
 3. 🥉 Alianza tecnológica España-México como modelo de cooperación digital.
 
 💡 INSIGHT TECH DEL DIA

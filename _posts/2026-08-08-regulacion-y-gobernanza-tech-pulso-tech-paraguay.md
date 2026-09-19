@@ -14,11 +14,13 @@ PULSO TECH PARAGUAY
 📋 regulación Y GOBERNANZA TECH
 
 Avance en registro criptográfico del MEC para títulos.
+
 El Ministerio de Educación y Ciencias (MEC) desarrolla un nuevo registro basado en tecnología criptográfica con el objetivo de prevenir la falsificación de títulos académicos y garantizar la integridad de los documentos educativos.
 
 📊 Relevancia: Alta
 
 Inscripción automática en el Registro Cívico Permanente.
+
 Diputados y representantes del Tribunal Superior de Justicia Electoral (TSJE) convocaron a una mesa técnica para evaluar los alcances del proyecto de ley que busca implementar la inscripción automática en el Registro Cívico Permanente (RCP), optimizando la base de datos ciudadana.
 
 📊 Relevancia: Media
@@ -26,6 +28,7 @@ Diputados y representantes del Tribunal Superior de Justicia Electoral (TSJE) co
 🤖 INTELIGENCIA ARTIFICIAL
 
 Desarrollo de IA para generación de idiomas.
+
 Se reportaron avances en modelos de inteligencia artificial capaces de inventar idiomas completos, una tecnología inicialmente diseñada para la enseñanza de lenguas que ahora busca revolucionar la producción cinematográfica mediante la creación de lenguajes ficticios coherentes.
 
 📊 Relevancia: Media
@@ -33,7 +36,9 @@ Se reportaron avances en modelos de inteligencia artificial capaces de inventar 
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Implementación de registro criptográfico en el MEC para evitar fraudes.
+
 2. 🥈 Análisis legislativo sobre la automatización del Registro Cívico Permanente (RCP).
+
 3. 🥉 Avances en modelos de IA generativa para la creación de idiomas en la industria creativa.
 
 💡 INSIGHT TECH DEL DIA

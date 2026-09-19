@@ -38,7 +38,9 @@ La Cámara Paraguaya de Exportadores y Comercializadores de Cereales y Oleaginos
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Inversiones energéticas para infraestructura de centros de datos.
+
 2. 🥈 Preferencia del consumidor en contenidos generados por IA.
+
 3. 🥉 Aumento en la tecnificación e importación de Máquinaria agrícola.
 
 💡 INSIGHT TECH DEL DIA

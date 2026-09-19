@@ -14,6 +14,7 @@ PULSO TECH PARAGUAY
 ⚡ ENERGIA Y DATA CENTERS
 
 Paraguay inicia era de Tecnología nuclear civil
+
 Paraguay firmó un acuerdo estratégico con Estados Unidos para la transferencia de tecnología nuclear civil, marcando un paso clave para el blindaje energético del país. La Autoridad Reguladora Radiológica y Nuclear (ARRN) supervisará este proceso de implementación tecnológica a largo plazo.
 
 📊 Relevancia: Alta
@@ -21,6 +22,7 @@ Paraguay firmó un acuerdo estratégico con Estados Unidos para la transferencia
 🤖 INTELIGENCIA ARTIFICIAL
 
 Alerta global sobre capacidades de IA en ciberseguridad
+
 Expertos internacionales advierten sobre la creciente capacidad de los modelos de inteligencia artificial para vulnerar protocolos de seguridad digital. Esta tendencia global genera preocupación en gobiernos y empresas sobre la integridad de los sistemas críticos de protección de datos.
 
 📊 Relevancia: Media
@@ -28,7 +30,9 @@ Expertos internacionales advierten sobre la creciente capacidad de los modelos d
 📈 TOP 3 DEL DIA (tech/IA)
 
 1. 🥇 Firma del acuerdo de cooperación nuclear civil entre Paraguay y Estados Unidos.
+
 2. 🥈 Alerta sobre vulnerabilidades de seguridad digital provocadas por modelos de IA avanzados.
+
 3. 🥉 Proceso de supervisión técnica a cargo de la ARRN para la nueva infraestructura energética.
 
 💡 INSIGHT TECH DEL DIA
