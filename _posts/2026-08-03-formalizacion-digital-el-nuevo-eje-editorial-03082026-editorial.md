@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Formalización digital, el nuevo eje — Editorial 03/08/2026"
-description: "La modernización del Aeropuerto Internacional de Encarnación, impulsada por la DINAC, marca un hito en la infraestructura física que debe sostener el flujo de visitantes para el próximo Campeonato Mundial de Rally."
+description: "La modernización del Aeropuerto Internacional de Encarnación, impulsada por la DINAC, marca un hito en la infraestructura física que debe sostener el flujo de…"
 
 
 

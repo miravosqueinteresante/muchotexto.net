@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infraestructura digital y brecha humana — Editorial 16/09/2026"
-description: "El lanzamiento del Registro Unificado Nacional RUN marca un hito en la digitalización del Estado, al integrar catastro y registros públicos bajo un código único para dotar de mayor seguridad jurídica al sistema de propiedad en Paraguay."
+description: "El lanzamiento del Registro Unificado Nacional RUN marca un hito en la digitalización del Estado, al integrar catastro y registros públicos bajo un código…"
 
 
 

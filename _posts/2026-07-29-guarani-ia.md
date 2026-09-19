@@ -5,7 +5,7 @@ date: 2026-07-29
 last_modified_at: 2026-08-15
 categories: articulos
 tags: cultura-filosofia ia-paraguay paraguay ia
-description: "El guaraní tiene 7 millones de hablantes y está ausente de los grandes modelos de voz e IA generativa. Un grupo de periodistas paraguayos está cambiando eso con mingas comunitarias y datos abiertos."
+description: "El guaraní tiene 7 millones de hablantes y está ausente de los grandes modelos de voz e IA generativa. Un grupo de periodistas paraguayos está cambiando eso…"
 ---
 
 De los aproximadamente 7.000 idiomas que se hablan en el mundo, diversos estudios estiman que el 95% carece de herramientas de inteligencia artificial. Ni reconocimiento de voz, ni traducción automática, ni chatbot. El guaraní —lengua oficial de Paraguay junto con el español, hablada por entre 6 y 8 millones de personas en Paraguay, Argentina y Bolivia— es uno de ellos. OpenAI nunca lo incluyó en Whisper. Meta no lo incluyó en el pre-entrenamiento de XLS-R, su modelo más usado para lenguas de pocos recursos —no existe evidencia de que el corpus de entrenamiento contuviera suficiente guaraní. Mozilla Common Voice, el mayor repositorio abierto de voces del mundo con más de 130 idiomas, no tiene al guaraní en su plataforma.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ciberseguridad, el desafío del sistema"
-description: "La advertencia emitida por el Ministerio de Tecnologías de la Información y Comunicación MITIC sobre la evolución de los ciberataques contra usuarios del sistema financiero marca un punto de inflexión en la agenda digital del país."
+description: "La advertencia emitida por el Ministerio de Tecnologías de la Información y Comunicación MITIC sobre la evolución de los ciberataques contra usuarios del…"
 
 
 

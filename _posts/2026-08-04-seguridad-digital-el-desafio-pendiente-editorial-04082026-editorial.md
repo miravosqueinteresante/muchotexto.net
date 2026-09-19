@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seguridad digital, el desafío pendiente — Editorial 04/08/2026"
-description: "La reciente convocatoria a una audiencia pública impulsada por la diputada Rocío Vallejo, sumada a las recomendaciones emitidas por el comisario Diosnel Alarcón, jefe del Departamento contra el Cibercrimen, exponen la fragilidad actual de los sistemas financieros digitales en Paraguay."
+description: "La reciente convocatoria a una audiencia pública impulsada por la diputada Rocío Vallejo, sumada a las recomendaciones emitidas por el comisario Diosnel…"
 
 
 

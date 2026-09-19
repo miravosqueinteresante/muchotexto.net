@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entre política y fútbol — Editorial 8 de julio 2026"
-description: "La controversia entre Celeste Amarilla y Kylian Mbappé ha dominado las conversaciones en Paraguay, generando un cruce entre política y deporte que ha captado la atención nacional."
+description: "La controversia entre Celeste Amarilla y Kylian Mbappé ha dominado las conversaciones en Paraguay, generando un cruce entre política y deporte que ha captado…"
 
 
 

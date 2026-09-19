@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infraestructura, datos y soberanía — Editorial 10/08/2026"
-description: "La reactivación de la Mesa Energética Nacional, junto con el avance en la integración de sistemas clínicos entre el IPS y el Ministerio de Salud, marca una hoja de ruta clara para la modernización del Estado."
+description: "La reactivación de la Mesa Energética Nacional, junto con el avance en la integración de sistemas clínicos entre el IPS y el Ministerio de Salud, marca una…"
 
 
 

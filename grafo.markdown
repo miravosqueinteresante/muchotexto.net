@@ -2,7 +2,7 @@
 layout: page
 title: "Grafo del Observatorio"
 permalink: /grafo/
-description: "Mapa de relaciones entre las entidades clave del Observatorio de IA en Paraguay. Quién comparte artículos, leyes y normativas: ANDE, Itaipú, Yacyretá, HIVE, Taiwán, TSMC y más."
+description: "Mapa de relaciones entre las entidades del Observatorio de IA en Paraguay: quién comparte artículos, leyes y normativas."
 last_modified_at: 2026-09-18
 ---
 

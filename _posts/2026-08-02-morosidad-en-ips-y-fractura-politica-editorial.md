@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Morosidad en IPS y fractura política"
-description: "El Instituto de Previsión Social enfrenta hoy una crisis financiera marcada por una deuda de 711 millones de dólares, acumulada por más de 2.000 empresas morosas."
+description: "El Instituto de Previsión Social enfrenta hoy una crisis financiera marcada por una deuda de 711 millones de dólares, acumulada por más de 2.000 empresas…"
 
 
 

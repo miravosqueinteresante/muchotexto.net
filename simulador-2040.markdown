@@ -2,7 +2,7 @@
 layout: page
 title: "Paraguay 2040 — Simulador de escenarios"
 permalink: /simulador-2040/
-description: "Simulador interactivo: cinco palancas estrategicas determinan el futuro de Paraguay a 2040. Data centers, energia, informalidad, talento y escenarios geopoliticos."
+description: "Simulador interactivo: cinco palancas estratégicas determinan el futuro de Paraguay a 2040. Data centers, energía, informalidad y talento."
 last_modified_at: 2026-08-07
 ---
 

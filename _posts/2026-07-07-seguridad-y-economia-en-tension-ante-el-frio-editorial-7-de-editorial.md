@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seguridad, economía y frío — Editorial 7 de julio 2026"
-description: "El frío extremo que afecta a Paraguay este 7 de julio no solo ha impactado el clima, sino que también ha puesto en evidencia tensiones sociales y económicas que ya venían acumulándose."
+description: "El frío extremo que afecta a Paraguay este 7 de julio no solo ha impactado el clima, sino que también ha puesto en evidencia tensiones sociales y económicas…"
 
 
 

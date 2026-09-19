@@ -5,7 +5,7 @@ date: 2026-06-23
 last_modified_at: 2026-08-15
 categories: articulos
 tags: cultura-filosofia ia-paraguay
-description: "Sportian, Oura, scouting con machine learning y un centro de entrenamiento de 200 acres. USA no llegó al Mundial 2026 a competir: llegó a demostrar que los datos pueden cambiar el fútbol."
+description: "Sportian, Oura, scouting con machine learning y un centro de entrenamiento de 200 acres. USA no llegó al Mundial 2026 a competir: llegó a demostrar que los…"
 ---
 
 Estados Unidos llegó al Mundial 2026 como anfitrión. Nadie lo puso en la lista de favoritos. Brasil, Argentina, Francia, Alemania, España — las potencias de siempre ocupaban los titulares. Pero dos partidos después, USA lidera el Grupo D con 6 puntos, +5 de diferencia de gol, y ya está clasificado a octavos de final. Es la primera vez desde 1930 que gana dos partidos seguidos en un Mundial. Su arquero, Matt Freese, mantuvo la valla invicta contra Australia. Alex Freeman, un defensor de 21 años que hace dos temporadas jugaba en Orlando City, metió un gol y una asistencia en el torneo. Christian Pulisic acumula 4 contribuciones de gol en Copas del Mundo. Y el equipo de Mauricio Pochettino registró 66,7% de posesión en la primera hora contra Paraguay, la segunda más alta de USA en un partido mundialista desde 1966.

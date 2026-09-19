@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infraestructura, el cuello de botella global"
-description: "La reciente inversión de 3.500 millones de dólares de Nvidia en MediaTek, sumada a la presión ejercida por figuras como Mark Zuckerberg y Elon Musk ante el G20, marca un cambio de paradigma donde la capacidad física de procesamiento se vuelve el activo más valioso."
+description: "La reciente inversión de 3.500 millones de dólares de Nvidia en MediaTek, sumada a la presión ejercida por figuras como Mark Zuckerberg y Elon Musk ante el…"
 
 
 

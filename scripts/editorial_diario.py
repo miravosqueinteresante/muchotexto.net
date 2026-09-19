@@ -188,7 +188,9 @@ def sanitize_yaml(text: str) -> str:
 
 
 def make_meta_description(body: str, max_len: int = 160) -> str:
-    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", body)
+    plain = re.sub(r"\{[{%].*?[}%]\}", " ", body)
+    plain = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", plain)
+    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", plain)
     plain = re.sub(r"\s+", " ", plain).strip()
     if len(plain) <= max_len:
         return plain

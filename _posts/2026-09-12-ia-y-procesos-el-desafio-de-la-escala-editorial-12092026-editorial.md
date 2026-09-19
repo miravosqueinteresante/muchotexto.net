@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IA y procesos, el desafío de la escala — Editorial 12/09/2026"
-description: "El anuncio del presidente Santiago Peña sobre la inteligencia artificial como eje estratégico nacional marca una intención clara de posicionar a Paraguay en la vanguardia tecnológica."
+description: "El anuncio del presidente Santiago Peña sobre la inteligencia artificial como eje estratégico nacional marca una intención clara de posicionar a Paraguay en…"
 
 
 

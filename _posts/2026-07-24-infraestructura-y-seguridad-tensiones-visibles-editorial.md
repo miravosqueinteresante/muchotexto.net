@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infraestructura y seguridad, tensiones visibles"
-description: "El Pulso Paraguay de hoy destaca dos temas que, aunque aparentemente separados, revelan tensiones subyacentes en el país: las denuncias de persecución política en Santa Rosa del Aguaray y los reclamos de justicia tras la explosión de una barcaza."
+description: "El Pulso Paraguay de hoy destaca dos temas que, aunque aparentemente separados, revelan tensiones subyacentes en el país: las denuncias de persecución…"
 
 
 

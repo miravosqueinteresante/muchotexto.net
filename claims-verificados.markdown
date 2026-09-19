@@ -2,7 +2,7 @@
 layout: page
 title: "Claims verificados del Observatorio de IA"
 permalink: /claims-verificados/
-description: "Base pública de verificación de datos de muchotexto.net: qué afirmaciones confirmamos, cuáles eran falsas o parciales y contra qué fuente. Transparencia editorial."
+description: "Base pública de verificación de datos de muchotexto.net: qué afirmamos, qué corregimos y contra qué fuente. Transparencia editorial."
 last_modified_at: 2026-08-21
 ---
 

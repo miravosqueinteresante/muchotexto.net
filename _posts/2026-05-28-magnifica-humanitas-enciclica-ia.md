@@ -5,7 +5,7 @@ date: 2026-05-28
 last_modified_at: 2026-08-23
 categories: articulos
 tags: cultura-filosofia ia-paraguay
-description: "El Papa León XIV publicó la primera encíclica sobre inteligencia artificial en 135 años. Un análisis de Magnifica Humanitas y lo que dice sobre ética, trabajo y dignidad humana."
+description: "El Papa León XIV publicó la primera encíclica sobre inteligencia artificial en 135 años. Un análisis de Magnifica Humanitas y lo que dice sobre ética, trabajo…"
 ---
 
 La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la advertencia central de *Magnifica Humanitas*, el primer documento papal dedicado íntegramente a la inteligencia artificial, y probablemente la intervención moral más significativa sobre el tema que haya producido líder religioso alguno.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infraestructura, el activo de Paraguay — Editorial 07/08/2026"
-description: "Paraguay se posiciona hoy en el radar de las inversiones tecnológicas globales, principalmente por su capacidad de generar electricidad a partir de fuentes cien por ciento renovables."
+description: "Paraguay se posiciona hoy en el radar de las inversiones tecnológicas globales, principalmente por su capacidad de generar electricidad a partir de fuentes…"
 
 
 

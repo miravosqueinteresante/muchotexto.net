@@ -43,7 +43,9 @@ def fmt_fecha(dt: datetime) -> str:
 def make_meta_description(content: str, max_len: int = 155) -> str:
     lines = content.strip().split("\n")
     useful = "\n".join(line for line in lines if not line.strip().startswith("PULSO DIARIO"))
-    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", useful)
+    plain = re.sub(r"\{[{%].*?[}%]\}", " ", useful)        # quitar tags Liquid
+    plain = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", plain)  # [texto](url) -> texto
+    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", plain)
     plain = re.sub(r"[📅🕐🌡🏛💰⚽🎭🚨🔥📊🔍🔎💡📈]", "", plain)
     plain = re.sub(r"\s+", " ", plain).strip()
     if len(plain) <= max_len:

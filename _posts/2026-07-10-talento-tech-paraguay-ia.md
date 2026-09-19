@@ -5,7 +5,7 @@ date: 2026-07-10
 last_modified_at: 2026-08-15
 categories: articulos
 tags: sociedad-trabajo ia-paraguay
-description: "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. El país construye data centers de IA mientras los ingenieros que deberían operarlos trabajan para el extranjero."
+description: "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. El país construye data centers de IA mientras los ingenieros que deberían operarlos…"
 ---
 
 Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. Remiten aproximadamente 1.350 millones de dólares al año, el equivalente al 2,6% del PIB. No existe un censo que diga cuántos de ellos son ingenieros, desarrolladores o científicos de datos. El país está construyendo una industria de inteligencia artificial que necesita a esas personas sin saber cuántas perdió.

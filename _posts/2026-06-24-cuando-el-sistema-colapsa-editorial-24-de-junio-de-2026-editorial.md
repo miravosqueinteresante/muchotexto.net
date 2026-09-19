@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Cuando el sistema colapsa — Editorial 24 de junio de 2026"
-description: "La renuncia masiva en el Instituto de Previsión Social IPS ha expuesto, una vez más, los crónicos problemas de gestión que arrastra una de las instituciones más emblemáticas y necesarias de Paraguay."
+description: "La renuncia masiva en el Instituto de Previsión Social IPS ha expuesto, una vez más, los crónicos problemas de gestión que arrastra una de las instituciones…"
 
 
 

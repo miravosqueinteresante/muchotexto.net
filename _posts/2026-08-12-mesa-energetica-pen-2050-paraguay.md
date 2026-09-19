@@ -5,7 +5,7 @@ date: 2026-08-12 12:00:00 -0300
 last_modified_at: 2026-08-18
 categories: articulos
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
-description: "Paraguay aprobó en 2024 una política energética al 2050 con 95 objetivos y 385 metas, incluido un ministerio que debía existir ese año. Sigue sin existir, aunque el Ejecutivo ya presentó los proyectos de ley."
+description: "Paraguay aprobó en 2024 una política energética al 2050 con 95 objetivos y 385 metas, incluido un ministerio que debía existir ese año. Sigue sin existir…"
 ---
 
 > **Actualización (13 de agosto de 2026):** un día después de la publicación de este análisis, el Ejecutivo presentó dos proyectos de ley en la primera reunión de la Mesa Nacional del Sector Eléctrico: la creación del Ministerio de Energía, Minería e Hidrocarburos —que la prensa llama "de Minas y Energía"— y la de un ente regulador del sector eléctrico. Los textos fueron puestos a disposición pública para su debate. Son proyectos en discusión —no instituciones creadas—, pero es el primer avance concreto del Ejecutivo en la institucionalidad que este artículo describe como pendiente.

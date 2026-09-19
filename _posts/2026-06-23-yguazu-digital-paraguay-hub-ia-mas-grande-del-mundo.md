@@ -5,7 +5,7 @@ date: 2026-06-23
 last_modified_at: 2026-08-15
 categories: articulos
 tags: infraestructura-energia ia-paraguay
-description: "Fase I: 10 MW y $200M. Fase III: 1 GW y $40.000M. Paraguay y Taiwán anunciaron uno de los centros de IA más ambiciosos del planeta. ¿Es viable o es un castillo en el aire?"
+description: "Fase I: 10 MW y $200M. Fase III: 1 GW y $40.000M. Paraguay y Taiwán anunciaron uno de los centros de IA más ambiciosos del planeta. ¿Es viable o es un…"
 ---
 
 ¿Qué se necesita para transformar a un país agroexportador de 6,5 millones de habitantes en un polo de inteligencia artificial? Energía barata, chips de última generación, un socio tecnológico de primer nivel y la voluntad política de hacerlo. Paraguay tiene todo eso sobre la mesa. La pregunta es si tiene también lo que no se ve en los Anuncios: la red de transmisión que aguante, el talento que opere, los contratos que financien y la estabilidad geopolítica que sostenga.

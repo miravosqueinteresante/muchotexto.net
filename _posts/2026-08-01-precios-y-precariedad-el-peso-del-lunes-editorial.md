@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Precios y precariedad, el peso del lunes"
-description: "Los emblemas privados de combustible confirmaron que a partir del lunes los precios en los surtidores van a subir, marcando el final de un fin de semana que arrancó con festejos por el Día de la Amistad."
+description: "Los emblemas privados de combustible confirmaron que a partir del lunes los precios en los surtidores van a subir, marcando el final de un fin de semana que…"
 
 
 

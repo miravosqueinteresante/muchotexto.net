@@ -5,7 +5,7 @@ date: 2026-05-27
 last_modified_at: 2026-08-18
 categories: articulos
 tags: infraestructura-energia
-description: "Paraguay habilita por primera vez la generación privada de energía renovable. Entre el fin del monopolio de la ANDE y los riesgos de corrupción, ¿qué significa el Decreto 6034?"
+description: "Paraguay habilita por primera vez la generación privada de energía renovable. Entre el fin del monopolio de la ANDE y los riesgos de corrupción, ¿qué…"
 ---
 
 El 19 de mayo de 2026, Santiago Peña firmó el Decreto 6034. Con esa firma, Paraguay habilitó por primera vez en su historia que empresas privadas generen, compren, vendan y exporten energía eléctrica de fuentes renovables no hidráulicas. La noticia ocupó titulares nacionales y fue calificada por analistas como un hito para el sector. Pero la historia completa es más compleja que un titular, y los detalles que no se dijeron esa noche son los que realmente importan.

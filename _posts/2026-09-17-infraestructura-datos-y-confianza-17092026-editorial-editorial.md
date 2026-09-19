@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infraestructura, datos y confianza, 17/09/2026 — Editorial 17/09/2026"
-description: "El Ministerio de Industria y Comercio puso el foco en el almacenamiento de energía y la robótica, mientras que, en paralelo, el Senado exige una auditoría técnica al sistema de máquinas de votación del TSJE."
+description: "El Ministerio de Industria y Comercio puso el foco en el almacenamiento de energía y la robótica, mientras que, en paralelo, el Senado exige una auditoría…"
 
 
 date: 2026-09-17 18:00:00 -0300
