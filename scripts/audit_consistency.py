@@ -18,6 +18,7 @@ import glob
 import json
 import os
 import re
+import subprocess
 import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -91,6 +92,16 @@ IGNORE_REL = {
 NON_ANALYSIS = {
     "2026-05-10-primer-articulo",
     "2026-06-10-que-es-realmente-el-futbol",
+}
+
+
+# Activos estaticos de raiz que SI deben publicarse (usados por el sitio).
+PUBLISHED_ROOT_ASSETS = {
+    "624a4302f1714f068e9851beb7b692f2.txt",
+    "robots.txt",
+    "search.json",
+    "grafo.json",
+    "llms.txt",
 }
 
 
@@ -194,6 +205,61 @@ def check_pillar_links():
     return [s for s in analysis_posts() if s not in text]
 
 
+def parse_named_url_yaml(path, key="name"):
+    """Extrae un set de (name, url) de un YAML de lista simple."""
+    items = []
+    name = None
+    for line in read(path).splitlines():
+        s = line.strip()
+        if s.startswith("- " + key + ":"):
+            name = s.split(":", 1)[1].strip().strip('"')
+        elif s.startswith("url:") and name:
+            items.append((name, s.split(":", 1)[1].strip().strip('"')))
+            name = None
+    return set(items)
+
+
+def pulso_fallback_feeds():
+    """Set de (name, url) del fallback inline en pulso_diario.py."""
+    p = os.path.join(REPO, "scripts", "pulso_diario.py")
+    if not os.path.exists(p):
+        return set()
+    m = re.search(r"_RSS_FEEDS_FALLBACK\s*=\s*\[(.*?)\]", read(p), re.S)
+    if not m:
+        return set()
+    return set(re.findall(r'\("([^"]+)",\s*"(https?://[^"]+)"\)', m.group(1)))
+
+
+def tracked_root_docs():
+    """Docs (md/markdown/json/txt) trackeados en la raiz del repo."""
+    try:
+        out = subprocess.run(
+            ["git", "ls-files"], cwd=REPO, capture_output=True, text=True, timeout=20
+        ).stdout
+    except Exception:
+        return []
+    exts = (".md", ".markdown", ".json", ".txt")
+    return [
+        f for f in out.splitlines()
+        if "/" not in f and not f.startswith(".") and f.lower().endswith(exts)
+    ]
+
+
+def root_docs_published():
+    """Docs de raiz que Jekyll publicaria sin estar excluidos ni ser paginas."""
+    excluded = load_config_exclude()
+    findings = []
+    for f in tracked_root_docs():
+        if f in excluded or f in PUBLISHED_ROOT_ASSETS:
+            continue
+        p = os.path.join(REPO, f)
+        head = read(p).lstrip() if os.path.exists(p) else ""
+        if head.startswith("---"):  # es una pagina con front matter
+            continue
+        findings.append(f)
+    return findings
+
+
 def main():
     if sys.platform == "win32":
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -257,6 +323,24 @@ def main():
     # INV-8: pilar enlaza todos los analisis
     for slug in check_pillar_links():
         errors.append(f"[INV-8] ia-en-paraguay.markdown no enlaza el articulo '{slug}'")
+
+    # INV-9: _data/fuentes.yml == fallback inline de pulso_diario.py
+    yml_feeds = parse_named_url_yaml(os.path.join(REPO, "_data/fuentes.yml"))
+    py_feeds = pulso_fallback_feeds()
+    if yml_feeds != py_feeds:
+        only_yml = yml_feeds - py_feeds
+        only_py = py_feeds - yml_feeds
+        errors.append(
+            "[INV-9] _data/fuentes.yml y el fallback de pulso_diario.py divergen. "
+            f"Solo en YAML: {sorted(only_yml)}. Solo en PY: {sorted(only_py)}"
+        )
+
+    # INV-10: ningun doc interno de raiz se publica sin excluir
+    for f in root_docs_published():
+        errors.append(
+            f"[INV-10] '{f}' esta trackeado en la raiz, no es pagina y no esta en el "
+            f"exclude de _config.yml -> se publicaria. Excluirlo o moverlo."
+        )
 
     report = {"errors": errors, "info": info, "scanned_files": [os.path.relpath(t, REPO) for t in targets]}
 

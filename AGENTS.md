@@ -82,11 +82,11 @@ python scripts/audit_consistency.py --json   # salida para CI
 | Artículos long-form | `_posts/` (categoría `articulos`) | `ia-en-paraguay.markdown` |
 | Entidades ↔ grafo | `build_entities.py` | `grafo.json` (nodos == entidades) |
 
-**Invariantes que verifica el auditor:** (INV-1) cada consumidor usa su expresión dinámica; (INV-2) `entities.yml` == nodos de `grafo.json`; (INV-3) la capa de datos tiene indicadores; (INV-4) `pulso_diario.py` lee `_data/fuentes.yml`; (INV-5) conteo de análisis; (INV-6) los documentos internos están en el `exclude:` de `_config.yml`; (INV-7) todo `post_url` resuelve; (INV-8) la pilar enlaza todos los análisis.
+**Invariantes que verifica el auditor:** (INV-1) cada consumidor usa su expresión dinámica; (INV-2) `entities.yml` == nodos de `grafo.json`; (INV-3) la capa de datos tiene indicadores; (INV-4) `pulso_diario.py` lee `_data/fuentes.yml`; (INV-5) conteo de análisis; (INV-6) los documentos internos están en el `exclude:` de `_config.yml`; (INV-7) todo `post_url` resuelve; (INV-8) la pilar enlaza todos los análisis; (INV-9) `_data/fuentes.yml` y el fallback inline de `pulso_diario.py` coinciden; (INV-10) ningún documento trackeado en la raíz se publica sin estar excluido o ser página con front matter.
 
 **Regla:** se deriva lo que es lista, conteo o relación; se cura lo que es juicio, redacción o interpretación — pero en una sola fuente. Al agregar una superficie nueva con un conteo derivable, declararla en `CANON` dentro del auditor.
 
-**Estado:** read-only y advisory (no bloquea el CI todavía). Pasos siguientes: front matter estructurado en artículos y, recién después, promover el auditor a bloqueante en el workflow.
+**Estado:** read-only, **bloqueante en CI** (paso "Auditar consistencia" del workflow, corre en todo build antes de Jekyll). Si hay hallazgos, cancela el deploy. Prueba de detección: `_planning/selftest_auditor.py` (rompe INV-1/INV-9/INV-10 y confirma exit 1).
 
 ## Capa de datos local (muchotexto.net ↔ datos-publicos)
 
