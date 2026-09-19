@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Justicia y violencia, tensiones en Paraguay"
-description: "La captura de la supuesta viuda negra en Yby Pytá y las acusaciones de Dani Centurión sobre la instrumentalización de la Justicia han dominado la conversación…"
+description: "La captura de la supuesta viuda negra en Yby Pytá y las acusaciones de Dani Centurión sobre la instrumentalización de la Justicia han dominado la conversación pública en Paraguay este martes."
+
 
 
 

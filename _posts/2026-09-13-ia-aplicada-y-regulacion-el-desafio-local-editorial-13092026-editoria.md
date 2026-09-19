@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "IA aplicada y regulación, el desafío local — Editorial 13/09/2026"
-description: "La llegada de especialistas taiwaneses al Ministerio de Salud para implementar herramientas de inteligencia artificial en la vigilancia sanitaria marca un…"
+description: "La llegada de especialistas taiwaneses al Ministerio de Salud para implementar herramientas de inteligencia artificial en la vigilancia sanitaria marca un hito en la gestión pública de Paraguay."
+
 
 
 

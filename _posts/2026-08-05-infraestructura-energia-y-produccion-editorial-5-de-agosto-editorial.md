@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, energía y producción — Editorial 5 de agosto de 2026"
-description: "La disponibilidad de energía se posiciona como el factor determinante para la expansión de centros de datos destinados a la Inteligencia Artificial hacia el…"
+description: "La disponibilidad de energía se posiciona como el factor determinante para la expansión de centros de datos destinados a la Inteligencia Artificial hacia el año 2030, un escenario que condiciona directamente la planificación de infraestructura digital a nivel global."
+
 
 
 

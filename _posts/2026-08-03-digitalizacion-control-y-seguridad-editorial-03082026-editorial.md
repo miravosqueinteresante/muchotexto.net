@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Digitalización, control y seguridad — Editorial 03/08/2026"
-description: "La modernización del Aeropuerto Internacional de Encarnación y la implementación del Registro Nacional de Espectadores RENAES marcan un ritmo acelerado en la…"
+description: "La modernización del Aeropuerto Internacional de Encarnación y la implementación del Registro Nacional de Espectadores RENAES marcan un ritmo acelerado en la adopción de infraestructura digital en Paraguay."
+
 
 
 

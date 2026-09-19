@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, el cuello de botella — Editorial 14/08/2026"
-description: "La jornada de hoy nos presenta una realidad técnica que no podemos ignorar: mientras el Ejecutivo busca consolidar la gobernanza energética mediante la…"
+description: "La jornada de hoy nos presenta una realidad técnica que no podemos ignorar: mientras el Ejecutivo busca consolidar la gobernanza energética mediante la creación de un nuevo ministerio, la infraestructura digital del Estado sufre una interrupción crítica en el Poder Judicial."
+
 
 
 

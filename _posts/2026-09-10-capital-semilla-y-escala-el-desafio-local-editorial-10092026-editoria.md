@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Capital semilla y escala, el desafío local — Editorial 10/09/2026"
-description: "La startup Sirius Automotores se adjudicó un capital semilla de 30.000 USD tras imponerse entre más de 2.000 postulantes en el programa Moonshot 2026…"
+description: "La startup Sirius Automotores se adjudicó un capital semilla de 30.000 USD tras imponerse entre más de 2.000 postulantes en el programa Moonshot 2026, marcando un hito en la capacidad de convocatoria del ecosistema emprendedor en Paraguay."
+
 
 
 
