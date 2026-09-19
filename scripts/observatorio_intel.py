@@ -257,6 +257,18 @@ def section4_observatory_density():
             fm = parse_frontmatter(open(fpath, encoding="utf-8").read())
             results.append((name, count, fm.get("last_modified_at", "sin dato")))
             continue
+        if filename == "glosario.markdown":
+            # Derivado de _data/glosario.yml (build_glosario.py)
+            count = 0
+            glos = os.path.join(REPO_DIR, "_data", "glosario.yml")
+            if os.path.exists(glos):
+                import yaml
+                with open(glos, "r", encoding="utf-8") as gf:
+                    data = yaml.safe_load(gf) or []
+                count = sum(len(g.get("terminos", [])) for g in data)
+            fm = parse_frontmatter(open(fpath, encoding="utf-8").read())
+            results.append((name, count, fm.get("last_modified_at", "sin dato")))
+            continue
         count, last_mod = _count_entries(fpath, is_glosario)
         results.append((name, count, last_mod))
     return results

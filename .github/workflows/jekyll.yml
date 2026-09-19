@@ -49,6 +49,8 @@ jobs:
           JEKYLL_ENV: production
       - name: Generar cronologia (hitos de articulos)
         run: python scripts/build_cronologia.py
+      - name: Generar glosario (terminos de articulos)
+        run: python scripts/build_glosario.py
       - name: Build with Jekyll
         run: |
           echo "url: https://muchotexto.net" > _config_pages.yml

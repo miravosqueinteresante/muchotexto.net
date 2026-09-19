@@ -250,7 +250,7 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
 
     has_pillar = any("ia-en-paraguay.markdown" in f for f in staged_all)
     has_llms = any("llms.txt" in f for f in staged_all)
-    has_glosario = any("glosario.markdown" in f for f in staged_all)
+    has_glosario = any("_data/glosario.yml" in f for f in staged_all)
     has_cronologia = any("_data/cronologia.yml" in f for f in staged_all)
     has_regulacion = any("regulacion.markdown" in f for f in staged_all)
     has_directorio = any("directorio.markdown" in f for f in staged_all)
@@ -269,9 +269,9 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
         )
     if staged_posts and not has_glosario:
         errors.append(
-            "Nuevo post detectado pero glosario.markdown no esta en el commit. "
-            "Todo articulo nuevo debe actualizar el glosario con al menos un termino. "
-            "Agregarlo: git add glosario.markdown"
+            "Nuevo post detectado pero _data/glosario.yml no esta en el commit. "
+            "Declarar los terminos nuevos en el front matter del articulo (campo `glosario`) "
+            "y correr python scripts/build_glosario.py. Agregarlo: git add _data/glosario.yml"
         )
     if staged_posts and not has_cronologia:
         errors.append(

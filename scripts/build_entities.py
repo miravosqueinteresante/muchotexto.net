@@ -223,12 +223,19 @@ def load_observatory_entries():
         pat = patterns[page_name]
 
         if page_name == "glosario":
-            for m in pat.finditer(body):
-                term = m.group(1).strip()
-                definition = clean_context(m.group(2).strip())
-                link_match = re.search(r'→\s*\[.+?\]\((.+?)\)', body[m.end():m.end()+400])
-                url = fix_url(link_match.group(1)) if link_match else f"/{page_name}/"
-                entries[page_name].append({"term": term, "url": url, "context": definition})
+            # El glosario es derivado: se lee de _data/glosario.yml
+            # (generado por build_glosario.py desde el seed + terminos de articulos).
+            glos = os.path.join(REPO_DIR, "_data", "glosario.yml")
+            if os.path.exists(glos):
+                with open(glos, "r", encoding="utf-8") as gf:
+                    data = yaml.safe_load(gf) or []
+                for grupo in data:
+                    for t in grupo.get("terminos", []):
+                        term = str(t.get("termino", "")).strip()
+                        definition = clean_context(str(t.get("definicion", "")).strip())
+                        url = fix_url(t["link"]) if t.get("link") else "/glosario/"
+                        entries["glosario"].append({"term": term, "url": url, "context": definition})
+            continue
 
         elif page_name == "cronologia":
             # La cronologia es derivada: se lee de _data/cronologia.yml

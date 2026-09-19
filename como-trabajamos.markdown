@@ -101,7 +101,7 @@ Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA a
     - **`/claims-verificados/`**: agregar los claims verificados o corregidos por el fact-check del artículo.
     - **`/directorio/`**: agregar startups, comunidades, instituciones o personas clave si el artículo descubre nuevas entidades del ecosistema.
     - **`/casos-de-uso/`**: agregar sectores o aplicaciones nuevas de IA en Paraguay que el artículo documente.
-    - **`/glosario/`**: agregar términos nuevos específicos del cluster de IA en Paraguay con enlace al artículo.
+    - **`/glosario/`**: no se edita a mano. Los términos nuevos se declaran en el front matter del artículo (campo `glosario`, con `tema`, `termino` y `definicion`) y un generador (`build_glosario.py`) recompone la página; los duplicados se omiten por término.
     - **`/ia-en-paraguay/`**: agregar el artículo a su pilar correspondiente y moverlo de "Próximamente" si estaba listado.
     - **`llms.txt`**: agregar el artículo al pilar correspondiente.
     - **Documento de estrategia**: marcar el artículo como ✅ en §3.2, actualizar conteo de publicados/pendientes, mover de pendiente a completado en §15, agregar al progreso en §17.

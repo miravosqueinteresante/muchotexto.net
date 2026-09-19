@@ -294,6 +294,36 @@ def check_hitos():
     return findings
 
 
+def check_glosario_terms():
+    """Valida los `glosario` declarados en el front matter de los articulos."""
+    try:
+        import yaml
+    except ImportError:
+        return None
+    findings = []
+    for f in glob.glob(os.path.join(REPO, "_posts", "*.md")):
+        m = re.match(r"^---\s*\n(.*?)\n---\s*\n", read(f), re.S)
+        if not m:
+            continue
+        try:
+            data = yaml.safe_load(m.group(1)) or {}
+        except Exception:
+            continue
+        terms = data.get("glosario")
+        if not terms:
+            continue
+        for t in terms:
+            if not isinstance(t, dict):
+                findings.append((os.path.basename(f), "un termino no es un mapa termino/definicion"))
+                continue
+            termino = str(t.get("termino", "")).strip()
+            if not termino:
+                findings.append((os.path.basename(f), "termino sin 'termino'"))
+            if not str(t.get("definicion", "")).strip():
+                findings.append((os.path.basename(f), f"termino {termino!r} sin 'definicion'"))
+    return findings
+
+
 def main():
     if sys.platform == "win32":
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -383,6 +413,14 @@ def main():
     else:
         for base, msg in hitos_findings:
             errors.append(f"[INV-11] {base}: hito invalido — {msg}")
+
+    # INV-12: terminos de glosario declarados en articulos son validos
+    glos_findings = check_glosario_terms()
+    if glos_findings is None:
+        info.append("INV-12 omitido: PyYAML no disponible")
+    else:
+        for base, msg in glos_findings:
+            errors.append(f"[INV-12] {base}: termino de glosario invalido — {msg}")
 
     report = {"errors": errors, "info": info, "scanned_files": [os.path.relpath(t, REPO) for t in targets]}
 
