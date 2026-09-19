@@ -55,7 +55,7 @@ El sitio se sostiene con publicidad no intrusiva y seguirá siendo un espacio in
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://muchotexto.net/#author",
-  "name": "Cesar Sanchez",
+  "name": "César Sánchez",
   "jobTitle": "Analista de IA y Tecnologia",
   "url": "https://muchotexto.net/about/",
   "sameAs": [

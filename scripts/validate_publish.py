@@ -262,11 +262,6 @@ def check_ecosistema(new_posts: list[str], staged_all: list[str]) -> tuple[list[
 
     has_pillar = any("ia-en-paraguay.markdown" in f for f in staged_all)
     has_llms = any("llms.txt" in f for f in staged_all)
-    has_glosario = any("_data/glosario.yml" in f for f in staged_all)
-    has_cronologia = any("_data/cronologia.yml" in f for f in staged_all)
-    has_regulacion = any("regulacion.markdown" in f for f in staged_all)
-    has_directorio = any("_data/directorio.yml" in f for f in staged_all)
-    has_casos = any("_data/casos.yml" in f for f in staged_all)
     has_entidades = any("entidades/" in f for f in staged_all)
 
     if new_posts and not has_pillar:
@@ -279,42 +274,14 @@ def check_ecosistema(new_posts: list[str], staged_all: list[str]) -> tuple[list[
             "Nuevo post detectado pero llms.txt no esta en el commit. "
             "Agregarlo: git add llms.txt"
         )
-    if new_posts and not has_glosario:
-        errors.append(
-            "Nuevo post detectado pero _data/glosario.yml no esta en el commit. "
-            "Declarar los terminos nuevos en el front matter del articulo (campo `glosario`) "
-            "y correr python scripts/build_glosario.py. Agregarlo: git add _data/glosario.yml"
-        )
-    if new_posts and not has_cronologia:
-        errors.append(
-            "Nuevo post detectado pero _data/cronologia.yml no esta en el commit. "
-            "Declarar los hitos en el front matter del articulo (campo `hitos`) y correr "
-            "python scripts/build_cronologia.py. Agregarlo: git add _data/cronologia.yml"
-        )
-    if new_posts and not has_regulacion:
-        errors.append(
-            "Nuevo post detectado pero regulacion.markdown no esta en el commit. "
-            "Todo articulo nuevo debe actualizar el mapa regulatorio. "
-            "Agregarlo: git add regulacion.markdown"
-        )
-    if new_posts and not has_directorio:
-        errors.append(
-            "Nuevo post detectado pero _data/directorio.yml no esta en el commit. "
-            "Declarar las entidades nuevas en el front matter del articulo (campo `directorio`) "
-            "y correr python scripts/build_directorio.py. Agregarlo: git add _data/directorio.yml"
-        )
-    if new_posts and not has_casos:
-        errors.append(
-            "Nuevo post detectado pero _data/casos.yml no esta en el commit. "
-            "Declarar los casos en el front matter del articulo (campo `casos`) y correr "
-            "python scripts/build_casos.py. Agregarlo: git add _data/casos.yml"
-        )
     if new_posts and not has_entidades:
         errors.append(
             "Nuevo post detectado pero entidades/ no esta en el commit. "
-            "Ejecuta python scripts/build_entities.py y hace git add entidades/. "
-            "Agregarlo: python scripts/build_entities.py && git add entidades/"
+            "Ejecuta python scripts/build_entities.py && git add entidades/"
         )
+    # Superficies derivadas (_data/cronologia|glosario|casos|directorio.yml) y
+    # curadas de bajo churn (regulacion, radar): NO se exigen por articulo.
+    # Se actualizan solas si el articulo declara `hitos`/`glosario`/`casos`/`directorio`.
 
     # Check if new article topic is still in Proximamente on pillar page
     for post_file in new_posts:

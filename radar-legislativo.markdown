@@ -146,7 +146,7 @@ last_modified_at: 2026-09-03
 </div>
 
 <section class="radar-group" data-estado="vigente">
-  <h3 class="radar-group-title"><span class="radar-badge badge-vigente">Vigente</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "vigente" | size }} normas</span></h3>
+  <h2 class="radar-group-title"><span class="radar-badge badge-vigente">Vigente</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "vigente" | size }} normas</span></h2>
   <ul class="radar-list">
     {% for ley in site.data.leyes %}{% if ley.estado == "vigente" %}
     <li class="radar-item">
@@ -158,7 +158,7 @@ last_modified_at: 2026-09-03
 </section>
 
 <section class="radar-group" data-estado="proyecto">
-  <h3 class="radar-group-title"><span class="radar-badge badge-proyecto">Proyecto de ley</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "proyecto" | size }} proyectos</span></h3>
+  <h2 class="radar-group-title"><span class="radar-badge badge-proyecto">Proyecto de ley</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "proyecto" | size }} proyectos</span></h2>
   <ul class="radar-list">
     {% for ley in site.data.leyes %}{% if ley.estado == "proyecto" %}
     <li class="radar-item">
@@ -170,7 +170,7 @@ last_modified_at: 2026-09-03
 </section>
 
 <section class="radar-group" data-estado="en-tramite">
-  <h3 class="radar-group-title"><span class="radar-badge badge-en-tramite">En trámite</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "en-tramite" | size }} procesos</span></h3>
+  <h2 class="radar-group-title"><span class="radar-badge badge-en-tramite">En trámite</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "en-tramite" | size }} procesos</span></h2>
   <ul class="radar-list">
     {% for ley in site.data.leyes %}{% if ley.estado == "en-tramite" %}
     <li class="radar-item">
@@ -182,7 +182,7 @@ last_modified_at: 2026-09-03
 </section>
 
 <section class="radar-group" data-estado="pendiente">
-  <h3 class="radar-group-title"><span class="radar-badge badge-pendiente">Pendiente (sin norma)</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "pendiente" | size }} vacíos</span></h3>
+  <h2 class="radar-group-title"><span class="radar-badge badge-pendiente">Pendiente (sin norma)</span> <span class="radar-count">{{ site.data.leyes | where: "estado", "pendiente" | size }} vacíos</span></h2>
   <ul class="radar-list">
     {% for ley in site.data.leyes %}{% if ley.estado == "pendiente" %}
     <li class="radar-item">

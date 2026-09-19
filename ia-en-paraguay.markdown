@@ -212,7 +212,7 @@ El observatorio se actualiza con cada investigación nueva. Esta guía refleja e
   "name": "Observatorio de IA en Paraguay",
   "description": "Guía completa de inteligencia artificial en Paraguay. {{ n_articulos }} articulos organizados en 5 pilares: infraestructura, geopolítica, sociedad, ecosistema y futuro.",
   "url": "https://muchotexto.net/ia-en-paraguay/",
-  "about": { "@id": "https://www.wikidata.org/wiki/Q733" },
+  "about": { "@type": "Thing", "name": "Paraguay", "sameAs": "https://www.wikidata.org/wiki/Q733" },
   "publisher": { "@id": "https://muchotexto.net/#org" }
 }
 </script>

@@ -10,6 +10,8 @@ El observatorio de muchotexto.net ha acumulado información verificada sobre las
 
 Cada ficha reúne artículos, leyes, datos cronológicos y fuentes extraídos exclusivamente del contenido ya publicado y verificado del observatorio. No se genera información nueva: se estructura la que ya existe.
 
+## Todas las entidades
+
 <div class="entity-grid">
 {% assign entities = site.data.entities | sort: "name" %}
 {% for entity in entities %}
