@@ -60,6 +60,34 @@ El agente de verificación hará lo siguiente automáticamente:
 ### Regla de escape
 Si un dato es inverificable pero viene de una fuente primaria citada en el artículo y esa fuente es confiable (ABC Color, ANDE, DNCP, IPS, MITIC, BACN, etc.), se puede mantener con la atribución explícita.
 
+## Auditor de consistencia (fuente única de verdad)
+
+Principio: **un dato canónico = una única fuente de verdad**. Todo lo que sea lista, conteo o relación se deriva de su fuente; las superficies no guardan copias literales.
+
+Verificar localmente antes de commitear un cambio que toque el observatorio:
+
+```bash
+python scripts/audit_consistency.py          # informe legible; exit 1 si hay hallazgos
+python scripts/audit_consistency.py --json   # salida para CI
+```
+
+**Mapa de fuentes (quién deriva de quién):**
+
+| Dato canónico | Fuente única | Consumidores que DEBEN usar la expresión dinámica |
+|---|---|---|
+| Entidades / nodos | `_data/entities.yml` | `_layouts/home.html`, `_includes/grafo-observatorio.html`, `ia-en-paraguay.markdown`, `llms.txt` |
+| Normas / leyes | `_data/leyes.yml` | `radar-legislativo.markdown` |
+| Fuentes de noticias | `_data/fuentes.yml` | `_layouts/home.html`, `about.markdown`, `como-trabajamos.markdown`, `llms.txt` |
+| Indicadores | `_data/datos_publicos.json` | `_includes/datos-verificados.html`, `llms.txt` |
+| Artículos long-form | `_posts/` (categoría `articulos`) | `ia-en-paraguay.markdown` |
+| Entidades ↔ grafo | `build_entities.py` | `grafo.json` (nodos == entidades) |
+
+**Invariantes que verifica el auditor:** (INV-1) cada consumidor usa su expresión dinámica; (INV-2) `entities.yml` == nodos de `grafo.json`; (INV-3) la capa de datos tiene indicadores; (INV-4) `pulso_diario.py` lee `_data/fuentes.yml`; (INV-5) conteo de análisis; (INV-6) los documentos internos están en el `exclude:` de `_config.yml`; (INV-7) todo `post_url` resuelve; (INV-8) la pilar enlaza todos los análisis.
+
+**Regla:** se deriva lo que es lista, conteo o relación; se cura lo que es juicio, redacción o interpretación — pero en una sola fuente. Al agregar una superficie nueva con un conteo derivable, declararla en `CANON` dentro del auditor.
+
+**Estado:** read-only y advisory (no bloquea el CI todavía). Pasos siguientes: front matter estructurado en artículos y, recién después, promover el auditor a bloqueante en el workflow.
+
 ## Capa de datos local (muchotexto.net ↔ datos-publicos)
 
 El repo hermano `miravosqueinteresante/datos-publicos` (dominio `datospublicos.muchotexto.net`) es la **infraestructura de datos verificables** del ecosistema: extrae indicadores de ANDE (75), Itaipú/ONS (135) y Yacyretá/EBY (14) con trazabilidad completa. `scripts/sync_datos.py` los descarga en cada build y escribe `_data/datos_publicos.json` (con fallback a snapshot commiteado: si la red falla, el build no se rompe).
