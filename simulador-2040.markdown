@@ -163,8 +163,12 @@ last_modified_at: 2026-08-07
   height: 4px;
   border-radius: 2px;
   background: var(--sim-border);
-  outline: none;
   cursor: pointer;
+}
+
+.sim-2040 input[type=range]:focus-visible {
+  outline: 2px solid var(--link-color);
+  outline-offset: 3px;
 }
 
 .sim-2040 input[type=range]::-webkit-slider-thumb {

@@ -181,7 +181,11 @@ last_modified_at: 2026-09-18
 .grafo-label:hover,
 .grafo-label:focus {
   color: var(--oc-white);
-  outline: none;
+}
+
+.grafo-label:focus-visible {
+  outline: 2px solid var(--link-color);
+  outline-offset: 2px;
 }
 
 .grafo-label.is-active {

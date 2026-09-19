@@ -167,8 +167,12 @@ last_modified_at: 2026-08-08
   height: 4px;
   border-radius: 2px;
   background: var(--calc-border);
-  outline: none;
   cursor: pointer;
+}
+
+.calc-energetica input[type=range]:focus-visible {
+  outline: 2px solid var(--link-color);
+  outline-offset: 3px;
 }
 
 .calc-energetica input[type=range]::-webkit-slider-thumb {
