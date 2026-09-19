@@ -1,0 +1,155 @@
+# Casos de uso — seed curado.
+# Generado por _planning/migrate_casos.py (one-shot).
+# build_casos.py fusiona este seed con los `casos` del front matter de los articulos.
+
+- tema: "Agro"
+  casos:
+    - titulo: "Tokenización del agro"
+      texto: "La Ley 7572/2025 reconoce instrumentos financieros en blockchain. Paraguay ya tiene el marco legal para tokenizar soja, ganado y commodities. Empresas como Agrotoken (Argentina) tokenizaron 230.000+ toneladas por $581M."
+      url: "/articulos/2026/05/18/tokenizacion-del-agro-paraguay/"
+    - titulo: "Agricultura de precisión"
+      texto: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil. El Ministerio de Agricultura creó una comisión técnica de riesgo climático en julio 2026."
+      url: "/articulos/2026/07/13/agro-40-paraguay-ia/"
+
+- tema: "Energía"
+  casos:
+    - titulo: "Data centers como nuevo sector exportador"
+      texto: "Paraguay tiene la electricidad industrial más barata de Sudamérica (0.03-0.05 USD/kWh). Eso atrae data centers de IA que ven al país como alternativa a Irlanda, Singapur y Virginia."
+      url: "/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/"
+    - titulo: "Yguazú Digital"
+      texto: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+      url: "/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/"
+    - titulo: "Apertura del sector eléctrico"
+      texto: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. [Leer más sobre inversión tech](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)."
+      url: "/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/"
+    - titulo: "HIVE Digital: minería de Bitcoin y computación de IA"
+      texto: "HIVE opera 300 MW de minería Bitcoin en Paraguay y lanzó BUZZ AI Cloud, el primer cluster de GPU para IA en el país. Columbia University validó el entrenamiento intercontinental de modelos de lenguaje desde Nueva York hacia Asunción. Investigadores demostraron que GPUs A40 en Paraguay igualan el rendimiento de H100s en cargas específicas."
+      url: "/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/"
+    - titulo: "Hidrógeno verde y fertilizantes"
+      texto: "Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia Nacional 2025 pivotea a fertilizantes para Brasil."
+      url: "/articulos/2026/07/27/hidrogeno-verde-paraguay/"
+    - titulo: "Criptominería"
+      texto: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
+      url: "/articulos/2026/07/07/criptomineria-paraguay-energia-barata/"
+    - titulo: "Yguazú Digital: gobernanza binacional para IA"
+      texto: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El MoU es no vinculante y el financiamiento para las fases II-III depende de inversores privados aún no asegurados."
+      url: "/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/"
+    - titulo: "Paradoja climatica paraguaya: energia limpia, bosques talados"
+      texto: "Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano. Emisor neto."
+      url: "/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/"
+    - titulo: "Impacto local de un data center en una ciudad paraguaya"
+      texto: "HIVE Digital en Yguazú y Valenzuela: 300 MW, USD 56M de inversión, 60-150 empleos permanentes. La construcción empleó 800-1.500 trabajadores temporales. La infraestructura eléctrica es privada y no hay evidencia de beneficio directo a la red residencial."
+      url: "/articulos/2026/08/04/impacto-local-data-center-paraguay/"
+    - titulo: "Planificación energética institucional"
+      texto: "La Política Energética Nacional al 2050 (Decreto 2553/2024) define 95 objetivos y 385 metas, incluida la creación del Ministerio de Energía con plazo 2024 que sigue sin existir. El 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del Ministerio de Minas y Energía y de un ente regulador eléctrico. Paraguay planifica energía sin la institucionalidad para ejecutarla."
+      url: "/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/"
+    - titulo: "Diagnóstico de la tarifa eléctrica"
+      texto: "El estudio CEARE-UBA (con apoyo del BID, diciembre 2025) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2026 y 2030 (+39,4%). El costo medio de generación subió de 24 a ~28 US$/MWh tras los ajustes de Itaipú y Yacyretá. La tarifa técnica de 220 kV es ~44 US$/MWh."
+      url: "/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/"
+    - titulo: "Modernización institucional del sector eléctrico"
+      texto: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay, Brasil y Chile, pero omite tarifas, transición de personal y rol de Itaipú/Yacyretá."
+      url: "/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/"
+
+- tema: "Prospectiva"
+  casos:
+    - titulo: "Paraguay 2040: escenarios de desarrollo"
+      texto: "Tres escenarios de prospectiva basados en datos actuales. Escenario A: hub regional de computo (8.000 MW DC, PIB/capita >$20K). Escenario B: exportador de energia barata (statu quo). Escenario C: el superavit que se fue (sequia + aislamiento). Las decisiones de 2026-2035 definen cual se materializa."
+      url: "/articulos/2026/08/05/paraguay-2040-futuro-datos/"
+
+- tema: "Salud"
+  casos:
+    - titulo: "Telemedicina nacional"
+      texto: "Paraguay opera una red de telediagnóstico desde 2013 con más de un millón de estudios procesados. Cubre los 18 departamentos sanitarios. En julio 2026 se lanzó IPS Hospital Virtual con videoconsulta por WhatsApp."
+      url: "/articulos/2026/07/16/ia-salud-paraguay/"
+    - titulo: "Historia clínica electrónica"
+      texto: "La ley obtuvo media sanción en Diputados (abril 2025) y está bajo revisión del Senado. Uruguay ya tiene historia clínica universal desde 2015."
+
+- tema: "Gobierno"
+  casos:
+    - titulo: "Gobierno digital"
+      texto: "Paraguay tiene 480+ trámites online, 1.5M de identidades electrónicas, cédula y licencia de conducir digitales. Pero la arquitectura de datos sigue fragmentada y no existe interoperabilidad real entre instituciones."
+      url: "/articulos/2026/07/16/gobierno-digital-paraguay/"
+    - titulo: "Registro Único Nacional"
+      texto: "Lanzado en enero 2026. Reemplazó 150 años de registros catastrales en papel."
+      url: "/articulos/2026/05/18/tokenizacion-del-agro-paraguay/"
+    - titulo: "IA anticorrupción — el caso Brasil"
+      texto: "Brasil opera ALICE desde 2015: un algoritmo que lee pliegos de licitación en tiempo real y detecta anomalías. Detectó 7.500 irregularidades en 4 años. Paraguay digitalizó sus compras en la DNCP pero no las audita con IA."
+      url: "/articulos/2026/07/17/ia-corrupcion-paraguay/"
+    - titulo: "Agentes de IA y contenidos sintéticos"
+      texto: "Incidentes documentados de agentes de IA que actuaron sin supervisión (OpenAI-Hugging Face, Anthropic, AISI Reino Unido) y un contenido generado por IA que ya supera la mitad del contenido nuevo en línea. Paraguay no tiene ninguna ley vigente para regular agentes ni contenido sintético; al menos cuatro proyectos de ley en trámite, ninguno sancionado."
+      url: "/articulos/2026/09/03/contenido-basura-agentes-ia/"
+
+- tema: "Finanzas"
+  casos:
+    - titulo: "Ecosistema fintech"
+      texto: "Paraguay pasó de ~29 fintechs en 2020 a más de 100. La Ley 7503/2025 crea el Sistema Nacional de Pagos con interoperabilidad obligatoria. SPI/Sipap registró 28 millones de transacciones en junio 2025."
+      url: "/articulos/2026/07/10/fintech-paraguay-ecosistema/"
+    - titulo: "Blockchain financiero"
+      texto: "La Ley 7572/2025 reconoce instrumentos financieros tokenizados. Paraguay es uno de los pocos países de la región con marco legal explícito para tokenización."
+      url: "/articulos/2026/07/10/fintech-paraguay-ecosistema/"
+
+- tema: "Conectividad"
+  casos:
+    - titulo: "Starlink en Paraguay"
+      texto: "20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — primer país del mundo."
+      url: "/articulos/2026/07/15/starlink-paraguay-conectividad/"
+
+- tema: "Comercio electrónico y logística"
+  casos:
+    - titulo: "E-commerce en Paraguay"
+      texto: "Mercado de USD 700M-2.180M, crece 23-40% anual. 8 de cada 10 paraguayos compran online, 81% desde celular. Impulsado por pagos QR y billeteras móviles."
+      url: "/articulos/2026/07/24/ecommerce-logistica-paraguay/"
+    - titulo: "Logística de último kilómetro"
+      texto: "Sin direcciones estandarizadas. AEX cubre 120+ ciudades. El 77% del e-commerce es transfronterizo."
+      url: "/articulos/2026/07/24/ecommerce-logistica-paraguay/"
+    - titulo: "IA en logística"
+      texto: "Amazon: 200K+ robots. Mercado Libre: IA en demanda, rutas y fraude. Herramientas SaaS al alcance de operadores paraguayos."
+      url: "/articulos/2026/07/24/ecommerce-logistica-paraguay/"
+
+- tema: "Infraestructura inteligente"
+  casos:
+    - titulo: "Puente Bioceánico"
+      texto: "El MOPC presentó en julio 2026 un sistema de monitoreo inteligente con sensores sísmicos, acelerómetros y gemelos digitales. Es el proyecto de infraestructura inteligente técnicamente más avanzado del país."
+      url: "/articulos/2026/07/17/smart-cities-asuncion-paraguay/"
+
+- tema: "Manufactura electrónica"
+  casos:
+    - titulo: "Ensamblaje de memorias y SSDs"
+      texto: "ADATA, segundo fabricante mundial de módulos DRAM, evalúa una planta de ensamblaje en Minga Guazú. Combina los regímenes de maquila (Ley 7547/2025), ensamblaje (7546) e incentivos (7548), con regla de origen Mercosur. Un estudio de factibilidad depende de tarifa eléctrica y costos logísticos."
+      url: "/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/"
+
+- tema: "Ciberseguridad"
+  casos:
+    - titulo: "Respuesta a incidentes"
+      texto: "CERT-PY opera desde 2012. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizó 18 agencias estatales. Paraguay aprobó su primera Estrategia Nacional de Ciberseguridad en mayo 2025."
+      url: "/articulos/2026/07/17/ciberseguridad-paraguay/"
+
+- tema: "Periodismo"
+  casos:
+    - titulo: "IA en medios paraguayos"
+      texto: "Paraguay no usa IA para generar noticias ni tiene sistemas de fact-checking automatizado. Brasil prohibió los deepfakes en campañas electorales (2024). Argentina perdió 1.550 empleos periodísticos en un año."
+      url: "/articulos/2026/07/16/ia-periodismo-paraguay/"
+
+- tema: "Justicia"
+  casos:
+    - titulo: "Expediente Judicial Electrónico"
+      texto: "Paraguay digitalizó sus 18 circunscripciones judiciales desde 2016. El ~42% de los Juzgados de Paz opera con la plataforma. En diez años, ningún tribunal ha usado IA para tomar decisiones."
+      url: "/articulos/2026/07/21/ia-justicia-paraguay/"
+    - titulo: "IA judicial en América Latina"
+      texto: "Argentina (Prometea, 2017) automatiza dictámenes fiscales con 96% de acierto. Brasil (VICTOR, 2018) agrupa 70.000 recursos por año. Colombia (PretorIA) identifica patrones en tutelas constitucionales. Paraguay tiene los datos pero no los algoritmos."
+      url: "/articulos/2026/07/21/ia-justicia-paraguay/"
+
+- tema: "Lenguas indígenas e IA"
+  casos:
+    - titulo: "AIkuaa: guaraní en la IA"
+      texto: "El Surti crea el primer dataset comunitario de voz en guaraní con mingas y un modelo wav2vec2. API abierta de transcripción. Chatbot de WhatsApp. Contraste con maorí (Nueva Zelanda), catalán (ILENIA) y quechua (Google Translate)."
+      url: "/articulos/2026/07/29/guarani-ia/"
+
+- tema: "Educación y talento"
+  casos:
+    - titulo: "Formación tech"
+      texto: "Paraguay produce alrededor de 400 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en junio 2026."
+      url: "/articulos/2026/07/09/educacion-tech-paraguay-ia/"
+    - titulo: "Fuga de talento"
+      texto: "Paraguay no tiene programas de retorno ni red de diáspora tech. Las estimaciones de los data centers requieren 3.500-7.000 profesionales que el país no produce."
+      url: "/articulos/2026/07/10/talento-tech-paraguay-ia/"

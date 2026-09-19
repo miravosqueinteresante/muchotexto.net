@@ -108,12 +108,12 @@ obs_casos-de-uso:
   - label: "Diagnóstico de la tarifa eléctrica"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "El estudio CEARE-UBA (con apoyo del BID, diciembre 2025) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2026 y 2030 (+39,4%). El costo medio de generación subió de 24 a ~28 US$/MWh..."
-  - label: "Transparencia de los contratos GCIE"
-    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-    context: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW)..."
   - label: "Modernización institucional del sector eléctrico"
     url: /articulos/2026/08/19/modelo-institucional-psr-sector-electrico/
     context: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay,..."
+  - label: "Transparencia de los contratos GCIE"
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+    context: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW)..."
 ---
 
 9 articulos en el observatorio mencionan a ANDE.

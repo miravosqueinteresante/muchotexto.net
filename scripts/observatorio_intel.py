@@ -269,6 +269,18 @@ def section4_observatory_density():
             fm = parse_frontmatter(open(fpath, encoding="utf-8").read())
             results.append((name, count, fm.get("last_modified_at", "sin dato")))
             continue
+        if filename == "casos-de-uso.markdown":
+            # Derivado de _data/casos.yml (build_casos.py)
+            count = 0
+            casos_f = os.path.join(REPO_DIR, "_data", "casos.yml")
+            if os.path.exists(casos_f):
+                import yaml
+                with open(casos_f, "r", encoding="utf-8") as cf:
+                    data = yaml.safe_load(cf) or []
+                count = sum(len(g.get("casos", [])) for g in data)
+            fm = parse_frontmatter(open(fpath, encoding="utf-8").read())
+            results.append((name, count, fm.get("last_modified_at", "sin dato")))
+            continue
         count, last_mod = _count_entries(fpath, is_glosario)
         results.append((name, count, last_mod))
     return results

@@ -254,7 +254,7 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
     has_cronologia = any("_data/cronologia.yml" in f for f in staged_all)
     has_regulacion = any("regulacion.markdown" in f for f in staged_all)
     has_directorio = any("directorio.markdown" in f for f in staged_all)
-    has_casos = any("casos-de-uso.markdown" in f for f in staged_all)
+    has_casos = any("_data/casos.yml" in f for f in staged_all)
     has_entidades = any("entidades/" in f for f in staged_all)
 
     if staged_posts and not has_pillar:
@@ -293,9 +293,9 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
         )
     if staged_posts and not has_casos:
         errors.append(
-            "Nuevo post detectado pero casos-de-uso.markdown no esta en el commit. "
-            "Todo articulo nuevo debe documentar al menos un caso de uso. "
-            "Agregarlo: git add casos-de-uso.markdown"
+            "Nuevo post detectado pero _data/casos.yml no esta en el commit. "
+            "Declarar los casos en el front matter del articulo (campo `casos`) y correr "
+            "python scripts/build_casos.py. Agregarlo: git add _data/casos.yml"
         )
     if staged_posts and not has_entidades:
         errors.append(

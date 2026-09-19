@@ -253,6 +253,20 @@ def load_observatory_entries():
                         entries["cronologia"].append({"label": label, "url": url, "context": desc})
             continue
 
+        elif page_name == "casos-de-uso":
+            # Derivado de _data/casos.yml (build_casos.py)
+            casos_f = os.path.join(REPO_DIR, "_data", "casos.yml")
+            if os.path.exists(casos_f):
+                with open(casos_f, "r", encoding="utf-8") as cf:
+                    data = yaml.safe_load(cf) or []
+                for grupo in data:
+                    for c in grupo.get("casos", []):
+                        titulo = str(c.get("titulo", "")).strip()
+                        desc = clean_context(str(c.get("texto", "")).strip())
+                        url = fix_url(c["url"]) if c.get("url") else "/casos-de-uso/"
+                        entries["casos-de-uso"].append({"label": titulo, "url": url, "context": desc})
+            continue
+
         else:
             for m in pat.finditer(body):
                 name = m.group(1).strip()

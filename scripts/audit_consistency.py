@@ -324,6 +324,33 @@ def check_glosario_terms():
     return findings
 
 
+def check_casos():
+    """Valida los `casos` declarados en el front matter de los articulos."""
+    try:
+        import yaml
+    except ImportError:
+        return None
+    findings = []
+    for f in glob.glob(os.path.join(REPO, "_posts", "*.md")):
+        m = re.match(r"^---\s*\n(.*?)\n---\s*\n", read(f), re.S)
+        if not m:
+            continue
+        try:
+            data = yaml.safe_load(m.group(1)) or {}
+        except Exception:
+            continue
+        casos = data.get("casos")
+        if not casos:
+            continue
+        for c in casos:
+            if not isinstance(c, dict):
+                findings.append((os.path.basename(f), "un caso no es un mapa texto/tema"))
+                continue
+            if not str(c.get("texto", "")).strip():
+                findings.append((os.path.basename(f), "caso sin 'texto'"))
+    return findings
+
+
 def main():
     if sys.platform == "win32":
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -421,6 +448,14 @@ def main():
     else:
         for base, msg in glos_findings:
             errors.append(f"[INV-12] {base}: termino de glosario invalido — {msg}")
+
+    # INV-13: casos declarados en articulos son validos
+    casos_findings = check_casos()
+    if casos_findings is None:
+        info.append("INV-13 omitido: PyYAML no disponible")
+    else:
+        for base, msg in casos_findings:
+            errors.append(f"[INV-13] {base}: caso invalido — {msg}")
 
     report = {"errors": errors, "info": info, "scanned_files": [os.path.relpath(t, REPO) for t in targets]}
 

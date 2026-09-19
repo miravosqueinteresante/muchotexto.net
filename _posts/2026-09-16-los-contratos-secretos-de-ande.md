@@ -17,6 +17,10 @@ glosario:
     definicion: "Conversión de electricidad en combustibles o insumos (hidrógeno verde, amoníaco) para industrias de alto consumo. Los decretos 5306 y 5307 (enero-abril de 2026) crearon un esquema tarifario paralelo al GCIE para industrias convergentes y Power to X, derogado el 9 de junio de 2026."
     link: "/articulos/2026/09/16/los-contratos-secretos-de-ande/"
     link_text: "Los contratos secretos de ANDE"
+casos:
+  - tema: "Energía"
+    titulo: "Transparencia de los contratos GCIE"
+    texto: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW) está publicado en el portal de transparencia como excepción a la regla."
 ---
 
 En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465 GWh, el 18,6% del consumo total nacional de 29.419 GWh. Eso equivale al 13,5% de los 7.000 MW de potencia que corresponden a Paraguay en [Itaipú](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/). Las tarifas del programa están reguladas por la Resolución ANDE 49238/2024 y son públicas. Pero las condiciones particulares de cada contrato no lo están: un acuerdo entre la ANDE y Atome Paraguay está disponible en el portal de transparencia, pero es la excepción, no la regla. Y un proyecto de Atome que busca una tarifa fija de 30 dólares por MWh a 10 años bajo el Decreto 5307 generó la crisis política más intensa del sector energético en años.
