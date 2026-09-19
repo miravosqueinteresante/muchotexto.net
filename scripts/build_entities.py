@@ -267,6 +267,20 @@ def load_observatory_entries():
                         entries["casos-de-uso"].append({"label": titulo, "url": url, "context": desc})
             continue
 
+        elif page_name == "directorio":
+            # Derivado de _data/directorio.yml (build_directorio.py)
+            dir_f = os.path.join(REPO_DIR, "_data", "directorio.yml")
+            if os.path.exists(dir_f):
+                with open(dir_f, "r", encoding="utf-8") as df:
+                    data = yaml.safe_load(df) or []
+                for grupo in data:
+                    for it in grupo.get("items", []):
+                        nombre = str(it.get("nombre", "")).strip()
+                        desc = clean_context(str(it.get("descripcion", "")).strip())
+                        url = fix_url(it["url"]) if it.get("url") else "/directorio/"
+                        entries["directorio"].append({"label": nombre, "url": url, "context": desc})
+            continue
+
         else:
             for m in pat.finditer(body):
                 name = m.group(1).strip()

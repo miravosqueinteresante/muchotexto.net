@@ -281,6 +281,18 @@ def section4_observatory_density():
             fm = parse_frontmatter(open(fpath, encoding="utf-8").read())
             results.append((name, count, fm.get("last_modified_at", "sin dato")))
             continue
+        if filename == "directorio.markdown":
+            # Derivado de _data/directorio.yml (build_directorio.py)
+            count = 0
+            dir_f = os.path.join(REPO_DIR, "_data", "directorio.yml")
+            if os.path.exists(dir_f):
+                import yaml
+                with open(dir_f, "r", encoding="utf-8") as df:
+                    data = yaml.safe_load(df) or []
+                count = sum(len(g.get("items", [])) for g in data)
+            fm = parse_frontmatter(open(fpath, encoding="utf-8").read())
+            results.append((name, count, fm.get("last_modified_at", "sin dato")))
+            continue
         count, last_mod = _count_entries(fpath, is_glosario)
         results.append((name, count, last_mod))
     return results

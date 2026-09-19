@@ -42,6 +42,10 @@ obs_cronologia:
   - label: "Noviembre 2027"
     url: /cronologia/
     context: "Entra en vigor la Ley 7593 de protección de datos. Yguazú Digital Fase I debe estar operativo."
+obs_directorio:
+  - label: "Yguazú Digital"
+    url: /directorio/
+    context: "Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. Leer análisis."
 obs_regulacion:
   - label: "Tratado de Itaipu (1973)"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/

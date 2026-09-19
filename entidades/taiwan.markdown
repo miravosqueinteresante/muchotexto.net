@@ -50,6 +50,9 @@ obs_directorio:
   - label: "ICDF Taiwan"
     url: https://www.icdf.org.tw/
     context: "Fondo de Cooperación y Desarrollo Internacional de Taiwán. Agencia ejecutora de Yguazú Digital. Financia proyectos de desarrollo en países aliados. Leer más."
+  - label: "Foro Tecnológico Bilateral Paraguay-Taiwán"
+    url: /directorio/
+    context: "4 ediciones realizadas. Delegados de TSMC, ICDF y empresas taiwanesas participan regularmente. Leer más."
   - label: "Universidad Politécnica Taiwán-Paraguay"
     url: https://www.uptp.edu.py/
     context: "Nuevo campus en Luque con apertura prevista para 2027."

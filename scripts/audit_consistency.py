@@ -351,6 +351,36 @@ def check_casos():
     return findings
 
 
+def check_directorio():
+    """Valida los `directorio` declarados en el front matter de los articulos."""
+    try:
+        import yaml
+    except ImportError:
+        return None
+    findings = []
+    for f in glob.glob(os.path.join(REPO, "_posts", "*.md")):
+        m = re.match(r"^---\s*\n(.*?)\n---\s*\n", read(f), re.S)
+        if not m:
+            continue
+        try:
+            data = yaml.safe_load(m.group(1)) or {}
+        except Exception:
+            continue
+        entries = data.get("directorio")
+        if not entries:
+            continue
+        for e in entries:
+            if not isinstance(e, dict):
+                findings.append((os.path.basename(f), "una entrada no es un mapa nombre/descripcion"))
+                continue
+            nombre = str(e.get("nombre", "")).strip()
+            if not nombre:
+                findings.append((os.path.basename(f), "entrada sin 'nombre'"))
+            if not str(e.get("descripcion", "")).strip():
+                findings.append((os.path.basename(f), f"entrada {nombre!r} sin 'descripcion'"))
+    return findings
+
+
 def main():
     if sys.platform == "win32":
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -456,6 +486,14 @@ def main():
     else:
         for base, msg in casos_findings:
             errors.append(f"[INV-13] {base}: caso invalido — {msg}")
+
+    # INV-14: entradas de directorio declaradas en articulos son validas
+    dir_findings = check_directorio()
+    if dir_findings is None:
+        info.append("INV-14 omitido: PyYAML no disponible")
+    else:
+        for base, msg in dir_findings:
+            errors.append(f"[INV-14] {base}: entrada de directorio invalida — {msg}")
 
     report = {"errors": errors, "info": info, "scanned_files": [os.path.relpath(t, REPO) for t in targets]}
 

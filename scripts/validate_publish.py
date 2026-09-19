@@ -253,7 +253,7 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
     has_glosario = any("_data/glosario.yml" in f for f in staged_all)
     has_cronologia = any("_data/cronologia.yml" in f for f in staged_all)
     has_regulacion = any("regulacion.markdown" in f for f in staged_all)
-    has_directorio = any("directorio.markdown" in f for f in staged_all)
+    has_directorio = any("_data/directorio.yml" in f for f in staged_all)
     has_casos = any("_data/casos.yml" in f for f in staged_all)
     has_entidades = any("entidades/" in f for f in staged_all)
 
@@ -287,9 +287,9 @@ def check_ecosistema(staged_posts: list[str], staged_all: list[str]) -> tuple[li
         )
     if staged_posts and not has_directorio:
         errors.append(
-            "Nuevo post detectado pero directorio.markdown no esta en el commit. "
-            "Todo articulo nuevo debe actualizar el directorio con nuevas entidades. "
-            "Agregarlo: git add directorio.markdown"
+            "Nuevo post detectado pero _data/directorio.yml no esta en el commit. "
+            "Declarar las entidades nuevas en el front matter del articulo (campo `directorio`) "
+            "y correr python scripts/build_directorio.py. Agregarlo: git add _data/directorio.yml"
         )
     if staged_posts and not has_casos:
         errors.append(

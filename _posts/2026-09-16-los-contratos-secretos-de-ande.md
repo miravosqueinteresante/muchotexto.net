@@ -21,6 +21,11 @@ casos:
   - tema: "Energía"
     titulo: "Transparencia de los contratos GCIE"
     texto: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW) está publicado en el portal de transparencia como excepción a la regla."
+directorio:
+  - seccion: "Gobernanza energetica"
+    nombre: "Programa GCIE de la ANDE"
+    descripcion: "Grandes Consumidores de Energía Intensiva: 943,8 MW reservados para 41 empresas (criptomineras y data centers), tarifa Resolución 49238/2024, 13,5% de la potencia de Itaipú. La transparencia de los contratos individuales está en discusión."
+    url: "/articulos/2026/09/16/los-contratos-secretos-de-ande/"
 ---
 
 En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465 GWh, el 18,6% del consumo total nacional de 29.419 GWh. Eso equivale al 13,5% de los 7.000 MW de potencia que corresponden a Paraguay en [Itaipú](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/). Las tarifas del programa están reguladas por la Resolución ANDE 49238/2024 y son públicas. Pero las condiciones particulares de cada contrato no lo están: un acuerdo entre la ANDE y Atome Paraguay está disponible en el portal de transparencia, pero es la excepción, no la regla. Y un proyecto de Atome que busca una tarifa fija de 30 dólares por MWh a 10 años bajo el Decreto 5307 generó la crisis política más intensa del sector energético en años.
