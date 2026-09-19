@@ -4,7 +4,8 @@ title: "Peter Thiel"
 description: >
   Perfil de Peter Thiel en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Peter Thiel.
 permalink: /entidades/peter-thiel/
-last_modified_at: 2026-09-18
+last_modified_at: 2026-09-19
+entity_id: peter-thiel
 entity_name: Peter Thiel
 entity_name_full: Peter Thiel
 entity_description: >

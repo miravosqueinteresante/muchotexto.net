@@ -378,6 +378,7 @@ def generate_entity_page(entity, related_articles, obs_matches):
                  f'leyes y fuentes verificables sobre {name_full}.')
     lines.append(f"permalink: /entidades/{slug}/")
     lines.append(f"last_modified_at: {today}")
+    lines.append(f"entity_id: {slug}")
     lines.append(f"entity_name: {name}")
     lines.append(f"entity_name_full: {name_full}")
     lines.append("entity_description: >")

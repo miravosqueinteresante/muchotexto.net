@@ -102,7 +102,6 @@ Las siguientes secciones requieren investigación adicional y se incorporarán e
   "@id": "https://muchotexto.net/directorio/#directory",
   "name": "Directorio de IA en Paraguay",
   "description": "Startups, aceleradoras, comunidades y espacios de inteligencia artificial y tecnología en Paraguay.",
-  "numberOfItems": 5,
   "itemListElement": [
     {
       "@type": "ListItem",

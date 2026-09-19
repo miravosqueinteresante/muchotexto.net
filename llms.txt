@@ -1,3 +1,6 @@
+---
+layout: null
+---
 # muchotexto.net — Observatorio de IA en Paraguay
 > Análisis profundo de inteligencia artificial desde Paraguay: infraestructura, geopolítica, regulación y su impacto social. Por [César Sánchez](https://muchotexto.net/about/).
 sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/cesar-sanchez-melgarejo/)
@@ -14,7 +17,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 
 ## Contenido recurrente
 
-- [Pulso Paraguay](https://muchotexto.net/categories/#pulso-paraguay): Reporte diario con las noticias más relevantes de Paraguay, generado por IA a partir de 15 fuentes periodísticas verificadas.
+- [Pulso Paraguay](https://muchotexto.net/categories/#pulso-paraguay): Reporte diario con las noticias más relevantes de Paraguay, generado por IA a partir de {{ site.data.fuentes | size }} fuentes periodísticas verificadas.
 - [Editorial diaria](https://muchotexto.net/categories/#editorial): Artículo de opinión que analiza los acontecimientos del día con profundidad cultural, filosófica y política, basado en el Pulso Paraguay del mismo día.
 
 ## Cluster IA en Paraguay — 5 pilares temáticos
@@ -85,16 +88,16 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Casos de uso](https://muchotexto.net/casos-de-uso/): IA aplicada en sectores productivos de Paraguay
 - [Glosario de IA en Paraguay](https://muchotexto.net/glosario/): Definiciones de términos clave explicados en contexto paraguayo
 - [Radar legislativo](https://muchotexto.net/radar-legislativo/): Estado de leyes, decretos y proyectos de IA y energía en Paraguay
-- [Grafo del Observatorio](https://muchotexto.net/grafo/): Mapa de relaciones entre las 19 entidades del observatorio
+- [Grafo del Observatorio](https://muchotexto.net/grafo/): Mapa de relaciones entre las {{ site.data.entities | size }} entidades del observatorio
 - [Dashboard energético](https://muchotexto.net/dashboard-energetico/): Potencia reservada, tarifa GCIE y consumo eléctrico de data centers en Paraguay
 - [Claims verificados](https://muchotexto.net/claims-verificados/): Registro público de verificación de datos del observatorio
 
 ## Datos verificables (MuchoTexto Data)
 
 - [MuchoTexto Data](https://datospublicos.muchotexto.net/): Infraestructura de datos verificables sobre Paraguay — capa de datos debajo del contenido editorial
-- [Energía — ANDE](https://datospublicos.muchotexto.net/energia.html): 75 indicadores (consumo, demanda, pérdidas, clientes, tarifas)
-- [Itaipú Binacional](https://datospublicos.muchotexto.net/itaipu.html): 135 indicadores (2000–2026), generación por sector y suministro PY/BR
-- [Yacyretá](https://datospublicos.muchotexto.net/yacyreta.html): Generación binacional Paraguay-Argentina (EBY)
+- [Energía — ANDE](https://datospublicos.muchotexto.net/energia.html): {{ site.data.datos_publicos.indicadores | where: "entidad_id", "ande" | size }} indicadores (consumo, demanda, pérdidas, clientes, tarifas)
+- [Itaipú Binacional](https://datospublicos.muchotexto.net/itaipu.html): {{ site.data.datos_publicos.indicadores | where: "entidad_id", "itaipu" | size }} indicadores (2000–2026), generación por sector y suministro PY/BR
+- [Yacyretá](https://datospublicos.muchotexto.net/yacyreta.html): {{ site.data.datos_publicos.indicadores | where: "entidad_id", "yacyreta" | size }} indicadores, generación binacional Paraguay-Argentina (EBY)
 - [Grafo de datos](https://datospublicos.muchotexto.net/grafo.html): entidades → indicadores → artículos
 
 ## Información técnica

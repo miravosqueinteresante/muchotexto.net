@@ -107,7 +107,7 @@ layout: default
     <a class="tool-card" href="{{ '/grafo/' | relative_url }}">
       <span class="tool-card-icon">&#9883;</span>
       <span class="tool-card-title">Grafo del Observatorio</span>
-      <span class="tool-card-desc">Mapa de relaciones entre las 19 entidades del observatorio. Quién comparte artículos, leyes y normativas.</span>
+      <span class="tool-card-desc">Mapa de relaciones entre las {{ site.data.entities | size }} entidades del observatorio. Quién comparte artículos, leyes y normativas.</span>
       <span class="tool-card-cta">Explorar grafo &rarr;</span>
     </a>
     <a class="tool-card" href="{{ '/dashboard-energetico/' | relative_url }}">
@@ -175,7 +175,7 @@ layout: default
         <time datetime="{{ ultimo_pulso.date | date_to_xmlschema }}">{{ ultimo_pulso.date | date: "%-d %b %Y" }}</time>
       </div>
       <h3 class="daily-card-title">{{ ultimo_pulso.title }}</h3>
-      <p class="daily-card-desc">{% if ultimo_pulso.description %}{{ ultimo_pulso.description | strip_html }}{% else %}Reporte diario de noticias desde 15 fuentes periodísticas de Paraguay.{% endif %}</p>
+      <p class="daily-card-desc">{% if ultimo_pulso.description %}{{ ultimo_pulso.description | strip_html }}{% else %}Reporte diario de noticias desde {{ site.data.fuentes | size }} fuentes periodísticas de Paraguay.{% endif %}</p>
     </a>
     {% endif %}
 

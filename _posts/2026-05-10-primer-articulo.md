@@ -72,7 +72,7 @@ Para seguir explorando estos temas, visitá la [guía completa de inteligencia a
       "name": "Que es muchotexto.net?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "muchotexto.net es un espacio de lectura profunda sobre inteligencia artificial, Tecnología y sociedad desde Paraguay. Publica articulos de 1.500 a 2.500 palabras con fuentes verificables, una editorial diaria de opinion y el Pulso Paraguay, un reporte automatizado que sintetiza las Noticias del pais desde 15 fuentes periodisticas."
+        "text": "muchotexto.net es un espacio de lectura profunda sobre inteligencia artificial, Tecnología y sociedad desde Paraguay. Publica articulos de 1.500 a 2.500 palabras con fuentes verificables, una editorial diaria de opinion y el Pulso Paraguay, un reporte automatizado que sintetiza las Noticias del pais desde {{ site.data.fuentes | size }} fuentes periodisticas."
       }
     },
     {

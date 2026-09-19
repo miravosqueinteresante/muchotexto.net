@@ -60,9 +60,10 @@ layout: default
   {% endif %}
 
   {% if page.entity_datos_url %}
+  {% assign n_datos = site.data.datos_publicos.indicadores | where: "entidad_id", page.entity_id | size %}
   <section class="entity-section">
     <h2>Datos verificados</h2>
-    <p class="entity-section-more">La serie histórica de esta entidad se publica con fuente, método de extracción y trazabilidad en MuchoTexto Data.</p>
+    <p class="entity-section-more">La serie histórica de esta entidad se publica con fuente, método de extracción y trazabilidad en MuchoTexto Data{% if n_datos > 0 %} ({{ n_datos }} indicadores){% endif %}.</p>
     <p class="entity-section-more"><a href="{{ page.entity_datos_url }}" rel="noopener noreferrer" target="_blank">{% if page.entity_datos_desc %}{{ page.entity_datos_desc }}{% else %}Explorar los datos &rarr;{% endif %}</a></p>
   </section>
   {% endif %}

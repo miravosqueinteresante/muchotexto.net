@@ -1,0 +1,16 @@
+# Fuentes RSS del Pulso Tech Paraguay — ÚNICA FUENTE DE VERDAD.
+# Consumidores: scripts/pulso_diario.py (generación) y las páginas del sitio
+# (site.data.fuentes | size). No duplicar esta lista en ningún otro archivo.
+# HOY retirado 2026-08-25: RSS estancado desde diciembre de 2023.
+- name: "ABC Tecnologia"
+  url: "https://www.abc.com.py/arc/outboundfeeds/rss/tecnologia/"
+- name: "ABC Ciencia"
+  url: "https://www.abc.com.py/arc/outboundfeeds/rss/ciencia/"
+- name: "ABC Nacionales"
+  url: "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"
+- name: "La Nacion"
+  url: "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"
+- name: "NPY"
+  url: "https://www.npy.com.py/index.rss"
+- name: "La Tribuna"
+  url: "https://www.latribuna.com.py/arc/outboundfeeds/rss/"

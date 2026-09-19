@@ -16,7 +16,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable. El cambio estructural más importante de la última década.
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** — El cofundador de Palantir y Founders Fund se reunió con el presidente en Mburuvicha Róga. Lo que significa para la vigilancia, los datos y la soberanía.
 
-**Biblioteca de análisis** — {{ site.posts | where_exp: "p","p.categories contains 'articulos'" | size | minus: 2 }} artículos organizados por sector:
+**Biblioteca de análisis** — {% assign n_articulos = site.posts | where_exp: "p", "p.categories contains 'articulos'" | size | minus: 2 %}{{ n_articulos }} artículos organizados por sector:
 
 - [Infraestructura y energía](#infraestructura-y-energia) — data centers, electricidad, criptominería
 - [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) — Taiwán, China, leyes, ciberseguridad
@@ -37,7 +37,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Simulador Paraguay 2040](/simulador-2040/) — Cinco palancas, dos shocks
 - [Calculadora de costo energético](/calculadora-energética/) — Comparación internacional de tarifas
 - [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos
-- [Grafo del Observatorio](/grafo/) — Relaciones entre las 19 entidades clave
+- [Grafo del Observatorio](/grafo/) — Relaciones entre las {{ site.data.entities | size }} entidades clave
 - [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo
 - [Claims verificados](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
 - [Datos verificados — MuchoTexto Data](https://datospublicos.muchotexto.net/) — Infraestructura de datos verificables sobre Paraguay: ANDE, Itaipú y Yacyretá con fuente y trazabilidad completa
@@ -210,7 +210,7 @@ El observatorio se actualiza con cada investigación nueva. Esta guía refleja e
   "@type": "CollectionPage",
   "@id": "https://muchotexto.net/ia-en-paraguay/#collection",
   "name": "Observatorio de IA en Paraguay",
-  "description": "Guía completa de inteligencia artificial en Paraguay. 50 articulos organizados en 5 pilares: infraestructura, geopolítica, sociedad, ecosistema y futuro.",
+  "description": "Guía completa de inteligencia artificial en Paraguay. {{ n_articulos }} articulos organizados en 5 pilares: infraestructura, geopolítica, sociedad, ecosistema y futuro.",
   "url": "https://muchotexto.net/ia-en-paraguay/",
   "about": { "@id": "https://www.wikidata.org/wiki/Q733" },
   "publisher": { "@id": "https://muchotexto.net/#org" }

@@ -63,15 +63,40 @@ def slugify(text: str, max_len: int = 50) -> str:
             text = text[:max_len].rstrip("-")
     return text
 
-RSS_FEEDS = [
+# ─── Fuentes RSS ──────────────────────────────────────────────────────────
+# Única fuente de verdad: _data/fuentes.yml (compartida con el sitio Jekyll,
+# donde se lee como site.data.fuentes). El fallback inline garantiza que el
+# Pulso nunca se rompa si el YAML falta o no es parseable.
+_RSS_FEEDS_FALLBACK = [
     ("ABC Tecnologia", "https://www.abc.com.py/arc/outboundfeeds/rss/tecnologia/"),
     ("ABC Ciencia", "https://www.abc.com.py/arc/outboundfeeds/rss/ciencia/"),
     ("ABC Nacionales", "https://www.abc.com.py/arc/outboundfeeds/rss/nacionales/"),
     ("La Nacion", "https://www.lanacion.com.py/arc/outboundfeeds/rss/?outputType=xml"),
     ("NPY", "https://www.npy.com.py/index.rss"),
-    # HOY removed 2026-08-25: RSS stale since Dec 2023 (hoy.com.py/feed/ and /rss/ both return 2023 articles)
     ("La Tribuna", "https://www.latribuna.com.py/arc/outboundfeeds/rss/"),
 ]
+
+
+def _load_rss_feeds():
+    path = os.path.join(REPO_DIR, "_data", "fuentes.yml")
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            raw = f.read()
+    except OSError:
+        return _RSS_FEEDS_FALLBACK
+    feeds = []
+    name = None
+    for line in raw.splitlines():
+        s = line.strip()
+        if s.startswith("- name:"):
+            name = s.split(":", 1)[1].strip().strip('"')
+        elif s.startswith("url:") and name:
+            feeds.append((name, s.split(":", 1)[1].strip().strip('"')))
+            name = None
+    return feeds or _RSS_FEEDS_FALLBACK
+
+
+RSS_FEEDS = _load_rss_feeds()
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"

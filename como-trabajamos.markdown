@@ -12,7 +12,7 @@ last_modified_at: 2026-09-18
 
 No producimos noticias de primera mano. Tomamos información ya publicada por medios paraguayos y la organizamos, sintetizamos e interpretamos.
 
-Nuestro sistema recolecta diariamente el contenido de **6 fuentes de noticias** vía RSS: ABC Tecnología, ABC Ciencia, ABC Nacionales, La Nación, NPY y La Tribuna. El Pulso Tech Paraguay aplica un filtro temático estricto: solo procesa noticias relacionadas con inteligencia artificial, infraestructura digital, energía para data centers, regulación tecnológica, startups, ciencia aplicada y economía digital. Esta selección deliberada responde al posicionamiento del sitio como observatorio de IA en Paraguay: cada pieza de contenido —desde el artículo de fondo hasta la nota diaria— refuerza la misma señal temática.
+Nuestro sistema recolecta diariamente el contenido de **{{ site.data.fuentes | size }} fuentes de noticias** vía RSS: ABC Tecnología, ABC Ciencia, ABC Nacionales, La Nación, NPY y La Tribuna. El Pulso Tech Paraguay aplica un filtro temático estricto: solo procesa noticias relacionadas con inteligencia artificial, infraestructura digital, energía para data centers, regulación tecnológica, startups, ciencia aplicada y economía digital. Esta selección deliberada responde al posicionamiento del sitio como observatorio de IA en Paraguay: cada pieza de contenido —desde el artículo de fondo hasta la nota diaria— refuerza la misma señal temática.
 
 La cobertura da prioridad a las noticias tech de Paraguay o con vínculo directo con el país; cuando hay menos de tres locales, se completa con noticias de IA, semiconductores, data centers y regulación digital globales relevantes para el sector. El mensaje "sin novedades" solo se usa en días sin ninguna noticia tech real, local o internacional; ante la duda, se genera el Pulso. Diario HOY fue retirado de las fuentes en agosto de 2026 porque su RSS permanecía estancado desde diciembre de 2023.
 
@@ -83,7 +83,7 @@ El editor humano —César Sánchez— tiene a su cargo:
 
 Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA actúa como asistente de investigación, no como autor:
 
-1. **Selección del tema**: verificamos contra nuestro calendario editorial de 43 temas que el tópico no esté duplicado y tenga ángulo original.
+1. **Selección del tema**: verificamos contra nuestro calendario editorial que el tópico no esté duplicado y tenga ángulo original.
 2. **Plan de investigación**: creamos un directorio `research_[tema]/` con un `research_plan.md` que define la pregunta principal, 4 o 5 subtemas específicos y las fuentes esperadas (institutos públicos, papers académicos, documentos oficiales, informes sectoriales).
 3. **Investigación paralela con agentes**: desplegamos de 4 a 5 agentes de IA independientes usando **OpenCode** con capacidad de búsqueda web. Cada agente investiga un subtema distinto en simultáneo, rastreando fuentes primarias verificables. Los resultados se escriben en archivos `findings_N.md` dentro del directorio de investigación.
 4. **Síntesis de hallazgos**: el editor lee y cruza todos los findings, identificando patrones, contradicciones y conexiones entre subtemas que los agentes no pudieron detectar por sí solos.
