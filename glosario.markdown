@@ -2,7 +2,7 @@
 layout: page
 title: "Glosario de IA en Paraguay"
 permalink: /glosario/
-description: "Glosario de terminos clave de inteligencia artificial en Paraguay explicados en contexto local. Actualizado al 18 de septiembre de 2026."
+description: "Glosario de terminos clave de inteligencia artificial en Paraguay explicados en contexto local."
 last_modified_at: 2026-09-18
 ---
 
