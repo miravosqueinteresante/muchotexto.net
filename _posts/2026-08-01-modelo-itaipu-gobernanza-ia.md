@@ -96,7 +96,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 8. [Wikipedia — Paraguay-Taiwán relations](https://en.wikipedia.org/wiki/Paraguay%E2%80%93Taiwan_relations)
 9. [UNESCO — Recommendation on the Ethics of AI (2021)](https://unesco.org/en/artificial-intelligence/recommendation-ethics)
 10. [European Union — AI Act (2024)](https://artificialintelligenceact.eu/)
-11. [Submarine cable consortia — Telegeography](https://www2.telegeography.com/submarine-cable-faqs)
+11. Submarine cable consortia — Telegeography
 12. [Stargate Project — OpenAI / SoftBank JV structure](https://www.reuters.com/technology/) (2025)
 13. [Taiwán Semiconductor Manufacturing Co — energy consumption data](https://www.tsmc.com/)
 

@@ -75,7 +75,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
 ## Fuentes
 
 - [TEDIC — "Todo lo que tenés que saber sobre la criptominería en Paraguay"](https://www.tedic.org/cripto_en_py/) (6 noviembre 2024)
-- [El País / El Surti — "La fiebre del bitcoin en Paraguay: ¿bendición o maldición?"](https://elpais.com/america-futura/2025-08-15/la-fiebre-del-bitcoin-en-paraguay-bendicion-o-maldicion.html) (15 agosto 2025)
+- El País / El Surti — "La fiebre del bitcoin en Paraguay: ¿bendición o maldición?" (15 agosto 2025)
 - [Hashrate Index — "The State of Bitcoin Mining in Paraguay 2026"](https://hashrateindex.com/blog/the-state-of-bitcoin-mining-in-paraguay-2026-2/) (mayo 2026)
 - [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
 - [InfoNegocios — "Minería de criptoactivos: más de US$ 1.100 millones en inversión"](https://infonegocios.com.py/plus/Mineria-de-criptoactivos-mas-de-us-1-100-millones-en-inversion-y-un-marco-regulatorio-que-se-fortalece) (21 julio 2025)

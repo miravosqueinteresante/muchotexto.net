@@ -67,7 +67,7 @@ Leé el análisis completo sobre geopolítica y regulación en la [guía de inte
 - [ISC2 — Cybersecurity Workforce Study 2025](https://www.isc2.org/research/workforce-study) — brecha de talento global
 - [El País — "Paraguay convoca al embajador de Brasil por un caso de espionaje"](https://elpais.com/america/2025-04-02/paraguay-convoca-al-embajador-de-brasil-en-asuncion-por-un-caso-de-espionaje.html) (abril 2025)
 - [Declaración conjunta EEUU-Paraguay — Operaciones cibernéticas chinas](https://www.state.gov/) (10 julio 2026)
-- [CSIS — "Costa Rica: The Canary in the Coal Mine of Ransomware"](https://www.csis.org/analysis/costa-rica-canary-coal-mine-ransomware) — emergencia nacional, costo estimado
+- CSIS — "Costa Rica: The Canary in the Coal Mine of Ransomware" — emergencia nacional, costo estimado
 
 <script type="application/ld+json">
 {

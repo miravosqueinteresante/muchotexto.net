@@ -84,7 +84,7 @@ Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guí
 - [Time — "Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour"](https://time.com/6247678/openai-chatgpt-kenya-workers/) (18 enero 2023)
 - [The Guardian — "'It's destroyed me completely': Kenyan moderators decry toll of training AI"](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai) (2 agosto 2023)
 - [The Verge — "The secret lives of Facebook moderators in America"](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) (25 febrero 2019)
-- [Fairwork Foundation — "Principles for Fair Platform Work"](https://fair.work/en/fw/principles/) (2023)
+- [Fairwork Foundation — "Principles for Fair Platform Work"](https://fairwork.oii.ox.ac.uk/en/fw/principles/) (2023)
 - [Rest of World — "The AI-powered World Cup runs on thousands of data workers"](https://restofworld.org/2026/fifa-world-cup-ai-data-workers/) (2026)
 
 <script type="application/ld+json">

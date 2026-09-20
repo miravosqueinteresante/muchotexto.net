@@ -97,7 +97,7 @@ Leé la guía completa de geopolítica tecnológica en la [guía de inteligencia
 - [Bloomberg — "Taiwán's Chipmaker Lobby Goes Global"](https://www.bloomberg.com/news/articles/2026-01-20/Taiwán-s-chipmaker-lobby-goes-global) (enero 2026)
 - [CSIS — "Taiwan's Semiconductor Dominance: Implications for Cross-Strait Relations"](https://www.csis.org/blogs/perspectives-innovation/taiwans-semiconductor-dominance-implications-cross-strait-relations) (marzo 2022)
 - [Foreign Policy — "Taiwan's Government Is Scared of Its Own Semiconductor Giant"](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) (3 noviembre 2025)
-- [White House — "Pax Silica: Building Trusted Technology Supply Chains"](https://www.whitehouse.gov/briefing-room/2025/09/15/pax-silica-trusted-technology-supply-chains/) (15 septiembre 2025)
+- White House — "Pax Silica: Building Trusted Technology Supply Chains" (15 septiembre 2025)
 
 <script type="application/ld+json">
 {

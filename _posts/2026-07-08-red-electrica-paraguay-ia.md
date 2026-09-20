@@ -46,7 +46,7 @@ La ANDE financia sus inversiones de capital con préstamos multilaterales: el BI
 
 ## Lo que otros países aprendieron: Irlanda, Virginia y el espejo incómodo
 
-Irlanda es la advertencia más clara. Los centros de datos llegaron a consumir el 20% de la electricidad del país en 2023 y cerca del 23% en 2025. En 2021, la Comisión de Regulación de Servicios Públicos (CRU) —el regulador irlandés— declaró una moratoria para nuevas conexiones de data centers en el área de Dublín. El sistema simplemente no podía absorber más carga sin inversiones masivas en transmisión que llevarían años. La moratoria se levantó en 2025 con una nueva política de conexión, pero el precedente quedó como referencia de lo que ocurre cuando la demanda industrial supera la capacidad de la red.<sup><a href="https://www.cso.ie/en/releasesandpublications/ep/p-dce/datacentresmeteredelectricityconsumption2024/">[3]</a><a href="https://www.cru.ie/what-we-do/comms-network/energy-consumer-data-centres-and-the-electricity-grid/">[4]</a></sup>
+Irlanda es la advertencia más clara. Los centros de datos llegaron a consumir el 20% de la electricidad del país en 2023 y cerca del 23% en 2025. En 2021, la Comisión de Regulación de Servicios Públicos (CRU) —el regulador irlandés— declaró una moratoria para nuevas conexiones de data centers en el área de Dublín. El sistema simplemente no podía absorber más carga sin inversiones masivas en transmisión que llevarían años. La moratoria se levantó en 2025 con una nueva política de conexión, pero el precedente quedó como referencia de lo que ocurre cuando la demanda industrial supera la capacidad de la red.<sup><a href="https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/">[3]</a><a href="https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/">[4]</a></sup>
 
 El norte de Virginia, el mercado de centros de datos más grande del mundo, muestra el otro extremo: Dominion Energy invirtió miles de millones durante décadas para construir la infraestructura que hoy alberga más de 200 data centers solo en el condado de Loudoun. Esa capacidad no se construyó en dos años. Se construyó durante veinte, con un marco regulatorio estable, tarifas predecibles y una empresa eléctrica con capacidad financiera real. Solo en 2024, los data centers del condado aportaron 733 millones de dólares en impuestos a la propiedad —el 38% del fondo general—, según el JLARC de Virginia.
 
@@ -68,16 +68,16 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [Última Hora — "Los 7 puntos clave del acuerdo de Itaipú 2024"](https://www.ultimahora.com/que-dice-el-nuevo-acuerdo-de-Itaipu-los-7-puntos-claves-que-pactaron-paraguay-y-brasil-en-2024) (2024)
 - [Wilson Center — "Brazil, Paraguay and the Future of Itaipú"](https://www.wilsoncenter.org/blog-post/brazil-paraguay-and-future-Itaipu)
 - [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
-- [ABC Color — "ANDE: tarifas y el dilema del sector privado"](https://www.abc.com.py/economia/2026/03/10/ande-tarifas-y-el-dilema-del-sector-privado/) (10 marzo 2026)
-- [El País — "La fiebre del bitcoin en Paraguay: ¿bendición o maldición?"](https://elpais.com/america-futura/2025-08-15/la-fiebre-del-bitcoin-en-paraguay-bendicion-o-maldicion.html) (15 agosto 2025)
+- ABC Color — "ANDE: tarifas y el dilema del sector privado" (10 marzo 2026)
+- El País — "La fiebre del bitcoin en Paraguay: ¿bendición o maldición?" (15 agosto 2025)
 - [La Nación — "¿Paraguay está a tiempo de evitar un déficit energético?"](https://www.lanacion.com.py/gran-diario-domingo/2025/10/19/paraguay-esta-a-tiempo-de-evitar-un-deficit-energetico/) (19 octubre 2025)
 - [Itaipú Binacional — "Itaipú suministró 14.603 GWh de energía eléctrica a la ANDE en el primer semestre"](https://www.itaipu.gov.py/noticias/energia/itaipu-suministro-14-603-gwh-de-energia-electrica-a-la-ande-durante-el-primer-semestre-del-2026) (julio 2026)
-- [EirGrid — "Data Centre Connection Offer Process"](https://www.eirgrid.ie/grid/DataCentres) (Irlanda)
-- [Comisión de Regulación de Servicios Públicos (CRU) de Irlanda — "Data centres and the electricity grid"](https://www.cru.ie/what-we-do/comms-network/energy-consumer-data-centres-and-the-electricity-grid/)
+- [EirGrid — "Data Centre Connection Offer Process"](https://www.eirgrid.ie/industry/becoming-customer/demand-connections) (Irlanda)
+- [Comisión de Regulación de Servicios Públicos (CRU) de Irlanda — "Data centres and the electricity grid"](https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/)
 - [JLARC Virginia — costo y beneficios de los data centers en Loudoun](https://jlarc.virginia.gov/)
 - [ABC Color / Silvana Bogarín — "Período 2026-2030: prevén subas hasta del 46%" (estudio Ceare, tarifas ANDE)](https://www.abc.com.py/edicion-impresa/suplementos/economico/2026/08/09/periodo-2026-2030-preven-subas-hasta-del-46/) (9 agosto 2026)
 - [Wikipedia — Tratado de Itaipú](https://es.wikipedia.org/wiki/Tratado_de_Itaip%C3%BA)
-- [CSO Ireland — "Data Centres Metered Electricity Consumption 2024"](https://www.cso.ie/en/releasesandpublications/ep/p-dce/datacentresmeteredelectricityconsumption2024/) (julio 2024)
+- [CSO Ireland — "Data Centres Metered Electricity Consumption 2024"](https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/) (julio 2024)
 - [Wikipedia — ANDE (líneas de transmisión)](https://es.wikipedia.org/wiki/Administraci%C3%B3n_Nacional_de_Electricidad)
 - [Wikipedia — Represa de Itaipú (sistema de transmisión)](https://es.wikipedia.org/wiki/Represa_de_Itaip%C3%BA)
 

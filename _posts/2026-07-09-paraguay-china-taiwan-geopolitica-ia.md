@@ -68,7 +68,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
 - [Asunción Times — "Taiwán and Paraguay: AI data center deal"](https://asunciontimes.com/paraguay-news/international-news/president-santiago-pena-paraguay-to-build-one-of-worlds-largest-ai-data-centres/) (8 mayo 2026)
 - [CSIS — "Taiwan's Semiconductor Dominance: Implications for Cross-Strait Relations"](https://www.csis.org/blogs/perspectives-innovation/taiwans-semiconductor-dominance-implications-cross-strait-relations) (marzo 2022)
 - [Foreign Policy — "Taiwan's Government Is Scared of Its Own Semiconductor Giant"](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) (3 noviembre 2025)
-- [White House — "Pax Silica: Building Trusted Technology Supply Chains"](https://www.whitehouse.gov/briefing-room/2025/09/15/pax-silica-trusted-technology-supply-chains/) (15 septiembre 2025)
+- White House — "Pax Silica: Building Trusted Technology Supply Chains" (15 septiembre 2025)
 
 <script type="application/ld+json">
 {

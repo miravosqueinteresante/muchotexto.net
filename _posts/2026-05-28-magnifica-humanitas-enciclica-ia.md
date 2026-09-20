@@ -169,7 +169,7 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 ## Fuentes
 
 1. [Vaticano — "Magnifica Humanitas — Texto completo de la encíclica"](https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html) (25 may 2026)
-2. [Comisión Teológica Internacional — "Quo vadis, humanitas?"](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanitas_sp.html) (mar 2026)
+2. [Comisión Teológica Internacional — "Quo vadis, humanitas?"](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20260304_quo-vadis-humanits_sp.html) (mar 2026)
 3. [Vatican News — "Pope Leo XIV publishes encyclical Magnifica Humanitas on AI"](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) (25 may 2026)
 4. [The New York Times — "To Understand Pope Leo's Efforts on A.I., Look at the Man Shaking His Hand"](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html) (26 may 2026)
 5. [Fortune/AP — "Pope Leo called AI an 'instrument of domination, exclusion and death.' Anthropic was in the room"](https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclical/) (25 may 2026)
@@ -177,7 +177,7 @@ La encíclica se titula *Magnifica Humanitas* —"Magnífica Humanidad". No es u
 7. [NBC News — "Tech titans mostly silent after Pope Leo's warning on risks of AI"](https://www.nbcnews.com/tech/innovation/tech-titans-mostly-silent-pope-leos-warning-risks-ai-rcna346903) (26 may 2026)
 8. [Infobae — "El Papa León XIV publicó la encíclica Magnifica Humanitas"](https://www.infobae.com/america/mundo/2026/05/25/el-papa-leon-xiv-publico-la-enciclica-magnifica-humanitas-y-pidio-que-la-inteligencia-artificial-no-domine-al-ser-humano/) (25 may 2026)
 9. [El País — "El papa lanza una llamada de alarma contra el tecnofascismo"](https://elpais.com/sociedad/2026-05-25/el-papa-leon-xiv-lanza-con-su-primera-enciclica-una-llamada-de-alarma-contra-el-tecnofascismo-quien-controla-la-ia-impondra-su-vision-moral.html) (25 may 2026)
-10. [ACI Prensa — "El Papa León XIV publica su primera encíclica: Magnifica Humanitas"](https://www.aciprensa.com/Noticias/125373/el-papa-leon-xiv-publica-su-primera-enciclica-magnifica-humanitas) (25 may 2026)
+10. [ACI Prensa — "El Papa León XIV publica su primera encíclica: Magnifica Humanitas"](https://www.aciprensa.com/noticias/125373/el-papa-leon-xiv-publica-su-primera-enciclica) (25 may 2026)
 11. [AlfayOmega — "El Papa León XIV presentará él mismo su primera encíclica"](https://alfayomega.es/el-papa-leon-xiv-presentara-el-mismo-su-primera-enciclica-magnifica-humanitas/) (18 may 2026)
 12. [ADN Celam — "Cardenal paraguayo advierte riesgos éticos de inteligencia artificial"](https://adn.celam.org/cardenal-paraguayo-advierte-riesgos-eticos-de-inteligencia-artificial-tras-publicacion-de-magnifica-humanitas/) (27 may 2026)
 13. [VIA.bible — "La humanidad como frontera sagrada"](https://www.via.bible/es/la-humanidad-como-frontera-sagrada-magnifica-humanitas-y-el-desafio-digital-en-america-latina/) (4 may 2026)

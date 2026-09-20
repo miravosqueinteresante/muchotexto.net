@@ -61,7 +61,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 ## Fuentes
 
 - [World Bank — "Paraguay Overview: Agriculture"](https://www.worldbank.org/en/country/paraguay/overview)
-- [FAO — "Paraguay at a glance"](https://www.fao.org/paraguay/fao-in-paraguay/paraguay-at-a-glance/en/)
+- [FAO — "Paraguay at a glance"](https://www.fao.org/paraguay/fao-en-paraguay/paraguay-en-una-mirada/en/)
 - [ABC Color — "La vaca que rompió el récord: 108,7 litros en un solo día"](https://www.abc.com.py/negocios/abc-campo/2026/07/11/la-vaca-que-rompio-el-record-1087-litros-en-un-solo-dia/) (11 julio 2026)
 - [BID Lab — "Smart Soil Py: agricultura inteligente"](https://www.iadb.org/es/project/PR-T1251)
 - [NASA — "Landsat 9: Earth observation"](https://landsat.gsfc.nasa.gov/satellites/landsat-9/)

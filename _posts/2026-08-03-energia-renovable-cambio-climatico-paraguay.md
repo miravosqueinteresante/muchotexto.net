@@ -70,7 +70,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
 ## Fuentes
 
-1. [Wikipedia ES — Sector eléctrico en Paraguay](https://es.wikipedia.org/wiki/Sector_el%C3%A9ctrico_en_Paraguay)
+1. [Wikipedia (EN) — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
 2. [ANDE — Portal oficial](https://www.ande.gov.py/)
 3. [Itaipú Binacional — Informes de generación](https://www.Itaipu.gov.py/)
 4. [Banco Mundial — Paraguay Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/paraguay)

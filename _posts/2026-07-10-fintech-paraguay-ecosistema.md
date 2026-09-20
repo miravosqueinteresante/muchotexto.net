@@ -58,9 +58,9 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 
 - [BCP — "Sistema de Pagos Instantáneos SPI: estadísticas"](https://www.bcp.gov.py/sistema-de-pagos-instantaneos-spi-i440)
 - [Banco Mundial — Global Findex Database](https://www.worldbank.org/en/publication/globalfindex)
-- [ABC Color — "Cámara de Fintech celebra nueva ley de pagos"](https://www.abc.com.py/negocios/2025/06/17/camara-de-fintech-celebra-nueva-ley-de-pagos-e-impulso-a-la-inclusion-financiera/) (17 junio 2025)
+- ABC Color — "Cámara de Fintech celebra nueva ley de pagos" (17 junio 2025)
 - [BCP — "Ley N° 7503/2025: Sistema Nacional de Pagos"](https://www.bcp.gov.py/ley-7503-2025-sistema-nacional-de-pagos-i429)
-- [ABC Color — "La revolución silenciosa de los pagos digitales en Paraguay"](https://www.abc.com.py/negocios/2025/09/25/la-revolucion-silenciosa-de-los-pagos-digitales-en-paraguay/) (25 septiembre 2025)
+- ABC Color — "La revolución silenciosa de los pagos digitales en Paraguay" (25 septiembre 2025)
 
 <script type="application/ld+json">
 {

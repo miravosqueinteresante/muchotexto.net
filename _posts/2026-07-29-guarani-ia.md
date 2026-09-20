@@ -74,7 +74,7 @@ Paraguay tiene la ventaja de llegar tarde. Sabe qué funciona (comunidad + inver
 4. [JournalismAI — Innovation Challenge](https://www.journalismai.info/programmes/innovation)
 5. [Meta AI — MMS: Scaling Speech Technology to 1,000+ Languages](https://ai.meta.com/blog/multilingual-model-speech-recognition/)
 6. [Te Hiku Media — Papa Reo (Māori language AI)](https://tehiku.nz/)
-7. [Barcelona Supercomputing Center — Proyecto AINA](https://www.bsc.es/es/aina)
+7. [Barcelona Supercomputing Center — Proyecto AINA](https://www.bsc.es/es/research-and-development/projects/aina)
 8. [Constitución de Paraguay (1992) — Artículo 140](https://www.bacn.gov.py/leyes-paraguayas/9580/constitucion-nacional-de-1992)
 9. [Ley 4251/2010 — Ley de Lenguas de Paraguay](https://www.bacn.gov.py/leyes-paraguayas/689/ley-n-4251-de-lenguas)
 10. [Wikipedia en guaraní](https://gn.wikipedia.org/)

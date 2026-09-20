@@ -76,7 +76,7 @@ Paraguay tiene una ventana de oportunidad. Llega décimo a una carrera donde otr
 2. [Poder Judicial Paraguay — Implementación en Saltos del Guairá (2 jul 2026)](https://www.pj.gov.py/notas/30133-implementaron-el-expediente-judicial-electronico-en-juzgados-penales-de-sentencia-unipersonales-de-saltos-del-guaira)
 3. [ProPublica — "Machine Bias" (Angwin, Larson, Mattu, Kirchner, 23 may 2016)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 4. [Dressel & Farid — "The accuracy, fairness, and limits of predicting recidivism" (Science Advances, 2018)](https://www.science.org/doi/10.1126/sciadv.aao5580)
-5. [Wired — "Estonia wants an AI-powered judge" (marzo 2019)](https://www.wired.com/story/estonia-ai-judge/)
+5. [Wired — "Estonia wants an AI-powered judge" (marzo 2019)](https://www.wired.com/story/can-ai-be-fair-judge-court-estonia-thinks-so/)
 6. [UNESCO — "Prometea: Artificial Intelligence in the Buenos Aires Public Prosecutor's Office"](https://en.unesco.org/artificial-intelligence/rule-law)
 7. [Supremo Tribunal Federal — Projeto VICTOR](https://portal.stf.jus.br/Noticias/verNoticiaDetalhe.asp?idConteudo=471331)
 8. [Corte Constitucional de Colombia — PretorIA](https://www.corteconstitucional.gov.co/noticia.php?PretorIA-9252)

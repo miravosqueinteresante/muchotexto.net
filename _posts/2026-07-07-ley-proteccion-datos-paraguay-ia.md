@@ -74,7 +74,7 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
 
 - [TEDIC — "La ley sobre la protección de datos personales en Paraguay: Un logro colectivo"](https://www.tedic.org/la-ley-sobre-la-proteccion-de-datos-personales-en-paraguay-un-logro-colectivo-basado-en-evidencia-y-participacion-plural/) (28 noviembre 2025)
 - [BACN — Ley Nº 7593/2025 de Protección de Datos Personales](https://www.bacn.gov.py/leyes-paraguayas/12924/ley-n-75932025-de-proteccion-de-datos-personales-en-la-republica-del-paraguay)
-- [Senado.gov.py — "Senado ratificó su versión del proyecto de Protección de Datos Personales"](https://www.senado.gov.py/index.php/Noticias/Noticias-presidencia/16067-senado-ratifico-su-version-del-proyecto-de-proteccion-de-datos-personales-2025-11-05-17-57-40) (5 noviembre 2025)
+- Senado.gov.py — "Senado ratificó su versión del proyecto de Protección de Datos Personales" (5 noviembre 2025)
 - [La Nación — "Ley de Protección de Datos: implicancias, desafíos e impacto transversal"](https://www.lanacion.com.py/negocios/2025/12/03/ley-de-proteccion-de-datos-implicancias-desafios-e-impacto-transversal-en-toda-la-economia-paraguaya/) (3 diciembre 2025)
 - [BKM Berkemeyer — "Análisis de la Ley N° 7593/2025 de Protección de Datos Personales"](https://www.berke.com.py/analisis-de-la-ley-n-7593-2025-de-proteccion-de-datos-personales-de-paraguay1/) (noviembre 2025)
 - [DLA Piper — Data Protection Handbook: Paraguay](https://www.dlapiperdataprotection.com/index.html?t=law&c=PY) (actualizado 30 marzo 2026)

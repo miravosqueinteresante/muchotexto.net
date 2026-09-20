@@ -85,8 +85,8 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 7. [Ley 7599/2025 — Apertura del sector eléctrico paraguayo](https://www.bacn.gov.py/)
 8. [Ley 60/90 — Régimen de Maquila, Paraguay](https://www.mic.gov.py/)
 9. [Ley 3001/2006 — Evaluación de impacto ambiental](https://www.bacn.gov.py/)
-10. [Wikipedia ES — Sector eléctrico en Paraguay](https://es.wikipedia.org/wiki/Sector_el%C3%A9ctrico_en_Paraguay)
-11. [CRU — Data centres and the electricity grid (Irlanda)](https://www.cru.ie/what-we-do/comms-network/energy-consumer-data-centres-and-the-electricity-grid/)
+10. [Wikipedia (EN) — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
+11. [CRU — Data centres and the electricity grid (Irlanda)](https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/)
 12. [Forbes — South America's AI Infrastructure Reality Check](https://www.forbes.com/) (enero 2026)
 13. [Chile PDATA — Plan Nacional de Data Centers](https://www.minciencia.gob.cl/) (2025)
 
