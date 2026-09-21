@@ -70,9 +70,10 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[ANDE oculta 943 MW de contratos de criptominería bajo llave]({% post_url 2026-09-16-los-contratos-secretos-de-ande %})** — 41 empresas del GCIE concentran 943,8 MW y 5.465 GWh de consumo, pero las condiciones individuales de cada contrato no son públicas. Decretos derogados, renuncia de Félix Sosa y un arbitraje de Atome en el CIADI.
 
+- **[El data center Tier III que Paraguay ya tiene hace una década]({% post_url 2026-09-21-tigo-data-center-tier-iii-paraguay %})** — El único data center Tier III de un operador privado está en Villa Elisa, es de Tigo y opera desde 2016. Sobre él corre la nube global (Netflix, Google) mientras los megaproyectos de IA siguen en anuncios.
+
 **Próximamente:**
 
-- **Tigo PIO: el data center que Netflix y Amazon ya usan en Paraguay** — El único Tier III certificado del pais opera en Villa Elisa hace una década. Netflix y Google usan sus nodos CDN; HIVE lanzó BUZZ AI Cloud ahí en marzo 2026. Verificado con Última Hora (2016), Uptime Institute, FOCO (2026) y HIVE Earnings.
 - **Energía nuclear en Paraguay: los reactores modulares que vienen de Washington** — El MOU de cooperación nuclear civil firmado entre Marco Rubio y Rubén Ramírez el 4 de agosto de 2026 abre la puerta a SMRs en el pais de las hidroeléctricas. Verificado con U.S. Department of State.
 
 ## Geopolítica y regulación tech

@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-09-19
+last_modified_at: 2026-09-21
 entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
@@ -24,6 +24,9 @@ related_articles:
   - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
     url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
     context: "A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá —HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la construcción de dos subestaciones eléctricas en Yguazú y Valenzuela, dos..."
+  - title: "El data center Tier III que Paraguay ya tiene hace una década"
+    url: /[articulos]/2026/09/21/tigo-data-center-tier-iii-paraguay/
+    context: "Paraguay discute, desde hace dos años, data centers de inteligencia artificial que se miden en cientos de megavatios. El que **ya existe**, el único Tier III de un operador privado, mide su capacidad en megavatios que se cuentan con los dedos de una."
   - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque 'no hay tiempo'. El contenido se volvió ruido."
@@ -45,9 +48,6 @@ related_articles:
   - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
     context: "La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la."
-  - title: "¿Qué es realmente el fútbol?"
-    url: /articulos/2026/06/10/que-es-realmente-el-futbol/
-    context: "La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte; es una religión sin catedral, una guerra sin fusiles, un..."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/
@@ -55,6 +55,9 @@ obs_cronologia:
   - label: "2016"
     url: /cronologia/
     context: "La Corte Suprema de Justicia crea el Expediente Judicial Electrónico mediante Acordada N° 1107. Comienza en dos tribunales de Asunción."
+  - label: "23 Noviembre 2016"
+    url: /cronologia/
+    context: "Tigo inaugura en Villa Elisa su data center Tier III, el primero de colocation profesional del país, construido por la sueca Flexenclosure con una inversión de USD 12 millones. Leer análisis"
   - label: "2018"
     url: /cronologia/
     context: "Brasil lanza VICTOR en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico."

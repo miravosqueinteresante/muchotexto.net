@@ -40,6 +40,11 @@
     fecha: '2016'
     texto: La Corte Suprema de Justicia crea el [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/)
       mediante Acordada N° 1107. Comienza en dos tribunales de Asunción.
+  - orden: '2016-11-23'
+    fecha: 23 Noviembre 2016
+    texto: Tigo inaugura en Villa Elisa su data center Tier III, el primero de colocation
+      profesional del país, construido por la sueca Flexenclosure con una inversión
+      de USD 12 millones. [Leer análisis](/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
   - orden: '2017'
     fecha: '2017'
     texto: Argentina lanza [Prometea](/articulos/2026/07/21/ia-justicia-paraguay/),
@@ -225,6 +230,11 @@
     texto: '[HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
       en Asunción: primer cluster de GPU para IA en Paraguay. Columbia University
       inicia investigación de LLM desde Nueva York.'
+  - orden: '2026-03-18'
+    fecha: 18 Marzo 2026
+    texto: HIVE Digital lanza BUZZ AI Cloud en el data center Tier III de Tigo (Villa
+      Elisa), un clúster de GPU que la Universidad de Columbia usa para entrenar modelos
+      de lenguaje desde Nueva York hacia Asunción. [Leer análisis](/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
   - orden: 2026-05
     fecha: Mayo 2026
     texto: MITIC adjudica el [Data Center estatal Tier III](/articulos/2026/07/16/ia-soberana-paraguay/)

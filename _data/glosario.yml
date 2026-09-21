@@ -228,6 +228,11 @@
       no tiene ninguna norma sobre ellos.
     link_text: Los agentes de IA actuaron sin control y Paraguay no tiene defensas
     link: /articulos/2026/09/03/contenido-basura-agentes-ia/
+  - termino: Colocation
+    definicion: Servicio por el que un data center aloja los servidores de empresas
+      terceras en sus propios racks, ofreciendo energía, refrigeración, seguridad
+      y conectividad. Tigo Business lo presta en su data center de Villa Elisa desde
+      2016.
 - tema: Paraguay y geopolítica
   terminos:
   - termino: Anexo C de Itaipú

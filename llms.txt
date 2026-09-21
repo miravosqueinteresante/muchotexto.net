@@ -39,6 +39,8 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [El ministerio de energía que Paraguay prepara con tres viceministerios](https://muchotexto.net/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/)
 - [El ente regulador de energía que Paraguay diseña con concurso público](https://muchotexto.net/articulos/2026/08/19/ente-regulador-energia/)
 - [El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares](https://muchotexto.net/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/)
+- [Los contratos secretos de ANDE: 943 MW bajo llave](https://muchotexto.net/articulos/2026/09/16/los-contratos-secretos-de-ande/)
+- [El data center Tier III que Paraguay ya tiene hace una década](https://muchotexto.net/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
 
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
@@ -49,7 +51,6 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años](https://muchotexto.net/articulos/2026/07/17/ciberseguridad-paraguay/)
 - [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](https://muchotexto.net/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)
 - [Lo que el capital de Silicon Valley busca en Paraguay y no encuentra](https://muchotexto.net/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
-- [Los contratos secretos de ANDE: 943 MW bajo llave](https://muchotexto.net/articulos/2026/09/16/los-contratos-secretos-de-ande/)
 
 ### Pilar 3: IA, sociedad y trabajo
 - [Anotación de datos para IA: la ventaja silenciosa de Paraguay](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)

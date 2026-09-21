@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-09-19
+last_modified_at: 2026-09-21
 entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
@@ -31,7 +31,7 @@ related_articles:
     context: "## Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
-    context: "1. Wikipedia ES — Sector eléctrico en Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
+    context: "1. Wikipedia (EN) — Electricity sector in Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
   - title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
     url: /[articulos]/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."

@@ -70,6 +70,11 @@
   - nombre: Data Center Estatal Tier III
     descripcion: 'Adjudicado por el MITIC en mayo 2026: 5.000 VMs, 2.000 contenedores,
       financiado por el BID. [Leer más](/articulos/2026/07/16/ia-soberana-paraguay/).'
+  - nombre: Tigo Business — Data Center
+    descripcion: El único data center de colocation Tier III de un operador privado
+      en Paraguay, en Villa Elisa. Certificado por el Uptime Institute (Diseño y Construcción),
+      99,982% de disponibilidad, ISO 27001:2022.
+    url: https://www.tigo.com.py/medianas/cloud/data-center
 - seccion: Industria y manufactura
   items:
   - nombre: ADATA
