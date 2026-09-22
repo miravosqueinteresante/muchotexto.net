@@ -4,6 +4,7 @@ title: "Contratos, IA y el futuro del Paraguay — Editorial 20/09/2026"
 description: "La gestión de los contratos de suministro eléctrico por parte de la sector eléctrico{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %}, específicamente en el caso del proyecto Atome, expone una vulnerabilidad operativa que podría derivar en arbitrajes internacionales."
 
 
+
 date: 2026-09-20 18:00:00 -0300
 last_modified_at: 2026-09-20
 categories: editorial
