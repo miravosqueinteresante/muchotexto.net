@@ -19,7 +19,7 @@ glosario:
 casos:
   - tema: "Conectividad"
     titulo: "La nube global dentro de Paraguay"
-    texto: "El data center de Tigo Business en Villa Elisa aloja caches de Netflix, Google, Akamai y Meta, de modo que buena parte del tráfico de esos servicios no sale del país. HIVE Digital lo eligió para su clúster de IA BUZZ AI Cloud (marzo de 2026), donde un equipo de Columbia University entrena modelos de lenguaje desde Nueva York hacia Asunción."
+    texto: "La red de Tigo en Paraguay aloja caches de Netflix, Google, Akamai y Meta, de modo que buena parte del tráfico de esos servicios no sale del país. HIVE Digital lo eligió para su clúster de IA BUZZ AI Cloud (marzo de 2026), donde un equipo de Columbia University entrena modelos de lenguaje desde Nueva York hacia Asunción."
 directorio:
   - seccion: "Data centers e infraestructura"
     nombre: "Tigo Business — Data Center"
@@ -31,7 +31,7 @@ Paraguay discute, desde hace dos años, data centers de inteligencia artificial 
 
 > **En resumen:**
 > - El único data center Tier III de un operador privado en Paraguay es de Tigo, está en Villa Elisa y opera desde noviembre de 2016.
-> - Se diseñó con 2 MW de potencia y hasta 260 racks. Tigo **no publica** el consumo eléctrico actual ni el PUE de la instalación.
+> - Se diseñó con 2 MW de potencia y hasta 260 racks. No hay cifra pública del consumo eléctrico actual ni del PUE de la instalación.
 > - Tigo obtuvo el Tier III del Uptime Institute en 2016 (el registro vigente reemite los foils en 2022 y 2024); fue el primer data center prefabricado de América Latina en conseguir la certificación de Construcción.
 > - En Paraguay solo dos instalaciones tienen Tier III certificado: la de Tigo y la de Itaipú. Los megaproyectos (Yguazú Digital, X8 Cloud, Pardat) siguen siendo anuncios.
 
@@ -39,7 +39,7 @@ Paraguay discute, desde hace dos años, data centers de inteligencia artificial 
 
 El operador es **Telecel S.A.E. —Telefónica Celular del Paraguay—**, 100% del grupo Millicom, que comercia bajo la marca Tigo. El data center se opera bajo la marca corporativa **Tigo Business** y está ubicado en **Villa Elisa**, en el departamento Central (no en Asunción capital, y no en "Colonia").
 
-La historia empieza el **19 de enero de 2016**, cuando Millicom anunció la construcción del "primer data center de Paraguay certificado Tier 3 por el Uptime Institute". La obra, a cargo de la firma sueca **Flexenclosure** con módulos prefabricados —su primer proyecto en América Latina—, se atrasó y la inauguración oficial ocurrió el **23 de noviembre de 2016**. Fue la primera facilidad de *colocation* profesional del país: un servicio por el que un data center aloja los servidores de terceros en sus propios racks, con energía, refrigeración y seguridad incluidas.
+La historia empieza el **19 de enero de 2016**, cuando Millicom anunció la construcción del "primer data center de Paraguay certificado Tier 3 por el Uptime Institute". La obra, a cargo de la firma sueca **Flexenclosure** con módulos prefabricados —su primer proyecto en América Latina—, se atrasó: la inauguración estaba prevista inicialmente para octubre y la oficial ocurrió el **23 de noviembre de 2016**. Fue la primera facilidad de *colocation* profesional del país: un servicio por el que un data center aloja los servidores de terceros en sus propios racks, con energía, refrigeración y seguridad incluidas.
 
 Sobre el nombre "Tigo PIO" conviene una aclaración: **ninguna fuente pública lo usa ni lo define**. El registro del Uptime Institute lo llama "Asunción Data Center"; Tigo lo llama "Data Center de Tigo Business". El acrónimo "PIO" aparece en cobertura de prensa de 2026, sin explicación. Este artículo usa la denominación oficial.
 
@@ -61,9 +61,9 @@ Un detalle de arquitectura: Tigo **no figura como miembro** del PIT Paraguay, un
 
 ## Cuánta energía consume (y qué no se sabe)
 
-Aquí conviene la honestidad: **Tigo no publica** el consumo eléctrico de su data center, la potencia contratada con la ANDE ni el PUE (la relación entre la energía total y la que efectivamente usan los servidores). El único dato publicado es el de diseño: **2 MW** en 2016. Una expansión entre 2023 y 2024 "triplicó la potencia eléctrica" según Tigo, pero **sin publicar la cifra resultante**.
+Aquí conviene la honestidad: **no hay cifra pública** del consumo eléctrico del data center, de la potencia contratada con la ANDE ni del PUE (la relación entre la energía total y la que efectivamente usan los servidores). El único dato publicado es el de diseño: **2 MW** en 2016. Una expansión entre 2023 y 2024 "triplicó la potencia eléctrica" según Tigo, pero **sin publicar la cifra resultante**.
 
-Para ponerlo en escala: el PUE promedio de la industria fue **1,56 en 2024**, según el Uptime Institute, y los diseños nuevos rondan 1,3. En un clima subtropical como el paraguayo, la refrigeración pesa más que en zonas templadas. Pero sin medición publicada, cualquier número de consumo de este data center es una estimación, no un dato.
+Para ponerlo en escala: el PUE promedio de la industria fue **1,56 en 2024**, según el [Uptime Institute](https://datacenter.uptimeinstitute.com/rs/711-RIA-145/images/2024.GlobalDataCenterSurvey.Report.pdf), y los diseños nuevos rondan 1,3. En un clima subtropical como el paraguayo, la refrigeración pesa más que en zonas templadas. Pero sin medición publicada, cualquier número de consumo de este data center es una estimación, no un dato.
 
 Lo que sí es verificable es el precio de la energía. La encuesta CIER 2025 ubica la tarifa **industrial paraguaya en US$35/MWh y la residencial en US$46/MWh**, las más bajas de trece países relevados. La tarifa del régimen de grandes consumidores (GCIE) es de **US$30/MWh** por resolución de la ANDE, vigente hasta diciembre de 2027.
 
@@ -89,9 +89,9 @@ La diferencia entre "operando" y "anunciado" es la historia de fondo del sector.
 
 Hay un límite que ningún data center paraguayo puede resolver solo. **Paraguay no tiene acceso directo a ningún cable submarino**: es un país mediterráneo y todo su tránsito internacional depende de fibra terrestre que atraviesa Brasil, Argentina y Bolivia. Los proyectos para cambiar eso —un cable por el lecho del río Paraguay, la iniciativa "Banda Ancha Paraguay", el anuncio de 2011— **nunca se materializaron**.
 
-La Red Nacional de Fibra Óptica, financiada con un préstamo del BID de USD 130 millones (2019), unificó cuatro redes estatales y llegó a unos 16.000-18.000 km, pero en mayo de 2025 **solo estaba operativa a la mitad**. En ese terreno, la red de Tigo —más de 20.000 km y catorce enlaces internacionales— es la infraestructura troncal de facto del sector privado.
+La Red Nacional de Fibra Óptica, financiada con un préstamo del BID de USD 130 millones (2019), unificó cuatro redes estatales y llegó a unos 16.000-18.000 km, pero en mayo de 2025 **solo estaba operativa a la mitad**, [según Última Hora](https://www.ultimahora.com/red-de-fibra-optica-de-mitic-esta-solo-un-50-operativa). En ese terreno, la red de Tigo —más de 20.000 km y catorce enlaces internacionales— es la infraestructura troncal de facto del sector privado.
 
-El tráfico, sin embargo, se queda cada vez más cerca. Paraguay tiene **tres puntos de intercambio de tráfico (IXP)** con 51 miembros, y el **63% de los mil sitios más visitados** del país se sirven desde un servidor o caché local, según Internet Society Pulse. La latencia lo refleja: desde Asunción, unos **33 ms a São Paulo**, **53 ms a Buenos Aires** y **155 ms a Miami**, la ruta internacional más lenta.
+El tráfico, sin embargo, se queda cada vez más cerca. Paraguay tiene **tres puntos de intercambio de tráfico (IXP)** con 51 miembros, y el **63% de los mil sitios más visitados** del país se sirven desde un servidor o caché local, según Internet Society Pulse. La latencia lo refleja: desde Asunción, unos **33 ms a São Paulo**, **53 ms a Buenos Aires** y **155 ms a Miami**, la ruta internacional más lenta, [según WonderNetwork](https://wondernetwork.com/pings/Asuncion).
 
 ## La pregunta abierta
 
@@ -125,7 +125,7 @@ No son incompatibles: un país puede tener ambos. Pero la distancia entre el rel
       "name": "¿Cuánta energía consume el data center de Tigo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No hay cifra pública de consumo ni de potencia contratada. El único dato publicado es el de diseño: 2 MW en 2016. Tigo tampoco publica el PUE (eficiencia energética) de la instalación. Como referencia sectorial, el PUE promedio de la industria fue de 1,56 en 2024, según el Uptime Institute."
+        "text": "No hay cifra pública de consumo ni de potencia contratada. El único dato publicado es el de diseño: 2 MW en 2016. Tampoco hay un PUE publicado de la instalación. Como referencia sectorial, el PUE promedio de la industria fue de 1,56 en 2024, según el Uptime Institute."
       }
     }
   ]
@@ -159,6 +159,9 @@ No son incompatibles: un país puede tener ambos. Pero la distancia entre el rel
 22. [Netify — Google CDN en Paraguay](https://www.netify.ai/resources/cdn/google-cloud-cdn/country/py)
 23. [Tigo Business y AWS — alianza (5-jul-2024)](https://www.paraguayti.com/24009/tigo-business-y-amazon-web-services-unen-fuerzas-para-ofrecer-soluciones-avanzadas-en-la-nube-para-empresas/)
 24. [InfoNegocios — "Tigo Business: la disponibilidad tecnológica…" (21-sep-2026)](https://infonegocios.com.py/infobrand/tigo-business-la-disponibilidad-tecnologica-ya-no-es-solo-una-conversacion-tecnica-sino-una-decision-estrategica-para-las-empresas)
+25. [Uptime Institute — Global Data Center Survey 2024 (PUE promedio 1,56)](https://datacenter.uptimeinstitute.com/rs/711-RIA-145/images/2024.GlobalDataCenterSurvey.Report.pdf)
+26. [WonderNetwork — latencias desde Asunción (sep-2026)](https://wondernetwork.com/pings/Asuncion)
+27. [Última Hora — "Red de fibra óptica de Mitic está solo un 50% operativa" (19-may-2025)](https://www.ultimahora.com/red-de-fibra-optica-de-mitic-esta-solo-un-50-operativa)
 
 **Metodología:** Artículo elaborado con la investigación de agentes de búsqueda (§5.8) documentada en `research_tigo_pio/`, auditable paso a paso. Los datos de consumo, demanda y tarifas del sistema eléctrico se contrastaron contra la capa de datos verificables de ANDE (datospublicos.muchotexto.net). Los números sin fuente de la empresa —consumo y PUE del data center de Tigo— se señalan explícitamente como no públicos. La distinción entre instalaciones certificadas por el Uptime Institute y proyectos anunciados se basa en el registro oficial del Uptime Institute.
 
