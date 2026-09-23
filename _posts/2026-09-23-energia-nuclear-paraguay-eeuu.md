@@ -5,7 +5,7 @@ date: 2026-09-23 09:00:00 -0300
 last_modified_at: 2026-09-23
 categories: [articulos]
 tags: [energia-nuclear, smr, geopolitica, infraestructura-energia, regulacion]
-description: "Paraguay firmó con EE.UU. un memorándum nuclear civil, no un Acuerdo 123. Qué incluye, qué no, y por qué el primer reactor aún queda lejos."
+description: "Paraguay firmó con EE.UU. un memorándum de energía nuclear civil, no un Acuerdo 123. Qué incluye, qué no y por qué el primer reactor aún queda muy lejos."
 schema_type: TechArticle
 hitos:
   - fecha: "1965-08-30"
@@ -30,13 +30,12 @@ directorio:
     url: "https://www.bacn.gov.py/leyes-paraguayas/2945/ley-n-5169-crea-la-autoridad-reguladora-radiologica-y-nuclear"
 ---
 
-El 4 de agosto de 2026, en el Departamento de Estado, Paraguay y Estados Unidos firmaron un memorándum de entendimiento sobre **cooperación nuclear civil**. La noticia se leyó como el arranque de una era atómica. Pero lo firmado no es un acuerdo de construcción, ni de compra, ni de financiamiento: es una puerta. Y del otro lado hay una tecnología que todavía no ha probado ser rápida ni barata.
+Paraguay y Estados Unidos firmaron el 4 de agosto de 2026 un memorándum de entendimiento sobre **cooperación nuclear civil**. La noticia se leyó como el arranque de una era atómica. Pero lo firmado no es un acuerdo de construcción, ni de compra, ni de financiamiento: es una puerta. Y del otro lado hay una **energía nuclear** que todavía no ha probado ser rápida ni barata.
 
 > **En resumen:**
 > - El 4-ago-2026, Marco Rubio y el canciller Rubén Ramírez Lezcano firmaron un **memorándum de entendimiento no vinculante**. No es un Acuerdo 123, no transfiere tecnología ni dinero y no compromete proveedor, sitio, capacidad ni plazos.
 > - Los SMR —reactores de menos de 300 MWe— son la apuesta estadounidense. A septiembre de 2026 **el único diseño certificado por la NRC es el de NuScale**, y **ninguno opera comercialmente** en EE.UU.
-> - El proyecto insignia de NuScale se canceló en 2023 al escalar a **US$ 20.139/kW**. Ningún SMR occidental opera comercialmente.
-> - Las tres fases del OIEA para un país sin infraestructura nuclear suman **11 a 20 años**; el regulador francés cita un mínimo de 15 y Noruega, en 2026, al menos 20.
+> - El proyecto insignia de NuScale se canceló en 2023 al escalar a **US$ 20.139/kW**, y las tres fases del OIEA para un país sin infraestructura nuclear suman **11 a 20 años**.
 > - La nuclear **no figura** en el Plan Energético 2050 ni en el Plan Maestro de Generación de la ANDE 2024-2043: es una iniciativa de la ARRN, no del plan oficial del sector.
 
 ## Qué firmó Paraguay con Estados Unidos
@@ -71,7 +70,7 @@ Los plazos siguen la misma lógica. La hoja de ruta del **OIEA** para un país n
 
 **Ghana** lleva **19 años** de planes: anunció 400 MWe para 2018, después "no antes de 2030", y llegó a 2026 **sin una sola planta en construcción**. Lo único que tiene es un reactor de investigación de 1994, que no genera electricidad. En ambos casos, el instrumento firmado habilita cooperación, pero no construye nada: el reactor lo construye un contrato EPC con miles de millones detrás, y ninguno existe para Paraguay.
 
-## Por qué Paraguay lo busca ahora
+## Por qué Paraguay busca la energía nuclear ahora
 
 El interés no es caprichoso. Paraguay tiene una matriz casi enteramente hidroeléctrica —99,998% renovable— y exporta cerca del **35%** de lo que genera. Pero el excedente se agota: el consumo nacional llegó a **29.419 GWh en 2025** y crece a dos dígitos (12,5% en 2025, hasta 21% previsto para 2026). El [régimen de grandes consumidores de ANDE](/articulos/2026/09/16/los-contratos-secretos-de-ande/) —criptominería y data centers— ya reserva **943,8 MW** en 41 empresas. Y hay un riesgo conocido: la sequía de 2019-2022 llevó al Paraná a su mínimo en 77 años y derrumbó la generación de Itaipú un 35,6%. Un sistema que depende de la lluvia quiere una fuente "firme", y la nuclear se vende como tal.
 
