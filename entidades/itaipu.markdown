@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-09-21
+last_modified_at: 2026-09-22
 entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
@@ -46,6 +46,9 @@ obs_glosario:
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "El anexo financiero del Tratado de Itaipú que fija el precio de la electricidad que Paraguay vende a Brasil. Vence en 2027. Si no se renueva, la tarifa caería un 60% y Paraguay perdería unos USD..."
 obs_cronologia:
+  - label: "30 Agosto 1965"
+    url: /cronologia/
+    context: "La Ley 1081 crea la Comisión Nacional de Energía Atómica (CNEA), primer intento institucional de Paraguay por entrar a la era nuclear. El acuerdo con Brasil de 1966 que llevó a Itaipú disipó el..."
   - label: "1973"
     url: /cronologia/
     context: "Paraguay y Brasil firman el Tratado de Itaipú: 14.000 MW, la hidroeléctrica más grande del mundo."

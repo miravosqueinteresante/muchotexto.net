@@ -72,9 +72,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[El data center Tier III que Paraguay ya tiene hace una década]({% post_url 2026-09-21-tigo-data-center-tier-iii-paraguay %})** — El único data center Tier III de un operador privado está en Villa Elisa, es de Tigo y opera desde 2016. Sobre él corre la nube global (Netflix, Google) mientras los megaproyectos de IA siguen en anuncios.
 
-**Próximamente:**
-
-- **Energía nuclear en Paraguay: los reactores modulares que vienen de Washington** — El MOU de cooperación nuclear civil firmado entre Marco Rubio y Rubén Ramírez el 4 de agosto de 2026 abre la puerta a SMRs en el pais de las hidroeléctricas. Verificado con U.S. Department of State.
+- **[Energía nuclear en Paraguay: el memorándum con EE.UU. no es un reactor]({% post_url 2026-09-23-energia-nuclear-paraguay-eeuu %})** — El 4 de agosto de 2026 Paraguay firmó con Washington un MOU no vinculante, no un Acuerdo 123. Ningún SMR de diseño estadounidense opera todavía, el proyecto insignia se canceló por costos y el piso realista para un reactor es de 15 a 20 años.
 
 ## Geopolítica y regulación tech
 

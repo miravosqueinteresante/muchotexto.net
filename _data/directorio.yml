@@ -219,3 +219,10 @@
       tech paraguaya. Listado completo y verificado en investigación.
   - nombre: Inversores y fondos activos en Paraguay
     descripcion: Venture capital, aceleradoras e inversores ángel operando en el ecosistema.
+- seccion: Instituciones
+  items:
+  - nombre: ARRN — Autoridad Reguladora Radiológica y Nuclear
+    descripcion: Regulador nuclear y radiológico de Paraguay, creado por la Ley 5169/2014.
+      Puede normar, licenciar y fiscalizar, pero una central nucleoeléctrica requiere
+      además la autorización previa vinculante del Poder Ejecutivo.
+    url: https://www.bacn.gov.py/leyes-paraguayas/2945/ley-n-5169-crea-la-autoridad-reguladora-radiologica-y-nuclear
