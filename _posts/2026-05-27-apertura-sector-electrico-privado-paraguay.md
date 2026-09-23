@@ -2,7 +2,7 @@
 layout: post
 title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
 date: 2026-05-27
-last_modified_at: 2026-08-18
+last_modified_at: 2026-09-23
 categories: articulos
 tags: infraestructura-energia
 description: "Paraguay habilita por primera vez la generación privada de energía renovable. Entre el fin del monopolio de la ANDE y los riesgos de corrupción, ¿qué…"
@@ -18,7 +18,7 @@ Este artículo es un análisis en profundidad de la apertura del sector eléctri
 
 La Ley N.° 7599 de Energías Renovables No Convencionales fue promulgada en diciembre de 2025. Pero una ley sin reglamentación es un esqueleto sin músculo. El Decreto 6034, firmado cinco meses después, le dio cuerpo operativo.
 
-El decreto crea cuatro figuras jurídicas nuevas:
+El decreto crea cinco figuras jurídicas nuevas:
 
 **Autogenerador.** Produce su propia energía y puede inyectar excedentes a la red. Hasta 1 MW no necesita licencia; por encima, requiere autorización del Viceministerio de Minas y Energía.
 
@@ -48,11 +48,11 @@ Eso está cambiando rápido. El consumo eléctrico nacional creció un 50% en tr
 
 Las proyecciones son alarmantes. Según Pedro Ferreira, expresidente de ANDE, los excedentes energéticos de Paraguay se agotarán entre 2030 y 2033. La Unión Industrial Paraguaya (UIP) advierte sobre apagones frecuentes a partir de 2029 si no se diversifica la matriz. El Senado ya pidió informes urgentes a la ANDE.
 
-La ANDE, por su parte, reconoce que no puede financiar sola las obras necesarias. Su Plan Maestro contempla inversiones de USD 9.000 millones en generación hasta 2043, pero solo en el corto plazo la necesidad supera los USD 600 millones. El precio de la energía al usuario residencial está subsidiado por las leyes 2501/2004 (tarifa social) y 3480/2008, lo que impide que la ANDE genere el capital necesario.
+La ANDE, por su parte, reconoce que no puede financiar sola las obras necesarias. Su Plan Maestro contempla inversiones de USD 11.000 millones en generación hasta 2043, pero solo en el corto plazo la necesidad supera los USD 600 millones. El precio de la energía al usuario residencial está subsidiado por las leyes 2501/2004 (tarifa social) y 3480/2008, lo que impide que la ANDE genere el capital necesario.
 
 ### 2.2. Oportunidad de inversión y diversificación
 
-La proyección de USD 3.000 millones en inversión privada durante la próxima década es ambiciosa pero no irrazonable. Chile, bajo un marco similar, atrajo 17.105 MW de capacidad renovable no convencional. República Dominicana duplicó su capacidad renovable en tres años con más de USD 1.000 millones anuales de inversión privada.
+La proyección de USD 1.500 millones en inversión privada durante la próxima década es ambiciosa pero no irrazonable. Chile, bajo un marco similar, atrajo más de 19 GW de capacidad renovable no convencional. República Dominicana duplicó su capacidad renovable en tres años con más de USD 1.000 millones anuales de inversión privada.
 
 Paraguay tiene ventajas comparativas únicas: energía limpia a ~USD 0,04/kWh (una de las más baratas del mundo), condiciones climáticas excepcionales para solar fotovoltaica, abundante biomasa agrícola (soja, caña de azúcar) para biogás, y un marco fiscal ultrafavorable (régimen "Triple 10" y ley de maquila con tasa efectiva del 1%).
 
@@ -88,7 +88,7 @@ El decreto no define con precisión tres elementos críticos:
 - La metodología exacta de cálculo de precios de compra a los generadores privados.
 - El esquema completo de supervisión del nuevo mercado competitivo.
 
-La ausencia de un regulador sectorial independiente es el vacío institucional más grave. Chile tiene la Comisión Nacional de Energía. Brasil tiene la ANEEL. Uruguay tiene la ADME. Colombia tiene la CREG. Paraguay tiene al Viceministerio de Minas y Energía y a la ANDE — sin un organismo técnico separado con autonomía política y capacidad de supervisión real.
+La ausencia de un regulador sectorial independiente es el vacío institucional más grave. Chile tiene la Comisión Nacional de Energía. Brasil tiene la ANEEL. Uruguay tiene la URSEA (regulador) y la ADME (administrador del mercado). Colombia tiene la CREG. Paraguay tiene al Viceministerio de Minas y Energía y a la ANDE — sin un organismo técnico separado con autonomía política y capacidad de supervisión real.
 
 La buena noticia es que el diagnóstico no es nuevo y existe un mecanismo formal para abordarlo. La Mesa Energética Nacional, creada por decreto en 2012 como organismo asesor del Presidente y reactivada por Santiago Peña en octubre de 2023, produjo en septiembre de 2024 la Política Energética Nacional al 2050 (Decreto N.º 2553/24): un documento con 95 objetivos y 385 metas con plazos concretos. Una de esas metas —la creación de un Ministerio de Energía, Hidrocarburos y Minería— tenía como plazo original 2024. A agosto de 2026 no se ha creado. El 6 de agosto de 2026, Peña reconvocó la Mesa Energética Nacional y dio 30 días para presentar propuestas en cuatro ejes: institucionalidad, grandes proyectos de generación, mesa eléctrica público-privada y reglas para inversores. Y el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley para crear el Ministerio de Energía, Minería e Hidrocarburos y un ente regulador del sector eléctrico, puestos a debate público. El documento existe. Los plazos existen. Lo que falta es ejecución.
 
@@ -116,13 +116,13 @@ En diciembre de 2025, la subasta de transformadores duró apenas 2 minutos y 16 
 
 En marzo de 2026, ANDE forzó en Contrataciones Públicas la aprobación de una licitación de limpieza por G. 27.600 millones, suspendida por denuncias de direccionamiento. Se exigía Máquinaria específica y certificaciones ISO que solo dos empresas — vinculadas a contratistas actuales de ANDE — podían cumplir.
 
-Paralelamente, ocho funcionarios de ANDE conformaron una asociación criminal para sustraer 334.213 metros lineales de cables del depósito de la sede Boggiani. El perjuicio: G. 7.200 millones. Y el expresidente de ANDE, Carlos Heisele, acusado por desvío de G. 9.400 millones, vio su caso prescribir porque el fiscal Francisco Cabrera presentó el recurso de casación 49 días después del plazo legal.
+Paralelamente, ocho funcionarios de ANDE conformaron una asociación criminal para sustraer 334.213 metros lineales de cables del depósito de la sede Boggiani. El perjuicio: G. 7.200 millones. Y el expresidente de ANDE, Carlos Heisele, acusado por desvío de G. 9.400 millones, vio su caso prescribir porque el fiscal Francisco Cabrera presentó el recurso de casación 49 días después del fallo, fuera del plazo de 10 días.
 
 ### 4.2. Itaipú: la caja negra
 
 El lado paraguayo de Itaipú es un caso de estudio en opacidad. Entre enero 2024 y febrero 2025, la binacional destinó más de G. 1,4 billones (USD 184 millones) en compras que nada tienen que ver con su función, realizadas a través de la Fundación PTI-PY y UNOPS, **bypasseando** completamente a la Dirección Nacional de Contrataciones Públicas y a la Contraloría. En la mayoría de los casos, los proveedores y montos exactos se ocultan.
 
-El caso de los "pupitres de oro" es emblemático: Itaipú pagó USD 94-97 por pupitre escolar a Kamamya SA, cuando el costo FOB en China era de USD 15 por unidad. Incluyendo flete, seguro y despacho aduanero (~USD 17 adicionales por unidad), el sobreprecio real sobre el costo total de importación fue de aproximadamente 62-66%. La empresa compró los pupitres de un fabricante de frazadas — y adquirió los materiales un mes antes del llamado a licitación. Su dueño, Long Jiang, es cercano al vicepresidente Pedro Alliana.
+El caso de los "pupitres de oro" es emblemático: Itaipú pagó USD 94-97 por pupitre escolar a Kamamya SA, cuando el costo FOB en China era de USD 15 por unidad. Incluyendo flete, seguro y despacho aduanero (~USD 17 adicionales por unidad), el sobreprecio real sobre el costo total de importación fue de casi 200%: se pagó casi el triple. La empresa compró los pupitres de un fabricante de frazadas — y adquirió los materiales un mes antes del llamado a licitación. Su dueño, Long Jiang, es cercano al vicepresidente Pedro Alliana.
 
 Itaipú gasta USD 67 millones más al año en salarios que el lado brasileño, con solo 417 funcionarios más. Al menos 20 legisladores tienen familiares en las binacionales con salarios millonarios. El concurso público de 2023 para 220 vacantes fue manipulado: aparecieron "ganadores adicionales" después del resultado oficial.
 
@@ -130,7 +130,7 @@ Y mientras Brasil implementó el Sistema Integrado de Desarrollo Sostenible para
 
 ### 4.3. El blindaje legislativo
 
-La Ley N° 7389 de Integridad y Transparencia dejó fuera de su ámbito de aplicación a las binacionales, lo que en la práctica equivale a una exclusión. El Congreso bloqueó sistemáticamente proyectos para transparentar los fondos sociales de Itaipú y Yacyretá. La comisión bicameral que analiza los informes de la Contraloría es presidida por Dionisio Amarilla — empresario contratista del Estado con deuda millonaria con ANDE y cuya esposa es funcionaria de la CGR.
+La Ley de Integridad, Transparencia y Prevención de la Corrupción (Ley 7389/2024) dejó fuera de su ámbito de aplicación a las binacionales, lo que en la práctica equivale a una exclusión. El Congreso bloqueó sistemáticamente proyectos para transparentar los fondos sociales de Itaipú y Yacyretá. La comisión bicameral que analiza los informes de la Contraloría es presidida por Dionisio Amarilla — empresario contratista del Estado con deuda millonaria con ANDE y cuya esposa es funcionaria de la CGR.
 
 ---
 
@@ -160,7 +160,7 @@ Cuarenta y un suministros activos conforman el Grupo de Consumo Intensivo Especi
 
 Solo cuatro empresas (Cademot SA con 300 MW, Zuns SA con 200 MW, Muiden SA con 130 MW y W3X SA con 100 MW) suman 730 MW, más que una turbina de Itaipú. Los contratos vencen el 31 de diciembre de 2027.
 
-El negocio es redituable para ANDE: USD 350 millones estimados en 2026. Pero genera solo 1,58 empleos por MW contratado. El 66% de las empresas del sector no pagan aportes al IPS. La empresa de mayor consumo (Muiden SA, 124 MW) aporta apenas el 0,07% de su factura eléctrica a la seguridad social.
+El negocio es redituable para ANDE: USD 350 millones estimados en 2026. Pero genera solo 1,58 empleos por MW contratado. El 66% de las empresas del sector no pagan aportes al IPS. La empresa de mayor consumo (Cademot SA, 300 MW) aporta apenas el 0,07% de su factura eléctrica a la seguridad social.
 
 Paralelamente, el senador Salim Buzarquis denunció que altos directivos de ANDE cobran hasta USD 500.000 mensuales en coimas de criptominerías ilegales. Siete ingenieros de ANDE fueron investigados por instalar granjas de minería ilegales.
 
@@ -176,7 +176,7 @@ El expresidente de ANDE, Pedro Ferreira, advirtió que Paraguay podría "empeña
 
 X8 Cloud, empresa con sede en Los Ángeles, firmó un contrato con ANDE para construir el megacentro de IA "más grande de América Latina". Inversión proyectada: entre USD 10.000 y 50.000 millones en 30 años. Su CEO exige contratos de 30 a 50 años y tarifas específicas.
 
-[Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) — cofundador de PayPal y Palantir, entre las 90 personas más ricas del planeta según Forbes — se reunió con Peña junto a Cully Cavness, cofundador de Crusoe AI. El mensaje oficial: exploraban Paraguay como sede para centros de datos. La misma semana, [Paraguay y Taiwán firmaban el memorándum de Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto de centro de IA binacional más ambicioso de la región.
+[Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) — cofundador de PayPal y Palantir, entre las 100 personas más ricas de Estados Unidos según Forbes — se reunió con Peña junto a Cully Cavness, cofundador de Crusoe AI. El mensaje oficial: exploraban Paraguay como sede para centros de datos. La misma semana, [Paraguay y Taiwán firmaban el memorándum de Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto de centro de IA binacional más ambicioso de la región.
 
 ---
 
@@ -269,7 +269,7 @@ Seguí el análisis completo de los temas de energía en Paraguay en la [guía d
       "name": "Por que Paraguay necesita la reforma energética?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El consumo eléctrico nacional crecio un 50% en tres anos, con un 18% solo en 2024. Los excedentes energeticos se agotaran entre 2030 y 2033. La ANDE necesita inversiones de USD 9.000 millones hasta 2043 pero no puede financiarlas sola."
+        "text": "El consumo eléctrico nacional crecio un 50% en tres anos, con un 18,5% solo en 2024. Los excedentes energeticos se agotaran entre 2030 y 2033. La ANDE necesita inversiones de USD 11.000 millones hasta 2043 pero no puede financiarlas sola."
       }
     },
     {
