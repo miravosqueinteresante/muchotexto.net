@@ -233,6 +233,9 @@ Fuentes: ABC Color, El Nacional, ANDE.
 - **Reanudación**: noviembre 2025, tras entrega del informe confidencial brasileño. Confirmado por Félix Sosa (ANDE).
 - **Estado actual (ago 2026)**: conversaciones reanudadas pero sin nuevo Anexo C firmado. Acuerdo tarifario 2024-2026 (USD 19,28/kW-mes) vence 1 de enero de 2027.
 - **NO decir** "congelada desde abril 2025" ni "Anexo C vence en 2027". Lo congelado fue hasta noviembre 2025; lo que vence es el acuerdo tarifario, no el Anexo.
+- **Ingresos de Paraguay por Itaipú (tarifa 2024-2026)**: **USD 1.250 millones/año** = **280 regalías + 650 inversión social + 265 compensación por cesión de energía + 53 utilidades de capital/ANDE**. Fuente: anuncio oficial 9-may-2024 (Presidencia/Itaipú; Diario HOY, Última Hora, MRE). Es una **proyección**: lo efectivamente percibido en 2024 fue **USD 880,9M** (EEFF margen brasileña, ÚH 13-abr-2025); las transferencias directas al Estado bajo el Anexo C (regalías + cesión + pagos ANDE) sumaron **USD 549M**.
+- **NO usar** "USD 1.000 millones" (= 315 + 650, error aritmético) ni el desglose "315 regalías + 650 inversión social y compensación" (fusiona dos componentes y omite 265 + 53). Las regalías oficiales son **280**, no 315,1 (esa variante es de prensa sin fuente primaria).
+- **La pérdida del 60% NO tiene cifra oficial**: el 60% es la caída de la *tarifa* (el servicio de deuda representaba el 60% del costo de Itaipú en 2019, FMI), **no** el 60% de los ingresos paraguayos. **NO usar "USD 600M" ni "USD 750M"** como pérdida. Si hace falta un número: "más de USD 650M" atribuido a ABC Color (1-jun-2025).
 
 ### Fibra óptica y conectividad (datos verificados ago 2026)
 Fuentes: MITIC, BID, DPL News.

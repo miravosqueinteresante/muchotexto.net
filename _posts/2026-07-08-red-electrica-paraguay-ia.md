@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene energía para la IA pero no la red para transportarla"
 date: 2026-07-08
-last_modified_at: 2026-08-15
+last_modified_at: 2026-09-23
 categories: articulos
 tags: infraestructura-energia
 description: "Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan. Yguazú Digital, criptominería y la renegociación de Itaipú chocan…"
@@ -10,7 +10,7 @@ description: "Paraguay genera 8.000 MW pero su red de transmisión no puede llev
 
 Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental: tener energía disponible no es lo mismo que tenerla donde se necesita, cuando se necesita, con la infraestructura para transportarla. Paraguay genera aproximadamente 8.250 megavatios entre su cuota de Itaipú, Yacyretá y Acaray, pero su red de transmisión de 500 kV —la columna vertebral que necesita cualquier país para mover grandes volúmenes de electricidad— se puede contar en kilómetros.
 
-Ese desajuste entre generación y transmisión es, hoy por hoy, el principal obstáculo para que Paraguay se convierta en el hub de inteligencia artificial que promete ser. Y la ventana para resolverlo se está cerrando: 2027 es el año en que vencen los contratos de criptominería, se renegocia el Anexo C de Itaipú y entra en operación la primera fase de Yguazú Digital. Tres fechas que convergen en un mismo punto, que es también donde la red eléctrica paraguaya muestra sus límites.
+Ese desajuste entre generación y transmisión es, hoy por hoy, el principal obstáculo para que Paraguay se convierta en el hub de inteligencia artificial que promete ser. Y la ventana para resolverlo se está cerrando: 2027 es el año en que vencen los contratos de criptominería, vence el acuerdo tarifario de Itaipú y entra en operación la primera fase de Yguazú Digital. Tres fechas que convergen en un mismo punto, que es también donde la red eléctrica paraguaya muestra sus límites.
 
 ## La paradoja de la abundancia: sobra generación, falta transmisión
 
@@ -24,7 +24,7 @@ Mientras tanto, el costo medio de generación del mix paraguayo (Itaipú + Yacyr
 
 ## La tormenta perfecta de 2027: data centers, criptominería y Anexo C
 
-La renegociación del Anexo C del Tratado de Itaipú arrastra demoras desde 2023. El acuerdo vigente fijó la tarifa en 19,28 dólares por kilovatio-mes para 2024, 2025 y 2026. A partir del 1 de enero de 2027, si no hay un nuevo acuerdo, la tarifa que Brasil paga por el excedente de energía paraguayo caería aproximadamente un 60%, al costo puro de operación. Paraguay perdería aproximadamente 750 millones de dólares anuales —el 60% de los aproximadamente 1.250 millones que recibe actualmente en royalties, compensaciones y gastos sociales—, lo que equivale a alrededor del 12% de toda la recaudación estatal.
+La renegociación del Anexo C del Tratado de Itaipú arrastra demoras desde 2023. El acuerdo tarifario vigente fijó la tarifa en 19,28 dólares por kilovatio-mes para 2024, 2025 y 2026. A partir del 1 de enero de 2027, si no hay un nuevo acuerdo, la tarifa que Brasil paga por el excedente de energía paraguayo caería aproximadamente un 60%, al costo puro de operación. Paraguay proyecta recibir unos 1.250 millones de dólares anuales de Itaipú —280 en regalías, 650 en inversión social, 265 en compensación y 53 en utilidades—; el impacto exacto de la caída del 60% sobre esos ingresos no está cuantificado oficialmente. Los ingresos de Itaipú representan alrededor del 12% de toda la recaudación estatal.
 
 El presidente Santiago Peña ha dicho que prefiere "un buen acuerdo sobre un acuerdo rápido". El ministro Giménez reportó un 80% de avance en las negociaciones, pero el escándalo ABIN de abril de 2025 —cuando se reveló que la agencia de inteligencia brasileña espió a funcionarios paraguayos durante las negociaciones— suspendió las conversaciones y envenenó el clima.
 
@@ -99,7 +99,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Qué es el Anexo C de Itaipú y por qué importa en 2027?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El Anexo C es el anexo financiero del Tratado de Itaipú que fija el precio de la electricidad. Si no se renueva antes de 2027, la tarifa que Brasil paga por el excedente paraguayo caería un 60%, y Paraguay perdería aproximadamente 750 millones de dólares anuales —el 60% de los ~1.250 millones que recibe actualmente—, el equivalente al 12% de la recaudación estatal."
+        "text": "El Anexo C es el anexo financiero del Tratado de Itaipú que fija el precio de la electricidad. Si no se renueva antes de 2027, la tarifa que Brasil paga por el excedente paraguayo caería un 60%. Paraguay proyecta recibir unos 1.250 millones de dólares anuales de Itaipú (un ~12% de la recaudación estatal); el impacto exacto de la caída del 60% no está cuantificado oficialmente."
       }
     },
     {

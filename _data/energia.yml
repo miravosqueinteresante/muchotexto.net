@@ -82,3 +82,20 @@ distincion:
   - "Potencia reservada (943,8 MW) es lo contratado, no lo que se consume en cada momento."
   - "Carga efectiva GCIE: 854 MW (2025) y 803 MW (2026)."
   - "943,8 MW equivalen a ~13,5% de la potencia que le corresponde a Paraguay de Itaipú (7.000 MW), no de la energía anual."
+
+itaipu_ingresos:
+  fuente: "Anuncio oficial 9-may-2024 (Presidencia/Itaipú); Diario HOY, Última Hora, MRE"
+  vigencia: "tarifa 2024-2026 (USD 19,28/kW-mes)"
+  total: "USD 1.250 millones/año"
+  componentes:
+    - label: "Regalías"
+      monto: "USD 280M"
+    - label: "Inversión social"
+      monto: "USD 650M"
+    - label: "Compensación por cesión de energía"
+      monto: "USD 265M"
+    - label: "Utilidades de capital / ANDE"
+      monto: "USD 53M"
+  real_2024: "USD 880,9M efectivamente percibidos (EEFF margen brasileña, ÚH 13-abr-2025)"
+  transferencias_directas_2024: "USD 549M (regalías + cesión + pagos ANDE)"
+  perdida_60: "Sin cifra oficial. El 60% es la caída de la tarifa (servicio de deuda = 60% del costo de Itaipú en 2019, FMI), no de los ingresos paraguayos. NO usar USD 600M ni 750M. Si hace falta número: 'más de USD 650M' (ABC Color, 1-jun-2025)."

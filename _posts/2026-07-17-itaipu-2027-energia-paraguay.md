@@ -1,11 +1,11 @@
 ﻿---
 layout: post
-title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
+title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
 date: 2026-07-17
 last_modified_at: 2026-09-23
 categories: articulos
 tags: infraestructura-energia ia-paraguay
-description: "El acuerdo tarifario de Itaipú vence el 1 de enero de 2027. La negociación del Anexo C se reanudó en noviembre de 2025 tras un caso de espionaje. Paraguay recibe USD 1.000M al año y podría perder el 60%."
+description: "El acuerdo tarifario de Itaipú vence el 1 de enero de 2027. La negociación del Anexo C se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año."
 ---
 
 El 26 de abril de 1973, Paraguay y Brasil firmaron el Tratado de Itaipú. Cincuenta y tres años después, la represa hidroeléctrica con mayor generación acumulada de la historia —14.000 megavatios instalados, 20 turbinas de 700 megavatios cada una— produce más electricidad que cualquier otra central del planeta y representa aproximadamente el 12% de los ingresos del Estado paraguayo. El 1 de enero de 2027 vence el acuerdo tarifario que fija el precio al que Paraguay le vende su energía excedente a Brasil; el Anexo C en sí no vence ese año. La negociación para renovarlo se suspendió en abril de 2025, cuando se reveló que la Agencia Brasileña de Inteligencia espió a funcionarios paraguayos, y se reanudó en noviembre de ese año.
@@ -16,11 +16,11 @@ Paraguay se enfrenta a una paradoja. Genera alrededor de 1,5 veces la electricid
 
 El Tratado de Itaipú establece que la energía generada se divide en partes iguales entre Paraguay y Brasil. Pero Paraguay no usa toda su mitad: consume alrededor del 70% (25.768 GWh en 2025) y cede cerca del 30% a Brasil. El precio de esa cesión no lo fija el mercado. Lo fija el Anexo C.
 
-El anexo funciona con una lógica de costo de servicio: la tarifa debe cubrir los gastos operativos, el servicio de la deuda y las inversiones necesarias. Como la deuda de construcción se terminó de pagar en 2023, la tarifa bajó. En mayo de 2024, los presidentes Santiago Peña y Luiz Inácio Lula da Silva acordaron una tarifa de 19,28 dólares por kilovatio-mes para el período 2024-2026. Con esa tarifa, Itaipú genera ingresos totales de aproximadamente 2.000 millones de dólares al año. Paraguay recibe alrededor de 1.000 millones —unos 315 millones en regalías, 650 millones en inversión social y compensación energética—. Es, consistentemente, una de las fuentes de ingreso más importantes del Estado.
+El anexo funciona con una lógica de costo de servicio: la tarifa debe cubrir los gastos operativos, el servicio de la deuda y las inversiones necesarias. Como la deuda de construcción se terminó de pagar en 2023, la tarifa bajó. En mayo de 2024, los presidentes Santiago Peña y Luiz Inácio Lula da Silva acordaron una tarifa de 19,28 dólares por kilovatio-mes para el período 2024-2026. Con esa tarifa, Itaipú genera ingresos totales de aproximadamente 2.000 millones de dólares al año. Paraguay proyectó recibir unos 1.250 millones anuales —280 millones en regalías, 650 millones en inversión social, 265 millones por compensación de energía cedida a Brasil y 53 millones en utilidades de capital para la ANDE—. Es, consistentemente, una de las fuentes de ingreso más importantes del Estado.
 
 Pero el acuerdo de 2024 fue un puente, no una solución. Fijó la tarifa por tres años —2024, 2025 y 2026— y estableció que a partir del 1 de enero de 2027 Paraguay podría contratar la energía según sus propias necesidades, en lugar de recibir un bloque fijo. También le dio a Paraguay el derecho de vender su excedente en el mercado libre brasileño, rompiendo el monopolio que Eletrobras primero y ENBPar después mantuvieron durante décadas. Son avances reales. Pero no resuelven el problema de fondo: qué tarifa va a regir cuando venza el acuerdo actual.
 
-Si no hay acuerdo, la tarifa no desaparece —cae al costo de producción. Los expertos estiman que eso significaría una reducción de aproximadamente el 60% respecto al nivel actual. Para Paraguay, que depende de esos ingresos para financiar programas sociales, infraestructura y gasto corriente, es un agujero fiscal de aproximadamente 600 millones de dólares al año. Para Brasil, cuya posición —según los expertos citados por la prensa paraguaya— es reducir el presupuesto al mínimo, es un ahorro.
+Si no hay acuerdo, la tarifa no desaparece —cae al costo de producción. Los expertos estiman que eso significaría una reducción de aproximadamente el 60% respecto al nivel actual de la tarifa. El efecto sobre los ingresos paraguayos no está cuantificado oficialmente: la prensa estima que pondría en riesgo el presupuesto de gastos sociales de USD 650 millones anuales (ABC Color, 1-jun-2025), mientras que el propio FMI calculó que, si ese ahorro se redistribuyera como regalías, Paraguay podría sumar hasta USD 500 millones anuales. Para Brasil, cuya posición —según los expertos citados por la prensa paraguaya— es reducir el presupuesto al mínimo, es un ahorro.
 
 ## La paradoja paraguaya: energía de sobra y red que no alcanza
 
@@ -46,7 +46,7 @@ Hay tres desenlaces posibles para la próxima etapa de Itaipú.
 
 El primero es un acuerdo negociado. Paraguay aceptaría una tarifa menor a la actual —en el rango de 12 a 15 dólares por kilovatio-mes, según estimaciones de expertos citados por la prensa paraguaya— a cambio de mantener los programas de inversión social, garantizar el suministro para su propio consumo y conservar la libertad de vender excedentes en el mercado brasileño. Sería un ingreso menor al actual, pero predecible y sostenible. Este es el escenario más probable si se reanudan las negociaciones.
 
-El segundo es la ausencia de acuerdo. La tarifa cae automáticamente al costo de producción. Paraguay pierde aproximadamente 600 millones de dólares al año. Los programas sociales que financia Itaipú —que representan una porción significativa del gasto en salud, educación e infraestructura— se quedan sin una fuente estable de financiamiento. ANDE, que ya opera con un déficit crónico por sus tarifas políticas, enfrenta un agujero adicional.
+El segundo es la ausencia de acuerdo. La tarifa cae automáticamente al costo de producción. El impacto exacto sobre los ingresos paraguayos no está cuantificado: el presupuesto de gastos sociales (unos USD 650 millones anuales) quedaría en riesgo, según estimaciones de prensa. Los programas sociales que financia Itaipú —que representan una porción significativa del gasto en salud, educación e infraestructura— se quedarían sin una fuente estable de financiamiento. ANDE, que ya opera con un déficit crónico por sus tarifas políticas, enfrenta un agujero adicional.
 
 El tercero es el que casi nadie menciona pero que el crecimiento de la demanda vuelve cada vez más plausible: Paraguay deja de ser un exportador neto de energía. Si la demanda sigue creciendo a dos dígitos y la red de transmisión se expande, en algún momento de la próxima década Paraguay va a necesitar toda su energía de Itaipú. En ese escenario, la negociación con Brasil cambia de naturaleza: Paraguay ya no discute cuánto le pagan, sino cuánta energía puede retener.
 
@@ -95,7 +95,7 @@ Leé el análisis completo sobre infraestructura y energía en la [guía de inte
       "name": "¿Cuánto dinero recibe Paraguay de Itaipú?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Aproximadamente USD 1.000 millones al año —unos USD 315 millones en regalías, USD 650 millones en inversión social y compensación energética—. Representa aproximadamente el 12% de los ingresos del Estado paraguayo. Si no hay acuerdo para renovar el Anexo C, la tarifa podría caer un 60%, lo que significaría una pérdida de aproximadamente USD 600 millones anuales."
+        "text": "Paraguay proyectó recibir unos USD 1.250 millones al año —USD 280 millones en regalías, USD 650 millones en inversión social, USD 265 millones por compensación de energía cedida y USD 53 millones en utilidades para la ANDE—. Representa aproximadamente el 12% de los ingresos del Estado paraguayo. Si no hay acuerdo para renovar el Anexo C, la tarifa podría caer un 60%; el impacto exacto sobre los ingresos no está cuantificado oficialmente."
       }
     },
     {
