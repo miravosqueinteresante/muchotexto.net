@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-09-22
+last_modified_at: 2026-09-25
 entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
@@ -29,6 +29,9 @@ related_articles:
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
     context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
+  - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
+    url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
+    context: "Paraguay podría producir hidrógeno verde a un costo entre los más bajos de Sudamérica. Tiene electricidad barata para grandes consumidores (la tarifa GCIE, USD 0,03 por kilovatio-hora), agua abundante del río Paraná y una subestación de 200 MW en..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
@@ -99,6 +102,9 @@ obs_casos-de-uso:
   - label: "Apertura del sector eléctrico"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. Leer más sobre inversión tech."
+  - label: "Hidrógeno verde y fertilizantes"
+    url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
+    context: "Paraguay tiene potencial para producir el hidrógeno más barato de Sudamérica (LCOH USD 1.50/kg a 2030). PTI-PY opera unidad experimental. Estrategia Nacional 2025 pivotea a fertilizantes para Brasil."
   - label: "Criptominería"
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
@@ -111,9 +117,6 @@ obs_casos-de-uso:
   - label: "Modernización institucional del sector eléctrico"
     url: /articulos/2026/08/19/modelo-institucional-psr-sector-electrico/
     context: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay,..."
-  - label: "Transparencia de los contratos GCIE"
-    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-    context: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW)..."
 ---
 
-9 articulos en el observatorio mencionan a ANDE.
+10 articulos en el observatorio mencionan a ANDE.

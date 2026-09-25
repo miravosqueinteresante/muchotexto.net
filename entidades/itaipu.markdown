@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-09-22
+last_modified_at: 2026-09-25
 entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
@@ -14,7 +14,7 @@ entity_category: infraestructura
 entity_datos_url: https://datospublicos.muchotexto.net/itaipu.html
 entity_datos_desc: "serie 2000–2026: generación por sector 50/60 Hz y suministro a Paraguay y Brasil"
 related_articles:
-  - title: "En 2027 Paraguay puede perder mil millones de dólares de Itaipú"
+  - title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
     context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
@@ -26,9 +26,6 @@ related_articles:
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "- ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones' (4 julio 2026) - [Última Hora —..."
-  - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
-    url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
-    context: "## Paraguay puede perder mil millones de dólares de Itaipú en 2027 si no se renegocia el Anexo C. Y la red de transmisión de la ANDE —[el cuello de botella de la IA global]({% post_url..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
     context: "1. Wikipedia (EN) — Electricity sector in Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
@@ -48,7 +45,7 @@ obs_glosario:
 obs_cronologia:
   - label: "30 Agosto 1965"
     url: /cronologia/
-    context: "La Ley 1081 crea la Comisión Nacional de Energía Atómica (CNEA), primer intento institucional de Paraguay por entrar a la era nuclear. El acuerdo con Brasil de 1966 que llevó a Itaipú disipó el..."
+    context: "La Ley 1081 crea la Comisión Nacional de Energía Atómica (CNEA), primer intento institucional de Paraguay por entrar a la era nuclear. Según el relato de los protagonistas, el acuerdo con Brasil de..."
   - label: "1973"
     url: /cronologia/
     context: "Paraguay y Brasil firman el Tratado de Itaipú: 14.000 MW, la hidroeléctrica más grande del mundo."
@@ -102,4 +99,4 @@ obs_casos-de-uso:
     context: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW)..."
 ---
 
-7 articulos en el observatorio mencionan a Itaipú.
+6 articulos en el observatorio mencionan a Itaipú.

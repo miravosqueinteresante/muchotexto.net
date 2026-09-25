@@ -3,8 +3,9 @@
   - orden: '1965-08-30'
     fecha: 30 Agosto 1965
     texto: La Ley 1081 crea la Comisión Nacional de Energía Atómica (CNEA), primer
-      intento institucional de Paraguay por entrar a la era nuclear. El acuerdo con
-      Brasil de 1966 que llevó a Itaipú disipó el interés. [Leer análisis](/articulos/2026/09/23/energia-nuclear-paraguay-eeuu/)
+      intento institucional de Paraguay por entrar a la era nuclear. Según el relato
+      de los protagonistas, el acuerdo con Brasil de 1966 que llevó a Itaipú disipó
+      el interés. [Leer análisis](/articulos/2026/09/23/energia-nuclear-paraguay-eeuu/)
   - orden: '1973'
     fecha: '1973'
     texto: 'Paraguay y Brasil firman el [Tratado de Itaipú](/articulos/2026/07/17/itaipu-2027-energia-paraguay/):
@@ -240,6 +241,12 @@
     texto: HIVE Digital lanza BUZZ AI Cloud en el data center Tier III de Tigo (Villa
       Elisa), un clúster de GPU que la Universidad de Columbia usa para entrenar modelos
       de lenguaje desde Nueva York hacia Asunción. [Leer análisis](/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
+  - orden: '2026-04-21'
+    fecha: 21 Abril 2026
+    texto: El MIC firma la Resolución 0283/2026, que reglamenta la Constancia de Inversionista
+      Extranjero (CIE) y habilita cuatro vías de inversión para acceder a la residencia
+      permanente sin pasar por la temporal. El 'Investor Pass' se lanza como marca
+      el 17 de abril en São Paulo. [Leer análisis](/articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/)
   - orden: 2026-05
     fecha: Mayo 2026
     texto: MITIC adjudica el [Data Center estatal Tier III](/articulos/2026/07/16/ia-soberana-paraguay/)

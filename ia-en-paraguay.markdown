@@ -88,9 +88,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 - **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
 
-**Próximamente:**
-
-- **Investor Pass: Paraguay compite por nómades tech con residencia desde USD 70.000** — Resolución 0283/2026 del MIC habilita cuatro modalidades de residencia permanente directa para inversores extranjeros. Sin los dos años de temporal que exigía el régimen anterior. Verificado con La Nación, 9-ago-2026.
+- **[Paraguay vende la residencia por inversión más barata de la región]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria). El ticket más bajo de Sudamérica, con la letra chica del arraigo y el escrutinio del GAFILAT.
 
 ## IA, sociedad y trabajo
 
