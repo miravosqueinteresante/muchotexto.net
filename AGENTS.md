@@ -51,6 +51,14 @@ El agente de verificación hará lo siguiente automáticamente:
 
 **Cruce contra la capa de datos (energía):** para claims de consumo, generación, suministro, pérdidas, clientes o tarifas, el fact-checker DEBE contrastar contra `_data/datos_publicos.json` ANTES de buscar en la web (ver §Capa de datos local). Si el indicador existe en la capa y su `estado_verificacion` es `verificado`/`revisado`, el dato se usa con su `url` de proveniencia. Si es `extraido` o `requiere_revision`, se abre la `url` original del indicador y se contrasta antes del veredicto.
 
+**Regla de superlativos (universo completo):** todo superlativo regional, nacional o mundial ("el más barato de la región", "el único del mundo", "ningún otro país") se verifica contra el **universo completo de la comparación**, no contra la muestra citada en el artículo. Un superlativo es un claim de completitud: exige que el autor haya descartado a *todos* los competidores relevantes. Si la muestra no es exhaustiva, se acota ("uno de los más bajos", "entre los más bajos") o se elimina. (Error histórico: "la residencia por inversión más barata de la región" se publicó comparando solo Panamá, Costa Rica, Chile y Portugal, omitiendo a Ecuador, más barato.)
+**Universos canónicos para comparaciones frecuentes:**
+- *Energía/tarifas*: 13 países de CIER 2025 (ver canon §Tarifas); no decir "la más barata de Sudamérica" sin la fuente CIER.
+- *Data centers vs minería*: distinguir colocation comercial (1-2 MW) de criptominería (~850 MW); no mezclar.
+- *Residencia por inversión*: incluir Ecuador (temporal, ~USD 48.200), Uruguay y Argentina (sin inversión mínima), Brasil, Colombia, Perú, Bolivia, México, además de Panamá/Costa Rica/Chile/Portugal.
+- *HIVE*: 300 MW operativos ASIC (Tier-I) ≠ expansión GPU 100 MW (Tier-III, 2027); "el mayor" solo dentro de su categoría.
+- *Tier III*: solo Tigo (Villa Elisa) e Itaipú (Hernandarias) tienen certificación Uptime vigente en Paraguay.
+
 ### Paso 3: Corregir y commitear
 1. Aplicar las correcciones indicadas por el agente.
 2. **Grep global del dato corregido**: tras corregir un número, fecha, nombre o frase errónea, buscarlo en TODO el artículo (`grep`) para cazarlo en todas sus apariciones. No corregir solo la primera ocurrencia y dejar residuos.

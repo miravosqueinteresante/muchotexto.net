@@ -248,6 +248,28 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     elif words > 2500:
         warnings.append(f"Articulo largo: {words} palabras (maximo 2.500)")
 
+    # === CHECK: superlativos regionales/mundiales (warning) ===
+    # Regla AGENTS.md: un superlativo ("el mas barato de la region", "el unico
+    # del mundo") exige verificar el UNIVERSO COMPLETO, no la muestra citada.
+    # Este check no decide verdad: obliga a declarar la fuente en la linea.
+    super_patterns = [
+        r'\b(el|la|los|las)\s+m[aá]s\s+(barat\w+|car[oa]s?|grande\w*|r[aá]pid\w+|alt[oa]s?|baj[oa]s?|limpia\w*|ambicios\w+|competitiv\w+)\s+(de|del|en)\s+(la\s+regi[oó]n|sudam[eé]rica|latinoam[eé]rica|am[eé]rica\s+latina|el\s+mundo|el\s+pa[ií]s|la\s+historia)\b',
+        r'\b(el|la)\s+[uú]nic[oa]\s+\w+\s+(de|del|en)\s+(la\s+regi[oó]n|sudam[eé]rica|latinoam[eé]rica|am[eé]rica\s+latina|el\s+mundo)\b',
+        r'\b(ning[uú]n\s+otr[oa]\s+pa[ií]s|el\s+primero\s+(del|en\s+el)\s+mundo)\b',
+    ]
+    super_found = []
+    for para in body.splitlines():
+        for pat in super_patterns:
+            if re.search(pat, para, re.IGNORECASE):
+                frag = para.strip()[:90]
+                super_found.append(frag)
+                break
+    if super_found:
+        warnings.append(
+            "Superlativo regional/mundial detectado (verificar contra el UNIVERSO "
+            "COMPLETO, no la muestra citada — regla §5.7): " + " | ".join(super_found[:3])
+        )
+
     slug = os.path.basename(post_path)
     slug_no_ext = slug.replace(".md", "")
     if not slug_no_ext.isascii():

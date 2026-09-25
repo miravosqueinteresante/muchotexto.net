@@ -25,7 +25,7 @@ directorio:
     url: "https://www.mic.gov.py/constancias-de-inversionistas/"
 ---
 
-Paraguay puso en el mercado el producto migratorio más agresivo de Sudamérica: **residencia permanente por inversión desde USD 70.000**, sin pasar por la residencia temporal de dos años que exigen sus vecinos. Lo bautizaron *Investor Pass*. No es el más barato de la región —Ecuador exige menos, pero da residencia temporal—, aunque sí es el más directo. Y el país que lo ofrece es el mismo que está bajo seguimiento internacional por lavado de activos y arrastra casos documentados de venta de cédulas.
+Paraguay acaba de lanzar una de las apuestas migratorias más agresivas de Sudamérica: **residencia permanente por inversión desde USD 70.000**, sin pasar por la residencia temporal de dos años que exigen sus vecinos. Lo bautizaron *Investor Pass*. No es el más barato de la región —Ecuador exige menos, pero da residencia temporal—, aunque sí es el más directo. Y el país que lo ofrece es el mismo que está bajo seguimiento internacional por lavado de activos y arrastra casos documentados de venta de cédulas.
 
 > **En resumen:**
 > - La **Resolución MIC 0283/2026** (21-abr-2026) reglamenta la **Constancia de Inversionista Extranjero (CIE)**; la residencia permanente la concede **Migraciones** al amparo de una excepción de la Ley 6984/2022. El "Investor Pass" es la marca, no el instrumento.
