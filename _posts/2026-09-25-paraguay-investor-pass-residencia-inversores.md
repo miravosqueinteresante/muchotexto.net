@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Paraguay vende la residencia por inversión más barata de la región"
+title: "Paraguay firma la residencia permanente más rápida de la región"
 date: 2026-09-25 09:00:00 -0300
 last_modified_at: 2026-09-25
 categories: [articulos]
 tags: [geopolitica, regulacion, migracion, inversion-extranjera, paraguay]
-description: "Paraguay ofrece residencia permanente por inversión desde USD 70.000, sin pasar por la temporal. La más barata y la menos exigente de la región."
+description: "El Investor Pass da residencia permanente por inversión desde USD 70.000 en unos tres meses. No es la más barata, pero sí la más directa de la región."
 schema_type: TechArticle
 hitos:
   - fecha: "2026-04-21"
@@ -17,7 +17,7 @@ glosario:
 casos:
   - tema: "Geopolítica"
     titulo: "El ticket más barato de la región"
-    texto: "Paraguay concede residencia permanente directa desde USD 70.000 (vía productiva) o USD 150.000 (turismo). Panamá exige USD 200.000 y una residencia provisional de dos años; Costa Rica, USD 150.000 sin permanencia directa; Chile, USD 500.000; Portugal, €500.000 en fondos, tras eliminar la vía inmobiliaria en 2023."
+    texto: "Paraguay concede residencia permanente directa desde USD 70.000 (vía productiva) o USD 150.000 (turismo), en unos tres meses. No es el más barato de la región —Ecuador pide USD 48.200, pero solo concede residencia temporal—; Panamá exige USD 200.000 y dos años de residencia provisional, Costa Rica USD 150.000 sin permanencia directa, Chile USD 500.000 y Portugal €500.000 en fondos."
 directorio:
   - seccion: "Instituciones"
     nombre: "MIC — Constancia de Inversionista Extranjero (SUACE)"
@@ -25,12 +25,12 @@ directorio:
     url: "https://www.mic.gov.py/constancias-de-inversionistas/"
 ---
 
-Paraguay puso en el mercado el producto migratorio más agresivo de Sudamérica: **residencia permanente por inversión desde USD 70.000**, sin pasar por la residencia temporal de dos años que exigen sus vecinos. Lo bautizaron *Investor Pass*. Pero el nombre es marketing; lo que existe es una resolución ministerial que reglamenta una excepción que ya estaba en la ley. Y el país que la ofrece es el mismo que está bajo seguimiento internacional por lavado de activos y arrastra casos documentados de venta de cédulas.
+Paraguay puso en el mercado el producto migratorio más agresivo de Sudamérica: **residencia permanente por inversión desde USD 70.000**, sin pasar por la residencia temporal de dos años que exigen sus vecinos. Lo bautizaron *Investor Pass*. No es el más barato de la región —Ecuador exige menos, pero da residencia temporal—, aunque sí es el más directo. Y el país que lo ofrece es el mismo que está bajo seguimiento internacional por lavado de activos y arrastra casos documentados de venta de cédulas.
 
 > **En resumen:**
 > - La **Resolución MIC 0283/2026** (21-abr-2026) reglamenta la **Constancia de Inversionista Extranjero (CIE)**; la residencia permanente la concede **Migraciones** al amparo de una excepción de la Ley 6984/2022. El "Investor Pass" es la marca, no el instrumento.
 > - Cuatro vías: inversión **productiva desde USD 70.000** (con 5 empleos), **turística USD 150.000**, **financiera e inmobiliaria USD 200.000** (estas sin plan ni empleo).
-> - Es el **ticket de entrada más bajo de la región** y el único que da permanencia directa; Panamá pide USD 200.000 y una etapa provisional.
+> - Es **uno de los tickets de entrada más bajos de la región y el más directo**: otorga la residencia permanente en unos tres meses, cuando Panamá exige USD 200.000 y una etapa provisional, Chile USD 500.000 y Ecuador —más barato, USD 48.200— solo concede residencia temporal.
 > - A agosto de 2026 el régimen había emitido **140 constancias** por **USD 31 millones** declarados. Del total migratorio, solo ~**19%** de las residencias otorgadas a brasileños en 2025 fueron permanentes.
 > - Paraguay **no está en la lista gris del GAFI**, pero sí bajo **seguimiento intensificado del GAFILAT hasta 2028**, y el requisito de arraigo es mínimo: **80% de las solicitudes son temporales y no obligan a residir**.
 
@@ -63,7 +63,7 @@ Con esa constancia, el segundo tramo es la **residencia permanente ante Migracio
 
 ## Qué dicen los números (no el folleto)
 
-El régimen ya tiene resultados medibles. A **25 de agosto de 2026**, según ABC Color, se habían emitido **140 constancias** e inversiones declaradas por **USD 31.027.812**, con **1.026 empleos proyectados**, sobre todo en la vía productiva. Es un volumen modesto: unos USD 220.000 promedio por constancia.
+El régimen ya tiene resultados medibles. Según ABC Color, al cierre del primer semestre de 2026 se habían emitido **140 constancias** e inversiones declaradas por **USD 31.027.812**, con **1.026 empleos proyectados**, sobre todo en la vía productiva. Es un volumen modesto: unos USD 220.000 promedio por constancia.
 
 El cuadro general lo pone en contexto. En 2025, Migraciones registró **47.687 solicitudes** de residencia y otorgó **40.600**, con **Brasil** dominando el ranking (23.526, el 58%). Pero el dato clave está en la letra chica: solo el **19% de las residencias otorgadas a brasileños** ese año fueron permanentes, contra el 68% en 2020. La mayoría usa la residencia temporal —que no obliga a vivir en el país— para "evaluar" si se instala. La constancia de inversión es un atajo, pero por ahora lo usan pocos.
 
@@ -71,13 +71,13 @@ El cuadro general lo pone en contexto. En 2025, Migraciones registró **47.687 s
 
 Lo que atrae no es el trámite, sino el entorno. Paraguay tiene un régimen **territorial**: el Impuesto a la Renta Personal grava solo las rentas de **fuente paraguaya**, de modo que los dividendos, intereses y ganancias de capital del exterior no tributan. El famoso **"10/10/10"** es un eslogan que simplifica: son tasas del 10% en IVA e IRE, pero el IRP va del 8% al 10% (con un umbral de 120 salarios mínimos que casi nadie alcanza), las rentas de capital tributan 8% y los no residentes, 15%. La presión fiscal ronda el **14-14,5% del PIB**, la segunda más baja de la región después de Panamá.
 
-A eso se suma el costo de vida: en el índice de Numbeo (mediados de 2026) Paraguay puntúa **32,0** sobre una base de 100 para Nueva York, por debajo de Brasil (33,1) y muy por debajo de Uruguay (54,0). Y una advertencia: los ingresos de **servicios facturados desde Paraguay a clientes del exterior** son una zona gris —la ley considera de fuente paraguaya ciertos servicios prestados desde el exterior—, de modo que "los nómadas no pagan nada" es falso como regla general.
+A eso se suma el costo de vida: en el índice de Numbeo (mediados de 2026) Paraguay puntúa **32,0** sobre una base de 100 para Nueva York, por debajo de Brasil (33,1) y muy por debajo de Uruguay (54,0). Y una advertencia: los ingresos de **servicios facturados desde Paraguay a clientes del exterior** son una zona gris —la ley considera de fuente paraguaya ciertos servicios vinculados al territorio—, de modo que "los nómadas no pagan nada" es falso como regla general.
 
-En la comparación regional, el *Investor Pass* queda como el outlier barato: **Panamá** exige USD 200.000 y concede residencia provisional por dos años antes de la permanente; **Costa Rica**, USD 150.000 pero sin permanencia directa; **Chile**, USD 500.000; **Portugal**, €500.000 en fondos tras eliminar la vía inmobiliaria en 2023 y endurecer la nacionalidad a 10 años para los no comunitarios. Paraguay, en cambio, ofrece la permanencia directa y el ticket más bajo.
+En la comparación regional, el *Investor Pass* no es el más barato —Ecuador concede una residencia de inversionista con unos USD 48.200, pero **solo por dos años**—, pero sí es el más directo: **Panamá** exige USD 200.000 y concede residencia provisional por dos años antes de la permanente; **Costa Rica**, USD 150.000 pero sin permanencia directa; **Chile**, USD 500.000; **Portugal**, €500.000 en fondos tras eliminar la vía inmobiliaria en 2023 y endurecer la nacionalidad a 10 años para los no comunitarios. Paraguay ofrece la permanencia directa en unos tres meses con el ticket más bajo entre los programas que la conceden de entrada.
 
 ## La letra chica: controles, riesgos y una etiqueta sin fuente
 
-Acá el folleto se vuelve incómodo. Empecemos por desactivar un error frecuente: **Paraguay no está en la lista gris del GAFI** —no figura entre las jurisdicciones bajo monitoreo intensificado en las listas de octubre de 2025, febrero y junio de 2026—. Lo que sí existe es un **seguimiento intensificado del GAFILAT**, su organismo regional, que se extiende **hasta 2028**; no es lo mismo, y confundirlos es un error. Tampoco la OCDE señaló a Paraguay en su lista de programas de residencia de alto riesgo: de la región, mantiene a **Panamá** en su tabla de esquemas con documentación identificable, y a Colombia —que sí estaba en la lista original de 2018— la retiró en 2019.
+Acá el folleto se vuelve incómodo. Empecemos por desactivar un error frecuente: **Paraguay no está en la lista gris del GAFI** —no figura entre las jurisdicciones bajo monitoreo intensificado en las listas de octubre de 2025, febrero y junio de 2026—. Lo que sí existe es un **seguimiento intensificado del GAFILAT**, su organismo regional, que se extiende **hasta 2028**; no es lo mismo, y confundirlos es un error. Tampoco la OCDE señaló a Paraguay en su lista de programas de residencia de alto riesgo: en la nómina de 2018 —la última publicada con nombres— figuran Colombia y Panamá, no Paraguay.
 
 Pero los riesgos están documentados. En octubre de 2025 la Fiscalía imputó a **11 policías** del Departamento de Identificaciones por vender cédulas paraguayas a criminales internacionales, incluidos extranjeros que ni siquiera habían ingresado al país. Una evaluación nacional impulsada por el GAFILAT identificó **297 propiedades** construidas con dinero del narcotráfico, concentradas en ciudades fronterizas con Brasil. Y el propio director de Migraciones reconoció que el **80% de las solicitudes son temporales** y que, en ese periodo, los extranjeros **no están obligados a residir** en Paraguay: estructuralmente, eso coincide con la definición de "alto riesgo" que usa la OCDE —baja tributación sin presencia física significativa—, aunque Paraguay no esté en la lista nombrada.
 
@@ -145,6 +145,8 @@ El *Investor Pass* es, a la vez, una política de atracción real y un ejercicio
 20. [ABC Color — "Imputan a 11 policías por venta de cédulas" (24-oct-2025)](https://www.abc.com.py/policiales/2025/10/24/imputan-a-11-policias-por-venta-de-cedulas/)
 21. [SERMIG Chile — Residencia temporal subcategoría Inversionistas (USD 500.000)](https://serviciomigraciones.cl/residencia-temporal/subcategorias/inversionistas/)
 22. [El Nacional — Respuesta de los desarrolladores inmobiliarios (10-ago-2025)](https://elnacional.com.py/economia/desarrolladores-dicen-buscan-desprestigiar-boom-inmobiliario-n90415)
+23. [OCDE — Residence/Citizenship by investment schemes (lista de esquemas de alto riesgo)](https://www.oecd.org/en/topics/sub-issues/international-standards-on-tax-transparency/residence-citizenship-by-investment.html)
+24. [gob.ec — Visa de residencia temporal de inversionista, 100 salarios básicos unificados (Ecuador)](https://www.gob.ec/)
 
 **Metodología:** Artículo elaborado con la investigación de agentes de búsqueda (§5.8) documentada en `research_investor_pass/`, auditable paso a paso. La distinción entre la resolución del MIC, la Ley 6984/2022 y el rol de Migraciones se verificó contra el texto de la ley en BACN y los comunicados oficiales. Los datos fiscales se contrastaron contra la DNIT. Las cifras migratorias provienen del informe oficial de la Dirección Nacional de Migraciones. Las etiquetas de riesgo se atribuyen a sus fuentes; la expresión "residencia de papel" se presenta como descripción del autor, no como cita de un organismo.
 
