@@ -64,7 +64,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay tiene telemedicina desde 2013, la IA en salud todavía no](https://muchotexto.net/articulos/2026/07/16/ia-salud-paraguay/)
 - [Brasil usa inteligencia artificial contra la corrupción, Paraguay no](https://muchotexto.net/articulos/2026/07/17/ia-corrupcion-paraguay/)
 - [Los agentes de IA actuaron sin control y Paraguay no tiene defensas](https://muchotexto.net/articulos/2026/09/03/contenido-basura-agentes-ia/)
-- [Cervepar y la IA: cuando el algoritmo vende y el humano decide](https://muchotexto.net/articulos/2026/09/26/cervepar-ia-algoritmo-vende-humano-decide/)
+- [Cómo Cervepar usa la IA para vender cerveza en Paraguay](https://muchotexto.net/articulos/2026/09/26/cervepar-ia-algoritmo-vende-humano-decide/)
 
 ### Pilar 4: Tecnología aplicada + ecosistema
 - [Soja, ganado y blockchain: la tokenización del agro en Paraguay](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)

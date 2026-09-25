@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cervepar vende su cerveza con una IA que no es paraguaya"
+title: "Cómo Cervepar usa la IA para vender cerveza en Paraguay"
 date: 2026-09-26 09:00:00 -0300
 last_modified_at: 2026-09-26
 categories: [articulos]

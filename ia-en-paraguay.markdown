@@ -107,7 +107,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 **Próximamente:**
 
 - **Inglés, experiencia e IA: la brecha triple de los jóvenes paraguayos** — Encuesta Regional 2026 de Zabe Corporate y Capaser: 53,3% señala la experiencia práctica como barrera, 53% el inglés, 40% habilidades digitales e IA. Verificado con La Nación, 9-ago-2026.
-- **[Cervepar y la IA: cuando el algoritmo vende y el humano decide]({% post_url 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide %})** — Fernando Torres, director nacional de Ventas de Cervepar, presentó en la Academia CAP una plataforma B2B con IA de cinco soluciones y más del 85% de la facturación. La plataforma es BEES, un desarrollo global de AB InBev, no una IA paraguaya; y de sus resultados no hay cifras públicas.
+- **[Cómo Cervepar usa la IA para vender cerveza en Paraguay]({% post_url 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide %})** — La cervecera líder opera BEES, una plataforma B2B con IA por la que pasa más del 85% de su facturación, con cinco soluciones para pedidos, logística y entregas. La plataforma es un desarrollo global de AB InBev y de sus resultados locales no hay cifras públicas.
 
 ## Tecnología aplicada y ecosistema
 
