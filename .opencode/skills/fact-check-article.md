@@ -4,6 +4,16 @@
 
 Siempre antes de commitear un artículo long-form en `_posts/`. También cuando el usuario pida "chequea este artículo", "verifica los datos", "fact-check", "comprobar con fuentes oficiales".
 
+## Paso 0 (OBLIGATORIO): descargar las fuentes ANTES de despachar
+
+**Nunca despachar un fact-checker sin haber descargado las fuentes citadas.** Un verificador que no abre la fuente marca falsos negativos (error histórico: Biggie/DATO, ABC Color 27-ago y LinkedIn "Full Digital" se marcaron UNVERIFIABLE cuando las fuentes citadas contenían la cita exacta).
+
+```bash
+python scripts/fetch_sources.py _posts/2026-09-XX-slug.md
+```
+
+Esto descarga el texto real de cada URL citada a `<out>/sources/NN.txt` y genera `<out>/sources/INDEX.md`. Al despachar cada agente, **pasarle la ruta de esa carpeta** con la instrucción de leer los `.txt` antes de emitir veredicto. Regla: un claim no se marca UNVERIFIABLE si su fuente citada está descargada y la contiene.
+
 ## Método
 
 ### Fase 1: Extracción
@@ -21,7 +31,8 @@ Leer el artículo línea por línea. Extraer todo claim factual en categorías:
 
 Despachar un agente independiente por cada categoría. Cada agente debe:
 
-- Buscar fuentes oficiales (gobierno, empresas, organismos multilaterales, Wikipedia con verificación)
+- **Leer primero los `.txt` descargados** en `Paso 0` para los claims que tengan fuente en el artículo.
+- Buscar fuentes oficiales adicionales solo para los claims SIN fuente descargada o que requieran segunda verificación.
 - Cruzar claims contra fuentes primarias
 - Devolver veredicto: TRUE / FALSE / PARTIALLY TRUE / UNVERIFIABLE
 - Incluir URL de la fuente en cada veredicto

@@ -31,6 +31,12 @@ fact-check-article _posts/NOMBRE-DEL-ARTICULO.md
 ```
 O equivalentemente: "Chequea los datos de este artículo con fuentes oficiales".
 
+**Paso 0 (OBLIGATORIO, antes de despachar):** descargar el texto de cada URL citada y pasárselo al verificador por ruta local.
+```
+python scripts/fetch_sources.py _posts/NOMBRE-DEL-ARTICULO.md
+```
+Esto baja el contenido real a `<out>/sources/NN.txt` + `INDEX.md`. Un verificador que no abre la fuente citada marca falsos negativos (error histórico: Biggie/DATO, ABC Color 27-ago y LinkedIn "Full Digital" se marcaron UNVERIFIABLE cuando la fuente citada contenía la cita exacta). **Regla:** un claim no se marca UNVERIFIABLE si su fuente citada está descargada y la contiene. Las fuentes que no se puedan bajar (SEC, DOI, anti-bot duro) quedan marcadas en el INDEX para revisión manual.
+
 El agente de verificación hará lo siguiente automáticamente:
 1. Leer el artículo párrafo por párrafo
 2. Extraer todo claim en DOS capas:
