@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El algoritmo de Cervepar que ordena la cerveza y no tiene cifras"
+title: "Cervepar vende su cerveza con una IA que no es paraguaya"
 date: 2026-09-26 09:00:00 -0300
 last_modified_at: 2026-09-26
 categories: [articulos]
@@ -31,7 +31,7 @@ En un panel sobre inteligencia artificial, el director nacional de Ventas de Cer
 > - **Fernando Torres** (director nacional de Ventas de Cervepar) expuso en la **Academia CAP** una plataforma B2B con IA que menciona **cinco soluciones**; la fuente describe tres: pedidos, logística y seguimiento de entregas en tiempo real.
 > - La plataforma es **BEES**, un desarrollo **global de AB InBev** (creado por el grupo en 2020), no un invento paraguayo. En Cervepar, **más del 85% de la facturación** pasa por ella.
 > - **No hay cifras públicas de resultados** de esas soluciones en Paraguay: ni ROI, ni ventas, ni pedidos. Las métricas disponibles son **globales** (BEES global: USD 52.500M de GMV en 2025).
-> - Torres sostiene que la IA **no reemplazó vendedores** ("lo humano no se fue, solo cambió la tarea"), y la evidencia internacional coincide: donde la IA automatiza, cae el empleo junior; donde aumenta, no.
+> - Torres sostiene que la IA **no reemplazó vendedores** ("lo humano no se fue, solo cambió la tarea"). La evidencia internacional es matizada: donde la IA **automatiza**, cae el empleo junior (Stanford); donde **aumenta**, no.
 > - Cervepar **no es pionera ni un caso aislado**: hay usos anteriores en Paraguay, y en el mismo panel expusieron **Nestlé y Tigo**.
 
 ## Qué presentó Cervepar (y qué no)
@@ -48,7 +48,7 @@ Conviene una precisión más: el **8 de agosto de 2026** es la fecha de **public
 
 La plataforma que Torres describió es, casi con certeza, **BEES** —aunque la nota del panel no la nombre—. BEES es la plataforma de comercio digital B2B **global de AB InBev**, creada por el grupo en 2020 y activa en unos 30 mercados. Su capa de inteligencia se llama **BEES.ai** y agrupa módulos como **Force** (automatización de la fuerza de ventas), **Grow** (televentas), **Vision** (reconocimiento de imágenes en tienda) y **Deliver** (logística).
 
-En Paraguay, BEES es la plataforma de pedidos de Cervepar: según FOCO (agosto de 2025), **más del 85% de la facturación** de la empresa pasa por ella. Y en ABC Color (27 de agosto de 2026) la propia compañía la describe como "la plataforma digital que moderniza y agiliza la forma en que los clientes hacen sus pedidos". El despliegue local —el proyecto "Full Digital", con datos en la nube— lo ejecuta Cervepar; los modelos y la arquitectura los define la casa matriz.
+En Paraguay, BEES es la plataforma de pedidos de Cervepar: según FOCO (agosto de 2025), **más del 85% de la facturación** de la empresa pasa por ella. Y en ABC Color (27 de agosto de 2026) la propia compañía la describe como "la plataforma digital que moderniza y agiliza la forma en que los clientes hacen sus pedidos". El despliegue local lo ejecuta Cervepar —el proyecto "Full Digital", según perfiles públicos de sus ingenieros de datos—, mientras los modelos y la arquitectura los define la casa matriz.
 
 Esto importa para la historia que Paraguay cuenta de sí mismo. Cuando una empresa local "presenta" una plataforma con IA, el mérito tecnológico es de un grupo belga (con su filial brasileña Ambev) de **USD 59.300 millones** de facturación en 2025; lo que Cervepar aporta es la operación, los datos y la escala. Decir que Cervepar "desarrolló su propia IA" es una de esas frases que la evidencia desmiente. Y un nombre que circula —"Brewing Intelligence"— **no existe** como plataforma de AB InBev: los nombres reales son BEES.ai (la capa de IA), BrewDat (el data lake) y BrewVision (el producto de forecasting).
 
@@ -56,7 +56,7 @@ Esto importa para la historia que Paraguay cuenta de sí mismo. Cuando una empre
 
 El problema central de este caso no es tecnológico: es de **medición**. No hay cifras paraguayas.
 
-Lo que sí existe son métricas **globales** de BEES: en 2025 movió **USD 52.500 millones** de GMV; el 75% de sus pedidos se generan con aprendizaje automático; y su módulo Force reporta que los vendedores pasan **42% más de tiempo** con los comercios. Todas son cifras del grupo, no de Cervepar en Paraguay. Confundirlas —presentar el éxito global como resultado local— es exactamente el error que la SEC estadounidense persigue bajo el rótulo de *"AI washing"*, con sanciones recientes a empresas que exageraron sus capacidades de IA.
+Lo que sí existe son métricas **globales** de BEES: en 2025 movió **USD 52.500 millones** de GMV; el 75% de sus pedidos se generan con aprendizaje automático; y su módulo Force reporta que los vendedores pasan **42% más de tiempo** con los comercios. Todas son cifras del grupo, no de Cervepar en Paraguay. Confundirlas —presentar el éxito global como resultado local— es el mismo tipo de exageración que la SEC estadounidense persigue bajo el rótulo de *"AI washing"*, con sanciones recientes a empresas que sobreestimaron sus capacidades de IA.
 
 En el caso paraguayo, la ausencia de números es la noticia. Una empresa que mueve más del 85% de su facturación por una plataforma digital debería poder mostrar qué cambió con la IA. Torres ofrece una frase memorable —"conseguir que las cinco herramientas cuenten la misma historia"—, pero ninguna medición de que esa historia haya vendido más cerveza.
 
@@ -64,7 +64,7 @@ En el caso paraguayo, la ausencia de números es la noticia. Una empresa que mue
 
 El relato de "Cervepar y la IA" suele presentarse como un caso de vanguardia. La evidencia lo desmiente en dos frentes.
 
-Primero, **no es la primera**. En Paraguay hay usos documentados anteriores o paralelos: **Biggie** usa aprendizaje automático para gestionar stock desde 2019; **Profarco** digitalizó su canal con PROFY y Yalo; **Coca-Cola Paresa** opera una app B2B con ruteo algorítmico. En el mismo panel de la Academia CAP expusieron **Nestlé** y **Tigo**, no una empresa rezagada. Cervepar es un caso relevante por su **escala** —más de 43.000 puntos de venta—, no por ser pionera.
+Primero, **no es la primera**. En Paraguay hay usos documentados anteriores o paralelos: **Biggie** usa aprendizaje automático para gestionar stock desde 2019; **Profarco** digitalizó su canal con PROFY y Yalo; **Coca-Cola Paresa** opera una app B2B con ruteo algorítmico. En el mismo panel de la Academia CAP expusieron **Nestlé** y **Tigo**, no una empresa rezagada. Cervepar es un caso relevante por su **escala** —más de 43.000 puntos de venta, según La Nación (nov-2025); FOCO reportó 45.000 en ago-2025—, no por ser pionera.
 
 Segundo, el país está lejos de la vanguardia regional. El **Índice Latinoamericano de IA 2025** ubica a Paraguay en **31,20 sobre 100, puesto 14 de 19**, en la categoría **"Exploradores"** —la etiqueta oficial, no "ecosistemas incipientes" como parafrasea la prensa—. Y el dato de que "5 de cada 10 empresas paraguayas usan IA" es una **estimación sectorial** referida a la **selección de personal**, no una medición de adopción general. La transformación digital de Cervepar, presentada en un gremio de anunciantes, es un caso de **marketing de tendencia** tanto como de tecnología.
 
@@ -72,7 +72,7 @@ Segundo, el país está lejos de la vanguardia regional. El **Índice Latinoamer
 
 La frase más citada de Torres —"lo humano no se fue, solo cambió la tarea"— es también la más discutida, porque toca el miedo real detrás de toda adopción de IA en ventas: el empleo.
 
-La evidencia internacional es matizada, y conviene no reducida a eslogan. Un estudio de **Stanford** encontró caídas de empleo junior de **13% a 19%** en ocupaciones donde la IA **automatiza** tareas, pero **no** en las que la **aumentan**. **McKinsey** y **Harvard Business Review** coinciden en que el resultado típico es reconfiguración, no reemplazo neto. Y hay un hallazgo incómodo para los optimistas: un experimento de campo publicado en *Management Science* (2025) mostró que una IA **no personalizada puede empeorar** las ventas.
+La evidencia internacional es matizada, y conviene no reducirla a eslogan. Un estudio de **Stanford** encontró caídas de empleo junior de **13% a 19%** en ocupaciones donde la IA **automatiza** tareas, pero **no** en las que la **aumentan**. **McKinsey** sostiene explícitamente que su investigación no apunta a una destrucción neta de empleos, y **Harvard Business Review** enfoca el debate en *cómo* implementar IA en ventas, no en si reemplaza. Y hay un hallazgo incómodo para los optimistas: un experimento de campo publicado en *Management Science* (2025) mostró que una IA **no personalizada puede empeorar** las ventas.
 
 En el caso Cervepar no hay ninguna cifra de empleo ni de impacto en la fuerza de ventas: solo la declaración del propio director, que niega el reemplazo. El caso de **Klarna**, que en 2025 revirtió su atención 100% con IA —aunque mantiene su discurso "AI-first"— por baja calidad, es el recordatorio de que la promesa corporativa y el resultado operativo no siempre coinciden.
 
@@ -100,7 +100,7 @@ Lo que falta es lo que casi siempre falta en el relato de IA en Paraguay: **la p
       "name": "¿Cervepar desarrolló su propia inteligencia artificial?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. La plataforma que usa es BEES, creada y mantenida por AB InBev a nivel global desde 2020, con su capa de inteligencia BEES.ai. Cervepar la opera y adapta localmente —con datos en la nube—, pero los modelos y la arquitectura se definen en la casa matriz. No es una IA de desarrollo paraguayo."
+        "text": "No. La plataforma que usa es BEES, creada y mantenida por AB InBev a nivel global desde 2020, con su capa de inteligencia BEES.ai. Cervepar la opera y adapta localmente —el proyecto 'Full Digital', según perfiles de sus ingenieros de datos—, mientras los modelos y la arquitectura los define la casa matriz. No es una IA de desarrollo paraguayo."
       }
     },
     {
@@ -108,7 +108,7 @@ Lo que falta es lo que casi siempre falta en el relato de IA en Paraguay: **la p
       "name": "¿La IA de Cervepar reemplazó a los vendedores?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No hay cifras paraguayas que lo confirmen o lo nieguen. El propio director de Ventas de Cervepar afirma que la IA no reemplazó a los vendedores ('lo humano no se fue, solo cambió la tarea'). La evidencia internacional es matizada: un estudio de Stanford halló caída de empleo junior donde la IA automatiza, pero no donde aumenta; McKinsey y Harvard Business Review ven reconfiguración, no reemplazo neto."
+        "text": "No hay cifras paraguayas que lo confirmen o lo nieguen. El propio director de Ventas de Cervepar afirma que la IA no reemplazó a los vendedores ('lo humano no se fue, solo cambió la tarea'). La evidencia internacional es matizada: un estudio de Stanford halló caída de empleo junior donde la IA automatiza, pero no donde aumenta; y un experimento de campo en Management Science mostró que la IA no personalizada puede empeorar las ventas."
       }
     }
   ]
@@ -132,10 +132,15 @@ Lo que falta es lo que casi siempre falta en el relato de IA en Paraguay: **la p
 12. [ILIA 2025 (CEPAL/CENIA) — Índice Latinoamericano de Inteligencia Artificial](https://indicelatam.cl/)
 13. [Cervepar — sitio oficial](https://cervepar.com.py/)
 14. [BEES Paraguay](https://mybees.com.py/)
-15. [Krakowski et al., "Artificial Intelligence and the Internal Processes of Organizations" — Management Science (2025)](https://doi.org/10.1287/mnsc.2022.03849)
+15. [Krakowski, S., Haftor, D., Luger, J., Pashkevich, N. & Raisch, S. — "Human-Centered Artificial Intelligence: A Field Experiment", *Management Science* 72(1), 57–72 (2025/2026)](https://doi.org/10.1287/mnsc.2022.03849)
 16. [SEC — Sanciones por "AI washing" (Delphia/Global Predictions, 2024)](https://www.sec.gov/newsroom/press-releases/2024-36)
 17. [Fortune — "MIT report: 95% of generative AI pilots at companies are failing" (18-ago-2025)](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
 18. [Fortune — "Klarna's AI-first customer service plan hits a snag" (9-may-2025)](https://fortune.com/2025/05/09/klarna-ai-humans-return-on-investment/)
+19. [Stanford Digital Economy Lab — "Canaries in the Coal Mine" (2025/2026)](https://digitaleconomy.stanford.edu/)
+20. [DATO Solutions — Caso Biggie (machine learning para stock desde 2019)](https://www.dato.com.py/biggie)
+21. [Yalo — Caso Profarco (PROFY)](https://www.yalo.ai/)
+22. [Forbes Paraguay — Coca-Cola Paresa y el ruteo algorítmico (1-abr-2025)](https://www.forbes.com.py/)
+23. [ABC Color — "En Paraguay, 5 de cada 10 empresas usa IA para selección de personal" (8-mar-2026)](https://www.abc.com.py/negocios/2026/03/08/en-paraguay-5-de-cada-10-empresas-usa-ia-para-seleccion-de-personal/)
 
 **Metodología:** Artículo elaborado con la investigación de agentes de búsqueda (§5.8) documentada en `research_cervepar/`, auditable paso a paso. La distinción entre la plataforma global BEES y su operación local por Cervepar se verificó contra fuentes de AB InBev y prensa paraguaya. Las cifras migratorias y fiscales no aplican aquí; los datos de adopción de IA se contrastaron contra el ILIA 2025. Los superlativos ("pionera", "la primera") se verificaron contra el universo de casos documentados en Paraguay, no solo contra la muestra citada.
 
