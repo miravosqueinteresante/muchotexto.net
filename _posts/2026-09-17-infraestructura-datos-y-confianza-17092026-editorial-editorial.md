@@ -9,6 +9,7 @@ description: "El Ministerio de Industria y Comercio puso el foco en el almacenam
 
 
 
+
 date: 2026-09-17 18:00:00 -0300
 last_modified_at: 2026-09-17
 categories: editorial
