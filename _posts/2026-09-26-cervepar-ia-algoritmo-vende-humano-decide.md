@@ -48,7 +48,7 @@ Conviene una precisión más: el **8 de agosto de 2026** es la fecha de **public
 
 La plataforma que Torres describió es, casi con certeza, **BEES** —aunque la nota del panel no la nombre—. BEES es la plataforma de comercio digital B2B **global de AB InBev**, creada por el grupo en 2020 y activa en unos 30 mercados. Su capa de inteligencia se llama **BEES.ai** y agrupa módulos como **Force** (automatización de la fuerza de ventas), **Grow** (televentas), **Vision** (reconocimiento de imágenes en tienda) y **Deliver** (logística).
 
-En Paraguay, BEES es la plataforma de pedidos de Cervepar: según su propio gerente general, Santiago Galliano (febrero de 2025), "más del 85% de nuestra facturación se genera por medios digitales" con BEES. Y en ABC Color (27 de agosto de 2026) la propia compañía la describe como "la plataforma digital que moderniza y agiliza la forma en que los clientes hacen sus pedidos". El despliegue local lo ejecuta Cervepar —el proyecto "Full Digital", según perfiles públicos de sus ingenieros de datos—, mientras los modelos y la arquitectura los define la casa matriz.
+En Paraguay, BEES es la plataforma de pedidos de Cervepar: según su propio gerente general, Santiago Galliano (febrero de 2025), "más del 85% de nuestra facturación se genera por medios digitales" con BEES. Y en contenido comercial de ABC Color (27 de agosto de 2026) la compañía la describe como "la plataforma digital que moderniza y agiliza la forma en que los clientes hacen sus pedidos". El despliegue local lo ejecuta Cervepar —el proyecto "Full Digital", según un perfil público de un ingeniero de datos de AB InBev que trabajó en él—, mientras los modelos y la arquitectura los define la casa matriz.
 
 Esto importa para la historia que Paraguay cuenta de sí mismo. Cuando una empresa local "presenta" una plataforma con IA, el mérito tecnológico es de un grupo belga (con su filial brasileña Ambev) de **USD 59.300 millones** de facturación en 2025; lo que Cervepar aporta es la operación, los datos y la escala. Decir que Cervepar "desarrolló su propia IA" es una de esas frases que la evidencia desmiente. Y un nombre que circula —"Brewing Intelligence"— **no existe** como plataforma de AB InBev: los nombres reales son BEES.ai (la capa de IA), BrewDat (el data lake) y BrewVision (el producto de forecasting).
 
@@ -64,7 +64,7 @@ En el caso paraguayo, la ausencia de números es la noticia. Una empresa que mue
 
 El relato de "Cervepar y la IA" suele presentarse como un caso de vanguardia. La evidencia lo desmiente en dos frentes.
 
-Primero, **no es la primera**. En Paraguay hay usos documentados anteriores o paralelos: **Biggie** usa aprendizaje automático para gestionar stock desde 2019; **Profarco** digitalizó su canal con PROFY y Yalo; **Coca-Cola Paresa** opera una app B2B con ruteo algorítmico. En el mismo panel de la Academia CAP expusieron **Nestlé** y **Tigo**, no una empresa rezagada. Cervepar es un caso relevante por su **escala** —llega a más de 50.000 puntos de venta, según su propio comunicado de agosto de 2026—, no por ser pionera.
+Primero, **no es la primera**. En Paraguay hay usos documentados anteriores o paralelos: **Biggie Express** usa modelos predictivos de *machine learning* para optimizar inventario y compras desde 2019, según su proveedor DATO Solutions; **Profarco** digitalizó su canal con PROFY y Yalo; **Coca-Cola Paresa** opera una app B2B con ruteo algorítmico. En el mismo panel de la Academia CAP expusieron **Nestlé** y **Tigo**, no una empresa rezagada. Cervepar es un caso relevante por su **escala** —llega a más de 50.000 puntos de venta, según su propio comunicado de agosto de 2026—, no por ser pionera.
 
 Segundo, el país está lejos de la vanguardia regional. El **Índice Latinoamericano de IA 2025** ubica a Paraguay en **31,20 sobre 100, puesto 14 de 19**, en la categoría **"Exploradores"** —la etiqueta oficial, no "ecosistemas incipientes" como parafrasea la prensa—. Y el dato de que "5 de cada 10 empresas paraguayas usan IA" es una **estimación sectorial** referida a la **selección de personal**, no una medición de adopción general. La transformación digital de Cervepar, presentada en un gremio de anunciantes, es un caso de **marketing de tendencia** tanto como de tecnología.
 
@@ -100,7 +100,7 @@ Lo que falta es lo que casi siempre falta en el relato de IA en Paraguay: **la p
       "name": "¿Cervepar desarrolló su propia inteligencia artificial?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. La plataforma que usa es BEES, creada y mantenida por AB InBev a nivel global desde 2020, con su capa de inteligencia BEES.ai. Cervepar la opera y adapta localmente —el proyecto 'Full Digital', según perfiles de sus ingenieros de datos—, mientras los modelos y la arquitectura los define la casa matriz. No es una IA de desarrollo paraguayo."
+        "text": "No. La plataforma que usa es BEES, creada y mantenida por AB InBev a nivel global desde 2020, con su capa de inteligencia BEES.ai. Cervepar la opera y adapta localmente —el proyecto 'Full Digital', según un perfil público de un ingeniero de datos de AB InBev que trabajó en él—, mientras los modelos y la arquitectura los define la casa matriz. No es una IA de desarrollo paraguayo."
       }
     },
     {
@@ -137,7 +137,7 @@ Lo que falta es lo que casi siempre falta en el relato de IA en Paraguay: **la p
 17. [Fortune — "MIT report: 95% of generative AI pilots at companies are failing" (18-ago-2025)](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
 18. [Fortune — "Klarna's AI-first customer service plan hits a snag" (9-may-2025)](https://fortune.com/2025/05/09/klarna-ai-humans-return-on-investment/)
 19. [Stanford Digital Economy Lab — "Canaries in the Coal Mine" (2025/2026)](https://digitaleconomy.stanford.edu/)
-20. [DATO Solutions — Caso Biggie (machine learning para stock desde 2019)](https://www.dato.com.py/biggie)
+20. [DATO Solutions — Caso de éxito Biggie Express: machine learning para optimizar inventario desde 2019](https://www.dato.com.py/biggie)
 21. [Yalo — Caso Profarco (PROFY)](https://www.yalo.ai/)
 22. [Forbes Paraguay — Coca-Cola Paresa y el ruteo algorítmico (1-abr-2025)](https://www.forbes.com.py/)
 23. [ABC Color — "En Paraguay, 5 de cada 10 empresas usa IA para selección de personal" (8-mar-2026)](https://www.abc.com.py/negocios/2026/03/08/en-paraguay-5-de-cada-10-empresas-usa-ia-para-seleccion-de-personal/)
