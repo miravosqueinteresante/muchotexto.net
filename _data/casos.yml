@@ -233,7 +233,17 @@
   casos:
   - titulo: El ticket más barato de la región
     texto: Paraguay concede residencia permanente directa desde USD 70.000 (vía productiva)
-      o USD 150.000 (turismo). Panamá exige USD 200.000 y una residencia provisional
-      de dos años; Costa Rica, USD 150.000 sin permanencia directa; Chile, USD 500.000;
-      Portugal, €500.000 en fondos, tras eliminar la vía inmobiliaria en 2023.
+      o USD 150.000 (turismo), en unos tres meses. No es el más barato de la región
+      —Ecuador pide USD 48.200, pero solo concede residencia temporal—; Panamá exige
+      USD 200.000 y dos años de residencia provisional, Costa Rica USD 150.000 sin
+      permanencia directa, Chile USD 500.000 y Portugal €500.000 en fondos.
     url: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/
+- tema: IA aplicada
+  casos:
+  - titulo: El algoritmo que ordena la cerveza
+    texto: Fernando Torres, director nacional de Ventas de Cervepar, contó en la Academia
+      CAP que su plataforma B2B con IA reúne cinco soluciones para gestionar pedidos,
+      mejorar la logística y seguir las entregas en tiempo real. La plataforma es
+      BEES, un desarrollo global de AB InBev que en Paraguay mueve más del 85% de
+      la facturación, no una inteligencia artificial hecha en el país.
+    url: /articulos/2026/09/26/cervepar-ia-algoritmo-vende-humano-decide/

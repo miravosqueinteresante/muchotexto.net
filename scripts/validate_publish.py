@@ -297,10 +297,18 @@ def check_ecosistema(new_posts: list[str], staged_all: list[str]) -> tuple[list[
             "Agregarlo: git add llms.txt"
         )
     if new_posts and not has_entidades:
-        errors.append(
-            "Nuevo post detectado pero entidades/ no esta en el commit. "
-            "Ejecuta python scripts/build_entities.py && git add entidades/"
-        )
+        # Nota: entidades/ puede NO tener cambios si el articulo no introduce
+        # ninguna entidad nueva. Se exige solo si la carpeta tiene archivos
+        # modificados pendientes de stagear (evita bloquear por un no-cambio).
+        ent_untracked = subprocess.run(
+            ["git", "status", "--porcelain", "--", "entidades/", "grafo.json"],
+            capture_output=True, text=True, cwd=REPO_DIR
+        ).stdout.strip()
+        if ent_untracked:
+            errors.append(
+                "Nuevo post detectado y entidades/ tiene cambios sin stagear. "
+                "Ejecuta git add entidades/ grafo.json"
+            )
     # Superficies derivadas (_data/cronologia|glosario|casos|directorio.yml) y
     # curadas de bajo churn (regulacion, radar): NO se exigen por articulo.
     # Se actualizan solas si el articulo declara `hitos`/`glosario`/`casos`/`directorio`.
