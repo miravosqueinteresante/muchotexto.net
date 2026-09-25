@@ -2,7 +2,7 @@
 layout: post
 title: "El plan de Paraguay para pasar de la soja al silicio"
 date: 2026-07-01
-last_modified_at: 2026-08-15
+last_modified_at: 2026-09-23
 categories: articulos
 tags: tech-ecosistema paraguay-futuro
 description: "El 42% de las exportaciones de Paraguay es soja. El 31% va a Brasil. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Tiene Paraguay lo…"
@@ -10,7 +10,7 @@ description: "El 42% de las exportaciones de Paraguay es soja. El 31% va a Brasi
 
 En 2022, una sequía redujo la cosecha de soja paraguaya en un 60%. Las exportaciones se desplomaron. El PIB creció 0.2% en vez del 4% proyectado. Un solo producto, un solo evento climático, un país entero frenado. Ese episodio no fue una anomalía: fue una radiografía. Paraguay exporta aproximadamente 17.000 millones de dólares al año, de los cuales el complejo soja representa alrededor del 42% y la carne bovina otro 17%. Dos productos concentran cerca del 60% de las divisas que ingresan al país. Y Brasil compra el 31% de todo lo que Paraguay vende al mundo.
 
-La pregunta no es si Paraguay debería diversificar su matriz exportadora. La pregunta es si puede, en cuánto tiempo y a qué costo. Cinco países —Costa Rica, Irlanda, Estonia, Israel y Corea del Sur— hicieron ese salto en las últimas décadas. Todos partieron de economías agrícolas o devastadas. Todos tardaron entre 15 y 40 años. Todos invirtieron en lo mismo: educación, estabilidad fiscal, agencias de inversión profesionalizadas y una empresa ancla extranjera que hizo de disparador. Paraguay ya tiene parte de esa infraestructura. Lo que no tiene es tiempo ilimitado: en enero de 2027 vence el Anexo C del Tratado de Itaipú y se libera una cantidad de energía que puede cambiarlo todo.
+La pregunta no es si Paraguay debería diversificar su matriz exportadora. La pregunta es si puede, en cuánto tiempo y a qué costo. Cinco países —Costa Rica, Irlanda, Estonia, Israel y Corea del Sur— hicieron ese salto en las últimas décadas. Todos partieron de economías agrícolas o devastadas. Todos tardaron entre 15 y 40 años. Todos invirtieron en lo mismo: educación, estabilidad fiscal, agencias de inversión profesionalizadas y una empresa ancla extranjera que hizo de disparador. Paraguay ya tiene parte de esa infraestructura. Lo que no tiene es tiempo ilimitado: en enero de 2027 vence el acuerdo tarifario de Itaipú y se libera una cantidad de energía que puede cambiarlo todo.
 
 ## 51% soja, 36% Brasil: la doble dependencia que define a Paraguay
 
@@ -64,7 +64,7 @@ El ministro de Industria y Comercio, Marco Riquelme, declaró en junio de 2026: 
 
 ## Quince años, 130 millones de dólares y un tratado que vence en 2027
 
-En enero de 2027 vence el Anexo C del Tratado de Itaipú. Paraguay dejará de vender su excedente energético a Brasil a un precio fijo y dispondrá de entre 25 y 30 teravatios-hora anuales de electricidad limpia para consumir, exportar o transformar en el país —un cambio de reglas que [la reciente apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) ya empezó a preparar—. Esa cantidad de energía, a los precios industriales paraguayos de 0.045 dólares por kilovatio-hora, equivale a un activo estratégico que ningún otro país de la región puede igualar.
+En enero de 2027 vence el acuerdo tarifario del Tratado de Itaipú. Paraguay dejará de vender su excedente energético a Brasil a un precio fijo y dispondrá de entre 25 y 30 teravatios-hora anuales de electricidad limpia para consumir, exportar o transformar en el país —un cambio de reglas que [la reciente apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) ya empezó a preparar—. Esa cantidad de energía, a los precios industriales paraguayos de 0.045 dólares por kilovatio-hora, equivale a un activo estratégico que ningún otro país de la región puede igualar.
 
 La ventana está abierta. Paraguay tiene la estabilidad macroeconómica que los cinco países exitosos tuvieron como precondición: deuda pública del 38% del PIB, grado de inversión otorgado por Moody's en 2024, inflación controlada alrededor del 3.5% y un crecimiento del PIB proyectado en 3.8% para 2025. Tiene una población joven con mediana de 27 años y un sector de servicios digitales que creció 97% en un año. Tiene el régimen fiscal más competitivo de América Latina y una agenda digital financiada por el BID.
 

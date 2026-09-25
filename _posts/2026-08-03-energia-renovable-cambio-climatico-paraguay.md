@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
 date: 2026-08-03 23:00:00 -0300
-last_modified_at: 2026-08-18
+last_modified_at: 2026-09-23
 categories: articulos
 tags: [infraestructura-energia, paraguay-futuro, cambio-climatico, itaipu, deforestacion]
 description: "Paraguay genera el 99.9% de su electricidad con fuentes renovables. Pero 97% depende de dos represas, perdió 6.3M de hectáreas de bosque y no tiene plan de…"
@@ -30,7 +30,7 @@ En Paraguay, si el caudal del Paraná baja, baja todo. Es un riesgo de concentra
 
 Entre 2019 y 2022, la cuenca del Paraná experimentó la sequía más severa desde que existen registros instrumentales —77 años de datos—. El caudal del río en la frontera entre Paraguay y Brasil cayó a niveles que no se veían desde 1944. La generación de Itaipú pasó de 103,1 teravatios-hora en 2016 —su récord histórico— a 66,4 TWh en 2021. Una caída del 35,6%.
 
-Paraguay no sufrió apagones por esa sequía. Pero no fue porque el sistema estuviera preparado. Fue porque el país consume menos del 16% de su mitad de Itaipú —el resto se exporta a Brasil a precio de costo—. Durante la sequía, lo que cayó fue la exportación, no el consumo interno. El colchón de ventas a Brasil absorbió el golpe.
+Paraguay no sufrió apagones por esa sequía. Pero no fue porque el sistema estuviera preparado. Fue porque el país cede cerca del 30% de su mitad de Itaipú a Brasil —el resto, alrededor del 70%, lo consume—. Durante la sequía, lo que cayó fue la exportación, no el consumo interno. El colchón de ventas a Brasil absorbió el golpe.
 
 Ese colchón no es eterno. La demanda eléctrica paraguaya crece a un ritmo que en los últimos años alcanzó picos de entre 12,5% y 21% anual, según datos de ANDE, impulsada por la expansión de data centers, la electrificación del transporte y el crecimiento vegetativo. Las proyecciones del Banco Mundial indican que Paraguay podría alcanzar el pico de su capacidad de consumo hacia 2030. Si para entonces no diversificó su matriz, una sequía como la de 2021 ya no será absorbida por el colchón de exportación: golpeará directamente al consumidor paraguayo.
 
