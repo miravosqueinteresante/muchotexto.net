@@ -16,6 +16,9 @@ from datetime import datetime, timezone, timedelta
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gemini_client import generate as gemini_generate, DEFAULT_MODELS as GEMINI_MODELS
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("editorial")
 
@@ -24,8 +27,7 @@ REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_MODEL = "gemini-3.1-flash-lite"
-GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+GEMINI_MODEL = GEMINI_MODELS[0]  # primario (fallbacks en scripts/gemini_client.py)
 
 PARAGUAY_TZ = timezone(timedelta(hours=-3))
 
@@ -98,67 +100,24 @@ def read_pulso_post(date: str) -> tuple[str | None, str | None]:
 
 
 def call_gemini(pulso_content: str, pulso_title: str | None = None) -> str | None:
-    if not GEMINI_API_KEY:
-        log.error("GEMINI_API_KEY no está configurado")
-        return None
-
     fecha = fmt_fecha_para_titulo(now_py())
     context = f"Hoy es {fecha}."
     if pulso_title:
         context += f" El Pulso Tech Paraguay de hoy se titula: \"{pulso_title}\". IMPORTANTE: el título de esta Editorial NO debe repetir las mismas palabras clave principales del título del Pulso. Debe enfocarse en el ángulo de análisis/opinión, no en la noticia en sí."
     context += f"\n\nContenido del Pulso Tech Paraguay:\n\n{pulso_content}\n\nGenera la Editorial."
 
-    payload = json.dumps({
-        "systemInstruction": {
-            "parts": [{"text": SYSTEM_PROMPT}]
-        },
-        "contents": [
-            {
-                "role": "user",
-                "parts": [{"text": context}]
-            }
-        ],
-        "generationConfig": {
-            "temperature": 0.3,
-            "maxOutputTokens": 4000,
-        },
-    }).encode()
-
-    url = f"{GEMINI_ENDPOINT}?key={GEMINI_API_KEY}"
-    req = Request(
-        url,
-        data=payload,
-        headers={"Content-Type": "application/json"},
+    content = gemini_generate(
+        context,
+        system_prompt=SYSTEM_PROMPT,
+        api_key=GEMINI_API_KEY,
+        temperature=0.3,
+        max_output_tokens=4000,
+        timeout=180,
     )
-
-    max_retries = 3
-    for attempt in range(1, max_retries + 1):
-        try:
-            with urlopen(req, timeout=180) as resp:
-                data = json.loads(resp.read().decode())
-            if "error" in data:
-                log.error("Gemini API error: %s", json.dumps(data["error"], indent=2))
-                return None
-            content = data.get("candidates", [{}])[0].get("content", {}).get("parts", [{}])[0].get("text", "")
-            if not content.strip():
-                log.error("API devolvio contenido vacio")
-                return None
-            return content.strip()
-        except HTTPError as e:
-            body = e.read().decode() if e.fp else "(no body)"
-            log.warning("Intento %d/%d: Gemini HTTP %s — %s", attempt, max_retries, e.code, body[:300])
-            if attempt < max_retries:
-                time.sleep(2 ** attempt)
-            else:
-                log.error("Error tras %d intentos", max_retries)
-                return None
-        except Exception as e:
-            log.warning("Intento %d/%d fallo: %s", attempt, max_retries, e)
-            if attempt < max_retries:
-                time.sleep(2 ** attempt)
-            else:
-                log.error("Error tras %d intentos: %s", max_retries, e)
-                return None
+    if not content or not content.strip():
+        log.error("API devolvio contenido vacio")
+        return None
+    return content.strip()
 
 
 def make_slug(text: str) -> str:

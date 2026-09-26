@@ -18,6 +18,9 @@ from xml.etree import ElementTree
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gemini_client import generate as gemini_generate, DEFAULT_MODELS as GEMINI_MODELS
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("pulso")
 
@@ -26,8 +29,7 @@ REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_MODEL = "gemini-3.1-flash-lite"
-GEMINI_ENDPOINT = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+GEMINI_MODEL = GEMINI_MODELS[0]  # primario (ver scripts/gemini_client.py para fallbacks)
 
 PARAGUAY_TZ = timezone(timedelta(hours=-3))
 
@@ -300,53 +302,7 @@ DATOS PARA ANALIZAR (NOTICIAS REALES DE HOY):
 
 
 def call_gemini(prompt: str, system_prompt: str = "Eres un analista de tendencias paraguayas. Generás reportes en español paraguayo.") -> str | None:
-    if not GEMINI_API_KEY:
-        log.error("GEMINI_API_KEY no está configurado")
-        return None
-
-    payload = json.dumps({
-        "systemInstruction": {
-            "parts": [{"text": system_prompt}]
-        },
-        "contents": [
-            {
-                "role": "user",
-                "parts": [{"text": prompt}]
-            }
-        ],
-        "generationConfig": {
-            "temperature": 0.7,
-            "maxOutputTokens": 4000,
-        },
-    }).encode()
-
-    url = f"{GEMINI_ENDPOINT}?key={GEMINI_API_KEY}"
-
-    max_retries = 3
-    for attempt in range(1, max_retries + 1):
-        try:
-            req = Request(url, data=payload, headers={"Content-Type": "application/json"})
-            with urlopen(req, timeout=120) as resp:
-                raw = resp.read().decode()
-                data = json.loads(raw)
-            if "error" in data:
-                log.error("Gemini API error: %s", json.dumps(data["error"], indent=2))
-                return None
-            content = data["candidates"][0]["content"]["parts"][0]["text"]
-            return content
-        except HTTPError as e:
-            body = e.read().decode() if e.fp else "(no body)"
-            if e.code == 503 and attempt < max_retries:
-                wait = 2 ** attempt
-                log.warning("Gemini 503 (intento %d/%d), esperando %ds...", attempt, max_retries, wait)
-                time.sleep(wait)
-            else:
-                log.error("Gemini HTTP %s: %s", e.code, body[:500])
-                if attempt == max_retries:
-                    return None
-        except Exception as e:
-            log.error("Error calling Gemini API: %s", e)
-            return None
+    return gemini_generate(prompt, system_prompt=system_prompt, api_key=GEMINI_API_KEY)
 
 
 def clean_content(content: str) -> str:
