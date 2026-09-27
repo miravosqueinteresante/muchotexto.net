@@ -3,6 +3,7 @@ layout: post
 title: "Regulación, salud y movilidad, el desafío — Editorial 25/09/2026"
 description: "El Hospital Virtual del IPS alcanzó las 2.500 atenciones en apenas tres meses, un dato que confirma cómo la infraestructura digital aplicada a la salud pública en Paraguay empieza a generar resultados tangibles en la reducción de costos y traslados."
 
+
 date: 2026-09-25 18:00:00 -0300
 last_modified_at: 2026-09-25
 categories: editorial
