@@ -9,7 +9,7 @@ description: "ARAICO promete un campus de IA de 1,3 GW en Yguazú con USD 12.000
 schema_type: TechArticle
 hitos:
   - fecha: "2026-09-29"
-    texto: "Alejandro Zuccolillo, cofundador y presidente de ARAICO, detalla en la Ñandutí (programa La Gran Cabina) las tres etapas del campus de IA en Yguazú: USD 300 millones de entrega para fin de año, y dos etapas de USD 5.500 millones cada una."
+    texto: "Alejandro Zuccolillo, cofundador y presidente de ARAICO, detalla en entrevistas con ABC Color y Diario HOY las tres etapas del campus de IA en Yguazú: USD 300 millones de entrega para fin de año, y dos etapas de USD 5.500 millones cada una."
 glosario:
   - tema: "Tecnología IA"
     termino: "Supercomputadora de IA"
@@ -44,13 +44,13 @@ Conviene una precisión de vocabulario que la propia publicidad mezcla: **un "su
 
 ## Las tres etapas y la cuenta que no cierra
 
-El detalle de las fases lo dio Zuccolillo en el programa **La Gran Cabina**, de la radio Ñandutí, el 29 de septiembre de 2026:
+El detalle de las fases lo dio Zuccolillo en entrevistas con **ABC Color** y **Diario HOY** el 29 de septiembre de 2026:
 
 - **Primera etapa: USD 300 millones**, con entrega prevista para **diciembre de 2026**. Físicamente: **6 módulos, 6 MW y unos 2.000 procesadores**.
 - **Segunda etapa: USD 5.500 millones.**
 - **Tercera etapa: USD 5.500 millones.**
 
-La aritmética tiene un hueco que ninguna fuente explica. Los tres montos suman **USD 11.300 millones**, pero tanto la cobertura de la empresa como la de **ABC Color**, **Ñandutí** y el diario **HOY** titulan **USD 12.000 millones**. Ese tramo de **USD 700 millones** que falta no aparece en el desglose. Es el primer indicio de que, en este proyecto, las cifras grandes circulan más rápido que su contabilidad.
+La aritmética tiene un hueco que ninguna fuente explica. Los tres montos suman **USD 11.300 millones**, pero tanto la cobertura de la empresa como la de **ABC Color** y el diario **HOY** titulan **USD 12.000 millones**. Ese tramo de **USD 700 millones** que falta no aparece en el desglose. Es el primer indicio de que, en este proyecto, las cifras grandes circulan más rápido que su contabilidad.
 
 Tampoco está claro de dónde saldría el dinero. ARAICO menciona un fondo ancla de más de USD 40 millones y alude a inversores de peso —se ha mencionado a **Founders Fund**, **BID Invest** y la agencia estadounidense **DFC**—, pero **no encontré confirmación pública independiente de esos fondos**: son declaraciones de la empresa, no compromisos documentados.
 
@@ -122,22 +122,26 @@ La primera etapa —6 MW para fin de año— es modesta y comprobable. Si se ent
 ---
 
 **Fuentes:**
-1. [ARAICO — sitio oficial (Iguazú AI City, 1,3 GW, empresa US-incorporated)](https://araico.ai/)
-2. [ARAICO Paraguay — sitio oficial](https://araico.com.py/)
-3. [Ñandutí / La Gran Cabina — entrevista a Alejandro Zuccolillo (29-sep-2026)](https://www.nanduti.com.py/)
-4. [ABC Color — Cobertura del proyecto ARAICO / Iguazú AI City](https://www.abc.com.py/)
-5. [La Nación — Cobertura del campus de IA en Yguazú](https://www.lanacion.com.py/)
-6. [Diario HOY — Detalles de la primera etapa (6 MW, ~2.000 procesadores)](https://www.hoy.com.py/)
-7. [TOP500 — Ranking de supercomputadoras (junio 2026)](https://www.top500.org/lists/top500/2026/06/)
-8. [TOP500 — Harpia (Petrobras), el sistema más potente de América Latina](https://www.top500.org/)
-9. [Ámbito/ABC — Coatlicue, la supercomputadora que México planea (314 petaflops)](https://www.abc.com.py/)
-10. [Infonegocios — X8 Cloud y proyectos de data centers en Paraguay](https://www.infonegocios.com.py/)
-11. [BNamericas — Proyectos de data centers en Paraguay](https://www.bnamericas.com/)
-12. [ABC Color — Pedro Ferreira (ex-ANDE) sobre los contratos de energía](https://www.abc.com.py/)
-13. [ABC Color y Última Hora (11-may-2026) — Luis Benítez (Sopaia) califica de "delirio" el proyecto Yguazú Digital](https://www.abc.com.py/)
-14. [BACN — Ley 7599/2025 (apertura del sector eléctrico)](https://www.bacn.gov.py/)
-15. [MADES — Registro de Declaraciones de Impacto Ambiental](http://www.mades.gov.py/)
-16. [LinkedIn — ARAICO (empresa US-incorporated)](https://www.linkedin.com/company/araico/)
+1. [ARAICO — sitio oficial (Iguazú AI City, 1,3 GW)](https://araico.ai/)
+2. [LinkedIn — ARAICO (empresa US-incorporated, sector Energy Technology)](https://www.linkedin.com/company/araico/)
+3. [ABC Color — "US$ 12.000 millones: la mayor inversión privada de la historia del Paraguay ya estaría en marcha" (29-sep-2026)](https://www.abc.com.py/negocios/2026/09/29/us-12000-millones-la-mayor-inversion-privada-de-la-historia-del-paraguay-ya-estaria-en-marcha/)
+4. [Diario HOY — "Iguazú AI City, el megaproyecto que posicionará a Paraguay en el mapa global de la IA" (29-sep-2026)](https://www.hoy.com.py/nacionales/2026/09/29/iguazu-ai-city-el-megaproyecto-que-posicionara-a-paraguay-en-el-mapa-global-de-la-ia)
+5. [TOP500 — Ficha de Harpia (Petrobras, 75,2 PFlop/s, puesto 37)](https://top500.org/system/180428/)
+6. [TOP500 — Lista de junio 2026](https://top500.org/lists/top500/2026/06/)
+7. [SECIHTI — "México presenta Coatlicue, supercomputadora mexicana pública más grande de América Latina" (26-nov-2025)](https://secihti.mx/sala-de-prensa/mexico-presenta-coatlicue-supercomputadora-mexicana-publica-mas-grande-de-america-latina/)
+8. [UPI — "Paraguay lands up to $50B from X8 Cloud for AI data center construction" (9-dic-2025)](https://www.upi.com/Top_News/World-News/2025/12/09/latam-paraguay-X8-cloud-AI-data-center/3121765297559/)
+9. [BNamericas — "'My goal is to reach 5GW of AI'; says X8 Cloud about mega project in Paraguay" (25-sep-2025)](https://www.bnamericas.com/en/interviews/my-goal-is-to-reach-5gw-of-ai-says-x8-cloud-about-mega-project-in-paraguay)
+10. [ABC Color — "Yguazú Digital: Pedro Ferreira advierte que el país podría 'empeñar' su mayor riqueza" (12-may-2026)](https://www.abc.com.py/economia/2026/05/12/yguazu-digital-pedro-ferreira-advierte-que-el-pais-podria-empenar-su-mayor-riqueza-con-el-acuerdo-con-taiwan/)
+11. [ABC Color — "Experto califica de 'delirio' el acuerdo sobre IA" (Luis Benítez, Sopaia; 11-may-2026)](https://www.abc.com.py/politica/2026/05/11/experto-califica-de-delirio-que-dice-el-acuerdo-sobre-ia-que-firmo-paraguay-con-taiwan/)
+12. [Itaipú Binacional — "ITAIPU lleva 42 años generando energía limpia e impulsando el desarrollo del Paraguay"](https://www.itaipu.gov.py/noticias/energia/itaipu-lleva-42-anos-generando-energia-limpia-e-impulsando-el-desarrollo-del-paraguay)
+13. [ANDE — "El consumo eléctrico nacional creció 12,5% en 2025"](https://www.ande.gov.py/interna.php?id=14877)
+14. [ANDE — "ANDE acompaña el crecimiento de la demanda eléctrica" (17,9% acumulado a 8 meses de 2026)](https://www.ande.gov.py/interna.php?id=15615)
+15. [ANDE — "Paraguay reglamenta la Ley Nº 7599 y consolida una nueva etapa de modernización energética" (Decreto 6034)](https://www.ande.gov.py/interna.php?id=15312)
+16. [BACN — Ley Nº 7599/2025 (PDF)](https://www.bacn.gov.py/archivos/12999/2025_7599.pdf)
+17. [MADES — Expediente "Centro de Procesamiento de Datos" (Pardat EAS, Yguazú)](https://www.mades.gov.py/expediente/centro-de-procesamiento-de-datos/)
+18. [MADES — Expediente "Construcción de Tinglados Cerrados de Uso Industrial" (Zuccolillo, data center IA, RIMA en trámite)](https://www.mades.gov.py/expediente/construccion-de-tinglados-cerrados-de-uso-industrial-subestacion-bases-de-contenedores-y-transformadores/)
+19. [MITIC — "Paraguay y Taiwán avanzan en cooperación tecnológica con Yguazú Digital" (22-sep-2026)](https://mitic.gov.py/paraguay-y-taiwan-avanzan-en-cooperacion-tecnologica-con-yguazu-digital/)
+20. [Última Hora — "Buscan atraer inversiones en IA durante la conferencia" (Crusoe, 19-mar-2026)](https://www.ultimahora.com/buscan-atraer-inversiones-en-ia-durante-la-conferencia-segun-el-mic)
 
 **Metodología:** Artículo elaborado con la investigación de agentes de búsqueda (§5.8) documentada en `research_araico/`, auditable paso a paso. Los datos de consumo, generación y excedente energético se contrastaron contra la capa de datos verificables de ANDE (datospublicos.muchotexto.net) y el canon de AGENTS.md. Los superlativos ("la supercomputadora más avanzada de América Latina") se verificaron contra el universo completo de sistemas de la región en el TOP500, no contra la muestra citada. Las cifras de inversión y los nombres de financiadores se presentan como declaraciones de la empresa, no como hechos confirmados.
 
