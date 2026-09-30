@@ -12,7 +12,7 @@ En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores inte
 
 > **En resumen:**
 > - Paraguay tiene una ventana demográfica que, según distintas estimaciones, se cierra entre 2030 y 2070 (este análisis toma ~2045): población joven con edad media de 29 años, pero con fecundidad en declive. El bono demográfico no espera.
-> - El superávit energético —la ventaja competitiva más importante del país— podría agotarse entre 2035 y 2040, según la proyección de este análisis, si la demanda sigue creciendo al 12,5-21% anual. Diversificar con solar en el Chaco (4,8-4,9 kWh/m²/día promedio anual) no es opcional: es urgente.
+> - El superávit energético —la ventaja competitiva más importante del país— podría agotarse entre 2035 y 2040, según la proyección de este análisis, si la demanda sigue creciendo a dos dígitos (12,5% en 2025 y 17,9% acumulado a 8 meses de 2026). Diversificar con solar en el Chaco (4,8-4,9 kWh/m²/día promedio anual) no es opcional: es urgente.
 > - La potencia reservada para data centers pasó de ~125 MW en 2023 a ~822 MW en 2025 y 943,8 MW en 2026, tras la creación del régimen de consumo intensivo en 2022. Según este análisis, a 2040 esa cifra podría ir de 2.000 a 8.000 MW dependiendo de si Paraguay soluciona sus cuellos de botella: fibra internacional, regulación y talento.
 > - Tres escenarios: uno donde Paraguay se convierte en el hub de cómputo de Sudamérica, otro donde vende energía barata sin transferencia tecnológica, y un tercero —el más probable si no se toman decisiones— donde el superávit se consume sin haber construido nada nuevo.
 
@@ -28,7 +28,7 @@ El Índice de Capital Humano del Banco Mundial para Paraguay es de 0,528 —el m
 
 ## Energía: del superávit al equilibrio
 
-Paraguay genera hoy aproximadamente 44 teravatios-hora al año y consume 29,4 TWh (29.419 GWh en 2025, según la ANDE). El excedente —alrededor del 35% de su producción, unos 15 TWh— se exporta a Brasil y Argentina. Pero ese colchón se está achicando. La demanda interna crece a un ritmo de entre 12,5% y 21% anual, impulsada por los data centers —41 empresas tienen contratados 943,8 MW, el 13,5% de la potencia de Itaipú que corresponde a Paraguay (7.000 MW)—, la electrificación del transporte y el crecimiento vegetativo.
+Paraguay genera hoy aproximadamente 44 teravatios-hora al año y consume 29,4 TWh (29.419 GWh en 2025, según la ANDE). El excedente —alrededor del 35% de su producción, unos 15 TWh— se exporta a Brasil y Argentina. Pero ese colchón se está achicando. La demanda interna crece a dos dígitos —12,5% en 2025 y 17,9% acumulado a 8 meses de 2026—, impulsada por los data centers —41 empresas tienen contratados 943,8 MW, el 13,5% de la potencia de Itaipú que corresponde a Paraguay (7.000 MW)—, la electrificación del transporte y el crecimiento vegetativo.
 
 A ese ritmo, y según la proyección de este análisis, el superávit energético paraguayo se agota entre 2035 y 2040. Para entonces, si no se construyó nueva capacidad de generación, Paraguay pasará de exportador neto a importador neto —precisamente cuando más energía necesitará para sostener su crecimiento económico—.
 
@@ -108,7 +108,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
       "name": "¿Cuándo se agota el superávit energético de Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Con un crecimiento de demanda del 12,5-21% anual —impulsado por data centers, electrificación y crecimiento vegetativo—, la proyección de este análisis indica que el excedente exportable de Paraguay se agota entre 2035 y 2040. Para entonces, si no se construyó nueva capacidad de generación (solar, eólica), el país pasaría de exportador neto a tener que importar energía."
+        "text": "Con un crecimiento de demanda a dos dígitos (12,5% en 2025 y 17,9% acumulado a 8 meses de 2026) —impulsado por data centers, electrificación y crecimiento vegetativo—, la proyección de este análisis indica que el excedente exportable de Paraguay se agota entre 2035 y 2040. Para entonces, si no se construyó nueva capacidad de generación (solar, eólica), el país pasaría de exportador neto a tener que importar energía."
       }
     },
     {

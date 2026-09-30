@@ -43,7 +43,7 @@ crecimiento_demanda:
   - "12,4% (2023)"
   - "18,5% (2024)"
   - "12,5% (2025)"
-  - "21% (2026)"
+  - "17,9% acum. 8 meses (2026)"
 
 tarifa_gcie:
   tarifa: "30 US$/MWh"

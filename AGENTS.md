@@ -225,7 +225,7 @@ Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global 
 - **Paraguay no tiene**: parques solares utility-scale, parques eólicos, biomasa eléctrica significativa. Cero diversificación renovable no hidro.
 - **Ley 7599**: promulgada en diciembre de 2025 (NO 2024). Abre sector eléctrico a inversión privada. Decreto 6034 de mayo 2026: habilita 6 fuentes renovables (solar, eólica, biomasa, biogás, geotermia, almacenamiento) + las figuras de autogenerador, cogenerador, generador, exportador y gran consumidor. NO usar "prosumidor": el término no aparece en la ley ni en el decreto (verificado contra textos oficiales en energia.paraguay.gov.py).
 - **NDC 3.0**: presentada noviembre 2025. Meta: 20% reducción bajo BAU para 2030/2035 (10% incondicional + 10% condicional, USD 24.000M financiamiento externo).
-- **Demanda eléctrica**: crecimiento 12,5-21% anual (ANDE: +5,7% 2022, +12,4% 2023, +18,5% 2024, +12,5% 2025, +21% 2026). El mínimo oficial es 12,5%, no 12%. NO usar 5-8% como ritmo actual.
+- **Demanda eléctrica**: crecimiento a dos dígitos (ANDE: +5,7% 2022, +12,4% 2023, +18,5% 2024, +12,5% 2025, +17,9% acumulado a 8 meses de 2026). El mínimo anual reciente es 12,5% (2025), no 12%. NO usar 5-8% como ritmo actual ni presentar el parcial de un trimestre como cierre anual.
 
 ### Fuentes primarias paraguayas — verificación obligatoria
 ### Demografía y economía (datos verificados ago 2026)
@@ -288,7 +288,7 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 
 #### Energía
 - **~44 TWh/año generación, ~29,4 TWh consumo**: TRUE. ANDE (14-01-2026): consumo nacional 2025 = 29.419 GWh (29,4 TWh), repartido Itaipú 25.768 GWh + Yacyretá 3.081 + Acaray 570. Generación disponible ~45,5 TWh. Excedente exportado ≈35% (~15 TWh). NO usar ~15-16 TWh como consumo.
-- **Crecimiento demanda 12,5-21% anual**: TRUE. Fuente: ANDE (oficiales: 12,5% 2025, 18,5% 2024, 21% 2026). NO usar 12% como mínimo ni 5-8% (desactualizado).
+- **Crecimiento demanda a dos dígitos**: TRUE. Fuente: ANDE (oficiales: +18,5% 2024, +12,5% 2025, +17,9% acumulado a 8 meses de 2026). El "21%" era un parcial del primer trimestre de 2026, no un cierre anual. NO usar 12% como mínimo ni 5-8% (desactualizado).
 - **943,8 MW (41 empresas) = 13,5% de Itaipú**: TRUE. Es 13,5% de la POTENCIA que corresponde a Paraguay de Itaipú (7.000 MW), NO de la energía anual. Potencia reservada contratada, no necesariamente operativa.
 - **Superávit se agota 2035-2040**: PROYECCIÓN (no verificable como hecho). Es el resultado del modelo del propio artículo, no una proyección oficial.
 - **Irradiación solar Chaco ~4,8-4,9 kWh/m²/día**: TRUE. Atlas Solar 2016 y estudio académico del Chaco (La Patria, datos NASA 1983-2005): promedio anual GHI 4,7-5,1 kWh/m²/día. En el norte del Chaco más cerca de 5,0-5,1. NO usar 5,5.
@@ -327,7 +327,7 @@ Fuentes: Presidencia.gov.py, MOPC, ABC Color, Última Hora, RDN, RCC, MIC.gov.py
 - **Mesa Energética del MIC+UIP**: dentro del Consejo Asesor Empresarial del MIC, concluyó el 22 de julio de 2026 que "por primera vez en la historia tenemos más proyectos que energía disponible" (Ministro Marco Riquelme). Fuente: RCC (22-jul-2026), MIC.gov.py.
 - **Consumo eléctrico**: 29.419 GWh en 2025 (29,4 TWh) según ANDE (14-01-2026): es el CONSUMO NACIONAL (demanda del sistema con pérdidas). El historial ANDE: 18.583 GWh (2021), 19.635 (2022), 22.079 (2023), 26.154 (2024), 29.419 (2025). NO usar ~15-16 TWh como consumo actual (era la cifra ~2019-2020). Excedente exportado ≈35% (~15 TWh).
   - Crecimiento histórico del consumo: ~3-5% CAGR (2019-2025).
-  - Crecimiento reciente de demanda (era data centers): 12,5-21% anual. El piso oficial reciente es 12,5% (2025); usar "12-21%" es impreciso.
+  - Crecimiento reciente de demanda (era data centers): a dos dígitos — +12,5% (2025) y +17,9% acumulado a 8 meses de 2026. Usar "12-21%" es impreciso.
 - **6.300 MW**: es la potencia disponible de Itaipú para Paraguay (10 turbinas x 700 MW con 10% de margen), NO exclusivamente la demanda de empresas interesadas. La prensa reporta este número como "demanda de empresas" pero casualmente coincide con la capacidad paraguaya de Itaipú. Fuente: Wikipedia ES ANDE, ABC Color.
 
 ### Proyecto de ley del Ministerio de Energía, Minería e Hidrocarburos (verificado ago 2026)

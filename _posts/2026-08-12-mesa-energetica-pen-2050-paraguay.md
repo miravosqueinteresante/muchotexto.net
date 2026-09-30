@@ -15,7 +15,7 @@ En septiembre de 2024, Paraguay aprobó por decreto su Política Energética Nac
 > **En resumen:**
 > - La Política Energética al 2050 (Decreto 2553/2024) tiene 95 objetivos y 385 metas y ordenaba crear el Ministerio de Energía, Hidrocarburos y Minería en 2024. A agosto de 2026 no existe; solo hay un viceministerio dependiente del MOPC.
 > - La Mesa Energética Nacional existe desde 2012, fue reactivada en octubre de 2023, aprobó la política en septiembre de 2024 y el 6 de agosto de 2026 Peña la convocó con 30 días para propuestas en cuatro ejes.
-> - El debate llega en contexto de presión: la demanda crece entre 12,5% y 21% anual, 41 empresas consumidoras intensivas reservan 943,8 MW y la prensa reporta solicitudes de hasta 6.300 MW.
+> - El debate llega en contexto de presión: la demanda crece a dos dígitos (12,5% en 2025 y 17,9% acumulado a 8 meses de 2026), 41 empresas consumidoras intensivas reservan 943,8 MW y la prensa reporta solicitudes de hasta 6.300 MW.
 > - Los intentos de crear un ministerio de energía vienen desde 2018. Chile, Uruguay y Brasil tienen ministerios de energía desde hace décadas.
 
 Paraguay no tiene un problema de energía: tiene un problema de institucionalidad. Genera electricidad renovable de sobra, exporta más de la mitad de lo que produce y, sin embargo, cada vez que el sector privado quiere invertir —un data center, una planta de amoníaco verde— la pregunta es la misma: ¿quién planifica, quién regula y quién decide en Paraguay? La respuesta es la historia de un ministerio prometido, escrito y ordenado en un decreto, pero que todavía no existe.
