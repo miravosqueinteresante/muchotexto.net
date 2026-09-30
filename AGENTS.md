@@ -70,6 +70,7 @@ El agente de verificación hará lo siguiente automáticamente:
 2. **Grep global del dato corregido**: tras corregir un número, fecha, nombre o frase errónea, buscarlo en TODO el artículo (`grep`) para cazarlo en todas sus apariciones. No corregir solo la primera ocurrencia y dejar residuos.
 3. **Spot-check del orquestador**: al recibir un informe limpio de FALSE, abrir 1-2 fuentes de alto riesgo (las que sostienen claims interpretativos) y verificar personalmente su contenido. No confiar ciegamente en el veredicto del subagente.
 4. Solo commitear cuando el informe esté limpio de FALSE y el spot-check no detectó nada.
+5. **Ejecución atómica + verificación (regla de tool calls)**: el `commit` y el `push` se ejecutan en tool calls separados y simples —no encadenar `build && validate && commit && push` en un solo bloque largo, que puede corromperse y devolverse como texto crudo sin ejecutarse—. Tras cada `commit`/`push`, verificar con `git log --oneline -1` y `git status --short` que efectivamente se aplicó. Si un commit no se refleja, reejecutarlo (es idempotente). No declarar "pusheado" sin haberlo confirmado con `git log`.
 
 ### Regla de escape
 Si un dato es inverificable pero viene de una fuente primaria citada en el artículo y esa fuente es confiable (ABC Color, ANDE, DNCP, IPS, MITIC, BACN, etc.), se puede mantener con la atribución explícita.
