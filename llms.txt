@@ -42,6 +42,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Los contratos secretos de ANDE: 943 MW bajo llave](https://muchotexto.net/articulos/2026/09/16/los-contratos-secretos-de-ande/)
 - [El data center Tier III que Paraguay ya tiene hace una década](https://muchotexto.net/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
 - [Energía nuclear en Paraguay: qué firmó con EE.UU. y qué falta](https://muchotexto.net/articulos/2026/09/23/energia-nuclear-paraguay-eeuu/)
+- [La supercomputadora que ARAICO promete para Yguazú](https://muchotexto.net/articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/)
 
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)

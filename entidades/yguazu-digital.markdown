@@ -4,7 +4,7 @@ title: "Proyecto Yguazú Digital"
 description: >
   Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Proyecto Yguazú Digital.
 permalink: /entidades/yguazu-digital/
-last_modified_at: 2026-09-25
+last_modified_at: 2026-09-30
 entity_id: yguazu-digital
 entity_name: Yguazú Digital
 entity_name_full: Proyecto Yguazú Digital
@@ -60,6 +60,9 @@ obs_casos-de-uso:
   - label: "Yguazú Digital: gobernanza binacional para IA"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
+  - label: "Las promesas de cómputo en Paraguay"
+    url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/
+    context: "ARAICO proyecta un campus de 1,3 GW en Yguazú con USD 12.000 millones en tres etapas; su primera fase sería de 6 MW para diciembre de 2026. Se suma a X8 Cloud (6 a 250 MW, sin obra verificable) y a..."
 ---
 
 8 articulos en el observatorio mencionan a Yguazú Digital.

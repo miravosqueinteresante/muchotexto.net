@@ -237,6 +237,11 @@
     definicion: Plataforma B2B global de AB InBev, creada por el grupo en 2020, que
       conecta marcas y comercios y digitaliza pedidos, logística y cobros. Su capa
       de inteligencia se llama BEES.ai. En Paraguay la opera Cervepar.
+  - termino: Supercomputadora de IA
+    definicion: Sistema de cómputo de alto rendimiento (HPC) medido en petaflops (billones
+      de operaciones por segundo), según el ranking TOP500. Se distingue de un data
+      center de GPU, que se mide en megavatios de potencia. La más potente de América
+      Latina a junio de 2026 es Harpia (Petrobras, Brasil), con 75,2 petaflops.
 - tema: Paraguay y geopolítica
   terminos:
   - termino: Anexo C de Itaipú

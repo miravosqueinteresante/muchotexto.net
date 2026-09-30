@@ -74,6 +74,8 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[Energía nuclear en Paraguay: el memorándum con EE.UU. no es un reactor]({% post_url 2026-09-23-energia-nuclear-paraguay-eeuu %})** — El 4 de agosto de 2026 Paraguay firmó con Washington un MOU no vinculante, no un Acuerdo 123. Ningún SMR de diseño estadounidense opera todavía, el proyecto insignia se canceló por costos y el piso realista para un reactor es de 15 a 20 años.
 
+- **[La supercomputadora que ARAICO promete para Yguazú]({% post_url 2026-09-30-araico-supercomputadora-yguazu-paraguay %})** — ARAICO, empresa privada incorporada en EE.UU., proyecta un campus de IA de 1,3 GW en Yguazú con USD 12.000 millones en tres etapas. La "supercomputadora más avanzada de América Latina" no resiste contra el ranking TOP500, y "dejar de vender energía a Brasil" contradice la aritmética del excedente.
+
 ## Geopolítica y regulación tech
 
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo -y Taiwán produce el 90% de los semiconductores más avanzados- esa relación tiene implicancias que van mucho más allá del comercio.

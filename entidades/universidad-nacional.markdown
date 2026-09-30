@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-09-25
+last_modified_at: 2026-09-30
 entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
@@ -67,6 +67,9 @@ obs_cronologia:
   - label: "18-20 Agosto 2026"
     url: /cronologia/
     context: "El vicepresidente de ADATA, Felipe Masselli, se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de..."
+  - label: "29 Septiembre 2026"
+    url: /cronologia/
+    context: "Alejandro Zuccolillo, cofundador y presidente de ARAICO, detalla en la Ñandutí (programa La Gran Cabina) las tres etapas del campus de IA en Yguazú: USD 300 millones de entrega para fin de año, y dos..."
 obs_regulacion:
   - label: "Ley 7593/2025"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
