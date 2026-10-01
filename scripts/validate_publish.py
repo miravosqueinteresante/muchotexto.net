@@ -12,6 +12,7 @@ import sys
 import glob
 import urllib.request
 import urllib.error
+from urllib.parse import urlparse
 import subprocess
 
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -187,6 +188,28 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
                 warnings.append(f"URLs posiblemente rotas: {broken}/{len(external_urls[:10])} (verificar con scripts/check_urls.py)")
         except:
             pass  # si falla el import, no bloquea
+
+    # === FUENTES: detectar URLs que apuntan a homepage (regla §5.1) ===
+    # §5.1 exige el formato [Medio — "Título del artículo"](URL específica) (fecha).
+    # Una URL cuyo path está vacío o es "/" apunta a la portada, no al artículo
+    # concreto. (Error histórico: el #55 citaba abc.com.py/, lanacion.com.py/,
+    # etc. en vez de la URL de la noticia específica.)
+    homepage_urls = []
+    for url in external_urls:
+        try:
+            path = urlparse(url).path.rstrip("/")
+            if not path:
+                homepage_urls.append(url)
+        except Exception:
+            pass
+    if homepage_urls:
+        warnings.append(
+            "Fuentes con URL de homepage (sin ruta al artículo concreto) — "
+            "regla §5.1 exige la URL específica [Medio — 'Título'](URL) (fecha). "
+            "Excepción legítima: el sitio oficial de una entidad cuando su "
+            "página principal ES la fuente primaria: "
+            + ", ".join(homepage_urls[:6])
+        )
 
     if not description:
         warnings.append("Meta description no definida en frontmatter")
