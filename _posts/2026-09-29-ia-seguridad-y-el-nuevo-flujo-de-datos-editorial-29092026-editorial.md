@@ -3,6 +3,7 @@ layout: post
 title: "IA, seguridad y el nuevo flujo de datos — Editorial 29/09/2026"
 description: "La integración de inteligencia artificial en la producción de contenidos de video por parte de medios locales, junto con el uso de analítica de datos para la gestión del talento en Paraguay, marca un cambio en la forma en que las organizaciones locales procesan su información."
 
+
 date: 2026-09-29 18:00:00 -0300
 last_modified_at: 2026-09-29
 categories: editorial

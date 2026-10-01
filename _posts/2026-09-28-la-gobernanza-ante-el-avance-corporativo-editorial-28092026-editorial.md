@@ -4,6 +4,7 @@ title: "La gobernanza ante el avance corporativo — Editorial 28/09/2026"
 description: "Meta puso en marcha una plataforma comercial diseñada para vender herramientas de inteligencia artificial directamente al sector corporativo, marcando un paso más en la integración de estas tecnologías en los procesos de negocio."
 
 
+
 date: 2026-09-28 18:00:00 -0300
 last_modified_at: 2026-09-28
 categories: editorial
