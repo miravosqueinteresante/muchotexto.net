@@ -72,6 +72,19 @@ El agente de verificación hará lo siguiente automáticamente:
 4. Solo commitear cuando el informe esté limpio de FALSE y el spot-check no detectó nada.
 5. **Ejecución atómica + verificación (regla de tool calls)**: el `commit` y el `push` se ejecutan en tool calls separados y simples —no encadenar `build && validate && commit && push` en un solo bloque largo, que puede corromperse y devolverse como texto crudo sin ejecutarse—. Tras cada `commit`/`push`, verificar con `git log --oneline -1` y `git status --short` que efectivamente se aplicó. Si un commit no se refleja, reejecutarlo (es idempotente). No declarar "pusheado" sin haberlo confirmado con `git log`.
 
+### Paso 4: Cierre de artículo (checklist obligatorio, antes de declarar "listo")
+
+Todo esto se ejecuta **y se verifica con salida real**, no de memoria. Son los pasos que históricamente se saltaron por "dejarlos para el final":
+
+1. **Formato de fuentes (§5.1)**: cada entrada de "Fuentes" apunta a la **URL del artículo concreto**, no a la homepage del medio. `validate_publish.py` marca warning si detecta una homepage — si aparece, corregir la URL, no ignorarlo. Excepción legítima: el sitio oficial de una entidad cuando su página principal ES la fuente primaria.
+2. **Atribución de cada fuente/entrevista**: toda cita o mención de un medio/entrevista tiene una **URL específica verificada**. Una etiqueta semilla (nombre de una radio, hashtag, medio sin URL) NO es fuente hasta que una URL concreta la verifique. Si no se encuentra la URL, la cita se elimina o se reatribuye al medio que sí la publicó.
+3. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot válido). Ninguna fuente 404.
+4. **`validate_publish`**: sin warnings bloqueantes (fuentes, superlativos, meta, FAQ, links internos).
+5. **`build_derived` + `audit_consistency`**: verdes.
+6. **Observatorio actualizado**: pilar enlaza el artículo, `llms.txt`, `entidades/` regeneradas si toca entidad.
+7. **Estrategia actualizada (§14.1 paso 11)**: §3.2 (✅), §16 (fila), §17 (progreso), §19 (changelog). **No se publica sin esto.**
+8. **Build + commit + push** atómico, con verificación post-commit.
+
 ### Regla de escape
 Si un dato es inverificable pero viene de una fuente primaria citada en el artículo y esa fuente es confiable (ABC Color, ANDE, DNCP, IPS, MITIC, BACN, etc.), se puede mantener con la atribución explícita.
 
