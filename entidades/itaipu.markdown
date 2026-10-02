@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Itaipú Binacional.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-02
 entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional

@@ -237,11 +237,13 @@
     definicion: Plataforma B2B global de AB InBev, creada por el grupo en 2020, que
       conecta marcas y comercios y digitaliza pedidos, logística y cobros. Su capa
       de inteligencia se llama BEES.ai. En Paraguay la opera Cervepar.
-  - termino: Supercomputadora de IA
-    definicion: Sistema de cómputo de alto rendimiento (HPC) medido en petaflops (billones
-      de operaciones por segundo), según el ranking TOP500. Se distingue de un data
-      center de GPU, que se mide en megavatios de potencia. La más potente de América
-      Latina a junio de 2026 es Harpia (Petrobras, Brasil), con 75,2 petaflops.
+  - termino: Campus de IA
+    definicion: Instalación de infraestructura de cómputo acelerado (data centers
+      de GPU) que se mide en megavatios o gigavatios de potencia eléctrica y se arrienda
+      a terceros. Se distingue de una supercomputadora, un sistema HPC único que se
+      mide en petaflops y aparece en el ranking TOP500. ARAICO proyecta un campus
+      de 1,3 GW; la supercomputadora más potente de América Latina hoy es Harpia (Petrobras,
+      Brasil), con 75,2 petaflops.
 - tema: Paraguay y geopolítica
   terminos:
   - termino: Anexo C de Itaipú

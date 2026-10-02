@@ -4,7 +4,7 @@ title: "Taiwán (República de China)"
 description: >
   Perfil de Taiwán en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-02
 entity_id: taiwan
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
@@ -78,7 +78,7 @@ obs_casos-de-uso:
     context: "Paraguay produce alrededor de 400 graduados en informática por año. El país gasta $1.200 anuales por alumno en educación, muy por debajo del promedio regional. Taiwán amplió su programa de becas en..."
   - label: "Las promesas de cómputo en Paraguay"
     url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/
-    context: "ARAICO proyecta un campus de 1,3 GW en Yguazú con USD 12.000 millones en tres etapas; su primera fase sería de 6 MW para diciembre de 2026. Se suma a X8 Cloud (6 a 250 MW, sin obra verificable) y a..."
+    context: "ARAICO proyecta un campus de data centers de IA de 1,3 GW en Yguazú con una inversión anunciada de hasta USD 12.000 millones en tres etapas; su primera fase sería de 6 MW para diciembre de 2026. Se..."
 ---
 
 5 articulos en el observatorio mencionan a Taiwán.

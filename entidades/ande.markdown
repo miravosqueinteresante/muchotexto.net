@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-02
 entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
@@ -44,9 +44,9 @@ related_articles:
   - title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto hay un número que explica por qué se discuten; 68,6. Ese es, en dólares por megavatio-hora, el valor al que la tarifa media de la electricidad paraguaya debería llegar en.."
-  - title: "La supercomputadora que ARAICO promete para Yguazú"
+  - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
     url: /[articulos]/2026/09/30/araico-supercomputadora-yguazu-paraguay/
-    context: "Paraguay tiene una nueva promesa de cómputo, más grande que todas las anteriores; un **campus de inteligencia artificial de 1,3 gigavatios en Yguazú**, con una inversión anunciada de **USD 12.000 millones en tres etapas**. La hizo **ARAICO**, una..."
+    context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un **campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú**, con una inversión anunciada de hasta **USD 12.000 millones**. La anuncia **ARAICO**, una..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
