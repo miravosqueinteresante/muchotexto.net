@@ -60,7 +60,7 @@ Paraguay no tiene una sola regulación específica para data centers. Y sin emba
 
 La Ley 7599 de 2025 y el Decreto 6034 de 2026 abrieron el sector eléctrico a la inversión privada y crearon las figuras de autogenerador, cogenerador, generador, exportador y gran consumidor. La Ley de Maquila (Ley 1064/1997, reformada por la Ley 7547/2025) permite a los data centers exportar servicios de cómputo con un impuesto del 1% sobre el valor agregado nacional y exención de IVA y aranceles en la importación de equipos. Son marcos habilitadores —atraen inversión—, no regulatorios —no protegen a la comunidad—.
 
-No existe una cuota mínima de contratación de mano de obra local. No existe una obligación de compartir infraestructura eléctrica o de conectividad con la comunidad. No existe un requisito de evaluación de impacto ambiental específico para data centers —la Ley 294/1993 de evaluación de impacto ambiental aplica genéricamente pero nunca fue aplicada al sector—. La Ley 3001/2006, que exige una compensación ambiental del 1% del costo del proyecto para actividades de alto impacto, podría aplicar en teoría, pero nunca fue invocada para un data center o una operación de criptominería.
+No existe una cuota mínima de contratación de mano de obra local. No existe una obligación de compartir infraestructura eléctrica o de conectividad con la comunidad. No existe un requisito de evaluación de impacto ambiental específico para data centers —la Ley 294/1993 de evaluación de impacto ambiental aplica genéricamente pero nunca fue aplicada al sector—, y ninguna compensación ambiental ha sido exigida a un data center o a una operación de criptominería.
 
 Chile, en contraste, diseñó el Plan Nacional de Data Centers (PDATA) con metas explícitas: triplicar la capacidad instalada para 2030, atraer USD 2.500 millones en inversión y establecer criterios de sostenibilidad para el uso de agua y energía. Es un marco estratégico que le da al Estado herramientas para negociar con los operadores antes de que lleguen. Paraguay no tiene un PDATA. Lo más cercano es el memorando de entendimiento de Yguazú Digital, un documento no vinculante que no establece obligaciones concretas para ninguna de las partes.
 
@@ -79,16 +79,15 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 1. [HIVE Digital Technologies — FY2026 Financial Results](https://www.hivedigitaltechnologies.com/news/hive-achieves-fy2026-total-revenue-of-2978-million-158-yoy-hives-buzz-hpc-positioned-for-growth/) (junio 2026)
 2. [HIVE Digital Technologies — Adquisición de Yguazú 200 MW](https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-announces-the-acquisition-of-bitfarms-yguazu-paraguay-site-a-200-mw-bitcoin-mining-site-setting-the-stage-for-substantial-growth-to-25-ehs-by-september-2025/) (enero 2025)
 3. [HIVE Digital Technologies — Operaciones en Paraguay](https://www.hivedigitaltechnologies.com/operations/paraguay/)
-4. [Baker Tilly — Community Benefit Agreements for Data Centers](https://www.bakertilly.com/) (2025)
-5. [Rest of World — The Global Backlash Against Data Centers](https://restofworld.org/) (2025)
-6. [EDF — Data Center Community Impacts Report](https://www.edf.org/) (2025)
-7. [Ley 7599/2025 — Apertura del sector eléctrico paraguayo](https://www.bacn.gov.py/)
+4. [Baker Tilly — "Data center impact on local communities"](https://www.bakertilly.com/insights/data-center-impact-on-local-communities) (2026)
+5. [Rest of World — "Governments welcomed data centers. Now they're grappling with the fallout"](https://restofworld.org/2025/ai-data-centers-fallout/) (19-dic-2025)
+6. [EDF — "Decoding data centers: Sustainability due diligence across the value chain"](https://business.edf.org/insights/decoding-data-centers-sustainability-due-diligence-across-the-value-chain/) (2026)
+7. [Ley 7599/2025 — Apertura del sector eléctrico paraguayo (PDF)](https://www.bacn.gov.py/archivos/12999/2025_7599.pdf)
 8. [Ley 7547/2025 — Régimen de Maquila (reforma de la Ley 1064/97)](https://www.bacn.gov.py/leyes-paraguayas/12853/ley-n-75472025-del-regimen-de-maquila)
-9. [Ley 3001/2006 — Evaluación de impacto ambiental](https://www.bacn.gov.py/)
-10. [Wikipedia (EN) — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
-11. [CRU — Data centres and the electricity grid (Irlanda)](https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/)
-12. [Forbes — South America's AI Infrastructure Reality Check](https://www.forbes.com/) (enero 2026)
-13. [Chile PDATA — Plan Nacional de Data Centers](https://www.minciencia.gob.cl/) (2025)
+9. [Wikipedia (EN) — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
+10. [CRU — Data centres and the electricity grid (Irlanda)](https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/)
+11. [Moor Insights & Strategy — "South America's AI Infrastructure Reality Check"](https://moorinsightsstrategy.com/south-americas-ai-infrastructure-reality-check/) (feb-2026)
+12. [Chile PDATA — Plan Nacional de Data Centers](https://www.minciencia.gob.cl/areas/Plan-Nacional-Data-Centers/) (2025)
 
 <script type="application/ld+json">
 {

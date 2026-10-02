@@ -72,11 +72,11 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 
 ## Fuentes
 
-- [Uptime Institute — "Data Center Tier Classification"](https://uptimeinstitute.com/resources)
+- [Uptime Institute — "Data Center Tier Classification"](https://uptimeinstitute.com/tiers)
 - [NVIDIA — "H100 Tensor Core GPU"](https://www.nvidia.com/en-us/data-center/h100/)
-- [Data Center Knowledge — "How Much Energy Do Data Centers Use?"](https://www.datacenterknowledge.com/)
+- [Data Center Knowledge — "Data Center Power: Fueling the Digital Revolution"](https://www.datacenterknowledge.com/energy-power-supply/data-center-power-fueling-the-digital-revolution)
 - [Wikipedia — "Data center"](https://en.wikipedia.org/wiki/Data_center)
-- [CIER 2025 — Comparación de tarifas eléctricas en Sudamérica](https://www.cier.org/)
+- [CIER 2025 — Informe Ejecutivo de Tarifas Eléctricas](https://cier.org/conocimiento/informe-ejecutivo-de-tarifas-electricas-2025/)
 
 <script type="application/ld+json">
 {
