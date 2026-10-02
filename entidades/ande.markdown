@@ -47,6 +47,9 @@ related_articles:
   - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
     url: /[articulos]/2026/09/30/araico-supercomputadora-yguazu-paraguay/
     context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un **campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú**, con una inversión anunciada de hasta **USD 12.000 millones**. La anuncia **ARAICO**, una..."
+  - title: "La salida de Atome no es una pérdida de USD 665 millones"
+    url: /[articulos]/2026/10/02/atome-ande-salida-paraguay/
+    context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la **terminación de su contrato de energía con la ANDE** y mantiene su intención de llevar a..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
@@ -122,4 +125,4 @@ obs_casos-de-uso:
     context: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay,..."
 ---
 
-11 articulos en el observatorio mencionan a ANDE.
+12 articulos en el observatorio mencionan a ANDE.

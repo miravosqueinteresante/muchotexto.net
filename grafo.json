@@ -169,13 +169,13 @@
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Tarifa de Itaipú 2024-2026"
+      "label": "Anexo C del Tratado de Itaipú"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Anexo C del Tratado de Itaipú"
+      "label": "Tarifa de Itaipú 2024-2026"
     },
     {
       "source": "ande",
@@ -254,6 +254,12 @@
       "target": "tsmc",
       "type": "articulo",
       "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
+    },
+    {
+      "source": "ande",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "La salida de Atome no es una pérdida de USD 665 millones"
     },
     {
       "source": "itaipu",

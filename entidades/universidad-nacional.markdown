@@ -27,6 +27,9 @@ related_articles:
   - title: "El data center Tier III que Paraguay ya tiene hace una década"
     url: /[articulos]/2026/09/21/tigo-data-center-tier-iii-paraguay/
     context: "Paraguay discute, desde hace dos años, data centers de inteligencia artificial que se miden en cientos de megavatios. El que **ya existe**, el único Tier III de un operador privado, mide su capacidad en megavatios que se cuentan con los dedos de una."
+  - title: "La salida de Atome no es una pérdida de USD 665 millones"
+    url: /[articulos]/2026/10/02/atome-ande-salida-paraguay/
+    context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la **terminación de su contrato de energía con la ANDE** y mantiene su intención de llevar a..."
   - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque 'no hay tiempo'. El contenido se volvió ruido."
@@ -45,9 +48,6 @@ related_articles:
   - title: "La IA cuesta más que los humanos que reemplazó: los números"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
     context: "Hay un post que circula en redes sociales y que probablemente ya viste. Dice que Uber quemó todo su presupuesto anual de IA en cuatro meses. Que Microsoft está retirando licencias a sus propios ingenieros. Que Starbucks eliminó su sistema de..."
-  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
-    url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
-    context: "La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/

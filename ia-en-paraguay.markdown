@@ -76,6 +76,8 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[El campus de IA de 1,3 GW que ARAICO promete en Yguazú]({% post_url 2026-09-30-araico-supercomputadora-yguazu-paraguay %})** — ARAICO, empresa privada incorporada en EE.UU., proyecta un campus de data centers de IA de 1,3 GW en Yguazú con USD 12.000 millones anunciados. La etiqueta de "supercomputadora más avanzada de América Latina" no resiste contra el ranking TOP500, y "dejar de vender energía a Brasil" contradice la aritmética del excedente.
 
+- **[La salida de Atome no es una pérdida de USD 665 millones]({% post_url 2026-10-02-atome-ande-salida-paraguay %})** — La británica Atome rescindió su contrato con la ANDE sin haber construido nada en Villeta desde 2022. Los USD 665 millones eran inversión proyectada, no desembolsada; el conflicto era tarifario y su salida libera 145 MW.
+
 ## Geopolítica y regulación tech
 
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo -y Taiwán produce el 90% de los semiconductores más avanzados- esa relación tiene implicancias que van mucho más allá del comercio.

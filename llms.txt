@@ -43,6 +43,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [El data center Tier III que Paraguay ya tiene hace una década](https://muchotexto.net/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
 - [Energía nuclear en Paraguay: qué firmó con EE.UU. y qué falta](https://muchotexto.net/articulos/2026/09/23/energia-nuclear-paraguay-eeuu/)
 - [El campus de IA de 1,3 GW que ARAICO promete en Yguazú](https://muchotexto.net/articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/)
+- [La salida de Atome no es una pérdida de USD 665 millones](https://muchotexto.net/articulos/2026/10/02/atome-ande-salida-paraguay/)
 
 ### Pilar 2: Geopolítica y regulación tech
 - [El experimento paraguayo de Peter Thiel](https://muchotexto.net/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
