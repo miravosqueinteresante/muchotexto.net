@@ -2,10 +2,10 @@
 layout: post
 title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
 date: 2026-08-04 12:00:00 -0300
-last_modified_at: 2026-08-15
+last_modified_at: 2026-10-02
 categories: articulos
 tags: [infraestructura-energia, sociedad-trabajo, data-center, empleo, desarrollo-local]
-description: "HIVE Digital invirtió USD 56M en Yguazú y opera 300 MW. La comunidad recibió mejoras en escuelas y empleo temporal en construcción. Después, la relación se…"
+description: "HIVE Digital invirtió USD 56M en Yguazú y opera 300 MW. La comunidad recibió mejoras en escuelas y empleo temporal. Después, los beneficios se diluyen."
 ---
 
 A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá —HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la construcción de dos subestaciones eléctricas en Yguazú y Valenzuela, dos distritos del departamento de Cordillera y Alto Paraná. En seis meses, HIVE pasó de cero a 300 megavatios de capacidad instalada en Paraguay, una operación de minería de Bitcoin que factura más que el presupuesto municipal de varias ciudades paraguayas juntas. ¿Qué cambió en esas comunidades cuando el data center llegó? La respuesta es más compleja —y más aleccionadora— de lo que sugieren los comunicados de prensa.
@@ -13,7 +13,7 @@ A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX 
 > **En resumen:**
 > - HIVE Digital opera 300 MW en Yguazú y Valenzuela tras invertir USD 56M en la compra del predio y USD 19M en depósitos de energía con ANDE. La construcción duró seis meses y empleó entre 800 y 1.500 trabajadores temporales. La operación permanente ocupa entre 60 y 150 personas.
 > - La infraestructura que construyó HIVE —subestaciones eléctricas, fibra óptica— es privada y dedicada. No hay evidencia de que la red eléctrica residencial de Yguazú o Valenzuela haya mejorado por la presencia del data center.
-> - A nivel global, USD 156.000 millones en proyectos de data centers fueron bloqueados o retrasados en 2025 por oposición comunitaria. En Virginia, 42 grupos de vecinos protestan contra los data centers a pesar de que representan un tercio de los impuestos a la propiedad del condado.
+> - A nivel global, USD 156.000 millones en proyectos de data centers fueron bloqueados o retrasados en 2025 por oposición comunitaria. En Virginia, 42 grupos de vecinos protestan contra los data centers a pesar de que representan el 38% del Fondo General del condado.
 > - Paraguay no tiene ninguna regulación específica para data centers: no hay cuotas de contratación local, no hay obligaciones de beneficio comunitario, no hay evaluaciones de impacto ambiental obligatorias para esta actividad.
 
 El debate sobre los data centers en Paraguay suele concentrarse en los grandes números: los megavatios, los miles de millones de dólares, la geopolítica de los semiconductores. Pero los data centers no se instalan en hojas de Excel. Se instalan en distritos. Y la diferencia entre un data center que enriquece a su comunidad y uno que la exprime está en las reglas que el país establece —o deja de establecer— antes de que lleguen.
@@ -26,7 +26,7 @@ Simultáneamente, HIVE construyó desde cero su propio predio en Valenzuela: 100
 
 Durante esos seis meses, la construcción demandó entre 800 y 1.500 trabajadores temporales, según estimaciones del sector. En Paraguay, donde proyectos de escala comparable como el parque industrial Acereste reportan alrededor de 100 obreros locales durante su fase de obra, el impacto en el empleo zonal durante la construcción fue significativo aunque breve.
 
-HIVE también invirtió en las escuelas de Valenzuela: instaló aire acondicionado, renovó el cableado eléctrico y pintó aulas. Las fotos de esas mejoras están documentadas en el sitio web de la empresa. Pero no hay cobertura de prensa paraguaya que verifique de forma independiente el alcance de esas inversiones, ni testimonios de la comunidad sobre qué significaron en la práctica. La cobertura de medios locales sobre HIVE —cinco artículos en La Nación, cero en ABC Color— enmarca a la empresa como parte del "polo industrial" de Yguazú, un relato sin disidencia visible.
+HIVE también invirtió en las escuelas de Valenzuela: instaló aire acondicionado, renovó el cableado eléctrico y pintó aulas. Las fotos de esas mejoras están documentadas en el sitio web de la empresa. Pero no hay cobertura de prensa paraguaya que verifique de forma independiente el alcance de esas inversiones, ni testimonios de la comunidad sobre qué significaron en la práctica. Al momento de publicarse este artículo (agosto de 2026), la cobertura de medios locales sobre HIVE se concentraba en La Nación, sin notas de ABC Color; enmarcaba a la empresa como parte del "polo industrial" de Yguazú, un relato sin disidencia visible.
 
 ## Lo que un data center construye y lo que no comparte
 
@@ -48,17 +48,17 @@ El contraste con otros sectores es instructivo. Una planta de autopartes en el r
 
 ## Lo que Virginia, Irlanda y Suecia ya aprendieron
 
-Loudoun County, en el norte de Virginia, es el caso más extremo del mundo. Más de 200 data centers operan en un condado de 430.000 habitantes. Pagaron USD 733 millones en impuestos a la propiedad en 2024 —cubriendo aproximadamente un tercio del total recaudado— y representan el 38% del Fondo General del condado. Ese alivio fiscal ha permitido que los residentes tengan una de las tasas impositivas más bajas del estado. Pero 42 grupos de vecinos protestan activamente contra la expansión de los data centers. Las quejas son consistentes: ruido constante de ventiladores y generadores, líneas de transmisión que cruzan propiedades residenciales, pérdida de paisaje rural y —en el caso de Warrenton, una ciudad vecina— el voto unánime para remover a todos los concejales que aprobaron un data center de Amazon.
+Loudoun County, en el norte de Virginia, es el caso más extremo. Más de 200 data centers operan en un condado de 430.000 habitantes; pagaron USD 733 millones en impuestos a la propiedad en 2024, el 38% del Fondo General. Pero 42 grupos de vecinos protestan activamente por el ruido constante, las líneas de transmisión que cruzan propiedades residenciales y la pérdida de paisaje rural; en Warrenton, el voto unánime removió a todos los concejales que aprobaron un data center de Amazon.
 
-Irlanda es el espejo en el que Paraguay debería mirarse. El país europeo atrajo más de 80 data centers con una combinación de bajos impuestos corporativos, clima templado que reduce el costo de refrigeración y acceso a energía eólica. En 2025, los data centers irlandeses consumían el 23% de toda la electricidad del país —más que todos los hogares urbanos combinados (18%)—. El regulador energético (CRU) impuso una moratoria de facto de cuatro años a nuevas conexiones en el área de Dublín porque la red simplemente no daba abasto. Irlanda no planificó. Dejó que los data centers llegaran y después intentó controlarlos.
+Irlanda es el espejo en el que Paraguay debería mirarse. El país europeo atrajo más de 70 data centers con una combinación de bajos impuestos corporativos, clima templado que reduce el costo de refrigeración y acceso a energía eólica. En 2025, los data centers irlandeses consumían el 23% de toda la electricidad del país —más que todos los hogares urbanos combinados (18%)—. El regulador energético (CRU) impuso una moratoria de facto de cuatro años a nuevas conexiones en el área de Dublín porque la red simplemente no daba abasto. Irlanda no planificó. Dejó que los data centers llegaran y después intentó controlarlos.
 
-Suecia muestra un camino distinto. En Luleå, una ciudad de 80.000 habitantes a 100 kilómetros del Círculo Polar Ártico, Facebook instaló un data center de aproximadamente 100 MW en 2013. La ciudad negoció activamente: el calor residual del data center se incorporó al sistema de calefacción distrital, reduciendo la factura energética de los vecinos. El municipio exigió contratación local para la construcción y estableció un diálogo permanente con la empresa. Pero incluso en esas condiciones, el impacto en el empleo permanente fue modesto —menos de 200 puestos para 100 MW— y la principal contribución del data center a la economía local siguió siendo, como en todas partes, la energía barata que consumía, no la riqueza que distribuía.
+Suecia muestra un camino distinto. En Luleå, Facebook instaló un data center de unos 100 MW en 2013 y la ciudad negoció activamente: incorporó el calor residual a la calefacción distrital y exigió contratación local. Aun así, el empleo permanente fue modesto —menos de 200 puestos para 100 MW— y la principal contribución a la economía local siguió siendo la energía barata que consumía, no la riqueza que distribuía.
 
 ## El vacío legal paraguayo
 
 Paraguay no tiene una sola regulación específica para data centers. Y sin embargo el sector ya es significativo: según datos de ANDE publicados en agosto de 2026, 41 empresas están registradas como consumidores intensivos especiales, con una potencia reservada de 943,8 megavatios —el 13,5% de la potencia de Itaipú que le corresponde a Paraguay (7.000 MW)— y una proyección de ingresos para la ANDE de USD 350 millones en 2026, un 18,6% más que el año anterior. Es el equivalente a 1,4 turbinas de Itaipú funcionando exclusivamente para data centers y criptominería.
 
-La Ley 7599 de 2025 y el Decreto 6034 de 2026 abrieron el sector eléctrico a la inversión privada y crearon la categoría de consumidores intensivos. La Ley de Maquila (60/90) permite a los data centers exportar servicios de cómputo con un impuesto del 1% sobre el valor agregado nacional y exención de IVA y aranceles en la importación de equipos. Son marcos habilitadores —atraen inversión—, no regulatorios —no protegen a la comunidad—.
+La Ley 7599 de 2025 y el Decreto 6034 de 2026 abrieron el sector eléctrico a la inversión privada y crearon las figuras de autogenerador, cogenerador, generador, exportador y gran consumidor. La Ley de Maquila (Ley 1064/1997, reformada por la Ley 7547/2025) permite a los data centers exportar servicios de cómputo con un impuesto del 1% sobre el valor agregado nacional y exención de IVA y aranceles en la importación de equipos. Son marcos habilitadores —atraen inversión—, no regulatorios —no protegen a la comunidad—.
 
 No existe una cuota mínima de contratación de mano de obra local. No existe una obligación de compartir infraestructura eléctrica o de conectividad con la comunidad. No existe un requisito de evaluación de impacto ambiental específico para data centers —la Ley 294/1993 de evaluación de impacto ambiental aplica genéricamente pero nunca fue aplicada al sector—. La Ley 3001/2006, que exige una compensación ambiental del 1% del costo del proyecto para actividades de alto impacto, podría aplicar en teoría, pero nunca fue invocada para un data center o una operación de criptominería.
 
@@ -66,7 +66,7 @@ Chile, en contraste, diseñó el Plan Nacional de Data Centers (PDATA) con metas
 
 ## Conclusión
 
-Paraguay está en una posición que ningún otro país tiene: los data centers están llegando, el marco regulatorio todavía no existe y la ventana para construirlo sigue abierta. Loudoun County no puede deshacer 20 años de data centers. Irlanda no puede recuperar el 23% de su electricidad. Paraguay sí puede decidir ahora qué tipo de relación quiere entre sus comunidades y la infraestructura digital que se instala en ellas.
+Paraguay tiene una ventana que pocos países conservan: los data centers están llegando, el marco regulatorio todavía no existe y la posibilidad de construirlo sigue abierta. Loudoun County no puede deshacer 20 años de data centers. Irlanda no puede recuperar el 23% de su electricidad. Paraguay sí puede decidir ahora qué tipo de relación quiere entre sus comunidades y la infraestructura digital que se instala en ellas. Y la escala no se detiene: en septiembre se anunció un campus de IA de 1,3 GW en Yguazú (ARAICO), y en octubre Atome rescindió su contrato con la ANDE liberando 145 MW reservados.
 
 Esa decisión requiere tres cosas. Una: exigir evaluaciones de impacto ambiental y social antes de aprobar nuevas conexiones de alta tensión para data centers. Dos: establecer cuotas mínimas de contratación local —no solo en la construcción, también en la operación— y mecanismos para que la recaudación fiscal de los data centers se reinvierta en los municipios donde operan. Tres: negociar acuerdos de beneficio comunitario vinculantes, como el uso del calor residual para calefacción —viable en el sur de Paraguay— o la extensión de fibra óptica a las comunidades vecinas.
 
@@ -83,7 +83,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 5. [Rest of World — The Global Backlash Against Data Centers](https://restofworld.org/) (2025)
 6. [EDF — Data Center Community Impacts Report](https://www.edf.org/) (2025)
 7. [Ley 7599/2025 — Apertura del sector eléctrico paraguayo](https://www.bacn.gov.py/)
-8. [Ley 60/90 — Régimen de Maquila, Paraguay](https://www.mic.gov.py/)
+8. [Ley 7547/2025 — Régimen de Maquila (reforma de la Ley 1064/97)](https://www.bacn.gov.py/leyes-paraguayas/12853/ley-n-75472025-del-regimen-de-maquila)
 9. [Ley 3001/2006 — Evaluación de impacto ambiental](https://www.bacn.gov.py/)
 10. [Wikipedia (EN) — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
 11. [CRU — Data centres and the electricity grid (Irlanda)](https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/)
@@ -116,7 +116,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
       "name": "¿Qué regulaciónes tiene Paraguay para data centers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay no tiene regulaciónes específicas para data centers. La Ley 7599/2025 y el Decreto 6034/2026 habilitan la inversión privada en el sector eléctrico pero no establecen cuotas de contratación local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental específicas. La Ley de Maquila (60/90) ofrece incentivos fiscales sin contraprestaciones sociales. Chile, en contraste, tiene el Plan Nacional de Data Centers (PDATA) con criterios de sostenibilidad e impacto local."
+        "text": "Paraguay no tiene regulaciónes específicas para data centers. La Ley 7599/2025 y el Decreto 6034/2026 habilitan la inversión privada en el sector eléctrico pero no establecen cuotas de contratación local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental específicas. La Ley de Maquila (7547/2025) ofrece incentivos fiscales sin contraprestaciones sociales. Chile, en contraste, tiene el Plan Nacional de Data Centers (PDATA) con criterios de sostenibilidad e impacto local."
       }
     }
   ]

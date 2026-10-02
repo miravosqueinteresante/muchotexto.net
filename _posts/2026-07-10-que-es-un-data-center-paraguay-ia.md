@@ -2,10 +2,10 @@
 layout: post
 title: "Qué es un data center y por qué Paraguay quiere construir uno"
 date: 2026-07-10
-last_modified_at: 2026-08-15
+last_modified_at: 2026-10-02
 categories: articulos
 tags: infraestructura-energia ia-paraguay
-description: "Qué es un data center, cómo funciona, qué tiene adentro y por qué Paraguay con su energía barata quiere construir el más grande de la región."
+description: "Qué es un data center, cómo funciona, qué tiene adentro y por qué Paraguay con su energía barata quiere construir los más grandes de la región."
 ---
 
 En cada artículo de este sitio sobre inteligencia artificial en Paraguay aparece la expresión "centro de datos" o "data center". Yguazú Digital es uno. Los mineros de criptomonedas operan versiones más pequeñas. Los servidores que entrenan a ChatGPT están dentro de uno. Pero rara vez se explica qué es exactamente un data center, qué tiene adentro, por qué consume tanta electricidad y qué lo diferencia de cualquier otro edificio industrial.
@@ -60,7 +60,7 @@ La diferencia fundamental es la densidad de potencia. En el mismo espacio físic
 
 ## Por qué Paraguay
 
-Paraguay tiene la electricidad industrial más barata de Sudamérica: entre 30 y 45 dólares por megavatio-hora. Para un data center de 100 megavatios, cada dólar de diferencia en el precio de la electricidad representa aproximadamente 876.000 dólares al año. En un data center donde la energía representa entre el 40% y el 60% del costo operativo, la [ventaja de estar en Paraguay]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) no es marginal: es existencial.
+Paraguay tiene la electricidad industrial más barata de Sudamérica: 35 dólares por megavatio-hora, según CIER 2025 —la tarifa más baja entre 13 países de la región—, con un piso de 30 para el consumo intensivo especial. Para un data center de 100 megavatios, cada dólar de diferencia en el precio de la electricidad representa aproximadamente 876.000 dólares al año. En un data center donde la energía representa entre el 40% y el 60% del costo operativo, la [ventaja de estar en Paraguay]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) no es marginal: es existencial.
 
 Pero la energía barata no alcanza. Hace falta también [una red de transmisión que llegue hasta el data center]({% post_url 2026-07-08-red-electrica-paraguay-ia %}), acuerdos diplomáticos que garanticen el suministro de chips —que llevaron a Paraguay a asociarse con Taiwán—, y un marco legal que proteja los datos que se procesen en el país. Todas esas piezas están en movimiento. Este artículo explica la primera: qué es la máquina que Paraguay quiere encender.
 
@@ -76,6 +76,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [NVIDIA — "H100 Tensor Core GPU"](https://www.nvidia.com/en-us/data-center/h100/)
 - [Data Center Knowledge — "How Much Energy Do Data Centers Use?"](https://www.datacenterknowledge.com/)
 - [Wikipedia — "Data center"](https://en.wikipedia.org/wiki/Data_center)
+- [CIER 2025 — Comparación de tarifas eléctricas en Sudamérica](https://www.cier.org/)
 
 <script type="application/ld+json">
 {
@@ -103,7 +104,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Por qué Paraguay es atractivo para construir data centers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay tiene la electricidad industrial más barata de Sudamérica: USD 30-45 por megavatio-hora, 100% hidroeléctrica. Como la energía representa el 40-60% del costo operativo de un data center, cada dólar de diferencia en el precio de electricidad representa cientos de miles de dólares al año. Además, su ubicación geopolítica y su alianza con Taiwán le dan acceso a chips."
+        "text": "Paraguay tiene la electricidad industrial más barata de Sudamérica: USD 35 por megavatio-hora (CIER 2025), prácticamente 100% hidroeléctrica. Como la energía representa el 40-60% del costo operativo de un data center, cada dólar de diferencia en el precio de electricidad representa cientos de miles de dólares al año. Además, su ubicación geopolítica y su alianza con Taiwán le dan acceso a chips."
       }
     }
   ]
