@@ -15,7 +15,7 @@ entity_datos_url: https://datospublicos.muchotexto.net/energia.html
 entity_datos_desc: "sistema eléctrico paraguayo: consumo, demanda, pérdidas, clientes y tarifas"
 related_articles:
   - title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
-    url: /[articulos]/2026/09/16/los-contratos-secretos-de-ande/
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
@@ -45,10 +45,10 @@ related_articles:
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto hay un número que explica por qué se discuten; 68,6. Ese es, en dólares por megavatio-hora, el valor al que la tarifa media de la electricidad paraguaya debería llegar en.."
   - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
-    url: /[articulos]/2026/09/30/araico-supercomputadora-yguazu-paraguay/
+    url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/
     context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un **campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú**, con una inversión anunciada de hasta **USD 12.000 millones**. La anuncia **ARAICO**, una..."
   - title: "La salida de Atome no es una pérdida de USD 665 millones"
-    url: /[articulos]/2026/10/02/atome-ande-salida-paraguay/
+    url: /articulos/2026/10/02/atome-ande-salida-paraguay/
     context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la **terminación de su contrato de energía con la ANDE** y mantiene su intención de llevar a..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"

@@ -30,7 +30,7 @@ related_articles:
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
     context: "1. Wikipedia (EN) — Electricity sector in Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
   - title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
-    url: /[articulos]/2026/09/16/los-contratos-secretos-de-ande/
+    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
 entity_laws:
   - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"

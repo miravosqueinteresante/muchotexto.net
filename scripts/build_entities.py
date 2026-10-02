@@ -73,7 +73,7 @@ def build_post_url(fname, categories):
     if not date_match:
         return f"/{categories.strip()}/{fname.replace('.md', '/')}"
     y, m, d, slug = date_match.groups()
-    cat = categories.strip() if categories.strip() else "articulos"
+    cat = categories.strip().strip('[]') if categories.strip() else "articulos"
     return f"/{cat}/{y}/{m}/{d}/{slug}/"
 
 

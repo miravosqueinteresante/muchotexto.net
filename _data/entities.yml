@@ -154,6 +154,20 @@
     por la apertura del sector eléctrico (Ley 7599, Decreto 6034).
   category: empresa
 
+- slug: araico
+  name: ARAICO
+  name_full: ARAICO (Iguazú AI City)
+  description: >
+    Empresa privada incorporada en Estados Unidos, fundada por los paraguayos
+    Alejandro Zuccolillo (presidente) y Nicolás Arréllaga (CEO). Desarrolla
+    Iguazú AI City, un campus de data centers de IA de hasta 1,3 GW en Yguazú,
+    Alto Paraná, con una inversión anunciada de hasta USD 12.000 millones en
+    tres etapas. Su primera fase (6 MW) tiene entrega prevista para diciembre
+    de 2026.
+  category: empresa
+  related_laws:
+    - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico"
+
 - slug: peter-thiel
   name: Peter Thiel
   name_full: Peter Thiel
