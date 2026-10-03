@@ -4,6 +4,7 @@ title: "Capacitación técnica y brecha de mercado — Editorial 30/09/2026"
 description: "La inauguración del centro de entrenamiento en cirugía robótica en Asunción y la implementación del Bachillerato en Tecnología Web e Inteligencia Artificial Operativa marcan un cambio en la estrategia de formación técnica en Paraguay."
 
 
+
 date: 2026-09-30 18:00:00 -0300
 last_modified_at: 2026-09-30
 categories: editorial
