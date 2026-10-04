@@ -4,6 +4,7 @@ title: "IA y alianzas, el nuevo eje estratégico — Editorial 1 de octubre de 2
 description: "La invitación formal cursada a Foxconn para sumarse al proyecto de un centro de IA{% posturl 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %} marca un punto de inflexión en la política tecnológica de Paraguay."
 
 
+
 date: 2026-10-01 18:00:00 -0300
 last_modified_at: 2026-10-01
 categories: editorial

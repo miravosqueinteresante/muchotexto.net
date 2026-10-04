@@ -3,6 +3,7 @@ layout: post
 title: "Conectividad, datos y soberanía espacial — Editorial 02/10/2026"
 description: "El 72% de los jubilados del IPS que operan mediante canales digitales en ueno bank marca un punto de inflexión en la inclusión financiera en Paraguay."
 
+
 date: 2026-10-02 18:00:00 -0300
 last_modified_at: 2026-10-02
 categories: editorial
