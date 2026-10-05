@@ -3,6 +3,7 @@ layout: post
 title: "Brechas entre soberanía y normativa — Editorial 03/10/2026"
 description: "La puesta en órbita del GuaraniSat-2 marca un punto de inflexión en la capacidad técnica de Paraguay, consolidando un activo de infraestructura que trasciende la teoría para instalarse físicamente en el espacio."
 
+
 date: 2026-10-03 18:00:00 -0300
 last_modified_at: 2026-10-03
 categories: editorial
