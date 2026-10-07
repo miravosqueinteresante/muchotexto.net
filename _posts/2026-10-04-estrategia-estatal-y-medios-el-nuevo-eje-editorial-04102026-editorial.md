@@ -4,6 +4,7 @@ title: "Estrategia estatal y medios, el nuevo eje — Editorial 04/10/2026"
 description: "La creación de la Fuerza de la Superinteligencia en Estados Unidos marca un punto de inflexión en cómo las potencias globales entienden la inteligencia artificial, pasando de una fase de experimentación a una de control estratégico y supervisión estatal."
 
 
+
 date: 2026-10-04 18:00:00 -0300
 last_modified_at: 2026-10-04
 categories: editorial

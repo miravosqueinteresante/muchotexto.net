@@ -3,6 +3,7 @@ layout: post
 title: "Inversión, energía y capital humano — Editorial 5 de octubre de 2026"
 description: "El Ministerio de Industria y Comercio lanzó la plataforma MIC MAP, una herramienta digital diseñada para centralizar datos estratégicos destinados a inversionistas."
 
+
 date: 2026-10-05 18:00:00 -0300
 last_modified_at: 2026-10-05
 categories: editorial
