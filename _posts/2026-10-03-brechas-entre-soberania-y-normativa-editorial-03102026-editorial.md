@@ -6,6 +6,7 @@ description: "La puesta en órbita del GuaraniSat-2 marca un punto de inflexión
 
 
 
+
 date: 2026-10-03 18:00:00 -0300
 last_modified_at: 2026-10-03
 categories: editorial

@@ -3,6 +3,7 @@ layout: post
 title: "Inversiones, IA y el desafío del control — Editorial 06/10/2026"
 description: "La transferencia de 345 millones de dólares de energía de Itaipú{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %} al Estado paraguayo y a la sector eléctrico{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %} marca un hito financiero que impacta directamente en la capacidad de respuesta del país ante la creciente demanda de infraestructura digital."
 
+
 date: 2026-10-06 18:00:00 -0300
 last_modified_at: 2026-10-06
 categories: editorial
