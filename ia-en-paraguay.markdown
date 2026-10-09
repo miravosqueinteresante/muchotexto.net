@@ -53,29 +53,17 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** - Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
 - **[En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?
 - **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
-
 - **[Paraguay tiene energía 100% renovable y el cambio climático la amenaza]({% post_url 2026-08-03-energia-renovable-cambio-climatico-paraguay %})** — El 99.9% de la electricidad es renovable pero el 97% depende de dos represas en una sola cuenca. Sin diversificación solar ni eólica.
-
 - **[Qué le pasa a una ciudad paraguaya cuando llega un data center]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
-
 - **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico.
-
 - **[El modelo institucional de PSR para el sector eléctrico paraguayo]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %})** — La consultora brasileña PSR propone separar el sector en tres piezas: ministerio, ente regulador y una ANDE enfocada. El documento omite seis asuntos decisivos, desde las tarifas hasta el rol de Itaipú y Yacyretá.
-
 - **[El ministerio de energía que Paraguay prepara con tres viceministerios]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %})** — El proyecto de ley crea el Ministerio de Energía, Minería e Hidrocarburos absorbiendo al VMME y a la Dirección de Combustibles, con financiamiento por regalías y rectoría sobre la ANDE y Petropar.
-
 - **[El ente regulador de energía que Paraguay diseña con concurso público]({% post_url 2026-08-19-ente-regulador-energia %})** — El árbitro que le faltaba al sector: directorio elegido por concurso, mandato de seis años y revisión tarifaria con audiencia. Pone fin al "juez y parte" de la ANDE.
-
 - **[El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares]({% post_url 2026-08-20-estudio-ceare-tarifa-paraguay %})** — El diagnóstico de la UBA con apoyo del BID: tarifa media de 49,2 a 68,6 US$/MWh al 2030, con pérdidas y morosidad que justifican la reforma institucional.
-
 - **[ANDE oculta 943 MW de contratos de criptominería bajo llave]({% post_url 2026-09-16-los-contratos-secretos-de-ande %})** — 41 empresas del GCIE concentran 943,8 MW y 5.465 GWh de consumo, pero las condiciones individuales de cada contrato no son públicas. Decretos derogados, renuncia de Félix Sosa y un arbitraje de Atome en el CIADI.
-
 - **[El data center Tier III que Paraguay ya tiene hace una década]({% post_url 2026-09-21-tigo-data-center-tier-iii-paraguay %})** — El único data center Tier III de un operador privado está en Villa Elisa, es de Tigo y opera desde 2016. Sobre él corre la nube global (Netflix, Google) mientras los megaproyectos de IA siguen en anuncios.
-
 - **[La energía nuclear que Paraguay firmó con EE.UU. no es un reactor]({% post_url 2026-09-23-energia-nuclear-paraguay-eeuu %})** — El 4 de agosto de 2026 Paraguay firmó con Washington un MOU no vinculante, no un Acuerdo 123. Ningún SMR de diseño estadounidense opera todavía, el proyecto insignia se canceló por costos y el piso realista para un reactor es de 15 a 20 años.
-
 - **[El campus de IA de 1,3 GW que ARAICO promete en Yguazú]({% post_url 2026-09-30-araico-supercomputadora-yguazu-paraguay %})** — ARAICO, empresa privada incorporada en EE.UU., proyecta un campus de data centers de IA de 1,3 GW en Yguazú con USD 12.000 millones anunciados. La etiqueta de "supercomputadora más avanzada de América Latina" no resiste contra el ranking TOP500, y "dejar de vender energía a Brasil" contradice la aritmética del excedente.
-
 - **[La salida de Atome no es una pérdida de USD 665 millones]({% post_url 2026-10-02-atome-ande-salida-paraguay %})** — La británica Atome rescindió su contrato con la ANDE sin haber construido nada en Villeta desde 2022. Los USD 665 millones eran inversión proyectada, no desembolsada; el conflicto era tarifario y su salida libera 145 MW.
 
 ## Geopolítica y regulación tech
@@ -89,9 +77,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un pais de USD 45 mil millones de PIB?
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
 - **[Lo que el capital de Silicon Valley busca en Paraguay y no encuentra]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** - HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El pais con la electricidad más barata de Sudamérica no cierra los acuerdos.
-
 - **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
-
 - **[Paraguay firma la residencia permanente más rápida de la región]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria) en unos tres meses. No es la más barata, pero sí la más directa de la región.
 
 ## IA, sociedad y trabajo
@@ -125,7 +111,6 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Paraguay no usa IA para hacer periodismo pero la desinformación sí]({% post_url 2026-07-16-ia-periodismo-paraguay %})** - Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas y Brasil prohibió la IA en campañas.
 - **[Paraguay tiene los datos judiciales que la IA necesita]({% post_url 2026-07-21-ia-justicia-paraguay %})** - El pais digitalizó sus 18 jurisdicciones pero ningún tribunal usa IA. Qué puede aprender de COMPAS, Prometea y VICTOR.
 - **[Paraguay mueve USD 700M en e-commerce pero entrega con referencias]({% post_url 2026-07-24-ecommerce-logistica-paraguay %})** - El e-commerce mueve USD 700-2.180M y crece 40% anual, pero sin direcciones estandarizadas la última milla sigue a ciegas.
-
 - **[Lo que un data center compra y Paraguay no puede vender]({% post_url 2026-07-25-cadena-valor-data-center %})** - La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW.
 - **[ADATA mira a Minga Guazú para ensamblar memorias y SSDs]({% post_url 2026-08-28-adata-minga-guazu-memorias-semiconductores %})** - El 2.º fabricante mundial de memorias DRAM explora una planta de ensamblaje en Minga Guazú: maquila (Ley 7547), ensamblaje (7546), regla de origen del Mercosur (60% hasta 2038) y la tarifa que falta definir.
 
