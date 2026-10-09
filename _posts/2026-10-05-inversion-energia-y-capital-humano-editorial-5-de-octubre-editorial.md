@@ -5,6 +5,7 @@ description: "El Ministerio de Industria y Comercio lanzó la plataforma MIC MAP
 
 
 
+
 date: 2026-10-05 18:00:00 -0300
 last_modified_at: 2026-10-05
 categories: editorial
