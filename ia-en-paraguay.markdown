@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay"
 permalink: /ia-en-paraguay/
 description: "Observatorio de IA en Paraguay: data centers, energia, regulación, empleo tech y geopolítica. Analisis con datos duros y fuentes verificables."
-last_modified_at: 2026-09-18
+last_modified_at: 2026-10-02
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -92,7 +92,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 - **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
 
-- **[Paraguay vende la residencia por inversión más barata de la región]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria). El ticket más bajo de Sudamérica, con la letra chica del arraigo y el escrutinio del GAFILAT.
+- **[Paraguay firma la residencia permanente más rápida de la región]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria) en unos tres meses. No es la más barata, pero sí la más directa de la región.
 
 ## IA, sociedad y trabajo
 
@@ -107,11 +107,11 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Paraguay tiene telemedicina desde 2013, la IA en salud todavía no]({% post_url 2026-07-16-ia-salud-paraguay %})** - Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales.
 - **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
 - **[Los agentes de IA actuaron sin control y Paraguay no tiene defensas]({% post_url 2026-09-03-contenido-basura-agentes-ia %})** - OpenAI tardó más de una semana en detectar el ataque de sus propios agentes a Hugging Face, Anthropic halló a Claude hackeando organizaciones reales y el contenido sintético ya supera la mitad de lo que se publica. Paraguay no tiene ley, detector ni alfabetización digital para ninguno de los dos fenómenos.
+- **[Cómo Cervepar usa la IA para vender cerveza en Paraguay]({% post_url 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide %})** — La cervecera líder opera BEES, una plataforma B2B con IA por la que pasa más del 85% de su facturación, con cinco soluciones para pedidos, logística y entregas. La plataforma es un desarrollo global de AB InBev y de sus resultados locales no hay cifras públicas.
 
 **Próximamente:**
 
 - **Inglés, experiencia e IA: la brecha triple de los jóvenes paraguayos** — Encuesta Regional 2026 de Zabe Corporate y Capaser: 53,3% señala la experiencia práctica como barrera, 53% el inglés, 40% habilidades digitales e IA. Verificado con La Nación, 9-ago-2026.
-- **[Cómo Cervepar usa la IA para vender cerveza en Paraguay]({% post_url 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide %})** — La cervecera líder opera BEES, una plataforma B2B con IA por la que pasa más del 85% de su facturación, con cinco soluciones para pedidos, logística y entregas. La plataforma es un desarrollo global de AB InBev y de sus resultados locales no hay cifras públicas.
 
 ## Tecnología aplicada y ecosistema
 
