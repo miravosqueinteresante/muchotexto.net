@@ -49,8 +49,8 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** - Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** - El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
 - **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** - El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
-- **[Criptominería en Paraguay: el costo real de la energía barata]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto pais con mayor minería de bitcoin del mundo.
-- **[Red eléctrica de Paraguay: el cuello de botella de la IA global]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** - Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
+- **[Lo que la criptominería le cuesta realmente a Paraguay]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto pais con mayor minería de bitcoin del mundo.
+- **[Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** - Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
 - **[En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?
 - **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
 
@@ -72,7 +72,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 - **[El data center Tier III que Paraguay ya tiene hace una década]({% post_url 2026-09-21-tigo-data-center-tier-iii-paraguay %})** — El único data center Tier III de un operador privado está en Villa Elisa, es de Tigo y opera desde 2016. Sobre él corre la nube global (Netflix, Google) mientras los megaproyectos de IA siguen en anuncios.
 
-- **[Energía nuclear en Paraguay: el memorándum con EE.UU. no es un reactor]({% post_url 2026-09-23-energia-nuclear-paraguay-eeuu %})** — El 4 de agosto de 2026 Paraguay firmó con Washington un MOU no vinculante, no un Acuerdo 123. Ningún SMR de diseño estadounidense opera todavía, el proyecto insignia se canceló por costos y el piso realista para un reactor es de 15 a 20 años.
+- **[La energía nuclear que Paraguay firmó con EE.UU. no es un reactor]({% post_url 2026-09-23-energia-nuclear-paraguay-eeuu %})** — El 4 de agosto de 2026 Paraguay firmó con Washington un MOU no vinculante, no un Acuerdo 123. Ningún SMR de diseño estadounidense opera todavía, el proyecto insignia se canceló por costos y el piso realista para un reactor es de 15 a 20 años.
 
 - **[El campus de IA de 1,3 GW que ARAICO promete en Yguazú]({% post_url 2026-09-30-araico-supercomputadora-yguazu-paraguay %})** — ARAICO, empresa privada incorporada en EE.UU., proyecta un campus de data centers de IA de 1,3 GW en Yguazú con USD 12.000 millones anunciados. La etiqueta de "supercomputadora más avanzada de América Latina" no resiste contra el ranking TOP500, y "dejar de vender energía a Brasil" contradice la aritmética del excedente.
 
@@ -83,8 +83,8 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo -y Taiwán produce el 90% de los semiconductores más avanzados- esa relación tiene implicancias que van mucho más allá del comercio.
 
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** - El cofundador de Palantir se reunió con Santiago Peña en Mburuvicha Róga.
-- **[Ley de protección de datos en Paraguay: el marco que la era de la IA necesita]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** - Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
-- **[Paraguay entre China y Taiwán: el último aliado tecnológico]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** - Paraguay es el último pais de Sudamérica que reconoce a Taiwán.
+- **[Paraguay aprobó una ley de protección de datos que cambia las reglas]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** - Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
+- **[Por qué Paraguay es el último país sudamericano que apuesta por Taiwán]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** - Paraguay es el último pais de Sudamérica que reconoce a Taiwán.
 - **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** - TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
 - **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un pais de USD 45 mil millones de PIB?
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
@@ -98,12 +98,12 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 La inteligencia artificial no son solo algoritmos: son cadenas de suministro humanas, sistemas educativos que necesitan reformarse, y una fuerza laboral que debe decidir qué lugar ocupa en la economía del futuro.
 
-- **[Anotación de datos para IA: la ventaja silenciosa de Paraguay]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** - Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos.
-- **[De la soja al silicio: el plan de Paraguay para cambiar su matriz exportadora]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** - Cinco paises hicieron el salto de materias primas a tecnología.
-- **[Educación tech en Paraguay: la brecha que frena el hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce alrededor de 400 graduados en informática por año.
+- **[Paraguay tiene una ventaja silenciosa en la anotación de datos para IA]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** - Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos.
+- **[El plan de Paraguay para pasar de la soja al silicio]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** - Cinco paises hicieron el salto de materias primas a tecnología.
+- **[Paraguay necesita más ingenieros para sostener su hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce alrededor de 400 graduados en informática por año.
 - **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** - Paraguay no tiene programas de retorno ni red de diaspora tech para traer de vuelta a sus profesionales.
 - **[Starlink ya conecta a 20.000 paraguayos donde la fibra no llega]({% post_url 2026-07-15-starlink-paraguay-conectividad %})** - Starlink opera en Paraguay desde 2023. Mil seiscientas antenas en escuelas rurales, 20.000 usuarios y una pregunta: ¿basta con conectar?
-- **[Paraguay digitalizó 223 trámites pero la cédula sigue siendo en papel]({% post_url 2026-07-16-gobierno-digital-paraguay %})** - Paraguay tiene arquitectura de gobierno digital pero el ciudadano no puede renovar su cédula online.
+- **[Paraguay tiene 1.5M de identidades digitales y 480 trámites online]({% post_url 2026-07-16-gobierno-digital-paraguay %})** - Paraguay tiene arquitectura de gobierno digital pero el ciudadano no puede renovar su cédula online.
 - **[Paraguay tiene telemedicina desde 2013, la IA en salud todavía no]({% post_url 2026-07-16-ia-salud-paraguay %})** - Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales.
 - **[Brasil usa inteligencia artificial contra la corrupción, Paraguay no]({% post_url 2026-07-17-ia-corrupcion-paraguay %})** - Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA.
 - **[Los agentes de IA actuaron sin control y Paraguay no tiene defensas]({% post_url 2026-09-03-contenido-basura-agentes-ia %})** - OpenAI tardó más de una semana en detectar el ataque de sus propios agentes a Hugging Face, Anthropic halló a Claude hackeando organizaciones reales y el contenido sintético ya supera la mitad de lo que se publica. Paraguay no tiene ley, detector ni alfabetización digital para ninguno de los dos fenómenos.
@@ -117,14 +117,14 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 
 Blockchain en el agro, fintech, startups y la cadena de valor invisible que rodea a cada centro de datos. Paraguay no solo aloja infraestructura: también está construyendo un ecosistema.
 
-- **[Soja, ganado y blockchain: la apuesta paraguaya por la tokenización del agro]({% post_url 2026-05-18-tokenizacion-del-agro-paraguay %})** - La Ley 7572 reconoce instrumentos en blockchain.
+- **[Soja, ganado y blockchain: la tokenización del agro en Paraguay]({% post_url 2026-05-18-tokenizacion-del-agro-paraguay %})** - La Ley 7572 reconoce instrumentos en blockchain.
 - **[Paraguay tiene más fintechs que bancos y recién empieza]({% post_url 2026-07-10-fintech-paraguay-ecosistema %})** - El ecosistema fintech paraguayo, las leyes 7503 y 7572, y la inclusión financiera.
 - **[El campo paraguayo se moderniza sin el pequeño productor]({% post_url 2026-07-13-agro-40-paraguay-ia %})** - Menos del 5% de las fincas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil.
 - **[Paraguay tiene startups de IA aunque nadie las conoce]({% post_url 2026-07-14-startups-ia-paraguay %})** - El ecosistema startup de IA en Paraguay: USD 3.9M en inversión en 2025, Autograph, KOGA y lo que falta.
 - **[Por qué Asunción no es una ciudad inteligente todavía]({% post_url 2026-07-17-smart-cities-asuncion-paraguay %})** - Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?
 - **[Paraguay no usa IA para hacer periodismo pero la desinformación sí]({% post_url 2026-07-16-ia-periodismo-paraguay %})** - Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas y Brasil prohibió la IA en campañas.
 - **[Paraguay tiene los datos judiciales que la IA necesita]({% post_url 2026-07-21-ia-justicia-paraguay %})** - El pais digitalizó sus 18 jurisdicciones pero ningún tribunal usa IA. Qué puede aprender de COMPAS, Prometea y VICTOR.
-- **[El comercio electrónico paraguayo crece al 40% anual. ¿Y la logística?]({% post_url 2026-07-24-ecommerce-logistica-paraguay %})** - El e-commerce mueve USD 700-2.180M y crece 40% anual, pero sin direcciones estandarizadas la última milla sigue a ciegas.
+- **[Paraguay mueve USD 700M en e-commerce pero entrega con referencias]({% post_url 2026-07-24-ecommerce-logistica-paraguay %})** - El e-commerce mueve USD 700-2.180M y crece 40% anual, pero sin direcciones estandarizadas la última milla sigue a ciegas.
 
 - **[Lo que un data center compra y Paraguay no puede vender]({% post_url 2026-07-25-cadena-valor-data-center %})** - La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW.
 - **[ADATA mira a Minga Guazú para ensamblar memorias y SSDs]({% post_url 2026-08-28-adata-minga-guazu-memorias-semiconductores %})** - El 2.º fabricante mundial de memorias DRAM explora una planta de ensamblaje en Minga Guazú: maquila (Ley 7547), ensamblaje (7546), regla de origen del Mercosur (60% hasta 2038) y la tarifa que falta definir.
@@ -144,7 +144,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** - USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol.
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** - Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
 - **[Paraguay está enseñando guaraní a la inteligencia artificial]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset comunitario de voz en guaraní.
-- **[Paraguay 2040: un pais construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
+- **[Paraguay 2040: un país construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
 > **¿2040 o 2050?** Las dos fechas conviven a propósito. **2040** es nuestro horizonte de análisis editorial (el futuro que modelamos con datos del observatorio, donde converge el cierre del bono demográfico ~2045 y el fin del superávit energético). **2050** es el horizonte oficial del Estado: el nombre del plan gubernamental (Política Energética Nacional al 2050, Decreto 2553/2024) que analizamos, no una meta que elegimos nosotros. 2040 = el futuro que proyectamos; 2050 = el futuro que el plan del gobierno promete.
 
 **Próximamente:**

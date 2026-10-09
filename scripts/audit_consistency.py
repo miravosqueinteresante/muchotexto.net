@@ -205,6 +205,53 @@ def check_pillar_links():
     return [s for s in analysis_posts() if s not in text]
 
 
+def _post_title(slug):
+    f = os.path.join(REPO, "_posts", slug + ".md")
+    if not os.path.exists(f):
+        return None
+    m = re.search(r"^title:\s*[\"'](.+?)[\"']", read(f), re.M)
+    return m.group(1).strip() if m else None
+
+
+def check_pillar_pendientes():
+    """Articulos publicados enlazados bajo un bloque 'Próximamente' del pilar."""
+    p = os.path.join(REPO, "ia-en-paraguay.markdown")
+    if not os.path.exists(p):
+        return []
+    published = set(analysis_posts())
+    findings = []
+    in_prox = False
+    for line in read(p).splitlines():
+        s = line.strip()
+        if s.startswith("## "):
+            in_prox = False
+            continue
+        if "Próximamente" in s:
+            in_prox = True
+            continue
+        if in_prox:
+            for m in re.finditer(r"\{%\s*post_url\s+([^\s%\}]+)\s*%\}", line):
+                if m.group(1) in published:
+                    findings.append(m.group(1))
+    return sorted(set(findings))
+
+
+def check_pillar_titles():
+    """El anchor del enlace en el pilar debe coincidir con el title del post."""
+    p = os.path.join(REPO, "ia-en-paraguay.markdown")
+    if not os.path.exists(p):
+        return []
+    findings = []
+    rx = re.compile(r"\[([^\]]+)\]\(\{%\s*post_url\s+([^\s%\}]+)\s*%\}\)")
+    for m in rx.finditer(read(p)):
+        anchor = m.group(1).strip()
+        slug = m.group(2)
+        title = _post_title(slug)
+        if title and title != anchor:
+            findings.append((slug, title, anchor))
+    return findings
+
+
 def parse_named_url_yaml(path, key="name"):
     """Extrae un set de (name, url) de un YAML de lista simple."""
     items = []
@@ -444,6 +491,17 @@ def main():
     # INV-8: pilar enlaza todos los analisis
     for slug in check_pillar_links():
         errors.append(f"[INV-8] ia-en-paraguay.markdown no enlaza el articulo '{slug}'")
+
+    # INV-15: articulos publicados no deben figurar bajo 'Próximamente' del pilar
+    for slug in check_pillar_pendientes():
+        errors.append(f"[INV-15] ia-en-paraguay.markdown: articulo publicado '{slug}' figura bajo 'Próximamente'")
+
+    # INV-16: el anchor del enlace en el pilar debe coincidir con el title del post
+    for slug, title, anchor in check_pillar_titles():
+        errors.append(
+            f"[INV-16] ia-en-paraguay.markdown: enlace '{anchor}' no coincide con "
+            f"el title del post '{title}' ({slug})"
+        )
 
     # INV-9: _data/fuentes.yml == fallback inline de pulso_diario.py
     yml_feeds = parse_named_url_yaml(os.path.join(REPO, "_data/fuentes.yml"))
