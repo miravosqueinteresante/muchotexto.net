@@ -13,7 +13,7 @@ PULSO TECH PARAGUAY
 
 🤖 INTELIGENCIA ARTIFICIAL
 
-[La IA en el mercado laboral paraguayo]
+**La IA en el mercado laboral paraguayo**
 
 Analistas locales destacan que la inteligencia artificial no reemplaza al profesional, sino que exige una reconfiguración de sus capacidades. El desafío actual para el talento humano en Paraguay radica en la gestión estratégica de datos y la recuperación del pensamiento crítico frente a la automatización.
 
@@ -21,7 +21,7 @@ Analistas locales destacan que la inteligencia artificial no reemplaza al profes
 
 📋 REGULACION Y GOBERNANZA TECH
 
-[Accesibilidad digital en el sistema financiero]
+**Accesibilidad digital en el sistema financiero**
 
 El Banco Central del Paraguay incorpora recursos de accesibilidad en la nueva familia de billetes del guaraní. Se implementan marcas en relieve, diferencias de tamaño y materiales táctiles para facilitar la identificación de denominaciones a personas con discapacidad visual, integrando diseño industrial y normativa de inclusión.
 
@@ -29,7 +29,7 @@ El Banco Central del Paraguay incorpora recursos de accesibilidad en la nueva fa
 
 🚀 INNOVACION Y STARTUPS
 
-[Tendencias digitales en gestión de negocios]
+**Tendencias digitales en gestión de negocios**
 
 El programa "Sentí que se Puede en tu barrio" cierra su ciclo anual tras capacitar a más de 3.500 participantes en herramientas de marketing digital y gestión financiera. La iniciativa busca profesionalizar la administración de emprendimientos locales mediante el uso de tecnologías de gestión.
 

@@ -13,7 +13,7 @@ PULSO TECH PARAGUAY
 
 📋 regulación Y GOBERNANZA TECH
 
-[Ciberseguridad y protección de datos]
+**Ciberseguridad y protección de datos**
 
 La diputada Rocío Vallejo anunció la convocatoria a una audiencia pública con el objetivo de establecer medidas concretas contra los fraudes cibernéticos, tras el reciente vaciamiento de una cuenta bancaria. Paralelamente, el comisario Diosnel Alarcón, jefe del Departamento contra el Cibercrimen de la Policía Nacional, emitió recomendaciones de seguridad ante el incremento de ciberataques en el país.
 
@@ -21,7 +21,7 @@ La diputada Rocío Vallejo anunció la convocatoria a una audiencia pública con
 
 🚀 INNOVACION Y STARTUPS
 
-[Inversiones en infraestructura urbana tecnológica]
+**Inversiones en infraestructura urbana tecnológica**
 
 La firma Fortaleza presentó el proyecto Fortaleza Pellegrini, un desarrollo inmobiliario con una inversión superior a los 28 millones de dólares. El complejo contempla una superficie construida de 28.087 metros cuadrados, integrando tecnología de gestión urbana y residencial en Asunción.
 

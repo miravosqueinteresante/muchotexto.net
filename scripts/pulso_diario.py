@@ -333,7 +333,12 @@ def clean_content(content: str) -> str:
                 result.append(f'- {source}')
             in_fuentes = False
             continue
-        result.append(line)
+        # Convertir [Titulo] (corchetes literales del modelo) a **Titulo** (negrita)
+        m = re.match(r'^\[([^\]]+)\]$', line.strip())
+        if m:
+            result.append(f'**{m.group(1).strip()}**')
+        else:
+            result.append(line)
     return '\n'.join(result)
 
 

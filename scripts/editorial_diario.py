@@ -55,6 +55,7 @@ Reglas estrictas:
 - El estilo es directo y analitico. La opinion surge de contrastar hechos tech, no de filosofar.
 - Idioma: español de Paraguay (voseo, "che", etc.). NO uses jopara ni guarani.
 - Conecta naturalmente con articulos del observatorio cuando el tema lo permita.
+- No escribas tags de Liquid ({%, {{). El sistema enlaza automaticamente los articulos del observatorio con el formato correcto.
 
 Formato:
 - Titulo: conciso, descriptivo, maximo 45 caracteres. El sistema agregara " — Editorial [fecha]" (~25 caracteres). Total ≤70 caracteres. No uses [X]: [Y]. Separa con coma si tiene dos partes. Ejemplo: "Data centers y tarifas, la pulseada energetica".
@@ -307,6 +308,7 @@ tags: editorial opinion paraguay analisis ia
 """
     body = clean_editorial_body(body)
     body = add_internal_links(body)
+    body = re.sub(r"\{%\s*posturl\b", "{% post_url", body)  # fix: el modelo a veces escribe {% posturl %} sin guion
     full_content = frontmatter + body + "\n"
 
     os.makedirs(POSTS_DIR, exist_ok=True)

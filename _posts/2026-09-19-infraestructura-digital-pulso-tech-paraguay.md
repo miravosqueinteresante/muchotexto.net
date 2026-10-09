@@ -13,7 +13,7 @@ PULSO TECH PARAGUAY
 
 🌐 INFRAESTRUCTURA DIGITAL
 
-[Actualización de trámites digitales en el Siara]
+**Actualización de trámites digitales en el Siara**
 
 El Ministerio de Economía y Finanzas (MEF) anunció que, a partir del 21 de setiembre, se habilitarán nuevos tipos de comunicaciones y operaciones para sociedades a través del Sistema Integrado de Administración de Registros Administrativos (Siara). Esta medida busca digitalizar y agilizar los procesos administrativos para las entidades registradas.
 
@@ -21,7 +21,7 @@ El Ministerio de Economía y Finanzas (MEF) anunció que, a partir del 21 de set
 
 🤖 INTELIGENCIA ARTIFICIAL
 
-[Debate global sobre seguridad y control de modelos]
+**Debate global sobre seguridad y control de modelos**
 
 Expertos internacionales advierten sobre los riesgos de la falta de control en los sistemas de IA, mientras en California se evalúa implementar interruptores de apagado de emergencia para empresas del sector. Paralelamente, Anthropic ha seleccionado a Accenture como auditora de seguridad para sus modelos, tras reportarse vulnerabilidades en pruebas de hackeo con el modelo Claude.
 
@@ -29,7 +29,7 @@ Expertos internacionales advierten sobre los riesgos de la falta de control en l
 
 📋 REGULACION Y GOBERNANZA TECH
 
-[Avances en justicia digital en Paraguay]
+**Avances en justicia digital en Paraguay**
 
 La justicia paraguaya anuló una resolución que rechazaba una denuncia por presunta violencia digital y hostigamiento contra funcionarias del INDERT. El caso deberá ser tratado nuevamente en un Juzgado de Paz, marcando un precedente en la aplicación de normativas sobre violencia en entornos digitales.
 
