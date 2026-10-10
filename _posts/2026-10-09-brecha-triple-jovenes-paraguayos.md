@@ -31,7 +31,7 @@ directorio:
 > - La **Encuesta Regional 2026** de **Capaser** y **Zabe Corporate** (380 jóvenes de 18 a 28 años, en cinco países) relevó **cinco barreras** de empleabilidad; las tres más ligadas a la economía digital son **experiencia práctica (53,3%)**, **inglés (53%)** y **habilidades digitales e IA (40%)**.
 > - La "brecha triple" es una selección editorial: la encuesta también releva **capacitación continua (51,1%)** y **networking (46,7%)**, ambas por encima de la de IA. Conviene no leerla como un listado exhaustivo de tres.
 > - En inglés, Paraguay no está al fondo de la región: ocupa el **puesto 43 de 123** en el índice EF EPI 2025, pero su habilidad más débil es el **habla (436 puntos)**, justo la que exigen el outsourcing y la maquila de servicios.
-> - El contexto agrava la brecha: el desempleo juvenil ronda el **11,7%** frente al **4,8%** general, y la informalidad laboral se mueve entre **60% y 64%**.
+> - El contexto agrava la brecha: el desempleo juvenil rondó el **11,7% en 2025** frente al **4,8%** general, y la informalidad laboral se mueve entre **60% y 64%**.
 
 ## Una encuesta que le pregunta a la Generación Z
 
@@ -41,7 +41,7 @@ Sobre ese universo, la encuesta lista **cinco barreras para ingresar al mercado 
 
 ## La experiencia que nadie regala
 
-La barrera que encabeza la lista es la más circular de todas: **la falta de experiencia práctica (53,3%)**. Es el clásico "se busca joven con experiencia" que deja afuera justamente a quienes recién empiezan. La encuesta no desagrega cómo se rompe ese círculo, y las fuentes oficiales tampoco ofrecen una cifra paraguaya actualizada que mida el alcance del problema del primer empleo. Lo que sí está documentado es el resultado: un **desempleo juvenil del 11,7%**, más del doble del **4,8%** general, según estimaciones del Banco Mundial y la OIT.
+La barrera que encabeza la lista es la más circular de todas: **la falta de experiencia práctica (53,3%)**. Es el clásico "se busca joven con experiencia" que deja afuera justamente a quienes recién empiezan. La encuesta no desagrega cómo se rompe ese círculo, y las fuentes oficiales tampoco ofrecen una cifra paraguaya actualizada que mida el alcance del problema del primer empleo. Lo que sí está documentado es el resultado: un **desempleo juvenil del 11,7% en 2025**, más del doble del **4,8%** general, según estimaciones del Banco Mundial y la OIT.
 
 El dato es estructural. Paraguay llega a la economía digital con una fuerza laboral joven que no logra insertarse en el empleo formal, y la primera razón que los propios jóvenes declaran es que no les dan la oportunidad de acumular la experiencia que después les exigen.
 
@@ -65,7 +65,7 @@ Las tres brechas se leen sobre un piso estructural. La **informalidad laboral** 
 
 ## La pregunta abierta
 
-La encuesta termina con una frase que resume el dilema: **"no se trata solamente de generar puestos de trabajo, sino de formar personas con las competencias que las empresas necesitan"**. Es la tensión de fondo. Paraguay tiene la energía y la ambición de ser un hub de cómputo, pero la brecha de empleabilidad de su juventud —experiencia que no se les da, un inglés que se lee pero no se habla, y habilidades digitales que no se forman a la escala necesaria— es una fuga que ninguna subestación eléctrica puede compensar. La economía digital paraguaya se va a medir, en el fondo, por una pregunta más simple: cuántos de esos 380 jóvenes que respondieron la encuesta consiguen, en unos años, el empleo que hoy les pide lo que todavía no tienen. El [observatorio de IA en Paraguay](/ia-en-paraguay/) sigue esa cuenta, porque es la que decide si el hub es para todos o para una minoría que ya empezó con ventaja.
+El director ejecutivo de Capaser, **Héctor Acevedo**, lo resume con una frase: **"no se trata solamente de generar puestos de trabajo, sino de formar personas con las competencias que las empresas necesitan"**. Es la tensión de fondo. Paraguay tiene la energía y la ambición de ser un hub de cómputo, pero la brecha de empleabilidad de su juventud —experiencia que no se les da, un inglés que se lee pero no se habla, y habilidades digitales que no se forman a la escala necesaria— es una fuga que ninguna subestación eléctrica puede compensar. La economía digital paraguaya se va a medir, en el fondo, por una pregunta más simple: cuántos de esos 380 jóvenes que respondieron la encuesta consiguen, en unos años, el empleo que hoy les pide lo que todavía no tienen. El [observatorio de IA en Paraguay](/ia-en-paraguay/) sigue esa cuenta, porque es la que decide si el hub es para todos o para una minoría que ya empezó con ventaja.
 
 <script type="application/ld+json">
 {
