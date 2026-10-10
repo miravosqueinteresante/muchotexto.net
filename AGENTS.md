@@ -147,6 +147,8 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 
 **Entidades energéticas con datos:** `ande`, `itaipu`, `yacyreta` tienen `datos_url` en `_data/entities.yml` y sección "Datos verificados" en sus páginas. Para crear/editar la página de una entidad, regenerar con `python scripts/build_entities.py` (nunca a mano).
 
+**Re-verificación sistemática del canon:** los claims críticos y volátiles viven en `scripts/canon_verificacion.yml` con su fecha de verificación y caducidad. `python scripts/audit_canon.py` lista los vencidos (exit 1 si los hay). Al re-verificar un claim, actualizar su `fecha_verificacion` ahí.
+
 ## Política editorial de IA (alineada con como-trabajamos.markdown)
 
 - La IA es asistente, nunca autor final. Toda publicación requiere supervisión editorial humana.

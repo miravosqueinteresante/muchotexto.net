@@ -1,0 +1,114 @@
+# Canon de verificación — fechas de caducidad de claims críticos.
+#
+# Fuente de verdad de "cuándo caduca qué". Cada claim crítico del canon
+# (AGENTS.md) declara su última fecha de verificación y su caducidad según la
+# volatilidad del dato. `audit_canon.py` lista los vencidos.
+#
+# Regla: al re-verificar un claim, actualizar aquí su `fecha_verificacion`.
+# No re-verificar la prosa de AGENTS.md sin tocar también esta fecha.
+
+claims:
+  # ── Tarifas y energía (30 días: cambian) ──────────────────────────────
+  - id: tarifa_gcie
+    categoria: tarifas
+    fecha_verificacion: "2026-09-18"
+    caducidad_dias: 30
+    fuente: "ANDE Res. 49238/2024 (GCIE 30 USD/MWh)"
+
+  - id: demanda_electrica
+    categoria: energia
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 30
+    fuente: "ANDE (+17,9% acumulado a 8 meses de 2026)"
+
+  - id: itaipu_acuerdo_tarifario
+    categoria: itaipu
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 30
+    fuente: "Acuerdo tarifario 2024-2026 (19,28 USD/kW-mes), vence 1-ene-2027"
+
+  # ── Energía / demografía (90 días) ─────────────────────────────────────
+  - id: consumo_nacional
+    categoria: energia
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "ANDE (29.419 GWh en 2025)"
+
+  - id: gcie_potencia
+    categoria: energia
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "ABC Color Negocios 3-ago-2026 (943,8 MW, 41 empresas)"
+
+  - id: tarifa_media_ande
+    categoria: tarifas
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "ANDE (49,49 USD/MWh en 2024)"
+
+  - id: proyeccion_ceare
+    categoria: tarifas
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "Estudio Ceare UBA/BID (tarifa media 49,2→68,6 USD/MWh)"
+
+  - id: decretos_tarifarios
+    categoria: tarifas
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "Decretos 5306/5307/5860/5861 derogados 9-jun-2026"
+
+  - id: poblacion
+    categoria: demografia
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "INE Revisión 2025 (6.460.159 habitantes)"
+
+  - id: fecundidad
+    categoria: demografia
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "INE Revisión 2024 (1,90 hijos por mujer)"
+
+  - id: bono_demografico
+    categoria: demografia
+    fecha_verificacion: "2026-10-09"
+    caducidad_dias: 90
+    fuente: "INE ~2050, UNFPA ~2054, estudios citados por ABC ~2045"
+
+  - id: informalidad
+    categoria: demografia
+    fecha_verificacion: "2026-10-09"
+    caducidad_dias: 90
+    fuente: "INE (60,1% en 2025, 62,5% en 2024)"
+
+  - id: pib_per_capita
+    categoria: demografia
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "BCP (~USD 9.400 nominal en 2026)"
+
+  - id: hive_capacidad
+    categoria: data_centers
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "HIVE FY2026 (300 MW operativos en Paraguay)"
+
+  - id: hive_gpu
+    categoria: data_centers
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 90
+    fuente: "HIVE (expansión GPU 100 MW, Tier-III ready H2 2027)"
+
+  # ── Larga duración (180 días) ─────────────────────────────────────────
+  - id: matriz_electrica
+    categoria: energia
+    fecha_verificacion: "2026-08-15"
+    caducidad_dias: 180
+    fuente: "Matriz eléctrica 99,998% renovable (2024)"
+
+  - id: jsoy_activos
+    categoria: rwa
+    fecha_verificacion: "2026-07-15"
+    caducidad_dias: 180
+    fuente: "rwa.xyz (jul 2026): JSOY ~USD 141,75M, JSOY_OIL ~USD 425,15M"
