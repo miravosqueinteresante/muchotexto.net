@@ -2,13 +2,13 @@
 layout: page
 title: "Observatorio de IA en Paraguay"
 permalink: /ia-en-paraguay/
-description: "Observatorio de IA en Paraguay: data centers, energia, regulación, empleo tech y geopolítica. Analisis con datos duros y fuentes verificables."
+description: "Data centers, energía, regulación, empleo tech y geopolítica en Paraguay. Análisis con datos duros y fuentes verificables."
 last_modified_at: 2026-10-02
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
 
-Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre inteligencia artificial en Paraguay. Cada artículo es un análisis en profundidad -1.500 a 2.500 palabras, fuentes verificadas, argumentos a favor y en contra- publicado con un solo objetivo: que entiendas lo que está pasando, por qué importa y qué puede significar para el pais.
+Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre inteligencia artificial en Paraguay. Cada artículo es un análisis en profundidad -1.500 a 2.500 palabras, fuentes verificadas, argumentos a favor y en contra- publicado con un solo objetivo: que entiendas lo que está pasando, por qué importa y qué puede significar para el país.
 
 ## Empezá por acá
 
@@ -44,12 +44,12 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 ## Infraestructura y energía
 
-La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El pais genera aproximadamente 2.5 veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
+La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El país genera aproximadamente 2.5 veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
 
 - **[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** - Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** - El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
 - **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** - El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
-- **[Lo que la criptominería le cuesta realmente a Paraguay]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto pais con mayor minería de bitcoin del mundo.
+- **[Lo que la criptominería le cuesta realmente a Paraguay]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** - Paraguay es el cuarto país con mayor minería de bitcoin del mundo.
 - **[Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** - Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
 - **[En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** - El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?
 - **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
@@ -72,11 +72,11 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** - El cofundador de Palantir se reunió con Santiago Peña en Mburuvicha Róga.
 - **[Paraguay aprobó una ley de protección de datos que cambia las reglas]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** - Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
-- **[Por qué Paraguay es el último país sudamericano que apuesta por Taiwán]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** - Paraguay es el último pais de Sudamérica que reconoce a Taiwán.
+- **[Por qué Paraguay es el último país sudamericano que apuesta por Taiwán]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** - Paraguay es el último país de Sudamérica que reconoce a Taiwán.
 - **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** - TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
-- **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un pais de USD 45 mil millones de PIB?
+- **[Paraguay tiene más GPU que estrategia para inteligencia artificial]({% post_url 2026-07-16-ia-soberana-paraguay %})** - Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?
 - **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** - CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
-- **[Lo que el capital de Silicon Valley busca en Paraguay y no encuentra]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** - HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El pais con la electricidad más barata de Sudamérica no cierra los acuerdos.
+- **[Lo que el capital de Silicon Valley busca en Paraguay y no encuentra]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** - HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos.
 - **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
 - **[Paraguay firma la residencia permanente más rápida de la región]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria) en unos tres meses. No es la más barata, pero sí la más directa de la región.
 
@@ -85,7 +85,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 La inteligencia artificial no son solo algoritmos: son cadenas de suministro humanas, sistemas educativos que necesitan reformarse, y una fuerza laboral que debe decidir qué lugar ocupa en la economía del futuro.
 
 - **[Paraguay tiene una ventaja silenciosa en la anotación de datos para IA]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** - Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos.
-- **[El plan de Paraguay para pasar de la soja al silicio]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** - Cinco paises hicieron el salto de materias primas a tecnología.
+- **[El plan de Paraguay para pasar de la soja al silicio]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** - Cinco países hicieron el salto de materias primas a tecnología.
 - **[Paraguay necesita más ingenieros para sostener su hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** - Paraguay produce alrededor de 400 graduados en informática por año.
 - **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** - Paraguay no tiene programas de retorno ni red de diaspora tech para traer de vuelta a sus profesionales.
 - **[Starlink ya conecta a 20.000 paraguayos donde la fibra no llega]({% post_url 2026-07-15-starlink-paraguay-conectividad %})** - Starlink opera en Paraguay desde 2023. Mil seiscientas antenas en escuelas rurales, 20.000 usuarios y una pregunta: ¿basta con conectar?
@@ -109,7 +109,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Paraguay tiene startups de IA aunque nadie las conoce]({% post_url 2026-07-14-startups-ia-paraguay %})** - El ecosistema startup de IA en Paraguay: USD 3.9M en inversión en 2025, Autograph, KOGA y lo que falta.
 - **[Por qué Asunción no es una ciudad inteligente todavía]({% post_url 2026-07-17-smart-cities-asuncion-paraguay %})** - Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?
 - **[Paraguay no usa IA para hacer periodismo pero la desinformación sí]({% post_url 2026-07-16-ia-periodismo-paraguay %})** - Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas y Brasil prohibió la IA en campañas.
-- **[Paraguay tiene los datos judiciales que la IA necesita]({% post_url 2026-07-21-ia-justicia-paraguay %})** - El pais digitalizó sus 18 jurisdicciones pero ningún tribunal usa IA. Qué puede aprender de COMPAS, Prometea y VICTOR.
+- **[Paraguay tiene los datos judiciales que la IA necesita]({% post_url 2026-07-21-ia-justicia-paraguay %})** - El país digitalizó sus 18 jurisdicciones pero ningún tribunal usa IA. Qué puede aprender de COMPAS, Prometea y VICTOR.
 - **[Paraguay mueve USD 700M en e-commerce pero entrega con referencias]({% post_url 2026-07-24-ecommerce-logistica-paraguay %})** - El e-commerce mueve USD 700-2.180M y crece 40% anual, pero sin direcciones estandarizadas la última milla sigue a ciegas.
 - **[Lo que un data center compra y Paraguay no puede vender]({% post_url 2026-07-25-cadena-valor-data-center %})** - La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW.
 - **[ADATA mira a Minga Guazú para ensamblar memorias y SSDs]({% post_url 2026-08-28-adata-minga-guazu-memorias-semiconductores %})** - El 2.º fabricante mundial de memorias DRAM explora una planta de ensamblaje en Minga Guazú: maquila (Ley 7547), ensamblaje (7546), regla de origen del Mercosur (60% hasta 2038) y la tarifa que falta definir.
