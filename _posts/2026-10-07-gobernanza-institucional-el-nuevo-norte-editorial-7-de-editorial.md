@@ -4,6 +4,7 @@ title: "Gobernanza institucional, el nuevo norte — Editorial 7 de octubre de 2
 description: "El Poder Ejecutivo oficializó hoy la designación de nuevos viceministros en el MITIC, marcando un punto de inflexión en la estructura de mando del sector tecnológico estatal."
 
 
+
 date: 2026-10-07 18:00:00 -0300
 last_modified_at: 2026-10-07
 categories: editorial
