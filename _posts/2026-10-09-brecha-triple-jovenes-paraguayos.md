@@ -31,11 +31,11 @@ directorio:
 > - La **Encuesta Regional 2026** de **Capaser** y **Zabe Corporate** (380 jóvenes de 18 a 28 años, en cinco países) relevó **cinco barreras** de empleabilidad; las tres más ligadas a la economía digital son **experiencia práctica (53,3%)**, **inglés (53%)** y **habilidades digitales e IA (40%)**.
 > - La "brecha triple" es una selección editorial: la encuesta también releva **capacitación continua (51,1%)** y **networking (46,7%)**, ambas por encima de la de IA. Conviene no leerla como un listado exhaustivo de tres.
 > - En inglés, Paraguay no está al fondo de la región: ocupa el **puesto 43 de 123** en el índice EF EPI 2025, pero su habilidad más débil es el **habla (436 puntos)**, justo la que exigen el outsourcing y la maquila de servicios.
-> - El contexto agrava la brecha: el desempleo juvenil rondó el **11,7% en 2025** frente al **4,8%** general, y la informalidad laboral se mueve entre **60% y 64%**.
+> - El contexto agrava la brecha: el desempleo juvenil rondó el **11,7% en 2025** frente al **4,8%** general, y la informalidad laboral fue del **60,1% en 2025**.
 
 ## Una encuesta que le pregunta a la Generación Z
 
-La **Encuesta Regional 2026 — "Generación Z: ¿qué espera del mundo laboral y de la formación?"** fue impulsada por **Capaser** (la Cámara Paraguaya de Servicios y Tercerización) junto a **Zabe Corporate**, una empresa de selección y capacitación de personal. Se relevaron **380 encuestas** en cinco países —Paraguay, Argentina, Bolivia, Ecuador y Nicaragua— entre el 1 de junio y el 15 de julio de 2026, con foco en el sector de servicios, BPO y contact centers, y sobre jóvenes de **18 a 28 años**.
+La **Encuesta Regional 2026 — "Generación Z: ¿qué espera del mundo laboral y de la formación?"** fue impulsada por **Capaser** (la Cámara Paraguaya de Servicios y Tercerización) junto a **Zabe Corporate**, una empresa de selección y capacitación de personal. Se relevaron **380 encuestas** en cinco países —Paraguay, Argentina, Bolivia, Ecuador y Nicaragua— entre el 1 de junio y el 15 de julio de 2026, con foco en el sector de servicios, BPO y contact centers, y sobre jóvenes de **18 a 28 años**. La encuesta no publica cuántos de esos 380 corresponden a Paraguay, de modo que los porcentajes nacionales provienen de una submuestra pequeña y de un solo sector, lo que limita su generalización a toda la Generación Z paraguaya.
 
 Sobre ese universo, la encuesta lista **cinco barreras para ingresar al mercado laboral** en Paraguay, no tres: la falta de **experiencia práctica (53,3%)**, el **dominio del inglés (53%)**, la **necesidad de capacitación continua (51,1%)**, la **construcción de una red de contactos o networking (46,7%)** y el desarrollo de **habilidades digitales e inteligencia artificial (40%)**. Presentar "la brecha triple" es, por lo tanto, un recorte editorial: se eligen las tres barreras más ligadas a la economía digital —experiencia, inglés, tecnología— y se dejan fuera dos que, en la propia encuesta, pesan más que la de IA. Es una elección legítima para enfocar el análisis, pero conviene decirlo.
 
@@ -57,11 +57,11 @@ Conviene una advertencia metodológica: el EF EPI se construye con personas que 
 
 La tercera brecha es la de **habilidades digitales e inteligencia artificial (40%)**. Aquí el contraste es incómodo: mientras el país apuesta a convertirse en hub de cómputo, su medición oficial no registra siquiera "habilidades digitales" como competencia —el INE mide acceso y uso de tecnología, y reporta que el **85% de la población de 10 años o más usó internet en 2025**—. Usar internet no equivale a tener las competencias que pide el mercado.
 
-La oferta de talento es corta. La prensa cita a especialistas que estiman **unos 400 graduados en informática por año** frente a un **déficit de unos 20.000 profesionales**. Es una cifra atribuida a "un experto" vía La Tribuna, no un dato del INE, pero la magnitud coincide con lo que el observatorio ya ha documentado: los data centers emplean apenas entre 20 y 50 personas por cada 100 MW, y aun así la capacidad local de proveer ese talento es limitada. El 40% que declara la barrera de habilidades digitales no es percepción suelta: es el reflejo de una oferta formativa que no alcanza.
+La oferta de talento es corta. La prensa cita **unos 400 graduados en informática por año**, una cifra basada en datos del INE analizados por el especialista Enrique López Arce (vía La Tribuna), frente a un **déficit de unos 20.000 profesionales** estimado por el sector. La magnitud coincide con lo que el observatorio ya ha documentado: los data centers emplean apenas entre 20 y 50 personas por cada 100 MW (referencia de industria), y aun así la capacidad local de proveer ese talento es limitada. El 40% que declara la barrera de habilidades digitales no es percepción suelta: es el reflejo de una oferta formativa que no alcanza.
 
 ## El fondo: una juventud fuera del empleo formal
 
-Las tres brechas se leen sobre un piso estructural. La **informalidad laboral** se mueve entre **60% y 64%** según trimestre y medición, y el **bono demográfico** —esa ventana en la que la población en edad de trabajar supera a la dependiente— no tiene fecha única: el INE lo sitúa hacia 2070, mientras la UIP lo estima entre 2030 y 2040. La encuesta de Capaser y Zabe Corporate aporta el matiz de comportamiento: los jóvenes paraguayos priorizan el **salario y la flexibilidad** por encima del propósito corporativo (el impacto social queda último, con 11%), y el **57,8% prefiere el trabajo híbrido**. Quieren estabilidad económica, pero chocan con un mercado que les pide experiencia, idioma y tecnología que el sistema no les entregó.
+Las tres brechas se leen sobre un piso estructural. La **informalidad laboral** fue del **60,1% en 2025** (62,5% en 2024), según el INE, y el **bono demográfico** —esa ventana en la que la población en edad de trabajar supera a la dependiente— no tiene fecha única: proyecciones recientes lo sitúan entre **2045 y 2054** (INE, UNFPA y estudios citados por ABC). La encuesta de Capaser y Zabe Corporate aporta el matiz de comportamiento: los jóvenes paraguayos priorizan el **salario y la flexibilidad** por encima del propósito corporativo (el **propósito de la empresa** queda último, con 11%), y el **57,8% prefiere el trabajo híbrido**. Quieren estabilidad económica, pero chocan con un mercado que les pide experiencia, idioma y tecnología que el sistema no les entregó.
 
 ## La pregunta abierta
 
@@ -93,7 +93,7 @@ El director ejecutivo de Capaser, **Héctor Acevedo**, lo resume con una frase: 
       "name": "¿Cuántos graduados en informática produce Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Unos 400 al año, según especialistas citados por la prensa (La Tribuna), frente a un déficit estimado de unos 20.000 profesionales. La cifra no es un dato del INE, sino una estimación atribuida a expertos del sector."
+        "text": "Unos 400 al año, según datos del INE analizados por Enrique López Arce (La Tribuna), frente a un déficit de unos 20.000 profesionales estimado por el sector."
       }
     }
   ]

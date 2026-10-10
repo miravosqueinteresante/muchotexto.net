@@ -249,11 +249,11 @@ Fuentes: INE Paraguay, Banco Mundial, BCP, ABC Color.
 
 - **Población**: 6.460.159 (2026, INE Revisión 2025), proyección ~6,9M (2040, INE Revisión 2024), 7,1M recién en 2050. NO usar 7,2-7,5M para 2040. Edad media: 29,4 años.
 - **Fecundidad**: 1,90 hijos por mujer (2026) → 1,72 (2050), INE Revisión 2024. Por debajo del nivel de reemplazo (2,1). NO usar 1,7-1,8 (dato desactualizado).
-- **Bono demográfico**: sin fecha oficial consolidada. INE sitúa el cierre ~2070; UIP estima 2030-2040. Presentar como estimación divergente, nunca como fecha fija.
+- **Bono demográfico**: sin fecha oficial consolidada. Proyecciones recientes: INE ~2050, UNFPA ~2054, estudios citados por ABC ~2045. Presentar como estimación divergente, nunca como fecha fija.
 - **Urbanización**: 69% (Censo 2022), proyectado ~78-80% (2040).
 - **PIB per cápita**: ~USD 9.400 nominal (2026). Proyección 2040: USD 14.000-17.000. NO usar USD 5.900 (dato 2022-2023).
 - **HCI (Capital Humano)**: 0,528 (Banco Mundial 2020). El más bajo entre pares regionales (Uruguay ~0,60, Chile ~0,65, Costa Rica ~0,63).
-- **Informalidad laboral**: 60-64% según trimestre y medición (INE 2025-2026). NO usar una cifra fija sin especificar fuente y período.
+- **Informalidad laboral**: 60,1% (2025) y 62,5% (2024), según INE. NO usar una cifra fija sin especificar fuente y período.
 - **Exportaciones**: soja y carne siguen dominando, servicios digitales en crecimiento bajo maquila.
 
 ### Itaipú — Anexo C y negociaciones (datos verificados ago 2026)
@@ -292,14 +292,14 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 - **Proyección ~6,9M en 2040**: TRUE (INE Revisión 2024/2025). NO usar 7,2-7,5M: 7,1M recién en 2050.
 - **Fecundidad 1,90 (2026) → 1,72 (2050)**: TRUE. Fuente: INE Revisión 2024. El rango 1,7-1,8 estaba desactualizado.
 - **Urbanización 69% → ~80% en 2040**: TRUE. Fuente: Censo 2022, verificado en AGENTS.md.
-- **Bono demográfico "2045"**: PARTIALLY TRUE. No es fecha oficial: INE habla de ~2070, UIP de 2030-2040. Presentar como estimación divergente citando ambas fuentes.
+- **Bono demográfico "2045"**: PARTIALLY TRUE. No es fecha oficial: proyecciones recientes (INE ~2050, UNFPA ~2054, estudios citados por ABC ~2045). Presentar como estimación divergente.
 - **HCI Paraguay 0,528**: TRUE. Fuente: Banco Mundial 2020, verificado en AGENTS.md.
 - **HCI Uruguay 0,603, Chile 0,652, Costa Rica 0,623**: PARTIALLY TRUE. Las cifras exactas del Banco Mundial 2020 son: Uruguay 0,60 (no 0,603), Chile 0,65 (no 0,652), Costa Rica 0,63 (no 0,623). El artículo usa cifras con 3 decimales que son estimaciones o de otra fuente/edición. Recomendación: usar "aproximadamente 0,60" o citar la fuente exacta.
 - **PIB per cápita USD 9.400 (2026)**: TRUE. Fuente: BCP, verificado en AGENTS.md.
 - **Proyección PIB per cápita 2040: USD 14.000-17.000**: TRUE. Fuente: verificado en AGENTS.md.
 - **PIB per cápita proyectado Uruguay USD 30.000, Chile USD 28.000, Costa Rica USD 22.000**: UNVERIFIABLE con precisión. Son proyecciones a 15 años de fuentes diversas (FMI, bancos centrales, consultoras). El orden de magnitud es razonable pero no hay una fuente única que consolide estas tres cifras para 2040. Recomendación: atribuir a "proyecciones del FMI y bancos centrales" o citar fuente específica.
 - **Soja y carne >40% de exportaciones totales**: PARTIALLY TRUE. Datos del BCP 2025: soja ~28%, carne ~12%, total ~40%. La cifra es correcta pero depende del año y los precios internacionales. En 2024 fue ligeramente superior al 40%, en 2023 fue inferior. Recomendación: usar "alrededor del 40%" o citar año.
-- **Informalidad 60-64%**: TRUE. Fuente: INE 2025-2026, verificado en AGENTS.md.
+- **Informalidad 60-62,5%**: TRUE. Fuente: INE (60,1% en 2025, 62,5% en 2024), verificado en AGENTS.md.
 - **Exportaciones de servicios bajo maquila crecieron sostenidamente**: UNVERIFIABLE sin serie temporal concreta. Afirmación cualitativa razonable pero sin cifra específica.
 
 #### Energía
