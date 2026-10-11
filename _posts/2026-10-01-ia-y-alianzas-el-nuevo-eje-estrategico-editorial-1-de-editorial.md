@@ -11,6 +11,7 @@ description: "La invitación formal cursada a Foxconn para sumarse al proyecto d
 
 
 
+
 date: 2026-10-01 18:00:00 -0300
 last_modified_at: 2026-10-01
 categories: editorial
