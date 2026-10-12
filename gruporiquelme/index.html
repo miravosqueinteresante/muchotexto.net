@@ -1,0 +1,425 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cadena Real · Propuesta Head de IA — Primera etapa</title>
+<link rel="icon" href="img/logo.png">
+<style>
+  :root{
+    --red:#e74249;
+    --red-dark:#c93842;
+    --red-soft:#fbeced;
+    --ink:#343037;
+    --ink-2:#55505a;
+    --bg:#f5f4f4;
+    --card:#ffffff;
+    --line:#e6e6e6;
+    --ok:#198754;
+    --warn:#b8860b;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:15px/1.5 "Segoe UI",system-ui,-apple-system,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+  img,video{display:block;max-width:100%}
+  :focus-visible{outline:3px solid var(--red);outline-offset:2px;border-radius:4px}
+
+  header{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:16px;padding:12px 24px;background:var(--ink);color:#fff;box-shadow:0 2px 10px rgba(0,0,0,.25)}
+  header .logo{height:34px;width:auto}
+  header .titles h1{font-size:17px;margin:0;letter-spacing:.3px}
+  header .titles p{margin:0;font-size:12px;color:#cfc9d2}
+  header .tag{margin-left:auto;font-size:11px;text-transform:uppercase;letter-spacing:1px;background:var(--red);padding:6px 10px;border-radius:4px;white-space:nowrap}
+
+  .hero{background:linear-gradient(120deg,var(--red) 0%,var(--red-dark) 100%);color:#fff;padding:32px 24px;text-align:center}
+  .hero h2{margin:0 0 8px;font-size:25px;letter-spacing:.2px}
+  .hero p{margin:0 auto;max-width:740px;opacity:.95}
+  .hero .chips{margin-top:16px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+  .hero .chip{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);border-radius:999px;padding:5px 12px;font-size:12.5px}
+
+  main{max-width:1080px;margin:24px auto;padding:0 20px}
+
+  .module{background:var(--card);border:1px solid var(--line);border-radius:10px;margin-bottom:22px;overflow:hidden;box-shadow:0 1px 3px rgba(52,48,55,.05)}
+  .module .mhead{display:flex;align-items:baseline;gap:12px;padding:16px 20px;border-bottom:1px solid var(--line);background:#fbfbfb;flex-wrap:wrap}
+  .module .mhead .n{font-size:12px;font-weight:700;color:var(--red);letter-spacing:1px}
+  .module .mhead h3{margin:0;font-size:17px}
+  .module .mhead .sub{margin-left:auto;font-size:12px;color:var(--ink-2)}
+  .module .body{display:grid;grid-template-columns:1.5fr 1fr;gap:18px;padding:18px 20px}
+  .module .body.full{grid-template-columns:1fr}
+  .panel{min-width:0}
+  .notes .nitem{padding:10px 0;border-bottom:1px dashed var(--line);font-size:13.5px}
+  .notes .nitem:last-child{border-bottom:0}
+  .notes .tagline{display:inline-block;font-size:11px;font-weight:600;border-radius:4px;padding:2px 7px;margin-bottom:3px}
+  .t-red{background:var(--red-soft);color:var(--red)}
+  .t-ok{background:#e7f4ec;color:var(--ok)}
+  .t-warn{background:#faf2dd;color:var(--warn)}
+
+  .gate{display:flex;gap:10px;align-items:center;background:var(--red-soft);border:1px solid #f3cdd0;border-radius:8px;padding:12px 14px;font-size:13.5px;margin-bottom:14px}
+  .gate .ic{font-size:18px;font-weight:800;color:var(--red)}
+  .gov-h{margin:16px 0 8px;font-size:13px;color:var(--ink)}
+  .gov-stepper{display:flex;margin:2px 0 4px;border-radius:8px;overflow:hidden}
+  .gov-step{position:relative;flex:1 1 0;min-width:0;padding:12px 12px 13px;border:1px solid var(--line);border-left:0;background:#fbfbfb}
+  .gov-step:first-child{border-left:1px solid var(--line)}
+  .gov-step:nth-child(1){flex-grow:7}
+  .gov-step:nth-child(2){flex-grow:8}
+  .gov-step:nth-child(3){flex-grow:8}
+  .gov-step:nth-child(4){flex-grow:7}
+  .gov-step-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:6px}
+  .gov-dot{width:22px;height:22px;flex:0 0 22px;border-radius:50%;background:var(--red-soft);color:var(--red);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center}
+  .gov-days{font-size:10.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-2);white-space:nowrap}
+  .gov-step-name{display:block;font-size:13px;color:var(--ink)}
+  .gov-step-desc{display:block;font-size:11.5px;color:var(--ink-2);margin-top:2px}
+  .gov-principles{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .gov-principle{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:8px;padding:12px;background:#fbfbfb}
+  .gov-principle b{display:block;font-size:13px;margin-bottom:2px}
+  .gov-principle span{font-size:11.5px;color:var(--ink-2)}
+  .gov-ico{flex:0 0 20px;width:20px;height:20px;color:var(--red);margin-top:1px}
+  .gov-meta{display:grid;grid-template-columns:1.1fr 1fr;gap:14px;margin-top:16px;align-items:start}
+  .gov-deliver{list-style:none;margin:0;padding:0;display:grid;gap:7px}
+  .gov-deliver li{display:flex;gap:8px;font-size:12.5px;line-height:1.4;color:var(--ink-2)}
+  .gov-deliver .gov-ico{flex:0 0 16px;width:16px;height:16px;color:var(--ok);margin-top:2px}
+  .gov-law{border:1px solid #f3cdd0;background:var(--red-soft);border-radius:8px;padding:12px 14px}
+  .gov-law-badge{display:flex;align-items:center;gap:8px;color:var(--red)}
+  .gov-law-badge .gov-ico{flex:0 0 20px;width:20px;height:20px;color:var(--red);margin:0}
+  .gov-law-badge b{font-size:13px}
+  .gov-law-badge span{display:block;font-size:11px;font-weight:400;color:var(--ink-2)}
+  .gov-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+  .gov-chips span{background:#fff;border:1px solid #f3cdd0;border-radius:999px;padding:3px 9px;font-size:11px;color:var(--ink-2)}
+  .gov-scope{display:flex;gap:9px;align-items:flex-start;margin-top:14px;background:#f7f7f7;border:1px solid var(--line);border-left:3px solid var(--red);border-radius:6px;padding:10px 12px;font-size:12.5px;line-height:1.5;color:var(--ink-2)}
+  .gov-scope .gov-ico{color:var(--red);margin-top:2px}
+  .gov-scope b{color:var(--ink)}
+  @media(max-width:900px){
+    .gov-principles{grid-template-columns:repeat(2,1fr)}
+    .gov-meta{grid-template-columns:1fr}
+  }
+  @media(max-width:520px){
+    .gov-stepper{flex-direction:column}
+    .gov-step{border-left:1px solid var(--line);border-top:0}
+    .gov-step:first-child{border-top:1px solid var(--line)}
+    .gov-principles{grid-template-columns:1fr}
+  }
+
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px 0}
+  .stat{border:1px solid var(--line);border-radius:8px;padding:12px;text-align:center;background:#fbfbfb}
+  .stat .v{font-size:22px;font-weight:700;color:var(--red)}
+  .stat .l{font-size:11.5px;color:var(--ink-2);text-transform:uppercase;letter-spacing:.5px}
+  video{border-radius:8px;background:#000}
+  .duo{display:grid;grid-template-columns:1fr 1fr;gap:18px;grid-column:1 / -1}
+  .heatwrap{position:relative;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#f7f7f7}
+  .heatimg{display:block;width:100%;height:auto}
+  .zoneoverlay{position:absolute;inset:0;width:100%;height:100%}
+  .legend{display:flex;align-items:center;gap:8px;font-size:11px;color:var(--ink-2);padding:8px 2px}
+  .legend .bar{flex:1;height:8px;border-radius:4px;background:linear-gradient(90deg,#00007f,#00a0ff,#00ff00,#ffd000,#e74249)}
+  .cap{font-size:11px;color:var(--ink-2);margin:6px 0 0}
+
+  footer{background:var(--ink);color:#cfc9d2;padding:22px 24px;font-size:12.5px;text-align:center}
+  footer .stack{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:12px 0}
+  footer .stack span{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:999px;padding:3px 10px;font-size:11.5px}
+  footer a{color:#fff}
+  .disc{font-size:11px;opacity:.7}
+
+  .omni-wrap{display:flex;flex-direction:column}
+  .omni-channels{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+  .omni-node{position:relative;min-width:0;border:1px solid var(--line);border-radius:8px;background:#fbfbfb;padding:12px 10px;text-align:center}
+  .omni-ic{display:flex;align-items:center;justify-content:center;width:30px;height:30px;margin:0 auto 8px;border-radius:8px;background:#fff;border:1px solid var(--line);color:var(--ink-2)}
+  .omni-ic svg{width:17px;height:17px;display:block}
+  .omni-name{display:block;font-size:12.5px;font-weight:600;color:var(--ink);line-height:1.25}
+  .omni-sub{display:block;font-size:10.5px;color:var(--ink-2);margin-top:2px;line-height:1.3}
+  .omni-node.is-store{border-color:#f3cdd0;background:var(--red-soft)}
+  .omni-node.is-store .omni-ic{color:var(--red);border-color:#f3cdd0}
+  .omni-node-tag{position:absolute;top:-7px;right:-6px;background:var(--red);color:#fff;font-size:9px;font-weight:700;letter-spacing:.6px;padding:2px 6px;border-radius:999px;box-shadow:0 1px 3px rgba(231,66,73,.35)}
+  .omni-links{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;height:20px}
+  .omni-link{position:relative}
+  .omni-link::before{content:"";position:absolute;left:50%;top:0;height:100%;border-left:1px dashed var(--red);opacity:.45}
+  .omni-link::after{content:"";position:absolute;left:50%;bottom:0;width:7px;height:7px;border-radius:50%;background:var(--red);transform:translateX(-50%)}
+  .omni-base{display:flex;align-items:center;gap:12px;flex-wrap:wrap;border:1px solid #f3cdd0;border-left:3px solid var(--red);background:var(--red-soft);border-radius:8px;padding:12px 14px}
+  .omni-base .omni-ic,.omni-loop .omni-ic{margin:0;flex:0 0 30px;color:var(--red);border-color:#f3cdd0;background:#fff}
+  .omni-base-txt,.omni-loop-txt{min-width:0;flex:1 1 240px}
+  .omni-badge{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;border-radius:999px;padding:2px 8px;background:var(--red);color:#fff;margin-bottom:3px}
+  .omni-badge.alt{background:#fff;color:var(--red);border:1px solid #f3cdd0}
+  .omni-base-name{display:block;font-size:13.5px;color:var(--ink);line-height:1.3}
+  .omni-base-desc{display:block;font-size:11.5px;color:var(--ink-2);margin-top:2px;line-height:1.45}
+  .omni-chips{display:flex;flex-wrap:wrap;gap:6px}
+  .omni-chips span{background:#fff;border:1px solid #f3cdd0;border-radius:999px;padding:3px 9px;font-size:11px;color:var(--ink-2)}
+  .omni-loop{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:12px;border:1px solid var(--line);border-left:3px solid var(--red);border-radius:8px;background:#fbfbfb;padding:12px 14px}
+  .omni-chain{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font-size:11px;color:var(--ink-2)}
+  .omni-chip{background:#fff;border:1px solid var(--line);border-radius:999px;padding:3px 9px;font-size:11px;color:var(--ink);font-weight:600;white-space:nowrap}
+  .omni-arrow{color:var(--red);font-weight:700}
+  .omni-loopico{display:inline-flex;color:var(--red)}
+  .omni-loopico svg{width:16px;height:16px}
+  .omni-take{display:flex;align-items:center;justify-content:center;gap:8px;margin:12px 0 0;background:#f7f7f7;border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:12.5px;color:var(--ink-2);text-align:center}
+  .omni-take svg{width:16px;height:16px;color:var(--red);flex:0 0 16px}
+  .omni-take b{color:var(--ink)}
+  @media(max-width:900px){
+    .omni-channels{grid-template-columns:repeat(3,1fr)}
+    .omni-links{display:none}
+    .omni-base{margin-top:8px}
+  }
+  @media(max-width:520px){
+    .omni-channels{grid-template-columns:repeat(2,1fr)}
+    .omni-base,.omni-loop{flex-direction:column;align-items:flex-start;gap:10px}
+    .omni-base .omni-ic,.omni-loop .omni-ic{flex:0 0 auto}
+    .omni-base-txt,.omni-loop-txt{flex:1 1 auto}
+    .omni-take{flex-direction:column;gap:6px}
+  }
+  @media(max-width:900px){
+    .module .body{grid-template-columns:1fr}
+    .duo{grid-template-columns:1fr}
+    header .tag{display:none}
+  }
+  @media(max-width:520px){
+    .stats{grid-template-columns:1fr 1fr}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <img class="logo" src="img/logo-light.png" alt="Grupo Riquelme">
+  <div class="titles">
+    <h1>Cadena Real · Propuesta Head de IA — Primera etapa</h1>
+    <p>Dos iniciativas para una experiencia fluida en todos los canales</p>
+  </div>
+  <span class="tag">Head de IA · Propuesta</span>
+</header>
+
+<section class="hero">
+  <h2>Una experiencia fluida en todos los canales</h2>
+  <p>Para el recorrido del cliente, dos iniciativas concretas: la base de gobernanza que unifica el dato y habilita los cinco canales, y la visión en tienda que cierra el bucle online ↔ tienda. La IA se construye protegida y se demuestra temprano.</p>
+  <div class="chips">
+    <span class="chip">Manual de Ética y Gobernanza</span>
+    <span class="chip">Visión IA en tienda · mapa de calor</span>
+  </div>
+</section>
+
+<main>
+
+  <section class="module" id="omnicanal">
+    <div class="mhead"><span class="n">Visión omnicanal</span><h3>El recorrido del cliente · una experiencia fluida en todos los canales</h3><span class="sub">Las dos iniciativas conectan los canales</span></div>
+    <div class="body full">
+      <div class="omni-wrap">
+
+        <ul class="omni-channels" role="list" aria-label="Canales del recorrido del cliente">
+          <li class="omni-node">
+            <span class="omni-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="3" width="10" height="18" rx="2.5"/><path d="M10.5 18h3"/></svg></span>
+            <span class="omni-name">App móvil</span>
+            <span class="omni-sub">pedidos y puntos</span>
+          </li>
+          <li class="omni-node">
+            <span class="omni-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 8h18"/><path d="M6 6h.01M9 6h.01"/></svg></span>
+            <span class="omni-name">Web / e-commerce</span>
+            <span class="omni-sub">catálogo y compra</span>
+          </li>
+          <li class="omni-node is-store">
+            <span class="omni-node-tag">IA</span>
+            <span class="omni-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9l1.3-4.4A1 1 0 0 1 6.2 4h11.6a1 1 0 0 1 .9.6L20 9"/><path d="M4 9a2.2 2.2 0 0 0 4.4 0 2.2 2.2 0 0 0 4.4 0 2.2 2.2 0 0 0 4.4 0A2.2 2.2 0 0 0 20 9"/><path d="M5 11v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-8"/><path d="M9.5 20v-4h5v4"/></svg></span>
+            <span class="omni-name">Tienda física</span>
+            <span class="omni-sub">tráfico y surtido</span>
+          </li>
+          <li class="omni-node">
+            <span class="omni-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3Z"/><path d="M4 7.5l8 4.5 8-4.5"/><path d="M12 12v9"/></svg></span>
+            <span class="omni-name">Entrega / Click &amp; Collect</span>
+            <span class="omni-sub">retiro y envío</span>
+          </li>
+          <li class="omni-node">
+            <span class="omni-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.3-7-9.2A3.9 3.9 0 0 1 12 8.2a3.9 3.9 0 0 1 7 2.6C19 15.7 12 20 12 20Z"/></svg></span>
+            <span class="omni-name">Fidelización</span>
+            <span class="omni-sub">beneficios y recompra</span>
+          </li>
+        </ul>
+
+        <div class="omni-links" aria-hidden="true">
+          <span class="omni-link"></span><span class="omni-link"></span><span class="omni-link"></span><span class="omni-link"></span><span class="omni-link"></span>
+        </div>
+
+        <div class="omni-base" role="group" aria-label="Iniciativa A: Manual de Ética y Gobernanza, capa base de todos los canales">
+          <span class="omni-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3.1 8.1-7 10-3.9-1.9-7-5.5-7-10V6l7-3Z"/><path d="M9.4 12l1.8 1.8 3.6-3.7"/></svg></span>
+          <div class="omni-base-txt">
+            <span class="omni-badge">Iniciativa A · Base</span>
+            <b class="omni-base-name">Manual de Ética y Gobernanza</b>
+            <span class="omni-base-desc">Unifica el dato del cliente, el consentimiento y la confianza. Es lo que hace posible una vista única del cliente en los 5 canales.</span>
+          </div>
+          <div class="omni-chips">
+            <span>Dato unificado</span><span>Consentimiento</span><span>Ley 7593/2025</span>
+          </div>
+        </div>
+
+        <div class="omni-loop" role="group" aria-label="Iniciativa B: Visión IA en tienda, conecta el canal físico con el digital">
+          <span class="omni-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8a2 2 0 0 1 2-2h2l1.4-2h7.2L17 6h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/><circle cx="12" cy="12.5" r="3.2"/></svg></span>
+          <div class="omni-loop-txt">
+            <span class="omni-badge alt">Iniciativa B · Canal físico</span>
+            <b class="omni-base-name">Visión IA en tienda · mapa de calor</b>
+            <span class="omni-base-desc">El tráfico y la permanencia en el piso alimentan el surtido online y habilitan Click &amp; Collect: cierra el bucle online ↔ tienda.</span>
+          </div>
+          <div class="omni-chain" aria-hidden="true">
+            <span class="omni-chip">Tienda</span>
+            <span class="omni-arrow">→</span>
+            <span>tráfico · permanencia · stock</span>
+            <span class="omni-arrow">→</span>
+            <span class="omni-chip">Web · App</span>
+            <span class="omni-arrow">→</span>
+            <span class="omni-chip">Click &amp; Collect</span>
+            <span class="omni-loopico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 11a8 8 0 1 0-.7 4.3"/><path d="M20 5v6h-6"/></svg></span>
+          </div>
+        </div>
+
+        <p class="omni-take"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 8h13l-3-3"/><path d="M20 16H7l3 3"/></svg><span><b>Dos iniciativas, un mismo recorrido del cliente:</b> la base de gobernanza habilita los 5 canales y la visión en tienda cierra el bucle online ↔ tienda.</span></p>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="module" id="manual">
+    <div class="mhead"><span class="n">01 · Fase 0</span><h3>Manual de Ética y Gobernanza</h3><span class="sub">1 mes (30 días) · antes de tocar un solo dato</span></div>
+    <div class="body full">
+      <div class="gate"><span class="ic">GATE</span><div><strong>Regla:</strong> ningún dato se procesa con IA en Cadena Real hasta que el caso de uso apruebe la evaluación ética y de cumplimiento. El manual no frena el trabajo: es la llave que lo habilita sin exponer a la empresa.</div></div>
+
+      <h4 class="gov-h">Cómo se construye · 30 días</h4>
+      <div class="gov-stepper" role="list">
+        <div class="gov-step" role="listitem">
+          <div class="gov-step-top"><span class="gov-dot">01</span><span class="gov-days">días 1–7</span></div>
+          <b class="gov-step-name">Diagnóstico</b>
+          <span class="gov-step-desc">inventario de datos y casos de uso</span>
+        </div>
+        <div class="gov-step" role="listitem">
+          <div class="gov-step-top"><span class="gov-dot">02</span><span class="gov-days">días 8–15</span></div>
+          <b class="gov-step-name">Borrador</b>
+          <span class="gov-step-desc">principios y políticas de retención</span>
+        </div>
+        <div class="gov-step" role="listitem">
+          <div class="gov-step-top"><span class="gov-dot">03</span><span class="gov-days">días 16–23</span></div>
+          <b class="gov-step-name">Revisión</b>
+          <span class="gov-step-desc">riesgo por caso de uso y roles</span>
+        </div>
+        <div class="gov-step" role="listitem">
+          <div class="gov-step-top"><span class="gov-dot">04</span><span class="gov-days">días 24–30</span></div>
+          <b class="gov-step-name">Aprobación</b>
+          <span class="gov-step-desc">comité firma y habilita el gate</span>
+        </div>
+      </div>
+
+      <h4 class="gov-h">Principios del manual</h4>
+      <div class="gov-principles">
+        <div class="gov-principle">
+          <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
+          <div><b>Transparencia</b><span>cómo y para qué se usan los datos</span></div>
+        </div>
+        <div class="gov-principle">
+          <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 4.5-3.1 8.1-7 10-3.9-1.9-7-5.5-7-10V6l7-3Z"/><path d="M9.4 12l1.8 1.8 3.6-3.7"/></svg>
+          <div><b>Privacidad por diseño</b><span>minimización y retención</span></div>
+        </div>
+        <div class="gov-principle">
+          <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v16"/><path d="M8 20h8"/><path d="M5 7h14"/><path d="M5 7l-3 6.5a3.4 3.4 0 0 0 6 0L5 7Z"/><path d="M19 7l-3 6.5a3.4 3.4 0 0 0 6 0L19 7Z"/></svg>
+          <div><b>Equidad y sesgo</b><span>auditoría de sesgos por modelo</span></div>
+        </div>
+        <div class="gov-principle">
+          <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-4 10.5c.8.8 1.3 1.7 1.5 2.5h5c.2-.8.7-1.7 1.5-2.5A6 6 0 0 0 12 3Z"/></svg>
+          <div><b>Explicabilidad</b><span>la IA propone, no es caja negra</span></div>
+        </div>
+        <div class="gov-principle">
+          <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="3.2"/><path d="M5.6 20a6.5 6.5 0 0 1 12.8 0"/></svg>
+          <div><b>Humano en el bucle</b><span>decisión final: negocio</span></div>
+        </div>
+        <div class="gov-principle">
+          <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="4" width="14" height="17" rx="2"/><path d="M9.5 4h5v3h-5z"/><path d="M9 13l2 2 4-4"/></svg>
+          <div><b>Rendición de cuentas</b><span>roles y comité de aprobación</span></div>
+        </div>
+      </div>
+
+      <div class="gov-meta">
+        <div>
+          <h4 class="gov-h" style="margin-top:0">Entregables</h4>
+          <ul class="gov-deliver">
+            <li><svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l4 4 10-10"/></svg><span>Manifiesto de principios</span></li>
+            <li><svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l4 4 10-10"/></svg><span>Inventario de datos y su base legal</span></li>
+            <li><svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l4 4 10-10"/></svg><span>Política de retención y minimización</span></li>
+            <li><svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l4 4 10-10"/></svg><span>Evaluación de riesgo por caso de uso</span></li>
+            <li><svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l4 4 10-10"/></svg><span>Roles: comité de gobernanza / responsable</span></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="gov-h" style="margin-top:0">Cumplimiento</h4>
+          <div class="gov-law">
+            <div class="gov-law-badge">
+              <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 4.5-3.1 8.1-7 10-3.9-1.9-7-5.5-7-10V6l7-3Z"/><path d="M9.4 12l1.8 1.8 3.6-3.7"/></svg>
+              <div><b>Ley N° 7593/2025</b><span>Protección de Datos Personales · RGPD paraguayo</span></div>
+            </div>
+            <div class="gov-chips">
+              <span>Brechas · 72 h</span>
+              <span>Agencia Nac. de Protección de Datos</span>
+              <span>Adecuación ~12 meses</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="gov-scope">
+        <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18"/><path d="M5 21V7l7-4 7 4v14"/><path d="M10 21v-5h4v5"/></svg>
+        <div><b>Alcance Grupo:</b> un mismo manual para todas las unidades — Embotelladora Central, cerveceras y Cadena Real. Las reglas se documentan una vez y cualquier departamento sabe cómo se trabaja la IA en la empresa. Aplica a todo el Grupo.</div>
+      </div>
+      <div class="gov-scope">
+        <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="12" r="2"/><circle cx="18" cy="6" r="2"/><circle cx="18" cy="18" r="2"/><path d="M8 11l8-4M8 13l8 4"/></svg>
+        <div><b>Conexión omnicanal:</b> el dato unificado y el consentimiento son la base para una vista única del cliente entre app, web, tienda y fidelización.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="module" id="gondola">
+    <div class="mhead"><span class="n">02 · Piloto 90 días</span><h3>Visión IA en tienda</h3><span class="sub">mapa de calor del recorrido · 2 tiendas piloto</span></div>
+    <div class="body">
+      <div class="duo">
+        <div class="panel">
+          <video controls playsinline preload="metadata" aria-label="Mapa de calor del recorrido en tiempo real">
+            <source src="media/demo_store_heatmap.mp4" type="video/mp4">
+            Tu navegador no reproduce video. Demo: media/demo_store_heatmap.mp4
+          </video>
+          <p class="cap">Mapa de calor en tiempo real: personas trackeadas y acumulación de tráfico sobre el piso (YOLOv8 + ByteTrack). Salida real del detector.</p>
+          <div class="stats">
+            <div class="stat"><div class="v">30 f/s</div><div class="l">inferencia</div></div>
+            <div class="stat"><div class="v">2</div><div class="l">tiendas piloto</div></div>
+            <div class="stat"><div class="v">3</div><div class="l">zonas monitoreadas</div></div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="heatwrap">
+            <img class="heatimg" src="img/heatmap_real.png" alt="Mapa de calor acumulado del video de ejemplo">
+            <svg class="zoneoverlay" viewBox="0 0 634 360" preserveAspectRatio="none" aria-hidden="true">
+              <line x1="95" y1="0" x2="95" y2="360" stroke="#343037" stroke-opacity="0.45" stroke-dasharray="6 6"/>
+              <line x1="380" y1="0" x2="380" y2="360" stroke="#343037" stroke-opacity="0.45" stroke-dasharray="6 6"/>
+              <text x="47" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#fff" stroke="#343037" stroke-width="3" paint-order="stroke">ENTRADA</text>
+              <text x="238" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#fff" stroke="#343037" stroke-width="3" paint-order="stroke">PASILLO</text>
+              <text x="507" y="24" text-anchor="middle" font-size="15" font-weight="700" fill="#fff" stroke="#343037" stroke-width="3" paint-order="stroke">MOSTRADOR</text>
+            </svg>
+          </div>
+          <div class="legend"><span>Bajo</span><span class="bar"></span><span>Alto</span></div>
+          <div class="stats">
+            <div class="stat"><div class="v">89</div><div class="l">personas</div></div>
+            <div class="stat"><div class="v">6.3 s</div><div class="l">permanencia media</div></div>
+            <div class="stat"><div class="v">55%</div><div class="l">tráfico en pasillo</div></div>
+          </div>
+          <p class="cap">Mapa de calor acumulado — <strong>datos reales del video</strong> (110.9 s · 89 personas · 3 zonas por ancho de cuadro).</p>
+        </div>
+      </div>
+
+      <div class="notes" style="grid-column:1 / -1">
+        <div class="nitem"><span class="tagline t-ok">RECORRIDO</span><br>Datos reales del video: el <strong>pasillo concentra 55%</strong> de la ocupación media (pico 6 personas), mostrador 26% y entrada 19%; permanencia media de <strong>6.3 s</strong> sobre 89 personas. Insumo para reubicar promociones y surtido.</div>
+        <div class="nitem"><span class="tagline t-ok">OMNICANAL</span><br>El tráfico y el stock en tienda alimentan el surtido online y habilitan Click &amp; Collect: cierra el bucle online ↔ tienda.</div>
+        <div class="nitem"><span class="tagline t-warn">GOBERNANZA</span><br>El tráfico se mide de forma <strong>anónima y agregada</strong> (densidad de recorrido), sin identificación facial ni seguimiento individual — consistente con el manual.</div>
+        <div class="nitem"><span class="tagline t-ok">ROI PILOTO</span><br>Layout y surtido optimizados con datos de tráfico: la primera IA visible del Grupo en el piso de tienda, medible y anónima.</div>
+      </div>
+      <p class="cap" style="grid-column:1 / -1">Video: salida real del detector de visión por computadora (YOLOv8 + ByteTrack). Plano: interpretación del recorrido. Todo offline, sin conexión.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div><strong>Propuesta César Sánchez</strong> · candidato Head de IA · Cadena Real S.A. (Grupo Riquelme)</div>
+  <div class="stack">
+    <span>Gobernanza IA · Ley 7593/25</span><span>Python · ML</span><span>Visión por computadora (YOLOv8)</span><span>Mapa de calor · tráfico</span><span>Dashboard web</span>
+  </div>
+  <div class="disc">Prototipo demostrativo. El video del mapa de calor es salida real del detector del candidato. Todo offline, sin conexión.</div>
+</footer>
+
+</body>
+</html>
