@@ -69,18 +69,6 @@
   .gate{display:flex;gap:10px;align-items:center;background:var(--red-soft);border:1px solid #f3cdd0;border-radius:8px;padding:12px 14px;font-size:13.5px;margin-bottom:14px}
   .gate .ic{font-size:18px;font-weight:800;color:var(--red)}
   .gov-h{margin:16px 0 8px;font-size:13px;color:var(--ink)}
-  .gov-stepper{display:flex;margin:2px 0 4px;border-radius:8px;overflow:hidden}
-  .gov-step{position:relative;flex:1 1 0;min-width:0;padding:12px 12px 13px;border:1px solid var(--line);border-left:0;background:#fbfbfb}
-  .gov-step:first-child{border-left:1px solid var(--line)}
-  .gov-step:nth-child(1){flex-grow:7}
-  .gov-step:nth-child(2){flex-grow:8}
-  .gov-step:nth-child(3){flex-grow:8}
-  .gov-step:nth-child(4){flex-grow:7}
-  .gov-step-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:6px}
-  .gov-dot{width:22px;height:22px;flex:0 0 22px;border-radius:50%;background:var(--red-soft);color:var(--red);font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center}
-  .gov-days{font-size:10.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-2);white-space:nowrap}
-  .gov-step-name{display:block;font-size:13px;color:var(--ink)}
-  .gov-step-desc{display:block;font-size:11.5px;color:var(--ink-2);margin-top:2px}
   .gov-principles{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
   .gov-principle{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:8px;padding:12px;background:#fbfbfb}
   .gov-principle b{display:block;font-size:13px;margin-bottom:2px}
@@ -105,14 +93,25 @@
   .gov-banner-tag{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;background:var(--red);color:#fff;border-radius:999px;padding:2px 8px;margin-bottom:4px}
   .gov-banner b{display:block;font-size:14px;color:var(--ink)}
   .gov-banner-desc{display:block;font-size:12.5px;color:var(--ink-2);margin:3px 0 0;line-height:1.5}
+  .gov-road{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .gov-hz{border:1px solid var(--line);border-left:3px solid var(--red);border-radius:8px;background:#fbfbfb;padding:12px 13px}
+  .gov-hz-head{display:flex;align-items:baseline;gap:8px;margin-bottom:5px;flex-wrap:wrap}
+  .gov-hz-days{font-size:11px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:#fff;background:var(--red);border-radius:999px;padding:2px 8px;white-space:nowrap}
+  .gov-hz b{font-size:13px;color:var(--ink)}
+  .gov-hz p{margin:0 0 7px;font-size:11.5px;color:var(--ink-2);line-height:1.45}
+  .gov-hz-steps{font-size:10.5px;color:var(--ink-2);font-weight:600;letter-spacing:.2px}
+  .gov-std,.gov-ex{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+  .gov-std-card,.gov-ex-card{border:1px solid var(--line);border-radius:8px;background:#fbfbfb;padding:10px 12px}
+  .gov-std-card b,.gov-ex-card b{display:block;font-size:12.5px;color:var(--ink);margin-bottom:2px}
+  .gov-std-card span,.gov-ex-card span{font-size:11px;color:var(--ink-2);line-height:1.4}
+  .gov-ex-card{border-left:3px solid var(--red)}
+  .gov-note{margin-top:12px;font-size:11px;color:var(--ink-2);line-height:1.6}
   @media(max-width:900px){
     .gov-principles{grid-template-columns:repeat(2,1fr)}
     .gov-meta{grid-template-columns:1fr}
+    .gov-road{grid-template-columns:1fr}
   }
   @media(max-width:520px){
-    .gov-stepper{flex-direction:column}
-    .gov-step{border-left:1px solid var(--line);border-top:0}
-    .gov-step:first-child{border-top:1px solid var(--line)}
     .gov-principles{grid-template-columns:1fr}
   }
 
@@ -212,7 +211,7 @@
 <main>
 
   <section class="module" id="manual">
-    <div class="mhead"><span class="n">01 · Fase 0</span><h3>Manual de Ética y Gobernanza</h3><span class="sub">1 mes (30 días) · hoja de ruta inicial del Grupo Riquelme</span></div>
+    <div class="mhead"><span class="n">01 · Fase 0</span><h3>Manual de Ética y Gobernanza</h3><span class="sub">hoja de ruta inicial del Grupo · base ISO 42001 / NIST / HLEG</span></div>
     <div class="body full">
       <div class="gov-banner">
         <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 21V4"/><path d="M5 5h11l-2 3 2 3H5"/></svg>
@@ -225,27 +224,22 @@
 
       <div class="gate"><span class="ic">GATE</span><div><strong>Regla:</strong> ningún dato se procesa con IA en el Grupo hasta que el caso de uso apruebe la evaluación ética y de cumplimiento. El manual no frena el trabajo: es la llave que lo habilita sin exponer a la empresa.</div></div>
 
-      <h4 class="gov-h">Cómo se construye · 30 días</h4>
-      <div class="gov-stepper" role="list">
-        <div class="gov-step" role="listitem">
-          <div class="gov-step-top"><span class="gov-dot">01</span><span class="gov-days">días 1–7</span></div>
-          <b class="gov-step-name">Diagnóstico</b>
-          <span class="gov-step-desc">inventario de datos y casos de uso</span>
+      <h4 class="gov-h">Hoja de ruta realista · estándar nórdico / ISO</h4>
+      <div class="gov-road">
+        <div class="gov-hz">
+          <div class="gov-hz-head"><span class="gov-hz-days">30 días</span><b>v1 · Gobernanza base</b></div>
+          <p>Manifiesto de principios, inventario inicial de IA y política borrador. El punto de partida desde cero.</p>
+          <div class="gov-hz-steps">Diagnóstico → Borrador → Aprobación</div>
         </div>
-        <div class="gov-step" role="listitem">
-          <div class="gov-step-top"><span class="gov-dot">02</span><span class="gov-days">días 8–15</span></div>
-          <b class="gov-step-name">Borrador</b>
-          <span class="gov-step-desc">principios y políticas de retención</span>
+        <div class="gov-hz">
+          <div class="gov-hz-head"><span class="gov-hz-days">3–4 meses</span><b>Manual completo y operativo</b></div>
+          <p>Manual aprobado + evaluación de riesgo por caso de uso + roles, comité y controles de ciclo de vida.</p>
+          <div class="gov-hz-steps">Riesgo/impacto → Revisión legal → Aprobación</div>
         </div>
-        <div class="gov-step" role="listitem">
-          <div class="gov-step-top"><span class="gov-dot">03</span><span class="gov-days">días 16–23</span></div>
-          <b class="gov-step-name">Revisión</b>
-          <span class="gov-step-desc">riesgo por caso de uso y roles</span>
-        </div>
-        <div class="gov-step" role="listitem">
-          <div class="gov-step-top"><span class="gov-dot">04</span><span class="gov-days">días 24–30</span></div>
-          <b class="gov-step-name">Aprobación</b>
-          <span class="gov-step-desc">comité firma y habilita el gate</span>
+        <div class="gov-hz">
+          <div class="gov-hz-head"><span class="gov-hz-days">6–12 meses</span><b>Programa de gobernanza</b></div>
+          <p>Documento vivo: despliegue, formación, auditoría anual y mejora continua (PDCA).</p>
+          <div class="gov-hz-steps">Despliegue → Auditoría → Iteración</div>
         </div>
       </div>
 
@@ -275,6 +269,23 @@
           <svg class="gov-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="4" width="14" height="17" rx="2"/><path d="M9.5 4h5v3h-5z"/><path d="M9 13l2 2 4-4"/></svg>
           <div><b>Rendición de cuentas</b><span>roles y comité de aprobación</span></div>
         </div>
+      </div>
+
+      <h4 class="gov-h">Base metodológica · estándares que adoptamos</h4>
+      <div class="gov-std">
+        <div class="gov-std-card"><b>ISO/IEC 42001</b><span>Sistema de gestión de IA: política, roles, riesgo, auditoría y mejora continua (PDCA).</span></div>
+        <div class="gov-std-card"><b>NIST AI RMF</b><span>Govern · Map · Measure · Manage.</span></div>
+        <div class="gov-std-card"><b>HLEG + ALTAI (UE)</b><span>7 requisitos de IA confiable + checklist de autoevaluación.</span></div>
+        <div class="gov-std-card"><b>EU AI Act</b><span>Clasificación por niveles de riesgo y obligaciones por rol.</span></div>
+        <div class="gov-std-card"><b>Ley 7593/2025 (PY)</b><span>Protección de datos personales — RGPD paraguayo.</span></div>
+      </div>
+
+      <h4 class="gov-h">Ejemplos prácticos que replicamos</h4>
+      <div class="gov-ex">
+        <div class="gov-ex-card"><b>Dinamarca</b><span>Digital Ethics Compass: 5 principios + 22 preguntas (checklist accionable).</span></div>
+        <div class="gov-ex-card"><b>Finlandia</b><span>AuroraAI: Ethics Board que revisa casos de IA.</span></div>
+        <div class="gov-ex-card"><b>Noruega</b><span>Datatilsynet: sandbox regulatorio de IA.</span></div>
+        <div class="gov-ex-card"><b>Suecia</b><span>AI Sweden: AI Compass y Responsible use of AI.</span></div>
       </div>
 
       <div class="gov-meta">
