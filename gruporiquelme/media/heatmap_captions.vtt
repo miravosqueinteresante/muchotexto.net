@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.000
+Mapa de calor acumulado: detección de personas y tráfico en tienda (YOLOv8 + ByteTrack).
+
+00:00:08.000 --> 00:00:16.000
+Zonas monitoreadas: entrada, pasillo y mostrador. El pasillo concentra la mayor ocupación.
+
+00:00:16.000 --> 00:00:22.000
+La intensidad del color indica dónde se concentra el recorrido del cliente.
