@@ -4,6 +4,7 @@ title: "Digitalización estatal, el nuevo estándar"
 description: "La implementación de la Ley Nº 7424, que permitió procesar más de 230.000 trámites y eliminar la mora en el sector inmobiliario, marca un punto de inflexión en la administración pública de Paraguay."
 
 
+
 date: 2026-10-11 18:00:00 -0300
 last_modified_at: 2026-10-11
 categories: editorial
