@@ -68,7 +68,7 @@ CANON = {
         "file": "_posts/",
         "item": None,
         "consumers": {
-            "ia-en-paraguay.markdown": "categories contains 'articulos'",
+            "ia-en-paraguay.markdown": "p.pilar",
         },
     },
 }

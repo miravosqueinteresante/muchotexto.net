@@ -246,8 +246,8 @@ MARK_INI = "<!-- ARTICULOS:INICIO -->"
 MARK_FIN = "<!-- ARTICULOS:FIN -->"
 
 
-def build_llms(yaml):
-    grupos = {n: [] for n in PILARES}
+def iter_pilar_articles(yaml):
+    """Genera (pilar, slug, title, description, url) de los posts con `pilar`."""
     for path in sorted(glob.glob(os.path.join(POSTS, "*.md"))):
         fm = parse_front_matter(read(path))
         if not fm:
@@ -261,6 +261,12 @@ def build_llms(yaml):
         title = str(data.get("title", "")).strip()
         if not isinstance(pilar, int) or pilar not in PILARES or not url or not title:
             continue
+        yield pilar, os.path.basename(path)[:-3], title, str(data.get("description", "")).strip(), url
+
+
+def build_llms(yaml):
+    grupos = {n: [] for n in PILARES}
+    for pilar, slug, title, desc, url in iter_pilar_articles(yaml):
         grupos[pilar].append(f"- [{title}]({SITE_URL}{url})")
 
     body = []
@@ -269,6 +275,40 @@ def build_llms(yaml):
         body.extend(grupos[n])
         body.append("")
     return "\n".join(body).rstrip()
+
+
+PILLAR_MARK_INI = "<!-- PILAR:{n}:INICIO -->"
+PILLAR_MARK_FIN = "<!-- PILAR:{n}:FIN -->"
+
+
+def build_pillar_section(n, yaml):
+    entries = []
+    for pilar, slug, title, desc, url in iter_pilar_articles(yaml):
+        if pilar != n:
+            continue
+        entry = f"- **[{title}]({{% post_url {slug} %}})**"
+        if desc:
+            entry += f" — {desc}"
+        entries.append(entry)
+    return "\n".join(entries)
+
+
+def write_pillar(yaml):
+    path = os.path.join(REPO, "ia-en-paraguay.markdown")
+    txt = read(path)
+    total = 0
+    for n in sorted(PILARES):
+        ini = txt.find(PILLAR_MARK_INI.format(n=n))
+        fin = txt.find(PILLAR_MARK_FIN.format(n=n))
+        if ini == -1 or fin == -1 or fin <= ini:
+            print(f"WARN: pilar {n} sin marcadores; no se toca.")
+            continue
+        body = build_pillar_section(n, yaml)
+        txt = txt[:ini + len(PILLAR_MARK_INI.format(n=n))] + "\n\n" + body + "\n\n" + txt[fin:]
+        total += body.count("- **")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(txt)
+    return total
 
 
 def write_llms(body):
@@ -306,6 +346,11 @@ def main():
         print(f"OK: llms.txt = {n} articulos enlazados.")
     except Exception as e:
         print(f"WARN: no se pudo generar llms.txt ({e}); se conserva.")
+    try:
+        n = write_pillar(yaml)
+        print(f"OK: ia-en-paraguay.markdown = {n} articulos enlazados.")
+    except Exception as e:
+        print(f"WARN: no se pudo generar ia-en-paraguay.markdown ({e}); se conserva.")
     return 0
 
 
