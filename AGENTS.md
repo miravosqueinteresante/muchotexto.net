@@ -263,7 +263,7 @@ Fuentes: ABC Color, El Nacional, ANDE.
 
 - **Suspensión**: 1 de abril de 2025 por escándalo de espionaje ABIN (Brasil espió a funcionarios paraguayos).
 - **Reanudación**: noviembre 2025, tras entrega del informe confidencial brasileño. Confirmado por Félix Sosa (ANDE).
-- **Estado actual (ago 2026)**: conversaciones reanudadas pero sin nuevo Anexo C firmado. Acuerdo tarifario 2024-2026 (USD 19,28/kW-mes) vence 1 de enero de 2027.
+- **Estado actual (oct 2026)**: conversaciones reanudadas pero sin nuevo Anexo C firmado. Acuerdo tarifario 2024-2026 (USD 19,28/kW-mes) vence 1 de enero de 2027. Paraguay busca un acuerdo tarifario de hasta 5 años; Peña declaró que quiere definir la tarifa y el Anexo C "lo antes posible" (La Nación, 4-oct-2026).
 - **NO decir** "congelada desde abril 2025" ni "Anexo C vence en 2027". Lo congelado fue hasta noviembre 2025; lo que vence es el acuerdo tarifario, no el Anexo.
 - **Ingresos de Paraguay por Itaipú (tarifa 2024-2026)**: **USD 1.250 millones/año** = **280 regalías + 650 inversión social + 265 compensación por cesión de energía + 53 utilidades de capital/ANDE**. Fuente: anuncio oficial 9-may-2024 (Presidencia/Itaipú; Diario HOY, Última Hora, MRE). Es una **proyección**: lo efectivamente percibido en 2024 fue **USD 880,9M** (EEFF margen brasileña, ÚH 13-abr-2025); las transferencias directas al Estado bajo el Anexo C (regalías + cesión + pagos ANDE) sumaron **USD 549M**.
 - **NO usar** "USD 1.000 millones" (= 315 + 650, error aritmético) ni el desglose "315 regalías + 650 inversión social y compensación" (fusiona dos componentes y omite 265 + 53). Las regalías oficiales son **280**, no 315,1 (esa variante es de prensa sin fuente primaria).

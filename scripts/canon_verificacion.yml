@@ -17,13 +17,13 @@ claims:
 
   - id: demanda_electrica
     categoria: energia
-    fecha_verificacion: "2026-08-15"
+    fecha_verificacion: "2026-10-15"
     caducidad_dias: 30
     fuente: "ANDE (+17,9% acumulado a 8 meses de 2026)"
 
   - id: itaipu_acuerdo_tarifario
     categoria: itaipu
-    fecha_verificacion: "2026-08-15"
+    fecha_verificacion: "2026-10-15"
     caducidad_dias: 30
     fuente: "Acuerdo tarifario 2024-2026 (19,28 USD/kW-mes), vence 1-ene-2027"
 
