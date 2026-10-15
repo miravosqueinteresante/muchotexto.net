@@ -252,6 +252,39 @@ def check_pillar_titles():
     return findings
 
 
+def check_llms_links():
+    """Articulos de analisis que no figuran en llms.txt (por slug de URL)."""
+    p = os.path.join(REPO, "llms.txt")
+    if not os.path.exists(p):
+        return []
+    text = read(p)
+    missing = []
+    for full in analysis_posts():
+        slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", full)
+        if slug not in text:
+            missing.append(full)
+    return missing
+
+
+def check_llms_titles():
+    """El anchor del enlace en llms.txt debe coincidir con el title del post."""
+    p = os.path.join(REPO, "llms.txt")
+    if not os.path.exists(p):
+        return []
+    findings = []
+    rx = re.compile(r"\[([^\]]+)\]\(https://muchotexto\.net/articulos/\d{4}/\d{2}/\d{2}/([a-z0-9-]+)/\)")
+    for m in rx.finditer(read(p)):
+        anchor = m.group(1).strip()
+        slug = m.group(2)
+        matches = glob.glob(os.path.join(REPO, "_posts", "*-" + slug + ".md"))
+        if not matches:
+            continue
+        title = _post_title(os.path.basename(matches[0])[:-3])
+        if title and title != anchor:
+            findings.append((slug, title, anchor))
+    return findings
+
+
 def parse_named_url_yaml(path, key="name"):
     """Extrae un set de (name, url) de un YAML de lista simple."""
     items = []
@@ -500,6 +533,15 @@ def main():
     for slug, title, anchor in check_pillar_titles():
         errors.append(
             f"[INV-16] ia-en-paraguay.markdown: enlace '{anchor}' no coincide con "
+            f"el title del post '{title}' ({slug})"
+        )
+
+    # INV-17: llms.txt enlaza todos los analisis y con títulos correctos
+    for slug in check_llms_links():
+        errors.append(f"[INV-17] llms.txt no enlaza el articulo '{slug}'")
+    for slug, title, anchor in check_llms_titles():
+        errors.append(
+            f"[INV-17] llms.txt: enlace '{anchor}' no coincide con "
             f"el title del post '{title}' ({slug})"
         )
 
