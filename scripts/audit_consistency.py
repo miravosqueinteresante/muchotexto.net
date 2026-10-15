@@ -21,6 +21,8 @@ import re
 import subprocess
 import sys
 
+from common import read
+
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # ─── Fase 0: MAPA DE FUENTES (fuente unica -> consumidores) ──────────────────
@@ -103,11 +105,6 @@ PUBLISHED_ROOT_ASSETS = {
     "grafo.json",
     "llms.txt",
 }
-
-
-def read(path):
-    with open(path, "r", encoding="utf-8", errors="replace") as f:
-        return f.read()
 
 
 def norm(s):

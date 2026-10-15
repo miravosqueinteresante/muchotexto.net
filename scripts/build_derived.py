@@ -29,6 +29,8 @@ import sys
 import unicodedata
 from datetime import datetime
 
+from common import read
+
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(REPO, "_data")
 POSTS = os.path.join(REPO, "_posts")
@@ -38,13 +40,6 @@ MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio",
 
 
 # ── helpers ──────────────────────────────────────────────────────────────
-def read(path):
-    # utf-8-sig: ignora el BOM (26+ posts lo llevan; con utf-8 plano parse_front_matter
-    # no matchea `^---` y el front matter se descarta en silencio).
-    with open(path, "r", encoding="utf-8-sig") as f:
-        return f.read()
-
-
 def norm(s):
     return unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode("ascii").lower().strip()
 
