@@ -13,7 +13,7 @@ hitos:
 glosario:
   - tema: "Telecomunicaciones"
     termino: "Banda media (5G)"
-    definicion: "Familia de frecuencias entre 1 y 6 GHz que equilibra cobertura y capacidad. La banda de 3,5-3,8 GHz (n78, la C-band) es la banda media estándar global del 5G: canales anchos para velocidad, con alcance de kilómetros."
+    definicion: "Familia de frecuencias entre 1 y 6 GHz que equilibra cobertura y capacidad. La banda de 3,3-3,8 GHz (n78, la C-band) es la banda media estándar global del 5G: canales anchos para velocidad, con alcance de kilómetros."
 casos:
   - tema: "Ecosistema"
     titulo: "El 5G en Paraguay"
@@ -57,7 +57,7 @@ La de **Tigo, de 2.300-2.400 MHz, es la banda n40**, media-baja, heredada del LT
 
 La segunda licitación llega tarde. Los vecinos de la región subastaron 5G entre **2021 y 2023**: Chile en febrero de 2021, Brasil en noviembre de 2021, Uruguay en mayo de 2023 y Argentina en octubre de 2023, todos con la banda de 3,5 GHz como eje. Brasil fue el único que además adjudicó 2,3 GHz, y como banda secundaria. Paraguay recién ahora completa su espectro, con la particularidad de usar 2,3 GHz como banda principal para un operador.
 
-El resultado se mide en los rankings. La GSMA estimaba para 2025 una **penetración 5G de alrededor del 14% de las conexiones** en América Latina, con más de 30 operadores en 13 países. Paraguay todavía no aparece medido por GSMA ni por Ookla en 5G. En velocidad móvil, Ookla ubicaba a Paraguay en torno a los **27 Mbps —puesto 98 a nivel mundial—**, mientras su fibra óptica ronda los 115 Mbps (puesto 51). El eslabón débil es justamente el móvil, y es el que el 5G debería atacar.
+El resultado se mide en los rankings. La GSMA estimaba para 2025 una **penetración 5G de alrededor del 14% de las conexiones** en América Latina, con más de 30 operadores en 13 países. Paraguay todavía no aparece medido por GSMA ni por Ookla en 5G. En velocidad móvil, el índice global de Ookla (Speedtest) ubicaba a Paraguay en torno a los **27 Mbps —puesto 98 a nivel mundial—**, mientras su fibra óptica ronda los 115 Mbps (puesto 51-52). El eslabón débil es justamente el móvil, y es el que el 5G debería atacar.
 
 ## Qué cambia de verdad (y qué no)
 
@@ -109,7 +109,8 @@ La pregunta no es si Paraguay tendrá 5G —lo tendrá—, sino con qué velocid
 4. [MobileTime — "Nokia y Claro: red 5G de Paraguay" (18-dic-2025)](https://mobiletime.la/noticias/18/12/2025/nokia-y-claro-red-5g-de-paraguay/)
 5. [GSMA — Mobile Economy Latin America 2025](https://www.gsma.com/about-us/regions/latin-america-and-the-caribbean/gsma_resources/mobile-economy-latam2025/)
 6. [Ookla — "5G in Latin America: Pockets of Progress" (ene-2026)](https://www.ookla.com/articles/5g-in-latin-america-pockets-of-progress)
-7. [Conatel — Comisión Nacional de Telecomunicaciones](https://www.conatel.gov.py/)
+7. [Ookla — Speedtest Global Index (Paraguay)](https://www.speedtest.net/global-index/paraguay)
+8. [Conatel — Comisión Nacional de Telecomunicaciones](https://www.conatel.gov.py/)
 
 **Metodología y alcance:** este es un **análisis crítico de un proceso de adjudicación**, no un informe de verificación basado en archivos oficiales. La investigación está documentada en `research_5g/` (§5.8). Las cifras de la adjudicación (bandas 2.300-2.400 / 3.700-3.800 MHz, montos, operadores) se verificaron contra la cobertura especializada (DPL News, TeleSemana, MobileTime) y fuentes oficiales (Conatel). El dato de que "solo Claro tiene 5G operativo" es unánime en las fuentes consultadas. Las proyecciones de inversión (USD 79 millones, 250-500 radiobases) son estimaciones preliminares de los operadores, no desembolsos confirmados. La comparación regional usa datos de GSMA y Ookla. El vínculo entre 5G y data centers se presenta como indirecto, sin exagerar.
 
