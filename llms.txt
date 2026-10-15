@@ -80,6 +80,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay mueve USD 700M en e-commerce pero entrega con referencias](https://muchotexto.net/articulos/2026/07/24/ecommerce-logistica-paraguay/)
 - [Lo que un data center compra y Paraguay no puede vender](https://muchotexto.net/articulos/2026/07/25/cadena-valor-data-center/)
 - [ADATA mira a Minga Guazú para ensamblar memorias y SSDs](https://muchotexto.net/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/)
+- [5G en Paraguay, espectro repartido y red encendida solo en Claro](https://muchotexto.net/articulos/2026/10/15/5g-segunda-subasta-paraguay/)
 
 ### Pilar 5: Cultura, filosofía y futuro
 - [La IA cuesta más que los humanos que reemplazó: los números](https://muchotexto.net/articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/)

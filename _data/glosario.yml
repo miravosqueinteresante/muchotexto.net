@@ -601,3 +601,9 @@
       La Encuesta Regional 2026 de Capaser y Zabe Corporate la define como jóvenes
       de 18 a 28 años. En Paraguay, su ingreso al mercado laboral choca con tres barreras:
       experiencia práctica, inglés y habilidades digitales.'
+- tema: Telecomunicaciones
+  terminos:
+  - termino: Banda media (5G)
+    definicion: 'Familia de frecuencias entre 1 y 6 GHz que equilibra cobertura y
+      capacidad. La banda de 3,5-3,8 GHz (n78, la C-band) es la banda media estándar
+      global del 5G: canales anchos para velocidad, con alcance de kilómetros.'

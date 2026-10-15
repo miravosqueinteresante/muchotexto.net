@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay"
 permalink: /ia-en-paraguay/
 description: "Data centers, energía, regulación, empleo tech y geopolítica en Paraguay. Análisis con datos duros y fuentes verificables."
-last_modified_at: 2026-10-02
+last_modified_at: 2026-10-15
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -110,10 +110,10 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[Paraguay mueve USD 700M en e-commerce pero entrega con referencias]({% post_url 2026-07-24-ecommerce-logistica-paraguay %})** - El e-commerce mueve USD 700-2.180M y crece 40% anual, pero sin direcciones estandarizadas la última milla sigue a ciegas.
 - **[Lo que un data center compra y Paraguay no puede vender]({% post_url 2026-07-25-cadena-valor-data-center %})** - La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW.
 - **[ADATA mira a Minga Guazú para ensamblar memorias y SSDs]({% post_url 2026-08-28-adata-minga-guazu-memorias-semiconductores %})** - El 2.º fabricante mundial de memorias DRAM explora una planta de ensamblaje en Minga Guazú: maquila (Ley 7547), ensamblaje (7546), regla de origen del Mercosur (60% hasta 2038) y la tarifa que falta definir.
+- **[5G en Paraguay, espectro repartido y red encendida solo en Claro]({% post_url 2026-10-15-5g-segunda-subasta-paraguay %})** — Conatel adjudicó en la segunda licitación 100 MHz a Tigo (2.300 MHz) y 100 MHz a Personal (3.700 MHz) sin puja. Solo Claro tiene 5G operativo (desde diciembre de 2025); Tigo y Personal deben encender su primera radiobase hacia febrero de 2027.
 
 **Próximamente:**
 
-- **5G en Paraguay: Personal y Tigo ganan la segunda subasta** — Conatel adjudicó espectro el 6 de agosto de 2026. Personal recibió la banda 3.700-3.800 MHz, Tigo la 2.300-2.400 MHz. Primera subasta fue para Claro y Nubicom. Verificado con DPL News, 6-ago-2026.
 - **SIP transfronterizo: el BCP construye la autopista financiera digital** — Derlis Montania (BCP) presentó en el Pay Meeting la expansión del Sistema de Pagos Instantáneos a comercios, impuestos e integración regional. Verificado con DPL News y La Nación, 10-ago-2026.
 
 ## Cultura, filosofía y futuro
