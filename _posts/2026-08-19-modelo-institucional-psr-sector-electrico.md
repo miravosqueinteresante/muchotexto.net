@@ -4,6 +4,7 @@ title: "El modelo institucional de PSR para el sector eléctrico paraguayo"
 date: 2026-08-19 12:00:00 -0300
 last_modified_at: 2026-08-19
 categories: articulos
+pilar: 1
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
 description: "La consultora brasileña PSR propone separar el sector eléctrico de Paraguay en ministerio, ente regulador y una ANDE enfocada. Qué dice y qué omite."
 ---

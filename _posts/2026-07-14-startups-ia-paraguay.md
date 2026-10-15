@@ -4,6 +4,7 @@ title: "Paraguay tiene startups de IA aunque nadie las conoce"
 date: 2026-07-14
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 4
 tags: tech-ecosistema ia-paraguay
 description: "Paraguay registró un récord de USD 3.75M en inversión startup en 2025. También entró al Top 100 global de ecosistemas. Pero casi nadie sabe que existen."
 ---

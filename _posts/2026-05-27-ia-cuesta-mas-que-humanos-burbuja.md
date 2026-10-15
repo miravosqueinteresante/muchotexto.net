@@ -4,6 +4,7 @@ title: "La IA cuesta más que los humanos que reemplazó: los números"
 date: 2026-05-27
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 5
 tags: analisis-ia ia-paraguay
 description: "Uber quemó su presupuesto de IA en 4 meses. Starbucks eliminó su sistema porque funcionaba peor que un humano. ¿Estamos viendo el principio del fin de la…"
 ---

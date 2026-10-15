@@ -4,6 +4,7 @@ title: "El ente regulador de energía que Paraguay diseña con concurso público
 date: 2026-08-19 12:00:00 -0300
 last_modified_at: 2026-08-19
 categories: articulos
+pilar: 1
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
 description: "Paraguay diseña el Ente Regulador de Energía con directorio por concurso, mandato de seis años y audiencias públicas. Qué cambia y qué omite."
 ---

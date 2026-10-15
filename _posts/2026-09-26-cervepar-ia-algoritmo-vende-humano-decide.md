@@ -4,6 +4,7 @@ title: "Cómo Cervepar usa la IA para vender cerveza en Paraguay"
 date: 2026-09-26 09:00:00 -0300
 last_modified_at: 2026-09-26
 categories: [articulos]
+pilar: 3
 tags: [ia-aplicada, consumo-masivo, cervepar, ab-inbev, paraguay]
 description: "Cervepar usa IA en su canal B2B: la plataforma BEES gestiona pedidos, logística y entregas. Qué hace de verdad y qué es marketing sin cifras públicas."
 schema_type: TechArticle

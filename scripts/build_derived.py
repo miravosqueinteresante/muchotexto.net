@@ -11,6 +11,10 @@ Cuatro superficies comparten el mismo patron: un seed curado en
     casos       <- front matter `casos`       (seccion = tema)
     directorio  <- front matter `directorio`  (seccion = seccion)
 
+Ademas genera la lista de articulos de `llms.txt` (entre los marcadores
+`<!-- ARTICULOS:INICIO/FIN -->`) a partir del front matter `pilar` de cada
+post, agrupada por pilar y ordenada por fecha.
+
 Fallback-safe: si una superficie falla, conserva su snapshot y sale 0.
 
 Uso:
@@ -35,7 +39,9 @@ MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio",
 
 # ── helpers ──────────────────────────────────────────────────────────────
 def read(path):
-    with open(path, "r", encoding="utf-8") as f:
+    # utf-8-sig: ignora el BOM (26+ posts lo llevan; con utf-8 plano parse_front_matter
+    # no matchea `^---` y el front matter se descarta en silencio).
+    with open(path, "r", encoding="utf-8-sig") as f:
         return f.read()
 
 
@@ -229,6 +235,61 @@ def build_surface(name, yaml, out_dir=DATA):
     return len(out), n
 
 
+# ── llms.txt: lista de articulos derivada del front matter `pilar` ────────
+# Se regenera entre dos marcadores HTML; el resto del archivo es curado a mano.
+SITE_URL = "https://muchotexto.net"
+
+PILARES = {
+    1: "Infraestructura y energía",
+    2: "Geopolítica y regulación tech",
+    3: "IA, sociedad y trabajo",
+    4: "Tecnología aplicada + ecosistema",
+    5: "Cultura, filosofía y futuro",
+}
+
+MARK_INI = "<!-- ARTICULOS:INICIO -->"
+MARK_FIN = "<!-- ARTICULOS:FIN -->"
+
+
+def build_llms(yaml):
+    grupos = {n: [] for n in PILARES}
+    for path in sorted(glob.glob(os.path.join(POSTS, "*.md"))):
+        fm = parse_front_matter(read(path))
+        if not fm:
+            continue
+        try:
+            data = yaml.safe_load(fm) or {}
+        except Exception:
+            continue
+        pilar = data.get("pilar")
+        url = slug_to_url(path)
+        title = str(data.get("title", "")).strip()
+        if not isinstance(pilar, int) or pilar not in PILARES or not url or not title:
+            continue
+        grupos[pilar].append(f"- [{title}]({SITE_URL}{url})")
+
+    body = []
+    for n in sorted(PILARES):
+        body.append(f"### Pilar {n}: {PILARES[n]}")
+        body.extend(grupos[n])
+        body.append("")
+    return "\n".join(body).rstrip()
+
+
+def write_llms(body):
+    path = os.path.join(REPO, "llms.txt")
+    txt = read(path)
+    ini = txt.find(MARK_INI)
+    fin = txt.find(MARK_FIN)
+    if ini == -1 or fin == -1 or fin <= ini:
+        print("WARN: llms.txt sin marcadores de articulos; no se toca.")
+        return 0
+    new = txt[:ini + len(MARK_INI)] + "\n\n" + body + "\n\n" + txt[fin:]
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(new)
+    return body.count("\n- [")
+
+
 def main():
     if sys.platform == "win32":
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -245,6 +306,11 @@ def main():
             print(f"OK: _data/{SURFACES[name]['out']} = {secs} secciones, {items} items.")
         except Exception as e:
             print(f"WARN: no se pudo generar '{name}' ({e}); se conserva el snapshot.")
+    try:
+        n = write_llms(build_llms(yaml))
+        print(f"OK: llms.txt = {n} articulos enlazados.")
+    except Exception as e:
+        print(f"WARN: no se pudo generar llms.txt ({e}); se conserva.")
     return 0
 
 

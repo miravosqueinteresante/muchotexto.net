@@ -4,6 +4,7 @@ title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
 date: 2026-09-16 12:00:00 -0300
 last_modified_at: 2026-09-16
 categories: [articulos]
+pilar: 1
 tags: [transparencia, tarifas-ande, gcie, data-centers, energia-paraguay]
 description: "943 MW de criptominería bajo contrato secreto en la ANDE. Tarifas, decretos derogados y una renuncia que la empresa no quiere explicar."
 schema_type: TechArticle

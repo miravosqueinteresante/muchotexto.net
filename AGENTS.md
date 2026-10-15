@@ -119,7 +119,7 @@ python scripts/audit_consistency.py --json   # salida para CI
 
 **Estado:** read-only, **bloqueante en CI** (paso "Validar y preparar datos" del workflow, corre en todo build antes de Jekyll). Si hay hallazgos, cancela el deploy. Prueba de detección: `_planning/selftest_auditor.py` (rompe INV-1/INV-9/INV-10 y confirma exit 1).
 
-**Superficies derivadas:** `scripts/build_derived.py` (motor único) genera cronología, glosario, casos de uso y directorio desde el front matter de los artículos (`hitos`, `glosario`, `casos`, `directorio`) más su seed. Sus tests (`scripts/test_build_derived.py`, 19 casos) corren en el mismo paso de CI.
+**Superficies derivadas:** `scripts/build_derived.py` (motor único) genera cronología, glosario, casos de uso y directorio desde el front matter de los artículos (`hitos`, `glosario`, `casos`, `directorio`) más su seed. También regenera la lista de artículos de `llms.txt` (entre `<!-- ARTICULOS:INICIO/FIN -->`) desde el campo `pilar` de cada post: agrupada por pilar (1-5) y ordenada por fecha. **La lista de artículos de `llms.txt` no se edita a mano; se edita `pilar` en el front matter del post y se corre `python scripts/build_derived.py`.** Sus tests (`scripts/test_build_derived.py`, 19 casos) corren en el mismo paso de CI.
 
 ## Capa de datos local (muchotexto.net ↔ datos-publicos)
 

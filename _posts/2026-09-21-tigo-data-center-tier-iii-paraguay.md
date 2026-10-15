@@ -4,6 +4,7 @@ title: "El data center Tier III que Paraguay ya tiene hace una década"
 date: 2026-09-21 10:00:00 -0300
 last_modified_at: 2026-09-21
 categories: [articulos]
+pilar: 1
 tags: [data-centers, tigo, infraestructura, energia-paraguay, tier-iii]
 description: "El único data center Tier III de un operador privado en Paraguay opera en Villa Elisa desde 2016. Sobre él corre la nube global."
 schema_type: TechArticle

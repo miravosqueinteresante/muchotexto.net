@@ -4,6 +4,7 @@ title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
 date: 2026-08-01 22:00:00 -0300
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 2
 tags: [geopolitica-regulacion, infraestructura-energia, paraguay-futuro, taiwan, gobernanza]
 description: "Itaipú fue el modelo binacional más exitoso de América Latina. Paraguay quiere replicarlo con Taiwán para Yguazú Digital. Lecciones de 50 años de historia."
 ---

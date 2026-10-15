@@ -4,6 +4,7 @@ title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
 date: 2026-07-17
 last_modified_at: 2026-09-23
 categories: articulos
+pilar: 1
 tags: infraestructura-energia ia-paraguay
 description: "El acuerdo tarifario de Itaipú vence el 1 de enero de 2027. La negociación del Anexo C se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año."
 ---

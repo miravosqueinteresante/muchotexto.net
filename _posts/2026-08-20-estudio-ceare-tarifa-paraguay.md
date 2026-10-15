@@ -4,6 +4,7 @@ title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
 date: 2026-08-20 12:00:00 -0300
 last_modified_at: 2026-08-20
 categories: articulos
+pilar: 1
 tags: [infraestructura-energia, politica-energetica, tarifas-ande, ande, mesa-energetica]
 description: "El estudio Ceare de la UBA proyecta la tarifa media de Paraguay de 49,2 a 68,6 US$/MWh al 2030. Qué revela sobre pérdidas y morosidad."
 ---

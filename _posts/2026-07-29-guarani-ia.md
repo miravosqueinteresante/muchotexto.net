@@ -4,6 +4,7 @@ title: "Paraguay está enseñando guaraní a la inteligencia artificial"
 date: 2026-07-29
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 5
 tags: cultura-filosofia ia-paraguay paraguay ia
 description: "El guaraní tiene 7 millones de hablantes y está ausente de los grandes modelos de voz e IA generativa. Un grupo de periodistas paraguayos está cambiando eso…"
 ---

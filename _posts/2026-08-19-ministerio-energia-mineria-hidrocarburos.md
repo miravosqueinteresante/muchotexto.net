@@ -4,6 +4,7 @@ title: "El ministerio de energía que Paraguay prepara con tres viceministerios"
 date: 2026-08-19 12:00:00 -0300
 last_modified_at: 2026-08-19
 categories: articulos
+pilar: 1
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
 description: "Paraguay prepara su Ministerio de Energía, Minería e Hidrocarburos con tres viceministerios y financiamiento por regalías. Qué absorbería y qué omite."
 ---

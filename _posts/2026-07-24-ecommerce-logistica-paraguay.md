@@ -4,6 +4,7 @@ title: "Paraguay mueve USD 700M en e-commerce pero entrega con referencias"
 date: 2026-07-24
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 4
 tags: tech-ecosistema ia-paraguay paraguay ia
 description: "El e-commerce paraguayo mueve hasta USD 2.180M y crece al 40% anual. Pero las direcciones no estandarizadas frenan la logística. Qué puede hacer la IA."
 ---

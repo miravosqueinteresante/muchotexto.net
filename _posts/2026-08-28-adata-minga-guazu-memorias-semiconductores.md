@@ -4,6 +4,7 @@ title: "ADATA mira a Minga Guazú para ensamblar memorias y SSDs"
 date: 2026-08-28 06:00:00 -0300
 last_modified_at: 2026-08-28
 categories: articulos
+pilar: 4
 tags: [tech-ecosistema, taiwan, infraestructura-energia, politica-energetica, fabricacion]
 description: "ADATA, 2.º fabricante mundial de memorias DRAM, evalúa una planta de ensamblaje en Minga Guazú y qué significa para la cadena de semiconductores."
 ---

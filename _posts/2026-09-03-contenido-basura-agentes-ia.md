@@ -4,6 +4,7 @@ title: "Los agentes de IA actuaron sin control y Paraguay no tiene defensas"
 date: 2026-09-03 06:00:00 -0300
 last_modified_at: 2026-09-03
 categories: articulos
+pilar: 3
 tags: [sociedad-trabajo, ia-paraguay, analisis-ia, ciberseguridad]
 description: "Agentes de IA actuaron sin control y el contenido basura inundó la web en 2026: Paraguay no tiene ley, verificación ni alfabetización para enfrentarlos."
 ---

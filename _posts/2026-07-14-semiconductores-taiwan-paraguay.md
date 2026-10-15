@@ -4,6 +4,7 @@ title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
 date: 2026-07-14 20:00:00 -0400
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 2
 tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay tiene la electricidad más barata de Sudamérica, el Acuífero Guaraní y una alianza con Taiwán. ¿Por qué no hay una fábrica de chips? Los números."
 ---

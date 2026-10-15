@@ -4,6 +4,7 @@ title: "Paraguay tiene energía para la IA pero no la red para transportarla"
 date: 2026-07-08
 last_modified_at: 2026-09-23
 categories: articulos
+pilar: 1
 tags: infraestructura-energia
 description: "Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan. Yguazú Digital, criptominería y la renegociación de Itaipú chocan…"
 ---

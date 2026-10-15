@@ -4,6 +4,7 @@ title: "Lo que la criptominería le cuesta realmente a Paraguay"
 date: 2026-07-07
 last_modified_at: 2026-09-23
 categories: articulos
+pilar: 1
 tags: infraestructura-energia
 description: "Paraguay es el cuarto país con mayor minería de bitcoin del mundo. 943,8 MW de potencia reservada, 383 empleos formales y una ANDE que libra una guerra silenciosa contra conexiones…"
 ---

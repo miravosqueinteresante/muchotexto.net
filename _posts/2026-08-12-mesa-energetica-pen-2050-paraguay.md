@@ -4,6 +4,7 @@ title: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta
 date: 2026-08-12 12:00:00 -0300
 last_modified_at: 2026-08-18
 categories: articulos
+pilar: 1
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
 description: "Paraguay aprobó en 2024 una política energética al 2050 con 95 objetivos y 385 metas, incluido un ministerio que debía existir ese año. Sigue sin existir…"
 ---

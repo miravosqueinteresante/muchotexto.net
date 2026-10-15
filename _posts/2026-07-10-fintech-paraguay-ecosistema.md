@@ -4,6 +4,7 @@ title: "Paraguay tiene más fintechs que bancos y recién empieza"
 date: 2026-07-10
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 4
 tags: tech-ecosistema
 description: "Paraguay tiene 100 fintechs, 17 bancos y el 39% de los adultos sin cuenta. El ecosistema crece al 40% anual y recién empieza."
 ---

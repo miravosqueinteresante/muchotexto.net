@@ -4,6 +4,7 @@ title: "Paraguay pierde el talento que necesita para ser hub de IA"
 date: 2026-07-10
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 3
 tags: sociedad-trabajo ia-paraguay
 description: "Entre 30.000 y 50.000 profesionales paraguayos viven en el exterior. El país construye data centers de IA mientras los ingenieros que deberían operarlos…"
 ---

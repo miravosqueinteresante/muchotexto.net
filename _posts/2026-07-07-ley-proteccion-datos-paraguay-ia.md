@@ -4,6 +4,7 @@ title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
 date: 2026-07-07
 last_modified_at: 2026-08-15
 categories: articulos
+pilar: 2
 tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025). Entra en vigor en noviembre de 2027, el mismo año que abre Yguazú Digital…"
 ---

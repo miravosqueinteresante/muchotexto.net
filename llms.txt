@@ -22,22 +22,23 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 
 ## Cluster IA en Paraguay — 5 pilares temáticos
 
-### Pilar 1: Infraestructura y energía
-- [Qué es un data center y por qué Paraguay quiere construir uno](https://muchotexto.net/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)
-- [Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA](https://muchotexto.net/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
-- [Luces y sombras de la apertura eléctrica: Paraguay y el sector privado](https://muchotexto.net/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
-- [Lo que la criptominería le cuesta realmente a Paraguay](https://muchotexto.net/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)
-- [Paraguay tiene la energía para el hidrógeno verde pero no el puerto](https://muchotexto.net/articulos/2026/07/27/hidrogeno-verde-paraguay/)
-- [Paraguay tiene energía para la IA pero no la red para transportarla](https://muchotexto.net/articulos/2026/07/08/red-electrica-paraguay-ia/)
-- [En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú](https://muchotexto.net/articulos/2026/07/17/itaipu-2027-energia-paraguay/)
+<!-- ARTICULOS:INICIO -->
 
+### Pilar 1: Infraestructura y energía
+- [Luces y sombras de la apertura eléctrica: Paraguay y el sector privado](https://muchotexto.net/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
+- [Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA](https://muchotexto.net/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)
+- [Lo que la criptominería le cuesta realmente a Paraguay](https://muchotexto.net/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)
+- [Paraguay tiene energía para la IA pero no la red para transportarla](https://muchotexto.net/articulos/2026/07/08/red-electrica-paraguay-ia/)
+- [Qué es un data center y por qué Paraguay quiere construir uno](https://muchotexto.net/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/)
+- [En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú](https://muchotexto.net/articulos/2026/07/17/itaipu-2027-energia-paraguay/)
+- [Paraguay tiene la energía para el hidrógeno verde pero no el puerto](https://muchotexto.net/articulos/2026/07/27/hidrogeno-verde-paraguay/)
 - [Paraguay tiene energía 100% renovable y el cambio climático la amenaza](https://muchotexto.net/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)
 - [Qué le pasa a una ciudad paraguaya cuando llega un data center](https://muchotexto.net/articulos/2026/08/04/impacto-local-data-center-paraguay/)
 - [Paraguay 2040: un país construido con datos](https://muchotexto.net/articulos/2026/08/05/paraguay-2040-futuro-datos/)
 - [El plan energético al 2050 que Paraguay escribió y todavía no ejecuta](https://muchotexto.net/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)
-- [El modelo institucional de PSR para el sector eléctrico paraguayo](https://muchotexto.net/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/)
-- [El ministerio de energía que Paraguay prepara con tres viceministerios](https://muchotexto.net/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/)
 - [El ente regulador de energía que Paraguay diseña con concurso público](https://muchotexto.net/articulos/2026/08/19/ente-regulador-energia/)
+- [El ministerio de energía que Paraguay prepara con tres viceministerios](https://muchotexto.net/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/)
+- [El modelo institucional de PSR para el sector eléctrico paraguayo](https://muchotexto.net/articulos/2026/08/19/modelo-institucional-psr-sector-electrico/)
 - [El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares](https://muchotexto.net/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/)
 - [ANDE oculta 943 MW de contratos de criptominería bajo llave](https://muchotexto.net/articulos/2026/09/16/los-contratos-secretos-de-ande/)
 - [El data center Tier III que Paraguay ya tiene hace una década](https://muchotexto.net/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
@@ -52,8 +53,8 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Por qué Taiwán no fabrica semiconductores en Paraguay](https://muchotexto.net/articulos/2026/07/14/semiconductores-taiwan-paraguay/)
 - [Paraguay tiene más GPU que estrategia para inteligencia artificial](https://muchotexto.net/articulos/2026/07/16/ia-soberana-paraguay/)
 - [Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años](https://muchotexto.net/articulos/2026/07/17/ciberseguridad-paraguay/)
-- [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](https://muchotexto.net/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)
 - [Lo que el capital de Silicon Valley busca en Paraguay y no encuentra](https://muchotexto.net/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
+- [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](https://muchotexto.net/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)
 - [Paraguay firma la residencia permanente más rápida de la región](https://muchotexto.net/articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/)
 
 ### Pilar 3: IA, sociedad y trabajo
@@ -74,8 +75,8 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay tiene más fintechs que bancos y recién empieza](https://muchotexto.net/articulos/2026/07/10/fintech-paraguay-ecosistema/)
 - [El campo paraguayo se moderniza sin el pequeño productor](https://muchotexto.net/articulos/2026/07/13/agro-40-paraguay-ia/)
 - [Paraguay tiene startups de IA aunque nadie las conoce](https://muchotexto.net/articulos/2026/07/14/startups-ia-paraguay/)
-- [Por qué Asunción no es una ciudad inteligente todavía](https://muchotexto.net/articulos/2026/07/17/smart-cities-asuncion-paraguay/)
 - [Paraguay no usa IA para hacer periodismo pero la desinformación sí](https://muchotexto.net/articulos/2026/07/16/ia-periodismo-paraguay/)
+- [Por qué Asunción no es una ciudad inteligente todavía](https://muchotexto.net/articulos/2026/07/17/smart-cities-asuncion-paraguay/)
 - [Paraguay tiene los datos judiciales que la IA necesita](https://muchotexto.net/articulos/2026/07/21/ia-justicia-paraguay/)
 - [Paraguay mueve USD 700M en e-commerce pero entrega con referencias](https://muchotexto.net/articulos/2026/07/24/ecommerce-logistica-paraguay/)
 - [Lo que un data center compra y Paraguay no puede vender](https://muchotexto.net/articulos/2026/07/25/cadena-valor-data-center/)
@@ -83,13 +84,15 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [5G en Paraguay, espectro repartido y red encendida solo en Claro](https://muchotexto.net/articulos/2026/10/15/5g-segunda-subasta-paraguay/)
 
 ### Pilar 5: Cultura, filosofía y futuro
+- [El futuro de la identidad y la conciencia](https://muchotexto.net/articulos/2026/05/13/ciberhumanidad/)
+- [5 tecnologías que prometieron cambiar todo pero no cambiaron nada](https://muchotexto.net/articulos/2026/05/15/cinco-tecnologias-que-prometieron-cambiar-todo/)
 - [La IA cuesta más que los humanos que reemplazó: los números](https://muchotexto.net/articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/)
 - [La IA no es neutral: lo que dice la encíclica del Papa León XIV](https://muchotexto.net/articulos/2026/05/28/magnifica-humanitas-enciclica-ia/)
-- [5 tecnologías que prometieron cambiar todo pero no cambiaron nada](https://muchotexto.net/articulos/2026/05/15/cinco-tecnologias-que-prometieron-cambiar-todo/)
-- [Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026](https://muchotexto.net/articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/)
 - [¿Qué es realmente el fútbol?](https://muchotexto.net/articulos/2026/06/10/que-es-realmente-el-futbol/)
+- [Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026](https://muchotexto.net/articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/)
 - [Paraguay está enseñando guaraní a la inteligencia artificial](https://muchotexto.net/articulos/2026/07/29/guarani-ia/)
-- [El futuro de la identidad y la conciencia](https://muchotexto.net/articulos/2026/05/13/ciberhumanidad/)
+
+<!-- ARTICULOS:FIN -->
 
 - [Cronología](https://muchotexto.net/cronologia/): Hitos de IA, tecnología y energía en Paraguay desde 1973
 - [Regulación](https://muchotexto.net/regulacion/): Marco legal de IA en Paraguay — leyes, decretos y estrategias vigentes

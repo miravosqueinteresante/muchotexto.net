@@ -4,6 +4,7 @@ title: "Paraguay firma la residencia permanente más rápida de la región"
 date: 2026-09-25 09:00:00 -0300
 last_modified_at: 2026-09-25
 categories: [articulos]
+pilar: 2
 tags: [geopolitica, regulacion, migracion, inversion-extranjera, paraguay]
 description: "El Investor Pass da residencia permanente por inversión desde USD 70.000 en unos tres meses. No es la más barata, pero sí la más directa de la región."
 schema_type: TechArticle
