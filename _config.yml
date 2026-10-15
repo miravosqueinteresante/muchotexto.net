@@ -95,6 +95,7 @@ exclude:
   - squirrel-audit-report-v3.md
   - squirrel-audit-report-v4.md
   - squirrel-audit-report-v5.md
+  - gruporiquelme/
 
 # Monophase theme settings
 tagline: "Observatorio de IA en Paraguay"
