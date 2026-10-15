@@ -43,7 +43,7 @@ La adjudicación formal data del **4 de agosto de 2026** (licencias publicadas p
 
 El contraste está entre el papel y la realidad. **Claro lanzó la primera red 5G comercial del país en diciembre de 2025**, con equipos Nokia, en una docena de localidades que incluyen Gran Asunción, Ciudad del Este, Encarnación, Coronel Oviedo y Pedro Juan Caballero, con una inversión de unos **USD 35 millones** en la primera fase. Es, a la fecha, el único operador con 5G operativo.
 
-Del otro lado, **Nubicom** —ganador de la primera licitación junto a Claro— todavía no tiene servicio comercial y se encuentra bajo la fiscalización de la Contraloría. **Tigo y Personal**, recién adjudicados, tienen por delante las obligaciones del pliego: encender **la primera radiobase en seis meses** (hacia febrero de 2027) y alcanzar **100 radiobases en cuatro años**, de las cuales al menos **10 deben servir al Estado**. La inversión conjunta proyectada ronda los **USD 79 millones**, entre 250 y 500 radiobases según el operador.
+Del otro lado, **Nubicom** —ganador de la primera licitación junto a Claro— todavía no tiene servicio comercial y se encuentra bajo la fiscalización de la Contraloría. **Tigo** —que ya opera el [único data center Tier III de un operador privado en Paraguay](/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)— **y Personal**, recién adjudicados, tienen por delante las obligaciones del pliego: encender **la primera radiobase en seis meses** (hacia febrero de 2027) y alcanzar **100 radiobases en cuatro años**, de las cuales al menos **10 deben servir al Estado**. La inversión conjunta proyectada ronda los **USD 79 millones**, entre 250 y 500 radiobases según el operador.
 
 Es decir: el espectro está repartido, pero la red 5G paraguaya sigue siendo, por ahora, la de un solo operador.
 
@@ -61,11 +61,11 @@ El resultado se mide en los rankings. La GSMA reportaba para la región más de 
 
 ## Qué cambia de verdad (y qué no)
 
-Conviene no exagerar el impacto. El vínculo entre el 5G y los data centers es **indirecto**: la infraestructura de cómputo de Paraguay —los campus de IA, la fibra troncal del BID— corre sobre **fibra óptica**, no sobre 5G. El 5G no va a mover un data center; va a mover el consumo móvil de las personas y, a mediano plazo, el internet de las cosas, la industria y la logística. Sobre esos usos, hoy solo hay declaraciones de intención, sin cifras de impacto reales.
+Conviene no exagerar el impacto. El vínculo entre el 5G y los data centers es **indirecto**: la infraestructura de cómputo de Paraguay —los [campus de IA](/articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/), la fibra troncal del BID— corre sobre **fibra óptica**, no sobre 5G. El 5G no va a mover un data center; va a mover el consumo móvil de las personas y, a mediano plazo, el internet de las cosas, la industria y la logística. Sobre esos usos, hoy solo hay declaraciones de intención, sin cifras de impacto reales.
 
 Lo que sí cambia es la base competitiva del país. Con el espectro repartido y las obligaciones de despliegue fijadas, el 5G paraguayo tiene por primera vez un calendario concreto: la primera radiobase de Tigo y Personal en unos seis meses, y cien en cuatro años. Si se cumple, la red dejará de ser la de un solo operador. Hasta entonces, el 5G en Paraguay es una promesa con espectro: cuatro actores en el papel, uno en la práctica.
 
-La pregunta no es si Paraguay tendrá 5G —lo tendrá—, sino con qué velocidad cerrará la brecha con una región que ya lo desplegó hace años. El [observatorio de IA en Paraguay](/ia-en-paraguay/) sigue ese avance, porque la conectividad móvil es una de las patas del hub digital que el país dice querer ser: sin fibra no hay data centers, y sin 5G no hay una economía digital que llegue a todos.
+La pregunta no es si Paraguay tendrá 5G —lo tendrá—, sino con qué velocidad cerrará la brecha con una región que ya lo desplegó hace años. El [observatorio de IA en Paraguay](/ia-en-paraguay/) sigue ese avance, porque la conectividad móvil es una de las patas del hub digital que el país dice querer ser: sin fibra no hay [data centers](/articulos/2026/07/10/que-es-un-data-center-paraguay-ia/), y sin 5G no hay una economía digital que llegue a todos.
 
 <script type="application/ld+json">
 {

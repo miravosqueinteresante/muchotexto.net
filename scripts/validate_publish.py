@@ -161,7 +161,9 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
         errors.append("Falta enlace a pagina pilar /ia-en-paraguay/ en el cuerpo del articulo")
 
     # === INTERNAL LINKS ===
+    # Cuenta tanto {% post_url %} como enlaces internos hardcodeados (/ruta/).
     internal_links = len(re.findall(r'\{% post_url [^%]+\%\}', body))
+    internal_links += len(re.findall(r'\]\(/[^\)]+\)', body))
     if internal_links < 2:
         warnings.append(f"Pocos links internos: {internal_links} (minimo 2 recomendados)")
 
