@@ -12,6 +12,7 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -46,5 +47,13 @@ jobs:
               for c in v
           )
           title = f"Canon: {len(v)} claim(s) por re-verificar"
+          # dedup: no crear si ya hay un issue abierto del canon
+          r = subprocess.run(
+              ["gh", "issue", "list", "--state", "open", "--search", "in:title Canon", "--json", "number"],
+              capture_output=True, text=True, check=True,
+          )
+          if json.loads(r.stdout):
+              print("Ya existe un issue abierto del canon; no se crea otro.")
+              raise SystemExit(0)
           subprocess.run(["gh", "issue", "create", "--title", title, "--body", body], check=True)
           PY
