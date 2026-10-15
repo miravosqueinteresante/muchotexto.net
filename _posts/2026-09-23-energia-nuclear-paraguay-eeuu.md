@@ -5,6 +5,7 @@ date: 2026-09-23 09:00:00 -0300
 last_modified_at: 2026-09-23
 categories: [articulos]
 pilar: 1
+resumen: "El 4 de agosto de 2026 Paraguay firmó con Washington un MOU no vinculante, no un Acuerdo 123. Ningún SMR de diseño estadounidense opera todavía, el proyecto insignia se canceló por costos y el piso realista para un reactor es de 15 a 20 años."
 tags: [energia-nuclear, smr, geopolitica, infraestructura-energia, regulacion]
 description: "Paraguay firmó con EE.UU. un memorándum de energía nuclear civil, no un Acuerdo 123. Qué incluye, qué no y por qué el primer reactor aún queda muy lejos."
 schema_type: TechArticle

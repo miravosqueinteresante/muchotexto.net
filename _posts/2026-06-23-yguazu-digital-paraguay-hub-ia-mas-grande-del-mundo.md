@@ -5,6 +5,7 @@ date: 2026-06-23
 last_modified_at: 2026-09-23
 categories: articulos
 pilar: 1
+resumen: "El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M."
 tags: infraestructura-energia ia-paraguay
 description: "Fase I: 10 MW y $200M. Fase III: 1 GW y $40.000M. Paraguay y Taiwán anunciaron uno de los centros de IA más ambiciosos del planeta. ¿Es viable o es un…"
 ---

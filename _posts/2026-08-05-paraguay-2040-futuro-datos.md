@@ -5,6 +5,7 @@ date: 2026-08-05 14:00:00 -0300
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 1
+resumen: "Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década."
 tags: [paraguay-futuro, prospectiva, infraestructura-energia, tech-ecosistema, desarrollo]
 description: "Paraguay tiene energia limpia, una poblacion joven y 943,8 MW de potencia reservada para data centers. Que puede pasar si en los proximos 15 anos toma las…"
 ---

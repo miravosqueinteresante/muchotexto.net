@@ -5,6 +5,7 @@ date: 2026-07-17
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?"
 tags: tech-ecosistema ia-paraguay
 description: "Asunción tiene 2.5 millones de habitantes y cero smart cities. Medellín hizo un metrocable por USD 26M. Santiago tiene 2.000 buses eléctricos. ¿Qué falta?"
 ---

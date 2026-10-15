@@ -5,6 +5,7 @@ date: 2026-05-18
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "La Ley 7572 reconoce instrumentos en blockchain."
 tags: tech-ecosistema
 description: "La Ley 7572 abre la puerta a tokenizar soja, ganado y tierras en blockchain. Lo que la tokenización del agro significa para Paraguay."
 ---

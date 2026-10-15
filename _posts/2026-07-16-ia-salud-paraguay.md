@@ -5,6 +5,7 @@ date: 2026-07-16
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 3
+resumen: "Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales."
 tags: sociedad-trabajo ia-paraguay
 description: "Paraguay tiene telemedicina nacional desde 2013 con más de un millón de diagnósticos. La inteligencia artificial todavía no llegó a sus hospitales."
 ---

@@ -5,6 +5,7 @@ date: 2026-05-16
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 2
+resumen: "El cofundador de Palantir se reunió con Santiago Peña en Mburuvicha Róga."
 tags: geopolitica-regulacion ia-paraguay
 description: "Peter Thiel se reunió con Santiago Peña en Mburuvicha Róga. ¿Qué busca uno de los hombres más ricos de Silicon Valley en Paraguay?"
 ---

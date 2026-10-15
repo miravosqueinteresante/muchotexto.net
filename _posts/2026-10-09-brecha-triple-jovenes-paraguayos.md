@@ -5,6 +5,7 @@ date: 2026-10-09 09:00:00 -0300
 last_modified_at: 2026-10-09
 categories: [articulos]
 pilar: 3
+resumen: "La Encuesta Regional 2026 de Capaser y Zabe relevó cinco barreras de empleabilidad; las tres más ligadas a la economía digital son experiencia práctica (53,3%), inglés (53%) y habilidades digitales e IA (40%)."
 tags: [empleo, educacion, talento, generacion-z, ia-sociedad-trabajo]
 description: "La Encuesta Regional 2026 de Capaser y Zabe revela las barreras de la Generación Z paraguaya: experiencia práctica, inglés y habilidades digitales."
 schema_type: NewsArticle

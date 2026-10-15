@@ -5,6 +5,7 @@ date: 2026-10-02 09:00:00 -0300
 last_modified_at: 2026-10-02
 categories: [articulos]
 pilar: 1
+resumen: "La británica Atome rescindió su contrato con la ANDE sin haber construido nada en Villeta desde 2022. Los USD 665 millones eran inversión proyectada, no desembolsada; el conflicto era tarifario y su salida libera 145 MW."
 tags: [energia, tarifa, amoniaco-verde, hidrogeno, ande, inversion]
 description: "Atome rescindió su contrato con la ANDE y amenaza con arbitraje. La 'inversión' de USD 665 millones nunca se materializó: ni un ladrillo desde 2022."
 schema_type: NewsArticle

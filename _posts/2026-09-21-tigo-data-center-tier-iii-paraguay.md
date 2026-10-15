@@ -5,6 +5,7 @@ date: 2026-09-21 10:00:00 -0300
 last_modified_at: 2026-09-21
 categories: [articulos]
 pilar: 1
+resumen: "El único data center Tier III de un operador privado está en Villa Elisa, es de Tigo y opera desde 2016. Sobre él corre la nube global (Netflix, Google) mientras los megaproyectos de IA siguen en anuncios."
 tags: [data-centers, tigo, infraestructura, energia-paraguay, tier-iii]
 description: "El único data center Tier III de un operador privado en Paraguay opera en Villa Elisa desde 2016. Sobre él corre la nube global."
 schema_type: TechArticle

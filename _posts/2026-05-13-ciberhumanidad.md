@@ -5,6 +5,7 @@ date: 2026-05-13
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 5
+resumen: "Cómo la tecnología fragmenta nuestra atención, relaciones e identidad."
 tags: cultura-filosofia ia-paraguay
 description: "Vivimos la era más conectada de la historia y también la más solitaria. Cómo la tecnología fragmenta nuestra atención, relaciones e identidad."
 ---

@@ -5,6 +5,7 @@ date: 2026-07-25
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW."
 tags: tech-ecosistema ia-paraguay infraestructura-energia paraguay ia
 description: "Paraguay atrae data centers con energía barata, pero el hardware es 100% importado y los empleos directos son menos de 1 por MW. El valor está en otro lado."
 ---

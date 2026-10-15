@@ -5,6 +5,7 @@ date: 2026-07-09
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 2
+resumen: "Paraguay es el último país de Sudamérica que reconoce a Taiwán."
 tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay es el último país de Sudamérica que reconoce a Taiwán. 69 años de relaciones, USD 400M en préstamos y un data center de por medio."
 ---

@@ -5,6 +5,7 @@ date: 2026-07-16
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 2
+resumen: "Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?"
 tags: geopolitica-regulacion ia-paraguay
 description: "Cada país debería tener su propia IA, dice Jensen Huang. Paraguay tiene GPU, datos y un idioma que ningún modelo habla. ¿Soberanía o marketing?"
 ---

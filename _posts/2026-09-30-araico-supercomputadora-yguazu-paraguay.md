@@ -5,6 +5,7 @@ date: 2026-09-30 09:00:00 -0300
 last_modified_at: 2026-10-02
 categories: [articulos]
 pilar: 1
+resumen: "ARAICO, empresa privada incorporada en EE.UU., proyecta un campus de data centers de IA de 1,3 GW en Yguazú con USD 12.000 millones anunciados. La etiqueta de \"supercomputadora más avanzada de América Latina\" no resiste contra el ranking TOP500, y \"dejar de vender energía a Brasil\" contradice la aritmética del excedente."
 tags: [infraestructura-energia, data-centers, ia-paraguay, yguazu]
 description: "ARAICO promete un campus de IA de 1,3 GW en Yguazú con USD 12.000 millones anunciados. La promesa más ambiciosa del sector y la menos verificada."
 schema_type: TechArticle

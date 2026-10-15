@@ -5,6 +5,7 @@ date: 2026-07-31 18:00:00 -0300
 last_modified_at: 2026-09-23
 categories: articulos
 pilar: 2
+resumen: "HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos."
 tags: [geopolitica-regulacion, infraestructura-energia, tech-ecosistema, inversion, silicon-valley]
 description: "Paraguay tiene la electricidad más barata de Sudamérica. HIVE Digital ya invirtió USD 56M y opera 300 MW. Pero el resto de Silicon Valley todavía no se decide…"
 ---

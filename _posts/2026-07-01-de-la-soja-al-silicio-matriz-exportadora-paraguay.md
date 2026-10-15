@@ -5,6 +5,7 @@ date: 2026-07-01
 last_modified_at: 2026-09-23
 categories: articulos
 pilar: 3
+resumen: "Cinco países hicieron el salto de materias primas a tecnología."
 tags: tech-ecosistema paraguay-futuro
 description: "El 42% de las exportaciones de Paraguay es soja. El 31% va a Brasil. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Tiene Paraguay lo…"
 ---

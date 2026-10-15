@@ -261,7 +261,7 @@ def iter_pilar_articles(yaml):
         title = str(data.get("title", "")).strip()
         if not isinstance(pilar, int) or pilar not in PILARES or not url or not title:
             continue
-        yield pilar, os.path.basename(path)[:-3], title, str(data.get("description", "")).strip(), url
+        yield pilar, os.path.basename(path)[:-3], title, str(data.get("resumen", "")).strip(), url
 
 
 def build_llms(yaml):

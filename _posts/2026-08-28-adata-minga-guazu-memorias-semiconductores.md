@@ -5,6 +5,7 @@ date: 2026-08-28 06:00:00 -0300
 last_modified_at: 2026-08-28
 categories: articulos
 pilar: 4
+resumen: "El 2.º fabricante mundial de memorias DRAM explora una planta de ensamblaje en Minga Guazú: maquila (Ley 7547), ensamblaje (7546), regla de origen del Mercosur (60% hasta 2038) y la tarifa que falta definir."
 tags: [tech-ecosistema, taiwan, infraestructura-energia, politica-energetica, fabricacion]
 description: "ADATA, 2.º fabricante mundial de memorias DRAM, evalúa una planta de ensamblaje en Minga Guazú y qué significa para la cadena de semiconductores."
 ---

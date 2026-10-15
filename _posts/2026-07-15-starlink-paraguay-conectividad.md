@@ -5,6 +5,7 @@ date: 2026-07-15 21:00:00 -0400
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 3
+resumen: "Starlink opera en Paraguay desde 2023. Mil seiscientas antenas en escuelas rurales, 20.000 usuarios y una pregunta: ¿basta con conectar?"
 tags: sociedad-trabajo ia-paraguay
 description: "Starlink ya suma casi 20.000 usuarios en Paraguay, mayoría rurales. El gobierno donó 1.600 antenas a escuelas. ¿Alcanza con conectar?"
 ---

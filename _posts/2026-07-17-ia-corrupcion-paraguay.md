@@ -5,6 +5,7 @@ date: 2026-07-17
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 3
+resumen: "Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA."
 tags: sociedad-trabajo ia-paraguay
 description: "Brasil tiene ALICE, IA que detecta anomalías en licitaciones desde 2015. Paraguay tiene 24/100 en Transparencia Internacional y compras públicas sin auditar."
 ---

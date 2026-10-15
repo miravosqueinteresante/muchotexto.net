@@ -5,6 +5,7 @@ date: 2026-10-15 09:00:00 -0300
 last_modified_at: 2026-10-15
 categories: [articulos]
 pilar: 4
+resumen: "Conatel adjudicó en la segunda licitación 100 MHz a Tigo (2.300 MHz) y 100 MHz a Personal (3.700 MHz) sin puja. Solo Claro tiene 5G operativo (desde diciembre de 2025); Tigo y Personal deben encender su primera radiobase hacia febrero de 2027."
 tags: [telecomunicaciones, 5g, conectividad, economia-digital]
 description: "Conatel adjudicó 100 MHz a Tigo (2.300 MHz) y a Personal (3.700 MHz) sin puja. Solo Claro tiene 5G operativo, y el país va años atrás de la región."
 schema_type: NewsArticle

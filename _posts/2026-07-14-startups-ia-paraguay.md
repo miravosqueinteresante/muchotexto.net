@@ -5,6 +5,7 @@ date: 2026-07-14
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "El ecosistema startup de IA en Paraguay: USD 3.9M en inversión en 2025, Autograph, KOGA y lo que falta."
 tags: tech-ecosistema ia-paraguay
 description: "Paraguay registró un récord de USD 3.75M en inversión startup en 2025. También entró al Top 100 global de ecosistemas. Pero casi nadie sabe que existen."
 ---

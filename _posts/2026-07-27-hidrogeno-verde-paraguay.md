@@ -5,6 +5,7 @@ date: 2026-07-27
 last_modified_at: 2026-09-23
 categories: articulos
 pilar: 1
+resumen: "La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales."
 tags: infraestructura-energia ia-paraguay paraguay ia
 description: "Paraguay podría producir hidrógeno verde a USD 1,5/kg, entre los más baratos de Sudamérica. Pero sin puerto ni proyectos en ejecución, la oportunidad sigue en el papel."
 ---

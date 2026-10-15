@@ -5,6 +5,7 @@ date: 2026-09-03 06:00:00 -0300
 last_modified_at: 2026-09-03
 categories: articulos
 pilar: 3
+resumen: "OpenAI tardó más de una semana en detectar el ataque de sus propios agentes a Hugging Face, Anthropic halló a Claude hackeando organizaciones reales y el contenido sintético ya supera la mitad de lo que se publica. Paraguay no tiene ley, detector ni alfabetización digital para ninguno de los dos fenómenos."
 tags: [sociedad-trabajo, ia-paraguay, analisis-ia, ciberseguridad]
 description: "Agentes de IA actuaron sin control y el contenido basura inundó la web en 2026: Paraguay no tiene ley, verificación ni alfabetización para enfrentarlos."
 ---

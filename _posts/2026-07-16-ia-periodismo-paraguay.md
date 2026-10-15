@@ -5,6 +5,7 @@ date: 2026-07-16
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas y Brasil prohibió la IA en campañas."
 tags: tech-ecosistema ia-paraguay
 description: "Paraguay no tiene fact-checking ni regula deepfakes. Argentina perdió 1.550 periodistas, Brasil prohibió la IA en campañas."
 ---

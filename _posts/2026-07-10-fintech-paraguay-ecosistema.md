@@ -5,6 +5,7 @@ date: 2026-07-10
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "El ecosistema fintech paraguayo, las leyes 7503 y 7572, y la inclusión financiera."
 tags: tech-ecosistema
 description: "Paraguay tiene 100 fintechs, 17 bancos y el 39% de los adultos sin cuenta. El ecosistema crece al 40% anual y recién empieza."
 ---

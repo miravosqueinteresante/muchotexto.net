@@ -5,6 +5,7 @@ date: 2026-06-23
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 5
+resumen: "USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol."
 tags: cultura-filosofia ia-paraguay
 description: "Sportian, Oura, scouting con machine learning y un centro de entrenamiento de 200 acres. USA no llegó al Mundial 2026 a competir: llegó a demostrar que los…"
 ---

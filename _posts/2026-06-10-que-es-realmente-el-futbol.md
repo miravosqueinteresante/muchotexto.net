@@ -5,6 +5,7 @@ date: 2026-06-10
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 5
+resumen: "Un ensayo filosófico sobre el fútbol: deporte, religión, guerra e idioma, desde Eduardo Galeano hasta el Mundial 2026."
 tags: cultura-filosofia
 description: "¿Es el fútbol un deporte, una religión o un espejo de la sociedad? Una reflexión filosófica sobre el juego más popular del mundo, desde Galeano hasta el…"
 ---

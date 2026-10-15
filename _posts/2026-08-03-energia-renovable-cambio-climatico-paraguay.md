@@ -5,6 +5,7 @@ date: 2026-08-03 23:00:00 -0300
 last_modified_at: 2026-09-23
 categories: articulos
 pilar: 1
+resumen: "El 99.9% de la electricidad es renovable pero el 97% depende de dos represas en una sola cuenca. Sin diversificación solar ni eólica."
 tags: [infraestructura-energia, paraguay-futuro, cambio-climatico, itaipu, deforestacion]
 description: "Paraguay genera el 99.9% de su electricidad con fuentes renovables. Pero 97% depende de dos represas, perdió 6.3M de hectáreas de bosque y no tiene plan de…"
 ---

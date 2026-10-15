@@ -5,6 +5,7 @@ date: 2026-08-19 12:00:00 -0300
 last_modified_at: 2026-08-19
 categories: articulos
 pilar: 1
+resumen: "La consultora brasileña PSR propone separar el sector en tres piezas: ministerio, ente regulador y una ANDE enfocada. El documento omite seis asuntos decisivos, desde las tarifas hasta el rol de Itaipú y Yacyretá."
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
 description: "La consultora brasileña PSR propone separar el sector eléctrico de Paraguay en ministerio, ente regulador y una ANDE enfocada. Qué dice y qué omite."
 ---

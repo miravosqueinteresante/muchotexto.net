@@ -5,6 +5,7 @@ date: 2026-08-12 12:00:00 -0300
 last_modified_at: 2026-08-18
 categories: articulos
 pilar: 1
+resumen: "La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico."
 tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucionalidad, ande]
 description: "Paraguay aprobó en 2024 una política energética al 2050 con 95 objetivos y 385 metas, incluido un ministerio que debía existir ese año. Sigue sin existir…"
 ---

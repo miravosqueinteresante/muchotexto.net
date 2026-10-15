@@ -5,6 +5,7 @@ date: 2026-07-13
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "Menos del 5% de las fincas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil."
 tags: tech-ecosistema
 description: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Mientras Brasil tiene 1.600 agtechs y Argentina 400, Paraguay apenas suma 14 startups."
 ---

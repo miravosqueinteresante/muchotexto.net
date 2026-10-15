@@ -5,6 +5,7 @@ date: 2026-09-16 12:00:00 -0300
 last_modified_at: 2026-09-16
 categories: [articulos]
 pilar: 1
+resumen: "41 empresas del GCIE concentran 943,8 MW y 5.465 GWh de consumo, pero las condiciones individuales de cada contrato no son públicas. Decretos derogados, renuncia de Félix Sosa y un arbitraje de Atome en el CIADI."
 tags: [transparencia, tarifas-ande, gcie, data-centers, energia-paraguay]
 description: "943 MW de criptominería bajo contrato secreto en la ANDE. Tarifas, decretos derogados y una renuncia que la empresa no quiere explicar."
 schema_type: TechArticle

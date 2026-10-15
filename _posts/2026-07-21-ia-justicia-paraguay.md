@@ -5,6 +5,7 @@ date: 2026-07-21
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 4
+resumen: "El país digitalizó sus 18 jurisdicciones pero ningún tribunal usa IA. Qué puede aprender de COMPAS, Prometea y VICTOR."
 tags: tech-ecosistema ia-paraguay paraguay ia
 description: "Paraguay digitalizó sus tribunales pero todavía no usa inteligencia artificial. Qué puede aprender de COMPAS, Prometea y VICTOR."
 ---

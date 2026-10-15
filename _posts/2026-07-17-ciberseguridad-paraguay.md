@@ -5,6 +5,7 @@ date: 2026-07-17
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 2
+resumen: "CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros."
 tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay tiene CERT-PY desde 2012 y ratificó el Convenio de Budapest. Pero en 2024 hackers chinos infiltraron el gobierno y en 2025 un ciberataque expuso 7,4…"
 ---

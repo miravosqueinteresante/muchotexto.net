@@ -5,6 +5,7 @@ date: 2026-09-25 09:00:00 -0300
 last_modified_at: 2026-09-25
 categories: [articulos]
 pilar: 2
+resumen: "La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria) en unos tres meses. No es la más barata, pero sí la más directa de la región."
 tags: [geopolitica, regulacion, migracion, inversion-extranjera, paraguay]
 description: "El Investor Pass da residencia permanente por inversión desde USD 70.000 en unos tres meses. No es la más barata, pero sí la más directa de la región."
 schema_type: TechArticle

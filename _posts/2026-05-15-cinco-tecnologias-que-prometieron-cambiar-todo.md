@@ -5,6 +5,7 @@ date: 2026-05-15
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 5
+resumen: "Metaverso, NFTs, Hyperloop, Google Glass, Segway."
 tags: cultura-filosofia
 description: "Metaverso, NFTs, Hyperloop, Google Glass, Segway: cinco tecnologías que prometieron revolucionar el mundo y terminaron siendo promesas vacías."
 ---

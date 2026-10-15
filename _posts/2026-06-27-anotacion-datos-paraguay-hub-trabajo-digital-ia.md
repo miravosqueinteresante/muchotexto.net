@@ -5,6 +5,7 @@ date: 2026-06-27
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 3
+resumen: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos."
 tags: sociedad-trabajo ia-paraguay
 description: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos por centavos. ¿Puede Paraguay ser el hub de anotación de datos para IA?"
 ---

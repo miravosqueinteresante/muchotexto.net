@@ -5,6 +5,7 @@ date: 2026-08-04 12:00:00 -0300
 last_modified_at: 2026-10-02
 categories: articulos
 pilar: 1
+resumen: "HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles."
 tags: [infraestructura-energia, sociedad-trabajo, data-center, empleo, desarrollo-local]
 description: "HIVE Digital invirtió USD 56M en Yguazú y opera 300 MW. La comunidad recibió mejoras en escuelas y empleo temporal. Después, los beneficios se diluyen."
 ---
