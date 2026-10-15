@@ -31,13 +31,13 @@ Paraguay acaba de dar su segundo paso hacia el 5G, pero la distancia entre ese p
 > - La **segunda licitación 5G** (N.º 01/2026) adjudicó **100 MHz a Tigo** (2.300-2.400 MHz, USD 1,6 millones) y **100 MHz a Personal** (3.700-3.800 MHz, USD 1 millón), el 4 de agosto de 2026. **Sin puja**: bandas distintas, adjudicación directa.
 > - La **primera licitación** (2025) fue para **Claro** y **Nubicom** (200 MHz cada una en la banda de 3,5 GHz). De los cuatro con espectro, **solo Claro tiene 5G operativo**, desde diciembre de 2025.
 > - Tigo y Personal tienen plazo de **seis meses** (hacia febrero de 2027) para encender su primera radiobase, y **100 radiobases en cuatro años**, con una inversión conjunta proyectada de unos **USD 79 millones**.
-> - Paraguay va **atrasado**: sus vecinos subastaron 5G entre 2021 y 2023. En la región, la penetración 5G rondaba el **14%** en 2025.
+> - Paraguay va **atrasado**: sus vecinos subastaron 5G entre 2021 y 2023. En la región, la adopción 5G seguía en etapa temprana: a fines de 2024 solo cuatro países superaban los dos dígitos.
 
 ## La subasta que no fue subasta
 
 La licitación N.º 01/2026 se resolvió, en la práctica, sin competencia. Según la cobertura de la adjudicación, **Tigo (Telecel S.A.E.)** ofertó por el bloque de **2.300-2.400 MHz** y **Personal (Núcleo S.A.)** por el de **3.700-3.800 MHz**. Al ser bandas distintas, no hubo una puja entre ellos por el mismo espectro: cada uno se quedó con lo que pidió. Los montos reflejan ese carácter no recaudatorio: **Tigo pagó USD 1,6 millones** y **Personal USD 1 millón**, cifras modestas para 100 MHz cada una.
 
-La adjudicación formal data del **4 de agosto de 2026**, aunque Conatel lo comunicó el 6. Con las dos licitaciones completas, el espectro 5G de Paraguay quedó repartido entre cuatro operadores: **Claro** y **Nubicom** (de la primera, en 3,5 GHz) y **Tigo** y **Personal** (de la segunda). Las dos bandas ofrecidas esta vez quedaron adjudicadas: nada quedó desierto.
+La adjudicación formal data del **4 de agosto de 2026** (licencias publicadas por Conatel el 5). Con las dos licitaciones completas, el espectro 5G de Paraguay quedó repartido entre cuatro operadores: **Claro** y **Nubicom** (de la primera, en 3,5 GHz) y **Tigo** y **Personal** (de la segunda). Las dos bandas ofrecidas esta vez quedaron adjudicadas: nada quedó desierto.
 
 ## El mapa del espectro: cuatro operadores, una sola red
 
@@ -57,7 +57,7 @@ La de **Tigo, de 2.300-2.400 MHz, es la banda n40**, media-baja, heredada del LT
 
 La segunda licitación llega tarde. Los vecinos de la región subastaron 5G entre **2021 y 2023**: Chile en febrero de 2021, Brasil en noviembre de 2021, Uruguay en mayo de 2023 y Argentina en octubre de 2023, todos con la banda de 3,5 GHz como eje. Brasil fue el único que además adjudicó 2,3 GHz, y como banda secundaria. Paraguay recién ahora completa su espectro, con la particularidad de usar 2,3 GHz como banda principal para un operador.
 
-El resultado se mide en los rankings. La GSMA estimaba para 2025 una **penetración 5G de alrededor del 14% de las conexiones** en América Latina, con más de 30 operadores en 13 países. Paraguay todavía no aparece medido por GSMA ni por Ookla en 5G. En velocidad móvil, el índice global de Ookla (Speedtest) ubicaba a Paraguay en torno a los **27 Mbps —puesto 98 a nivel mundial—**, mientras su fibra óptica ronda los 115 Mbps (puesto 51-52). El eslabón débil es justamente el móvil, y es el que el 5G debería atacar.
+El resultado se mide en los rankings. La GSMA reportaba para la región más de 30 operadores 5G en 13 países, aunque la adopción seguía en etapa temprana: a fines de 2024, solo cuatro mercados superaban los dos dígitos —Chile (25%), Brasil (14%), República Dominicana (11%) y México (11%)—. Paraguay todavía no aparece medido por GSMA ni por Ookla en 5G. Ese es el punto de partida: un país que recién completa su espectro mientras los líderes regionales ya lo desplegaron hace años.
 
 ## Qué cambia de verdad (y qué no)
 
@@ -93,7 +93,7 @@ La pregunta no es si Paraguay tendrá 5G —lo tendrá—, sino con qué velocid
       "name": "¿Paraguay va atrasado en 5G respecto a la región?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sí. Los países vecinos subastaron 5G entre 2021 y 2023 (Chile, Brasil, Uruguay, Argentina), mientras Paraguay completó su espectro recién en 2026. En 2025, la penetración 5G en América Latina rondaba el 14% de las conexiones, y Paraguay aún no aparece medido por GSMA ni Ookla."
+        "text": "Sí. Los países vecinos subastaron 5G entre 2021 y 2023 (Chile, Brasil, Uruguay, Argentina), mientras Paraguay completó su espectro recién en 2026. A fines de 2024, la adopción 5G en América Latina seguía en etapa temprana (solo cuatro países superaban los dos dígitos), y Paraguay aún no aparece medido por GSMA ni Ookla."
       }
     }
   ]
@@ -109,9 +109,9 @@ La pregunta no es si Paraguay tendrá 5G —lo tendrá—, sino con qué velocid
 4. [MobileTime — "Nokia y Claro: red 5G de Paraguay" (18-dic-2025)](https://mobiletime.la/noticias/18/12/2025/nokia-y-claro-red-5g-de-paraguay/)
 5. [GSMA — Mobile Economy Latin America 2025](https://www.gsma.com/about-us/regions/latin-america-and-the-caribbean/gsma_resources/mobile-economy-latam2025/)
 6. [Ookla — "5G in Latin America: Pockets of Progress" (ene-2026)](https://www.ookla.com/articles/5g-in-latin-america-pockets-of-progress)
-7. [Ookla — Speedtest Global Index (Paraguay)](https://www.speedtest.net/global-index/paraguay)
+7. [Convergencia — "Paraguay: Claro lanzó la primera red 5G con equipos de Nokia"](https://www.convergencia.com/a-diario-convergencia/paraguay-claro-lanzo-la-primera-red-5g-con-equipos-de-nokia/)
 8. [Conatel — Comisión Nacional de Telecomunicaciones](https://www.conatel.gov.py/)
 
-**Metodología y alcance:** este es un **análisis crítico de un proceso de adjudicación**, no un informe de verificación basado en archivos oficiales. La investigación está documentada en `research_5g/` (§5.8). Las cifras de la adjudicación (bandas 2.300-2.400 / 3.700-3.800 MHz, montos, operadores) se verificaron contra la cobertura especializada (DPL News, TeleSemana, MobileTime) y fuentes oficiales (Conatel). El dato de que "solo Claro tiene 5G operativo" es unánime en las fuentes consultadas. Las proyecciones de inversión (USD 79 millones, 250-500 radiobases) son estimaciones preliminares de los operadores, no desembolsos confirmados. La comparación regional usa datos de GSMA y Ookla. El vínculo entre 5G y data centers se presenta como indirecto, sin exagerar.
+**Metodología y alcance:** este es un **análisis crítico de un proceso de adjudicación**, no un informe de verificación basado en archivos oficiales. La investigación está documentada en `research_5g/` (§5.8). Las cifras de la adjudicación (bandas 2.300-2.400 / 3.700-3.800 MHz, montos, operadores) se verificaron contra la cobertura especializada (DPL News, TeleSemana, MobileTime) y fuentes oficiales (Conatel). El dato de que "solo Claro tiene 5G operativo" es unánime en las fuentes consultadas. Las proyecciones de inversión (USD 79 millones, 250-500 radiobases) son estimaciones preliminares de los operadores, no desembolsos confirmados. La comparación regional usa datos de GSMA (Mobile Economy LatAm 2025). El vínculo entre 5G y data centers se presenta como indirecto, sin exagerar.
 
 *Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net.*

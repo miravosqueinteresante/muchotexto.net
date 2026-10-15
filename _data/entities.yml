@@ -252,3 +252,24 @@
     en Silicon Valley (junio 2026) con el MIC, conectando el ecosistema tech
     paraguayo con inversores y empresas estadounidenses.
   category: comunidad
+
+- slug: conatel
+  name: Conatel
+  name_full: Comisión Nacional de Telecomunicaciones
+  description: >
+    Organismo regulador de las telecomunicaciones de Paraguay. Administra el
+    espectro radioeléctrico y adjudicó las licitaciones de 5G: la primera en
+    2025 (Claro y Nubicom) y la segunda en 2026 (Tigo y Personal). Regula la
+    conectividad del país, una de las patas del hub digital paraguayo.
+  category: gobierno
+
+- slug: tigo
+  name: Tigo
+  name_full: Tigo Paraguay (Telecel S.A.E.)
+  description: >
+    El mayor operador de telecomunicaciones de Paraguay. Opera el único data
+    center Tier III de un operador privado (Villa Elisa, desde 2016, sobre el
+    que corre BUZZ AI Cloud de HIVE) y ganó espectro 5G en 2.300-2.400 MHz en
+    la segunda licitación (2026). Actor clave de la conectividad y la
+    infraestructura digital del país.
+  category: empresa

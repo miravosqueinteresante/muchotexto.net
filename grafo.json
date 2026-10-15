@@ -139,6 +139,20 @@
       "name_full": "Cámara de Comercio Paraguayo-Americana",
       "category": "comunidad",
       "url": "/entidades/amcham/"
+    },
+    {
+      "slug": "conatel",
+      "name": "Conatel",
+      "name_full": "Comisión Nacional de Telecomunicaciones",
+      "category": "gobierno",
+      "url": "/entidades/conatel/"
+    },
+    {
+      "slug": "tigo",
+      "name": "Tigo",
+      "name_full": "Tigo Paraguay (Telecel S.A.E.)",
+      "category": "empresa",
+      "url": "/entidades/tigo/"
     }
   ],
   "edges": [
@@ -176,13 +190,13 @@
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Anexo C del Tratado de Itaipú"
+      "label": "Tarifa de Itaipú 2024-2026"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Tarifa de Itaipú 2024-2026"
+      "label": "Anexo C del Tratado de Itaipú"
     },
     {
       "source": "ande",
@@ -419,6 +433,12 @@
       "label": "Qué le pasa a una ciudad paraguaya cuando llega un data center"
     },
     {
+      "source": "starlink",
+      "target": "conatel",
+      "type": "articulo",
+      "label": "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
+    },
+    {
       "source": "peter-thiel",
       "target": "santiago-pena",
       "type": "articulo",
@@ -435,6 +455,18 @@
       "target": "universidad-nacional",
       "type": "articulo",
       "label": "El experimento paraguayo de Peter Thiel"
+    },
+    {
+      "source": "universidad-nacional",
+      "target": "tigo",
+      "type": "articulo",
+      "label": "El data center Tier III que Paraguay ya tiene hace una década"
+    },
+    {
+      "source": "conatel",
+      "target": "tigo",
+      "type": "articulo",
+      "label": "5G en Paraguay, espectro repartido y red encendida solo en Claro"
     }
   ]
 }
