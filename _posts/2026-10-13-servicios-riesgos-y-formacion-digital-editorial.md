@@ -3,6 +3,7 @@ layout: post
 title: "Servicios, riesgos y formación digital"
 description: "El Instituto de Previsión Social habilitó una nueva plataforma digital denominada Cartera de Servicios, diseñada para que los asegurados puedan localizar médicos, especialidades y centros hospitalarios."
 
+
 date: 2026-10-13 18:00:00 -0300
 last_modified_at: 2026-10-13
 categories: editorial
