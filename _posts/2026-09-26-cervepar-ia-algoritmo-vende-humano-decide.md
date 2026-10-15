@@ -141,7 +141,7 @@ Lo que falta es lo que casi siempre falta en el relato de IA en Paraguay: **la p
 21. [Yalo — Caso Profarco (PROFY)](https://www.yalo.ai/)
 22. [Forbes Paraguay — Coca-Cola Paresa y el ruteo algorítmico (1-abr-2025)](https://www.forbes.com.py/)
 23. [ABC Color — "En Paraguay, 5 de cada 10 empresas usa IA para selección de personal" (8-mar-2026)](https://www.abc.com.py/negocios/2026/03/08/en-paraguay-5-de-cada-10-empresas-usa-ia-para-seleccion-de-personal/)
-24. [Cervepar — "En el Día Internacional de la Cerveza…" (18-ago-2026)](https://cervepar.com.py/index.php/2026/08/18/en-el-dia-internacional-de-la-cerveza-cervepar-festeja-con-orgullo-nacional-y-calidad-mundial/)
+24. [Cervepar — "En el Día Internacional de la Cerveza…" (18-ago-2026)](https://web.archive.org/web/2026/https://cervepar.com.py/index.php/2026/08/18/en-el-dia-internacional-de-la-cerveza-cervepar-festeja-con-orgullo-nacional-y-calidad-mundial/)
 25. [Revista PLUS — Entrevista a Santiago Galliano, gerente general de Cervepar (16-ene-2025)](https://revistaplus.com.py/2025/01/16/santiago-galliano-cervepar-es-un-puente-entre-paraguay-y-el-mundo/)
 
 **Metodología:** Artículo elaborado con la investigación de agentes de búsqueda (§5.8) documentada en `research_cervepar/`, auditable paso a paso. La distinción entre la plataforma global BEES y su operación local por Cervepar se verificó contra fuentes de AB InBev y prensa paraguaya. Las cifras migratorias y fiscales no aplican aquí; los datos de adopción de IA se contrastaron contra el ILIA 2025. Los superlativos ("pionera", "la primera") se verificaron contra el universo de casos documentados en Paraguay, no solo contra la muestra citada.

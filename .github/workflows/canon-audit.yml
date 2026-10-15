@@ -1,0 +1,50 @@
+name: Auditoría de caducidad del canon
+
+on:
+  schedule:
+    - cron: '0 13 1 * *'   # 1er día de cada mes, 13:00 UTC (09:00 PYT)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar PyYAML
+        run: pip install pyyaml
+
+      - name: Auditar canon
+        id: audit
+        run: python scripts/audit_canon.py --json > canon_audit.json
+        continue-on-error: true
+
+      - name: Abrir issue si hay claims vencidos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json, subprocess
+          d = json.load(open('canon_audit.json'))
+          v = d.get('vencidos', [])
+          if not v:
+              print("Sin claims vencidos.")
+              raise SystemExit(0)
+          body = "\n".join(
+              f"- [{c['categoria']}] `{c['id']}` — vencido hace {c['dias_vencido']} días\n"
+              f"  fuente: {c['fuente']}"
+              for c in v
+          )
+          title = f"Canon: {len(v)} claim(s) por re-verificar"
+          subprocess.run(["gh", "issue", "create", "--title", title, "--body", body], check=True)
+          PY

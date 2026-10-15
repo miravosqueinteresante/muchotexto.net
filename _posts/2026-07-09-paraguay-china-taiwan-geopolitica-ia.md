@@ -60,9 +60,9 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
 
 ## Fuentes
 
-- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwán-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
+- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwan-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
 - [The Economist — "The lonely road: Paraguay holds out against China"](https://www.economist.com/the-americas/2024/05/02/paraguay-holds-out-against-china) (2 mayo 2024)
-- [New York Times — "China Is Winning in Latin America. One Country Is Holding Out."](https://www.nytimes.com/2025/05/14/world/americas/paraguay-china-Taiwán.html) (14 mayo 2025)
+- [New York Times — "China Is Winning in Latin America. One Country Is Holding Out."](https://www.nytimes.com/2025/05/14/world/americas/paraguay-china-Taiwan.html) (14 mayo 2025)
 - [ABC Color — "Cancillería intima a 'ministro' chino a abandonar Paraguay"](https://www.abc.com.py/politica/2024/12/05/cancilleria-intima-a-ministro-chino-a-abandonar-paraguay/) (5 diciembre 2024)
 - [El País — "Paraguay, clave geopolítica en la disputa entre China y Taiwán"](https://elpais.com/america/2025-07-31/paraguay-clave-geopolitica.html) (31 julio 2025)
 - [Asunción Times — "Taiwán and Paraguay: AI data center deal"](https://asunciontimes.com/paraguay-news/international-news/president-santiago-pena-paraguay-to-build-one-of-worlds-largest-ai-data-centres/) (8 mayo 2026)

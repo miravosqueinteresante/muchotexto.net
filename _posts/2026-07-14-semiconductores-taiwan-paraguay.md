@@ -93,8 +93,8 @@ Leé la guía completa de geopolítica tecnológica en la [guía de inteligencia
 - [Wikipedia — CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act) — subsidios, adjudicaciones, empresa por empresa
 - [Wikipedia — United States sanctions against China](https://en.wikipedia.org/wiki/United_States_sanctions_against_China) — controles de exportación de semiconductores
 - [Wikipedia — Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry) — concentración geográfica, costos de fabricación
-- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwán-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
-- [Bloomberg — "Taiwán's Chipmaker Lobby Goes Global"](https://www.bloomberg.com/news/articles/2026-01-20/Taiwán-s-chipmaker-lobby-goes-global) (enero 2026)
+- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwan-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
+- [Bloomberg — "Taiwán's Chipmaker Lobby Goes Global"](https://www.bloomberg.com/news/articles/2026-01-20/Taiwan-s-chipmaker-lobby-goes-global) (enero 2026)
 - [CSIS — "Taiwan's Semiconductor Dominance: Implications for Cross-Strait Relations"](https://www.csis.org/blogs/perspectives-innovation/taiwans-semiconductor-dominance-implications-cross-strait-relations) (marzo 2022)
 - [Foreign Policy — "Taiwan's Government Is Scared of Its Own Semiconductor Giant"](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) (3 noviembre 2025)
 - White House — "Pax Silica: Building Trusted Technology Supply Chains" (15 septiembre 2025)
