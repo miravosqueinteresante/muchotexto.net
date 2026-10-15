@@ -285,6 +285,24 @@ def check_llms_titles():
     return findings
 
 
+def check_posts_faq():
+    """Articulos de analisis sin FAQ schema (JSON-LD FAQPage)."""
+    findings = []
+    for full in analysis_posts():
+        if "FAQPage" not in read(os.path.join(REPO, "_posts", full + ".md")):
+            findings.append(full)
+    return findings
+
+
+def check_posts_pillar_link():
+    """Articulos de analisis sin enlace a la pagina pilar."""
+    findings = []
+    for full in analysis_posts():
+        if "/ia-en-paraguay/" not in read(os.path.join(REPO, "_posts", full + ".md")):
+            findings.append(full)
+    return findings
+
+
 def parse_named_url_yaml(path, key="name"):
     """Extrae un set de (name, url) de un YAML de lista simple."""
     items = []
@@ -544,6 +562,14 @@ def main():
             f"[INV-17] llms.txt: enlace '{anchor}' no coincide con "
             f"el title del post '{title}' ({slug})"
         )
+
+    # INV-18: todo analisis lleva FAQ schema (JSON-LD FAQPage)
+    for slug in check_posts_faq():
+        errors.append(f"[INV-18] '{slug}': falta FAQ schema (FAQPage)")
+
+    # INV-19: todo analisis enlaza a la pagina pilar
+    for slug in check_posts_pillar_link():
+        errors.append(f"[INV-19] '{slug}': falta enlace a /ia-en-paraguay/")
 
     # INV-9: _data/fuentes.yml == fallback inline de pulso_diario.py
     yml_feeds = parse_named_url_yaml(os.path.join(REPO, "_data/fuentes.yml"))
