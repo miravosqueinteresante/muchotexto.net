@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Paraguay vs. Australia en el Mundial — 25 de junio de 2026"
+title: "Pulso Paraguay: Paraguay vs. Australia en."
 description: "Paraguay vs. Australia en el Mundial: El partido decisivo para avanzar a los dieciseisavos genera gran expectativa en el país. Pulso Tech Paraguay — 25 de…"
 
 

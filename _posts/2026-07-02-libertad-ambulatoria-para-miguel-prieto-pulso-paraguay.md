@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Libertad ambulatoria para Miguel Prieto — 2 de julio de 2026"
+title: "Pulso Paraguay: Libertad ambulatoria para."
 description: "Libertad ambulatoria para Miguel Prieto: Este tema ha generado un alto volumen de conversación debido a la relevancia del caso en la actualidad política…"
 
 

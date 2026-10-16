@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🌐 INFRAESTRUCTURA DIGITAL — 6 de octubre de 2026"
+title: "Infraestructura digital | Pulso Tech"
 description: "PULSO TECH PARAGUAY MARTES 6 de octubre de 2026 Ultima actualizacion: 15:05 🌐 INFRAESTRUCTURA DIGITAL Finlandia ordena frenar talas en centros de datos de..."
 date: 2026-10-06
 last_modified_at: 2026-10-06

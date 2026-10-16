@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seguridad y elecciones, una conexión clave — Editorial 17 de julio de 2026"
+title: "Seguridad y elecciones, una conexión clave"
 description: "La detención de un presunto organizador de asaltos en Asunción ha puesto en evidencia la creciente preocupación por la seguridad en Paraguay."
 
 

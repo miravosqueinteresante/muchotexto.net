@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Celebración e identidad nacional: ¿qué nos dice el fútbol sobre el Paraguay contemporáneo? — Editorial 20 de junio de 2026"
+title: "Fútbol e identidad nacional en Paraguay"
 description: "La Albirroja ganó y el país estalló. En el sentido más literal del término. Desde el histórico triunfo ante Turquía, Paraguay vive un paroxismo colectivo...."
 date: 2026-06-20 18:00:00 -0400
 last_modified_at: 2026-06-20

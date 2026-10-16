@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 18 de setiembre de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY VIERNES 18 de setiembre de 2026 Ultima actualizacion: 16:30 🤖 INTELIGENCIA ARTIFICIAL Preocupación por brecha digital en Paraguay..."
 date: 2026-09-18
 last_modified_at: 2026-09-18

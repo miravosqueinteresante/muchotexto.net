@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: La mafia de los pagarés — 21 de junio de 2026"
+title: "Pulso Paraguay: La mafia de los pagarés"
 description: "La mafia de los pagarés: La denuncia sobre la mafia de los pagarés ha generado un gran revuelo social, evidenciando la preocupación por la corrupción y la…"
 
 

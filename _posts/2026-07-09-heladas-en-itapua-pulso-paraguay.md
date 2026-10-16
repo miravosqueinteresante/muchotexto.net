@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Heladas en Itapúa — 9 de julio de 2026"
+title: "Pulso Paraguay: Heladas en Itapúa"
 description: "Heladas en Itapúa: Las heladas han impactado la producción agrícola en Itapúa, generando preocupación entre los productores. Pulso Tech Paraguay — 9 de julio…"
 
 

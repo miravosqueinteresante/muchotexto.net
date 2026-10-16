@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🌐 INFRAESTRUCTURA DIGITAL — 19 de setiembre de 2026"
+title: "Infraestructura digital | Pulso Tech"
 description: "PULSO TECH PARAGUAY SÁBADO 19 de setiembre de 2026 Ultima actualizacion: 16:30 🌐 INFRAESTRUCTURA DIGITAL Actualización de trámites digitales en el Siara..."
 date: 2026-09-19
 last_modified_at: 2026-09-19

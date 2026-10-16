@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: ⚡ ENERGIA Y DATA CENTERS — 7 de agosto de 2026"
+title: "Energía y data centers | Pulso Tech"
 description: "PULSO TECH PARAGUAY VIERNES 7 de agosto de 2026 Ultima actualizacion: 10:09 ⚡ ENERGIA Y DATA CENTERS Paraguay como hub regional para la Inteligencia..."
 date: 2026-08-07
 last_modified_at: 2026-08-07

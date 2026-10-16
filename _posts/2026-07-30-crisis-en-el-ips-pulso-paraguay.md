@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis en el IPS — 30 de julio de 2026"
+title: "Pulso Paraguay: Crisis en el IPS"
 description: "Crisis en el IPS: La situación del Instituto de Previsión Social genera un fuerte debate en la sociedad, especialmente por la falta de medicamentos y el trato…"
 
 

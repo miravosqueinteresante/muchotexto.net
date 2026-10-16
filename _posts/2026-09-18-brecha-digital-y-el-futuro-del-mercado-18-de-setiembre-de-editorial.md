@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Brecha digital y el futuro del mercado, 18 de setiembre de 2026 — Editorial 18/09/2026"
-description: "La jornada de hoy presenta una tensión clara entre la adopción de tecnologías de alto rendimiento y la preocupación por el impacto social que estas generan en Paraguay."
+title: "Brecha digital y el futuro del mercado."
+description: "La jornada de hoy presenta una tensión clara entre la adopción de tecnologías de alto rendimiento y la preocupación por el impacto social que estas generan en."
 
 
 

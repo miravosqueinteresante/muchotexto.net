@@ -2,7 +2,7 @@
 layout: entidad
 title: "Starlink (SpaceX)"
 description: >
-  Perfil de Starlink en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Starlink (SpaceX).
+  Perfil de Starlink en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Starlink (SpaceX), con fuentes primarias y contexto local.
 permalink: /entidades/starlink/
 last_modified_at: 2026-10-16
 entity_id: starlink
@@ -12,7 +12,7 @@ entity_description: >
   Servicio de internet satelital de SpaceX que opera en Paraguay desde 2023. Más de 20.000 usuarios, 1.600 antenas instaladas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — Paraguay fue el primer país del mundo en hacerlo.
 entity_category: empresa
 related_articles:
-  - title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
+  - title: "Starlink ya conecta a 20.000 paraguayos"
     url: /articulos/2026/07/15/starlink-paraguay-conectividad/
     context: "En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier."
 obs_glosario:

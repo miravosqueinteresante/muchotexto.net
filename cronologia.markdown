@@ -2,7 +2,7 @@
 layout: page
 title: "Cronología de la IA en Paraguay"
 permalink: /cronologia/
-description: "Hitos de la inteligencia artificial, tecnologia y energia en Paraguay desde 1973 hasta hoy."
+description: "Cronología de la IA en Paraguay: hitos de inteligencia artificial, tecnología y energía desde 1973 hasta hoy, con fuentes verificables."
 last_modified_at: 2026-09-18
 ---
 

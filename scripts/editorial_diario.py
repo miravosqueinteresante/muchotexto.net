@@ -140,6 +140,10 @@ def extract_title_and_body(markdown_text: str) -> tuple[str, str]:
     else:
         title = f"Editorial del {fmt_fecha_para_titulo(now_py())}"
         body = markdown_text
+    # título <title> completo = title + " | muchotexto.net" (17) <= 60 → front matter <= 43
+    if len(title) > 43:
+        cut = title.rfind(" ", 0, 43)
+        title = (title[:cut] if cut > 15 else title[:43]).rstrip(" ,:;.-")
     return title, body
 
 def sanitize_yaml(text: str) -> str:

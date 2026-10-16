@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Paraguay iguala 1-1 con Australia — 26 de junio de 2026"
+title: "Pulso Paraguay: Paraguay iguala 1-1 con."
 description: "Paraguay iguala 1-1 con Australia: La Albirroja empató en un partido clave por la clasificación al Mundial 2026. El resultado mantiene a Paraguay en carrera…"
 
 

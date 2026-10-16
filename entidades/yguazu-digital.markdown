@@ -2,7 +2,7 @@
 layout: entidad
 title: "Proyecto Yguazú Digital"
 description: >
-  Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Proyecto Yguazú Digital.
+  Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Proyecto Yguazú Digital, con fuentes primarias y contexto local.
 permalink: /entidades/yguazu-digital/
 last_modified_at: 2026-10-16
 entity_id: yguazu-digital
@@ -24,7 +24,7 @@ related_articles:
     url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
-  - title: "Lo que un data center compra y Paraguay no puede vender"
+  - title: "Lo que un data center compra y Paraguay no"
     url: /articulos/2026/07/25/cadena-valor-data-center/
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/

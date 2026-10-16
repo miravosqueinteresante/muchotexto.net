@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 📋 REGULACION Y GOBERNANZA TECH — 16 de setiembre de 2026"
+title: "Regulación y gobernanza | Pulso Tech"
 description: "PULSO TECH PARAGUAY MIÉRCOLES 16 de setiembre de 2026 Ultima actualizacion: 16:45 📋 REGULACION Y GOBERNANZA TECH Lanzamiento del Registro Unificado..."
 date: 2026-09-16
 last_modified_at: 2026-09-16

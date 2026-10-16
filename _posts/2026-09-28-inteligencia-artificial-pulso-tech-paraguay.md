@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 28 de setiembre de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY LUNES 28 de setiembre de 2026 Ultima actualizacion: 16:25 🤖 INTELIGENCIA ARTIFICIAL Meta lanza plataforma comercial de IA para..."
 date: 2026-09-28
 last_modified_at: 2026-09-28

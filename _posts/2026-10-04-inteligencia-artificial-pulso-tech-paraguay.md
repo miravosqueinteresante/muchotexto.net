@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 4 de octubre de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY DOMINGO 4 de octubre de 2026 Ultima actualizacion: 13:38 🤖 INTELIGENCIA ARTIFICIAL Creación de la Fuerza de la Superinteligencia en..."
 date: 2026-10-04
 last_modified_at: 2026-10-04

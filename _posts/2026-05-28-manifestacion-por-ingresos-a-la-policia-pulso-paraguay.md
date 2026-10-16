@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Manifestación por ingresos a la Policía — 28 de mayo de 2026"
+title: "Pulso Paraguay: Manifestación por."
 description: "Manifestación por ingresos a la Policía: Miles de aspirantes a la Policía Nacional se movilizaron en Asunción, lo que generó gran volumen de conversación en…"
 
 

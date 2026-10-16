@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🚀 INNOVACION Y STARTUPS — 3 de setiembre de 2026"
+title: "Innovación y startups | Pulso Tech"
 description: "PULSO TECH PARAGUAY JUEVES 3 de setiembre de 2026 Ultima actualizacion: 16:30 🚀 INNOVACION Y STARTUPS Estudiantes paraguayos de la UPTP llegan a Taiwán...."
 date: 2026-09-03
 last_modified_at: 2026-09-03

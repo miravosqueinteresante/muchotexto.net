@@ -2,7 +2,7 @@
 layout: entidad
 title: "Tigo Paraguay (Telecel S.A.E.)"
 description: >
-  Perfil de Tigo en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Tigo Paraguay (Telecel S.A.E.).
+  Perfil de Tigo en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Tigo Paraguay (Telecel S.A.E.), con fuentes primarias y contexto local.
 permalink: /entidades/tigo/
 last_modified_at: 2026-10-16
 entity_id: tigo
@@ -12,10 +12,10 @@ entity_description: >
   El mayor operador de telecomunicaciones de Paraguay. Opera el único data center Tier III de un operador privado (Villa Elisa, desde 2016, sobre el que corre BUZZ AI Cloud de HIVE) y ganó espectro 5G en 2.300-2.400 MHz en la segunda licitación (2026). Actor clave de la conectividad y la infraestructura digital del país.
 entity_category: empresa
 related_articles:
-  - title: "El data center Tier III que Paraguay ya tiene hace una década"
+  - title: "El data center Tier III que Paraguay ya"
     url: /articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/
     context: "Paraguay discute, desde hace dos años, data centers de inteligencia artificial que se miden en cientos de megavatios. El que **ya existe**, el único Tier III de un operador privado, mide su capacidad en megavatios que se cuentan con los dedos de una."
-  - title: "5G en Paraguay, espectro repartido y red encendida solo en Claro"
+  - title: "5G: espectro repartido, red solo de Claro"
     url: /articulos/2026/10/15/5g-segunda-subasta-paraguay/
     context: "Paraguay acaba de dar su segundo paso hacia el 5G, pero la distancia entre ese paso y la red real sigue siendo amplia. El 4 de agosto de 2026, la **Conatel** adjudicó la segunda licitación de espectro 5G; **100 MHz a Tigo** en la banda de..."
 obs_cronologia:

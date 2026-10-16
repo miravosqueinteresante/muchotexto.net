@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Inseguridad en Paraguay — 25 de julio de 2026"
+title: "Pulso Paraguay: Inseguridad en Paraguay"
 description: "Inseguridad en Paraguay: Los robos a mano armada continúan generando preocupación en la población, especialmente en el contexto de nuevas sanciones sobre la…"
 
 

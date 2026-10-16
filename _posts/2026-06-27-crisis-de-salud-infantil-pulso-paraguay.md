@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis de salud infantil — 27 de junio de 2026"
+title: "Pulso Paraguay: Crisis de salud infantil"
 description: "Crisis de salud infantil: Las rifas para salvar a niños cardiópatas han generado una fuerte conversación en redes sociales. Pulso Tech Paraguay — 27 de junio…"
 
 

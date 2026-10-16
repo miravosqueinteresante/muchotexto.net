@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seguridad y confianza, en crisis en Paraguay — Editorial 23 de julio de 2026"
+title: "Seguridad y confianza, en crisis en."
 description: "El asesinato de un civil en un puesto policial de Canindeyú ha sacudido profundamente la percepción pública sobre la seguridad en Paraguay."
 
 

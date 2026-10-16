@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deportes y política dos motores de conversación nacional — Editorial 3 de julio de 2026"
+title: "Deportes y política: dos motores del debate"
 description: "La histórica victoria de Paraguay ante Alemania en el Mundial 2026 ha generado un nivel de euforia pocas veces visto en el país. Este evento deportivo no..."
 date: 2026-07-03 18:00:00 -0400
 last_modified_at: 2026-07-03

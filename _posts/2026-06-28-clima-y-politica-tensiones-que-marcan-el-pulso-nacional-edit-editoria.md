@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clima y política: tensiones que marcan el pulso nacional — Editorial 28 de junio de 2026"
+title: "Clima y política: tensiones del pulso"
 description: "La alerta de tormentas en cinco departamentos domina la conversación en Paraguay, reflejando una preocupación generalizada por las condiciones climáticas..."
 date: 2026-06-28 18:00:00 -0400
 last_modified_at: 2026-06-28

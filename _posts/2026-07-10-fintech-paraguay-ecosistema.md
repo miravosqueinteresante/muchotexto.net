@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay tiene más fintechs que bancos y recién empieza"
+title: "Paraguay tiene más fintechs que bancos"
 date: 2026-07-10
 last_modified_at: 2026-08-15
 categories: articulos

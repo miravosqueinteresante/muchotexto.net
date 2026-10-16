@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Celebraciones y desafíos: el impacto del triunfo de Paraguay — Editorial 30 de junio de 2026"
-description: "La histórica victoria de Paraguay sobre Alemania en el Mundial 2026 ha desatado una euforia nacional sin precedentes."
+title: "Celebraciones y desafíos: el impacto del."
+description: "La histórica victoria de Paraguay sobre Alemania en el Mundial 2026 ha desatado una euforia nacional sin precedentes Editorial de muchotexto.net — 2026-06-30."
 
 
 

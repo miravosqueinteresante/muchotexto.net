@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 4 de setiembre de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY VIERNES 4 de setiembre de 2026 Ultima actualizacion: 12:59 🤖 INTELIGENCIA ARTIFICIAL Desarrollo de tecnología local para fumigación..."
 date: 2026-09-04
 last_modified_at: 2026-09-04

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🌐 INFRAESTRUCTURA DIGITAL — 9 de setiembre de 2026"
+title: "Infraestructura digital | Pulso Tech"
 description: "PULSO TECH PARAGUAY MIÉRCOLES 9 de setiembre de 2026 Ultima actualizacion: 16:30 🌐 INFRAESTRUCTURA DIGITAL Senado solicita informes al BCP sobre fraudes..."
 date: 2026-09-09
 last_modified_at: 2026-09-09

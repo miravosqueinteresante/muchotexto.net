@@ -409,16 +409,21 @@ def generate_entity_page(entity, related_articles, obs_matches):
     now = datetime.now(PARAGUAY_TZ)
     today = now.strftime("%Y-%m-%d")
 
-    # SEO title: full name when it fits 60 chars with site suffix, else short name + cluster context.
-    seo_title = name_full if len(name_full) <= 43 else f"{name} | Observatorio de IA en Paraguay"
+    # Título SEO: el <title> renderizado es "{title} | muchotexto.net" (17 chars);
+    # el front matter debe quedar en 13-43 para un total de 30-60.
+    seo_title = name_full if 13 <= len(name_full) <= 43 else f"{name} | Observatorio de IA en Paraguay"
+    if len(seo_title) > 43:
+        seo_title = f"{name} | IA en Paraguay"[:43]
+    if len(seo_title) < 13:
+        seo_title = f"{name_full} — Observatorio de IA"[:43]
 
     lines = []
     lines.append("---")
     lines.append("layout: entidad")
     lines.append(f'title: "{seo_title}"')
     lines.append("description: >")
-    lines.append(f'  Perfil de {name} en el Observatorio de IA en Paraguay: articulos, '
-                 f'leyes y fuentes verificables sobre {name_full}.')
+    lines.append(f'  Perfil de {name} en el Observatorio de IA en Paraguay: artículos, '
+                 f'leyes y datos verificables sobre {name_full}, con fuentes primarias y contexto local.')
     lines.append(f"permalink: /entidades/{slug}/")
     lines.append(f"last_modified_at: {today}")
     lines.append(f"entity_id: {slug}")

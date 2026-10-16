@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Candidaturas indígenas en  — 26 de julio de 2026"
+title: "Pulso Paraguay: Candidaturas indígenas en"
 description: "Candidaturas indígenas en política: El tema de las candidaturas indígenas ha generado un gran volumen de conversación debido a su impacto en la inclusión…"
 
 

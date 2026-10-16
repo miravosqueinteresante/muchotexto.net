@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frustración deportiva y tensiones sociales en Paraguay — Editorial 5 de julio de 2026"
+title: "Frustración deportiva y tensiones sociales"
 description: "La derrota de Paraguay ante Francia en el Mundial ha sido el tema más comentado del día, según el Pulso Paraguay. Este resultado no solo movilizó a los..."
 date: 2026-07-05 18:00:00 -0400
 last_modified_at: 2026-07-05

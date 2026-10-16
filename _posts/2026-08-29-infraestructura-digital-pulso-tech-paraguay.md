@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🌐 INFRAESTRUCTURA DIGITAL — 29 de agosto de 2026"
+title: "Infraestructura digital | Pulso Tech"
 description: "PULSO TECH PARAGUAY SÁBADO 29 de agosto de 2026 Ultima actualizacion: 13:25 🌐 INFRAESTRUCTURA DIGITAL IPS implementa censo digital para jubilados El..."
 date: 2026-08-29
 last_modified_at: 2026-08-29

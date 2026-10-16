@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Derechos humanos y justicia, desafíos persistentes — Editorial 27 de julio de 2026"
+title: "Derechos humanos y justicia, desafíos."
 description: "La disculpa oficial del Estado paraguayo por el asesinato de Santiago Leguizamón marca un momento histórico en la lucha por los derechos humanos en el país."
 
 

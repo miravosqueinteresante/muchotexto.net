@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tensiones políticas y distracciones sociales — Editorial 29 de julio de 2026"
+title: "Tensiones políticas y distracciones."
 description: "El Pulso Paraguay de hoy refleja una sociedad dividida entre la atención a los conflictos políticos y la búsqueda de alivio en el entretenimiento y el deporte."
 
 

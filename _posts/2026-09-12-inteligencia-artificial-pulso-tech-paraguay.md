@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 12 de setiembre de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY SÁBADO 12 de setiembre de 2026 Ultima actualizacion: 12:14 🤖 INTELIGENCIA ARTIFICIAL IA como eje estratégico nacional El presidente..."
 date: 2026-09-12
 last_modified_at: 2026-09-12

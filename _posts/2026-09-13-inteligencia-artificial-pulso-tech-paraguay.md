@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 13 de setiembre de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY DOMINGO 13 de setiembre de 2026 Ultima actualizacion: 12:50 🤖 INTELIGENCIA ARTIFICIAL Expertos taiwaneses refuerzan vigilancia..."
 date: 2026-09-13
 last_modified_at: 2026-09-13

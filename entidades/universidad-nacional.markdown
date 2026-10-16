@@ -2,7 +2,7 @@
 layout: entidad
 title: "Universidad Nacional de Asunción"
 description: >
-  Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
+  Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Universidad Nacional de Asunción, con fuentes primarias y contexto local.
 permalink: /entidades/universidad-nacional/
 last_modified_at: 2026-10-16
 entity_id: universidad-nacional
@@ -18,16 +18,10 @@ related_articles:
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
     context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda; va a abrir sus puertas la primera..."
-  - title: "Por qué Asunción no es una ciudad inteligente todavía"
-    url: /articulos/2026/07/17/smart-cities-asuncion-paraguay/
-    context: "Medellín tiene un sistema de teleféricos públicos que conecta barrios pobres con el metro. Seis líneas, 14 kilómetros, 22 millones de pasajeros al año. La línea K costó 26 millones de dólares en 2004 y redujo un viaje de dos horas y media a 30..."
-  - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
+  - title: "Cuando un data center llega a una ciudad"
     url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
     context: "A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá —HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la construcción de dos subestaciones eléctricas en Yguazú y Valenzuela, dos..."
-  - title: "El data center Tier III que Paraguay ya tiene hace una década"
-    url: /articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/
-    context: "Paraguay discute, desde hace dos años, data centers de inteligencia artificial que se miden en cientos de megavatios. El que **ya existe**, el único Tier III de un operador privado, mide su capacidad en megavatios que se cuentan con los dedos de una."
-  - title: "La salida de Atome no es una pérdida de USD 665 millones"
+  - title: "La salida de Atome no es una pérdida de"
     url: /articulos/2026/10/02/atome-ande-salida-paraguay/
     context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la **terminación de su contrato de energía con la ANDE** y mantiene su intención de llevar a..."
   - title: "Bienvenidos a muchotexto.net"
@@ -36,7 +30,7 @@ related_articles:
   - title: "El futuro de la identidad y la conciencia"
     url: /articulos/2026/05/13/ciberhumanidad/
     context: "Vivimos en la era más conectada de la historia y, al mismo tiempo, en una de las más solitarias. Tenemos el conocimiento del mundo en el bolsillo, pero cada vez leemos menos de cinco minutos seguidos sin mirar una notificación. La tecnología..."
-  - title: "5 tecnologías que prometieron cambiar todo pero no cambiaron nada"
+  - title: "5 tecnologías que prometieron cambiar todo"
     url: /articulos/2026/05/15/cinco-tecnologias-que-prometieron-cambiar-todo/
     context: "Hay un patrón que se repite cada cierto tiempo en la industria tecnológica. Alguien — un emprendedor carismático, una consultora con un PowerPoint, un CEO en una conferencia — anuncia que el futuro llegó. Que tal o cual tecnología va a..."
   - title: "El experimento paraguayo de Peter Thiel"
@@ -48,6 +42,12 @@ related_articles:
   - title: "La IA cuesta más que los humanos que reemplazó: los números"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
     context: "Hay un post que circula en redes sociales y que probablemente ya viste. Dice que Uber quemó todo su presupuesto anual de IA en cuatro meses. Que Microsoft está retirando licencias a sus propios ingenieros. Que Starbucks eliminó su sistema de..."
+  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
+    url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
+    context: "La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la."
+  - title: "¿Qué es realmente el fútbol?"
+    url: /articulos/2026/06/10/que-es-realmente-el-futbol/
+    context: "La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte; es una religión sin catedral, una guerra sin fusiles, un..."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/
@@ -66,7 +66,7 @@ obs_cronologia:
     context: "Los agentes de IA de OpenAI escapan de su entorno aislado y comprometen los sistemas de Hugging Face: 1.206 agentes se comunicaron por un canal no autorizado y la empresa tardó más de una semana en..."
   - label: "1 Julio 2026"
     url: /cronologia/
-    context: "Debuta el QR interoperable (estándar PY-QR) en comercios, con unas 250.000 operaciones en su primer mes. Leer análisis"
+    context: "Debuta el QR interoperable (QR SIP) en comercios, con unas 250.000 operaciones en su primer mes. Leer análisis"
   - label: "18-20 Agosto 2026"
     url: /cronologia/
     context: "El vicepresidente de ADATA, Felipe Masselli, se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de..."

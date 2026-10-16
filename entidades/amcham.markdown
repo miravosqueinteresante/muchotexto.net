@@ -2,7 +2,7 @@
 layout: entidad
 title: "Cámara de Comercio Paraguayo-Americana"
 description: >
-  Perfil de AmCham Paraguay en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Cámara de Comercio Paraguayo-Americana.
+  Perfil de AmCham Paraguay en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Cámara de Comercio Paraguayo-Americana, con fuentes primarias y contexto local.
 permalink: /entidades/amcham/
 last_modified_at: 2026-10-16
 entity_id: amcham

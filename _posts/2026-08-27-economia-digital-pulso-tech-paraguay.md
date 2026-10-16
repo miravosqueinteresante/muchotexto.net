@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: ECONOMIA DIGITAL — 27 de agosto de 2026"
+title: "Digital | Pulso Tech"
 description: "PULSO TECH PARAGUAY JUEVES 27 de agosto de 2026 Ultima actualizacion: 22:15 ECONOMIA DIGITAL Bancard impulsa la digitalización de pagos para emprendedores..."
 date: 2026-08-27
 last_modified_at: 2026-08-27

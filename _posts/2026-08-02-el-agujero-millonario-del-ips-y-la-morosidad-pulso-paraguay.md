@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: El agujero millonario del IPS y — 2 de agosto de 2026"
+title: "Pulso Paraguay: El agujero millonario del."
 description: "El agujero millonario del IPS y la morosidad patronal: El Instituto de Previsión Social busca mecanismos para cobrar una deuda de 711 millones de dólares…"
 
 

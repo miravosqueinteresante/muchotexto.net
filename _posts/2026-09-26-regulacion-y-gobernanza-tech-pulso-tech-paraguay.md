@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 📋 REGULACION Y GOBERNANZA TECH — 26 de setiembre de 2026"
+title: "Regulación y gobernanza | Pulso Tech"
 description: "PULSO TECH PARAGUAY SÁBADO 26 de setiembre de 2026 Ultima actualizacion: 13:01 📋 REGULACION Y GOBERNANZA TECH Regulación de celulares en aulas escolares..."
 date: 2026-09-26
 last_modified_at: 2026-09-26

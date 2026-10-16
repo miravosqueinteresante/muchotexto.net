@@ -1,8 +1,8 @@
 ---
 layout: entidad
-title: "Bancard S.A."
+title: "Bancard | Observatorio de IA en Paraguay"
 description: >
-  Perfil de Bancard en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Bancard S.A..
+  Perfil de Bancard en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Bancard S.A., con fuentes primarias y contexto local.
 permalink: /entidades/bancard/
 last_modified_at: 2026-10-16
 entity_id: bancard
@@ -21,5 +21,5 @@ obs_directorio:
     context: "Procesadora de pagos electrónicos dominante en Paraguay. Opera la red de pagos QR más extendida del país. Leer más."
   - label: "Bancard"
     url: https://www.bancard.com.py/
-    context: "Procesadora de pagos paraguaya que desarrolló el estándar PY-QR de pagos con código QR. Permite a comercios paraguayos cobrar con Pix desde 2024."
+    context: "Procesadora de pagos paraguaya que desarrolló el estándar QR SIP de pagos con código QR. Permite a comercios paraguayos cobrar con Pix desde 2024."
 ---

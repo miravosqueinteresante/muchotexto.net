@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Justicia y vivienda, dos caras de la seguridad — Editorial 18 de julio de 2026"
+title: "Justicia y vivienda, dos caras de la."
 description: "El Pulso Paraguay de hoy destaca la creciente preocupación por la seguridad pública, un tema que domina las conversaciones nacionales."
 
 

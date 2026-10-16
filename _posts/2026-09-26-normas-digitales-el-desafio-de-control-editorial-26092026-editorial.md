@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Normas digitales, el desafío de control — Editorial 26/09/2026"
+title: "Normas digitales, el desafío de control"
 description: "La aprobación por sanción ficta de la regulación sobre el uso de celulares en las aulas marca un punto de inflexión en la gestión de dispositivos en Paraguay."
 
 

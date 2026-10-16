@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay mueve USD 700M en e-commerce pero entrega con referencias"
+title: "Paraguay mueve USD 700M en e-commerce pero"
 date: 2026-07-24
 last_modified_at: 2026-08-15
 categories: articulos

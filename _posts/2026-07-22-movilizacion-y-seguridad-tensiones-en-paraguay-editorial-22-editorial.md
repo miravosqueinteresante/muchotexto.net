@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movilización y seguridad, tensiones en Paraguay — Editorial 22 de julio de 2026"
+title: "Movilización y seguridad, tensiones en."
 description: "El ataque a una comisaría en Canindeyú y la movilización de enfermeros en Asunción destacan como los temas más discutidos en Paraguay hoy."
 
 

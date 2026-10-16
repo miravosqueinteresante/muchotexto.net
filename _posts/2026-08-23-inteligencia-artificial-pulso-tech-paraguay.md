@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 23 de agosto de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY DOMINGO 23 de agosto de 2026 Ultima actualizacion: 09:44 🤖 INTELIGENCIA ARTIFICIAL Desarrollan red neuronal para detección de..."
 date: 2026-08-23
 last_modified_at: 2026-08-23

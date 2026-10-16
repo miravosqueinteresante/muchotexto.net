@@ -174,7 +174,7 @@
       "source": "mitic",
       "target": "bid",
       "type": "articulo",
-      "label": "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
+      "label": "1.5M de identidades y 480 trámites online"
     },
     {
       "source": "ande",
@@ -198,7 +198,7 @@
       "source": "ande",
       "target": "itaipu",
       "type": "articulo",
-      "label": "ANDE oculta 943 MW de contratos de criptominería bajo llave"
+      "label": "ANDE oculta 943 MW de contratos bajo llave"
     },
     {
       "source": "ande",
@@ -270,7 +270,7 @@
       "source": "ande",
       "target": "araico",
       "type": "articulo",
-      "label": "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
+      "label": "ARAICO promete un campus de IA de 1,3 GW"
     },
     {
       "source": "ande",
@@ -312,7 +312,7 @@
       "source": "ande",
       "target": "universidad-nacional",
       "type": "articulo",
-      "label": "La salida de Atome no es una pérdida de USD 665 millones"
+      "label": "La salida de Atome no es una pérdida de"
     },
     {
       "source": "itaipu",
@@ -330,7 +330,7 @@
       "source": "itaipu",
       "target": "yacyreta",
       "type": "articulo",
-      "label": "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
+      "label": "Paraguay tiene energía 100% renovable y el"
     },
     {
       "source": "itaipu",
@@ -390,7 +390,7 @@
       "source": "yguazu-digital",
       "target": "hive-digital",
       "type": "articulo",
-      "label": "Lo que un data center compra y Paraguay no puede vender"
+      "label": "Lo que un data center compra y Paraguay no"
     },
     {
       "source": "yguazu-digital",
@@ -444,13 +444,13 @@
       "source": "hive-digital",
       "target": "universidad-nacional",
       "type": "articulo",
-      "label": "Qué le pasa a una ciudad paraguaya cuando llega un data center"
+      "label": "Cuando un data center llega a una ciudad"
     },
     {
       "source": "starlink",
       "target": "conatel",
       "type": "articulo",
-      "label": "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
+      "label": "Starlink ya conecta a 20.000 paraguayos"
     },
     {
       "source": "peter-thiel",
@@ -471,16 +471,10 @@
       "label": "El experimento paraguayo de Peter Thiel"
     },
     {
-      "source": "universidad-nacional",
-      "target": "tigo",
-      "type": "articulo",
-      "label": "El data center Tier III que Paraguay ya tiene hace una década"
-    },
-    {
       "source": "conatel",
       "target": "tigo",
       "type": "articulo",
-      "label": "5G en Paraguay, espectro repartido y red encendida solo en Claro"
+      "label": "5G: espectro repartido, red solo de Claro"
     }
   ]
 }

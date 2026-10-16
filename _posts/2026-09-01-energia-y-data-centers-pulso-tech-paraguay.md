@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: ⚡ ENERGIA Y DATA CENTERS — 1 de setiembre de 2026"
+title: "Energía y data centers | Pulso Tech"
 description: "PULSO TECH PARAGUAY MARTES 1 de setiembre de 2026 Ultima actualizacion: 17:00 ⚡ ENERGIA Y DATA CENTERS Proyecto de parque solar en el Chaco para refuerzo..."
 date: 2026-09-01
 last_modified_at: 2026-09-01

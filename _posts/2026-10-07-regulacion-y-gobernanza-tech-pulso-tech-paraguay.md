@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 📋 REGULACION Y GOBERNANZA TECH — 7 de octubre de 2026"
+title: "Regulación y gobernanza | Pulso Tech"
 description: "PULSO TECH PARAGUAY MIÉRCOLES 7 de octubre de 2026 Ultima actualizacion: 15:38 📋 REGULACION Y GOBERNANZA TECH Cambios en la cúpula del MITIC El Poder..."
 date: 2026-10-07
 last_modified_at: 2026-10-07

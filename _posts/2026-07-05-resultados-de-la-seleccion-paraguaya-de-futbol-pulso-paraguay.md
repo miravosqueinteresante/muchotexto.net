@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Resultados de la selección paraguaya de fútbol — 5 de julio de 2026"
+title: "Pulso Paraguay: Resultados de la."
 description: "Resultados de la selección paraguaya de fútbol: La derrota de Paraguay ante Francia en el Mundial generó gran conversación y análisis entre los aficionados…"
 
 

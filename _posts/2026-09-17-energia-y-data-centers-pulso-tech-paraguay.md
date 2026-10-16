@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: ⚡ ENERGIA Y DATA CENTERS — 17 de setiembre de 2026"
+title: "Energía y data centers | Pulso Tech"
 description: "PULSO TECH PARAGUAY JUEVES 17 de setiembre de 2026 Ultima actualizacion: 13:32 ⚡ ENERGIA Y DATA CENTERS Potencial de almacenamiento y robótica en Paraguay..."
 date: 2026-09-17
 last_modified_at: 2026-09-17

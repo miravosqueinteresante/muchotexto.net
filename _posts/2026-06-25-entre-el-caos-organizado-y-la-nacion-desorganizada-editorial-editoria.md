@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entre el caos organizado y la nación desorganizada — Editorial 25 de junio de 2026"
+title: "Entre el caos organizado y la nación."
 description: "La Albirroja en el Mundial 2026{% posturl 2026-06-25-paraguay-vs-australia-en-el-mundial-pulso-paraguay %} define hoy su futuro."
 
 

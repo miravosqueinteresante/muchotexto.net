@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 📋 REGULACION Y GOBERNANZA TECH — 21 de agosto de 2026"
+title: "Regulación y gobernanza | Pulso Tech"
 description: "PULSO TECH PARAGUAY VIERNES 21 de agosto de 2026 Ultima actualizacion: 09:53 📋 REGULACION Y GOBERNANZA TECH Innovacion digital en la Municipalidad de..."
 date: 2026-08-21
 last_modified_at: 2026-08-21

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🌐 INFRAESTRUCTURA DIGITAL — 28 de agosto de 2026"
+title: "Infraestructura digital | Pulso Tech"
 description: "PULSO TECH PARAGUAY VIERNES 28 de agosto de 2026 Ultima actualizacion: 18:53 🌐 INFRAESTRUCTURA DIGITAL Pericia informática en COPACO por desvío de fondos..."
 date: 2026-08-28
 last_modified_at: 2026-08-28

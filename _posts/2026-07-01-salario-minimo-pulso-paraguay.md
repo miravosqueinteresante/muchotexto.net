@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Salario mínimo — 1 de julio de 2026"
+title: "Pulso Paraguay: Salario mínimo"
 description: "Salario mínimo: Desde hoy rige el ajuste del salario mínimo, generando debate en torno a su impacto en la economía. Pulso Tech Paraguay — 1 de julio de 2026."
 
 

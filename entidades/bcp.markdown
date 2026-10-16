@@ -2,7 +2,7 @@
 layout: entidad
 title: "Banco Central del Paraguay"
 description: >
-  Perfil de BCP en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Banco Central del Paraguay.
+  Perfil de BCP en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Banco Central del Paraguay, con fuentes primarias y contexto local.
 permalink: /entidades/bcp/
 last_modified_at: 2026-10-16
 entity_id: bcp
@@ -12,7 +12,7 @@ entity_description: >
   Autoridad monetaria de Paraguay y operador del SIPAP/SIP, el sistema de pagos del país. Su módulo de pagos instantáneos (SPI) movió en 2025 el equivalente a más de tres veces el PIB. En 2026 lanzó el QR Hub interoperable y una hoja de ruta para expandir los pagos a comercios, impuestos e integración regional con Pix de Brasil.
 entity_category: gobierno
 related_articles:
-  - title: "Paraguay proyecta conectar sus pagos instantáneos con Pix de Brasil"
+  - title: "Paraguay proyecta conectar sus pagos"
     url: /articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/
     context: "Paraguay tiene un sistema de pagos que funciona en segundos, es gratuito entre personas y está disponible a cualquier hora del día. Lo que no tiene todavía es la capacidad de cruzar la frontera. En agosto de 2026, el **Banco Central del Paraguay..."
 obs_cronologia:

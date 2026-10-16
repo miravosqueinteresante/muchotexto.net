@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Asalto y seguridad en Asunción — 17 de julio de 2026"
+title: "Pulso Paraguay: Asalto y seguridad en."
 description: "Asalto y seguridad en Asunción: La detención de un presunto organizador de asaltos ha generado una gran conversación en las redes y medios locales. Pulso Tech…"
 
 

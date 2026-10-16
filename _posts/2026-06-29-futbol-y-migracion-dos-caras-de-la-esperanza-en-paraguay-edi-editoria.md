@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fútbol y migración: dos caras de la esperanza en Paraguay — Editorial 29 de junio de 2026"
+title: "Fútbol y migración: dos caras"
 description: "Hoy, Paraguay vive una jornada marcada por la expectativa del partido decisivo contra Alemania en el Mundial de Fútbol 2026. Mientras tanto, en el Chaco,..."
 date: 2026-06-29 18:00:00 -0400
 last_modified_at: 2026-06-29

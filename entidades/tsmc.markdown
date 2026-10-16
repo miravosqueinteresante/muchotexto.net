@@ -2,7 +2,7 @@
 layout: entidad
 title: "Taiwan Semiconductor Manufacturing Company"
 description: >
-  Perfil de TSMC en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwan Semiconductor Manufacturing Company.
+  Perfil de TSMC en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Taiwan Semiconductor Manufacturing Company, con fuentes primarias y contexto local.
 permalink: /entidades/tsmc/
 last_modified_at: 2026-10-16
 entity_id: tsmc

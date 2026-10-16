@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inglés, experiencia e IA, la brecha triple de los jóvenes paraguayos"
+title: "Inglés, experiencia e IA, la brecha triple"
 date: 2026-10-09 09:00:00 -0300
 last_modified_at: 2026-10-09
 categories: [articulos]

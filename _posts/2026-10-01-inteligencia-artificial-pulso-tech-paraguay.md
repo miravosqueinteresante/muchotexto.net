@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🤖 INTELIGENCIA ARTIFICIAL — 1 de octubre de 2026"
+title: "Inteligencia artificial | Pulso Tech"
 description: "PULSO TECH PARAGUAY JUEVES 1 de octubre de 2026 Ultima actualizacion: 18:30 🤖 INTELIGENCIA ARTIFICIAL Alianza estratégica Paraguay-Taiwán en IA El..."
 date: 2026-10-01
 last_modified_at: 2026-10-01

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🌐 INFRAESTRUCTURA DIGITAL — 3 de agosto de 2026"
+title: "Infraestructura digital | Pulso Tech"
 description: "PULSO TECH PARAGUAY LUNES 3 de agosto de 2026 Ultima actualizacion: 19:21 🌐 INFRAESTRUCTURA DIGITAL Modernización del Aeropuerto Internacional de..."
 date: 2026-08-03
 last_modified_at: 2026-08-03

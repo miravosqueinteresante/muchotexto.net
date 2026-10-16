@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tensiones sociales y vulnerabilidad climática — Editorial 21 de julio de 2026"
+title: "Tensiones sociales y vulnerabilidad."
 description: "Las alertas de tormentas en cuatro departamentos de Paraguay han puesto en evidencia la fragilidad de las comunidades frente a fenómenos climáticos extremos."
 
 

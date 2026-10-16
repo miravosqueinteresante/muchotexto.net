@@ -2,7 +2,7 @@
 layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
-description: "Startups, aceleradoras, comunidades, eventos y espacios de inteligencia artificial y tecnologia en Paraguay."
+description: "Directorio de IA en Paraguay: startups, aceleradoras, comunidades, eventos y espacios de tecnología e inteligencia artificial."
 last_modified_at: 2026-09-18
 ---
 

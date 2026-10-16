@@ -2,7 +2,7 @@
 layout: page
 title: "Glosario de IA en Paraguay"
 permalink: /glosario/
-description: "Glosario de terminos clave de inteligencia artificial en Paraguay explicados en contexto local."
+description: "Glosario de términos de inteligencia artificial explicados en contexto paraguayo: infraestructura, energía, geopolítica, fintech y más."
 last_modified_at: 2026-09-18
 ---
 

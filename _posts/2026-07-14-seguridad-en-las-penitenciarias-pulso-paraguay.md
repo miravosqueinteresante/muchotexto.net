@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Seguridad en las penitenciarías — 14 de julio de 2026"
+title: "Pulso Paraguay: Seguridad en las."
 description: "Seguridad en las penitenciarías: Hoy se generó un gran volumen de conversación tras la fuga de dos reos de una penitenciaría en Misiones. Pulso Tech Paraguay…"
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 📋 REGULACION Y GOBERNANZA TECH — 8 de agosto de 2026"
+title: "Regulación y gobernanza | Pulso Tech"
 description: "PULSO TECH PARAGUAY SÁBADO 8 de agosto de 2026 Ultima actualizacion: 09:53 📋 REGULACION Y GOBERNANZA TECH Avance en registro criptográfico del MEC para..."
 date: 2026-08-08
 last_modified_at: 2026-08-08

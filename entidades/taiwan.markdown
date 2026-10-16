@@ -2,7 +2,7 @@
 layout: entidad
 title: "Taiwán (República de China)"
 description: >
-  Perfil de Taiwán en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Taiwán (República de China).
+  Perfil de Taiwán en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Taiwán (República de China), con fuentes primarias y contexto local.
 permalink: /entidades/taiwan/
 last_modified_at: 2026-10-16
 entity_id: taiwan
@@ -23,7 +23,7 @@ related_articles:
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "La asimetría Itaipú era de tamaño; Brasil tiene 28 veces la población de Paraguay y 47 veces su PIB. Pero compartían un río y una necesidad concreta; energía. La asimetría Paraguay-Taiwán es de naturaleza. Taiwán no necesita la energía de Paraguay..."
-  - title: "ADATA mira a Minga Guazú para ensamblar memorias y SSDs"
+  - title: "ADATA mira Minga Guazú para ensamblar SSDs"
     url: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
     context: "El fabricante taiwanés de memorias ADATA, segundo mayor productor del mundo de módulos DRAM, inició la prospección de una planta de ensamblaje de memorias y unidades de estado sólido en Minga Guazú, Alto Paraná. Su vicepresidente lo dijo sin..."
 obs_glosario:

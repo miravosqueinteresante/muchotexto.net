@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Tech Paraguay — 22 de agosto de 2026"
-description: "Brasil licita supercomputador para IA; ANDE y HIVE en foco; tarifa GCIE en revisión. Pulso Tech Paraguay 22/08."
+description: "Brasil licita supercomputador para IA; ANDE y HIVE en foco; tarifa GCIE en revisión. Pulso Tech Paraguay del 22 de agosto de 2026, con contexto local."
 date: 2026-08-22
 last_modified_at: 2026-08-22
 categories: pulso-paraguay

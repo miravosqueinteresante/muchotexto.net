@@ -78,7 +78,7 @@ Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guí
 
 - [MarketsandMarkets — "Data Annotation and Labeling Market Report"](https://www.marketsandmarkets.com/Market-Reports/data-annotation-labeling-market-173959384.html) (febrero 2023)
 - [Grand View Research — "AI Annotation Market Size, Latin America"](https://www.grandviewresearch.com/horizon/outlook/ai-annotation-market/latin-america) (2025)
-- [DataIntelo — "Data Annotation Market Report"](https://dataintelo.com/report/data-annotation-market) (2025)
+- [DataIntelo — "Data Annotation Market Report"](https://dataintelo.com/report/data-annotationplace-market) (2025)
 - [IMF — "World Economic Outlook Database"](https://www.imf.org/en/Data) (2025)
 - [EF Education First — "EF English Proficiency Index: Paraguay"](https://www.ef.com/wwen/epi/regions/latin-america/paraguay/) (2025)
 - [DataReportal — "Digital 2025: Paraguay"](https://datareportal.com/reports/digital-2025-paraguay) (enero 2025)

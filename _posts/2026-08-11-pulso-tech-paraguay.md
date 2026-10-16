@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Tech Paraguay — 11 de agosto de 2026"
-description: "Sin novedades de IA/tech suficientes para el Pulso del dia."
+description: "Sin novedades de IA o tecnología suficientes para generar el Pulso del día. El análisis de fondo de muchotexto.net continúa en la guía de IA en Paraguay."
 date: 2026-08-11
 last_modified_at: 2026-08-11
 categories: pulso-paraguay

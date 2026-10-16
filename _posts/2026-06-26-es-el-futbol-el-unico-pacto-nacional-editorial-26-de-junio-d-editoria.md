@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "¿Es el fútbol el único pacto nacional? — Editorial 26 de junio de 2026"
-description: "Paraguay empató 1-1 con Australia en el Mundial 2026 y el pais entero se detuvo por noventa minutos."
+title: "¿Es el fútbol el único pacto nacional?"
+description: "Paraguay empató 1-1 con Australia en el Mundial 2026 y el pais entero se detuvo por noventa minutos Editorial de muchotexto.net — 2026-06-26."
 
 
 

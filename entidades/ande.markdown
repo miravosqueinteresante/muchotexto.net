@@ -2,7 +2,7 @@
 layout: entidad
 title: "Administración Nacional de Electricidad"
 description: >
-  Perfil de ANDE en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Administración Nacional de Electricidad.
+  Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Administración Nacional de Electricidad, con fuentes primarias y contexto local.
 permalink: /entidades/ande/
 last_modified_at: 2026-10-16
 entity_id: ande
@@ -14,7 +14,7 @@ entity_category: infraestructura
 entity_datos_url: https://datospublicos.muchotexto.net/energia.html
 entity_datos_desc: "sistema eléctrico paraguayo: consumo, demanda, pérdidas, clientes y tarifas"
 related_articles:
-  - title: "ANDE oculta 943 MW de contratos de criptominería bajo llave"
+  - title: "ANDE oculta 943 MW de contratos bajo llave"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
@@ -44,10 +44,10 @@ related_articles:
   - title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto hay un número que explica por qué se discuten; 68,6. Ese es, en dólares por megavatio-hora, el valor al que la tarifa media de la electricidad paraguaya debería llegar en.."
-  - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
+  - title: "ARAICO promete un campus de IA de 1,3 GW"
     url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/
     context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un **campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú**, con una inversión anunciada de hasta **USD 12.000 millones**. La anuncia **ARAICO**, una..."
-  - title: "La salida de Atome no es una pérdida de USD 665 millones"
+  - title: "La salida de Atome no es una pérdida de"
     url: /articulos/2026/10/02/atome-ande-salida-paraguay/
     context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la **terminación de su contrato de energía con la ANDE** y mantiene su intención de llevar a..."
 entity_laws:

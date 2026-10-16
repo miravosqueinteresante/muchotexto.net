@@ -2,7 +2,7 @@
 layout: entidad
 title: "Santiago Peña Palacios"
 description: >
-  Perfil de Santiago Peña en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Santiago Peña Palacios.
+  Perfil de Santiago Peña en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Santiago Peña Palacios, con fuentes primarias y contexto local.
 permalink: /entidades/santiago-pena/
 last_modified_at: 2026-10-16
 entity_id: santiago-pena

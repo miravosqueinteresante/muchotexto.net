@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Partido de la Albirroja contra Francia — 4 de julio de 2026"
+title: "Pulso Paraguay: Partido de la Albirroja."
 description: "Partido de la Albirroja contra Francia: La expectativa por el partido de Paraguay contra Francia en los octavos de final del Mundial 2026 genera un alto…"
 
 

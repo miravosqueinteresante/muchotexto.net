@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Desinformación y salud pública: un mal que también enferma — Editorial 23 de junio de 2026"
+title: "La desinformación también enferma"
 description: "La salud pública en Paraguay enfrenta una crisis silenciosa pero devastadora: no se trata solo de los cuadros respiratorios que saturan el Hospital Acosta..."
 date: 2026-06-23 18:00:00 -0400
 last_modified_at: 2026-06-23

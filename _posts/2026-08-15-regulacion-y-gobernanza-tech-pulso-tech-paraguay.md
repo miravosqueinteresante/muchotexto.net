@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 📋 REGULACION Y GOBERNANZA TECH — 15 de agosto de 2026"
+title: "Regulación y gobernanza | Pulso Tech"
 description: "PULSO TECH PARAGUAY SÁBADO 15 de agosto de 2026 Ultima actualizacion: 09:42 📋 REGULACION Y GOBERNANZA TECH Nuevas modalidades en ciberataques bancarios El..."
 date: 2026-08-15
 last_modified_at: 2026-08-15

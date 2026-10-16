@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay: 🚀 INNOVACION Y STARTUPS — 10 de setiembre de 2026"
+title: "Innovación y startups | Pulso Tech"
 description: "PULSO TECH PARAGUAY JUEVES 10 de setiembre de 2026 Ultima actualizacion: 16:30 🚀 INNOVACION Y STARTUPS Sirius Automotores lidera el ecosistema emprendedor..."
 date: 2026-09-10
 last_modified_at: 2026-09-10

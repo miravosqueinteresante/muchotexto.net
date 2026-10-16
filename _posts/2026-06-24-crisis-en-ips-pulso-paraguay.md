@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis en IPS — 24 de junio de 2026"
+title: "Pulso Paraguay: Crisis en IPS"
 description: "Crisis en IPS: La renuncia masiva en el IPS ha generado un fuerte eco en la sociedad paraguaya. Pulso Tech Paraguay — 24 de junio de 2026."
 
 
