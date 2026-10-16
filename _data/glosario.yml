@@ -617,7 +617,7 @@
     definicion: Sistema de pagos instantáneos de Brasil, lanzado en noviembre de 2020
       por el Banco Central do Brasil. Gratuito para personas físicas y con cerca de
       200 millones de usuarios activos mensuales.
-  - termino: QR interoperable (PY-QR)
+  - termino: QR interoperable (QR SIP)
     definicion: Estándar de código QR de pagos de Paraguay basado en EMV QRCPS, desarrollado
       por Bancard. Permite pagar con cualquier billetera o app bancaria leyendo un
       único QR.

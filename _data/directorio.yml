@@ -279,6 +279,7 @@
 - seccion: Fintech
   items:
   - nombre: Bancard
-    descripcion: Procesadora de pagos paraguaya que desarrolló el estándar PY-QR de
-      pagos con código QR. Permite a comercios paraguayos cobrar con Pix desde 2024.
+    descripcion: Procesadora de pagos paraguaya que desarrolló el estándar QR SIP
+      de pagos con código QR. Permite a comercios paraguayos cobrar con Pix desde
+      2024.
     url: https://www.bancard.com.py/
