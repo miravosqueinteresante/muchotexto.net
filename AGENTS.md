@@ -70,7 +70,7 @@ El agente de verificación hará lo siguiente automáticamente:
 ### Paso 3: Corregir y commitear
 1. Aplicar las correcciones indicadas por el agente.
 2. **Grep global del dato corregido**: tras corregir un número, fecha, nombre o frase errónea, buscarlo en TODO el artículo (`grep`) para cazarlo en todas sus apariciones. No corregir solo la primera ocurrencia y dejar residuos.
-3. **Spot-check del orquestador**: al recibir un informe limpio de FALSE, abrir 1-2 fuentes de alto riesgo (las que sostienen claims interpretativos) y verificar personalmente su contenido. No confiar ciegamente en el veredicto del subagente.
+3. **Spot-check del orquestador — OBLIGATORIO (produce artefacto)**: al recibir un informe limpio de FALSE, abrir 1-2 fuentes de alto riesgo (las que sostienen claims interpretativos) y verificar personalmente su contenido, citando la frase textual de la fuente. El resultado se escribe en `research_[tema]/spotcheck.md` (cita + veredicto por claim). `validate_publish.py` **bloquea** si falta este artefacto. No confiar ciegamente en el veredicto del subagente.
 4. Solo commitear cuando el informe esté limpio de FALSE y el spot-check no detectó nada.
 5. **Ejecución atómica + verificación (regla de tool calls)**: el `commit` y el `push` se ejecutan en tool calls separados y simples —no encadenar `build && validate && commit && push` en un solo bloque largo, que puede corromperse y devolverse como texto crudo sin ejecutarse—. Tras cada `commit`/`push`, verificar con `git log --oneline -1` y `git status --short` que efectivamente se aplicó. Si un commit no se refleja, reejecutarlo (es idempotente). No declarar "pusheado" sin haberlo confirmado con `git log`.
 
@@ -82,7 +82,7 @@ Todo esto se ejecuta **y se verifica con salida real**, no de memoria. Son los p
 2. **Formato de fuentes (§5.1)**: cada entrada de "Fuentes" apunta a la **URL del artículo concreto**, no a la homepage del medio. `validate_publish.py` marca warning si detecta una homepage — si aparece, corregir la URL, no ignorarlo. Excepción legítima: el sitio oficial de una entidad cuando su página principal ES la fuente primaria.
 3. **Atribución de cada fuente/entrevista**: toda cita o mención de un medio/entrevista tiene una **URL específica verificada**. Una etiqueta semilla (nombre de una radio, hashtag, medio sin URL) NO es fuente hasta que una URL concreta la verifique. Si no se encuentra la URL, la cita se elimina o se reatribuye al medio que sí la publicó.
 4. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot válido). Ninguna fuente 404.
-5. **`validate_publish`**: sin warnings bloqueantes (fuentes, superlativos, meta, FAQ, links internos).
+5. **`validate_publish`**: sin warnings bloqueantes (fuentes, superlativos, meta, FAQ, links internos) **y con los artefactos de cierre presentes**: `research_[tema]/` con `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md`. El gate `check_cierre` bloquea el commit si falta alguno — los pasos de verificación se demuestran con artefactos, no dependen de la disciplina de nadie.
 6. **`build_derived` + `audit_consistency`**: verdes.
 7. **Observatorio actualizado**: pilar enlaza el artículo, `llms.txt`, `entidades/` regeneradas si toca entidad, `directorio/` si el artículo aporta una entrada nueva.
 8. **Estrategia actualizada (§14.1 paso 11)**: §3.2 (✅), §16 (fila), §17 (progreso), §19 (changelog). **No se publica sin esto.**

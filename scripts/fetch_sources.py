@@ -148,7 +148,7 @@ def main():
         out = sys.argv[sys.argv.index("--out") + 1]
     if not out:
         slug = os.path.splitext(os.path.basename(post))[0]
-        out = os.path.join("research_" + slug.split("-", 3)[-1][:40], "sources")
+        out = os.path.join("research_" + slug.split("-", 3)[-1], "sources")
 
     src_dir = out
     os.makedirs(src_dir, exist_ok=True)

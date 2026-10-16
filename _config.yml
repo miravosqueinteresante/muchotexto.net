@@ -98,6 +98,10 @@ exclude:
   - gruporiquelme/
   - scripts/
   - config/
+  # Investigación y planificación: interno, nunca se publica.
+  - research_*
+  - _planning/
+  - docs/
 
 # Monophase theme settings
 tagline: "Observatorio de IA en Paraguay"

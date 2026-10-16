@@ -130,6 +130,27 @@ def check_title(title: str, ultimos_3: list[dict]) -> tuple[list[str], list[str]
     return errors, warnings
 
 
+def check_cierre(post_path: str) -> list[str]:
+    """Gate de cierre: todo articulo de analisis exige su carpeta de investigacion
+    con plan, findings, gap report y spot-check del editor. Los pasos de verificacion
+    se demuestran con artefactos; no dependen de la disciplina de nadie."""
+    base = os.path.basename(post_path)
+    m = re.match(r"\d{4}-\d{2}-\d{2}-(.+)\.md", base)
+    if not m:
+        return []
+    topic = m.group(1)
+    research_dir = os.path.join(REPO_DIR, "research_" + topic)
+    if not os.path.isdir(research_dir):
+        return [f"Cierre: falta 'research_{topic}/' (plan, findings, gap report, spot-check)"]
+    errors = []
+    for fname in ("research_plan.md", "gap_report.md", "spotcheck.md"):
+        if not os.path.exists(os.path.join(research_dir, fname)):
+            errors.append(f"Cierre: falta el artefacto obligatorio 'research_{topic}/{fname}'")
+    if not glob.glob(os.path.join(research_dir, "findings_*.md")):
+        errors.append(f"Cierre: faltan 'research_{topic}/findings_*.md'")
+    return errors
+
+
 def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[str]]:
     errors = []
     warnings = []
@@ -153,6 +174,9 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
 
     if not categories:
         errors.append("Categoria no definida en frontmatter")
+
+    if "articulos" in categories:
+        errors.extend(check_cierre(post_path))
 
     if '"@type": "FAQPage"' not in content and '"@type":"FAQPage"' not in content:
         errors.append("FAQ schema requerido: agregar FAQPage con 3 preguntas")

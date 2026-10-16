@@ -83,7 +83,7 @@ Aquí conviene separar dos realidades que la prensa tiende a confundir. Una cosa
 
 Del lado privado, Paraguay ya está conectado. La procesadora local **Bancard** permite a los comercios paraguayos cobrar con Pix desde **2024**, y en octubre de 2026 sumó el e-commerce. Para un consumidor brasileño, pagar en un comercio paraguayo con Pix ya no es ciencia ficción.
 
-Del lado oficial, en cambio, no hay nada firmado. La conexión **SPI↔Pix** entre el BCP y el Banco Central do Brasil está en una etapa inicial de conversación —*"los bancos centrales ya empezaron a hablar"*, reportó La Nación en mayo de 2026 citando a un economista—, y el sector estima que una integración real **no llegaría antes de 2030**. Tampoco hay anuncios de conexión con Argentina o Bolivia a nivel de bancos centrales. A escala global, el BCP participa en el **proyecto Nexus del BIS** —junto al Fondo Latinoamericano de Reservas (FLAR)—, una iniciativa para conectar sistemas de pagos inmediatos entre países.
+Del lado oficial, en cambio, no hay nada firmado. La conexión **SPI↔Pix** entre el BCP y el Banco Central do Brasil está en una etapa inicial de conversación: en mayo de 2026, La Nación citó al economista Jorge Garicoche diciendo que *"el Banco Central del Paraguay y el Banco Central de Brasil ya empezaron a hablar de cómo podemos hacer esta operativa de manera conjunta"*. El sector estima que una integración real **no llegaría antes de 2030**. Tampoco hay anuncios de conexión con Argentina o Bolivia a nivel de bancos centrales. A escala global, el BCP participa en el **proyecto Nexus del BIS** —junto al Fondo Latinoamericano de Reservas (FLAR)—, una iniciativa para conectar sistemas de pagos inmediatos entre países.
 
 ## Lo que enseñan Pix, CoDi y Transferencias 3.0
 
