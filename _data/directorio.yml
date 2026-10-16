@@ -238,6 +238,15 @@
       Extranjero (CIE) que acredita la inversión. La residencia permanente la concede
       luego la Dirección Nacional de Migraciones.
     url: https://www.mic.gov.py/constancias-de-inversionistas/
+  - nombre: Banco Central del Paraguay (BCP)
+    descripcion: Autoridad monetaria de Paraguay. Administra el SIPAP/SIP, el sistema
+      de pagos del país, y el QR Hub interoperable. En 2026 lanzó la hoja de ruta
+      de expansión a comercios, impuestos e integración regional.
+    url: https://www.bcp.gov.py/
+  - nombre: Cámara Paraguaya de Medios de Pago (CPMP)
+    descripcion: Entidad que organiza el Pay Meeting, el evento donde el BCP presentó
+      en agosto de 2026 su hoja de ruta de pagos digitales.
+    url: https://cpmp.com.py/
 - seccion: Tecnología aplicada
   items:
   - nombre: BEES Paraguay (Cervepar)
@@ -267,3 +276,9 @@
       el espectro radioeléctrico y adjudicó en 2025 y 2026 las licitaciones de 5G
       a Claro, Nubicom, Tigo y Personal.
     url: https://www.conatel.gov.py/
+- seccion: Fintech
+  items:
+  - nombre: Bancard
+    descripcion: Procesadora de pagos paraguaya que desarrolló el estándar PY-QR de
+      pagos con código QR. Permite a comercios paraguayos cobrar con Pix desde 2024.
+    url: https://www.bancard.com.py/

@@ -607,3 +607,21 @@
     definicion: 'Familia de frecuencias entre 1 y 6 GHz que equilibra cobertura y
       capacidad. La banda de 3,3-3,8 GHz (n78, la C-band) es la banda media estándar
       global del 5G: canales anchos para velocidad, con alcance de kilómetros.'
+- tema: Pagos digitales
+  terminos:
+  - termino: SIP (Sistema de Pagos Instantáneos)
+    definicion: Marca comercial del SIPAP, el sistema de pagos del Paraguay administrado
+      por el BCP. Incluye el módulo SPI de transferencias instantáneas 24/7, lanzado
+      en 2022.
+  - termino: Pix
+    definicion: Sistema de pagos instantáneos de Brasil, lanzado en noviembre de 2020
+      por el Banco Central do Brasil. Gratuito para personas físicas y con cerca de
+      200 millones de usuarios activos mensuales.
+  - termino: QR interoperable (PY-QR)
+    definicion: Estándar de código QR de pagos de Paraguay basado en EMV QRCPS, desarrollado
+      por Bancard. Permite pagar con cualquier billetera o app bancaria leyendo un
+      único QR.
+  - termino: PISP
+    definicion: 'Proveedor de Servicios de Inicio de Pagos: fintech habilitada por
+      el BCP para iniciar pagos desde la cuenta del cliente, sin manejar los fondos.
+      Reglamentados por Resolución del 27-ago-2025.'

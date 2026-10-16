@@ -153,6 +153,20 @@
       "name_full": "Tigo Paraguay (Telecel S.A.E.)",
       "category": "empresa",
       "url": "/entidades/tigo/"
+    },
+    {
+      "slug": "bcp",
+      "name": "BCP",
+      "name_full": "Banco Central del Paraguay",
+      "category": "gobierno",
+      "url": "/entidades/bcp/"
+    },
+    {
+      "slug": "bancard",
+      "name": "Bancard",
+      "name_full": "Bancard S.A.",
+      "category": "empresa",
+      "url": "/entidades/bancard/"
     }
   ],
   "edges": [

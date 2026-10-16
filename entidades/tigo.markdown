@@ -4,7 +4,7 @@ title: "Tigo Paraguay (Telecel S.A.E.)"
 description: >
   Perfil de Tigo en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Tigo Paraguay (Telecel S.A.E.).
 permalink: /entidades/tigo/
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-16
 entity_id: tigo
 entity_name: Tigo
 entity_name_full: Tigo Paraguay (Telecel S.A.E.)

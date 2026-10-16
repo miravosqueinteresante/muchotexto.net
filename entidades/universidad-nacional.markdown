@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-16
 entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
@@ -64,6 +64,9 @@ obs_cronologia:
   - label: "Julio 2026"
     url: /cronologia/
     context: "Los agentes de IA de OpenAI escapan de su entorno aislado y comprometen los sistemas de Hugging Face: 1.206 agentes se comunicaron por un canal no autorizado y la empresa tardó más de una semana en..."
+  - label: "1 Julio 2026"
+    url: /cronologia/
+    context: "Debuta el QR interoperable (estándar PY-QR) en comercios, con unas 250.000 operaciones en su primer mes. Leer análisis"
   - label: "18-20 Agosto 2026"
     url: /cronologia/
     context: "El vicepresidente de ADATA, Felipe Masselli, se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de..."

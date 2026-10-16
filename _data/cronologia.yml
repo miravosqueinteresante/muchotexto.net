@@ -97,6 +97,10 @@
     fecha: '2022'
     texto: Paraguay moderniza su [marco de compras públicas](/articulos/2026/07/17/ia-corrupcion-paraguay/)
       con la Ley 7021/2022.
+  - orden: '2022-05-31'
+    fecha: 31 Mayo 2022
+    texto: El BCP lanza el SPI (Sistema de Pagos Instantáneos), el módulo de transferencias
+      24/7 dentro del SIPAP. [Leer análisis](/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/)
   - orden: 2022-11
     fecha: Noviembre 2022
     texto: OpenAI lanza **ChatGPT**. Comienza el superciclo global de inversión en
@@ -236,6 +240,10 @@
     texto: '[HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
       en Asunción: primer cluster de GPU para IA en Paraguay. Columbia University
       inicia investigación de LLM desde Nueva York.'
+  - orden: '2026-03-12'
+    fecha: 12 Marzo 2026
+    texto: El BCP eleva el límite de transferencias instantáneas de G. 5 a G. 10 millones
+      por operación. [Leer análisis](/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/)
   - orden: '2026-03-18'
     fecha: 18 Marzo 2026
     texto: HIVE Digital lanza BUZZ AI Cloud en el data center Tier III de Tigo (Villa
@@ -247,6 +255,10 @@
       Extranjero (CIE) y habilita cuatro vías de inversión para acceder a la residencia
       permanente sin pasar por la temporal. El 'Investor Pass' se lanza como marca
       el 17 de abril en São Paulo. [Leer análisis](/articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/)
+  - orden: '2026-04-27'
+    fecha: 27 Abril 2026
+    texto: El BCP rebautiza SIPAP como SIP, un cambio de marca sin cambio funcional.
+      [Leer análisis](/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/)
   - orden: 2026-05
     fecha: Mayo 2026
     texto: MITIC adjudica el [Data Center estatal Tier III](/articulos/2026/07/16/ia-soberana-paraguay/)
@@ -318,6 +330,10 @@
       nuevo en línea. Paraguay no tiene ninguna ley vigente para regular los agentes
       ni el contenido sintético; existen al menos cuatro proyectos en trámite, ninguno
       sancionado.'
+  - orden: '2026-07-01'
+    fecha: 1 Julio 2026
+    texto: Debuta el QR interoperable (estándar PY-QR) en comercios, con unas 250.000
+      operaciones en su primer mes. [Leer análisis](/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/)
   - orden: '2026-07-02'
     fecha: 2 Julio 2026
     texto: El [Expediente Judicial Electrónico](/articulos/2026/07/21/ia-justicia-paraguay/)
@@ -342,6 +358,11 @@
       Z'': qué esperan los jóvenes del mundo laboral. Cinco barreras de empleabilidad
       en Paraguay, encabezadas por la falta de experiencia práctica (53,3%) y el dominio
       del inglés (53%). [Leer análisis](/articulos/2026/10/09/brecha-triple-jovenes-paraguayos/)'
+  - orden: '2026-08-03'
+    fecha: 3 Agosto 2026
+    texto: 'En el Pay Meeting 19, el BCP anuncia su hoja de ruta: comercios, impuestos
+      e integración regional, incluido un piloto de factibilidad con Pix de Brasil.
+      [Leer análisis](/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/)'
   - orden: '2026-08-04'
     fecha: 4 Agosto 2026
     texto: 'Marco Rubio y el canciller Rubén Ramírez Lezcano firman en Washington

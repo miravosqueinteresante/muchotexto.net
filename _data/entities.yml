@@ -273,3 +273,24 @@
     la segunda licitación (2026). Actor clave de la conectividad y la
     infraestructura digital del país.
   category: empresa
+
+- slug: bcp
+  name: BCP
+  name_full: Banco Central del Paraguay
+  description: >
+    Autoridad monetaria de Paraguay y operador del SIPAP/SIP, el sistema de
+    pagos del país. Su módulo de pagos instantáneos (SPI) movió en 2025 el
+    equivalente a más de tres veces el PIB. En 2026 lanzó el QR Hub
+    interoperable y una hoja de ruta para expandir los pagos a comercios,
+    impuestos e integración regional con Pix de Brasil.
+  category: gobierno
+
+- slug: bancard
+  name: Bancard
+  name_full: Bancard S.A.
+  description: >
+    Procesadora de pagos paraguaya que desarrolló el estándar PY-QR de pagos
+    con código QR (basado en EMV QRCPS). Permite a los comercios paraguayos
+    cobrar con Pix de Brasil desde 2024, anticipando la integración
+    transfronteriza que los bancos centrales aún negocian.
+  category: empresa

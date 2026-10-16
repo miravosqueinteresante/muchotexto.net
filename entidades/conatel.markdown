@@ -4,7 +4,7 @@ title: "Comisión Nacional de Telecomunicaciones"
 description: >
   Perfil de Conatel en el Observatorio de IA en Paraguay: articulos, leyes y fuentes verificables sobre Comisión Nacional de Telecomunicaciones.
 permalink: /entidades/conatel/
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-16
 entity_id: conatel
 entity_name: Conatel
 entity_name_full: Comisión Nacional de Telecomunicaciones
