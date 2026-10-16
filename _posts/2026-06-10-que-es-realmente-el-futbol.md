@@ -7,7 +7,7 @@ categories: articulos
 pilar: 5
 resumen: "Un ensayo filosófico sobre el fútbol: deporte, religión, guerra e idioma, desde Eduardo Galeano hasta el Mundial 2026."
 tags: cultura-filosofia
-description: "¿Es el fútbol un deporte, una religión o un espejo de la sociedad? Una reflexión filosófica sobre el juego más popular del mundo, desde Galeano hasta el…"
+description: "¿Es el fútbol un deporte, una religión o un espejo de la sociedad? Una reflexión filosófica sobre el juego más popular del mundo."
 ---
 
 La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte: es una religión sin catedral, una guerra sin fusiles, un idioma que no necesita traducción. Es, como dijo Eduardo Galeano, *"la única varita mágica en la que puede creer el niño pobre"*. Sobre todo, es un espejo de todo lo que somos. Y cuando uno se para frente a ese espejo, lo que ve no siempre es cómodo.

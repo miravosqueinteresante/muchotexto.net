@@ -7,7 +7,7 @@ categories: articulos
 pilar: 1
 resumen: "Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década."
 tags: [paraguay-futuro, prospectiva, infraestructura-energia, tech-ecosistema, desarrollo]
-description: "Paraguay tiene energia limpia, una poblacion joven y 943,8 MW de potencia reservada para data centers. Que puede pasar si en los proximos 15 anos toma las…"
+description: "Paraguay tiene energía limpia, una población joven y 943,8 MW de potencia reservada para data centers. Qué puede pasar en los próximos 15 años."
 ---
 
 En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 943,8 megavatios de potencia reservada y contratada para data centers y criptominería, y una proyección de ingresos para ANDE de 350 millones de dólares por ese segmento —un 18,6% más que el año anterior—. Es un país que todavía exporta soja, carne y electricidad a precio de costo, pero que por primera vez en su historia tiene sobre la mesa cartas que ningún otro país Sudaméricano puede jugar. La pregunta es qué hace con ellas.

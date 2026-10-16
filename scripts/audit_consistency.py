@@ -300,6 +300,18 @@ def check_posts_pillar_link():
     return findings
 
 
+def check_posts_desc_ellipsis():
+    """description/resumen que terminan en '...' (regla: la meta SEO no se trunca)."""
+    findings = []
+    for full in analysis_posts():
+        txt = read(os.path.join(REPO, "_posts", full + ".md"))
+        for field in ("description", "resumen"):
+            m = re.search(rf'^{field}:\s*"([^"]*)"', txt, re.M)
+            if m and m.group(1).rstrip().endswith("…"):
+                findings.append((full, field))
+    return findings
+
+
 def parse_named_url_yaml(path, key="name"):
     """Extrae un set de (name, url) de un YAML de lista simple."""
     items = []
@@ -567,6 +579,10 @@ def main():
     # INV-19: todo analisis enlaza a la pagina pilar
     for slug in check_posts_pillar_link():
         errors.append(f"[INV-19] '{slug}': falta enlace a /ia-en-paraguay/")
+
+    # INV-20: description/resumen no terminan en '...'
+    for slug, field in check_posts_desc_ellipsis():
+        errors.append(f"[INV-20] '{slug}': el campo '{field}' termina en '...'")
 
     # INV-9: _data/fuentes.yml == fallback inline de pulso_diario.py
     yml_feeds = parse_named_url_yaml(os.path.join(REPO, "_data/fuentes.yml"))

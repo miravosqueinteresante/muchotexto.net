@@ -7,7 +7,7 @@ categories: articulos
 pilar: 2
 resumen: "HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos."
 tags: [geopolitica-regulacion, infraestructura-energia, tech-ecosistema, inversion, silicon-valley]
-description: "Paraguay tiene la electricidad más barata de Sudamérica. HIVE Digital ya invirtió USD 56M y opera 300 MW. Pero el resto de Silicon Valley todavía no se decide…"
+description: "Paraguay tiene la electricidad más barata de Sudamérica y HIVE Digital ya invierte USD 56M. Pero el resto de Silicon Valley todavía no se decide."
 ---
 
 En marzo de 2026 el ministro de Industria y Comercio de Paraguay, Marco Riquelme, aterrizó en Silicon Valley con una agenda de reuniones que incluía a OpenAI, Nvidia, Crusoe y Lambda. La misión: vender a Paraguay como el próximo destino de infraestructura de inteligencia artificial. Pero la empresa que más había invertido en Paraguay ya estaba allí desde antes: una minera de Bitcoin canadiense reconvertida que en noviembre de 2024 había puesto la primera piedra de lo que hoy son 300 megavatios operativos.

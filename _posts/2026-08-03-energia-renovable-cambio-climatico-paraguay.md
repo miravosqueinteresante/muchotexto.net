@@ -7,7 +7,7 @@ categories: articulos
 pilar: 1
 resumen: "El 99.9% de la electricidad es renovable pero el 97% depende de dos represas en una sola cuenca. Sin diversificación solar ni eólica."
 tags: [infraestructura-energia, paraguay-futuro, cambio-climatico, itaipu, deforestacion]
-description: "Paraguay genera el 99.9% de su electricidad con fuentes renovables. Pero 97% depende de dos represas, perdió 6.3M de hectáreas de bosque y no tiene plan de…"
+description: "Paraguay genera el 99,9% de su electricidad con fuentes renovables, pero el 97% depende de dos represas y perdió 6,3M de hectáreas de bosque."
 ---
 
 En 2024 Paraguay generó el 99,998% de su electricidad con fuentes renovables. Es un número que ningún país industrializado puede igualar. Pero esa electricidad sale casi enteramente de dos represas —Itaipú y Yacyretá— que dependen de un solo río, el Paraná, cuyo caudal está bajando. Al mismo tiempo, el país perdió 6,3 millones de hectáreas de bosque en dos décadas, una superficie equivalente a todo el departamento de Presidente Hayes. Paraguay es una paradoja climática: el país con la matriz eléctrica más limpia de Sudamérica es también uno de los que más carbono emite por hectárea talada.
