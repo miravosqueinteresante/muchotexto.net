@@ -144,7 +144,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 
 **Canon de datos (dos capas, sin conflicto):**
 1. **Serie del conector** (generación, suministro, pérdidas, clientes, consumo) → se sincroniza desde datos-publicos; NO se edita a mano.
-2. **Canon editorial verificado** (tarifa GCIE, timeline de decretos, proyección Ceare, distinciones, consumo por categoría) → vive en `_data/energia.yml` contra AGENTS.md; se re-verifica cada 30 días (próxima: 7-sep-2026).
+2. **Canon editorial verificado** (tarifa GCIE, timeline de decretos, proyección Ceare, distinciones, consumo por categoría) → vive en `_data/energia.yml` contra AGENTS.md; se re-verifica cada 30 días (próxima: 16-nov-2026).
 
 **Entidades energéticas con datos:** `ande`, `itaipu`, `yacyreta` tienen `datos_url` en `_data/entities.yml` y sección "Datos verificados" en sus páginas. Para crear/editar la página de una entidad, regenerar con `python scripts/build_entities.py` (nunca a mano).
 
@@ -392,7 +392,7 @@ Fuentes: ABC Color / Silvana Bogarín (9-ago-2026), estudio Ceare (UBA, con apoy
 - **Acuerdo Operativo Itaipú 2007**: expira 31-dic-2026 (renovado 2024-2026 por entendimiento del 16-abr/9-may-2024). Beneficio ~US$200M/año; desde 2027 la ANDE contratará toda su necesidad de potencia y podrá vender sobrante en Brasil (aún no vendió 1 kWh). NO confundir con Anexo C (reanudado nov-2025) ni con acuerdo tarifario (19,28, vence 1-ene-2027).
 - **Plan Maestro ANDE 2024-2043**: ~800 MW/año promedio de generación fotovoltaica. Primera licitación: planta solar Loma Plata (Chaco), anunciada mayo-2026. AGO-2026: ninguna planta utility-scale en operación — usar "la primera licitación se anunció en mayo de 2026", NO "no hay ningún proyecto".
 
-**Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 7 de octubre de 2026 (última: 18-sep-2026, sin cambios). Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
+**Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 16 de noviembre de 2026 (última: 16-oct-2026, sin cambios). Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
 
 ### Tarifas eléctricas internacionales para data centers (verificado ago 2026)
 

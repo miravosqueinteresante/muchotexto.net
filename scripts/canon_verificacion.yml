@@ -11,7 +11,7 @@ claims:
   # ── Tarifas y energía (30 días: cambian) ──────────────────────────────
   - id: tarifa_gcie
     categoria: tarifas
-    fecha_verificacion: "2026-09-18"
+    fecha_verificacion: "2026-10-16"
     caducidad_dias: 30
     fuente: "ANDE Res. 49238/2024 (GCIE 30 USD/MWh)"
 
