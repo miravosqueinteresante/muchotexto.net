@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Estrategia estatal y medios, el nuevo eje"
-description: "La creación de la Fuerza de la Superinteligencia en Estados Unidos marca un punto de inflexión en cómo las potencias globales entienden la inteligencia."
+description: "La creación de la Fuerza de la Superinteligencia en Estados Unidos marca un punto de inflexión en cómo las potencias globales entienden la inteligencia artificial, pasando de una fase de experimentación a una de control estratégico y supervisión estatal."
+
 
 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "IA, seguridad y el nuevo flujo de datos"
-description: "La integración de inteligencia artificial en la producción de contenidos de video por parte de medios locales, junto con el uso de analítica de datos para la."
+description: "La integración de inteligencia artificial en la producción de contenidos de video por parte de medios locales, junto con el uso de analítica de datos para la gestión del talento en Paraguay, marca un cambio en la forma en que las organizaciones locales procesan su información."
+
 
 
 

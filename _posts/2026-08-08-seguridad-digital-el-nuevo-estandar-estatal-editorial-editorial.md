@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad digital, el nuevo estándar."
-description: "El Ministerio de Educación y Ciencias MEC inició el desarrollo de un registro basado en tecnología criptográfica para validar títulos académicos, marcando un."
+description: "El Ministerio de Educación y Ciencias MEC inició el desarrollo de un registro basado en tecnología criptográfica para validar títulos académicos, marcando un hito en la protección de documentos sensibles en Paraguay."
+
 
 
 

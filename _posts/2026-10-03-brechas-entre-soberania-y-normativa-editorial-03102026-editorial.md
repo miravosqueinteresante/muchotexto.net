@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Brechas entre soberanía y normativa"
-description: "La puesta en órbita del GuaraniSat-2 marca un punto de inflexión en la capacidad técnica de Paraguay, consolidando un activo de infraestructura que trasciende."
+description: "La puesta en órbita del GuaraniSat-2 marca un punto de inflexión en la capacidad técnica de Paraguay, consolidando un activo de infraestructura que trasciende la teoría para instalarse físicamente en el espacio."
+
 
 
 

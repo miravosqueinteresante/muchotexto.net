@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Servicios, riesgos y formación digital"
-description: "El Instituto de Previsión Social habilitó una nueva plataforma digital denominada Cartera de Servicios, diseñada para que los asegurados puedan localizar."
+description: "El Instituto de Previsión Social habilitó una nueva plataforma digital denominada Cartera de Servicios, diseñada para que los asegurados puedan localizar médicos, especialidades y centros hospitalarios."
+
 
 
 

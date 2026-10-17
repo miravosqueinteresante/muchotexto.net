@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Brecha digital, el desafío de la escala"
-description: "El Pulso Tech Paraguay de hoy presenta un escenario donde la tecnología avanza a velocidades muy distintas, marcando una jornada con apenas dos Noticias de."
+description: "El Pulso Tech Paraguay de hoy presenta un escenario donde la tecnología avanza a velocidades muy distintas, marcando una jornada con apenas dos Noticias de relevancia tecnológica."
+
 
 
 

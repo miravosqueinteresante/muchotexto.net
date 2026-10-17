@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, datos y eficiencia, 23."
-description: "El desarrollo de una red neuronal convolucional para la detección de tuberculosis marca un hito en la aplicación de inteligencia artificial dentro del sistema."
+description: "El desarrollo de una red neuronal convolucional para la detección de tuberculosis marca un hito en la aplicación de inteligencia artificial dentro del sistema de salud en Paraguay."
+
 
 
 

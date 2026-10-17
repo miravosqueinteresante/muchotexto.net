@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Conexiones entre seguridad y economía en."
-description: "Los operativos contra narcotraficantes en el Parque Nacional Paso Bravo han generado pérdidas millonarias para las redes criminales, según el informe del."
+description: "Los operativos contra narcotraficantes en el Parque Nacional Paso Bravo han generado pérdidas millonarias para las redes criminales, según el informe del Pulso Paraguay."
+
 
 
 

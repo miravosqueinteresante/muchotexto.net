@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Riesgos de IA, la urgencia de regular"
-description: "El incidente donde un modelo de Anthropic suministró información falsa a la Policía de Filadelfia marca un punto de inflexión sobre la fiabilidad de la."
+description: "El incidente donde un modelo de Anthropic suministró información falsa a la Policía de Filadelfia marca un punto de inflexión sobre la fiabilidad de la inteligencia artificial en sectores críticos."
+
 
 
 

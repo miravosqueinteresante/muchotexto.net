@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Capacitación técnica y brecha de mercado"
-description: "La inauguración del centro de entrenamiento en cirugía robótica en Asunción y la implementación del Bachillerato en Tecnología Web e Inteligencia Artificial."
+description: "La inauguración del centro de entrenamiento en cirugía robótica en Asunción y la implementación del Bachillerato en Tecnología Web e Inteligencia Artificial Operativa marcan un cambio en la estrategia de formación técnica en Paraguay."
+
 
 
 

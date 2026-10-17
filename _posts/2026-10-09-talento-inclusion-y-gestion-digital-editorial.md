@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Talento, inclusión y gestión digital"
-description: "La inteligencia artificial se posiciona hoy en el centro del debate sobre el mercado laboral en Paraguay, marcando una transición desde la simple adopción."
+description: "La inteligencia artificial se posiciona hoy en el centro del debate sobre el mercado laboral en Paraguay, marcando una transición desde la simple adopción tecnológica hacia una integración estratégica."
+
 
 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ajustes económicos y clima social"
-description: "Hoy, Paraguay enfrenta un día marcado por decisiones económicas y eventos sociales que generan debate Editorial de muchotexto.net — 2026-07-01."
+description: "Hoy, Paraguay enfrenta un día marcado por decisiones económicas y eventos sociales que generan debate."
+
 
 
 

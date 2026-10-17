@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gobernanza institucional, el nuevo norte"
-description: "El Poder Ejecutivo oficializó hoy la designación de nuevos viceministros en el MITIC, marcando un punto de inflexión en la estructura de mando del sector."
+description: "El Poder Ejecutivo oficializó hoy la designación de nuevos viceministros en el MITIC, marcando un punto de inflexión en la estructura de mando del sector tecnológico estatal."
+
 
 
 

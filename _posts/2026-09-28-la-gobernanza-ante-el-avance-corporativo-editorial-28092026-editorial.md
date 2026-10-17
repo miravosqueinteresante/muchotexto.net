@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "La gobernanza ante el avance corporativo"
-description: "Meta puso en marcha una plataforma comercial diseñada para vender herramientas de inteligencia artificial directamente al sector corporativo, marcando un paso."
+description: "Meta puso en marcha una plataforma comercial diseñada para vender herramientas de inteligencia artificial directamente al sector corporativo, marcando un paso más en la integración de estas tecnologías en los procesos de negocio."
+
 
 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, datos y confianza."
-description: "El Ministerio de Industria y Comercio puso el foco en el almacenamiento de energía y la robótica, mientras que, en paralelo, el Senado exige una auditoría."
+description: "El Ministerio de Industria y Comercio puso el foco en el almacenamiento de energía y la robótica, mientras que, en paralelo, el Senado exige una auditoría técnica al sistema de máquinas de votación del TSJE."
+
 
 
 

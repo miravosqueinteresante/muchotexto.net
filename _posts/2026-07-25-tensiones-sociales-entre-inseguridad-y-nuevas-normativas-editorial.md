@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Tensiones sociales, entre inseguridad y."
-description: "La inseguridad sigue siendo el tema más discutido en Paraguay, según el Pulso de hoy Editorial de muchotexto.net — 2026-07-25."
+description: "La inseguridad sigue siendo el tema más discutido en Paraguay, según el Pulso de hoy."
+
 
 
 
