@@ -5,6 +5,7 @@ description: "La capacitación técnica en herramientas de Inteligencia Artifici
 
 
 
+
 date: 2026-10-15 18:00:00 -0300
 last_modified_at: 2026-10-15
 categories: editorial
