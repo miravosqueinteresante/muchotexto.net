@@ -15,6 +15,10 @@ on:
         description: "title | desc | both"
         required: false
         default: "both"
+      workers:
+        description: "Llamadas en paralelo (2-3 recomendado)"
+        required: false
+        default: "2"
 
 permissions:
   contents: write
@@ -42,7 +46,7 @@ jobs:
       - name: Generar títulos y descripciones
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/rewrite_descriptions.py --limit "${{ inputs.limit }}" --only "${{ inputs.only }}" --fields "${{ inputs.fields }}"
+        run: python scripts/rewrite_descriptions.py --limit "${{ inputs.limit }}" --only "${{ inputs.only }}" --fields "${{ inputs.fields }}" --workers "${{ inputs.workers }}"
 
       - name: Regenerar superficies derivadas
         run: python scripts/build_derived.py
