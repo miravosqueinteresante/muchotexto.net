@@ -2,9 +2,9 @@
 layout: entidad
 title: "MITIC | Observatorio de IA en Paraguay"
 description: >
-  Perfil de MITIC en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Ministerio de Tecnologías de la Información y Comunicación, con fuentes primarias y contexto local.
+  Perfil de MITIC en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Ministerio de Tecnologías de la Información y Comunicación.
 permalink: /entidades/mitic/
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 entity_id: mitic
 entity_name: MITIC
 entity_name_full: Ministerio de Tecnologías de la Información y Comunicación

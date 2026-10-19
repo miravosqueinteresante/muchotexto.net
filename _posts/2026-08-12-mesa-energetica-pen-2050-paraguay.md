@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta"
+title: "El plan energético al 2050 que Paraguay"
 date: 2026-08-12 12:00:00 -0300
 last_modified_at: 2026-08-18
 categories: articulos

@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "El ente regulador de energía que Paraguay diseña con concurso público"
+title: "El ente regulador de energía que Paraguay"
 date: 2026-08-19 12:00:00 -0300
 last_modified_at: 2026-08-19
 categories: articulos

@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
+title: "Paraguay aprobó una ley de protección de"
 date: 2026-07-07
 last_modified_at: 2026-08-15
 categories: articulos

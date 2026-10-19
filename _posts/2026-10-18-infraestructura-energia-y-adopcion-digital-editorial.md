@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infraestructura, energía y adopción digital"
-description: "El sector productivo nacional está marcando una hoja de ruta clara al solicitar formalmente un incremento en la potencia eléctrica disponible, apoyándose en la instalación de parques solares con sistemas de almacenamiento de baterías."
+description: "El sector productivo nacional está marcando una hoja de ruta clara al solicitar formalmente un incremento en la potencia eléctrica disponible, apoyándose en."
 
 date: 2026-10-18 18:00:00 -0300
 last_modified_at: 2026-10-18

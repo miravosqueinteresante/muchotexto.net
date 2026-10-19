@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
+title: "El estudio Ceare que proyecta la tarifa de"
 date: 2026-08-20 12:00:00 -0300
 last_modified_at: 2026-08-20
 categories: articulos

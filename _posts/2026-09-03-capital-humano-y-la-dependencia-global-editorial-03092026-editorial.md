@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capital humano y la dependencia global"
-description: "La llegada de 87 estudiantes paraguayos a Taiwán para completar sus estudios de ingeniería marca un punto de inflexión en la estrategia de formación técnica del país."
+description: "La llegada de 87 estudiantes paraguayos a Taiwán para completar sus estudios de ingeniería marca un punto de inflexión en la estrategia de formación técnica."
 
 
 

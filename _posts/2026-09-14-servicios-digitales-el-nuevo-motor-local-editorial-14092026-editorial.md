@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Servicios digitales, el nuevo motor local"
-description: "El sector de servicios digitales bajo el régimen de maquila alcanzó exportaciones superiores a los USD 1.000 millones a agosto de 2026, consolidándose como un pilar fundamental de la economía nacional."
+description: "El sector de servicios digitales bajo el régimen de maquila alcanzó exportaciones superiores a los USD 1.000 millones a agosto de 2026, consolidándose como."
 
 
 

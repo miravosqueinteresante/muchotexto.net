@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IA aplicada, la nueva escala del agro"
-description: "El desarrollo de aeronaves ultralivianas no tripuladas con inteligencia artificial para la fumigación agrícola marca un punto de inflexión en la adopción tecnológica en Paraguay."
+description: "El desarrollo de aeronaves ultralivianas no tripuladas con inteligencia artificial para la fumigación agrícola marca un punto de inflexión en la adopción."
 
 
 

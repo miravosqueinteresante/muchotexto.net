@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
-title: "Entre secretos y pantallas: El dilema de la transparencia en tiempos digitales — Editorial 17 de junio de 2026"
-description: "Paraguay atraviesa un momento de tensiones que ponen a prueba la confianza de su sociedad."
+title: "Entre secretos y pantallas: El dilema de"
+description: "Paraguay atraviesa un momento de tensiones que ponen a prueba la confianza de su sociedad. Editorial de muchotexto.net — 2026-06-17."
 
 
 

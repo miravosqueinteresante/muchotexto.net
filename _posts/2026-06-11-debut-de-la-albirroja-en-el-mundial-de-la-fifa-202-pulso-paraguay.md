@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Pulso Paraguay: Debut de la Albirroja en el Mundial de la FIFA 2026 — 11 de junio de 2026"
+title: "Pulso Paraguay: Debut de la Albirroja en"
 description: "Debut de la Albirroja en el Mundial de la FIFA 2026: La selección paraguaya de fútbol está en el centro de atención a medida que se aproxima su debut en la…"
 
 

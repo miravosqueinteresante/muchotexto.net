@@ -2,9 +2,9 @@
 layout: entidad
 title: "Itaipú Binacional"
 description: >
-  Perfil de Itaipú en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Itaipú Binacional, con fuentes primarias y contexto local.
+  Perfil de Itaipú en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Itaipú Binacional, con fuentes primarias locales.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
@@ -14,18 +14,18 @@ entity_category: infraestructura
 entity_datos_url: https://datospublicos.muchotexto.net/itaipu.html
 entity_datos_desc: "serie 2000–2026: generación por sector 50/60 Hz y suministro a Paraguay y Brasil"
 related_articles:
-  - title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
-    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
-  - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+  - title: "Lo que Itaipú le enseña a Paraguay sobre"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "1. Tratado de Itaipú — Wikipedia (1973) 2. Itaipú Binacional — sitio oficial 3. Yguazú Digital — cobertura del MoU, ABC Color (mayo 2026) 4...."
-  - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
+  - title: "Yguazú Digital y la apuesta de Paraguay"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "- Focus Taiwán (CNA) — Firma del MOU Paraguay-Taiwán (8 mayo 2026) - [Infobae — 'Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del..."
-  - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
+  - title: "Paraguay tiene energía para la IA pero no"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "- ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones' (4 julio 2026) - [Última Hora —..."
+  - title: "En 2027 Paraguay arriesga el acuerdo"
+    url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+    context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
   - title: "Paraguay tiene energía 100% renovable y el"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
     context: "1. Wikipedia (EN) — Electricity sector in Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."

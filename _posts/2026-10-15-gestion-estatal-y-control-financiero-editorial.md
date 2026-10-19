@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gestión estatal y control financiero"
-description: "La capacitación técnica en herramientas de Inteligencia Artificial para funcionarios de Petróleos Paraguayos Petropar marca un punto de inflexión en la administración pública."
+description: "La capacitación técnica en herramientas de Inteligencia Artificial para funcionarios de Petróleos Paraguayos Petropar marca un punto de inflexión en la."
 
 
 

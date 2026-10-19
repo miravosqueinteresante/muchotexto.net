@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brecha digital y el futuro del mercado."
-description: "La jornada de hoy presenta una tensión clara entre la adopción de tecnologías de alto rendimiento y la preocupación por el impacto social que estas generan en Paraguay."
+description: "La jornada de hoy presenta una tensión clara entre la adopción de tecnologías de alto rendimiento y la preocupación por el impacto social que estas generan."
 
 
 

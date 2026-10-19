@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
-title: "Malestar ciudadano: la salud pública como espejo del Paraguay — Editorial 16 de junio de 2026"
-description: "Hay días en los que leer el panorama nacional es como abrir una caja de Pandora. Hoy es uno de esos días en Paraguay."
+title: "Malestar ciudadano: la salud pública como"
+description: "Hay días en los que leer el panorama nacional es como abrir una caja de Pandora. Hoy es uno de esos días en Paraguay. Editorial de muchotexto.net — 2026-06-16."
 
 
 

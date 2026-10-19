@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Talento, brechas y el marco regulatorio"
-description: "La noticia sobre la admisión de Alessia Digalo Villagarcia a la Universidad de Stanford marca un hito en la formación de capital humano en Paraguay, pero este logro debe leerse en paralelo con la propuesta de María del Carmen Giménez sobre la integración de la educación, el empleo y la salud ante la inteligencia artificial."
+description: "La noticia sobre la admisión de Alessia Digalo Villagarcia a la Universidad de Stanford marca un hito en la formación de capital humano en Paraguay, pero."
 
 
 date: 2026-10-17 18:00:00 -0300

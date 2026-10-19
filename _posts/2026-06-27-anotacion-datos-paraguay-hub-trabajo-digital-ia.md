@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Paraguay tiene una ventaja silenciosa en la anotación de datos para IA"
+title: "La ventaja silenciosa de Paraguay en datos"
 date: 2026-06-27
 last_modified_at: 2026-08-15
 categories: articulos

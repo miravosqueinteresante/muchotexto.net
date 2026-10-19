@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Pulso Paraguay: Mundial de Fútbol 2026 — 12 de junio de 2026"
+title: "Pulso Paraguay: Mundial 2026 · 12 jun"
 description: "Mundial de Fútbol 2026: El debut de la Albirroja genera una ola de entusiasmo en todo el país. Pulso Tech Paraguay — 12 de junio de 2026."
 
 

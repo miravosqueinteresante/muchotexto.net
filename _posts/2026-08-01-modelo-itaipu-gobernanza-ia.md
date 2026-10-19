@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+title: "Lo que Itaipú le enseña a Paraguay sobre"
 date: 2026-08-01 22:00:00 -0300
 last_modified_at: 2026-08-15
 categories: articulos

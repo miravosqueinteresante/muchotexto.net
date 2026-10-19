@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IA y alianzas, el nuevo eje estratégico"
-description: "La invitación formal cursada a Foxconn para sumarse al proyecto de un centro de IA{% posturl 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %} marca un punto de inflexión en la política tecnológica de Paraguay."
+description: "La invitación formal cursada a Foxconn para sumarse al proyecto de un centro de IA{% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo."
 
 
 

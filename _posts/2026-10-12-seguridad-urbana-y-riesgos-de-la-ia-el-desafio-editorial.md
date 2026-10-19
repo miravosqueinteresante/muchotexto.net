@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seguridad urbana y riesgos de la IA, el."
-description: "La habilitación del nuevo centro de monitoreo en Pilar, que integra 30 cámaras de seguridad con una inversión de G."
+description: "La habilitación del nuevo centro de monitoreo en Pilar, que integra 30 cámaras de seguridad con una inversión de G. Editorial de muchotexto.net — 2026-10-12."
 
 
 

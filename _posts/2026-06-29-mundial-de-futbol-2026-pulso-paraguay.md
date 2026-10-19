@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pulso Paraguay: Mundial de Fútbol 2026"
+title: "Pulso Paraguay: Mundial 2026 · 29 jun"
 description: "Mundial de Fútbol 2026: La Albirroja se prepara para su crucial enfrentamiento contra Alemania en busca de acceder a los octavos de final. Pulso Tech Paraguay…"
 
 

@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Luces y sombras de la apertura eléctrica: Paraguay y el sector privado"
+title: "Apertura eléctrica: luces y sombras"
 date: 2026-05-27
 last_modified_at: 2026-09-23
 categories: articulos

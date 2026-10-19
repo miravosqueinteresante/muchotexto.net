@@ -2,9 +2,9 @@
 layout: entidad
 title: "Taiwán (República de China)"
 description: >
-  Perfil de Taiwán en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Taiwán (República de China), con fuentes primarias y contexto local.
+  Perfil de Taiwán en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 entity_id: taiwan
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
@@ -12,15 +12,15 @@ entity_description: >
   Taiwán es el último aliado diplomático de Paraguay en Sudamérica y su socio estratégico en tecnología. Fabrica el 90% de los semiconductores avanzados del mundo (TSMC). Invierte en Paraguay a través del ICDF con becas, cooperación técnica y el proyecto Yguazú Digital. En agosto 2026 el fabricante de memorias ADATA (2º productor mundial de módulos DRAM) inició la prospección de una planta de ensamblaje de memorias y SSDs en Minga Guazú bajo el régimen de maquila (Ley 7547/2025). La relación Taiwán-Paraguay define la posición geopolítica del país en la guerra fría tecnológica entre China y EE.UU.
 entity_category: geopolítica
 related_articles:
-  - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
-    url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
-    context: "- Reuters — 'Paraguay stands by Taiwán as island's last South American ally' (16 abril 2024) - [The Economist — 'The lonely road;..."
-  - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
+  - title: "Por qué Taiwán no fabrica semiconductores"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
     context: "- Wikipedia — TSMC — ingresos, clientes, fábricas, procesos - Wikipedia — Silicon Shield — concepto geopolítico, cuota de mercado, dependencia global - [Wikipedia..."
-  - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
+  - title: "Paraguay aprobó una ley de protección de"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-  - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+  - title: "Por qué Paraguay es el último país"
+    url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
+    context: "- Reuters — 'Paraguay stands by Taiwán as island's last South American ally' (16 abril 2024) - [The Economist — 'The lonely road;..."
+  - title: "Lo que Itaipú le enseña a Paraguay sobre"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "La asimetría Itaipú era de tamaño; Brasil tiene 28 veces la población de Paraguay y 47 veces su PIB. Pero compartían un río y una necesidad concreta; energía. La asimetría Paraguay-Taiwán es de naturaleza. Taiwán no necesita la energía de Paraguay..."
   - title: "ADATA mira Minga Guazú para ensamblar SSDs"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inseguridad y confianza institucional"
-description: "La fuga de dos reos de la Penitenciaría Regional de Misiones y la incautación de más de 500 celulares en la Penitenciaría de Oviedo han puesto en evidencia las debilidades estructurales del sistema penitenciario en Paraguay."
+description: "La fuga de dos reos de la Penitenciaría Regional de Misiones y la incautación de más de 500 celulares en la Penitenciaría de Oviedo han puesto en evidencia."
 
 
 

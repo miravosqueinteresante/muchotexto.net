@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eficiencia digital, la hoja de ruta"
-description: "El sector financiero en Paraguay está integrando herramientas de inteligencia artificial con el objetivo concreto de optimizar la captación de clientes y reducir costos operativos."
+description: "El sector financiero en Paraguay está integrando herramientas de inteligencia artificial con el objetivo concreto de optimizar la captación de clientes y."
 
 
 

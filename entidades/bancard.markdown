@@ -2,9 +2,9 @@
 layout: entidad
 title: "Bancard | Observatorio de IA en Paraguay"
 description: >
-  Perfil de Bancard en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Bancard S.A., con fuentes primarias y contexto local.
+  Perfil de Bancard en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Bancard S.A., con fuentes primarias locales.
 permalink: /entidades/bancard/
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 entity_id: bancard
 entity_name: Bancard
 entity_name_full: Bancard S.A.

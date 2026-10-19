@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
+title: "Lo que dice la encíclica de León XIV"
 date: 2026-05-28
 last_modified_at: 2026-08-23
 categories: articulos

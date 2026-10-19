@@ -2,9 +2,9 @@
 layout: entidad
 title: "Administración Nacional de Electricidad"
 description: >
-  Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Administración Nacional de Electricidad, con fuentes primarias y contexto local.
+  Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
@@ -17,31 +17,31 @@ related_articles:
   - title: "ANDE oculta 943 MW de contratos bajo llave"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
-  - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
+  - title: "Yguazú Digital y la apuesta de Paraguay"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; *y* (agua) + *guasu* (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en."
-  - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
+  - title: "Paraguay tiene energía para la IA pero no"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental; tener energía disponible..."
-  - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
+  - title: "Por qué Paraguay es el último país"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
     context: "Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. De los aproximadamente 22 países que reconocían a Taipei en 2016, quedan doce. De esos doce, Paraguay es el más grande y —desde que Honduras."
-  - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
+  - title: "Por qué Taiwán no fabrica semiconductores"
     url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
     context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
-  - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
+  - title: "Paraguay tiene la energía para el"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
     context: "Paraguay podría producir hidrógeno verde a un costo entre los más bajos de Sudamérica. Tiene electricidad barata para grandes consumidores (la tarifa GCIE, USD 0,03 por kilovatio-hora), agua abundante del río Paraná y una subestación de 200 MW en..."
-  - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
+  - title: "Lo que Itaipú le enseña a Paraguay sobre"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
   - title: "Paraguay 2040: un país construido con datos"
     url: /articulos/2026/08/05/paraguay-2040-futuro-datos/
     context: "En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 943,8 megavatios de potencia reservada y contratada para data centers y criptominería, y una proyección de ingresos para ANDE de 350 millones de..."
-  - title: "El ente regulador de energía que Paraguay diseña con concurso público"
+  - title: "El ente regulador de energía que Paraguay"
     url: /articulos/2026/08/19/ente-regulador-energia/
     context: "Durante más de seis décadas, la empresa que vende la electricidad en Paraguay también fijó su precio. Ese arreglo —la ANDE como operador y regulador a la vez— está a punto de quedar por escrito en el pasado. El 13 de agosto de 2026, junto al..."
-  - title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
+  - title: "El estudio Ceare que proyecta la tarifa de"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto hay un número que explica por qué se discuten; 68,6. Ese es, en dólares por megavatio-hora, el valor al que la tarifa media de la electricidad paraguaya debería llegar en.."
   - title: "ARAICO promete un campus de IA de 1,3 GW"

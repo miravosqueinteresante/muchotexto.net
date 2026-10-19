@@ -1,13 +1,13 @@
-﻿---
+---
 layout: post
-title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
+title: "En 2027 Paraguay arriesga el acuerdo"
 date: 2026-07-17
 last_modified_at: 2026-09-23
 categories: articulos
 pilar: 1
 resumen: "El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?"
 tags: infraestructura-energia ia-paraguay
-description: "El acuerdo tarifario de Itaipú vence el 1 de enero de 2027. La negociación del Anexo C se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año."
+description: "El acuerdo tarifario de Itaipú vence el 1 de enero de 2027. La negociación del Anexo C se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M."
 ---
 
 El 26 de abril de 1973, Paraguay y Brasil firmaron el Tratado de Itaipú. Cincuenta y tres años después, la represa hidroeléctrica con mayor generación acumulada de la historia —14.000 megavatios instalados, 20 turbinas de 700 megavatios cada una— produce más electricidad que cualquier otra central del planeta y representa aproximadamente el 12% de los ingresos del Estado paraguayo. El 1 de enero de 2027 vence el acuerdo tarifario que fija el precio al que Paraguay le vende su energía excedente a Brasil; el Anexo C en sí no vence ese año. La negociación para renovarlo se suspendió en abril de 2025, cuando se reveló que la Agencia Brasileña de Inteligencia espió a funcionarios paraguayos, y se reanudó en noviembre de ese año.

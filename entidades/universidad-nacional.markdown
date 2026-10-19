@@ -2,9 +2,9 @@
 layout: entidad
 title: "Universidad Nacional de Asunción"
 description: >
-  Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Universidad Nacional de Asunción, con fuentes primarias y contexto local.
+  Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
@@ -12,10 +12,7 @@ entity_description: >
   La universidad más grande de Paraguay, fundada en 1889. Sus facultades de Ingeniería y Politécnica forman parte de los ~400 graduados anuales en informática. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formación de talento tech del país.
 entity_category: academia
 related_articles:
-  - title: "Paraguay tiene una ventaja silenciosa en la anotación de datos para IA"
-    url: /articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/
-    context: "Cada vez que un modelo de inteligencia artificial responde una pregunta, traduce un texto o identifica un objeto en una imagen, hubo un ser humano que lo entrenó. Uno que etiquetó datos durante horas por centavos de dólar. Uno cuyo nombre no aparece."
-  - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
+  - title: "Paraguay aprobó una ley de protección de"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
     context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda; va a abrir sus puertas la primera..."
   - title: "Cuando un data center llega a una ciudad"
@@ -36,18 +33,21 @@ related_articles:
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
     context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta,..."
-  - title: "Soja, ganado y blockchain: la tokenización del agro en Paraguay"
+  - title: "Soja y blockchain: tokenización del agro"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
     context: "Hay una idea que está girando en los círculos fintech paraguayos y que promete cambiar quién financia el campo, cómo se vende la cosecha y hasta quién puede ser dueño de un pedazo de tierra sin moverse de su casa. Se llama tokenización agropecuaria,."
-  - title: "La IA cuesta más que los humanos que reemplazó: los números"
+  - title: "La IA cuesta más que los humanos"
     url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
     context: "Hay un post que circula en redes sociales y que probablemente ya viste. Dice que Uber quemó todo su presupuesto anual de IA en cuatro meses. Que Microsoft está retirando licencias a sus propios ingenieros. Que Starbucks eliminó su sistema de..."
-  - title: "La IA no es neutral: lo que dice la encíclica del Papa León XIV"
+  - title: "Lo que dice la encíclica de León XIV"
     url: /articulos/2026/05/28/magnifica-humanitas-enciclica-ia/
     context: "La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la."
   - title: "¿Qué es realmente el fútbol?"
     url: /articulos/2026/06/10/que-es-realmente-el-futbol/
     context: "La pregunta parece simple, casi ingenua. Once contra once, una pelota, dos arcos, noventa minutos. Pero cuanto más se la piensa, menos se deja atrapar. Porque el fútbol no es un deporte; es una religión sin catedral, una guerra sin fusiles, un..."
+  - title: "EE.UU. usó IA para reinventar el fútbol"
+    url: /articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/
+    context: "Estados Unidos llegó al Mundial 2026 como anfitrión. Nadie lo puso en la lista de favoritos. Brasil, Argentina, Francia, Alemania, España — las potencias de siempre ocupaban los titulares. Pero dos partidos después, USA lidera el Grupo D con 6..."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/

@@ -2,7 +2,7 @@
 layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
-description: "Mapa regulatorio de la IA en Paraguay: leyes, decretos y estrategias vigentes, con análisis y fuentes verificables."
+description: "Mapa regulatorio de la IA en Paraguay: leyes, decretos y estrategias vigentes, con análisis, fuentes verificables y contexto local."
 last_modified_at: 2026-09-18
 ---
 

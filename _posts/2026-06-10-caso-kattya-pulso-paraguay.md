@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Pulso Paraguay: Caso Kattya — 10 de junio de 2026"
+title: "Pulso Paraguay: Caso Kattya"
 description: "Caso Kattya: El tema de mayor conversación hoy es el caso de Kattya González, por el que se cuestiona la idoneidad de ciertos ministros. Pulso Tech Paraguay —…"
 
 

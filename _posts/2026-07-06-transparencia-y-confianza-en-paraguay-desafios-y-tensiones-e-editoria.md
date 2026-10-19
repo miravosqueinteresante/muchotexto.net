@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Transparencia y confianza en Paraguay desafíos y tensiones — Editorial 6 de julio de 2026"
+title: "Transparencia y confianza en Paraguay"
 description: "La confirmación de irregularidades en el informe de la Contraloría General de la República CGR ha puesto en evidencia problemás estructurales en la..."
 date: 2026-07-06 18:00:00 -0400
 last_modified_at: 2026-07-06

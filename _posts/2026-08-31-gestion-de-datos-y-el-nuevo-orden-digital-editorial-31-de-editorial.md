@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gestión de datos y el nuevo orden digital"
-description: "La implementación del trasbordo gratuito mediante el sistema de billetaje electrónico en el área metropolitana marca un hito en la digitalización de los servicios públicos en Paraguay."
+description: "La implementación del trasbordo gratuito mediante el sistema de billetaje electrónico en el área metropolitana marca un hito en la digitalización de los."
 
 
 

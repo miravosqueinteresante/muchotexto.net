@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
-title: "Infraestructura, riesgos y finanzas, 19 de agosto de 2026"
-description: "El incremento del 18,2 % en el consumo eléctrico reportado por la sector eléctrico{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %} marca una pauta clara sobre la presión que enfrenta la infraestructura nacional."
+title: "Infraestructura, riesgos y finanzas, 19 de"
+description: "El incremento del 18,2 % en el consumo eléctrico reportado por la sector eléctrico{% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %} marca."
 
 
 

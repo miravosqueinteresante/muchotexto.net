@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⚡ ENERGIA Y DATA CENTERS | Pulso Tech"
+title: "ENERGIA Y DATA CENTERS · 18 oct"
 description: "PULSO TECH PARAGUAY DOMINGO 18 de octubre de 2026 Ultima actualizacion: 12:34 ⚡ ENERGIA Y DATA CENTERS Parques solares con baterías como solución..."
 date: 2026-10-18
 last_modified_at: 2026-10-18

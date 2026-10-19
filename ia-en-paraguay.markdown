@@ -12,8 +12,8 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 ## Empezá por acá
 
-- **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y USD 200 millones a 1 GW y USD 40.000 millones. El artículo más leído del observatorio.
-- **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable. El cambio estructural más importante de la última década.
+- **[Yguazú Digital y la apuesta de Paraguay]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y USD 200 millones a 1 GW y USD 40.000 millones. El artículo más leído del observatorio.
+- **[Apertura eléctrica: luces y sombras]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable. El cambio estructural más importante de la última década.
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** — El cofundador de Palantir y Founders Fund se reunió con el presidente en Mburuvicha Róga. Lo que significa para la vigilancia, los datos y la soberanía.
 
 **Biblioteca de análisis** — {% assign n_articulos = site.posts | where_exp: "p", "p.pilar" | size %}{{ n_articulos }} artículos organizados por sector:
@@ -48,21 +48,21 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 <!-- PILAR:1:INICIO -->
 
-- **[Luces y sombras de la apertura eléctrica: Paraguay y el sector privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
-- **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
-- **[Lo que la criptominería le cuesta realmente a Paraguay]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** — Paraguay es el cuarto país con mayor minería de bitcoin del mundo.
-- **[Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** — Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
-- **[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** — Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
-- **[En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** — El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?
-- **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
+- **[Apertura eléctrica: luces y sombras]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
+- **[Yguazú Digital y la apuesta de Paraguay]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
+- **[Lo que la criptominería le cuesta]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** — Paraguay es el cuarto país con mayor minería de bitcoin del mundo.
+- **[Paraguay tiene energía para la IA pero no]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** — Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
+- **[Qué es un data center y por qué Paraguay]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** — Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
+- **[En 2027 Paraguay arriesga el acuerdo]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** — El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?
+- **[Paraguay tiene la energía para el]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
 - **[Paraguay tiene energía 100% renovable y el]({% post_url 2026-08-03-energia-renovable-cambio-climatico-paraguay %})** — El 99.9% de la electricidad es renovable pero el 97% depende de dos represas en una sola cuenca. Sin diversificación solar ni eólica.
 - **[Cuando un data center llega a una ciudad]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
 - **[Paraguay 2040: un país construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
-- **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico.
-- **[El ente regulador de energía que Paraguay diseña con concurso público]({% post_url 2026-08-19-ente-regulador-energia %})** — El árbitro que le faltaba al sector: directorio elegido por concurso, mandato de seis años y revisión tarifaria con audiencia. Pone fin al "juez y parte" de la ANDE.
-- **[El ministerio de energía que Paraguay prepara con tres viceministerios]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %})** — El proyecto de ley crea el Ministerio de Energía, Minería e Hidrocarburos absorbiendo al VMME y a la Dirección de Combustibles, con financiamiento por regalías y rectoría sobre la ANDE y Petropar.
-- **[El modelo institucional de PSR para el sector eléctrico paraguayo]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %})** — La consultora brasileña PSR propone separar el sector en tres piezas: ministerio, ente regulador y una ANDE enfocada. El documento omite seis asuntos decisivos, desde las tarifas hasta el rol de Itaipú y Yacyretá.
-- **[El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares]({% post_url 2026-08-20-estudio-ceare-tarifa-paraguay %})** — El diagnóstico de la UBA con apoyo del BID: tarifa media de 49,2 a 68,6 US$/MWh al 2030, con pérdidas y morosidad que justifican la reforma institucional.
+- **[El plan energético al 2050 que Paraguay]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico.
+- **[El ente regulador de energía que Paraguay]({% post_url 2026-08-19-ente-regulador-energia %})** — El árbitro que le faltaba al sector: directorio elegido por concurso, mandato de seis años y revisión tarifaria con audiencia. Pone fin al "juez y parte" de la ANDE.
+- **[El ministerio de energía que Paraguay]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %})** — El proyecto de ley crea el Ministerio de Energía, Minería e Hidrocarburos absorbiendo al VMME y a la Dirección de Combustibles, con financiamiento por regalías y rectoría sobre la ANDE y Petropar.
+- **[El modelo institucional de PSR para el]({% post_url 2026-08-19-modelo-institucional-psr-sector-electrico %})** — La consultora brasileña PSR propone separar el sector en tres piezas: ministerio, ente regulador y una ANDE enfocada. El documento omite seis asuntos decisivos, desde las tarifas hasta el rol de Itaipú y Yacyretá.
+- **[El estudio Ceare que proyecta la tarifa de]({% post_url 2026-08-20-estudio-ceare-tarifa-paraguay %})** — El diagnóstico de la UBA con apoyo del BID: tarifa media de 49,2 a 68,6 US$/MWh al 2030, con pérdidas y morosidad que justifican la reforma institucional.
 - **[ANDE oculta 943 MW de contratos bajo llave]({% post_url 2026-09-16-los-contratos-secretos-de-ande %})** — 41 empresas del GCIE concentran 943,8 MW y 5.465 GWh de consumo, pero las condiciones individuales de cada contrato no son públicas. Decretos derogados, renuncia de Félix Sosa y un arbitraje de Atome en el CIADI.
 - **[El data center Tier III que Paraguay ya]({% post_url 2026-09-21-tigo-data-center-tier-iii-paraguay %})** — El único data center Tier III de un operador privado está en Villa Elisa, es de Tigo y opera desde 2016. Sobre él corre la nube global (Netflix, Google) mientras los megaproyectos de IA siguen en anuncios.
 - **[La energía nuclear firmada no es un reactor]({% post_url 2026-09-23-energia-nuclear-paraguay-eeuu %})** — El 4 de agosto de 2026 Paraguay firmó con Washington un MOU no vinculante, no un Acuerdo 123. Ningún SMR de diseño estadounidense opera todavía, el proyecto insignia se canceló por costos y el piso realista para un reactor es de 15 a 20 años.
@@ -78,13 +78,13 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 <!-- PILAR:2:INICIO -->
 
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** — El cofundador de Palantir se reunió con Santiago Peña en Mburuvicha Róga.
-- **[Paraguay aprobó una ley de protección de datos que cambia las reglas]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** — Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
-- **[Por qué Paraguay es el último país sudamericano que apuesta por Taiwán]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** — Paraguay es el último país de Sudamérica que reconoce a Taiwán.
-- **[Por qué Taiwán no fabrica semiconductores en Paraguay]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** — TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
+- **[Paraguay aprobó una ley de protección de]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %})** — Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
+- **[Por qué Paraguay es el último país]({% post_url 2026-07-09-paraguay-china-taiwan-geopolitica-ia %})** — Paraguay es el último país de Sudamérica que reconoce a Taiwán.
+- **[Por qué Taiwán no fabrica semiconductores]({% post_url 2026-07-14-semiconductores-taiwan-paraguay %})** — TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?
 - **[Más GPU que estrategia de IA en Paraguay]({% post_url 2026-07-16-ia-soberana-paraguay %})** — Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?
-- **[Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años]({% post_url 2026-07-17-ciberseguridad-paraguay %})** — CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
-- **[Lo que el capital de Silicon Valley busca en Paraguay y no encuentra]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** — HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos.
-- **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
+- **[Paraguay ya sufrió ciberataques chinos y]({% post_url 2026-07-17-ciberseguridad-paraguay %})** — CERT-PY funciona desde 2012. En 2024 hackers chinos infiltraron el gobierno. En 2025 un ataque expuso 7.4M de registros.
+- **[Lo que el capital de Silicon Valley busca]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** — HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos.
+- **[Lo que Itaipú le enseña a Paraguay sobre]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
 - **[Paraguay firma la residencia permanente]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria) en unos tres meses. No es la más barata, pero sí la más directa de la región.
 
 <!-- PILAR:2:FIN -->
@@ -95,10 +95,10 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 
 <!-- PILAR:3:INICIO -->
 
-- **[Paraguay tiene una ventaja silenciosa en la anotación de datos para IA]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** — Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos.
-- **[El plan de Paraguay para pasar de la soja al silicio]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** — Cinco países hicieron el salto de materias primas a tecnología.
-- **[Paraguay necesita más ingenieros para sostener su hub de IA]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** — Paraguay produce alrededor de 400 graduados en informática por año.
-- **[Paraguay pierde el talento que necesita para ser hub de IA]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** — Paraguay no tiene programas de retorno ni red de diaspora tech para traer de vuelta a sus profesionales.
+- **[La ventaja silenciosa de Paraguay en datos]({% post_url 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia %})** — Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos.
+- **[El plan de Paraguay para pasar de la soja]({% post_url 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay %})** — Cinco países hicieron el salto de materias primas a tecnología.
+- **[Paraguay necesita más ingenieros para]({% post_url 2026-07-09-educacion-tech-paraguay-ia %})** — Paraguay produce alrededor de 400 graduados en informática por año.
+- **[Paraguay pierde el talento que necesita]({% post_url 2026-07-10-talento-tech-paraguay-ia %})** — Paraguay no tiene programas de retorno ni red de diaspora tech para traer de vuelta a sus profesionales.
 - **[Starlink ya conecta a 20.000 paraguayos]({% post_url 2026-07-15-starlink-paraguay-conectividad %})** — Starlink opera en Paraguay desde 2023. Mil seiscientas antenas en escuelas rurales, 20.000 usuarios y una pregunta: ¿basta con conectar?
 - **[1.5M de identidades y 480 trámites online]({% post_url 2026-07-16-gobierno-digital-paraguay %})** — Paraguay tiene arquitectura de gobierno digital pero el ciudadano no puede renovar su cédula online.
 - **[Telemedicina desde 2013, IA en salud: no]({% post_url 2026-07-16-ia-salud-paraguay %})** — Paraguay opera telediagnóstico nacional desde 2013 con más de un millón de estudios. La inteligencia artificial nunca llegó a sus hospitales.
@@ -115,7 +115,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 
 <!-- PILAR:4:INICIO -->
 
-- **[Soja, ganado y blockchain: la tokenización del agro en Paraguay]({% post_url 2026-05-18-tokenizacion-del-agro-paraguay %})** — La Ley 7572 reconoce instrumentos en blockchain.
+- **[Soja y blockchain: tokenización del agro]({% post_url 2026-05-18-tokenizacion-del-agro-paraguay %})** — La Ley 7572 reconoce instrumentos en blockchain.
 - **[Paraguay tiene más fintechs que bancos]({% post_url 2026-07-10-fintech-paraguay-ecosistema %})** — El ecosistema fintech paraguayo, las leyes 7503 y 7572, y la inclusión financiera.
 - **[El campo paraguayo se moderniza sin el]({% post_url 2026-07-13-agro-40-paraguay-ia %})** — Menos del 5% de las fincas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil.
 - **[Startups de IA que nadie conoce en Paraguay]({% post_url 2026-07-14-startups-ia-paraguay %})** — El ecosistema startup de IA en Paraguay: USD 3.9M en inversión en 2025, Autograph, KOGA y lo que falta.
@@ -142,8 +142,8 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 
 - **[El futuro de la identidad y la conciencia]({% post_url 2026-05-13-ciberhumanidad %})** — Cómo la tecnología fragmenta nuestra atención, relaciones e identidad.
 - **[5 tecnologías que prometieron cambiar todo]({% post_url 2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo %})** — Metaverso, NFTs, Hyperloop, Google Glass, Segway.
-- **[La IA cuesta más que los humanos que reemplazó: los números]({% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %})** — Verificación de datos sobre el estado real de la inversión en IA.
-- **[La IA no es neutral: lo que dice la encíclica del Papa León XIV]({% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %})** — El Vaticano publicó la primera encíclica sobre inteligencia artificial.
+- **[La IA cuesta más que los humanos]({% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %})** — Verificación de datos sobre el estado real de la inversión en IA.
+- **[Lo que dice la encíclica de León XIV]({% post_url 2026-05-28-magnifica-humanitas-enciclica-ia %})** — El Vaticano publicó la primera encíclica sobre inteligencia artificial.
 - **[¿Qué es realmente el fútbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** — Un ensayo filosófico sobre el fútbol: deporte, religión, guerra e idioma, desde Eduardo Galeano hasta el Mundial 2026.
 - **[EE.UU. usó IA para reinventar el fútbol]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** — USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol.
 - **[Paraguay está enseñando guaraní a la]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset comunitario de voz en guaraní.

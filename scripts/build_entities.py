@@ -421,9 +421,16 @@ def generate_entity_page(entity, related_articles, obs_matches):
     lines.append("---")
     lines.append("layout: entidad")
     lines.append(f'title: "{seo_title}"')
+    # meta description 120-160: con name_full si entra; si no, versión corta.
+    desc = (f"Perfil de {name} en el Observatorio de IA en Paraguay: "
+            f"artículos, leyes y datos verificables sobre {name_full}.")
+    if len(desc) < 120:
+        desc = desc[:-1] + ", con fuentes primarias locales."
+    if len(desc) > 160:
+        desc = (f"Perfil de {name} en el Observatorio de IA en Paraguay: "
+                f"artículos, leyes, datos verificables y fuentes primarias locales.")
     lines.append("description: >")
-    lines.append(f'  Perfil de {name} en el Observatorio de IA en Paraguay: artículos, '
-                 f'leyes y datos verificables sobre {name_full}, con fuentes primarias y contexto local.')
+    lines.append(f"  {desc}")
     lines.append(f"permalink: /entidades/{slug}/")
     lines.append(f"last_modified_at: {today}")
     lines.append(f"entity_id: {slug}")

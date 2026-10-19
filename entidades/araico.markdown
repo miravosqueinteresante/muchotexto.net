@@ -2,9 +2,9 @@
 layout: entidad
 title: "ARAICO (Iguazú AI City)"
 description: >
-  Perfil de ARAICO en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre ARAICO (Iguazú AI City), con fuentes primarias y contexto local.
+  Perfil de ARAICO en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre ARAICO (Iguazú AI City).
 permalink: /entidades/araico/
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 entity_id: araico
 entity_name: ARAICO
 entity_name_full: ARAICO (Iguazú AI City)

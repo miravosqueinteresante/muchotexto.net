@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gobernanza global, el desafío local"
-description: "La comunidad científica internacional, respaldada por Google DeepMind, ha emitido una advertencia sobre los riesgos de los agentes autónomos, solicitando la creación de un organismo global para supervisar el desarrollo de la inteligencia artificial."
+description: "La comunidad científica internacional, respaldada por Google DeepMind, ha emitido una advertencia sobre los riesgos de los agentes autónomos, solicitando la."
 
 
 

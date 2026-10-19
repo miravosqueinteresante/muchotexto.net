@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🤖 INTELIGENCIA ARTIFICIAL | Pulso Tech"
+title: "INTELIGENCIA ARTIFICIAL · 17 oct"
 description: "PULSO TECH PARAGUAY SÁBADO 17 de octubre de 2026 Ultima actualizacion: 12:13 🤖 INTELIGENCIA ARTIFICIAL Desafíos educativos ante la IA en Paraguay La..."
 date: 2026-10-17
 last_modified_at: 2026-10-17

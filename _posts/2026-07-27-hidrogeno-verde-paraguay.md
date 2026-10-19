@@ -1,13 +1,13 @@
-﻿---
+---
 layout: post
-title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
+title: "Paraguay tiene la energía para el"
 date: 2026-07-27
 last_modified_at: 2026-09-23
 categories: articulos
 pilar: 1
 resumen: "La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales."
 tags: infraestructura-energia ia-paraguay paraguay ia
-description: "Paraguay podría producir hidrógeno verde a USD 1,5/kg, entre los más baratos de Sudamérica. Pero sin puerto ni proyectos en ejecución, la oportunidad sigue en el papel."
+description: "Paraguay podría producir hidrógeno verde a USD 1,5/kg, entre los más baratos de Sudamérica. Pero sin puerto ni proyectos en ejecución, la oportunidad sigue."
 ---
 
 Paraguay podría producir hidrógeno verde a un costo entre los más bajos de Sudamérica. Tiene electricidad barata para grandes consumidores (la tarifa GCIE, USD 0,03 por kilovatio-hora), agua abundante del río Paraná y una subestación de 200 MW en Yguazú (operada por HIVE desde 2025). Con esa energía, un electrolizador de 1 GW podría generar alrededor de 1.800 millones de metros cúbicos de hidrógeno por año. El mercado global de hidrógeno (99% de origen fósil) fue de unos USD 155.000 millones en 2022 según informes de investigación de mercado, con el segmento verde en apenas USD 4.200 millones —menos del 3%— pero creciendo rápido. Paraguay tiene la materia prima. Lo que no tiene es un proyecto comercial en operación, una ley específica de hidrógeno ni un puerto marítimo para exportarlo. Chile ya envió su primer cargamento de combustibles sintéticos a Porsche en 2022.

@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "Pulso Paraguay: Investigación contra precandidato cartista de Luque — 26 de mayo de 2026"
+title: "Pulso Paraguay: Investigación contra"
 description: "Investigación contra precandidato cartista de Luque: Este tema ha generado un alto volumen de conversación por las implicaciones políticas y legales que tiene…"
 
 
