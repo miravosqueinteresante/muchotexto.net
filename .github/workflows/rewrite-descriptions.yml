@@ -11,6 +11,10 @@ on:
         description: "pulso | editorial | all"
         required: false
         default: "all"
+      fields:
+        description: "title | desc | both"
+        required: false
+        default: "both"
 
 permissions:
   contents: write
@@ -32,17 +36,26 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generar descripciones
+      - name: Instalar dependencias
+        run: pip install pyyaml
+
+      - name: Generar títulos y descripciones
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/rewrite_descriptions.py --limit "${{ inputs.limit }}" --only "${{ inputs.only }}"
+        run: python scripts/rewrite_descriptions.py --limit "${{ inputs.limit }}" --only "${{ inputs.only }}" --fields "${{ inputs.fields }}"
+
+      - name: Regenerar superficies derivadas
+        run: python scripts/build_derived.py
+
+      - name: Verificar consistencia
+        run: python scripts/audit_consistency.py
 
       - name: Commit y push
         if: always()
         run: |
           git config user.name "Pulso Bot"
           git config user.email "pulso@muchotexto.net"
-          git add _posts
-          git diff --cached --quiet || git commit -m "SEO: descripciones editoriales de Pulso y Editorial"
+          git add -A
+          git diff --cached --quiet || git commit -m "SEO: titulares y descripciones del sitio (Pulso y Editorial)"
           git pull --rebase origin main
           git push

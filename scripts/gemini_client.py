@@ -201,6 +201,109 @@ Cuerpo: {plain}
     return None
 
 
+TITLE_MIN, TITLE_MAX = 13, 43
+_TRAILING_STOPWORDS = {
+    "para", "el", "la", "los", "las", "de", "del", "en", "y", "e", "o", "u",
+    "con", "sin", "por", "al", "un", "una", "unos", "unas", "que", "se", "su",
+    "sus", "es", "son", "como", "tras", "sobre", "entre", "hacia", "desde",
+    "más", "mas", "ya", "ni", "no", "lo", "le", "les",
+}
+
+
+def clean_title(text: str) -> str:
+    t = " ".join(text.split()).strip().strip("\"'")
+    t = re.sub(r"^(pulso\s+(paraguay|tech)(\s+paraguay)?|editorial)\s*[:\-–—]\s*", "", t, flags=re.I)
+    return t.rstrip(". ").strip()
+
+
+def validate_title(text: str, max_len: int = TITLE_MAX) -> tuple[str, list[str]]:
+    """Normaliza y valida un titular. Devuelve (texto, problemas)."""
+    raw = " ".join(text.split()).strip().strip("\"'")
+    t = clean_title(raw)
+    problems = []
+    if "..." in raw or "…" in raw:
+        problems.append("no debe usar puntos suspensivos")
+    if len(t) < TITLE_MIN:
+        problems.append(f"tiene {len(t)} caracteres; el mínimo es {TITLE_MIN}")
+    if len(t) > max_len:
+        problems.append(f"tiene {len(t)} caracteres; el máximo es {max_len}")
+    if re.search(r'["\n]', t):
+        problems.append("sin comillas ni saltos de línea")
+    if t.endswith((",", ";", ":", "-", "–", "—", ".")):
+        problems.append("no debe terminar en signo de puntuación")
+    elif t and t.split()[-1].lower().strip(",;:") in _TRAILING_STOPWORDS:
+        problems.append(f"no puede terminar en '{t.split()[-1]}'")
+    return t, problems
+
+
+def fallback_title(body: str, max_len: int = TITLE_MAX) -> str:
+    """Plan B determinista: primeras palabras del cuerpo hasta max_len, sin
+    cortar en palabra vacía de sentido."""
+    plain = clean_body(body)
+    words, out = plain.split(), ""
+    for w in words:
+        candidate = (out + " " + w).strip()
+        if len(candidate) > max_len:
+            break
+        out = candidate
+    out = out.rstrip(" ,;:-.")
+    while out and out.split()[-1].lower().strip(",;:") in _TRAILING_STOPWORDS:
+        out = " ".join(out.split()[:-1]).rstrip(" ,;:-.")
+    if len(out) < TITLE_MIN:
+        out = plain[:max_len].rstrip(" ,;:-.")
+        while out and out.split()[-1].lower().strip(",;:") in _TRAILING_STOPWORDS:
+            out = " ".join(out.split()[:-1]).rstrip(" ,;:-.")
+    return out or "Análisis de actualidad paraguaya"
+
+
+def write_title(
+    body: str,
+    current_title: str = "",
+    api_key: str | None = None,
+    category: str = "",
+    is_taken=None,
+    max_len: int = TITLE_MAX,
+    attempts: int = 4,
+) -> str | None:
+    """Pide a Gemini un titular completo (13-43 caracteres, sin cortes). Si
+    `is_taken` marca duplicado, reintenta. Devuelve None si la API falla."""
+    plain = clean_body(body)
+    feedback = ""
+    candidate = None
+    for attempt in range(1, attempts + 1):
+        prompt = f"""Escribí el titular de este artículo de muchotexto.net.
+
+Reglas obligatorias:
+- Máximo {max_len} caracteres contando espacios; mínimo {TITLE_MIN}.
+- Español paraguayo correcto, con acentos y eñes.
+- Claro, concreto y periodístico: la frase debe quedar completa y cerrar en una palabra con sentido.
+- Sin punto final, sin dos puntos finales, sin puntos suspensivos, sin comillas, sin emojis.
+- Sin prefijos de serie ("Pulso Paraguay:", "Editorial:").
+- Respondé SOLO el titular.
+
+Categoría: {category or "actualidad"}
+Titular actual (mejorable, puede estar cortado): {clean_title(current_title) or "(ninguno)"}
+Cuerpo: {plain}
+{feedback}"""
+        out = generate(
+            prompt,
+            system_prompt="Sos editor jefe de un medio paraguayo. Escribís titulares breves, precisos y completos.",
+            api_key=api_key,
+            temperature=0.6,
+            max_output_tokens=120,
+        )
+        if not out:
+            return None
+        candidate, problems = validate_title(out, max_len)
+        if not problems and is_taken and is_taken(candidate):
+            problems.append("ese titular ya existe en el sitio; proponé otro distinto")
+        if not problems:
+            return candidate
+        feedback = "Corregí: " + "; ".join(problems) + "."
+        log.warning("Titular inválido (intento %d/%d): %s", attempt, attempts, feedback)
+    return candidate
+
+
 if __name__ == "__main__":
     # Self-check: carga el módulo y valida la estructura de fallback (sin red).
     assert len(DEFAULT_MODELS) >= 2, "debe haber al menos un modelo de fallback"

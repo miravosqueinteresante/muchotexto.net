@@ -20,8 +20,10 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gemini_client import (
     DEFAULT_MODELS as GEMINI_MODELS,
     fallback_meta_description,
+    fallback_title,
     generate as gemini_generate,
     write_meta_description,
+    write_title,
 )
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
@@ -278,6 +280,8 @@ def clean_editorial_body(body: str) -> str:
 def save_editorial_post(title: str, body: str):
     now = now_py()
     date = date_str()
+    # El titular lo escribe Gemini (13-43 chars, sin cortes).
+    title = write_title(body, title, GEMINI_API_KEY, "editorial") or fallback_title(body)
     slug_base = make_slug(title)
     slug = f"{date}-{slug_base}-editorial"
     slug = slug[:80].rstrip("-")
@@ -290,6 +294,7 @@ layout: post
 title: "{sanitize_yaml(title)}"
 description: "{sanitize_yaml(meta_desc)}"
 description_ai: true
+title_ai: true
 date: {date} {PY_TIME} -0300
 last_modified_at: {date}
 categories: editorial

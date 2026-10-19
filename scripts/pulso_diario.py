@@ -22,8 +22,10 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gemini_client import (
     DEFAULT_MODELS as GEMINI_MODELS,
     fallback_meta_description,
+    fallback_title,
     generate as gemini_generate,
     write_meta_description,
+    write_title,
 )
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
@@ -400,17 +402,12 @@ def save_post(content: str):
         topic = topic_match.group(1).strip()
         topic_slug = slugify(topic)
         slug = f"{date_str}-{topic_slug}-pulso-tech-paraguay"
-        # título <title> completo = title + " | muchotexto.net" (17) <= 60 → front matter <= 43
-        TITLE_MAX = 43
-        suffix = " | Pulso Tech"
-        max_topic = TITLE_MAX - len(suffix)
-        if len(topic) > max_topic:
-            cut = topic.rfind(" ", 0, max_topic)
-            topic = (topic[:cut] if cut > 10 else topic[:max_topic]).rstrip(" ,;:-—")
-        title = f"{topic}{suffix}"
     else:
+        topic = ""
         slug = f"{date_str}-pulso-tech-paraguay"
-        title = f"Pulso Tech — {fmt_fecha(now)}"
+
+    # El titular lo escribe Gemini (13-43 chars, sin cortes); el slug deriva del tema.
+    title = write_title(content, topic, GEMINI_API_KEY, "pulso") or fallback_title(content)
 
     description = write_meta_description(title, content, GEMINI_API_KEY, "pulso")
     if not description:
@@ -421,6 +418,7 @@ layout: post
 title: "{sanitize_yaml(title)}"
 description: "{sanitize_yaml(description)}"
 description_ai: true
+title_ai: true
 date: {date_str}
 last_modified_at: {date_str}
 categories: pulso-paraguay

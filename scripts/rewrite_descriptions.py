@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Reescribe las descripciones de Pulso y Editorial con Gemini.
+"""Reescribe titulares y descripciones de Pulso y Editorial con Gemini.
 
-Idempotente: escribe `description_ai: true` y saltea los posts ya procesados.
-Uso:
-    python scripts/rewrite_descriptions.py --limit 50 --only pulso
+Idempotente: marca `title_ai: true` / `description_ai: true` y saltea lo ya
+procesado. Uso:
+    python scripts/rewrite_descriptions.py --fields both --workers 3
+    python scripts/rewrite_descriptions.py --fields title --only editorial
     python scripts/rewrite_descriptions.py --dry-run
 """
 
@@ -12,104 +13,178 @@ import glob
 import os
 import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from gemini_client import (
+    TITLE_MAX,
+    clean_title,
     fallback_meta_description,
+    fallback_title,
     validate_meta_description,
+    validate_title,
     write_meta_description,
+    write_title,
 )
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS = os.path.join(ROOT, "_posts")
 FM = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
 CATEGORIES = {"pulso": "pulso-paraguay", "editorial": "editorial"}
+MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
+
+lock = threading.Lock()
+taken = set()
 
 
-def split_post(text):
+def parse(path):
+    with open(path, encoding="utf-8-sig") as fh:
+        text = fh.read()
     m = FM.match(text)
     if not m:
-        return None, ""
-    return m.group(1), text[m.end():]
+        return None
+    return {"path": path, "fm": m.group(1), "body": text[m.end():]}
 
 
-def set_description(fm, desc):
-    lines = [ln for ln in fm.split("\n") if not ln.startswith("description_ai:")]
+def field(fm, key):
+    m = re.search(rf'^{key}:\s*"?(.*?)"?$', fm, re.M)
+    return m.group(1) if m else ""
+
+
+def is_marked(fm, key):
+    return bool(re.search(rf"^{key}_ai:\s*true", fm, re.M))
+
+
+def set_field(fm, key, value, marker):
+    lines = [ln for ln in fm.split("\n") if not ln.startswith(f"{marker}:")]
     out, replaced = [], False
     for line in lines:
-        if re.match(r"^description:\s", line):
-            out.append(f'description: "{desc}"')
-            out.append("description_ai: true")
+        if re.match(rf"^{key}:\s", line):
+            out += [f'{key}: "{value}"', f"{marker}: true"]
             replaced = True
         else:
             out.append(line)
     if not replaced:
-        out.append(f'description: "{desc}"')
-        out.append("description_ai: true")
+        out += [f'{key}: "{value}"', f"{marker}: true"]
     return "\n".join(out)
+
+
+def reserve_is_free(candidate):
+    """Reserva un titular si está libre. Devuelve True si lo tomó."""
+    key = candidate.casefold()
+    with lock:
+        if key in taken:
+            return False
+        taken.add(key)
+        return True
+
+
+def disambiguate(candidate, date):
+    """Añade la fecha para garantizar unicidad cuando el modelo repite titular."""
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", date or "")
+    suffix = f" · {int(m.group(3))} {MESES[int(m.group(2)) - 1]}" if m else " · Paraguay"
+    base = candidate[: TITLE_MAX - len(suffix)].rstrip(" ,;:-.")
+    out = base + suffix
+    with lock:
+        taken.add(out.casefold())
+    return out
+
+
+def process(rec, api_key, want_title, want_desc, category):
+    fm, body = rec["fm"], rec["body"]
+    new_title, new_desc = None, None
+
+    if want_title:
+        candidate = write_title(
+            body, current_title=field(fm, "title"), api_key=api_key,
+            category=category, is_taken=lambda t: re.sub(r"\s+", " ", t).casefold() in taken,
+        )
+        candidate = candidate or fallback_title(body)
+        candidate, problems = validate_title(candidate)
+        if problems:
+            candidate = fallback_title(body)
+        if not reserve_is_free(candidate):
+            candidate = disambiguate(candidate, field(fm, "date"))
+        new_title = candidate
+
+    if want_desc:
+        new_desc = write_meta_description(new_title or field(fm, "title"), body, api_key, category)
+        new_desc = (new_desc or fallback_meta_description(body)).replace('"', "'")
+
+    new_fm = fm
+    if new_title:
+        new_fm = set_field(new_fm, "title", new_title.replace('"', ""), "title_ai")
+    if new_desc:
+        new_fm = set_field(new_fm, "description", new_desc, "description_ai")
+
+    with open(rec["path"], "w", encoding="utf-8", newline="\n") as fh:
+        fh.write("---\n" + new_fm + "\n---\n" + body)
+    return f"{os.path.basename(rec['path'])} | {new_title or '-'} | {len((new_desc or '').encode())}b"
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--only", choices=["pulso", "editorial", "all"], default="all")
-    ap.add_argument("--sleep", type=float, default=2.0)
+    ap.add_argument("--fields", choices=["title", "desc", "both"], default="both")
+    ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--sleep", type=float, default=0.3)
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     api_key = os.environ.get("GEMINI_API_KEY")
+    want_title = args.fields in ("title", "both")
+    want_desc = args.fields in ("desc", "both")
     targets = [CATEGORIES[args.only]] if args.only != "all" else list(CATEGORIES.values())
 
-    done = skipped = fallback = failed = 0
+    records, queue = [], []
     for path in sorted(glob.glob(os.path.join(POSTS, "*.md"))):
-        with open(path, encoding="utf-8-sig") as fh:
-            text = fh.read()
-        fm, body = split_post(text)
-        if fm is None:
+        rec = parse(path)
+        if not rec:
             continue
-        cm = re.search(r"^categories:\s*\[?([^\]\n]+)", fm, re.M)
-        if not cm or cm.group(1).strip() not in targets:
+        cat = field(rec["fm"], "categories").strip()
+        records.append((path, cat, rec))
+        if cat not in targets:
             continue
+        need_t = want_title and not (is_marked(rec["fm"], "title") and not validate_title(field(rec["fm"], "title"))[1])
+        need_d = want_desc and not (is_marked(rec["fm"], "description") and not validate_meta_description(field(rec["fm"], "description"))[1])
+        if need_t or need_d:
+            queue.append((rec, cat, need_t, need_d))
 
-        current = re.search(r'^description:\s*"?(.*?)"?$', fm, re.M)
-        current = current.group(1) if current else ""
-        marked = re.search(r"^description_ai:\s*true", fm, re.M)
-        if marked and not validate_meta_description(current)[1]:
-            skipped += 1
-            continue
-        if args.limit and done + fallback + failed >= args.limit:
-            break
-        if args.dry_run:
-            print(f"[dry] {os.path.basename(path)} ({len(current.encode())} bytes)")
-            done += 1
-            continue
+    with lock:
+        for _, _, rec in records:
+            taken.add(clean_title(field(rec["fm"], "title")).casefold())
+        for rec, _, need_t, _ in queue:
+            if need_t:  # su propio titular se reescribe: libera el lugar
+                taken.discard(clean_title(field(rec["fm"], "title")).casefold())
 
-        tm = re.search(r'^title:\s*"?(.*?)"?$', fm, re.M)
-        category = "pulso" if "pulso-paraguay" in targets else "editorial"
-        desc = write_meta_description(
-            title=tm.group(1) if tm else "",
-            body=body,
-            api_key=api_key,
-            category=category,
-        )
-        if desc:
-            done += 1
-        else:
-            desc = fallback_meta_description(body)
-            fallback += 1
-            print(f"FALLBACK {os.path.basename(path)}")
+    if args.limit:
+        queue = queue[: args.limit]
+    print(f"En cola: {len(queue)} posts (títulos={want_title}, descripciones={want_desc})")
+    if args.dry_run or not queue:
+        for rec, _, a, b in queue:
+            print(f"[dry] {os.path.basename(rec['path'])} title={a} desc={b}")
+        return 0
 
-        desc = desc.replace('"', "'")
-        new_text = "---\n" + set_description(fm, desc) + "\n---\n" + body
-        with open(path, "w", encoding="utf-8", newline="\n") as fh:
-            fh.write(new_text)
-        print(f"OK {os.path.basename(path)} ({len(desc.encode())} bytes)")
-        time.sleep(args.sleep)
+    done = 0
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = [
+            pool.submit(process, rec, api_key, a, b, CATEGORIES["pulso"] if cat == "pulso-paraguay" else "editorial")
+            for rec, cat, a, b in queue
+        ]
+        for fut in futures:
+            try:
+                print("OK", fut.result())
+                done += 1
+            except Exception as e:  # nosec: se reporta y sigue
+                print("ERROR", e)
+            time.sleep(args.sleep)
 
-    print(f"\nProcesados: {done} | fallback: {fallback} | ya tenían: {skipped}")
-    return 0 if failed == 0 else 1
+    print(f"\nProcesados: {done}/{len(queue)}")
+    return 0
 
 
 if __name__ == "__main__":
