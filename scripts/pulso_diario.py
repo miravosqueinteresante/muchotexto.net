@@ -19,7 +19,12 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gemini_client import generate as gemini_generate, DEFAULT_MODELS as GEMINI_MODELS
+from gemini_client import (
+    DEFAULT_MODELS as GEMINI_MODELS,
+    fallback_meta_description,
+    generate as gemini_generate,
+    write_meta_description,
+)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("pulso")
@@ -41,18 +46,6 @@ MESES = {
 
 def fmt_fecha(dt: datetime) -> str:
     return f"{dt.day} de {MESES[dt.month]} de {dt.year}"
-
-def make_meta_description(content: str, max_len: int = 155) -> str:
-    lines = content.strip().split("\n")
-    useful = "\n".join(line for line in lines if not line.strip().startswith("PULSO DIARIO"))
-    plain = re.sub(r"\{[{%].*?[}%]\}", " ", useful)        # quitar tags Liquid
-    plain = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", plain)  # [texto](url) -> texto
-    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", plain)
-    plain = re.sub(r"[📅🕐🌡🏛💰⚽🎭🚨🔥📊🔍🔎💡📈]", "", plain)
-    plain = re.sub(r"\s+", " ", plain).strip()
-    if len(plain) <= max_len:
-        return plain
-    return plain[:plain.rfind(" ", 0, max_len)] + "..."
 
 def slugify(text: str, max_len: int = 50) -> str:
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
@@ -419,10 +412,15 @@ def save_post(content: str):
         slug = f"{date_str}-pulso-tech-paraguay"
         title = f"Pulso Tech — {fmt_fecha(now)}"
 
+    description = write_meta_description(title, content, GEMINI_API_KEY, "pulso")
+    if not description:
+        description = fallback_meta_description(content)
+
     frontmatter = f"""---
 layout: post
 title: "{sanitize_yaml(title)}"
-description: "{sanitize_yaml(make_meta_description(content))}"
+description: "{sanitize_yaml(description)}"
+description_ai: true
 date: {date_str}
 last_modified_at: {date_str}
 categories: pulso-paraguay

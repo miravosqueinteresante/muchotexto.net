@@ -19,6 +19,7 @@ Uso:
 import json
 import logging
 import random
+import re
 import time
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
@@ -95,6 +96,108 @@ def generate(
                 break  # pasa al siguiente modelo
 
     log.error("Todos los modelos fallaron: %s", ", ".join(models))
+    return None
+
+
+_MD_NOISE = re.compile(r"\{[{%].*?[}%]\}|\[([^\]]+)\]\([^)]*\)|[#*_`>|~]")
+_EMOJI = re.compile(
+    "[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U00002B00-\U00002BFF\uFE0F]"
+)
+_BOILERPLATE = re.compile(r"^\s*PULSO (DIARIO|TECH) PARAGUAY.*$", re.I | re.M)
+
+
+def clean_body(body: str, limit: int = 3000) -> str:
+    """Texto plano del artículo, sin front matter, markdown, emojis ni cabeceras."""
+    text = body.split("\n---", 1)[0]
+    text = _MD_NOISE.sub(r"\1", text)
+    text = _EMOJI.sub("", text)
+    text = _BOILERPLATE.sub("", text)
+    lines = []
+    for line in text.splitlines():
+        stripped = line.strip(" :-—#")
+        if len(stripped) >= 8 and stripped.isupper() and stripped.replace(" ", "").isalpha():
+            continue  # cabecera de sección tipo "ENERGIA Y DATA CENTERS"
+        lines.append(line)
+    text = re.sub(r"\s+", " ", "\n".join(lines)).strip()
+    return text[:limit]
+
+
+def validate_meta_description(text: str) -> tuple[str, list[str]]:
+    """Normaliza y valida una meta description. Devuelve (texto, problemas)."""
+    t = " ".join(text.split()).strip().strip('"\'')
+    problems = []
+    b = len(t.encode("utf-8"))
+    if b < 120 or b > 160:
+        problems.append(f"tiene {b} bytes; debe tener entre 120 y 160")
+    if "..." in t or "…" in t:
+        problems.append("no debe usar puntos suspensivos")
+    if not t.endswith((".", "!", "?")):
+        problems.append("debe terminar en punto")
+    if '"' in t:
+        problems.append("no debe usar comillas")
+    return t, problems
+
+
+def fallback_meta_description(body: str, max_bytes: int = 160) -> str:
+    """Plan B determinista: oraciones completas, sin '...' ni cortes a mitad de palabra."""
+    plain = clean_body(body)
+    out = ""
+    for sentence in re.split(r"(?<=[.!?])\s+", plain):
+        candidate = (out + " " + sentence).strip()
+        if len(candidate.encode("utf-8")) <= max_bytes:
+            out = candidate
+        else:
+            if not out:
+                cut = sentence.encode("utf-8")[:max_bytes].decode("utf-8", "ignore")
+                cut = cut[: cut.rfind(" ")].rstrip(" ,;:-") if " " in cut else cut
+                out = cut.rstrip(" ,;:-") + "."
+            break
+    if not out:
+        out = "Análisis de actualidad paraguaya con datos y contexto."
+    if len(out.encode("utf-8")) < 120:
+        out = (out.rstrip(".") + ". Análisis y contexto de la jornada.").strip()
+    return out
+
+
+def write_meta_description(
+    title: str, body: str, api_key: str | None, category: str = "", attempts: int = 3
+) -> str | None:
+    """Pide a Gemini una meta description editorial (120-160 bytes, sin copiar
+    el primer párrafo). Devuelve None si tras los intentos no es válida."""
+    plain = clean_body(body)
+    first_60 = plain[:60].lower()
+    feedback = ""
+    for attempt in range(1, attempts + 1):
+        prompt = f"""Escribí la meta description (para Google) de este artículo de muchotexto.net.
+
+Reglas obligatorias:
+- Entre 130 y 155 caracteres, en una o dos oraciones completas.
+- Español paraguayo correcto, con acentos y eñes.
+- Arrancá con el hecho o la tesis concreta; incluí la palabra clave principal.
+- NO copies ni parafrasees la primera oración del cuerpo.
+- Sin comillas, sin saltos de línea, sin puntos suspensivos, sin "En este artículo".
+- Terminá con punto. Respondé SOLO la frase.
+
+Categoría: {category or "actualidad"}
+Título: {title}
+Cuerpo: {plain}
+{feedback}"""
+        out = generate(
+            prompt,
+            system_prompt="Sos editor SEO de un medio paraguayo. Escribís metadescripciones precisas y profesionales.",
+            api_key=api_key,
+            temperature=0.4,
+            max_output_tokens=200,
+        )
+        if not out:
+            return None
+        candidate, problems = validate_meta_description(out)
+        if candidate[:60].lower() and candidate[:60].lower() == first_60[: len(candidate)]:
+            problems.append("copiaste el inicio del cuerpo")
+        if not problems:
+            return candidate
+        feedback = "Corregí: " + "; ".join(problems) + "."
+        log.warning("Meta description inválida (intento %d/%d): %s", attempt, attempts, feedback)
     return None
 
 

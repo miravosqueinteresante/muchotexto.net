@@ -1,0 +1,48 @@
+name: Reescribir descripciones SEO
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Cantidad maxima de posts a procesar (0 = todos)"
+        required: false
+        default: "0"
+      only:
+        description: "pulso | editorial | all"
+        required: false
+        default: "all"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rewrite-descriptions
+  cancel-in-progress: false
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar descripciones
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/rewrite_descriptions.py --limit "${{ inputs.limit }}" --only "${{ inputs.only }}"
+
+      - name: Commit y push
+        if: always()
+        run: |
+          git config user.name "Pulso Bot"
+          git config user.email "pulso@muchotexto.net"
+          git add _posts
+          git diff --cached --quiet || git commit -m "SEO: descripciones editoriales de Pulso y Editorial"
+          git pull --rebase origin main
+          git push

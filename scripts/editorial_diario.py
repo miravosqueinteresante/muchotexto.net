@@ -17,7 +17,12 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gemini_client import generate as gemini_generate, DEFAULT_MODELS as GEMINI_MODELS
+from gemini_client import (
+    DEFAULT_MODELS as GEMINI_MODELS,
+    fallback_meta_description,
+    generate as gemini_generate,
+    write_meta_description,
+)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("editorial")
@@ -151,27 +156,6 @@ def sanitize_yaml(text: str) -> str:
     return re.sub(r'[":\\{}\[\]&*!|>#%`]', '', text).strip()
 
 
-def make_meta_description(body: str, max_len: int = 160) -> str:
-    plain = re.sub(r"\{[{%].*?[}%]\}", " ", body)
-    plain = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", plain)
-    plain = re.sub(r"[#*_\[\]()`>|~\"]", "", plain)
-    plain = re.sub(r"\s+", " ", plain).strip()
-    if len(plain) <= max_len:
-        return plain
-    # Extract first complete sentence(s) within limit
-    sentences = re.split(r'(?<=[.!?])\s+', plain)
-    result = ""
-    for s in sentences:
-        candidate = (result + " " + s).strip() if result else s
-        if len(candidate) <= max_len:
-            result = candidate
-        else:
-            if not result:
-                result = s[:s.rfind(" ", 0, max_len)] + "..."
-            break
-    return result
-
-
 ARTICULOS_LINKEABLES = [
     ("Yguazú Digital", "yguazu digital", "{% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}"),
     ("centro de datos|centro de IA|data center|centro de inteligencia artificial", "centro de IA", "{% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}"),
@@ -297,12 +281,15 @@ def save_editorial_post(title: str, body: str):
     slug_base = make_slug(title)
     slug = f"{date}-{slug_base}-editorial"
     slug = slug[:80].rstrip("-")
-    meta_desc = make_meta_description(body)
+    meta_desc = write_meta_description(title, body, GEMINI_API_KEY, "editorial")
+    if not meta_desc:
+        meta_desc = fallback_meta_description(body)
 
     frontmatter = f"""---
 layout: post
 title: "{sanitize_yaml(title)}"
 description: "{sanitize_yaml(meta_desc)}"
+description_ai: true
 date: {date} {PY_TIME} -0300
 last_modified_at: {date}
 categories: editorial

@@ -48,6 +48,7 @@ jobs:
           python scripts/audit_consistency.py
           echo "== Tests de generadores =="
           python scripts/test_build_derived.py
+          python scripts/test_meta_description.py
           echo "== Sync datos (MuchoTexto Data) =="
           python scripts/sync_datos.py
           echo "== Generar superficies derivadas =="
