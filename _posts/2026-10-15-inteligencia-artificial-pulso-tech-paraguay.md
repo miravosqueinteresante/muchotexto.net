@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 15 oct"
 description: "PULSO TECH PARAGUAY JUEVES 15 de octubre de 2026 Ultima actualizacion: 13:33 🤖 INTELIGENCIA ARTIFICIAL Capacitación en IA para la gestión pública en..."
 date: 2026-10-15
 last_modified_at: 2026-10-15

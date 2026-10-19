@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infraestructura digital | Pulso Tech"
+title: "Infraestructura digital · 14 set"
 description: "PULSO TECH PARAGUAY LUNES 14 de setiembre de 2026 Ultima actualizacion: 14:54 🌐 INFRAESTRUCTURA DIGITAL Canal digital de apuestas registra alto impacto en..."
 date: 2026-09-14
 last_modified_at: 2026-09-14

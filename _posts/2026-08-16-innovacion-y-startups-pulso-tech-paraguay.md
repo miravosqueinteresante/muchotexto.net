@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Innovación y startups | Pulso Tech"
+title: "Innovación y startups · 16 ago"
 description: "PULSO TECH PARAGUAY DOMINGO 16 de agosto de 2026 Ultima actualizacion: 09:43 🚀 INNOVACION Y STARTUPS Inversion masiva en transformacion digital bancaria..."
 date: 2026-08-16
 last_modified_at: 2026-08-16

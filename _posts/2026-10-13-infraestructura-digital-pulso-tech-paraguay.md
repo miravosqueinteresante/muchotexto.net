@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infraestructura digital | Pulso Tech"
+title: "Infraestructura digital · 13 oct"
 description: "PULSO TECH PARAGUAY MARTES 13 de octubre de 2026 Ultima actualizacion: 16:02 🌐 INFRAESTRUCTURA DIGITAL IPS habilita nueva plataforma digital de atención...."
 date: 2026-10-13
 last_modified_at: 2026-10-13

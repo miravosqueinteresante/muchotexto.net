@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 11 set"
 description: "PULSO TECH PARAGUAY VIERNES 11 de setiembre de 2026 Ultima actualizacion: 13:06 🤖 INTELIGENCIA ARTIFICIAL Sam Altman propone ralentizar el desarrollo de..."
 date: 2026-09-11
 last_modified_at: 2026-09-11

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 20 ago"
 description: "PULSO TECH PARAGUAY JUEVES 20 de agosto de 2026 Ultima actualizacion: 09:54 🤖 INTELIGENCIA ARTIFICIAL Implementación de IA para la preservación del..."
 date: 2026-08-20
 last_modified_at: 2026-08-20

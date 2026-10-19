@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Innovación y startups | Pulso Tech"
+title: "Innovación y startups · 12 ago"
 description: "PULSO TECH PARAGUAY MIÉRCOLES 12 de agosto de 2026 Ultima actualizacion: 10:15 🚀 INNOVACION Y STARTUPS Potencial exportador del comercio electrónico local..."
 date: 2026-08-12
 last_modified_at: 2026-08-12

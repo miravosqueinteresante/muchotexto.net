@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infraestructura digital | Pulso Tech"
+title: "Infraestructura digital · 2 oct"
 description: "PULSO TECH PARAGUAY VIERNES 2 de octubre de 2026 Ultima actualizacion: 14:38 🌐 INFRAESTRUCTURA DIGITAL Digitalización de servicios financieros para..."
 date: 2026-10-02
 last_modified_at: 2026-10-02

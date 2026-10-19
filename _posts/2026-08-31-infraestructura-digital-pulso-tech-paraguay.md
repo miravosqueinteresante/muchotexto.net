@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infraestructura digital | Pulso Tech"
+title: "Infraestructura digital · 31 ago"
 description: "PULSO TECH PARAGUAY LUNES 31 de agosto de 2026 Ultima actualizacion: 15:56 🌐 INFRAESTRUCTURA DIGITAL Trasbordo gratuito en el transporte público con..."
 date: 2026-08-31
 last_modified_at: 2026-08-31

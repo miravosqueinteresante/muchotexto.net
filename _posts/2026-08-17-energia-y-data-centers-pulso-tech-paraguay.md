@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Energía y data centers | Pulso Tech"
+title: "Energía y data centers · 17 ago"
 description: "PULSO TECH PARAGUAY LUNES 17 de agosto de 2026 Ultima actualizacion: 09:49 ⚡ ENERGIA Y DATA CENTERS Cambio de paradigma en el sector energético nacional..."
 date: 2026-08-17
 last_modified_at: 2026-08-17

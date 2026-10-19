@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 9 oct"
 description: "PULSO TECH PARAGUAY VIERNES 9 de octubre de 2026 Ultima actualizacion: 15:08 🤖 INTELIGENCIA ARTIFICIAL La IA en el mercado laboral paraguayo Analistas..."
 date: 2026-10-09
 last_modified_at: 2026-10-09

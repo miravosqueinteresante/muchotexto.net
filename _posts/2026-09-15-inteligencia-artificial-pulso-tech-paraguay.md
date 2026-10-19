@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 15 set"
 description: "PULSO TECH PARAGUAY MARTES 15 de setiembre de 2026 Ultima actualizacion: 17:30 🤖 INTELIGENCIA ARTIFICIAL Debate sobre ética y riesgos de la IA en Paraguay..."
 date: 2026-09-15
 last_modified_at: 2026-09-15

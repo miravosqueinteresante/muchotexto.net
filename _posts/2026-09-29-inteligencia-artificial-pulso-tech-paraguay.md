@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 29 set"
 description: "PULSO TECH PARAGUAY MARTES 29 de setiembre de 2026 Ultima actualizacion: 14:51 🤖 INTELIGENCIA ARTIFICIAL Innovación en medios y IA: ABC fue seleccionado..."
 date: 2026-09-29
 last_modified_at: 2026-09-29

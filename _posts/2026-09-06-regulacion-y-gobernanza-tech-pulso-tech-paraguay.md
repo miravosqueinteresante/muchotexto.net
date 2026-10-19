@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regulación y gobernanza | Pulso Tech"
+title: "Regulación y gobernanza · 6 set"
 description: "PULSO TECH PARAGUAY DOMINGO 6 de setiembre de 2026 Ultima actualizacion: 15:30 📋 REGULACION Y GOBERNANZA TECH IPS implementa censo digital obligatorio..."
 date: 2026-09-06
 last_modified_at: 2026-09-06

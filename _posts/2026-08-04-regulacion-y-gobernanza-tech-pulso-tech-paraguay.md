@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regulación y gobernanza | Pulso Tech"
+title: "Regulación y gobernanza · 4 ago"
 description: "PULSO TECH PARAGUAY MARTES 4 de agosto de 2026 Ultima actualizacion: 11:22 📋 REGULACION Y GOBERNANZA TECH Ciberseguridad y protección de datos La diputada..."
 date: 2026-08-04
 last_modified_at: 2026-08-04

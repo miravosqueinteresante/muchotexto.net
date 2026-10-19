@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infraestructura digital | Pulso Tech"
+title: "Infraestructura digital · 25 set"
 description: "PULSO TECH PARAGUAY VIERNES 25 de setiembre de 2026 Ultima actualizacion: 13:50 🌐 INFRAESTRUCTURA DIGITAL Hospital Virtual del IPS alcanza 2.500..."
 date: 2026-09-25
 last_modified_at: 2026-09-25

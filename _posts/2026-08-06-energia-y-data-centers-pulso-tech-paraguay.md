@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Energía y data centers | Pulso Tech"
+title: "Energía y data centers · 6 ago"
 description: "PULSO TECH PARAGUAY JUEVES 6 de agosto de 2026 Ultima actualizacion: 11:19 ⚡ ENERGIA Y DATA CENTERS Proyección de incremento en la tarifa eléctrica de la..."
 date: 2026-08-06
 last_modified_at: 2026-08-06

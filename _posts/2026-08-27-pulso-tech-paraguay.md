@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Global toma el foco del día | Pulso Tech"
+title: "Global toma el foco del día · 27 ago"
 description: "PULSO TECH PARAGUAY JUEVES 27 de agosto de 2026 Ultima actualizacion: 12:40 🤖 INTELIGENCIA ARTIFICIAL OpenAI tarda ocho días en detectar un ataque autónomo..."
 date: 2026-08-27
 last_modified_at: 2026-08-27

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Regulación y gobernanza | Pulso Tech"
+title: "Regulación y gobernanza · 7 set"
 description: "PULSO TECH PARAGUAY LUNES 7 de setiembre de 2026 Ultima actualizacion: 14:31 📋 REGULACION Y GOBERNANZA TECH Censo digital obligatorio para jubilados del..."
 date: 2026-09-07
 last_modified_at: 2026-09-07

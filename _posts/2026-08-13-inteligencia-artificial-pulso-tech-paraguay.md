@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 13 ago"
 description: "PULSO TECH PARAGUAY JUEVES 13 de agosto de 2026 Ultima actualizacion: 10:17 🤖 INTELIGENCIA ARTIFICIAL La inteligencia artificial como aliado para la..."
 date: 2026-08-13
 last_modified_at: 2026-08-13

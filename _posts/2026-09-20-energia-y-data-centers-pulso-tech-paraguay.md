@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Energía y data centers | Pulso Tech"
+title: "Energía y data centers · 20 set"
 description: "PULSO TECH PARAGUAY DOMINGO 20 de setiembre de 2026 Ultima actualizacion: 12:42 ⚡ ENERGIA Y DATA CENTERS Conflictos en contratos de infraestructura..."
 date: 2026-09-20
 last_modified_at: 2026-09-20

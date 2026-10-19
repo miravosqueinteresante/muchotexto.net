@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Energía y data centers | Pulso Tech"
+title: "Energía y data centers · 10 ago"
 description: "PULSO TECH PARAGUAY LUNES 10 de agosto de 2026 Ultima actualizacion: 10:14 ⚡ ENERGIA Y DATA CENTERS Especialista urge creacion de Ministerio de Energia..."
 date: 2026-08-10
 last_modified_at: 2026-08-10

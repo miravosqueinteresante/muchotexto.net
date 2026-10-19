@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 8 oct"
 description: "PULSO TECH PARAGUAY JUEVES 8 de octubre de 2026 Ultima actualizacion: 19:15 🤖 INTELIGENCIA ARTIFICIAL Lanzamiento local del Galaxy S26 FE con IA integrada..."
 date: 2026-10-08
 last_modified_at: 2026-10-08

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 10 oct"
 description: "PULSO TECH PARAGUAY SÁBADO 10 de octubre de 2026 Ultima actualizacion: 14:07 🤖 INTELIGENCIA ARTIFICIAL IA de Anthropic bajo la lupa por errores en..."
 date: 2026-10-10
 last_modified_at: 2026-10-10

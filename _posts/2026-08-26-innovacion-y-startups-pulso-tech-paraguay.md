@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Innovación y startups | Pulso Tech"
+title: "Innovación y startups · 26 ago"
 description: "PULSO TECH PARAGUAY MIÉRCOLES 26 de agosto de 2026 Ultima actualizacion: 09:57 🚀 INNOVACION Y STARTUPS Transformación digital en el sector comercial de..."
 date: 2026-08-26
 last_modified_at: 2026-08-26

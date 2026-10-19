@@ -1,10 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, el cuello de botella."
-description: "La regularización de más de 100.000 usuarios por parte de la sector eléctrico{% posturl 2026-05-27-apertura-sector-electrico-privado-paraguay %} marca un punto de inflexión en la salud financiera de nuestra principal proveedora de energía."
-
-
-
+title: "El cuello de botella digital"
+description: "La regularización de más de 100.000 usuarios por el sector eléctrico marca un punto de inflexión en la salud financiera de la ANDE."
 
 
 

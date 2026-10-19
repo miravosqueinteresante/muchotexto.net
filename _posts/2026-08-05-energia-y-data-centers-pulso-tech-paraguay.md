@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Energía y data centers | Pulso Tech"
+title: "Energía y data centers · 5 ago"
 description: "PULSO TECH PARAGUAY MIÉRCOLES 5 de agosto de 2026 Ultima actualizacion: 11:15 ⚡ ENERGIA Y DATA CENTERS Inversiones globales en infraestructura de datos..."
 date: 2026-08-05
 last_modified_at: 2026-08-05

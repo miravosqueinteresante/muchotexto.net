@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infraestructura digital | Pulso Tech"
+title: "Infraestructura digital · 12 oct"
 description: "PULSO TECH PARAGUAY LUNES 12 de octubre de 2026 Ultima actualizacion: 18:03 🌐 INFRAESTRUCTURA DIGITAL Habilitan nuevo centro de monitoreo del 911 en..."
 date: 2026-10-12
 last_modified_at: 2026-10-12

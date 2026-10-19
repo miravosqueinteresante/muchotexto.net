@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inteligencia artificial | Pulso Tech"
+title: "Inteligencia artificial · 30 ago"
 description: "PULSO TECH PARAGUAY DOMINGO 30 de agosto de 2026 Ultima actualizacion: 17:00 🤖 INTELIGENCIA ARTIFICIAL Debate global sobre la naturaleza cognitiva de la..."
 date: 2026-08-30
 last_modified_at: 2026-08-30
