@@ -20,7 +20,7 @@ title_ai: true
 last_modified_at: 2026-06-09
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "El fallo de la Corte sobre la pérdida de investidura de Kattya González genera un intenso debate político en Paraguay."
+description: "El fallo de la Corte sobre la pérdida de investidura de Kattya González genera un intenso debate político en Paraguay y divide a los partidos."
 description_ai: true
 ---
 PULSO DIARIO PARAGUAY  

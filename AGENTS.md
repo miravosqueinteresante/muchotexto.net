@@ -407,9 +407,9 @@ Fuentes: Eurostat (nrg_pc_205, abril 2026), fuentes de mercado (CBRE, JLL, DCP r
 #### Graduados STEM
 - **~400 graduados en informática por año**: TRUE (INE vía La Tribuna, 22-01-2026). NO usar "400-600" ni "600" como techo. Estimación sectorial: 20-50 empleos por 100 MW en data centers.
 
-### Auditoría de sitio — squirrelscan (2-sep-2026)
+### Auditoría de sitio — squirrelscan (histórica, 2-sep-2026)
 
-**Score final: 79/100 (C)**. CLI: `npx squirrelscan audit https://muchotexto.net`.
+**Score en esa fecha: 79/100 (C)**. CLI: `npx squirrelscan audit https://muchotexto.net`. **Estado actual: 84/100 (B), 19-oct-2026.**
 
 | Categoría | Score | Notas |
 |-----------|-------|-------|
