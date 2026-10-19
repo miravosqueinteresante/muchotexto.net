@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "ENERGIA Y DATA CENTERS · 18 oct"
-description: "PULSO TECH PARAGUAY DOMINGO 18 de octubre de 2026 Ultima actualizacion: 12:34 ⚡ ENERGIA Y DATA CENTERS Parques solares con baterías como solución..."
+description: "Los parques solares con baterías y la adopción de inteligencia artificial definen la estrategia energética y tecnológica del Paraguay."
+description_ai: true
 date: 2026-10-18
 last_modified_at: 2026-10-18
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 DOMINGO 18 de octubre de 2026  |  🕐 Ultima actualizacion: 12:34
 

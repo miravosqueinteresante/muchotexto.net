@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "La gobernanza ante el avance corporativo"
-description: "Meta puso en marcha una plataforma comercial diseñada para vender herramientas de inteligencia artificial directamente al sector corporativo, marcando un."
+description: "La gobernanza de la inteligencia artificial en Paraguay enfrenta el desafío urgente de regular el avance corporativo y los agentes autónomos."
+description_ai: true
 
 
 
@@ -28,7 +29,6 @@ last_modified_at: 2026-09-28
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Meta puso en marcha una plataforma comercial diseñada para vender herramientas de inteligencia artificial directamente al sector corporativo, marcando un paso más en la integración de estas tecnologías en los procesos de negocio. Este movimiento ocurre en paralelo a una exigencia global, liderada por 22 referentes del sector y la dirección del grupo Citi, quienes solicitan la implementación urgente de normativas para controlar a los agentes autónomos y evitar riesgos sistémicos. En Paraguay, la adopción de estas herramientas comerciales y la discusión sobre su regulación plantean un escenario donde la velocidad de la oferta tecnológica supera, por ahora, la capacidad de respuesta de los marcos normativos locales.
 
 ## La tensión entre oferta comercial y control

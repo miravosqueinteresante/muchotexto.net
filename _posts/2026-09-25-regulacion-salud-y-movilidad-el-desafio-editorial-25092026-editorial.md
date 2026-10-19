@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Regulación, salud y movilidad, el desafío"
-description: "El Hospital Virtual del IPS alcanzó las 2.500 atenciones en apenas tres meses, un dato que confirma cómo la infraestructura digital aplicada a la salud."
+description: "La regulación de la inteligencia artificial y la salud digital en Paraguay exige un marco legal sólido para garantizar la transparencia estatal."
+description_ai: true
 
 
 
@@ -31,7 +32,6 @@ last_modified_at: 2026-09-25
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Hospital Virtual del IPS alcanzó las 2.500 atenciones en apenas tres meses, un dato que confirma cómo la infraestructura digital aplicada a la salud pública en Paraguay empieza a generar resultados tangibles en la reducción de costos y traslados. Este avance en la digitalización de servicios públicos coincide con el debate planteado por la Sociedad Paraguaya de Inteligencia Artificial sobre la necesidad de establecer reglas claras para el uso de sistemas automatizados. Mientras el sector público busca eficiencia mediante la telemedicina, el sector privado introduce tecnologías de movilidad eléctrica con el BMW iX3, y la municipalidad local analiza la automatización del control vial mediante fotomultas. Estos hechos demuestran que el país está operando en múltiples frentes tecnológicos de manera simultánea.
 
 ## La gobernanza ante la automatización del Estado

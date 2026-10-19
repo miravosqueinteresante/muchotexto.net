@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 15 oct"
-description: "PULSO TECH PARAGUAY JUEVES 15 de octubre de 2026 Ultima actualizacion: 13:33 🤖 INTELIGENCIA ARTIFICIAL Capacitación en IA para la gestión pública en..."
+description: "Funcionarios de Petropar se capacitaron en inteligencia artificial para optimizar la gestión pública y administrativa."
+description_ai: true
 date: 2026-10-15
 last_modified_at: 2026-10-15
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 15 de octubre de 2026  |  🕐 Ultima actualizacion: 13:33
 

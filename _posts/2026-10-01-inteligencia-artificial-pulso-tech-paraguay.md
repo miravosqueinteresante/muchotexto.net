@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 1 oct"
-description: "PULSO TECH PARAGUAY JUEVES 1 de octubre de 2026 Ultima actualizacion: 18:30 🤖 INTELIGENCIA ARTIFICIAL Alianza estratégica Paraguay-Taiwán en IA El..."
+description: "Santiago Peña invitó a Foxconn a sumarse al centro de inteligencia artificial paraguayo-taiwanés para potenciar el desarrollo tecnológico nacional."
+description_ai: true
 date: 2026-10-01
 last_modified_at: 2026-10-01
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 1 de octubre de 2026  |  🕐 Ultima actualizacion: 18:30
 

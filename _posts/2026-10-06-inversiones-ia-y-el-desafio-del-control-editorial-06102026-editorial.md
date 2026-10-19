@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Inversiones, IA y el desafío del control"
-description: "La transferencia de 345 millones de dólares de energía de Itaipú{% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %} al Estado paraguayo y a."
+description: "Los millones de Itaipú destinados a la ANDE fortalecen la infraestructura digital y energética de Paraguay frente a los nuevos desafíos tecnológicos."
+description_ai: true
 
 
 
@@ -20,7 +21,6 @@ last_modified_at: 2026-10-06
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La transferencia de 345 millones de dólares de [energía de Itaipú]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) al Estado paraguayo y a la [sector eléctrico]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) marca un hito financiero que impacta directamente en la capacidad de respuesta del país ante la creciente demanda de infraestructura digital. Mientras el flujo de capital se consolida, el escenario internacional nos muestra que la expansión tecnológica no es un proceso lineal ni exento de conflictos, especialmente cuando se trata de la construcción de centros de datos y la implementación de nuevas normativas de inteligencia artificial.
 
 ## La energía como motor de la soberanía digital

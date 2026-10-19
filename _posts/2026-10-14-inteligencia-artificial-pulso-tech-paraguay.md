@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 14 oct"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 14 de octubre de 2026 Ultima actualizacion: 17:45 🤖 INTELIGENCIA ARTIFICIAL Más de 400 científicos y la organización."
+description: "Científicos y Google DeepMind exigen un organismo internacional para frenar los graves riesgos de la inteligencia artificial."
+description_ai: true
 date: 2026-10-14
 last_modified_at: 2026-10-14
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 14 de octubre de 2026  |  🕐 Ultima actualizacion: 17:45
 

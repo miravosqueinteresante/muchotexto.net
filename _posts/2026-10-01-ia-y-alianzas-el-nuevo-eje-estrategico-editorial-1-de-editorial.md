@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "IA y alianzas, el nuevo eje estratégico"
-description: "La invitación formal cursada a Foxconn para sumarse al proyecto de un centro de IA{% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo."
+description: "Paraguay busca consolidar su soberanía digital mediante una alianza estratégica con Taiwán para crear infraestructura avanzada de inteligencia artificial."
+description_ai: true
 
 
 
@@ -25,7 +26,6 @@ last_modified_at: 2026-10-01
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La invitación formal cursada a Foxconn para sumarse al proyecto de un [centro de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) marca un punto de inflexión en la política tecnológica de Paraguay. Este movimiento, que busca consolidar una alianza estratégica con Taiwán, trasciende la simple adquisición de software o hardware, apuntando directamente a la creación de capacidades locales en el desarrollo de IA. La presencia de este tipo de iniciativas en la agenda gubernamental indica que el país está intentando escalar su infraestructura digital hacia niveles de mayor complejidad técnica.
 
 ## La infraestructura como base de la seguridad

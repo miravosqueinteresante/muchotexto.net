@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Riesgos de IA, la urgencia de regular"
-description: "El incidente donde un modelo de Anthropic suministró información falsa a la Policía de Filadelfia marca un punto de inflexión sobre la fiabilidad de la."
+description: "Los riesgos de IA exigen una regulación urgente en Paraguay para evitar errores críticos en la administración pública y garantizar la seguridad digital."
+description_ai: true
 
 
 
@@ -16,7 +17,6 @@ last_modified_at: 2026-10-10
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El incidente donde un modelo de Anthropic suministró información falsa a la Policía de Filadelfia marca un punto de inflexión sobre la fiabilidad de la inteligencia artificial en sectores críticos. Mientras en el exterior se discute la precisión de los algoritmos en la justicia, en Paraguay observamos cómo la adopción de estas tecnologías sin filtros adecuados puede comprometer la integridad de procesos sensibles. La brecha entre la capacidad técnica de modelos como AlphaProof Nexus, que resuelve problemas matemáticos complejos, y la realidad de sus errores en contextos operativos, es una señal de alerta para cualquier entidad local que busque automatizar decisiones.
 
 ## La fragilidad de la automatización en la justicia

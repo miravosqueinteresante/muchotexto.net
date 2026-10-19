@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 19 set"
-description: "PULSO TECH PARAGUAY SÁBADO 19 de setiembre de 2026 Ultima actualizacion: 16:30 🌐 INFRAESTRUCTURA DIGITAL Actualización de trámites digitales en el."
+description: "El Ministerio de Economía y Finanzas habilitará desde el 21 de septiembre nuevos trámites digitales en el Siara para agilizar operaciones societarias."
+description_ai: true
 date: 2026-09-19
 last_modified_at: 2026-09-19
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 19 de setiembre de 2026  |  🕐 Ultima actualizacion: 16:30
 

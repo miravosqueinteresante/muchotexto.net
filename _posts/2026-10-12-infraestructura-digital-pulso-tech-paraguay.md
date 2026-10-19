@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 12 oct"
-description: "PULSO TECH PARAGUAY LUNES 12 de octubre de 2026 Ultima actualizacion: 18:03 🌐 INFRAESTRUCTURA DIGITAL Habilitan nuevo centro de monitoreo del 911 en..."
+description: "El nuevo centro de monitoreo del 911 en Pilar refuerza la infraestructura digital con una inversión millonaria en seguridad."
+description_ai: true
 date: 2026-10-12
 last_modified_at: 2026-10-12
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 12 de octubre de 2026 | 🕐 Ultima actualizacion: 18:03
 

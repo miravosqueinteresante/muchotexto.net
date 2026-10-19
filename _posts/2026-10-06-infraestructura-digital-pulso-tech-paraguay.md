@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 6 oct"
-description: "PULSO TECH PARAGUAY MARTES 6 de octubre de 2026 Ultima actualizacion: 15:05 🌐 INFRAESTRUCTURA DIGITAL Finlandia ordena frenar talas en centros de datos de..."
+description: "Itaipú transfirió 345 millones de dólares al Estado paraguayo y a la ANDE, mientras crecen los desafíos globales en infraestructura digital."
+description_ai: true
 date: 2026-10-06
 last_modified_at: 2026-10-06
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MARTES 6 de octubre de 2026  |  🕐 Ultima actualizacion: 15:05
 

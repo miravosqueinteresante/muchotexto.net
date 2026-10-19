@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Regulación y gobernanza · 16 set"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 16 de setiembre de 2026 Ultima actualizacion: 16:45 📋 REGULACION Y GOBERNANZA TECH Lanzamiento del Registro Unificado..."
+description: "El Gobierno lanzó el Registro Unificado Nacional para integrar catastro y registros públicos bajo un código único que garantice seguridad jurídica."
+description_ai: true
 date: 2026-09-16
 last_modified_at: 2026-09-16
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 16 de setiembre de 2026  |  🕐 Ultima actualizacion: 16:45
 

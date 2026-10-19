@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 17 set"
-description: "PULSO TECH PARAGUAY JUEVES 17 de setiembre de 2026 Ultima actualizacion: 13:32 ⚡ ENERGIA Y DATA CENTERS Potencial de almacenamiento y robótica en Paraguay..."
+description: "El MIC destacó el potencial de Paraguay en almacenamiento de energía y robótica, mientras el TSJE enfrenta pedidos de auditoría electoral."
+description_ai: true
 date: 2026-09-17
 last_modified_at: 2026-09-17
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 17 de setiembre de 2026  |  🕐 Ultima actualizacion: 13:32
 

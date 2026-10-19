@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 28 set"
-description: "PULSO TECH PARAGUAY LUNES 28 de setiembre de 2026 Ultima actualizacion: 16:25 🤖 INTELIGENCIA ARTIFICIAL Meta lanza plataforma comercial de IA para..."
+description: "Líderes globales y expertos exigen normativas estrictas para controlar los agentes autónomos ante el avance de la inteligencia artificial."
+description_ai: true
 date: 2026-09-28
 last_modified_at: 2026-09-28
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 28 de setiembre de 2026  |  🕐 Ultima actualizacion: 16:25
 

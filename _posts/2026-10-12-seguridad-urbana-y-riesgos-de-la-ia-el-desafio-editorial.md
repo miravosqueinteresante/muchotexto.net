@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad urbana y riesgos de la IA, el."
-description: "La habilitación del nuevo centro de monitoreo en Pilar, que integra 30 cámaras de seguridad con una inversión de G. Editorial de muchotexto.net."
+description: "El nuevo centro de monitoreo en Pilar expone la urgencia de fortalecer la ciberseguridad ante los riesgos de la inteligencia artificial."
+description_ai: true
 
 
 
@@ -14,7 +15,6 @@ last_modified_at: 2026-10-12
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La habilitación del nuevo centro de monitoreo en Pilar, que integra 30 cámaras de seguridad con una inversión de G. 16.000 millones, marca un paso importante en la consolidación de la infraestructura digital estatal en Paraguay. Este despliegue de vigilancia urbana no es un hecho aislado, sino que se alinea con una tendencia global donde la recolección masiva de datos y el monitoreo en tiempo real se vuelven pilares de la gestión pública. Sin embargo, al contrastar esta inversión con las advertencias internacionales sobre el uso de la inteligencia artificial para escalar ciberataques, surge una tensión evidente entre la capacidad de vigilancia y la vulnerabilidad de los sistemas que la sostienen.
 
 ## La vulnerabilidad de los datos públicos

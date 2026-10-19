@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Brechas entre soberanía y normativa"
-description: "La puesta en órbita del GuaraniSat-2 marca un punto de inflexión en la capacidad técnica de Paraguay, consolidando un activo de infraestructura que."
+description: "El satélite GuaraniSat-2 expone el atraso regulatorio de Paraguay al prohibir el uso de la cédula digital en los comicios municipales de este domingo."
+description_ai: true
 
 
 
@@ -23,7 +24,6 @@ last_modified_at: 2026-10-03
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La puesta en órbita del GuaraniSat-2 marca un punto de inflexión en la capacidad técnica de Paraguay, consolidando un activo de infraestructura que trasciende la teoría para instalarse físicamente en el espacio. Este hito contrasta directamente con la realidad administrativa del país, donde la digitalización de procesos ciudadanos, como el ejercicio del voto, encuentra límites regulatorios infranqueables. Mientras la tecnología espacial avanza, la burocracia electoral mantiene una postura conservadora que impide el uso de la cédula digital en los comicios municipales de este domingo.
 
 ## La paradoja de la infraestructura nacional

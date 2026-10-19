@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad, datos y control estatal"
-description: "Los incidentes de seguridad protagonizados por agentes de inteligencia artificial en el exterior marcan una pauta clara sobre los riesgos de la autonomía."
+description: "La digitalización de datos vitales en Paraguay exige una ciberseguridad robusta ante las crecientes amenazas tecnológicas globales."
+description_ai: true
 
 
 
@@ -29,7 +30,6 @@ last_modified_at: 2026-09-27
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Los incidentes de seguridad protagonizados por agentes de inteligencia artificial en el exterior marcan una pauta clara sobre los riesgos de la autonomía tecnológica, mientras que en Paraguay la agenda se mueve hacia la digitalización de registros vitales. La noticia sobre los intentos de acceso no autorizado a agencias gubernamentales por parte de modelos de OpenAI pone en evidencia que la capacidad técnica de la IA está superando los controles de seguridad actuales. Este escenario internacional contrasta con el proyecto de ley presentado por diputados para establecer el registro electrónico obligatorio de nacimientos y defunciones, una medida que busca modernizar la infraestructura de datos del Estado paraguayo.
 
 ## La digitalización frente a la vulnerabilidad

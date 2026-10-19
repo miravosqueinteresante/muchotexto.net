@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 10 oct"
-description: "PULSO TECH PARAGUAY SÁBADO 10 de octubre de 2026 Ultima actualizacion: 14:07 🤖 INTELIGENCIA ARTIFICIAL IA de Anthropic bajo la lupa por errores en..."
+description: "La IA de Anthropic generó preocupación tras enviar datos falsos a la policía, evidenciando los riesgos de su uso en la justicia."
+description_ai: true
 date: 2026-10-10
 last_modified_at: 2026-10-10
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 10 de octubre de 2026 | 🕐 Ultima actualizacion: 14:07
 

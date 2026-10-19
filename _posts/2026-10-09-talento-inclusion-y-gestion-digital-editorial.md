@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Talento, inclusión y gestión digital"
-description: "La inteligencia artificial se posiciona hoy en el centro del debate sobre el mercado laboral en Paraguay, marcando una transición desde la simple adopción."
+description: "La inteligencia artificial y la capacitación digital transforman el mercado laboral en Paraguay, exigiendo mayor competitividad y talento humano."
+description_ai: true
 
 
 
@@ -17,7 +18,6 @@ last_modified_at: 2026-10-09
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La inteligencia artificial se posiciona hoy en el centro del debate sobre el mercado laboral en Paraguay, marcando una transición desde la simple adopción tecnológica hacia una integración estratégica. Mientras los analistas locales señalan que la automatización exige una reconfiguración de las capacidades humanas, el Banco Central del Paraguay avanza en la modernización de su infraestructura física con criterios de accesibilidad, y programas de capacitación digital cierran ciclos de formación para miles de emprendedores. Estos hechos demuestran que la digitalización en el país no es un proceso aislado, sino un ecosistema que conecta la formación profesional, la normativa financiera y la gestión de negocios.
 
 ## La IA como catalizador de capacidades humanas

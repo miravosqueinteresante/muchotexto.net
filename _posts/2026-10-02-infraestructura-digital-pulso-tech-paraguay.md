@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 2 oct"
-description: "PULSO TECH PARAGUAY VIERNES 2 de octubre de 2026 Ultima actualizacion: 14:38 🌐 INFRAESTRUCTURA DIGITAL Digitalización de servicios financieros para..."
+description: "El satélite paraguayo GuaraníSat-2 opera con éxito en el espacio mientras ueno bank reporta que el 72% de sus clientes jubilados usa la banca móvil."
+description_ai: true
 date: 2026-10-02
 last_modified_at: 2026-10-02
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 VIERNES 2 de octubre de 2026 | 🕐 Ultima actualizacion: 14:38
 

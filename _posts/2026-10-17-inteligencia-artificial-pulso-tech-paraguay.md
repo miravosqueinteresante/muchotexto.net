@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "INTELIGENCIA ARTIFICIAL · 17 oct"
-description: "PULSO TECH PARAGUAY SÁBADO 17 de octubre de 2026 Ultima actualizacion: 12:13 🤖 INTELIGENCIA ARTIFICIAL Desafíos educativos ante la IA en Paraguay La..."
+description: "La inteligencia artificial en Paraguay exige conectar educación y empleo para evitar que aumenten las brechas sociales en el país."
+description_ai: true
 date: 2026-10-17
 last_modified_at: 2026-10-17
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 17 de octubre de 2026  |  🕐 Ultima actualizacion: 12:13
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Brecha digital y el futuro del mercado."
-description: "La jornada de hoy presenta una tensión clara entre la adopción de tecnologías de alto rendimiento y la preocupación por el impacto social que estas generan."
+description: "La brecha digital en Paraguay profundiza la desigualdad mientras el mercado adopta tecnologías avanzadas sin una estrategia de inclusión equitativa."
+description_ai: true
 
 
 
@@ -38,7 +39,6 @@ last_modified_at: 2026-09-18
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La jornada de hoy presenta una tensión clara entre la adopción de tecnologías de alto rendimiento y la preocupación por el impacto social que estas generan en Paraguay. Mientras el mercado local recibe vehículos eléctricos de alta gama con especificaciones técnicas avanzadas, como el nuevo SUV Cayenne de 1.156 CV, el debate público se centra en cómo la inteligencia artificial podría ampliar las desigualdades si no se gestiona con criterios de equidad. Esta disparidad entre la oferta tecnológica de lujo y la inquietud social sobre el acceso a herramientas digitales define el estado actual del ecosistema en el país.
 
 ## La automatización como motor de desarrollo

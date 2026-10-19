@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Modernización, el choque de dos mundos"
-description: "El lanzamiento del Galaxy S26 FE en Paraguay marca la llegada de herramientas de inteligencia artificial al consumo masivo, permitiendo a los usuarios."
+description: "La inteligencia artificial llega al consumo masivo en Paraguay mientras el sector público debate un polémico retroceso al formato papel."
+description_ai: true
 
 
 
@@ -18,7 +19,6 @@ last_modified_at: 2026-10-08
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El lanzamiento del Galaxy S26 FE en Paraguay marca la llegada de herramientas de inteligencia artificial al consumo masivo, permitiendo a los usuarios locales acceder a funciones de optimización y creación de contenido. Este hecho, que parece puramente comercial, contrasta directamente con la situación en el Poder Judicial, donde el Senado debate una propuesta para volver al formato papel en las notificaciones. Mientras el mercado tecnológico en Paraguay empuja hacia la adopción de procesos automatizados, el sector público atraviesa una fase de incertidumbre sobre la continuidad de su propia agenda de digitalización.
 
 ## La brecha entre consumo y gestión pública

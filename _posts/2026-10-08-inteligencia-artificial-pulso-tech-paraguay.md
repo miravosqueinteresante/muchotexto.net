@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 8 oct"
-description: "PULSO TECH PARAGUAY JUEVES 8 de octubre de 2026 Ultima actualizacion: 19:15 🤖 INTELIGENCIA ARTIFICIAL Lanzamiento local del Galaxy S26 FE con IA integrada..."
+description: "Samsung lanzó en Paraguay el Galaxy S26 FE con inteligencia artificial integrada, mientras el Senado debate un retroceso al formato papel en la justicia."
+description_ai: true
 date: 2026-10-08
 last_modified_at: 2026-10-08
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 8 de octubre de 2026  |  🕐 Ultima actualizacion: 19:15
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura digital y brecha humana"
-description: "El lanzamiento del Registro Unificado Nacional RUN marca un hito en la digitalización del Estado, al integrar catastro y registros públicos bajo un código."
+description: "El Registro Unificado Nacional impulsa la gobernanza digital en Paraguay, pero enfrenta desafíos en infraestructura energética y educación."
+description_ai: true
 
 
 
@@ -40,7 +41,6 @@ last_modified_at: 2026-09-16
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El lanzamiento del Registro Unificado Nacional (RUN) marca un hito en la digitalización del Estado, al integrar catastro y registros públicos bajo un código único para dotar de mayor seguridad jurídica al sistema de propiedad en Paraguay. Este avance en la gobernanza digital, sin embargo, ocurre en un momento donde la infraestructura técnica del país enfrenta presiones significativas, tanto por el lado de la demanda energética como por la necesidad de una formación educativa que esté a la altura de las herramientas que se están implementando.
 
 ## La tensión entre el consumo eléctrico y la industria

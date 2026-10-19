@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 29 set"
-description: "PULSO TECH PARAGUAY MARTES 29 de setiembre de 2026 Ultima actualizacion: 14:51 🤖 INTELIGENCIA ARTIFICIAL Innovación en medios y IA: ABC fue seleccionado..."
+description: "ABC liderará un proyecto de inteligencia artificial junto a la SIP y Google para transformar la producción de contenidos en video en Paraguay."
+description_ai: true
 date: 2026-09-29
 last_modified_at: 2026-09-29
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MARTES 29 de setiembre de 2026 | 🕐 Ultima actualizacion: 14:51
 

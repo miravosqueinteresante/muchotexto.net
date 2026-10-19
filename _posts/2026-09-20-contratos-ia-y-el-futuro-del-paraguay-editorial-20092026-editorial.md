@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Contratos, IA y el futuro del Paraguay"
-description: "La gestión de los contratos de suministro eléctrico por parte de la sector eléctrico{% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}."
+description: "La inseguridad en los contratos eléctricos y el auge de la inteligencia artificial exigen mayor gobernanza para el desarrollo del Paraguay."
+description_ai: true
 
 
 
@@ -36,7 +37,6 @@ last_modified_at: 2026-09-20
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La gestión de los contratos de suministro eléctrico por parte de la [sector eléctrico]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}), específicamente en el caso del proyecto Atome, expone una vulnerabilidad operativa que podría derivar en arbitrajes internacionales. Este hecho marca un punto de inflexión en cómo Paraguay gestiona su infraestructura energética frente a grandes proyectos industriales, contrastando directamente con la dinámica de innovación que se observa en el sector educativo. Mientras la infraestructura pesada enfrenta riesgos de seguridad jurídica, el talento joven del país se enfoca en el desarrollo de herramientas de inteligencia artificial.
 
 ## La fragilidad en la infraestructura energética

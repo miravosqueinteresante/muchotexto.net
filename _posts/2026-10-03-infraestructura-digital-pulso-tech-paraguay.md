@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 3 oct"
-description: "PULSO TECH PARAGUAY SÁBADO 3 de octubre de 2026 Ultima actualizacion: 16:30 🌐 INFRAESTRUCTURA DIGITAL GuaraniSat-2 en orbita terrestre El satelite..."
+description: "El satélite paraguayo GuaraniSat-2 ya orbita la Tierra marcando un hito tecnológico, mientras la cédula digital queda excluida para votar."
+description_ai: true
 date: 2026-10-03
 last_modified_at: 2026-10-03
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 3 de octubre de 2026  |  🕐 Ultima actualizacion: 16:30
 

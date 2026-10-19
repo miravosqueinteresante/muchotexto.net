@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 30 set"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 30 de setiembre de 2026 Ultima actualizacion: 14:46 🤖 INTELIGENCIA ARTIFICIAL Avances en formación técnica y robótica en..."
+description: "El CER Training Center inauguró en Asunción el primer centro de cirugía robótica, permitiendo la capacitación local con tecnología surcoreana."
+description_ai: true
 date: 2026-09-30
 last_modified_at: 2026-09-30
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 30 de setiembre de 2026  |  🕐 Ultima actualizacion: 14:46
 

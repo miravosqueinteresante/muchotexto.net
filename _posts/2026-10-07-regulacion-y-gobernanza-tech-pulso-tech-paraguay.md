@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Regulación y gobernanza · 7 oct"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 7 de octubre de 2026 Ultima actualizacion: 15:38 📋 REGULACION Y GOBERNANZA TECH Cambios en la cúpula del MITIC El Poder..."
+description: "El Poder Ejecutivo oficializó cambios en la cúpula del MITIC para reestructurar la gobernanza tecnológica y la agenda digital del Estado paraguayo."
+description_ai: true
 date: 2026-10-07
 last_modified_at: 2026-10-07
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 7 de octubre de 2026  |  🕐 Ultima actualizacion: 15:38
 

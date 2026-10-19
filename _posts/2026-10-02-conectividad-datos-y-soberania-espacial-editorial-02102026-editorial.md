@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Conectividad, datos y soberanía espacial"
-description: "El 72% de los jubilados del IPS que operan mediante canales digitales en ueno bank marca un punto de inflexión en la inclusión financiera en Paraguay."
+description: "La soberanía tecnológica de Paraguay se consolida con la inclusión digital financiera y la gestión de datos satelitales que exigen mayor ciberdefensa."
+description_ai: true
 
 
 
@@ -24,7 +25,6 @@ last_modified_at: 2026-10-02
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El 72% de los jubilados del IPS que operan mediante canales digitales en ueno bank marca un punto de inflexión en la inclusión financiera en Paraguay. Este dato, sumado a la consolidación del GuaraníSat-2 en órbita, demuestra que la infraestructura digital del país está atravesando una etapa de maduración donde la tecnología deja de ser un experimento para convertirse en la base operativa de servicios críticos y de la gestión de información satelital.
 
 ## La seguridad como eje de la infraestructura

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 5 oct"
-description: "PULSO TECH PARAGUAY LUNES 5 de octubre de 2026 Ultima actualizacion: 17:27 🌐 INFRAESTRUCTURA DIGITAL Lanzamiento de plataforma MIC MAP para inversionistas..."
+description: "El Ministerio de Industria y Comercio lanzó la plataforma MIC MAP para centralizar datos estratégicos y facilitar nuevas inversiones en el país."
+description_ai: true
 date: 2026-10-05
 last_modified_at: 2026-10-05
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 5 de octubre de 2026  |  🕐 Ultima actualizacion: 17:27
 

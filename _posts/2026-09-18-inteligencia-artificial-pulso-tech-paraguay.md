@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 18 set"
-description: "PULSO TECH PARAGUAY VIERNES 18 de setiembre de 2026 Ultima actualizacion: 16:30 🤖 INTELIGENCIA ARTIFICIAL Preocupación por brecha digital en Paraguay..."
+description: "La inteligencia artificial profundiza la brecha digital en Paraguay según organizaciones religiosas que exigen mayor equidad y regulación."
+description_ai: true
 date: 2026-09-18
 last_modified_at: 2026-09-18
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 VIERNES 18 de setiembre de 2026  |  🕐 Ultima actualizacion: 16:30
 

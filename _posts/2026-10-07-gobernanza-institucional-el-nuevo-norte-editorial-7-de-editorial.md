@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gobernanza institucional, el nuevo norte"
-description: "El Poder Ejecutivo oficializó hoy la designación de nuevos viceministros en el MITIC, marcando un punto de inflexión en la estructura de mando del sector."
+description: "Los nuevos nombramientos en el MITIC buscan fortalecer la gobernanza digital y enfrentar los desafíos de la inteligencia artificial en Paraguay."
+description_ai: true
 
 
 
@@ -19,7 +20,6 @@ last_modified_at: 2026-10-07
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Poder Ejecutivo oficializó hoy la designación de nuevos viceministros en el MITIC, marcando un punto de inflexión en la estructura de mando del sector tecnológico estatal. Este movimiento administrativo ocurre en un momento donde la gobernanza digital en Paraguay exige una respuesta más ágil ante los desafíos que plantea la inteligencia artificial a nivel global. La reconfiguración de la cúpula del ministerio no es un hecho aislado, sino que se alinea con la necesidad de gestionar una agenda digital que debe integrar, de manera obligatoria, los estándares de seguridad y transparencia que hoy dictan el ritmo del mercado internacional.
 
 ## La IA y el desafío de la autenticidad

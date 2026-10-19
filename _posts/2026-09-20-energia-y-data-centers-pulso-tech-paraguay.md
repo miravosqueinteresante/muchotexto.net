@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 20 set"
-description: "PULSO TECH PARAGUAY DOMINGO 20 de setiembre de 2026 Ultima actualizacion: 12:42 ⚡ ENERGIA Y DATA CENTERS Conflictos en contratos de infraestructura..."
+description: "La débil postura de la ANDE ante el proyecto Atome pone bajo la lupa los contratos de infraestructura energética en Paraguay."
+description_ai: true
 date: 2026-09-20
 last_modified_at: 2026-09-20
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 DOMINGO 20 de setiembre de 2026  |  🕐 Ultima actualizacion: 12:42
 

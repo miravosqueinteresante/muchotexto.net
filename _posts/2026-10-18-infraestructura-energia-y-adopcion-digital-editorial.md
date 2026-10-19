@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Infraestructura, energía y adopción digital"
-description: "El sector productivo nacional está marcando una hoja de ruta clara al solicitar formalmente un incremento en la potencia eléctrica disponible, apoyándose en."
+description: "La infraestructura industrial en Paraguay exige mayor potencia eléctrica y energía solar para sostener la adopción digital y la inteligencia artificial."
+description_ai: true
 
 date: 2026-10-18 18:00:00 -0300
 last_modified_at: 2026-10-18
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El sector productivo nacional está marcando una hoja de ruta clara al solicitar formalmente un incremento en la potencia eléctrica disponible, apoyándose en la instalación de parques solares con sistemas de almacenamiento de baterías. Este requerimiento no es un hecho aislado, sino una respuesta directa a la necesidad de sostener la infraestructura industrial en Paraguay, un país que busca consolidar su capacidad productiva frente a las limitaciones energéticas actuales.
 
 ## La brecha entre energía y automatización
