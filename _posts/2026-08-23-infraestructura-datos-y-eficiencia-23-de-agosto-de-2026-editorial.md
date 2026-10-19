@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, datos y eficiencia, 23."
-description: "El desarrollo de una red neuronal convolucional para la detección de tuberculosis marca un hito en la aplicación de inteligencia artificial dentro del."
+description: "La inteligencia artificial y la infraestructura moderna impulsan la eficiencia y la innovación en el sistema tecnológico de Paraguay."
+description_ai: true
 
 
 
@@ -64,7 +65,6 @@ last_modified_at: 2026-08-23
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El desarrollo de una red neuronal convolucional para la detección de tuberculosis marca un hito en la aplicación de inteligencia artificial dentro del sistema de salud en Paraguay. Este avance técnico, que permite identificar patrones complejos en señales de dispositivos médicos, se suma a la inauguración de nuevas oficinas corporativas por parte de Ideal Tower en Asunción y a la investigación sobre techos fríos apoyada por el Conacyt. Estos tres eventos, aunque distintos en su naturaleza, revelan una dirección clara hacia la optimización de recursos mediante la tecnología.
 
 ## La IA como herramienta de diagnóstico preciso

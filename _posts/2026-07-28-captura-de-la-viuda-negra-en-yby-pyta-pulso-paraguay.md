@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Captura de la viuda negra."
-description: "Captura de la 'viuda negra' en Yby Pytá: La captura de la supuesta 'viuda negra' ha generado gran atención mediática y social. Pulso Tech Paraguay — 28 de."
+description: "La Policía detuvo en Yby Pytá a la supuesta viuda negra vinculada al asesinato de su pareja, un caso que conmociona a todo el país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-28
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MARTES 28 de julio de 2026  |  🕐 Última actualización: 10:12  
 

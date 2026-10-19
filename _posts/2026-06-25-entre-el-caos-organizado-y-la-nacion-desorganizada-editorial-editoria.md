@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Entre el caos organizado y la nación."
-description: "La Albirroja en el Mundial 2026{% post_url 2026-06-25-paraguay-vs-australia-en-el-mundial-pulso-paraguay %} define hoy su futuro."
+description: "La Albirroja en el Mundial 2026 expone las contradicciones de Paraguay, donde el caos organizado refleja tanto el éxito deportivo como la crisis institucional."
+description_ai: true
 
 
 
@@ -93,7 +94,6 @@ last_modified_at: 2026-06-25
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La [Albirroja en el Mundial 2026]({% post_url 2026-06-25-paraguay-vs-australia-en-el-mundial-pulso-paraguay %}) define hoy su futuro. Más allá del resultado, este partido plantea preguntas sobre la identidad nacional que van más allá de los 90 minutos. ¿Por qué un país que parece tan unido frente a un balón, se muestra tan dividido en sus instituciones? La "resiliencia paraguaya", como la llaman algunos, no es más que la capacidad de sobrevivir al caos, pero ¿hasta cuándo podremos sostenernos en esta contradicción?
 
 ## El caos organizado: ¿lección deportiva o metáfora nacional?

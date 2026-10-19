@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Resultados de la."
-description: "Resultados de la selección paraguaya de fútbol: La derrota de Paraguay ante Francia en el Mundial generó gran conversación y análisis entre los."
+description: "La derrota de Paraguay ante Francia en el Mundial y los escándalos políticos marcan la alta tensión social y los temas más comentados de la semana."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-05
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 DOMINGO 5 de julio de 2026  |  🕐 Última actualización: 09:45
 

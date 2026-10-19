@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 20 ago"
-description: "PULSO TECH PARAGUAY JUEVES 20 de agosto de 2026 Ultima actualizacion: 09:54 🤖 INTELIGENCIA ARTIFICIAL Implementación de IA para la preservación del..."
+description: "El Ministerio de Educación implementa inteligencia artificial para digitalizar miles de archivos históricos en Paraguay y rescatar la memoria nacional."
+description_ai: true
 date: 2026-08-20
 last_modified_at: 2026-08-20
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 20 de agosto de 2026  |  🕐 Ultima actualizacion: 09:54
 

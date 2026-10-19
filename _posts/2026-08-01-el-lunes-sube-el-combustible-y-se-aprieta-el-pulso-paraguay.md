@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: El lunes sube el."
-description: "El lunes sube el combustible y se aprieta el bolsillo: Varios emblemas privados ya confirmaron que desde el lunes los precios en los surtidores se van para."
+description: "Los emblemas privados confirmaron una nueva suba del combustible que afectará fuertemente el bolsillo de los ciudadanos desde el próximo lunes."
+description_ai: true
 
 
 
@@ -17,7 +18,6 @@ last_modified_at: 2026-08-01
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 SÁBADO 1 de agosto de 2026  |  🕐 Última actualización: 20:20
 

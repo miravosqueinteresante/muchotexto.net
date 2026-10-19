@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en el país"
-description: "Seguridad en el país: La preocupación por la violencia y la seguridad pública se ha convertido en el tema más debatido del día. Pulso Tech Paraguay — 18."
+description: "La seguridad en el país genera alta preocupación tras cuestionamientos en el Senado por el uso excesivo de la fuerza policial."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-18
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 SÁBADO 18 de julio de 2026  |  🕐 Última actualización: 09:20  
 

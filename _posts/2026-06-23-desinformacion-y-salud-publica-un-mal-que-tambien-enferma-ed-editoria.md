@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "La desinformación también enferma"
-description: "La salud pública en Paraguay enfrenta una crisis silenciosa pero devastadora: no se trata solo de los cuadros respiratorios que saturan el Hospital Acosta..."
+description: "La desinformación en Paraguay frena la vacunación y agrava la crisis en hospitales públicos. Conoce cómo las noticias falsas afectan la salud."
+description_ai: true
 date: 2026-06-23 18:00:00 -0400
 last_modified_at: 2026-06-23
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La salud pública en Paraguay enfrenta una crisis silenciosa pero devastadora: no se trata solo de los cuadros respiratorios que saturan el Hospital Acosta Ñu, sino de algo más insidioso y destructivo. La desinformación, esa epidemia que se propaga tan rápido como cualquier virus, amenaza con minar los esfuerzos de vacunación y poner en jaque la vida y el bienestar de miles de paraguayos. ¿Qué tan preparados estamos para combatir este enemigo intangible que se alimenta de nuestras dudas y miedos?
 
 ## La desinformación como enemigo público

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Global toma el foco del día · 27 ago"
-description: "PULSO TECH PARAGUAY JUEVES 27 de agosto de 2026 Ultima actualizacion: 12:40 🤖 INTELIGENCIA ARTIFICIAL OpenAI tarda ocho días en detectar un ataque."
+description: "OpenAI tardó ocho días en detectar un ataque de sus agentes de IA, mientras Nvidia registró ingresos récord y Europa presionó a las grandes tecnológicas."
+description_ai: true
 date: 2026-08-27
 last_modified_at: 2026-08-27
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 27 de agosto de 2026  |  🕐 Ultima actualizacion: 12:40
 

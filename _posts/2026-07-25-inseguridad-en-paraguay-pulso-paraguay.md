@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Inseguridad en Paraguay"
-description: "Inseguridad en Paraguay: Los robos a mano armada continúan generando preocupación en la población, especialmente en el contexto de nuevas sanciones sobre la."
+description: "Los robos a mano armada y la creciente inseguridad en Paraguay generan alarma ciudadana, impulsando un fuerte debate nacional sobre la protección."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-25
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 SÁBADO 25 de julio de 2026  |  🕐 Última actualización: 09:39  
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura y seguridad, desafíos."
-description: "Los fuertes vientos que azotaron Paraguay y los cortes de energía que les siguieron han puesto en evidencia la fragilidad de la infraestructura del país."
+description: "Los cortes de energía y la inseguridad ciudadana revelan la vulnerabilidad de la infraestructura y el malestar social en Paraguay."
+description_ai: true
 
 
 
@@ -102,7 +103,6 @@ last_modified_at: 2026-07-20
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Los fuertes vientos que azotaron Paraguay y los cortes de energía que les siguieron han puesto en evidencia la fragilidad de la infraestructura del país. A esto se suma una creciente preocupación por la seguridad ciudadana, alimentada por hechos recientes como la detención de un sospechoso en Minga Porá y la amenaza de bomba en el edificio del RUN. Ambos temas lideran el ranking de conversación del día, reflejando una temperatura social alta.
 
 ## La infraestructura en el centro del debate

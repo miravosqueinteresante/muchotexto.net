@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Paro de Funcionarios de."
-description: "Paro de Funcionarios de Vialidad en Asunción: El paro de los funcionarios de Vialidad en Asunción genera un gran volumen de conversación debido a sus."
+description: "El paro de funcionarios de Vialidad en Asunción paraliza las obras municipales mientras los trabajadores exigen la destitución del director."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-16
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 JUEVES 16 de julio de 2026  |  🕐 Última actualización: 09:58
 

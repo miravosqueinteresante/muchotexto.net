@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Formalización digital, el nuevo eje"
-description: "La modernización del Aeropuerto Internacional de Encarnación, impulsada por la DINAC, marca un hito en la infraestructura física que debe sostener el flujo."
+description: "La identidad digital en Paraguay se consolida como pilar de seguridad y formalización mediante nuevas normativas y el control de transacciones."
+description_ai: true
 
 
 
@@ -85,7 +86,6 @@ last_modified_at: 2026-08-03
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La modernización del Aeropuerto Internacional de Encarnación, impulsada por la DINAC, marca un hito en la infraestructura física que debe sostener el flujo de visitantes para el próximo Campeonato Mundial de Rally. Este avance en la conectividad material del Paraguay se entrelaza directamente con la agenda de seguridad y formalización digital que el Estado está desplegando en otros frentes. Mientras se optimizan las terminales aéreas, el Ministerio de Industria y Comercio avanza en la reforma de la Ley de Comercio Electrónico, buscando un marco normativo que acompañe el crecimiento del ecosistema digital en Paraguay.
 
 ## [identidad digital]({% post_url 2026-05-13-ciberhumanidad %}) como estándar de seguridad

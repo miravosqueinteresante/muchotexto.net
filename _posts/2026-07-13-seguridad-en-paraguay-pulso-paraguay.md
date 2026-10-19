@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en Paraguay"
-description: "Seguridad en Paraguay: La preocupación por la seguridad ciudadana ha dominado las conversaciones de hoy en Paraguay. Pulso Tech Paraguay — 13 de julio de."
+description: "La creciente inseguridad en Paraguay genera alta preocupación ciudadana tras la mudanza de la Comandancia y graves hechos de violencia."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-13
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 LUNES 13 de julio de 2026  |  🕐 Última actualización: 10:39  
 

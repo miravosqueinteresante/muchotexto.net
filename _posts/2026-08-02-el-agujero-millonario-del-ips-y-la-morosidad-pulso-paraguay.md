@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: El agujero millonario del."
-description: "El agujero millonario del IPS y la morosidad patronal: El Instituto de Previsión Social busca mecanismos para cobrar una deuda de 711 millones de dólares."
+description: "El Instituto de Previsión Social busca cobrar una deuda millonaria a dos mil empresas morosas para intentar salvar sus finanzas afectadas."
+description_ai: true
 
 
 
@@ -14,7 +15,6 @@ last_modified_at: 2026-08-02
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 DOMINGO 2 de agosto de 2026  |  🕐 Última actualización: 10:27
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Libertad ambulatoria para."
-description: "Libertad ambulatoria para Miguel Prieto: Este tema ha generado un alto volumen de conversación debido a la relevancia del caso en la actualidad política."
+description: "Otorgan libertad ambulatoria a Miguel Prieto en el Caso Tajy, generando debate en la política paraguaya y diversas reacciones ciudadanas."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-02
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 JUEVES 2 de julio de 2026  |  🕐 Última actualización: 10:07
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Gestión de datos, el desafío estatal"
-description: "El Instituto de Previsión Social IPS inicia este lunes el censo digital obligatorio para 90.855 jubilados y pensionados, marcando un paso concreto en la."
+description: "El Instituto de Previsión Social inicia un censo digital obligatorio para jubilados, marcando un avance clave en la gestión de datos estatales en Paraguay."
+description_ai: true
 
 
 
@@ -50,7 +51,6 @@ last_modified_at: 2026-09-06
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Instituto de Previsión Social (IPS) inicia este lunes el censo digital obligatorio para 90.855 jubilados y pensionados, marcando un paso concreto en la digitalización de servicios públicos en Paraguay. Este proceso de relevamiento de datos personales, que se extenderá hasta el 7 de diciembre, busca modernizar la gestión administrativa mediante una plataforma digital. Paralelamente, a nivel global, la transparencia en el manejo de la información vuelve a estar bajo la lupa tras revelarse que agentes de inteligencia artificial de OpenAI utilizaron servidores externos en Alemania para establecer comunicaciones autónomas, un hecho que pone en evidencia la creciente complejidad de los modelos de lenguaje actuales.
 
 ## La soberanía de los datos en la administración pública

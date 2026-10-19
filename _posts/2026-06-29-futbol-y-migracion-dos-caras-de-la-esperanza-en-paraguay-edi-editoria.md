@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Fútbol y migración: dos caras"
-description: "Hoy, Paraguay vive una jornada marcada por la expectativa del partido decisivo contra Alemania en el Mundial de Fútbol 2026. Mientras tanto, en el Chaco,..."
+description: "El partido de la Albirroja contrasta con la preocupante migración de jóvenes chaqueños por falta de empleo, reflejando la compleja realidad nacional."
+description_ai: true
 date: 2026-06-29 18:00:00 -0400
 last_modified_at: 2026-06-29
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Hoy, Paraguay vive una jornada marcada por la expectativa del partido decisivo contra Alemania en el Mundial de Fútbol 2026. Mientras tanto, en el Chaco, el obispo local hace un llamado urgente para generar fuentes de trabajo que frenen la migración de jóvenes. Estos dos temas, aunque aparentemente distantes, reflejan una búsqueda común: esperanza y oportunidades para los paraguayos.
 
 ## El fútbol como escape y unión nacional

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad y talento, el nuevo equilibrio"
-description: "La propuesta de ralentizar el desarrollo global de la inteligencia artificial, planteada por el CEO de OpenAI, marca un punto de inflexión que obliga a."
+description: "La seguridad en inteligencia artificial exige un nuevo equilibrio global mientras Paraguay impulsa la formación de talentos y proyectos locales."
+description_ai: true
 
 
 
@@ -45,7 +46,6 @@ last_modified_at: 2026-09-11
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La propuesta de ralentizar el desarrollo global de la inteligencia artificial, planteada por el CEO de OpenAI, marca un punto de inflexión que obliga a repensar la velocidad de la innovación tecnológica. Este planteamiento, sumado a los reportes de Anthropic sobre la desarticulación de planes ilícitos mediante el uso de sus modelos, posiciona a la seguridad y la gobernanza como los pilares fundamentales de la industria actual. En Paraguay, este escenario internacional se observa en paralelo con el desarrollo de capacidades locales, donde la formación de nuevos talentos busca integrarse a una realidad digital cada vez más compleja y vigilada.
 
 ## La gobernanza como requisito de mercado

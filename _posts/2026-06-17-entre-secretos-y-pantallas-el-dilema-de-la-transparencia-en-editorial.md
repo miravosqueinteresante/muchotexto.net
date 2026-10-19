@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Entre secretos y pantallas: El dilema de"
-description: "Paraguay atraviesa un momento de tensiones que ponen a prueba la confianza de su sociedad. Editorial de muchotexto.net — 2026-06-17."
+description: "El caso María Fernanda expone la opacidad institucional en Paraguay y el rol de la tecnología frente a la creciente crisis de confianza social."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-06-17 19:00:00 -0400
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Paraguay atraviesa un momento de tensiones que ponen a prueba la confianza de su sociedad. La mezcla de escándalos políticos, demandas sociales por mayor justicia y transparencia, y el auge de una era hiperconectada, donde cada detalle puede ser grabado, compartido y viralizado, nos deja en una encrucijada incómoda: ¿estamos realmente preparados para confrontar la verdad en todas sus dimensiones?
 
 El caso María Fernanda, que hoy ocupa los titulares de todos los medios, es un espejo en el que se reflejan las sombras más inquietantes de nuestras instituciones y de nuestra sociedad. Más allá de los detalles escabrosos del caso —los presuntos encubrimientos, los pedidos para borrar pruebas y las implicancias políticas—, este episodio nos enfrenta a una pregunta fundamental: ¿qué tan honesto es el país que estamos dispuestos a construir?

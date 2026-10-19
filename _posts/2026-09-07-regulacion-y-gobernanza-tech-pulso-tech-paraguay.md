@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Regulación y gobernanza · 7 set"
-description: "PULSO TECH PARAGUAY LUNES 7 de setiembre de 2026 Ultima actualizacion: 14:31 📋 REGULACION Y GOBERNANZA TECH Censo digital obligatorio para jubilados del..."
+description: "El censo digital obligatorio del IPS permite a los jubilados actualizar sus datos de forma remota hasta diciembre para modernizar la seguridad social."
+description_ai: true
 date: 2026-09-07
 last_modified_at: 2026-09-07
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 7 de setiembre de 2026  |  🕐 Ultima actualizacion: 14:31
 

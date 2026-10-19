@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Regulación y gobernanza · 4 ago"
-description: "PULSO TECH PARAGUAY MARTES 4 de agosto de 2026 Ultima actualizacion: 11:22 📋 REGULACION Y GOBERNANZA TECH Ciberseguridad y protección de datos La."
+description: "El Congreso convoca a una audiencia pública para frenar los fraudes cibernéticos y exigir mayores estándares de ciberseguridad al sector fintech."
+description_ai: true
 date: 2026-08-04
 last_modified_at: 2026-08-04
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MARTES 4 de agosto de 2026  |  🕐 Ultima actualizacion: 11:22
 

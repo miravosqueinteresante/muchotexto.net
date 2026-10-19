@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial 2026 · 29 jun"
-description: "Mundial de Fútbol 2026: La Albirroja se prepara para su crucial enfrentamiento contra Alemania en busca de acceder a los octavos de final. Pulso Tech Paraguay."
+description: "La Albirroja enfrenta a Alemania en el Mundial 2026 buscando su pase a octavos mientras el país debate sobre empleo, salud y el rescate de un yaguareté."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-29
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 LUNES 29 de junio de 2026  |  🕐 Última actualización: 11:51  
 

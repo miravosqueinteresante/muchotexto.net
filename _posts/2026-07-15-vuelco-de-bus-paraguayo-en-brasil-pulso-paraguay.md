@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Vuelco de bus paraguayo en…"
-description: "Vuelco de bus paraguayo en Brasil: La tragedia en Brasil genera gran preocupación y discusión en redes sociales. Pulso Tech Paraguay — 15 de julio de 2026."
+description: "Autoridades trabajan para confirmar las víctimas tras el trágico vuelco de bus paraguayo en Brasil, generando gran preocupación en el país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-15
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 15 de julio de 2026  |  🕐 Última actualización: 09:47  
 

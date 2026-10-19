@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 17 ago"
-description: "PULSO TECH PARAGUAY LUNES 17 de agosto de 2026 Ultima actualizacion: 09:49 ⚡ ENERGIA Y DATA CENTERS Cambio de paradigma en el sector energético nacional..."
+description: "La creación del Ministerio de Minas y Energía busca atraer inversiones en data centers y ordenar la demanda eléctrica en Paraguay."
+description_ai: true
 date: 2026-08-17
 last_modified_at: 2026-08-17
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 17 de agosto de 2026  |  🕐 Ultima actualizacion: 09:49
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Salario mínimo"
-description: "Salario mínimo: Desde hoy rige el ajuste del salario mínimo, generando debate en torno a su impacto en la economía. Pulso Tech Paraguay — 1 de julio de."
+description: "El nuevo salario mínimo rige desde hoy tras el ajuste oficial, generando intensos debates sobre su impacto en la economía nacional y el mercado laboral."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-01
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 1 de julio de 2026  |  🕐 Última actualización: 10:42  
 

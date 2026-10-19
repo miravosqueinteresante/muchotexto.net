@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en las."
-description: "Seguridad en las penitenciarías: Hoy se generó un gran volumen de conversación tras la fuga de dos reos de una penitenciaría en Misiones. Pulso Tech."
+description: "La fuga de dos reos en Misiones y la incautación de celulares en Oviedo disparan la crisis de seguridad en las penitenciarías del país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-14
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MARTES 14 de julio de 2026  |  🕐 Última actualización: 09:49  
 

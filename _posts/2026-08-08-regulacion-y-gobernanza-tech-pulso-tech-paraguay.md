@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Regulación y gobernanza · 8 ago"
-description: "PULSO TECH PARAGUAY SÁBADO 8 de agosto de 2026 Ultima actualizacion: 09:53 📋 REGULACION Y GOBERNANZA TECH Avance en registro criptográfico del MEC para..."
+description: "El Ministerio de Educación implementa un registro criptográfico de títulos para evitar falsificaciones y garantizar la seguridad documental en Paraguay."
+description_ai: true
 date: 2026-08-08
 last_modified_at: 2026-08-08
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 8 de agosto de 2026  |  🕐 Ultima actualizacion: 09:53
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 8 set"
-description: "PULSO TECH PARAGUAY MARTES 8 de setiembre de 2026 Ultima actualizacion: 16:30 ⚡ ENERGIA Y DATA CENTERS ANDE cierra con éxito campaña de regularización."
+description: "La ANDE regularizó las deudas de más de 100.000 usuarios mientras la industria nacional y la inteligencia artificial impulsan la demanda de energía."
+description_ai: true
 date: 2026-09-08
 last_modified_at: 2026-09-08
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MARTES 8 de setiembre de 2026  |  🕐 Ultima actualizacion: 16:30
 

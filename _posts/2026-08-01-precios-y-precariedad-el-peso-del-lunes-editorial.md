@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Precios y precariedad, el peso del lunes"
-description: "Los emblemas privados de combustible confirmaron que a partir del lunes los precios en los surtidores van a subir, marcando el final de un fin de semana que."
+description: "El aumento del combustible en Paraguay golpea a miles de trabajadores informales que enfrentan una creciente precariedad económica."
+description_ai: true
 
 
 
@@ -87,7 +88,6 @@ last_modified_at: 2026-08-01
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Los emblemas privados de combustible confirmaron que a partir del lunes los precios en los surtidores van a subir, marcando el final de un fin de semana que arrancó con festejos por el Día de la Amistad. Esta decisión de los empresarios del sector llega en un momento donde la presión económica no da tregua, especialmente para el sector más vulnerable de la fuerza laboral del país.
 
 ## Informalidad y el costo de moverse

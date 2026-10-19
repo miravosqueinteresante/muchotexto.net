@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Agresiones y Seguridad en"
-description: "Agresiones y Seguridad en Canindeyú: El ataque a una comisaría en Canindeyú genera gran preocupación en la población y un aumento en la discusión sobre."
+description: "El ataque a una comisaría en Canindeyú y la creciente inseguridad ciudadana marcan la agenda del día en Paraguay con alta tensión social."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-22
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 22 de julio de 2026  |  🕐 Última actualización: 10:01  
 

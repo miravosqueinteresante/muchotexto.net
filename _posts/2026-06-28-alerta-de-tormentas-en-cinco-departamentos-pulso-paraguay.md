@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Alerta de tormentas en."
-description: "Alerta de tormentas en cinco departamentos: Las condiciones climáticas severas están generando gran preocupación y conversación entre los paraguayos. Pulso."
+description: "Cinco departamentos registran alerta de tormentas mientras avanza una jornada marcada por la alta tensión social y política en el país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-28
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 DOMINGO 28 de junio de 2026  |  🕐 Última actualización: 09:52  
 

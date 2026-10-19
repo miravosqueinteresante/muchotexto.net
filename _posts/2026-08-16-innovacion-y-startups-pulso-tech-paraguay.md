@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Innovación y startups · 16 ago"
-description: "PULSO TECH PARAGUAY DOMINGO 16 de agosto de 2026 Ultima actualizacion: 09:43 🚀 INNOVACION Y STARTUPS Inversion masiva en transformacion digital bancaria..."
+description: "El banco ueno triplicó la inversión en software de la competencia, marcando un hito en la transformación digital bancaria del país."
+description_ai: true
 date: 2026-08-16
 last_modified_at: 2026-08-16
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 DOMINGO 16 de agosto de 2026 | 🕐 Ultima actualizacion: 09:43
 

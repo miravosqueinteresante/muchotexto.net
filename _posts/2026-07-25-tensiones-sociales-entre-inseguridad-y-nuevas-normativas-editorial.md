@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Tensiones sociales, entre inseguridad y."
-description: "La inseguridad sigue siendo el tema más discutido en Paraguay, según el Pulso de hoy. Editorial de muchotexto.net — 2026-07-25."
+description: "La creciente inseguridad en Paraguay genera alarma y desprotección ciudadana, dominando la agenda pública junto a los debates sobre paternidad."
+description_ai: true
 
 
 
@@ -97,7 +98,6 @@ last_modified_at: 2026-07-25
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La inseguridad sigue siendo el tema más discutido en Paraguay, según el Pulso de hoy. Los robos a mano armada, como el ocurrido en una heladería de San Ignacio, han generado alarma en la población, reflejando un sentimiento de vulnerabilidad creciente. A esto se suma el debate sobre las nuevas sanciones relacionadas con la paternidad, que también está captando la atención pública y elevando la temperatura social.  
 
 ## Inseguridad y su impacto en la percepción ciudadana  

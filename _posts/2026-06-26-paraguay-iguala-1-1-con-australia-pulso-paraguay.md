@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Paraguay iguala 1-1 con."
-description: "Paraguay iguala 1-1 con Australia: La Albirroja empató en un partido clave por la clasificación al Mundial 2026. El resultado mantiene a Paraguay en carrera."
+description: "La Albirroja empató 1-1 con Australia en un partido clave rumbo al Mundial 2026 y mantiene vivas sus chances de clasificación en el torneo."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-26
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 VIERNES 26 de junio de 2026  |  🕐 Última actualización: 10:30
 

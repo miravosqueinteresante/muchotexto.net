@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 4 set"
-description: "PULSO TECH PARAGUAY VIERNES 4 de setiembre de 2026 Ultima actualizacion: 12:59 🤖 INTELIGENCIA ARTIFICIAL Desarrollo de tecnología local para fumigación..."
+description: "Paraguay implementa aeronaves no tripuladas con inteligencia artificial para optimizar la fumigación agrícola y liderar la innovación regional en el agro."
+description_ai: true
 date: 2026-09-04
 last_modified_at: 2026-09-04
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 VIERNES 4 de setiembre de 2026  |  🕐 Ultima actualizacion: 12:59
 

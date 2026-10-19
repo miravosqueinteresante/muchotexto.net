@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Accidentes en Asunción"
-description: "Accidentes en Asunción: Los accidentes frente a la Municipalidad de Asunción han generado gran preocupación y debate en la ciudadanía. Pulso Tech Paraguay."
+description: "La seguidilla de siniestros viales frente a la comuna capitalina genera preocupación sobre los accidentes en Asunción y la seguridad pública."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-22
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 LUNES 22 de junio de 2026  |  🕐 Última actualización: 12:03  
 

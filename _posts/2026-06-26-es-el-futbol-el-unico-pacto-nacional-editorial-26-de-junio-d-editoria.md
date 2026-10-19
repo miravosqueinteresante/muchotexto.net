@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "¿Es el fútbol el único pacto nacional?"
-description: "Paraguay empató 1-1 con Australia en el Mundial 2026 y el pais entero se detuvo por noventa minutos. Editorial de muchotexto.net — 2026-06-26."
+description: "La Albirroja paraliza Paraguay en el Mundial mientras la corrupción, la crisis educativa y la impunidad política dominan la agenda nacional."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-06-26
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Paraguay empató 1-1 con Australia en el Mundial 2026 y el pais entero se detuvo por noventa minutos. ¿Es este el único pacto que nos une en un pais donde los conflictos politicos, economicos y sociales cada vez son mas insostenibles?
 
 La fiebre futbolera no es solo un fenomeno cultural. Mientras debatimos si el empate alcanza para seguir avanzando, otros temas igual de urgentes pasan a segundo plano. La pregunta inevitable: ¿que seria de Paraguay sin el futbol, sin esa valvula de escape emocional que nos permite postergar las urgencias que arden en nuestra propia casa?

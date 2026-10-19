@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 24 ago"
-description: "PULSO TECH PARAGUAY LUNES 24 de agosto de 2026 Ultima actualizacion: 09:55 🌐 INFRAESTRUCTURA DIGITAL Boom del comercio electrónico en Paraguay El proceso..."
+description: "El comercio electrónico en Paraguay se multiplicó por nueve en cinco años, marcando una etapa de consolidación en el ecosistema digital y financiero."
+description_ai: true
 date: 2026-08-24
 last_modified_at: 2026-08-24
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 24 de agosto de 2026  |  🕐 Ultima actualizacion: 09:55
 

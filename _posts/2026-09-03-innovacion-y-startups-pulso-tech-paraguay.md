@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Innovación y startups · 3 set"
-description: "PULSO TECH PARAGUAY JUEVES 3 de setiembre de 2026 Ultima actualizacion: 16:30 🚀 INNOVACION Y STARTUPS Estudiantes paraguayos de la UPTP llegan a Taiwán...."
+description: "Nvidia adquiere Hugging Face por 13.000 millones de dólares y estudiantes paraguayos de ingeniería llegan a Taiwán para finalizar sus estudios."
+description_ai: true
 date: 2026-09-03
 last_modified_at: 2026-09-03
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 3 de setiembre de 2026  |  🕐 Ultima actualizacion: 16:30
 

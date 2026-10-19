@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 30 ago"
-description: "PULSO TECH PARAGUAY DOMINGO 30 de agosto de 2026 Ultima actualizacion: 17:00 🤖 INTELIGENCIA ARTIFICIAL Debate global sobre la naturaleza cognitiva de la..."
+description: "La brecha tecnológica en Paraguay se evidencia al contrastar el debate global sobre la inteligencia artificial con la urgencia del registro digital."
+description_ai: true
 date: 2026-08-30
 last_modified_at: 2026-08-30
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 DOMINGO 30 de agosto de 2026  |  🕐 Ultima actualizacion: 17:00
 

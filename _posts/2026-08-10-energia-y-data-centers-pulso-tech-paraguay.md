@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 10 ago"
-description: "PULSO TECH PARAGUAY LUNES 10 de agosto de 2026 Ultima actualizacion: 10:14 ⚡ ENERGIA Y DATA CENTERS Especialista urge creacion de Ministerio de Energia..."
+description: "La creación de un Ministerio de Energía es urgente para definir el futuro del sector y atraer inversiones industriales en Paraguay."
+description_ai: true
 date: 2026-08-10
 last_modified_at: 2026-08-10
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 10 de agosto de 2026  |  🕐 Ultima actualizacion: 10:14
 

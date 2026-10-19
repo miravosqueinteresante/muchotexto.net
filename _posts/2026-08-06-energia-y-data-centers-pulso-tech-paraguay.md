@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 6 ago"
-description: "PULSO TECH PARAGUAY JUEVES 6 de agosto de 2026 Ultima actualizacion: 11:19 ⚡ ENERGIA Y DATA CENTERS Proyección de incremento en la tarifa eléctrica de la..."
+description: "Un estudio proyecta un aumento de hasta 45,6% en la tarifa eléctrica de la ANDE, afectando la infraestructura digital y los data centers en Paraguay."
+description_ai: true
 date: 2026-08-06
 last_modified_at: 2026-08-06
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 6 de agosto de 2026  |  🕐 Ultima actualizacion: 11:19
 

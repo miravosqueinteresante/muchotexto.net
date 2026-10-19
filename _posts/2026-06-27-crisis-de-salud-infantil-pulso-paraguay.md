@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Crisis de salud infantil"
-description: "Crisis de salud infantil: Las rifas para salvar a niños cardiópatas han generado una fuerte conversación en redes sociales. Pulso Tech Paraguay — 27 de."
+description: "Las rifas solidarias para niños cardiópatas exponen la grave crisis de salud infantil y la ineficiencia de la atención pública en el país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-27
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 SÁBADO 27 de junio de 2026  |  🕐 Última actualización: 09:48
 

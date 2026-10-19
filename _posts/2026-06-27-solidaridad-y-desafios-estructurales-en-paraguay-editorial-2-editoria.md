@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Solidaridad y desafíos estructurales en."
-description: "Las rifas organizadas para ayudar a niños cardiópatas han puesto en evidencia una problemática que trasciende la solidaridad ciudadana: la incapacidad del."
+description: "Las rifas para niños cardiópatas exponen la crisis de la salud pública en Paraguay y la persistente falta de respuestas estatales."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-06-27
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Las rifas organizadas para ayudar a niños cardiópatas han puesto en evidencia una problemática que trasciende la solidaridad ciudadana: la incapacidad del sistema de salud pública en Paraguay para atender casos críticos de manera eficiente. Mientras tanto, el país celebra su avance en el Mundial 2026 y proyecta un crecimiento económico superior al 5%, lo que contrasta con las dificultades en áreas esenciales como la salud y la justicia.
 
 ## La salud pública en crisis y la respuesta comunitaria

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Candidaturas indígenas en"
-description: "Candidaturas indígenas en política: El tema de las candidaturas indígenas ha generado un gran volumen de conversación debido a su impacto en la inclusión."
+description: "Las candidaturas indígenas generan gran debate sobre la inclusión política en Paraguay y buscan visibilizar los derechos de los pueblos originarios."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-26
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 DOMINGO 26 de julio de 2026  |  🕐 Última actualización: 09:27  
 

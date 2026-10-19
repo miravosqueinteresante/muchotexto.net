@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Brecha digital, entre el dato y la norma"
-description: "El debate técnico sobre la naturaleza cognitiva de la inteligencia artificial, que hoy ocupa la agenda global, contrasta directamente con la realidad."
+description: "Paraguay enfrenta una marcada brecha digital al priorizar la digitalización básica de registros frente al debate global sobre la inteligencia artificial."
+description_ai: true
 
 
 
@@ -57,7 +58,6 @@ last_modified_at: 2026-08-30
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El debate técnico sobre la naturaleza cognitiva de la inteligencia artificial, que hoy ocupa la agenda global, contrasta directamente con la realidad administrativa que se vive en Paraguay. Mientras los especialistas internacionales analizan si los modelos de lenguaje actuales ejecutan procesos de razonamiento lógico o simplemente optimizan la predicción estadística de palabras, en nuestro país la prioridad regulatoria se mantiene en la digitalización de procesos básicos, como el registro de nacimientos en hospitales públicos. Esta disparidad marca el ritmo de la infraestructura tecnológica nacional.
 
 ## La desconexión entre el modelo y la gestión

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Desprolijidades en."
-description: "Desprolijidades en auditoría: Las revelaciones sobre el informe de la Contraloría General de la República están generando gran respuesta en la ciudadanía."
+description: "La Contraloría confirmó irregularidades en la gestión pública según el informe de auditoría que genera gran debate sobre la transparencia estatal."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-06
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 LUNES 6 de julio de 2026  |  🕐 Última actualización: 11:39  
 

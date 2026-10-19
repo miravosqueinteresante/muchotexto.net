@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 13 ago"
-description: "PULSO TECH PARAGUAY JUEVES 13 de agosto de 2026 Ultima actualizacion: 10:17 🤖 INTELIGENCIA ARTIFICIAL La inteligencia artificial como aliado para la..."
+description: "El sector financiero paraguayo adopta la inteligencia artificial para captar clientes, reducir costos y mejorar su eficiencia operativa actual."
+description_ai: true
 date: 2026-08-13
 last_modified_at: 2026-08-13
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 13 de agosto de 2026  |  🕐 Ultima actualizacion: 10:17
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Estado paraguayo pide."
-description: "Estado paraguayo pide perdón por el asesinato de Santiago Leguizamón: La disculpa oficial ha generado un gran debate sobre derechos humanos y justicia en el."
+description: "El Estado paraguayo pidió perdón por el asesinato de Santiago Leguizamón tras una histórica sentencia de la Corte IDH que marca un hito en derechos humanos."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-27
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 LUNES 27 de julio de 2026  |  🕐 Última actualización: 10:40  
 

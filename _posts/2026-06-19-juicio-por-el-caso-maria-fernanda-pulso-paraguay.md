@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Juicio por el caso María"
-description: "Juicio por el caso María Fernanda: Los testimonios en el juicio refuerzan las acusaciones contra los procesados. Pulso Tech Paraguay — 19 de junio de 2026."
+description: "Nuevas declaraciones complican a los procesados en el juicio por el caso María Fernanda, según revelaron durante las últimas audiencias en tribunales."
+description_ai: true
 
 
 
@@ -21,7 +22,6 @@ last_modified_at: 2026-06-19
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 VIERNES 19 de junio de 2026  |  🕐 Última actualización: 11:25
 

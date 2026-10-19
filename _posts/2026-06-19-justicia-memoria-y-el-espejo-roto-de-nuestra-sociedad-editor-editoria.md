@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Justicia, memoria y el espejo roto"
-description: "Los juicios siempre han sido más que un trámite legal. Son espejos donde nos miramos como sociedad, a veces con orgullo, más a menudo con desazón. El."
+description: "El juicio de María Fernanda expone las deudas pendientes del sistema judicial paraguayo y nuestra compleja relación con la impunidad."
+description_ai: true
 date: 2026-06-19 18:00:00 -0400
 last_modified_at: 2026-06-19
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Los juicios siempre han sido más que un trámite legal. Son espejos donde nos miramos como sociedad, a veces con orgullo, más a menudo con desazón. El caso de María Fernanda, que sigue desarrollándose en los tribunales, es uno de esos espejos rotos que nos devuelven la imagen fragmentada de un Paraguay que lucha por definirse entre el discurso de la justicia y las sombras de la impunidad.
 
 Hoy, mientras los testimonios fortalecen las acusaciones contra los procesados, el país observa con una mezcla de indignación y cansancio. Indignación porque el caso, en sus detalles, nos recuerda el largo historial de violencias que hemos normalizado. Cansancio porque la justicia, en este rincón del mundo, rara vez llega a tiempo o del todo. Y sin embargo, aquí estamos, siguiendo cada palabra en los tribunales como si en este proceso se decidiera algo más grande que el destino de los acusados: quizá nuestra propia capacidad de creer que algo puede cambiar.

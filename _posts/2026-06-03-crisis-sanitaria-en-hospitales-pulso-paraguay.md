@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Crisis sanitaria en"
 last_modified_at: 2026-06-03
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Crisis sanitaria en hospitales: falta de insumos y descontento social. Reporte diario de noticias de Paraguay del 3 de junio de 2026."
+description: "La crisis sanitaria en hospitales públicos del país genera descontento social por la falta de insumos médicos y servicios básicos."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 3 de junio de 2026  |  🕐 Última actualización: 12:55  
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Frustración deportiva y tensiones sociales"
-description: "La derrota de Paraguay ante Francia en el Mundial ha sido el tema más comentado del día, según el Pulso Paraguay. Este resultado no solo movilizó a los..."
+description: "La derrota ante Francia y las tensiones políticas elevan la temperatura social en Paraguay, reflejando un profundo descontento colectivo actual."
+description_ai: true
 date: 2026-07-05 18:00:00 -0400
 last_modified_at: 2026-07-05
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La derrota de Paraguay ante Francia en el Mundial ha sido el tema más comentado del día, según el Pulso Paraguay. Este resultado no solo movilizó a los aficionados del fútbol, sino que también se entrelaza con un contexto social y político marcado por preocupaciones sobre seguridad, gobernanza y justicia. La temperatura social, alta en varias categorías, refleja una sociedad que enfrenta múltiples tensiones.
 
 ## La derrota deportiva y su impacto emocional

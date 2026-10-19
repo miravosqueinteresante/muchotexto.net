@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Controversia entre."
-description: "Controversia entre Celeste Amarilla y Kylian Mbappé: La disputa sobre los comentarios de la diputada Celeste Amarilla respecto a Mbappé ha desatado un."
+description: "El Senado paraguayo prepara una declaración formal para responsabilizar a la diputada Celeste Amarilla por sus polémicos dichos sobre Kylian Mbappé."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-08
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 MIÉRCOLES 8 de julio de 2026  |  🕐 Última actualización: 10:19
 

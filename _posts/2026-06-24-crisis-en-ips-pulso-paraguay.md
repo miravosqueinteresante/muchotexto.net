@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Crisis en IPS"
-description: "Crisis en IPS: La renuncia masiva en el IPS ha generado un fuerte eco en la sociedad paraguaya. Pulso Tech Paraguay — 24 de junio de 2026."
+description: "La crisis en el IPS provoca una renuncia masiva de funcionarios debido a la grave precariedad laboral denunciada por el sindicato."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-24
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 24 de junio de 2026  |  🕐 Última actualización: 10:37  
 

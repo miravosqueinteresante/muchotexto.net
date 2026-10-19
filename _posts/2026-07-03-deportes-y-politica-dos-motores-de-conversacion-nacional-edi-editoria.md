@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Deportes y política: dos motores del debate"
-description: "La histórica victoria de Paraguay ante Alemania en el Mundial 2026 ha generado un nivel de euforia pocas veces visto en el país. Este evento deportivo no..."
+description: "La victoria de Paraguay ante Alemania en el Mundial 2026 y el inicio de las elecciones municipales en Asunción dominan el debate nacional."
+description_ai: true
 date: 2026-07-03 18:00:00 -0400
 last_modified_at: 2026-07-03
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La histórica victoria de Paraguay ante Alemania en el Mundial 2026 ha generado un nivel de euforia pocas veces visto en el país. Este evento deportivo no solo se ha convertido en el tema más comentado del día, sino que también ha coincidido con un momento clave en el ámbito político: el inicio oficial de las inscripciones para las elecciones municipales en Asunción. Ambos temas dominan la conversación nacional y revelan cómo el deporte y la política pueden influir en el ánimo colectivo.
 
 ## La Albirroja como catalizador de unidad nacional

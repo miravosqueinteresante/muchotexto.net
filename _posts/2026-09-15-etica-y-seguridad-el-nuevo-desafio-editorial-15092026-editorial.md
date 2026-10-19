@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ética y seguridad, el nuevo desafío"
-description: "La Semana Social Paraguaya 2026 puso sobre la mesa el debate sobre la inteligencia artificial, marcando un punto de inflexión donde la tecnología deja de."
+description: "La Semana Social Paraguaya 2026 debatió la inteligencia artificial y la necesidad de priorizar la ciberseguridad en la gobernanza digital nacional."
+description_ai: true
 
 
 
@@ -41,7 +42,6 @@ last_modified_at: 2026-09-15
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La Semana Social Paraguaya 2026 puso sobre la mesa el debate sobre la inteligencia artificial, marcando un punto de inflexión donde la tecnología deja de ser solo una herramienta de eficiencia para convertirse en un objeto de reflexión ética en Paraguay. Este enfoque local, centrado en el bien común, ocurre en un momento donde el panorama internacional está marcado por una urgencia técnica sin precedentes, impulsada por figuras como Bill Gates y Elon Musk, quienes plantean la necesidad de ralentizar el desarrollo de modelos avanzados.
 
 ## La brecha entre la reflexión ética y la urgencia técnica

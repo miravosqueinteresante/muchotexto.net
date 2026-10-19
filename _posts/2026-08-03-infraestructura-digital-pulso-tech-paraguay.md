@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 3 ago"
-description: "PULSO TECH PARAGUAY LUNES 3 de agosto de 2026 Ultima actualizacion: 19:21 🌐 INFRAESTRUCTURA DIGITAL Modernización del Aeropuerto Internacional de..."
+description: "La reforma de la Ley de Comercio Electrónico y el nuevo sistema de identidad digital buscan blindar el ecosistema digital paraguayo contra el cibercrimen."
+description_ai: true
 date: 2026-08-03
 last_modified_at: 2026-08-03
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 LUNES 3 de agosto de 2026  |  🕐 Ultima actualizacion: 19:21
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Crisis en el IPS"
-description: "Crisis en el IPS: La situación del Instituto de Previsión Social genera un fuerte debate en la sociedad, especialmente por la falta de medicamentos y el."
+description: "La crisis en el IPS genera un fuerte debate por la falta de medicamentos y las constantes denuncias sobre la deficiente atención a los asegurados."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-30
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 JUEVES 30 de julio de 2026  |  🕐 Última actualización: 10:07
 

@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Selección Paraguaya y su"
 last_modified_at: 2026-06-13
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "La Selección Paraguaya cae ante Estados Unidos en su debut mundialista. Reporte diario de noticias de Paraguay del 13 de junio de 2026."
+description: "La derrota de la selección paraguaya en el Mundial y la creciente tensión por la seguridad marcan el pulso social en Paraguay."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 SÁBADO 13 de junio de 2026  |  🕐 Última actualización: 10:05  
 

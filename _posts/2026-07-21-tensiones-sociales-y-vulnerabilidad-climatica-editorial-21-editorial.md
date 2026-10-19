@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Tensiones sociales y vulnerabilidad."
-description: "Las alertas de tormentas en cuatro departamentos de Paraguay han puesto en evidencia la fragilidad de las comunidades frente a fenómenos climáticos extremos."
+description: "La alta vulnerabilidad social en Paraguay se profundiza por las alertas climáticas, la inseguridad y la desconfianza hacia las instituciones públicas."
+description_ai: true
 
 
 
@@ -101,7 +102,6 @@ last_modified_at: 2026-07-21
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Las alertas de tormentas en cuatro departamentos de Paraguay han puesto en evidencia la fragilidad de las comunidades frente a fenómenos climáticos extremos. Este hecho, sumado a otras tensiones sociales y políticas, refleja un panorama de incertidumbre que atraviesa diversos aspectos de la vida nacional.
 
 ## Clima y seguridad, una preocupación compartida

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 13 set"
-description: "PULSO TECH PARAGUAY DOMINGO 13 de setiembre de 2026 Ultima actualizacion: 12:50 🤖 INTELIGENCIA ARTIFICIAL Expertos taiwaneses refuerzan vigilancia..."
+description: "Expertos taiwaneses implementan inteligencia artificial en Paraguay para potenciar la vigilancia sanitaria y el análisis de datos en salud."
+description_ai: true
 date: 2026-09-13
 last_modified_at: 2026-09-13
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 DOMINGO 13 de setiembre de 2026 | 🕐 Ultima actualizacion: 12:50
 

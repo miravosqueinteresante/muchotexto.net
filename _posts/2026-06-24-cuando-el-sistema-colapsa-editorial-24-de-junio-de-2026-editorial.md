@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Cuando el sistema colapsa"
-description: "La renuncia masiva en el Instituto de Previsión Social IPS ha expuesto, una vez más, los crónicos problemas de gestión que arrastra una de las."
+description: "La renuncia masiva en el IPS expone los graves problemas de gestión y la profunda crisis del sistema de salud pública en Paraguay."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-06-24
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La renuncia masiva en el Instituto de Previsión Social (IPS) ha expuesto, una vez más, los crónicos problemas de gestión que arrastra una de las instituciones más emblemáticas y necesarias de Paraguay. Mientras la crisis se profundiza, uno no puede evitar preguntarse: ¿qué significa para un país cuando su sistema de salud pública, el último bastión de esperanza para los más vulnerables, comienza a desmoronarse?
 
 ## La precariedad como norma

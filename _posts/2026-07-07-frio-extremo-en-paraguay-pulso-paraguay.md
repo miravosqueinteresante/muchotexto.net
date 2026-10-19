@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Frío extremo en Paraguay"
-description: "Frío extremo en Paraguay: Las heladas en casi toda la Región Oriental y parte del Chaco generan preocupación en la población. Pulso Tech Paraguay — 7 de."
+description: "El frío extremo en Paraguay y las heladas generalizadas en la Región Oriental generan gran preocupación en la población."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-07
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MARTES 7 de julio de 2026  |  🕐 Última actualización: 10:41  
 

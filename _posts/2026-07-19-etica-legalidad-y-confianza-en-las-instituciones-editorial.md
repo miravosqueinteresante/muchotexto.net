@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ética, legalidad y confianza en las."
-description: "El inicio del juicio contra Hernán Rivas por el presunto uso de un título falso de abogado ha captado la atención nacional, convirtiéndose en el tema más."
+description: "El juicio a Hernán Rivas por su supuesto título falso de abogado pone en jaque la confianza en las instituciones y la ética del sistema legal en Paraguay."
+description_ai: true
 
 
 
@@ -106,7 +107,6 @@ last_modified_at: 2026-07-19
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El inicio del juicio contra Hernán Rivas por el presunto uso de un título falso de abogado ha captado la atención nacional, convirtiéndose en el tema más discutido del día según el Pulso Paraguay. Este caso no solo pone en el centro del debate la conducta individual de Rivas, sino que también reaviva cuestionamientos sobre la confianza en las instituciones y los mecanismos de control en Paraguay.  
 
 ## La ética profesional bajo escrutinio  

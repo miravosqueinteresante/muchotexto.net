@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Internas municipales de la"
 last_modified_at: 2026-06-05
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Internas municipales de la ANR: gran volumen de conversación y análisis político. Reporte diario de noticias de Paraguay del 5 de junio de 2026."
+description: "Dieciséis mil candidatos compiten este domingo en las elecciones internas de la ANR para definir los cargos municipales en todo el país."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 VIERNES 5 de junio de 2026  |  🕐 Última actualización: 10:57
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Consumo digital y cautela financiera"
 description: "El comercio electrónico en Paraguay multiplicó su volumen por nueve en los últimos cinco años, consolidándose como el motor principal de la."
+description_ai: true
 
 
 
@@ -63,7 +64,6 @@ last_modified_at: 2026-08-24
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El comercio electrónico en Paraguay multiplicó su volumen por nueve en los últimos cinco años, consolidándose como el motor principal de la transformación económica local. Este crecimiento, que se mantiene sostenido, contrasta con los datos recientes del Boletín de Bancos del Banco Central del Paraguay, que señalan una desaceleración en la emisión de tarjetas de crédito. Mientras la adopción de canales digitales para las compras sigue en ascenso, el sistema financiero muestra una postura más prudente en la creación de nuevos instrumentos de deuda, a pesar de que la cartera de clientes sigue expandiéndose.
 
 ## La maduración del ecosistema digital

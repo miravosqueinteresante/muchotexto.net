@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Imputación por el caso de."
-description: "Imputación por el caso de la niña llevada a Argentina: El caso de la niña llevada ilegalmente a Argentina ha generado un fuerte volumen de conversación."
+description: "La fiscalía imputó al padre por la niña llevada ilegalmente a Argentina, generando un intenso debate sobre la seguridad infantil en el país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-11
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 SÁBADO 11 de julio de 2026  |  🕐 Última actualización: 09:24  
 

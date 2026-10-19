@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Paraguay vs. Australia en."
-description: "Paraguay vs. Australia en el Mundial: El partido decisivo para avanzar a los dieciseisavos genera gran expectativa en el país. Pulso Tech Paraguay — 25 de."
+description: "La Albirroja enfrenta a Australia buscando asegurar su pase a los dieciseisavos de final en un partido clave del Mundial 2026."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-25
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 JUEVES 25 de junio de 2026  |  🕐 Última actualización: 10:38
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, IA y el futuro eléctrico"
-description: "La estatal de energía anunció la licitación de nuevos módulos fotovoltaicos en el Chaco, marcando un hito en la planificación energética del país."
+description: "La licitación de energía solar en el Chaco y la inteligencia artificial marcan el futuro eléctrico de Paraguay hacia una mayor eficiencia."
+description_ai: true
 
 
 
@@ -55,7 +56,6 @@ last_modified_at: 2026-09-01
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La estatal de energía anunció la licitación de nuevos módulos fotovoltaicos en el Chaco, marcando un hito en la planificación energética del país. Este proyecto no es un hecho aislado, sino una respuesta directa a la creciente demanda industrial que Paraguay experimentará en la próxima década. La necesidad de complementar la producción hidroeléctrica con fuentes renovables variables como la solar exige, necesariamente, una modernización en la gestión de nuestras redes de distribución.
 
 ## Automatización como eje de la resiliencia

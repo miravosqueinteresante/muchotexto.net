@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 5 ago"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 5 de agosto de 2026 Ultima actualizacion: 11:15 ⚡ ENERGIA Y DATA CENTERS Inversiones globales en infraestructura de datos..."
+description: "La disponibilidad energética definirá la expansión de centros de datos para inteligencia artificial hacia 2030, condicionando la infraestructura digital."
+description_ai: true
 date: 2026-08-05
 last_modified_at: 2026-08-05
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 5 de agosto de 2026  |  🕐 Ultima actualizacion: 11:15
 

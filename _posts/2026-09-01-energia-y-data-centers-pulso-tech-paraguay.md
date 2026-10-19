@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 1 set"
-description: "PULSO TECH PARAGUAY MARTES 1 de setiembre de 2026 Ultima actualizacion: 17:00 ⚡ ENERGIA Y DATA CENTERS Proyecto de parque solar en el Chaco para refuerzo..."
+description: "La ANDE proyecta licitar un parque solar en el Chaco para asegurar el abastecimiento ante la creciente demanda industrial de la próxima década."
+description_ai: true
 date: 2026-09-01
 last_modified_at: 2026-09-01
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MARTES 1 de setiembre de 2026  |  🕐 Ultima actualizacion: 17:00
 

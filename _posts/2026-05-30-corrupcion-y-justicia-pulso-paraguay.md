@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Corrupción y Justicia"
 last_modified_at: 2026-05-30
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Corrupción y Justicia: indignación social tras escándalo que involucra a figuras judiciales. Reporte diario de noticias de Paraguay del 30 de mayo de 2026."
+description: "La corrupción judicial en Paraguay desata indignación ciudadana tras la suspensión de una jueza vinculada a una mafia de pagarés."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 SÁBADO 30 de mayo de 2026  |  🕐 Última actualización: 12:54
 

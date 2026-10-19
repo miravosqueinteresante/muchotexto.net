@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Fútbol e identidad nacional en Paraguay"
-description: "La Albirroja ganó y el país estalló. En el sentido más literal del término. Desde el histórico triunfo ante Turquía, Paraguay vive un paroxismo."
+description: "La Albirroja desata pasiones y tensiones sociales en Paraguay, reflejando nuestra compleja identidad nacional más allá de cada victoria deportiva."
+description_ai: true
 date: 2026-06-20 18:00:00 -0400
 last_modified_at: 2026-06-20
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La Albirroja ganó y el país estalló. En el sentido más literal del término. Desde el histórico triunfo ante Turquía, Paraguay vive un paroxismo colectivo. Calles inundadas de rojo, blanco y azul; cánticos que resuenan como un eco interminable; abrazos entre desconocidos; y, claro, esos incidentes que, lamentablemente, se han vuelto casi un protocolo no escrito de las celebraciones deportivas. Los festejos por el Mundial 2026 no solo han sacudido al país, sino que también han evidenciado una serie de tensiones, contradicciones y momentos de introspección que merecen ser analizados con más detenimiento.
 
 ## El fútbol como gran catalizador social

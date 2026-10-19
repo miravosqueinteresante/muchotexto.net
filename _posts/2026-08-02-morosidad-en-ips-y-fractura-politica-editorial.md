@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Morosidad en IPS y fractura política"
-description: "El Instituto de Previsión Social enfrenta hoy una crisis financiera marcada por una deuda de 711 millones de dólares, acumulada por más de 2.000 empresas."
+description: "La deuda histórica de 711 millones de dólares en el IPS evidencia una grave crisis financiera mientras la clase política se desgasta en internas partidarias."
+description_ai: true
 
 
 
@@ -86,7 +87,6 @@ last_modified_at: 2026-08-02
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Instituto de Previsión Social enfrenta hoy una crisis financiera marcada por una deuda de 711 millones de dólares, acumulada por más de 2.000 empresas morosas. Esta cifra no es solo un número en un balance, sino que representa un agujero millonario que la previsional busca sanear mediante medidas extraordinarias para intentar salvar sus finanzas. Mientras la institución intenta recuperar estos recursos, la realidad económica del país muestra fisuras que van desde la falta de pago patronal hasta la precariedad de los servicios básicos en el interior.
 
 ## Instituciones debilitadas por la interna política

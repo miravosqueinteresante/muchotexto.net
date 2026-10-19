@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 14 ago"
-description: "PULSO TECH PARAGUAY VIERNES 14 de agosto de 2026 Ultima actualizacion: 13:30 ⚡ ENERGIA Y DATA CENTERS Ejecutivo impulsa la creación del Ministerio de..."
+description: "El Gobierno impulsa la creación del Ministerio de Energía para formalizar la gobernanza del sector energético y atraer nuevas inversiones estratégicas."
+description_ai: true
 date: 2026-08-14
 last_modified_at: 2026-08-14
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 VIERNES 14 de agosto de 2026  |  🕐 Ultima actualizacion: 13:30
 

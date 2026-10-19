@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, el cuello de botella"
-description: "La jornada de hoy nos presenta una realidad técnica que no podemos ignorar: mientras el Ejecutivo busca consolidar la gobernanza energética mediante la."
+description: "La infraestructura digital del Estado paraguayo expone fallas críticas que contrastan con la ambición de atraer grandes inversiones tecnológicas."
+description_ai: true
 
 
 
@@ -73,7 +74,6 @@ last_modified_at: 2026-08-14
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La jornada de hoy nos presenta una realidad técnica que no podemos ignorar: mientras el Ejecutivo busca consolidar la gobernanza energética mediante la creación de un nuevo ministerio, la infraestructura digital del Estado sufre una interrupción crítica en el Poder Judicial. Estos dos hechos, aunque parecen aislados, exponen las dos caras de la misma moneda en el desarrollo tecnológico de Paraguay: la ambición de atraer grandes inversiones y la fragilidad de los servicios digitales básicos que ya operan en el país.
 
 ## La gobernanza como base del desarrollo

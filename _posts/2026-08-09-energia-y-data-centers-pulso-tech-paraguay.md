@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 9 ago"
-description: "PULSO TECH PARAGUAY DOMINGO 9 de agosto de 2026 Ultima actualizacion: 09:56 ⚡ ENERGIA Y DATA CENTERS Paraguay inicia era de tecnologia nuclear civil..."
+description: "Paraguay firmó un acuerdo con Estados Unidos para iniciar su era de tecnología nuclear civil y blindar así su infraestructura energética."
+description_ai: true
 date: 2026-08-09
 last_modified_at: 2026-08-09
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 DOMINGO 9 de agosto de 2026  |  🕐 Ultima actualizacion: 09:56
 

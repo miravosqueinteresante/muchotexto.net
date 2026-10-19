@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Expectativa y tensión social"
-description: "El partido de Paraguay contra Francia en los octavos de final del Mundial 2026 domina la conversación nacional, con una temperatura social alta y un."
+description: "El fervor por la Albirroja contrasta con el malestar social por la economía y la gestión pública que revela el Pulso Paraguay."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-08-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El partido de Paraguay contra Francia en los octavos de final del Mundial 2026 domina la conversación nacional, con una temperatura social alta y un sentimiento mayoritariamente positivo. Sin embargo, el Pulso Paraguay también revela tensiones en otros ámbitos, como la economía y la gestión pública, que contrastan con el fervor futbolístico.
 
 ## El fútbol como válvula de escape en tiempos difíciles

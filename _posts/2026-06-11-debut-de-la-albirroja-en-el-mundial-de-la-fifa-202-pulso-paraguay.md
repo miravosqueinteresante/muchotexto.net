@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Debut de la Albirroja en"
 last_modified_at: 2026-06-11
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Debut de la Albirroja en el Mundial de la FIFA 2026: Paraguay en el centro de atención global. Reporte diario del 11 de junio de 2026."
+description: "El debut de la Albirroja en el Mundial 2026 genera cortes de tráfico en Asunción y una gran fiebre futbolera en todo el país."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 JUEVES 11 de junio de 2026  |  🕐 Última actualización: 12:07  
 

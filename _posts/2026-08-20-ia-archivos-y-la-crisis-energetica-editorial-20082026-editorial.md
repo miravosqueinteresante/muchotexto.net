@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "IA, archivos y la crisis energética"
-description: "El Ministerio de Educación y Ciencias presentó el proyecto Memoria escrita de un gigante 1845-1904, una iniciativa que emplea inteligencia artificial para."
+description: "La digitalización de archivos históricos con inteligencia artificial en Paraguay choca con la crisis energética y la falta de estabilidad eléctrica."
+description_ai: true
 
 
 
@@ -67,7 +68,6 @@ last_modified_at: 2026-08-20
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Ministerio de Educación y Ciencias presentó el proyecto "Memoria escrita de un gigante 1845-1904", una iniciativa que emplea inteligencia artificial para la digitalización y recuperación de archivos históricos. Este avance tecnológico en la gestión documental de Paraguay coincide, sin embargo, con un escenario de incertidumbre en el sector energético, donde exautoridades de la [sector eléctrico]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) y representantes gremiales cuestionan la creación de nuevas instituciones reguladoras frente a la crisis eléctrica actual.
 
 ## La paradoja de la digitalización estatal

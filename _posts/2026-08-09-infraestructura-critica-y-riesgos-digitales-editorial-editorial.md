@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura crítica y riesgos digitales"
-description: "El acuerdo firmado entre Paraguay y Estados Unidos para la transferencia de tecnología nuclear civil marca un punto de inflexión en la planificación."
+description: "La ciberseguridad es vital para proteger la nueva infraestructura crítica y los sistemas digitales que gestionarán la energía nuclear en Paraguay."
+description_ai: true
 
 
 
@@ -78,7 +79,6 @@ last_modified_at: 2026-08-09
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El acuerdo firmado entre Paraguay y Estados Unidos para la transferencia de tecnología nuclear civil marca un punto de inflexión en la planificación energética del país. Este paso, supervisado por la Autoridad Reguladora Radiológica y Nuclear (ARRN), trasciende la diplomacia y se instala directamente en la agenda de infraestructura tecnológica nacional. La necesidad de blindar la matriz energética requiere, de manera inevitable, una integración profunda con sistemas de control automatizados que permitan gestionar esta nueva capacidad de generación de forma eficiente y segura.
 
 ## La convergencia entre energía y automatización

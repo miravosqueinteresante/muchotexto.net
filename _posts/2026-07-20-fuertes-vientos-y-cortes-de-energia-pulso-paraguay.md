@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Fuertes vientos y cortes."
-description: "Fuertes vientos y cortes de energía: Los fuertes vientos que afectaron casi todo Paraguay generaron una ola de comentarios y preocupaciones por los cortes de."
+description: "Los fuertes vientos en Paraguay provocaron cortes masivos de energía, detenciones por homicidio y una gran tensión social en esta jornada."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-20
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 LUNES 20 de julio de 2026  |  🕐 Última actualización: 10:10  
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 12 set"
-description: "PULSO TECH PARAGUAY SÁBADO 12 de setiembre de 2026 Ultima actualizacion: 12:14 🤖 INTELIGENCIA ARTIFICIAL IA como eje estratégico nacional El presidente..."
+description: "El Gobierno busca posicionar a Paraguay en la inteligencia artificial mientras la industria local avanza en innovación tecnológica."
+description_ai: true
 date: 2026-09-12
 last_modified_at: 2026-09-12
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 12 de setiembre de 2026  |  🕐 Ultima actualizacion: 12:14
 

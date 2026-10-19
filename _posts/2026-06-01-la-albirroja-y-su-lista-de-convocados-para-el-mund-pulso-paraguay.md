@@ -19,9 +19,9 @@ title: "Pulso Paraguay: La Albirroja y su lista de"
 last_modified_at: 2026-06-01
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "La Albirroja y su lista de convocados para el Mundial 2026. Reporte diario de noticias de Paraguay con análisis de sentimiento del 1 de junio de 2026."
+description: "La Albirroja presentó la lista de 26 convocados para el Mundial 2026, generando gran expectativa y revuelo en todo el país."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 LUNES 1 de junio de 2026  |  🕐 Última actualización: 13:46  
 

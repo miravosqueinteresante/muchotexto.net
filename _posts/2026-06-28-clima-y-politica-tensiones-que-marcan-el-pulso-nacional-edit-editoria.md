@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Clima y política: tensiones del pulso"
-description: "La alerta de tormentas en cinco departamentos domina la conversación en Paraguay, reflejando una preocupación generalizada por las condiciones climáticas..."
+description: "La alerta de tormentas y las críticas a la corrupción elevan el clima y la política en Paraguay con alta tensión social."
+description_ai: true
 date: 2026-06-28 18:00:00 -0400
 last_modified_at: 2026-06-28
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La alerta de tormentas en cinco departamentos domina la conversación en Paraguay, reflejando una preocupación generalizada por las condiciones climáticas adversas. Paralelamente, temas políticos como la condena de Mons. Valenzuela a la corrupción y el uso de recursos públicos para proselitismo también generan alta temperatura social, mostrando un país en tensión tanto en lo natural como en lo institucional.
 
 ## La inseguridad climática y su impacto en la sociedad

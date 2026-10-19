@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 28 ago"
-description: "PULSO TECH PARAGUAY VIERNES 28 de agosto de 2026 Ultima actualizacion: 18:53 🌐 INFRAESTRUCTURA DIGITAL Pericia informática en COPACO por desvío de."
+description: "Fiscalía intervino COPACO para una pericia informática por desvío de fondos, mientras el debate sobre ciberseguridad e inteligencia artificial crece."
+description_ai: true
 date: 2026-08-28
 last_modified_at: 2026-08-28
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 VIERNES 28 de agosto de 2026 | 🕐 Ultima actualizacion: 18:53
 

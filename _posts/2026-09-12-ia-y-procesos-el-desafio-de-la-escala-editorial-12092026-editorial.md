@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "IA y procesos, el desafío de la escala"
-description: "El anuncio del presidente Santiago Peña sobre la inteligencia artificial como eje estratégico nacional marca una intención clara de posicionar a Paraguay en."
+description: "La inteligencia artificial en Paraguay exige articular la visión estatal de vanguardia con la urgente modernización de los procesos industriales."
+description_ai: true
 
 
 
@@ -44,7 +45,6 @@ last_modified_at: 2026-09-12
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El anuncio del presidente Santiago Peña sobre la inteligencia artificial como eje estratégico nacional marca una intención clara de posicionar a Paraguay en la vanguardia tecnológica. Este posicionamiento político coincide, en la misma jornada, con la implementación de maquinaria de liofilización en la empresa Menro S.A., un proyecto que cuenta con el respaldo del Conacyt para optimizar la producción alimentaria. Estos dos hechos, aunque parecen distantes en su naturaleza, exponen la realidad actual de la tecnología en el país: una convivencia entre la ambición de liderar en IA y la necesidad urgente de modernizar procesos industriales básicos mediante la ciencia aplicada.
 
 ## La brecha entre el discurso y la ejecución técnica

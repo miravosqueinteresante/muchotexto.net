@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Del abrazo al hachazo"
-description: "Del abrazo al hachazo republicano: La controversia en torno a Beto Ovelar y su intento fallido de negociaciones en la Cámara de Diputados ha generado un gran."
+description: "La crisis política colorada y el pulso social en Paraguay marcan la agenda de hoy con tensiones legislativas, fútbol y cultura."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-29
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 29 de julio de 2026  |  🕐 Última actualización: 12:24  
 

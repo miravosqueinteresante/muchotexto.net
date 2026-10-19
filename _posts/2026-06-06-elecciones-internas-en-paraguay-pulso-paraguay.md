@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Elecciones internas en"
 last_modified_at: 2026-06-06
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Elecciones internas en Paraguay: gran volumen de conversación en la antesala electoral. Reporte diario del 6 de junio de 2026."
+description: "Con más de 37.000 candidaturas inscriptas, las elecciones internas en Paraguay definen el escenario político rumbo al 2028."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 SÁBADO 6 de junio de 2026  |  🕐 Última actualización: 09:49  
 

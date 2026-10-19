@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Regulación y gobernanza · 15 ago"
-description: "PULSO TECH PARAGUAY SÁBADO 15 de agosto de 2026 Ultima actualizacion: 09:42 📋 REGULACION Y GOBERNANZA TECH Nuevas modalidades en ciberataques bancarios."
+description: "El MITIC advirtió sobre nuevas modalidades en ciberataques bancarios que afectan al sistema financiero paraguayo, exigiendo reforzar la ciberseguridad."
+description_ai: true
 date: 2026-08-15
 last_modified_at: 2026-08-15
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 15 de agosto de 2026  |  🕐 Ultima actualizacion: 09:42
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Caso María Fernanda"
-description: "Caso María Fernanda: El caso sigue generando repercusiones por los testimonios que revelan presuntos encubrimientos. Pulso Tech Paraguay — 17 de junio de."
+description: "Nuevos testimonios en el caso María Fernanda revelan pedidos de borrar el celular y el uso de medicamentos abortivos que complican la investigación."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-17
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 17 de junio de 2026  |  🕐 Última actualización: 11:39  
 

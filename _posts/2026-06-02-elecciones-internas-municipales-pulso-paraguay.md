@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Elecciones internas."
 last_modified_at: 2026-06-02
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Elecciones internas municipales: intenso debate y movimiento político. Reporte diario de noticias de Paraguay del 2 de junio de 2026."
+description: "Las elecciones internas municipales movilizan el escenario político nacional mientras aumentan la tensión social y las alertas sanitarias en el país."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY
 📅 MARTES 2 de junio de 2026  |  🕐 Última actualización: 12:38
 

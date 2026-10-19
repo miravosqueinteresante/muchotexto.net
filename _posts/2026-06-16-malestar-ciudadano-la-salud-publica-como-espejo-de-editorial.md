@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Malestar ciudadano: la salud pública como"
-description: "Hay días en los que leer el panorama nacional es como abrir una caja de Pandora. Hoy es uno de esos días en Paraguay. Editorial de muchotexto.net."
+description: "La crisis en neonatología del IPS expone el grave colapso de la salud pública en Paraguay tras la renuncia masiva de médicos."
+description_ai: true
 
 
 
@@ -109,7 +110,6 @@ last_modified_at: 2026-06-16 19:00:00 -0400
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Hay días en los que leer el panorama nacional es como abrir una caja de Pandora. Hoy es uno de esos días en Paraguay. El Pulso Paraguay nos trae una radiografía de un país que parece estar tambaleándose entre la desidia institucional y las demandas sociales no atendidas. La crisis en Neonatología del Instituto de Previsión Social (IPS) sobresale como la herida abierta que sangra ante la mirada de un sistema que, por su inercia, parece no tener intención de curarla. La renuncia masiva de médicos en una de las áreas más delicadas de la salud pública es un llamado de atención que no deberíamos ignorar.
 
 ## El derecho a la vida en su forma más frágil

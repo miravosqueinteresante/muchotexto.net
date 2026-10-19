@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Diversidad política y economía en ascenso"
-description: "El Pulso Paraguay de hoy destaca dos fenómenos que están marcando la agenda nacional: el impulso a las candidaturas indígenas como parte de un esfuerzo por."
+description: "Las candidaturas indígenas y el aumento de residencias extranjeras marcan una transformación clave en la inclusión política y economía de Paraguay."
+description_ai: true
 
 
 
@@ -96,7 +97,6 @@ last_modified_at: 2026-07-26
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Pulso Paraguay de hoy destaca dos fenómenos que están marcando la agenda nacional: el impulso a las candidaturas indígenas como parte de un esfuerzo por la inclusión política y el aumento significativo en las solicitudes de residencia de extranjeros en Paraguay. Ambos temas reflejan transformaciones importantes en el panorama político y económico del país.
 
 ## Inclusión política, una demanda creciente

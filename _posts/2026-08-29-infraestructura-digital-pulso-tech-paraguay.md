@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 29 ago"
-description: "PULSO TECH PARAGUAY SÁBADO 29 de agosto de 2026 Ultima actualizacion: 13:25 🌐 INFRAESTRUCTURA DIGITAL IPS implementa censo digital para jubilados El..."
+description: "El IPS implementa un censo digital para actualizar datos de jubilados mientras la agenda tecnológica global y local exige mayor ciberseguridad."
+description_ai: true
 date: 2026-08-29
 last_modified_at: 2026-08-29
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 29 de agosto de 2026  |  🕐 Ultima actualizacion: 13:25
 

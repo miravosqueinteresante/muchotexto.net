@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Infraestructura digital · 9 set"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 9 de setiembre de 2026 Ultima actualizacion: 16:30 🌐 INFRAESTRUCTURA DIGITAL Senado solicita informes al BCP sobre fraudes..."
+description: "El Congreso exige informes al BCP sobre fraudes cibernéticos ante la creciente preocupación por la seguridad en el sistema financiero paraguayo."
+description_ai: true
 date: 2026-09-09
 last_modified_at: 2026-09-09
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 9 de setiembre de 2026  |  🕐 Ultima actualizacion: 16:30
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad digital, el desafío pendiente"
-description: "La reciente convocatoria a una audiencia pública impulsada por la diputada Rocío Vallejo, sumada a las recomendaciones emitidas por el comisario Diosnel."
+description: "El aumento de ciberataques y vaciamientos de cuentas en Paraguay expone la urgente necesidad de fortalecer la seguridad digital y la gobernanza financiera."
+description_ai: true
 
 
 
@@ -83,7 +84,6 @@ last_modified_at: 2026-08-04
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La reciente convocatoria a una audiencia pública impulsada por la diputada Rocío Vallejo, sumada a las recomendaciones emitidas por el comisario Diosnel Alarcón, jefe del Departamento contra el Cibercrimen, exponen la fragilidad actual de los sistemas financieros digitales en Paraguay. Este movimiento institucional responde directamente al incremento de los ciberataques y al vaciamiento de cuentas bancarias que encendieron las alarmas en el sector. Mientras el Estado busca mecanismos de control y protección, el sector privado, representado por inversiones como el proyecto Fortaleza Pellegrini de 28 millones de dólares, sigue apostando por la integración de tecnología en la infraestructura urbana de Asunción.
 
 ## La brecha entre el ladrillo y el bit

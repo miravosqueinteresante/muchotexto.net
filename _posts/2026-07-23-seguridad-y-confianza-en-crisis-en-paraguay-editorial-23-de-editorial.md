@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad y confianza, en crisis en."
-description: "El asesinato de un civil en un puesto policial de Canindeyú ha sacudido profundamente la percepción pública sobre la seguridad en Paraguay."
+description: "La crisis de seguridad en Paraguay se profundiza tras el asesinato de un civil en Canindeyú, generando un fuerte rechazo ciudadano hacia las autoridades."
+description_ai: true
 
 
 
@@ -99,7 +100,6 @@ last_modified_at: 2026-07-23
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El asesinato de un civil en un puesto policial de Canindeyú ha sacudido profundamente la percepción pública sobre la seguridad en Paraguay. Este hecho, que lidera el ranking de conversación del día, expone tensiones crecientes entre la población y las fuerzas del orden, mientras otros temas como la precariedad en infraestructura y el debate educativo también reflejan desafíos estructurales.
 
 ## La seguridad, eje de preocupación nacional

@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Caso Kattya"
 last_modified_at: 2026-06-10
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Caso Kattya González: se cuestiona la idoneidad del sistema de justicia paraguayo. Reporte diario de noticias de Paraguay del 10 de junio de 2026."
+description: "Carlos Filizzola aseguró que la Corte Suprema carece de fundamentos en el caso Kattya González y sugirió que los ministros deben renunciar."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 10 de junio de 2026  |  🕐 Última actualización: 11:41  
 

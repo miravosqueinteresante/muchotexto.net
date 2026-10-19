@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Hospital Acosta Ñu y."
-description: "Hospital Acosta Ñu y cuadros respiratorios: Las preocupaciones sobre la salud pública son el tema más discutido del día, con un aumento significativo en."
+description: "Los cuadros respiratorios superan el sesenta por ciento de las consultas en el Hospital Acosta Ñu y encienden las alertas en la salud pública del país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-23
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MARTES 23 de junio de 2026  |  🕐 Última actualización: 10:54  
 

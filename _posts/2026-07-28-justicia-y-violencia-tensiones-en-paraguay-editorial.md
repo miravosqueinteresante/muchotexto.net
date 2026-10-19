@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Justicia y violencia, tensiones en Paraguay"
-description: "La captura de la supuesta viuda negra en Yby Pytá y las acusaciones de Dani Centurión sobre la instrumentalización de la Justicia han dominado la."
+description: "La captura de la viuda negra en Yby Pytá y los debates sobre la independencia judicial exponen las tensiones sociales y estructurales en Paraguay."
+description_ai: true
 
 
 
@@ -94,7 +95,6 @@ last_modified_at: 2026-07-28
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La captura de la supuesta "viuda negra" en Yby Pytá y las acusaciones de Dani Centurión sobre la instrumentalización de la Justicia han dominado la conversación pública en Paraguay este martes. Ambos temas, aunque distintos en naturaleza, exponen tensiones sociales y estructurales que generan preocupación en el país.  
 
 ## Seguridad y violencia de género, un problema persistente  

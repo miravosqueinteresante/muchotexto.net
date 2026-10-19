@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Digitalización estatal, retos de seguridad"
-description: "El Instituto de Previsión Social IPS anunció el inicio de un censo digital para jubilados y pensionados a partir de setiembre, marcando un paso concreto en."
+description: "El censo digital del IPS expone los retos de la ciberseguridad estatal en Paraguay, exigiendo mayor protección de datos y formación técnica."
+description_ai: true
 
 
 
@@ -58,7 +59,6 @@ last_modified_at: 2026-08-29
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Instituto de Previsión Social (IPS) anunció el inicio de un censo digital para jubilados y pensionados a partir de setiembre, marcando un paso concreto en la modernización administrativa del Estado paraguayo. Esta iniciativa, que busca actualizar la base de datos de la previsional mediante una plataforma digital, se produce en un momento donde la infraestructura digital y la seguridad de la información cobran una relevancia crítica a nivel global. Mientras el sector público en Paraguay avanza en la digitalización de sus servicios, entidades internacionales como OpenAI y Hugging Face han emitido un llamado urgente para fortalecer los marcos de ciberseguridad ante el avance acelerado de los modelos de lenguaje y la automatización.
 
 ## La seguridad como pilar de la gestión pública

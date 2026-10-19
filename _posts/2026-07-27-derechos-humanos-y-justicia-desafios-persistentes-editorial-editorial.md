@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Derechos humanos y justicia, desafíos."
-description: "La disculpa oficial del Estado paraguayo por el asesinato de Santiago Leguizamón marca un momento histórico en la lucha por los derechos humanos en el país."
+description: "El Estado paraguayo reconoció su responsabilidad en el caso Santiago Leguizamón, reavivando el debate sobre los derechos humanos y la justicia en el país."
+description_ai: true
 
 
 
@@ -95,7 +96,6 @@ last_modified_at: 2026-07-27
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La disculpa oficial del Estado paraguayo por el asesinato de Santiago Leguizamón marca un momento histórico en la lucha por los derechos humanos en el país. Este gesto, impulsado por una sentencia de la Corte IDH, ha reavivado el debate sobre la justicia y la responsabilidad institucional en Paraguay, en un contexto donde otros temas sensibles como la violencia de género y la corrupción también ocupan un lugar destacado en la agenda pública.
 
 ## El peso de la historia y la búsqueda de justicia

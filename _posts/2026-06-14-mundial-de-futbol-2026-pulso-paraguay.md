@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Mundial 2026 · 14 jun"
 last_modified_at: 2026-06-14
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Mundial de Fútbol 2026: Paraguay genera gran volumen de conversación y reacciones en redes. Reporte diario del 14 de junio de 2026."
+description: "La participación de Paraguay en el Mundial 2026 y su impacto en la economía marcan la agenda del día junto a la actualidad política y social."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY
 📅 DOMINGO 14 de junio de 2026  |  🕐 Última actualización: 10:09
 

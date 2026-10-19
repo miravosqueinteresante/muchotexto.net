@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 11 set"
-description: "PULSO TECH PARAGUAY VIERNES 11 de setiembre de 2026 Ultima actualizacion: 13:06 🤖 INTELIGENCIA ARTIFICIAL Sam Altman propone ralentizar el desarrollo de..."
+description: "Sam Altman propuso frenar el desarrollo global de la inteligencia artificial y Anthropic frustró ataques biológicos con su modelo Claude."
+description_ai: true
 date: 2026-09-11
 last_modified_at: 2026-09-11
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 VIERNES 11 de setiembre de 2026  |  🕐 Ultima actualizacion: 13:06
 

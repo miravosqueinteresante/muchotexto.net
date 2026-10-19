@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura: cuello de botella global"
-description: "Nvidia invierte 3.500 millones en MediaTek mientras Zuckerberg y Musk presionan al G20: la capacidad de cómputo físico se vuelve el activo más valioso."
+description: "La infraestructura digital y los semiconductores definen el futuro de la inteligencia artificial y los desafíos globales de Paraguay."
+description_ai: true
 
 
 
@@ -51,7 +52,6 @@ last_modified_at: 2026-09-02
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La reciente inversión de 3.500 millones de dólares de Nvidia en MediaTek, sumada a la presión ejercida por figuras como Mark Zuckerberg y Elon Musk ante el G20, marca un cambio de paradigma donde la capacidad física de procesamiento se vuelve el activo más valioso. En Paraguay, estos movimientos globales no son ajenos, ya que la carrera por la inteligencia artificial depende directamente de la disponibilidad de semiconductores y de una infraestructura de centros de datos capaz de sostener la demanda de cómputo que hoy exige el mercado internacional.
 
 ## La dependencia del hardware en la era de la IA

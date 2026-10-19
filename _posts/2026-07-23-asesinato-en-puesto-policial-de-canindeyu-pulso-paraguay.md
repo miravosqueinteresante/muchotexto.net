@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Asesinato en puesto."
-description: "Asesinato en puesto policial de Canindeyú: El asesinato de un civil en un puesto policial ha generado un fuerte revuelo social y mediático. Pulso Tech."
+description: "La autopsia del civil asesinado en un puesto policial de Canindeyú confirma múltiples lesiones y genera fuerte revuelo en la seguridad del país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-23
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 JUEVES 23 de julio de 2026  |  🕐 Última actualización: 10:06  
 

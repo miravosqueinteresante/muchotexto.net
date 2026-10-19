@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ajustes económicos y clima social"
-description: "Hoy, Paraguay enfrenta un día marcado por decisiones económicas y eventos sociales que generan debate. Editorial de muchotexto.net — 2026-07-01."
+description: "El nuevo salario mínimo genera alta temperatura social en Paraguay, dividiendo opiniones mientras el deporte y el clima marcan la agenda nacional."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-08-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Hoy, Paraguay enfrenta un día marcado por decisiones económicas y eventos sociales que generan debate. El ajuste del salario mínimo, que entra en vigencia desde hoy, lidera las conversaciones, mientras las alertas meteorológicas y los logros deportivos también ocupan un lugar destacado en la agenda nacional.
 
 ## Impacto económico y percepción social

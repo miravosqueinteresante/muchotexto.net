@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura, datos y soberanía"
-description: "La reactivación de la Mesa Energética Nacional, junto con el avance en la integración de sistemas clínicos entre el IPS y el Ministerio de Salud, marca una."
+description: "Paraguay debe consolidar su infraestructura energética y ciberseguridad para garantizar la soberanía de datos y su competitividad digital."
+description_ai: true
 
 
 
@@ -77,7 +78,6 @@ last_modified_at: 2026-08-10
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La reactivación de la Mesa Energética Nacional, junto con el avance en la integración de sistemas clínicos entre el IPS y el Ministerio de Salud, marca una hoja de ruta clara para la modernización del Estado. Estos movimientos demuestran que Paraguay está intentando equilibrar la necesidad de una base energética sólida con la urgencia de una digitalización administrativa que sea eficiente y, sobre todo, segura.
 
 ## Energía como base de la competitividad digital

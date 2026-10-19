@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial 2026: Albirroja."
-description: "Mundial 2026: Albirroja en el foco: La victoria de Paraguay ante Alemania ha desatado una ola de orgullo y conversación nacional. Pulso Tech Paraguay — 3 de."
+description: "La histórica victoria de la Albirroja en el Mundial 2026 desata orgullo nacional, elecciones en Asunción y créditos de vivienda."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-03
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 VIERNES 3 de julio de 2026  |  🕐 Última actualización: 10:11  
 

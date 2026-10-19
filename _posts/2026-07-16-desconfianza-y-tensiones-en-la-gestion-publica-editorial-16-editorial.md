@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Desconfianza y tensiones en la gestión."
-description: "El paro de los funcionarios de Vialidad en Asunción, junto con denuncias de uso indebido de recursos públicos, pone en evidencia una creciente desconfianza."
+description: "El paro en Vialidad y las denuncias de corrupción profundizan la crisis de confianza y el malestar ciudadano en la gestión pública del Paraguay."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-07-16
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El paro de los funcionarios de Vialidad en Asunción, junto con denuncias de uso indebido de recursos públicos, pone en evidencia una creciente desconfianza hacia las autoridades y su capacidad de gestión en Paraguay. Estos hechos, que lideran el volumen de conversación en el país, reflejan un clima social marcado por tensiones y cuestionamientos.
 
 ## Paro en Vialidad: impacto más allá de las obras

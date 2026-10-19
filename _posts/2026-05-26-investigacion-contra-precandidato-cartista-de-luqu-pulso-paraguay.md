@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Investigación contra"
 last_modified_at: 2026-05-26
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Investigación contra precandidato cartista de Luque. Reporte diario de noticias de Paraguay con análisis de sentimiento del 26 de mayo de 2026."
+description: "La investigación fiscal a un precandidato de Luque pone a prueba a la UDEA en medio de crecientes denuncias por afiliación forzada en la ANR."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY
 📅 MARTES 26 de Mayo de 2026  |  🕐 Última actualización: 15:47
 

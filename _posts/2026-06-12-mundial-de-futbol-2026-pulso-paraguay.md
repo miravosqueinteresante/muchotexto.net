@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Mundial 2026 · 12 jun"
 last_modified_at: 2026-06-12
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Mundial de Fútbol 2026: el debut de la Albirroja genera entusiasmo en todo Paraguay. Reporte diario del 12 de junio de 2026."
+description: "La Albirroja enfrenta a Estados Unidos en su esperado debut en el Mundial 2026, desatando una fiebre futbolera que impulsa el empleo y la economía."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY
 📅 VIERNES 12 de junio de 2026  |  🕐 Última actualización: 11:21
 

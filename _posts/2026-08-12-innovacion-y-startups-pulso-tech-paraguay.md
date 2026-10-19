@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Innovación y startups · 12 ago"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 12 de agosto de 2026 Ultima actualizacion: 10:15 🚀 INNOVACION Y STARTUPS Potencial exportador del comercio electrónico."
+description: "El ecosistema digital paraguayo busca diversificar su comercio electrónico para pasar de consumidor a exportador de servicios tecnológicos."
+description_ai: true
 date: 2026-08-12
 last_modified_at: 2026-08-12
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 12 de agosto de 2026  |  🕐 Ultima actualizacion: 10:15
 

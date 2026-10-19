@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 19 ago"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 19 de agosto de 2026 Ultima actualizacion: 09:52 ⚡ ENERGIA Y DATA CENTERS Incremento en el consumo eléctrico nacional La..."
+description: "El consumo eléctrico nacional creció un 18,2 por ciento debido a la mayor demanda industrial y de infraestructura tecnológica en Paraguay."
+description_ai: true
 date: 2026-08-19
 last_modified_at: 2026-08-19
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 19 de agosto de 2026  |  🕐 Ultima actualizacion: 09:52
 

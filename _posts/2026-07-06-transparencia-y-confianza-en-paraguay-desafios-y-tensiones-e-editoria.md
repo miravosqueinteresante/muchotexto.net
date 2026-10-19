@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Transparencia y confianza en Paraguay"
-description: "La confirmación de irregularidades en el informe de la Contraloría General de la República CGR ha puesto en evidencia problemás estructurales en la..."
+description: "Las irregularidades detectadas por la Contraloría en la gestión de recursos públicos generan una creciente desconfianza institucional en Paraguay."
+description_ai: true
 date: 2026-07-06 18:00:00 -0400
 last_modified_at: 2026-07-06
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La confirmación de irregularidades en el informe de la Contraloría General de la República (CGR) ha puesto en evidencia problemas estructurales en la gestión de recursos públicos en Paraguay. Este tema, que lidera el volumen de conversación del día, se suma a otras preocupaciones sociales y económicas que están generando tensiones en distintos sectores.
 
 ## La transparencia en el ojo del huracán

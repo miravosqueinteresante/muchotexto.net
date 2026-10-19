@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Manifestación por."
 last_modified_at: 2026-05-28
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Manifestación por ingresos a la Policía Nacional. Reporte diario de noticias de Paraguay con análisis de sentimiento y temperatura social del 28 de mayo de."
+description: "Aspirantes a la Policía Nacional exigen frente al Ministerio del Interior la reapertura de la convocatoria para suboficiales suspendida para 2027."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 JUEVES 28 de mayo de 2026  |  🕐 Última actualización: 14:31  
 

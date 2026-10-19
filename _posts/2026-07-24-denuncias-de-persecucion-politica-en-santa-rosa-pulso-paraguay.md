@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Denuncias de persecución."
-description: "Denuncias de persecución política en Santa Rosa del Aguaray: La denuncia del intendente interino ha generado un fuerte eco en redes y medios, marcando el 1."
+description: "El intendente interino de Santa Rosa del Aguaray denunció persecución política y teme por su vida ante graves amenazas."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-24
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía tecnología deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 VIERNES 24 de julio de 2026  |  🕐 Última actualización: 09:49  
 

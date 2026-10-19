@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "El asfalto como espejo de los accidentes"
-description: "Asunción amaneció hoy con estadísticas alarmantes que, más allá de los números, son un reflejo incómodo de cómo vivimos, gestionamos y nos."
+description: "Los siniestros viales en Asunción exponen una profunda crisis de seguridad vial y la falta de planificación urbana en el país."
+description_ai: true
 date: 2026-06-22 18:00:00 -0400
 last_modified_at: 2026-06-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Asunción amaneció hoy con estadísticas alarmantes que, más allá de los números, son un reflejo incómodo de cómo vivimos, gestionamos y nos relacionamos con nuestro entorno urbano. Los accidentes frente a la Municipalidad no solo representan una falla en el diseño de nuestras calles o en la aplicación de las normas de tránsito; son, en esencia, un espejo que nos devuelve un retrato de nuestra sociedad y de sus tensiones más profundas. Porque en Paraguay, el asfalto no solo transporta vehículos, sino que también canaliza desigualdades, mala gestión y, tristemente, vidas perdidas.
 
 ## ¿Cómo llegamos acá?

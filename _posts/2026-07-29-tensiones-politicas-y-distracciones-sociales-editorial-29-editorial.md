@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Tensiones políticas y distracciones."
-description: "El Pulso Paraguay de hoy refleja una sociedad dividida entre la atención a los conflictos políticos y la búsqueda de alivio en el entretenimiento y el."
+description: "Las tensiones políticas y la falta de unidad en el Partido Colorado contrastan con el entusiasmo por el deporte y los espectáculos en el país."
+description_ai: true
 
 
 
@@ -93,7 +94,6 @@ last_modified_at: 2026-07-29
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Pulso Paraguay de hoy refleja una sociedad dividida entre la atención a los conflictos políticos y la búsqueda de alivio en el entretenimiento y el deporte. La controversia en torno a Beto Ovelar y los problemas de unidad en el Partido Colorado contrastan con el entusiasmo por el partido Nacional vs. Olimpia y el regreso de Marco Antonio Solís al país.
 
 ## Política fragmentada y su impacto en las elecciones

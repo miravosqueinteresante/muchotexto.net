@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "IA aplicada, la nueva escala del agro"
-description: "El desarrollo de aeronaves ultralivianas no tripuladas con inteligencia artificial para la fumigación agrícola marca un punto de inflexión en la adopción."
+description: "La fumigación agrícola con drones y la inteligencia artificial posicionan a Paraguay como referente tecnológico regional pese a la dependencia global."
+description_ai: true
 
 
 
@@ -52,7 +53,6 @@ last_modified_at: 2026-09-04
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El desarrollo de aeronaves ultralivianas no tripuladas con inteligencia artificial para la fumigación agrícola marca un punto de inflexión en la adopción tecnológica en Paraguay. Este avance, que posiciona al país como un referente regional, ocurre en un contexto donde la infraestructura global de IA experimenta tanto una consolidación corporativa masiva, como la compra de Hugging Face por parte de Nvidia por 13.000 millones de dólares, como una vulnerabilidad sistémica evidente tras la caída global de los principales modelos de lenguaje.
 
 ## La dependencia de la infraestructura global

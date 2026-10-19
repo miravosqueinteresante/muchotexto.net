@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Pulso Tech Paraguay · 22 ago"
-description: "Brasil licita supercomputador para IA; ANDE y HIVE en foco; tarifa GCIE en revisión. Pulso Tech Paraguay del 22 de agosto de 2026, con contexto local."
+description: "La ANDE acumula 943 MW reservados para data centers mientras Brasil invierte millones en infraestructura regional de inteligencia artificial."
+description_ai: true
 date: 2026-08-22
 last_modified_at: 2026-08-22
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 SÁBADO 22 DE AGOSTO DE 2026  |  🕐 Ultima actualización: 08:00
 

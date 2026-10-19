@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 23 ago"
-description: "PULSO TECH PARAGUAY DOMINGO 23 de agosto de 2026 Ultima actualizacion: 09:44 🤖 INTELIGENCIA ARTIFICIAL Desarrollan red neuronal para detección de..."
+description: "Una nueva red neuronal optimiza la detección de tuberculosis mediante el análisis de señales médicas, mejorando el diagnóstico de la enfermedad."
+description_ai: true
 date: 2026-08-23
 last_modified_at: 2026-08-23
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 DOMINGO 23 de agosto de 2026  |  🕐 Ultima actualizacion: 09:44
 

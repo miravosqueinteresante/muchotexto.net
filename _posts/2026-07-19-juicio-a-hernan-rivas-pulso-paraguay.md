@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Juicio a Hernán Rivas"
-description: "Juicio a Hernán Rivas: La discusión sobre el juicio a Hernán Rivas ha generado un gran volumen de conversación en redes sociales y medios, puesto que se."
+description: "El juicio a Hernán Rivas avanza para determinar la validez de su título de abogado en un caso que pone a prueba la confianza en el sistema legal paraguayo."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-19
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 DOMINGO 19 de julio de 2026  |  🕐 Última actualización: 09:22  
 

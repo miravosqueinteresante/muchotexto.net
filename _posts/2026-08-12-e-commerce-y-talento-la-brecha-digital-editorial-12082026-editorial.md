@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "E-commerce y talento, la brecha digital"
-description: "El Comercio electrónico en Paraguay alcanzó un volumen de 2.000 millones de dólares durante el año 2025, marcando un hito en el consumo digital local."
+description: "El comercio electrónico en Paraguay movió 2.000 millones de dólares en 2025, pero el 77 por ciento de las compras se destinan a plataformas extranjeras."
+description_ai: true
 
 
 
@@ -75,7 +76,6 @@ last_modified_at: 2026-08-12
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Comercio electrónico en Paraguay alcanzó un volumen de 2.000 millones de dólares durante el año 2025, marcando un hito en el consumo digital local. Sin embargo, los datos actuales revelan una dependencia estructural significativa, ya que el 77 % de las compras realizadas por usuarios locales se dirigen hacia plataformas extranjeras. Esta cifra pone de manifiesto que, aunque la infraestructura de consumo está consolidada, la capacidad de Paraguay para retener valor dentro de sus propias fronteras digitales sigue siendo un desafío pendiente.
 
 ## La balanza comercial del Comercio electrónico

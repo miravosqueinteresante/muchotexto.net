@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Entre política y fútbol — Editorial"
-description: "La controversia entre Celeste Amarilla y Kylian Mbappé ha dominado las conversaciones en Paraguay, generando un cruce entre política y deporte que ha."
+description: "El cruce entre Celeste Amarilla y Kylian Mbappé domina el debate político en Paraguay y genera una fuerte polarización institucional."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-08-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La controversia entre Celeste Amarilla y Kylian Mbappé ha dominado las conversaciones en Paraguay, generando un cruce entre política y deporte que ha captado la atención nacional. Mientras tanto, otros temas como la gestión del predio abandonado en MRA y preocupaciones sobre seguridad infantil también reflejan tensiones en distintos ámbitos del país.
 
 ## Política y deporte se cruzan en el debate público

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Entre pagarés y algoritmos: ¿Puede la."
-description: "Hoy, Paraguay se encuentra zarandeado por la indignación pública que ha desatado la llamada mafia de los pagarés, un entramado oscuro que desnuda, como."
+description: "La mafia de los pagarés expone la vulnerabilidad judicial en Paraguay y plantea si la inteligencia artificial puede ser una solución contra la corrupción."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-06-21
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 Hoy, Paraguay se encuentra zarandeado por la indignación pública que ha desatado la llamada "mafia de los pagarés", un entramado oscuro que desnuda, como tantas otras veces, las grietas más profundas de nuestra estructura social y política. Las denuncias sobre corrupción y la indefensión de las víctimas nos obligan a mirar de frente un problema que lleva años carcomiendo las bases de nuestra convivencia. Pero en este mundo que a la vez avanza hacia el futuro y retrocede en lo esencial, cabe preguntarse: ¿pueden la tecnología y la inteligencia artificial ser herramientas en esta lucha? ¿O corremos el riesgo de caer en una nueva forma de sometimiento, esta vez regida por algoritmos?
 
 ## El peso del papel y la deuda simbólica

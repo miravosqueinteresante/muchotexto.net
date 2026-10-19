@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Accidente laboral en."
 last_modified_at: 2026-05-27
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Accidente laboral en Asunción. Reporte diario de noticias de Paraguay con análisis de sentimiento y temperatura social del 27 de mayo de 2026."
+description: "Un joven obrero falleció tras quedar atrapado en un montacargas durante un accidente laboral en Asunción, encendiendo alertas sobre la seguridad en las obras."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MIÉRCOLES 27 de Mayo de 2026  |  🕐 Última actualización: 12:01
 

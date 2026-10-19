@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Eficiencia digital, la hoja de ruta"
-description: "El sector financiero en Paraguay está integrando herramientas de inteligencia artificial con el objetivo concreto de optimizar la captación de clientes y."
+description: "La inteligencia artificial impulsa la eficiencia en el sector financiero de Paraguay mientras avanza la transformación digital del Estado."
+description_ai: true
 
 
 
@@ -74,7 +75,6 @@ last_modified_at: 2026-08-13
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El sector financiero en Paraguay está integrando herramientas de inteligencia artificial con el objetivo concreto de optimizar la captación de clientes y reducir costos operativos. Esta tendencia, que busca mejorar la calidad de la cartera de usuarios, coincide temporalmente con el inicio del proceso de validación de indicadores del Plan Nacional de Desarrollo 2050 por parte del Ministerio de Economía y Finanzas, donde la transformación digital ocupa un lugar central.
 
 ## La automatización como motor financiero

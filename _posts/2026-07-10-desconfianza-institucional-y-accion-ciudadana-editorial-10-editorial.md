@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Desconfianza institucional y acción."
-description: "La preocupación por la falta de medicamentos en el IPS domina la conversación pública en Paraguay, según el Pulso de hoy."
+description: "La desconfianza institucional en Paraguay crece ante la crisis del IPS, mientras la ciudadanía impulsa acciones propias para suplir las carencias estatales."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-07-10
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La preocupación por la falta de medicamentos en el IPS domina la conversación pública en Paraguay, según el Pulso de hoy. Este tema, que lidera el ranking de interés ciudadano, evidencia una creciente desconfianza hacia las instituciones encargadas de garantizar derechos básicos. Al mismo tiempo, iniciativas como el mapeo ciudadano de baches y veredas rotas reflejan un esfuerzo colectivo por suplir las carencias estructurales desde la participación comunitaria.
 
 ## La crisis del IPS y la percepción de ineficiencia

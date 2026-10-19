@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Movilización y seguridad, tensiones en."
-description: "El ataque a una comisaría en Canindeyú y la movilización de enfermeros en Asunción destacan como los temas más discutidos en Paraguay hoy."
+description: "La inseguridad en Canindeyú y las protestas de enfermeros en Asunción generan tensiones sociales y exigen respuestas urgentes al Gobierno."
+description_ai: true
 
 
 
@@ -100,7 +101,6 @@ last_modified_at: 2026-07-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El ataque a una comisaría en Canindeyú y la movilización de enfermeros en Asunción destacan como los temas más discutidos en Paraguay hoy. Ambos reflejan preocupaciones sociales que, aunque distintas en su naturaleza, coinciden en exigir respuestas claras y efectivas del gobierno.
 
 ## Seguridad en Canindeyú, una alarma creciente

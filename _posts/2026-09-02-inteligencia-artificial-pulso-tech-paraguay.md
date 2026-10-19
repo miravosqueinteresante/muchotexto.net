@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Inteligencia artificial · 2 set"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 2 de setiembre de 2026 Ultima actualizacion: 16:30 🤖 INTELIGENCIA ARTIFICIAL Liderazgo en Apple y expansión global de IA..."
+description: "John Ternus asume la dirección de Apple con un enfoque total en la inteligencia artificial, mientras Nvidia invierte millones para potenciar el sector."
+description_ai: true
 date: 2026-09-02
 last_modified_at: 2026-09-02
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 MIÉRCOLES 2 de setiembre de 2026 | 🕐 Ultima actualizacion: 16:30
 

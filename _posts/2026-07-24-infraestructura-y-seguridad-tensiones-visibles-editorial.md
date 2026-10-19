@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Infraestructura y seguridad, tensiones."
-description: "El Pulso Paraguay de hoy destaca dos temas que, aunque aparentemente separados, revelan tensiones subyacentes en el país: las denuncias de persecución."
+description: "La crisis en Santa Rosa del Aguaray y el caso de la barcaza exponen graves tensiones sobre la infraestructura y seguridad en Paraguay."
+description_ai: true
 
 
 
@@ -98,7 +99,6 @@ last_modified_at: 2026-07-24
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Pulso Paraguay de hoy destaca dos temas que, aunque aparentemente separados, revelan tensiones subyacentes en el país: las denuncias de persecución política en Santa Rosa del Aguaray y los reclamos de justicia tras la explosión de una barcaza. Ambos reflejan preocupaciones sobre la seguridad y la confianza en las instituciones, en un contexto donde la infraestructura también ocupa un lugar central en el debate público.  
 
 ## La política local bajo presión  

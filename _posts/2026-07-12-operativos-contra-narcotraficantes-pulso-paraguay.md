@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Operativos contra…"
-description: "Operativos contra narcotraficantes: Las recientes operaciones en el Parque Nacional Paso Bravo han generado un gran volumen de conversación por las."
+description: "Las recientes operaciones antidrogas en el Parque Nacional Paso Bravo generaron millonarias pérdidas a los narcotraficantes en Paraguay."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-12
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 DOMINGO 12 de julio de 2026  |  🕐 Última actualización: 09:25  
 

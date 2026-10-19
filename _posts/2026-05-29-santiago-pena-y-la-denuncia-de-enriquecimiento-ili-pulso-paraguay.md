@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Santiago Peña y la."
 last_modified_at: 2026-05-29
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Santiago Peña y la denuncia de enriquecimiento ilícito. Reporte diario de noticias de Paraguay con análisis de sentimiento y temperatura social del 29 de."
+description: "La oposición exige una pericia contable tras la denuncia por enriquecimiento ilícito que salpica al presidente Santiago Peña."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 VIERNES 29 de mayo de 2026  |  🕐 Última actualización: 14:28  
 

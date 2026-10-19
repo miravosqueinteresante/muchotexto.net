@@ -19,9 +19,9 @@ title: "Pulso Paraguay: Abuso de menores"
 last_modified_at: 2026-05-31
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Abuso de menores: el debate genera controversia en la sociedad paraguaya. Reporte diario de noticias de Paraguay del 31 de mayo de 2026."
+description: "Diputados se sumó a una campaña contra el abuso de menores mientras sigue avalando el matrimonio infantil, generando fuertes críticas en la sociedad."
+description_ai: true
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 DOMINGO 31 de mayo de 2026  |  🕐 Última actualización: 13:00  
 

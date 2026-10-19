@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial 2026: Paraguay."
-description: "Mundial 2026: Paraguay clasifica a octavos de final: La histórica victoria de Paraguay sobre Alemania ha desatado una ola de celebraciones en todo el país."
+description: "La Albirroja clasifica a octavos del Mundial 2026 tras vencer a Alemania, mientras el país debate sobre seguridad y las nuevas protestas en el IPS."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-06-30
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 MARTES 30 de junio de 2026  |  🕐 Última actualización: 10:24  
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "El colapso simbólico de lo público en"
-description: "El abandono del edificio del Correo Paraguayo no es solo una cuestión de mampostería desgastada o de pintura descascarada; es un testimonio arquitectónico."
+description: "El abandono del edificio del Correo Paraguayo refleja la profunda fragilidad institucional y el deterioro de la infraestructura estatal en el país."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-06-18 19:00:00 -0400
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El abandono del edificio del Correo Paraguayo no es solo una cuestión de mampostería desgastada o de pintura descascarada; es un testimonio arquitectónico de la fragilidad institucional que atraviesa nuestro país. En su decadencia tangible, esa estructura en Puerto Antequera nos devuelve el reflejo de un Estado que, en demasiados rincones, no ha sabido ni querido cumplir su rol. Y no es solo una historia de ladrillos que se desmoronan, sino de responsabilidades que se desentienden, de un patrimonio que se diluye y de una ciudadanía que, acostumbrada al descuido, parece cada vez más resignada a vivir entre los escombros de lo que pudo ser.
 
 ## La muerte lenta de los espacios públicos

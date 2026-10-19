@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Asalto y seguridad en."
-description: "Asalto y seguridad en Asunción: La detención de un presunto organizador de asaltos ha generado una gran conversación en las redes y medios locales. Pulso."
+description: "La creciente ola de inseguridad y la detención de presuntos criminales en Asunción generan profunda preocupación sobre la seguridad ciudadana."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-17
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 VIERNES 17 de julio de 2026  |  🕐 Última actualización: 09:43  
 

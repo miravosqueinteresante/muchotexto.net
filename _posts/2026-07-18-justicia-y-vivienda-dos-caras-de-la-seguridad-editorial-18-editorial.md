@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Justicia y vivienda, dos caras de la."
-description: "El Pulso Paraguay de hoy destaca la creciente preocupación por la seguridad pública, un tema que domina las conversaciones nacionales."
+description: "La seguridad pública y el acceso a la vivienda dominan el debate político nacional en Paraguay, reflejando el profundo descontento social."
+description_ai: true
 
 
 
@@ -107,7 +108,6 @@ last_modified_at: 2026-07-18
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El Pulso Paraguay de hoy destaca la creciente preocupación por la seguridad pública, un tema que domina las conversaciones nacionales. Desde el debate sobre la militarización de la policía hasta las iniciativas para mejorar el acceso a la vivienda, los datos reflejan cómo la seguridad, en sus distintas dimensiones, se ha convertido en un eje central del panorama político y social de Paraguay.
 
 ## La justicia en el centro del debate

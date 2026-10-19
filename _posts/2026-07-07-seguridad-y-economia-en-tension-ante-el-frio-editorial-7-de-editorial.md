@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Seguridad, economía y frío"
-description: "El frío extremo que afecta a Paraguay este 7 de julio no solo ha impactado el clima, sino que también ha puesto en evidencia tensiones sociales y económicas."
+description: "El frío extremo en Paraguay agrava la crisis de seguridad y la inflación, generando alta tensión social y preocupación en la ciudadanía."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-08-22
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El frío extremo que afecta a Paraguay este 7 de julio no solo ha impactado el clima, sino que también ha puesto en evidencia tensiones sociales y económicas que ya venían acumulándose. Mientras las heladas generan preocupación en la Región Oriental y el Chaco, otros temas como la inseguridad y el acceso a productos básicos también marcan la agenda del día.
 
 ## Seguridad en crisis: el caso de Minga Guazú

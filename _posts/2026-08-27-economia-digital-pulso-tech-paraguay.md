@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Digital · 27 ago"
-description: "PULSO TECH PARAGUAY JUEVES 27 de agosto de 2026 Ultima actualizacion: 22:15 ECONOMIA DIGITAL Bancard impulsa la digitalización de pagos para emprendedores..."
+description: "OpenAI abre su primera oficina regional en Brasil mientras la Unión Europea exige mayor seguridad a Meta para proteger a los menores."
+description_ai: true
 date: 2026-08-27
 last_modified_at: 2026-08-27
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 JUEVES 27 de agosto de 2026  |  🕐 Ultima actualizacion: 22:15
 

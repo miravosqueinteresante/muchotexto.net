@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Heladas en Itapúa"
-description: "Heladas en Itapúa: Las heladas han impactado la producción agrícola en Itapúa, generando preocupación entre los productores. Pulso Tech Paraguay — 9 de."
+description: "Las heladas en Itapúa dañaron cultivos clave y preocupan al sector agrícola mientras Itaipú restringe información por la veda electoral."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-09
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY  
 📅 JUEVES 9 de julio de 2026  |  🕐 Última actualización: 11:15
 

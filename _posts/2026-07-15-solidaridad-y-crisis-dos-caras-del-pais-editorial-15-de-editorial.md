@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Solidaridad y crisis, dos caras del país"
-description: "La noticia del vuelco de un bus paraguayo en Brasil ha generado una ola de solidaridad en Paraguay, mientras las autoridades trabajan para confirmar la."
+description: "La solidaridad nacional y la crisis del sistema de salud reflejan las dos caras del país en el pulso diario de los paraguayos."
+description_ai: true
 
 
 
@@ -108,7 +109,6 @@ last_modified_at: 2026-07-15
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La noticia del vuelco de un bus paraguayo en Brasil ha generado una ola de solidaridad en Paraguay, mientras las autoridades trabajan para confirmar la cantidad de víctimas. Este hecho, que lidera las conversaciones del día, pone de manifiesto la conexión emocional de los paraguayos frente a tragedias que involucran a compatriotas, incluso fuera de las fronteras nacionales.
 
 ## La empatía colectiva ante la tragedia

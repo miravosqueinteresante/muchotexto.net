@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Corrupción y salud: focos de incertidumbre"
-description: "La libertad ambulatoria otorgada a Miguel Prieto en el marco del “Caso Tajy” y la confirmación de una superbacteria en Paraguay son los temás que."
+description: "La libertad de Miguel Prieto en el Caso Tajy y la llegada de una superbacteria reflejan la profunda crisis institucional y sanitaria en Paraguay."
+description_ai: true
 date: 2026-07-02 18:00:00 -0400
 last_modified_at: 2026-07-02
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 La libertad ambulatoria otorgada a Miguel Prieto en el marco del “Caso Tajy” y la confirmación de una superbacteria en Paraguay son los temas que dominan la conversación pública hoy. Ambos reflejan preocupaciones profundas en la ciudadanía, vinculadas a la corrupción y a la fragilidad del sistema de salud.
 
 ## Reacciones divididas ante el caso Prieto

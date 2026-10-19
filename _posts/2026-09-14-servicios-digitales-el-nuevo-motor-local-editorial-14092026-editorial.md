@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Servicios digitales, el nuevo motor local"
-description: "El sector de servicios digitales bajo el régimen de maquila alcanzó exportaciones superiores a los USD 1.000 millones a agosto de 2026, consolidándose como."
+description: "Las exportaciones de servicios digitales bajo el régimen de maquila superaron los USD 1.000 millones y consolidan un crecimiento clave para la economía."
+description_ai: true
 
 
 
@@ -42,7 +43,6 @@ last_modified_at: 2026-09-14
 categories: editorial
 tags: editorial opinion paraguay analisis ia
 ---
-
 El sector de servicios digitales bajo el régimen de maquila alcanzó exportaciones superiores a los USD 1.000 millones a agosto de 2026, consolidándose como un pilar fundamental de la economía nacional. Este crecimiento del 26 % interanual, que ya genera cerca de 40.000 empleos, demuestra que Paraguay ha logrado insertarse con éxito en la cadena de valor tecnológica global, aprovechando su infraestructura para exportar servicios que hoy son vitales para el mercado externo.
 
 ## La madurez digital en el consumo interno

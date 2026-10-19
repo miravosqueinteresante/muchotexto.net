@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pulso Paraguay: Partido de la Albirroja."
-description: "Partido de la Albirroja contra Francia: La expectativa por el partido de Paraguay contra Francia en los octavos de final del Mundial 2026 genera un alto."
+description: "La expectativa por el partido de la Albirroja contra Francia en el Mundial 2026 domina la conversación nacional y genera un masivo fervor en todo el país."
+description_ai: true
 
 
 
@@ -22,7 +23,6 @@ last_modified_at: 2026-07-04
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
 ---
-
 PULSO DIARIO PARAGUAY
 📅 SÁBADO 4 de julio de 2026  |  🕐 Última actualización: 09:38
 

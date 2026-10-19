@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Energía y data centers · 7 ago"
-description: "PULSO TECH PARAGUAY VIERNES 7 de agosto de 2026 Ultima actualizacion: 10:09 ⚡ ENERGIA Y DATA CENTERS Paraguay como hub regional para la Inteligencia..."
+description: "Paraguay se posiciona como hub regional para data centers gracias a su energía renovable, según destaca Bloomberg en un nuevo reporte estratégico."
+description_ai: true
 date: 2026-08-07
 last_modified_at: 2026-08-07
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
-
 PULSO TECH PARAGUAY
 📅 VIERNES 7 de agosto de 2026  |  🕐 Ultima actualizacion: 10:09
 
