@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Transparencia y confianza en Paraguay"
+title: "Exigen transparencia y rendición de cuentas"
+title_ai: true
 description: "Las irregularidades detectadas por la Contraloría en la gestión de recursos públicos generan una creciente desconfianza institucional en Paraguay."
 description_ai: true
 date: 2026-07-06 18:00:00 -0400

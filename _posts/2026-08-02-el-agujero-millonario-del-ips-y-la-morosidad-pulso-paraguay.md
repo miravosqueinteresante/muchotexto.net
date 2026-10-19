@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: El agujero millonario del."
+title: "Deuda millonaria golpea al IPS"
+title_ai: true
 description: "El Instituto de Previsión Social busca cobrar una deuda millonaria a dos mil empresas morosas para intentar salvar sus finanzas afectadas."
 description_ai: true
 

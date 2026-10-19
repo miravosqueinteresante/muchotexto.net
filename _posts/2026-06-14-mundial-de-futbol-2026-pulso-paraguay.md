@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Mundial 2026 · 14 jun"
+title: "Duro revés de la Albirroja en el Mundial"
+title_ai: true
 
 
 

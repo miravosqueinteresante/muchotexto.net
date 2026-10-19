@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Partido de la Albirroja."
+title: "Paraguay enfrenta a Francia"
+title_ai: true
 description: "La expectativa por el partido de la Albirroja contra Francia en el Mundial 2026 domina la conversación nacional y genera un masivo fervor en todo el país."
 description_ai: true
 

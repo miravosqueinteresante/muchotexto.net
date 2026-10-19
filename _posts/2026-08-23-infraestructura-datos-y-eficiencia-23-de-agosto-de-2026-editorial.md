@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, datos y eficiencia, 23."
+title: "IA y tecnología impulsan mejoras"
+title_ai: true
 description: "La inteligencia artificial y la infraestructura moderna impulsan la eficiencia y la innovación en el sistema tecnológico de Paraguay."
 description_ai: true
 

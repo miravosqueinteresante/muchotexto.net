@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 13 oct"
+title: "MARTES 13 de octubre de 2026 Ultima"
+title_ai: true
 description: "El IPS habilitó una nueva plataforma digital para que los asegurados localicen médicos, especialidades y centros hospitalarios disponibles."
 description_ai: true
 date: 2026-10-13

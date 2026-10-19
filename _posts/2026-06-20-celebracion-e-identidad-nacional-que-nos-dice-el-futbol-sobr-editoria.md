@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Fútbol e identidad nacional en Paraguay"
+title: "La Albirroja une y expone al país"
+title_ai: true
 description: "La Albirroja desata pasiones y tensiones sociales en Paraguay, reflejando nuestra compleja identidad nacional más allá de cada victoria deportiva."
 description_ai: true
 date: 2026-06-20 18:00:00 -0400

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Precios y precariedad, el peso del lunes"
+title: "Suben combustibles desde el lunes"
+title_ai: true
 description: "El aumento del combustible en Paraguay golpea a miles de trabajadores informales que enfrentan una creciente precariedad económica."
 description_ai: true
 

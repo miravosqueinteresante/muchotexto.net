@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Digitalización estatal y marcos globales"
+title: "El inicio del Censo Digital 2026 por parte"
+title_ai: true
 description: "El Censo Digital 2026 del IPS pone a prueba la infraestructura tecnológica de Paraguay y su capacidad para integrar pagos y proteger datos sensibles."
 description_ai: true
 

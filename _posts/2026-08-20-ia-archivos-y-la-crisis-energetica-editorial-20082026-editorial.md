@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "IA, archivos y la crisis energética"
+title: "IA y crisis eléctrica en Paraguay"
+title_ai: true
 description: "La digitalización de archivos históricos con inteligencia artificial en Paraguay choca con la crisis energética y la falta de estabilidad eléctrica."
 description_ai: true
 

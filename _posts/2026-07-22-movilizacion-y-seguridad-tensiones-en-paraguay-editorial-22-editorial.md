@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Movilización y seguridad, tensiones en."
+title: "Tensión social por inseguridad y salud"
+title_ai: true
 description: "La inseguridad en Canindeyú y las protestas de enfermeros en Asunción generan tensiones sociales y exigen respuestas urgentes al Gobierno."
 description_ai: true
 

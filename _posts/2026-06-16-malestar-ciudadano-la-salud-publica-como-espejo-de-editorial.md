@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Malestar ciudadano: la salud pública como"
+title: "Crisis de salud pública en el IPS"
+title_ai: true
 description: "La crisis en neonatología del IPS expone el grave colapso de la salud pública en Paraguay tras la renuncia masiva de médicos."
 description_ai: true
 

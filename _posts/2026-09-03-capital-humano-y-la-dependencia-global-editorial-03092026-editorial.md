@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Capital humano y la dependencia global"
+title: "Estudiantes becados en Taiwán"
+title_ai: true
 description: "La formación de ingenieros paraguayos en Taiwán es clave para reducir la fuerte dependencia global del mercado tecnológico centralizado."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis en IPS"
+title: "Renuncia masiva en el IPS"
+title_ai: true
 description: "La crisis en el IPS provoca una renuncia masiva de funcionarios debido a la grave precariedad laboral denunciada por el sindicato."
 description_ai: true
 

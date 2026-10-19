@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Costos energéticos y la IA en Paraguay"
+title: "Suba de luz frena la IA en Paraguay"
+title_ai: true
 description: "El aumento proyectado en la tarifa eléctrica de Paraguay pone en riesgo la infraestructura digital mientras la banca impulsa la inteligencia artificial."
 description_ai: true
 

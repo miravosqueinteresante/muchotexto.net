@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 6 set"
+title: "IPS lanza censo digital para jubilados"
+title_ai: true
 description: "El censo digital del IPS obligatorio busca modernizar los datos de jubilados mientras la gobernanza global enfrenta desafíos con la inteligencia artificial."
 description_ai: true
 date: 2026-09-06

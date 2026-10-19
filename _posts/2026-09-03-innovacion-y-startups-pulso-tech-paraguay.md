@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Innovación y startups · 3 set"
+title: "JUEVES 3 de setiembre de 2026 Ultima"
+title_ai: true
 description: "Nvidia adquiere Hugging Face por 13.000 millones de dólares y estudiantes paraguayos de ingeniería llegan a Taiwán para finalizar sus estudios."
 description_ai: true
 date: 2026-09-03

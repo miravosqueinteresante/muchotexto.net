@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 10 ago"
+title: "Urgen crear Ministerio de Energía"
+title_ai: true
 description: "La creación de un Ministerio de Energía es urgente para definir el futuro del sector y atraer inversiones industriales en Paraguay."
 description_ai: true
 date: 2026-08-10

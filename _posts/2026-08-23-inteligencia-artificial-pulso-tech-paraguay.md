@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 23 ago"
+title: "Crean red para detectar tuberculosis"
+title_ai: true
 description: "Una nueva red neuronal optimiza la detección de tuberculosis mediante el análisis de señales médicas, mejorando el diagnóstico de la enfermedad."
 description_ai: true
 date: 2026-08-23

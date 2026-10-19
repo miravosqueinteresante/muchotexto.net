@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Elecciones internas del"
+title: "Internas del PLRA definen rumbo"
+title_ai: true
 
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis en Neonatología del"
+title: "Crisis en Neonatología del IPS"
+title_ai: true
 
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Servicios digitales, el nuevo motor local"
+title: "El sector de servicios digitales bajo"
+title_ai: true
 description: "Las exportaciones de servicios digitales bajo el régimen de maquila superaron los USD 1.000 millones y consolidan un crecimiento clave para la economía."
 description_ai: true
 

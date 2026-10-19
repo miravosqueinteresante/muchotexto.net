@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Estrategia estatal y medios, el nuevo eje"
+title: "La creación de la Fuerza"
+title_ai: true
 description: "La inteligencia artificial en Paraguay se enfoca en la adopción corporativa de los medios mientras las potencias buscan el control estatal."
 description_ai: true
 

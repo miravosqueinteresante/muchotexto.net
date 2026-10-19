@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Digitalización, control y seguridad"
+title: "Avanza la digitalización estatal"
+title_ai: true
 description: "La infraestructura digital en Paraguay avanza hacia un mayor control estatal mediante el RENAES y la reforma del comercio electrónico."
 description_ai: true
 

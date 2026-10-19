@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Clima en Paraguay"
+title: "Emiten alerta de tormentas en el país"
+title_ai: true
 description: "Las alertas de tormentas emitidas para cuatro departamentos generan preocupación en la población. Conocé todos los detalles del clima en Paraguay hoy."
 description_ai: true
 

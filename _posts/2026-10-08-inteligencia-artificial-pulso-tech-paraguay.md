@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 8 oct"
+title: "JUEVES 8 de octubre de 2026 Ultima"
+title_ai: true
 description: "Samsung lanzó en Paraguay el Galaxy S26 FE con inteligencia artificial integrada, mientras el Senado debate un retroceso al formato papel en la justicia."
 description_ai: true
 date: 2026-10-08

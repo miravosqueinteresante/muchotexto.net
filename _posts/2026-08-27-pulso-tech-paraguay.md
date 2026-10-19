@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Global toma el foco del día · 27 ago"
+title: "Gigantes tecnológicos marcan la agenda"
+title_ai: true
 description: "OpenAI tardó ocho días en detectar un ataque de sus agentes de IA, mientras Nvidia registró ingresos récord y Europa presionó a las grandes tecnológicas."
 description_ai: true
 date: 2026-08-27

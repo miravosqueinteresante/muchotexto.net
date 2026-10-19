@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Innovación y startups · 16 ago"
+title: "Inversión récord en banca digital"
+title_ai: true
 description: "El banco ueno triplicó la inversión en software de la competencia, marcando un hito en la transformación digital bancaria del país."
 description_ai: true
 date: 2026-08-16

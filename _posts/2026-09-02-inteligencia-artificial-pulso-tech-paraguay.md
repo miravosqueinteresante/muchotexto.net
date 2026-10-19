@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 2 set"
+title: "Nuevo liderazgo en Apple y avance de IA"
+title_ai: true
 description: "John Ternus asume la dirección de Apple con un enfoque total en la inteligencia artificial, mientras Nvidia invierte millones para potenciar el sector."
 description_ai: true
 date: 2026-09-02

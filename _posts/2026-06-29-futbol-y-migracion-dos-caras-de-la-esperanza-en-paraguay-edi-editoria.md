@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Fútbol y migración: dos caras"
+title: "Fútbol y migración en Paraguay"
+title_ai: true
 description: "El partido de la Albirroja contrasta con la preocupante migración de jóvenes chaqueños por falta de empleo, reflejando la compleja realidad nacional."
 description_ai: true
 date: 2026-06-29 18:00:00 -0400

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, energía y adopción digital"
+title: "El sector productivo nacional está marcando"
+title_ai: true
 description: "La infraestructura industrial en Paraguay exige mayor potencia eléctrica y energía solar para sostener la adopción digital y la inteligencia artificial."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Investigación contra"
+title: "Investigan a candidato de Luque"
+title_ai: true
 
 
 

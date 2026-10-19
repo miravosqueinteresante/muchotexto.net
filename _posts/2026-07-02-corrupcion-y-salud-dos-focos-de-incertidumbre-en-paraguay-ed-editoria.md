@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Corrupción y salud: focos de incertidumbre"
+title: "Corrupción y crisis sanitaria en el país"
+title_ai: true
 description: "La libertad de Miguel Prieto en el Caso Tajy y la llegada de una superbacteria reflejan la profunda crisis institucional y sanitaria en Paraguay."
 description_ai: true
 date: 2026-07-02 18:00:00 -0400

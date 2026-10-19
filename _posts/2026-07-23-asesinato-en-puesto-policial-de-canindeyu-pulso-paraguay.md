@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Asesinato en puesto."
+title: "Crimen en sede policial de Canindeyú"
+title_ai: true
 description: "La autopsia del civil asesinado en un puesto policial de Canindeyú confirma múltiples lesiones y genera fuerte revuelo en la seguridad del país."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 14 ago"
+title: "Impulsan nuevo ministerio de energía"
+title_ai: true
 description: "El Gobierno impulsa la creación del Ministerio de Energía para formalizar la gobernanza del sector energético y atraer nuevas inversiones estratégicas."
 description_ai: true
 date: 2026-08-14

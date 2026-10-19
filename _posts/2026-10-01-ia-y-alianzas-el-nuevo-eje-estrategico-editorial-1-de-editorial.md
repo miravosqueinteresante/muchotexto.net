@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "IA y alianzas, el nuevo eje estratégico"
+title: "Paraguay apunta a la soberanía digital"
+title_ai: true
 description: "Paraguay busca consolidar su soberanía digital mediante una alianza estratégica con Taiwán para crear infraestructura avanzada de inteligencia artificial."
 description_ai: true
 

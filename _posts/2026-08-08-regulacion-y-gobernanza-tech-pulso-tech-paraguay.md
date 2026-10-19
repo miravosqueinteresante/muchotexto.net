@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 8 ago"
+title: "MEC usa criptografía para títulos"
+title_ai: true
 description: "El Ministerio de Educación implementa un registro criptográfico de títulos para evitar falsificaciones y garantizar la seguridad documental en Paraguay."
 description_ai: true
 date: 2026-08-08

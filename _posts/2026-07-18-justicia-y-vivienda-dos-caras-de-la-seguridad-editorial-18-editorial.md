@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Justicia y vivienda, dos caras de la."
+title: "Crisis de seguridad y justicia en Paraguay"
+title_ai: true
 description: "La seguridad pública y el acceso a la vivienda dominan el debate político nacional en Paraguay, reflejando el profundo descontento social."
 description_ai: true
 

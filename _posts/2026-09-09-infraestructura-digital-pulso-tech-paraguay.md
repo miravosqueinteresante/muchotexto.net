@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 9 set"
+title: "MIÉRCOLES 9 de setiembre de 2026 Ultima"
+title_ai: true
 description: "El Congreso exige informes al BCP sobre fraudes cibernéticos ante la creciente preocupación por la seguridad en el sistema financiero paraguayo."
 description_ai: true
 date: 2026-09-09

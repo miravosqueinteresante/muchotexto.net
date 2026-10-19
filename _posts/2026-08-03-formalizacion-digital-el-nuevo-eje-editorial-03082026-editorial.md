@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Formalización digital, el nuevo eje"
+title: "Avanza formalización digital estatal"
+title_ai: true
 description: "La identidad digital en Paraguay se consolida como pilar de seguridad y formalización mediante nuevas normativas y el control de transacciones."
 description_ai: true
 

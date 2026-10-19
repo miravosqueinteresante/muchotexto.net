@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 5 ago"
+title: "Energía clave para centros de datos"
+title_ai: true
 description: "La disponibilidad energética definirá la expansión de centros de datos para inteligencia artificial hacia 2030, condicionando la infraestructura digital."
 description_ai: true
 date: 2026-08-05

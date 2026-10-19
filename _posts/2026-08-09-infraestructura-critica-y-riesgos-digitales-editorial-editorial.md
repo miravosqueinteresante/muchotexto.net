@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura crítica y riesgos digitales"
+title: "Ciberseguridad y energía nuclear"
+title_ai: true
 description: "La ciberseguridad es vital para proteger la nueva infraestructura crítica y los sistemas digitales que gestionarán la energía nuclear en Paraguay."
 description_ai: true
 

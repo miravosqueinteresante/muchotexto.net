@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Ética, legalidad y confianza en las."
+title: "Juicio a Rivas y la crisis de confianza"
+title_ai: true
 description: "El juicio a Hernán Rivas por su supuesto título falso de abogado pone en jaque la confianza en las instituciones y la ética del sistema legal en Paraguay."
 description_ai: true
 

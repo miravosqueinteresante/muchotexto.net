@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 14 set"
+title: "LUNES 14 de setiembre de 2026 Ultima"
+title_ai: true
 description: "Las exportaciones de servicios digitales bajo el régimen de maquila en Paraguay superaron los USD 1.000 millones, impulsando la economía local."
 description_ai: true
 date: 2026-09-14

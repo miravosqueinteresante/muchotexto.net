@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 24 ago"
+title: "Boom del comercio electrónico en Paraguay"
+title_ai: true
 description: "El comercio electrónico en Paraguay se multiplicó por nueve en cinco años, marcando una etapa de consolidación en el ecosistema digital y financiero."
 description_ai: true
 date: 2026-08-24

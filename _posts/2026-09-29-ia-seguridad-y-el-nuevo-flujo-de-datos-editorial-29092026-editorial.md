@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "IA, seguridad y el nuevo flujo de datos"
+title: "La integración de inteligencia artificial"
+title_ai: true
 description: "La inteligencia artificial y la analítica de datos transforman la producción y la gestión laboral en Paraguay, exigiendo mayor ciberseguridad."
 description_ai: true
 

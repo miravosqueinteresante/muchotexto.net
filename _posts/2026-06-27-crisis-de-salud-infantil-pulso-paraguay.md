@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis de salud infantil"
+title: "Rifas salvan niños con males cardíacos"
+title_ai: true
 description: "Las rifas solidarias para niños cardiópatas exponen la grave crisis de salud infantil y la ineficiencia de la atención pública en el país."
 description_ai: true
 

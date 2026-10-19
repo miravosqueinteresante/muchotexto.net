@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad, datos y control estatal"
+title: "Los incidentes de seguridad protagonizados"
+title_ai: true
 description: "La digitalización de datos vitales en Paraguay exige una ciberseguridad robusta ante las crecientes amenazas tecnológicas globales."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gestión de datos y el nuevo orden digital"
+title: "Billetaje digital y datos públicos"
+title_ai: true
 description: "La gestión de datos define el nuevo orden digital en Paraguay, impulsada por el billetaje electrónico y la urgencia de una mayor seguridad."
 description_ai: true
 

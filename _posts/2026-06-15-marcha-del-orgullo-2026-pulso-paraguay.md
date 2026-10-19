@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Marcha del Orgullo 2026"
+title: "Marcha exigirá ley antidiscriminación"
+title_ai: true
 
 
 

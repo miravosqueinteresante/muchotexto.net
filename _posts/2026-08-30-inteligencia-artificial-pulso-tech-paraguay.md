@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 30 ago"
+title: "Desafíos de la IA en Paraguay"
+title_ai: true
 description: "La brecha tecnológica en Paraguay se evidencia al contrastar el debate global sobre la inteligencia artificial con la urgencia del registro digital."
 description_ai: true
 date: 2026-08-30

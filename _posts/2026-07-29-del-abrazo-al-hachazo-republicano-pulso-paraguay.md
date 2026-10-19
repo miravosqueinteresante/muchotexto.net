@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Del abrazo al hachazo"
+title: "Beto Ovelar pichado en Diputados"
+title_ai: true
 description: "La crisis política colorada y el pulso social en Paraguay marcan la agenda de hoy con tensiones legislativas, fútbol y cultura."
 description_ai: true
 

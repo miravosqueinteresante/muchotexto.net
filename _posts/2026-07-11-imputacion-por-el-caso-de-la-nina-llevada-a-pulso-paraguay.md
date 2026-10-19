@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Imputación por el caso de."
+title: "Imputan al padre de la niña"
+title_ai: true
 description: "La fiscalía imputó al padre por la niña llevada ilegalmente a Argentina, generando un intenso debate sobre la seguridad infantil en el país."
 description_ai: true
 

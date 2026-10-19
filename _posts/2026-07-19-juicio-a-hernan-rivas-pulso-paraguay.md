@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Juicio a Hernán Rivas"
+title: "Inicia el juicio oral a Hernán Rivas"
+title_ai: true
 description: "El juicio a Hernán Rivas avanza para determinar la validez de su título de abogado en un caso que pone a prueba la confianza en el sistema legal paraguayo."
 description_ai: true
 

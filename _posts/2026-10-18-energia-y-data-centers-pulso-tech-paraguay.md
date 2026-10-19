@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "ENERGIA Y DATA CENTERS · 18 oct"
+title: "DOMINGO 18 de octubre de 2026 Ultima"
+title_ai: true
 description: "Los parques solares con baterías y la adopción de inteligencia artificial definen la estrategia energética y tecnológica del Paraguay."
 description_ai: true
 date: 2026-10-18

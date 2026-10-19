@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Manifestación por."
+title: "Protesta de aspirantes policiales"
+title_ai: true
 
 
 

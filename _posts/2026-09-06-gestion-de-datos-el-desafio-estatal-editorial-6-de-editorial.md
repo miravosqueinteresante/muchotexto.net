@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gestión de datos, el desafío estatal"
+title: "El Instituto de Previsión Social (IPS)"
+title_ai: true
 description: "El Instituto de Previsión Social inicia un censo digital obligatorio para jubilados, marcando un avance clave en la gestión de datos estatales en Paraguay."
 description_ai: true
 

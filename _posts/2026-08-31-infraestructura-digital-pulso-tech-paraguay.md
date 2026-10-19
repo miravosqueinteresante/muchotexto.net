@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 31 ago"
+title: "Trasbordo gratuito en colectivos"
+title_ai: true
 description: "El Viceministerio de Transporte oficializó el trasbordo gratuito mediante billetaje electrónico para optimizar la movilidad en el área metropolitana."
 description_ai: true
 date: 2026-08-31

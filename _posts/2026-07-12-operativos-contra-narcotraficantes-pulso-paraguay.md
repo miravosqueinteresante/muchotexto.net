@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Operativos contra…"
+title: "Golpe al narcotráfico en Paso Bravo"
+title_ai: true
 description: "Las recientes operaciones antidrogas en el Parque Nacional Paso Bravo generaron millonarias pérdidas a los narcotraficantes en Paraguay."
 description_ai: true
 

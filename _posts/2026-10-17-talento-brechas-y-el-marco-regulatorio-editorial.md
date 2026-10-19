@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Talento, brechas y el marco regulatorio"
+title: "Desafíos ante la inteligencia artificial"
+title_ai: true
 description: "La inteligencia artificial en Paraguay exige políticas públicas articuladas y marcos regulatorios que eviten profundizar las desigualdades sociales."
 description_ai: true
 

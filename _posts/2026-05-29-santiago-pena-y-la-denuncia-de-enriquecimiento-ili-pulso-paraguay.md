@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Santiago Peña y la."
+title: "Peña afronta denuncia por enriquecimiento"
+title_ai: true
 
 
 

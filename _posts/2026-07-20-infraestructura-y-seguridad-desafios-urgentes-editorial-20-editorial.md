@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura y seguridad, desafíos."
+title: "Infraestructura y seguridad en crisis"
+title_ai: true
 description: "Los cortes de energía y la inseguridad ciudadana revelan la vulnerabilidad de la infraestructura y el malestar social en Paraguay."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 12 set"
+title: "SÁBADO 12 de setiembre de 2026 Ultima"
+title_ai: true
 description: "El Gobierno busca posicionar a Paraguay en la inteligencia artificial mientras la industria local avanza en innovación tecnológica."
 description_ai: true
 date: 2026-09-12

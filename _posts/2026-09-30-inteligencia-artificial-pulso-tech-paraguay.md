@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 30 set"
+title: "MIÉRCOLES 30 de setiembre de 2026 Ultima"
+title_ai: true
 description: "El CER Training Center inauguró en Asunción el primer centro de cirugía robótica, permitiendo la capacitación local con tecnología surcoreana."
 description_ai: true
 date: 2026-09-30

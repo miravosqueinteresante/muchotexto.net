@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 29 ago"
+title: "IPS lanza censo digital a jubilados"
+title_ai: true
 description: "El IPS implementa un censo digital para actualizar datos de jubilados mientras la agenda tecnológica global y local exige mayor ciberseguridad."
 description_ai: true
 date: 2026-08-29

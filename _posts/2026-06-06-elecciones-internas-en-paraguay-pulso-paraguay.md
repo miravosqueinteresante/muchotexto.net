@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Elecciones internas en"
+title: "Internas partidarias en marcha"
+title_ai: true
 
 
 

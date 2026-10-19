@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Consumo digital y cautela financiera"
+title: "Comercio digital y cautela bancaria"
+title_ai: true
 description: "El comercio electrónico en Paraguay multiplicó su volumen por nueve en los últimos cinco años, consolidándose como el motor principal de la."
 description_ai: true
 

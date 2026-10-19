@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 6 oct"
+title: "MARTES 6 de octubre de 2026 Ultima"
+title_ai: true
 description: "Itaipú transfirió 345 millones de dólares al Estado paraguayo y a la ANDE, mientras crecen los desafíos globales en infraestructura digital."
 description_ai: true
 date: 2026-10-06

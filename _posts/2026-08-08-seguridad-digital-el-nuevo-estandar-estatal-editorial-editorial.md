@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad digital, el nuevo estándar."
+title: "MEC y TSJE impulsan la digitalización"
+title_ai: true
 description: "El Estado paraguayo implementa registros criptográficos e inscripción automática para garantizar la seguridad digital y la transparencia institucional."
 description_ai: true
 

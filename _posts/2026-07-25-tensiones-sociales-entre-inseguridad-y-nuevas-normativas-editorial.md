@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Tensiones sociales, entre inseguridad y."
+title: "Inseguridad eleva la tensión social"
+title_ai: true
 description: "La creciente inseguridad en Paraguay genera alarma y desprotección ciudadana, dominando la agenda pública junto a los debates sobre paternidad."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad y economía, dos caras de la."
+title: "Seguridad y economía en tensión"
+title_ai: true
 description: "La seguridad en Paraguay genera alta preocupación ciudadana mientras el sector avícola impulsa la economía nacional con exportaciones récord."
 description_ai: true
 

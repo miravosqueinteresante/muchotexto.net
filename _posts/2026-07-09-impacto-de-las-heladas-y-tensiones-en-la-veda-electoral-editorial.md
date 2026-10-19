@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Heladas y veda, un malestar común"
+title: "Heladas y veda caldean el país"
+title_ai: true
 description: "Las heladas en Itapúa y la veda en Itaipú evidencian la creciente preocupación social por la economía y la transparencia institucional en Paraguay."
 description_ai: true
 

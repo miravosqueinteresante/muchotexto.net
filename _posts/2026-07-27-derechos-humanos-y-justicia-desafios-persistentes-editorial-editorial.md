@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Derechos humanos y justicia, desafíos."
+title: "Estado pide perdón por Leguizamón"
+title_ai: true
 description: "El Estado paraguayo reconoció su responsabilidad en el caso Santiago Leguizamón, reavivando el debate sobre los derechos humanos y la justicia en el país."
 description_ai: true
 

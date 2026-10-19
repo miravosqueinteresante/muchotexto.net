@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 15 ago"
+title: "Alerta por nuevos ciberataques bancarios"
+title_ai: true
 description: "El MITIC advirtió sobre nuevas modalidades en ciberataques bancarios que afectan al sistema financiero paraguayo, exigiendo reforzar la ciberseguridad."
 description_ai: true
 date: 2026-08-15

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Controversia entre."
+title: "Senado repudiará dichos de Celeste Amarilla"
+title_ai: true
 description: "El Senado paraguayo prepara una declaración formal para responsabilizar a la diputada Celeste Amarilla por sus polémicos dichos sobre Kylian Mbappé."
 description_ai: true
 

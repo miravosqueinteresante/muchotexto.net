@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Innovación y startups · 10 set"
+title: "JUEVES 10 de setiembre de 2026 Ultima"
+title_ai: true
 description: "Sirius Automotores ganó el primer puesto en el Moonshot 2026 y se adjudicó un capital semilla de 30.000 dólares en el ecosistema emprendedor."
 description_ai: true
 date: 2026-09-10

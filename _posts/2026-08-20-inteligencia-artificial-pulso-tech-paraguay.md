@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 20 ago"
+title: "El MEC digitaliza archivos con IA"
+title_ai: true
 description: "El Ministerio de Educación implementa inteligencia artificial para digitalizar miles de archivos históricos en Paraguay y rescatar la memoria nacional."
 description_ai: true
 date: 2026-08-20

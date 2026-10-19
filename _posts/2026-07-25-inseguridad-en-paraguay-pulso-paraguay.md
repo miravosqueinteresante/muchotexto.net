@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Inseguridad en Paraguay"
+title: "Alarma por robos a mano armada"
+title_ai: true
 description: "Los robos a mano armada y la creciente inseguridad en Paraguay generan alarma ciudadana, impulsando un fuerte debate nacional sobre la protección."
 description_ai: true
 

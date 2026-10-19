@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Conexiones entre seguridad y economía en."
+title: "Golpes al narco y la economía nacional"
+title_ai: true
 description: "Los operativos contra el narcotráfico y la corrupción educativa revelan cómo la seguridad y la economía están profundamente conectadas en Paraguay."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Eficiencia digital, la hoja de ruta"
+title: "IA y eficiencia en la banca paraguaya"
+title_ai: true
 description: "La inteligencia artificial impulsa la eficiencia en el sector financiero de Paraguay mientras avanza la transformación digital del Estado."
 description_ai: true
 

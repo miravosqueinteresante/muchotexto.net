@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Clima y política: tensiones del pulso"
+title: "Clima adverso y tensión política en el país"
+title_ai: true
 description: "La alerta de tormentas y las críticas a la corrupción elevan el clima y la política en Paraguay con alta tensión social."
 description_ai: true
 date: 2026-06-28 18:00:00 -0400

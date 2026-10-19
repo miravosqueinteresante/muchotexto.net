@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay · 16 oct"
+title: "Sin novedades de IA/tech suficient · 16 oct"
+title_ai: true
 description: "El sector tecnológico local experimenta una pausa temporal sin anuncios relevantes de inteligencia artificial hoy en Paraguay."
 description_ai: true
 date: 2026-10-16

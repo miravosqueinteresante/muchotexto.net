@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Paraguay iguala 1-1 con."
+title: "Paraguay empata con Australia"
+title_ai: true
 description: "La Albirroja empató 1-1 con Australia en un partido clave rumbo al Mundial 2026 y mantiene vivas sus chances de clasificación en el torneo."
 description_ai: true
 

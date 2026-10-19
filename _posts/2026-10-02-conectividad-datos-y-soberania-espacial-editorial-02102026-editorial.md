@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Conectividad, datos y soberanía espacial"
+title: "El 72% de los jubilados del IPS que operan"
+title_ai: true
 description: "La soberanía tecnológica de Paraguay se consolida con la inclusión digital financiera y la gestión de datos satelitales que exigen mayor ciberdefensa."
 description_ai: true
 

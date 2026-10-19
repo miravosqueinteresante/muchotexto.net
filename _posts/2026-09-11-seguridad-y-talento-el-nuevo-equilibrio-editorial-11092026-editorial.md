@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad y talento, el nuevo equilibrio"
+title: "IA: seguridad y talento en Paraguay"
+title_ai: true
 description: "La seguridad en inteligencia artificial exige un nuevo equilibrio global mientras Paraguay impulsa la formación de talentos y proyectos locales."
 description_ai: true
 

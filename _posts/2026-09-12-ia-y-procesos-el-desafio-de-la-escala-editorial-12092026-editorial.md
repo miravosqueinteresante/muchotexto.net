@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "IA y procesos, el desafío de la escala"
+title: "El anuncio del presidente Santiago Peña"
+title_ai: true
 description: "La inteligencia artificial en Paraguay exige articular la visión estatal de vanguardia con la urgente modernización de los procesos industriales."
 description_ai: true
 

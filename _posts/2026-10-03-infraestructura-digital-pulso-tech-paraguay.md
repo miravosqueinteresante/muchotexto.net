@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 3 oct"
+title: "SÁBADO 3 de octubre de 2026 Ultima"
+title_ai: true
 description: "El satélite paraguayo GuaraniSat-2 ya orbita la Tierra marcando un hito tecnológico, mientras la cédula digital queda excluida para votar."
 description_ai: true
 date: 2026-10-03

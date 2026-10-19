@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Justicia, memoria y el espejo roto"
+title: "Juicio a María Fernanda expone al país"
+title_ai: true
 description: "El juicio de María Fernanda expone las deudas pendientes del sistema judicial paraguayo y nuestra compleja relación con la impunidad."
 description_ai: true
 date: 2026-06-19 18:00:00 -0400

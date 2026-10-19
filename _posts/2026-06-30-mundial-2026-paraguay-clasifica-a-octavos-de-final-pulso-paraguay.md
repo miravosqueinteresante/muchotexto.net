@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Mundial 2026: Paraguay."
+title: "Paraguay clasifica a octavos"
+title_ai: true
 description: "La Albirroja clasifica a octavos del Mundial 2026 tras vencer a Alemania, mientras el país debate sobre seguridad y las nuevas protestas en el IPS."
 description_ai: true
 

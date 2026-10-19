@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 7 oct"
+title: "MIÉRCOLES 7 de octubre de 2026 Ultima"
+title_ai: true
 description: "El Poder Ejecutivo oficializó cambios en la cúpula del MITIC para reestructurar la gobernanza tecnológica y la agenda digital del Estado paraguayo."
 description_ai: true
 date: 2026-10-07

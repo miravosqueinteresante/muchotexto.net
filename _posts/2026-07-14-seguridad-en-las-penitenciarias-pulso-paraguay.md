@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Seguridad en las."
+title: "Crisis en cárceles"
+title_ai: true
 description: "La fuga de dos reos en Misiones y la incautación de celulares en Oviedo disparan la crisis de seguridad en las penitenciarías del país."
 description_ai: true
 

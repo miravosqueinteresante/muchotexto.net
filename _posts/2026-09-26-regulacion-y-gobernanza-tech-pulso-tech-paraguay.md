@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 26 set"
+title: "SÁBADO 26 de setiembre de 2026 Ultima"
+title_ai: true
 description: "La regulación del uso de celulares en escuelas busca mejorar la gestión digital y responde al avance tecnológico global."
 description_ai: true
 date: 2026-09-26

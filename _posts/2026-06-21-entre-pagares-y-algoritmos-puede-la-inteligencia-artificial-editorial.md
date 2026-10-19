@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Entre pagarés y algoritmos: ¿Puede la."
+title: "La mafia de los pagarés y la justicia"
+title_ai: true
 description: "La mafia de los pagarés expone la vulnerabilidad judicial en Paraguay y plantea si la inteligencia artificial puede ser una solución contra la corrupción."
 description_ai: true
 

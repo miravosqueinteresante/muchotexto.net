@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, el activo de Paraguay"
+title: "Energía limpia atrae data centers"
+title_ai: true
 description: "Paraguay atrae inversiones tecnológicas globales gracias a su energía renovable, consolidándose como un polo estratégico para instalar data centers."
 description_ai: true
 

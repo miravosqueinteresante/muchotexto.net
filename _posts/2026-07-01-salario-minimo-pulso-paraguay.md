@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Salario mínimo"
+title: "Rige el nuevo salario mínimo en el país"
+title_ai: true
 description: "El nuevo salario mínimo rige desde hoy tras el ajuste oficial, generando intensos debates sobre su impacto en la economía nacional y el mercado laboral."
 description_ai: true
 

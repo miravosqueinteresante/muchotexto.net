@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gobernanza institucional, el nuevo norte"
+title: "El Poder Ejecutivo oficializó hoy"
+title_ai: true
 description: "Los nuevos nombramientos en el MITIC buscan fortalecer la gobernanza digital y enfrentar los desafíos de la inteligencia artificial en Paraguay."
 description_ai: true
 

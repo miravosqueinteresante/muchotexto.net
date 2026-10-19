@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "E-commerce y talento, la brecha digital"
+title: "E-commerce: fuga de capitales y talento"
+title_ai: true
 description: "El comercio electrónico en Paraguay movió 2.000 millones de dólares en 2025, pero el 77 por ciento de las compras se destinan a plataformas extranjeras."
 description_ai: true
 

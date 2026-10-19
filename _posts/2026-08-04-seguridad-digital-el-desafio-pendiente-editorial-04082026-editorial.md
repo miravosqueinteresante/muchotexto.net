@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad digital, el desafío pendiente"
+title: "Ciberdelitos amenazan el sistema financiero"
+title_ai: true
 description: "El aumento de ciberataques y vaciamientos de cuentas en Paraguay expone la urgente necesidad de fortalecer la seguridad digital y la gobernanza financiera."
 description_ai: true
 

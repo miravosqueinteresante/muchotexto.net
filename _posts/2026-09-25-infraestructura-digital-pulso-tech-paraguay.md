@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 25 set"
+title: "VIERNES 25 de setiembre de 2026 Ultima"
+title_ai: true
 description: "El ecosistema digital paraguayo avanza con la telemedicina del IPS, el debate sobre regulación de inteligencia artificial y la movilidad eléctrica."
 description_ai: true
 date: 2026-09-25

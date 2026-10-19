@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "IA aplicada, la nueva escala del agro"
+title: "IA impulsa la innovación en el agro"
+title_ai: true
 description: "La fumigación agrícola con drones y la inteligencia artificial posicionan a Paraguay como referente tecnológico regional pese a la dependencia global."
 description_ai: true
 

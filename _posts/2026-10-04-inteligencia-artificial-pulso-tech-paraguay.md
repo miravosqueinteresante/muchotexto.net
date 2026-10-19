@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 4 oct"
+title: "DOMINGO 4 de octubre de 2026 Ultima"
+title_ai: true
 description: "Estados Unidos creó la Fuerza de la Superinteligencia para supervisar el desarrollo de la inteligencia artificial y asegurar el liderazgo tecnológico global."
 description_ai: true
 date: 2026-10-04

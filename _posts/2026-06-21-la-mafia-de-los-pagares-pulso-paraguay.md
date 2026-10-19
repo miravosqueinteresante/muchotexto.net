@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: La mafia de los pagarés"
+title: "Denuncian mafia de pagarés"
+title_ai: true
 description: "Víctimas de la mafia de los pagarés denuncian una indefensión absoluta en Paraguay y exigen el juicio político de los ministros de la Corte Suprema."
 description_ai: true
 

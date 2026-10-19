@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 15 set"
+title: "Debaten sobre la ética de la IA en el país"
+title_ai: true
 description: "Líderes tecnológicos globales exigen frenar el avance de la inteligencia artificial ante graves riesgos de seguridad, mientras Paraguay debate su ética."
 description_ai: true
 date: 2026-09-15

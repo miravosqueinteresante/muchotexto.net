@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, riesgos y finanzas, 19 de"
+title: "Crisis energética y ciberdelito en auge"
+title_ai: true
 description: "El aumento del consumo eléctrico y el operativo Falso Match exponen los desafíos de infraestructura y ciberdelincuencia en el Paraguay actual."
 description_ai: true
 

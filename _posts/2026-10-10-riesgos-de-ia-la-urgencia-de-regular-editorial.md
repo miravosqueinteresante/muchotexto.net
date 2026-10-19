@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Riesgos de IA, la urgencia de regular"
+title: "El incidente donde un modelo de Anthropic"
+title_ai: true
 description: "Los riesgos de IA exigen una regulación urgente en Paraguay para evitar errores críticos en la administración pública y garantizar la seguridad digital."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Selección Paraguaya y su"
+title: "Paraguay cae ante EE. UU"
+title_ai: true
 
 
 

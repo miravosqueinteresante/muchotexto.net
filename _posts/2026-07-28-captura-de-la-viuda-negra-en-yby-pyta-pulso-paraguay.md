@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Captura de la viuda negra."
+title: "Capturan a supuesta viuda negra en Yby Pytá"
+title_ai: true
 description: "La Policía detuvo en Yby Pytá a la supuesta viuda negra vinculada al asesinato de su pareja, un caso que conmociona a todo el país."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 1 oct"
+title: "JUEVES 1 de octubre de 2026 Ultima"
+title_ai: true
 description: "Santiago Peña invitó a Foxconn a sumarse al centro de inteligencia artificial paraguayo-taiwanés para potenciar el desarrollo tecnológico nacional."
 description_ai: true
 date: 2026-10-01

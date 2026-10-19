@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Tensiones políticas y distracciones."
+title: "Fisuras coloradas y distracción popular"
+title_ai: true
 description: "Las tensiones políticas y la falta de unidad en el Partido Colorado contrastan con el entusiasmo por el deporte y los espectáculos en el país."
 description_ai: true
 

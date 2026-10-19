@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gestión energética y riesgos digitales"
+title: "Nuevo ministerio energético y digital"
+title_ai: true
 description: "El nuevo Ministerio de Minas y Energía centralizará la gestión eléctrica en Paraguay para responder a la creciente demanda de los centros de datos."
 description_ai: true
 

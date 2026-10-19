@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 13 set"
+title: "DOMINGO 13 de setiembre de 2026 Ultima"
+title_ai: true
 description: "Expertos taiwaneses implementan inteligencia artificial en Paraguay para potenciar la vigilancia sanitaria y el análisis de datos en salud."
 description_ai: true
 date: 2026-09-13

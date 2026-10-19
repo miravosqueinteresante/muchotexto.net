@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 14 oct"
+title: "MIÉRCOLES 14 de octubre de 2026 Ultima"
+title_ai: true
 description: "Científicos y Google DeepMind exigen un organismo internacional para frenar los graves riesgos de la inteligencia artificial."
 description_ai: true
 date: 2026-10-14

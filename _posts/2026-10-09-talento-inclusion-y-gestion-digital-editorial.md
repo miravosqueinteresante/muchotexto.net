@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Talento, inclusión y gestión digital"
+title: "La inteligencia artificial se posiciona hoy"
+title_ai: true
 description: "La inteligencia artificial y la capacitación digital transforman el mercado laboral en Paraguay, exigiendo mayor competitividad y talento humano."
 description_ai: true
 

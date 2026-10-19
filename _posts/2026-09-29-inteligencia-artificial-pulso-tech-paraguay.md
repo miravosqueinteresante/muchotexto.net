@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 29 set"
+title: "ABC integra IA en video con la SIP y Google"
+title_ai: true
 description: "ABC liderará un proyecto de inteligencia artificial junto a la SIP y Google para transformar la producción de contenidos en video en Paraguay."
 description_ai: true
 date: 2026-09-29

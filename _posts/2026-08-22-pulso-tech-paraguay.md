@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay · 22 ago"
+title: "ANDE reserva 943 MW para data centers"
+title_ai: true
 description: "La ANDE acumula 943 MW reservados para data centers mientras Brasil invierte millones en infraestructura regional de inteligencia artificial."
 description_ai: true
 date: 2026-08-22

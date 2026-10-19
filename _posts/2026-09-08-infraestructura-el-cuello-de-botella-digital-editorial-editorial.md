@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "El cuello de botella digital"
+title: "Energía clave para la industria digital"
+title_ai: true
 description: "La infraestructura eléctrica de Paraguay debe modernizarse para soportar la digitalización industrial y evitar cortes de energía."
 description_ai: true
 

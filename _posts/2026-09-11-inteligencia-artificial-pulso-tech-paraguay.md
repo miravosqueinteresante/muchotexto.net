@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 11 set"
+title: "VIERNES 11 de setiembre de 2026 Ultima"
+title_ai: true
 description: "Sam Altman propuso frenar el desarrollo global de la inteligencia artificial y Anthropic frustró ataques biológicos con su modelo Claude."
 description_ai: true
 date: 2026-09-11

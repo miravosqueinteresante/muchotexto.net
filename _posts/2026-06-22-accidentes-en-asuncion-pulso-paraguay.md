@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Accidentes en Asunción"
+title: "Seguidilla de choques en Asunción"
+title_ai: true
 description: "La seguidilla de siniestros viales frente a la comuna capitalina genera preocupación sobre los accidentes en Asunción y la seguridad pública."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Paro de Funcionarios de."
+title: "Paro en Vialidad de Asunción"
+title_ai: true
 description: "El paro de funcionarios de Vialidad en Asunción paraliza las obras municipales mientras los trabajadores exigen la destitución del director."
 description_ai: true
 

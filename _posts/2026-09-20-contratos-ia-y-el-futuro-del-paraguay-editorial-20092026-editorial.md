@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Contratos, IA y el futuro del Paraguay"
+title: "Energía y IA: desafíos del Paraguay"
+title_ai: true
 description: "La inseguridad en los contratos eléctricos y el auge de la inteligencia artificial exigen mayor gobernanza para el desarrollo del Paraguay."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 7 set"
+title: "IPS inicia censo digital obligatorio"
+title_ai: true
 description: "El censo digital obligatorio del IPS permite a los jubilados actualizar sus datos de forma remota hasta diciembre para modernizar la seguridad social."
 description_ai: true
 date: 2026-09-07

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Digitalización estatal, el nuevo estándar"
+title: "La implementación de la Ley Nº 7424"
+title_ai: true
 description: "La digitalización estatal en Paraguay avanza tras la aplicación de la Ley Nº 7424, transformando la gestión pública y eliminando trámites burocráticos."
 description_ai: true
 

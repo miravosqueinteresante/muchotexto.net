@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Desconfianza y tensiones en la gestión."
+title: "Paro y crisis de gestión en Asunción"
+title_ai: true
 description: "El paro en Vialidad y las denuncias de corrupción profundizan la crisis de confianza y el malestar ciudadano en la gestión pública del Paraguay."
 description_ai: true
 

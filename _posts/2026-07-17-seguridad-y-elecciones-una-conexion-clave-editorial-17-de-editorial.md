@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad y elecciones, una conexión clave"
+title: "Inseguridad marca las municipales"
+title_ai: true
 description: "La creciente inseguridad ciudadana en Asunción y el cierre de campañas marcan el pulso político de cara a las próximas elecciones municipales en Paraguay."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay · 25 ago"
+title: "Jornada sin novedades tecnológicas"
+title_ai: true
 description: "El panorama tecnológico local registra una pausa temporal este lunes, sin anuncios disruptivos de inteligencia artificial en Paraguay."
 description_ai: true
 date: 2026-08-25

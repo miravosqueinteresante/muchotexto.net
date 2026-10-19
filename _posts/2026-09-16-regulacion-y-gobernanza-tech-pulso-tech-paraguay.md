@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 16 set"
+title: "MIÉRCOLES 16 de setiembre de 2026 Ultima"
+title_ai: true
 description: "El Gobierno lanzó el Registro Unificado Nacional para integrar catastro y registros públicos bajo un código único que garantice seguridad jurídica."
 description_ai: true
 date: 2026-09-16

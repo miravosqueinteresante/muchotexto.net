@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Solidaridad y crisis, dos caras del país"
+title: "Solidaridad y crisis en Paraguay"
+title_ai: true
 description: "La solidaridad nacional y la crisis del sistema de salud reflejan las dos caras del país en el pulso diario de los paraguayos."
 description_ai: true
 

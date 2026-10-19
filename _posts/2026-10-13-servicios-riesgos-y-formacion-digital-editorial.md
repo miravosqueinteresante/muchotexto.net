@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Servicios, riesgos y formación digital"
+title: "El Instituto de Previsión Social habilitó"
+title_ai: true
 description: "El IPS habilitó una plataforma digital para localizar médicos mientras el SNPP impulsa cursos gratuitos de informática en Paraguay."
 description_ai: true
 

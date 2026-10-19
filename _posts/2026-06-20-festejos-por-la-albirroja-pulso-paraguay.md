@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Festejos por la Albirroja"
+title: "Euforia y caos por la Albirroja"
+title_ai: true
 description: "Los festejos por la Albirroja en el Mundial 2026 desatan euforia y masiva conversación digital en Paraguay tras el histórico triunfo ante Turquía."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad y confianza, en crisis en."
+title: "Crisis de seguridad en Canindeyú"
+title_ai: true
 description: "La crisis de seguridad en Paraguay se profundiza tras el asesinato de un civil en Canindeyú, generando un fuerte rechazo ciudadano hacia las autoridades."
 description_ai: true
 

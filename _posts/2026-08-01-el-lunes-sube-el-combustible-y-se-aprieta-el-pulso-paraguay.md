@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: El lunes sube el."
+title: "Suben los combustibles desde el lunes"
+title_ai: true
 description: "Los emblemas privados confirmaron una nueva suba del combustible que afectará fuertemente el bolsillo de los ciudadanos desde el próximo lunes."
 description_ai: true
 

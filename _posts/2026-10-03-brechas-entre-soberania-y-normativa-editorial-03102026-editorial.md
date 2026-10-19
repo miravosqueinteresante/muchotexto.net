@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Brechas entre soberanía y normativa"
+title: "La puesta en órbita del GuaraniSat-2 marca"
+title_ai: true
 description: "El satélite GuaraniSat-2 expone el atraso regulatorio de Paraguay al prohibir el uso de la cédula digital en los comicios municipales de este domingo."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Seguridad en el país"
+title: "Exigen esclarecer caso de gatillo fácil"
+title_ai: true
 description: "La seguridad en el país genera alta preocupación tras cuestionamientos en el Senado por el uso excesivo de la fuerza policial."
 description_ai: true
 

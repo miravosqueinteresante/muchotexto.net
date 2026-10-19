@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital y brecha humana"
+title: "El lanzamiento del Registro Unificado"
+title_ai: true
 description: "El Registro Unificado Nacional impulsa la gobernanza digital en Paraguay, pero enfrenta desafíos en infraestructura energética y educación."
 description_ai: true
 

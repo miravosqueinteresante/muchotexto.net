@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, el cuello de botella"
+title: "Infraestructura digital frágil"
+title_ai: true
 description: "La infraestructura digital del Estado paraguayo expone fallas críticas que contrastan con la ambición de atraer grandes inversiones tecnológicas."
 description_ai: true
 

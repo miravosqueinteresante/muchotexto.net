@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 9 ago"
+title: "Paraguay firma acuerdo nuclear con EE. UU"
+title_ai: true
 description: "Paraguay firmó un acuerdo con Estados Unidos para iniciar su era de tecnología nuclear civil y blindar así su infraestructura energética."
 description_ai: true
 date: 2026-08-09

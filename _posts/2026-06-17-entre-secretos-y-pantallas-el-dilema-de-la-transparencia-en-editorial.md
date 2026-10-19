@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Entre secretos y pantallas: El dilema de"
+title: "Opacidad y crisis en el poder"
+title_ai: true
 description: "El caso María Fernanda expone la opacidad institucional en Paraguay y el rol de la tecnología frente a la creciente crisis de confianza social."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "La desinformación también enferma"
+title: "La desinformación pone en riesgo la salud"
+title_ai: true
 description: "La desinformación en Paraguay frena la vacunación y agrava la crisis en hospitales públicos. Conoce cómo las noticias falsas afectan la salud."
 description_ai: true
 date: 2026-06-23 18:00:00 -0400

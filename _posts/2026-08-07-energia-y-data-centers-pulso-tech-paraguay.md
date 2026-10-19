@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 7 ago"
+title: "Paraguay es imán para data centers"
+title_ai: true
 description: "Paraguay se posiciona como hub regional para data centers gracias a su energía renovable, según destaca Bloomberg en un nuevo reporte estratégico."
 description_ai: true
 date: 2026-08-07

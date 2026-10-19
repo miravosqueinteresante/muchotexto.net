@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Tech Paraguay · 11 ago"
+title: "Sin novedades tecnológicas hoy"
+title_ai: true
 description: "El ecosistema digital local registra una pausa temporal sin lanzamientos de inteligencia artificial en Paraguay durante esta jornada."
 description_ai: true
 date: 2026-08-11

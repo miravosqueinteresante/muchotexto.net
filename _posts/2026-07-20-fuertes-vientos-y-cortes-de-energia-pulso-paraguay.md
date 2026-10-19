@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Fuertes vientos y cortes."
+title: "Temporal y cortes de luz en el país"
+title_ai: true
 description: "Los fuertes vientos en Paraguay provocaron cortes masivos de energía, detenciones por homicidio y una gran tensión social en esta jornada."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Resultados de la."
+title: "Derrota de Paraguay ante Francia"
+title_ai: true
 description: "La derrota de Paraguay ante Francia en el Mundial y los escándalos políticos marcan la alta tensión social y los temas más comentados de la semana."
 description_ai: true
 

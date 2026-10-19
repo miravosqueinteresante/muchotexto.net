@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Burocracia, justicia y control digital"
+title: "El Ministerio de Economía y Finanzas"
+title_ai: true
 description: "La digitalización en Paraguay avanza con la actualización del sistema Siara y nuevos desafíos en la gobernanza y seguridad digital del Estado."
 description_ai: true
 

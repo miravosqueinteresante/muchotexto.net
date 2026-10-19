@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación, salud y movilidad, el desafío"
+title: "El Hospital Virtual del IPS alcanzó"
+title_ai: true
 description: "La regulación de la inteligencia artificial y la salud digital en Paraguay exige un marco legal sólido para garantizar la transparencia estatal."
 description_ai: true
 

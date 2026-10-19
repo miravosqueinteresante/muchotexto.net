@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 12 oct"
+title: "Habilitan centro del 911 en Pilar"
+title_ai: true
 description: "El nuevo centro de monitoreo del 911 en Pilar refuerza la infraestructura digital con una inversión millonaria en seguridad."
 description_ai: true
 date: 2026-10-12

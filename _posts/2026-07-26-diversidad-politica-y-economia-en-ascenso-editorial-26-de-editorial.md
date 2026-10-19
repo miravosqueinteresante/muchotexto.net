@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Diversidad política y economía en ascenso"
+title: "Crecimiento económico y diversidad política"
+title_ai: true
 description: "Las candidaturas indígenas y el aumento de residencias extranjeras marcan una transformación clave en la inclusión política y economía de Paraguay."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Modernización, el choque de dos mundos"
+title: "Tecnología avanza y el Estado retrocede"
+title_ai: true
 description: "La inteligencia artificial llega al consumo masivo en Paraguay mientras el sector público debate un polémico retroceso al formato papel."
 description_ai: true
 

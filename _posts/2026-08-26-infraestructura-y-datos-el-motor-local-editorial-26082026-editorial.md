@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura y datos, el motor local"
+title: "CDE avanza hacia la logística digital"
+title_ai: true
 description: "La expansión operativa de New Zone Importados en Ciudad del Este, que proyecta pasar de 9.800 a 25.000 metros cuadrados para el 2027, marca un punto de."
 description_ai: true
 

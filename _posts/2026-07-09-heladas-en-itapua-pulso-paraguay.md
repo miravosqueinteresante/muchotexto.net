@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Heladas en Itapúa"
+title: "Fuertes heladas dañan cultivos en Itapúa"
+title_ai: true
 description: "Las heladas en Itapúa dañaron cultivos clave y preocupan al sector agrícola mientras Itaipú restringe información por la veda electoral."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Ajustes económicos y clima social"
+title: "Salario mínimo divide al país"
+title_ai: true
 description: "El nuevo salario mínimo genera alta temperatura social en Paraguay, dividiendo opiniones mientras el deporte y el clima marcan la agenda nacional."
 description_ai: true
 

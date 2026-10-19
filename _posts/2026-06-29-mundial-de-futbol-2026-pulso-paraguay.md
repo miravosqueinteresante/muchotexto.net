@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Mundial 2026 · 29 jun"
+title: "Paraguay y Alemania juegan hoy"
+title_ai: true
 description: "La Albirroja enfrenta a Alemania en el Mundial 2026 buscando su pase a octavos mientras el país debate sobre empleo, salud y el rescate de un yaguareté."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, datos y soberanía"
+title: "Energía y datos para el desarrollo"
+title_ai: true
 description: "Paraguay debe consolidar su infraestructura energética y ciberseguridad para garantizar la soberanía de datos y su competitividad digital."
 description_ai: true
 

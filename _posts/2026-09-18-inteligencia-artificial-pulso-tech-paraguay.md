@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 18 set"
+title: "VIERNES 18 de setiembre de 2026 Ultima"
+title_ai: true
 description: "La inteligencia artificial profundiza la brecha digital en Paraguay según organizaciones religiosas que exigen mayor equidad y regulación."
 description_ai: true
 date: 2026-09-18

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, datos y confianza."
+title: "El Ministerio de Industria y Comercio puso"
+title_ai: true
 description: "Paraguay impulsa su matriz productiva con robótica y energía mientras enfrenta exigencias de auditoría en sus sistemas electorales."
 description_ai: true
 

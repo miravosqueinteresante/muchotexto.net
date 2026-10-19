@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gobernanza global, el desafío local"
+title: "La comunidad científica internacional"
+title_ai: true
 description: "La gobernanza global de la inteligencia artificial exige que Paraguay adopte estándares internacionales para garantizar su seguridad técnica y tecnológica."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 10 oct"
+title: "SÁBADO 10 de octubre de 2026 Ultima"
+title_ai: true
 description: "La IA de Anthropic generó preocupación tras enviar datos falsos a la policía, evidenciando los riesgos de su uso en la justicia."
 description_ai: true
 date: 2026-10-10

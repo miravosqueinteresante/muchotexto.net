@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Innovación y startups · 12 ago"
+title: "El e-commerce paraguayo busca exportar"
+title_ai: true
 description: "El ecosistema digital paraguayo busca diversificar su comercio electrónico para pasar de consumidor a exportador de servicios tecnológicos."
 description_ai: true
 date: 2026-08-12

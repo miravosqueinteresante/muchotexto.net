@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "El asfalto como espejo de los accidentes"
+title: "Tránsito mortal y crisis social en Asunción"
+title_ai: true
 description: "Los siniestros viales en Asunción exponen una profunda crisis de seguridad vial y la falta de planificación urbana en el país."
 description_ai: true
 date: 2026-06-22 18:00:00 -0400

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis sanitaria en"
+title: "Crisis sanitaria en hospitales"
+title_ai: true
 
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Digitalización estatal, retos de seguridad"
+title: "IPS inicia censo digital de jubilados"
+title_ai: true
 description: "El censo digital del IPS expone los retos de la ciberseguridad estatal en Paraguay, exigiendo mayor protección de datos y formación técnica."
 description_ai: true
 

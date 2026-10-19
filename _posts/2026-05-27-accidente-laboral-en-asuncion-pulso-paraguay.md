@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Accidente laboral en."
+title: "Muere obrero en accidente laboral"
+title_ai: true
 
 
 

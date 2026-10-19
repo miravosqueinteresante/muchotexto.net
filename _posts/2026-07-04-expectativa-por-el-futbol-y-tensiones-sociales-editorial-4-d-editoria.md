@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Expectativa y tensión social"
+title: "Fervor futbolístico y tensión social"
+title_ai: true
 description: "El fervor por la Albirroja contrasta con el malestar social por la economía y la gestión pública que revela el Pulso Paraguay."
 description_ai: true
 

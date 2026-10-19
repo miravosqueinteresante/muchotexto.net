@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 1 set"
+title: "Impulsan parque solar en el Chaco"
+title_ai: true
 description: "La ANDE proyecta licitar un parque solar en el Chaco para asegurar el abastecimiento ante la creciente demanda industrial de la próxima década."
 description_ai: true
 date: 2026-09-01

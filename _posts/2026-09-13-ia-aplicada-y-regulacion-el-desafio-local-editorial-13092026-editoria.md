@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "IA aplicada y regulación, el desafío local"
+title: "La llegada de especialistas taiwaneses"
+title_ai: true
 description: "La inteligencia artificial en Paraguay prioriza la gestión pública y la eficiencia comercial por encima de los complejos debates regulatorios globales."
 description_ai: true
 

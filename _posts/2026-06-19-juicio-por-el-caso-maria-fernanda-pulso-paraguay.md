@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Juicio por el caso María"
+title: "Juicio por el caso María Fernanda"
+title_ai: true
 description: "Nuevas declaraciones complican a los procesados en el juicio por el caso María Fernanda, según revelaron durante las últimas audiencias en tribunales."
 description_ai: true
 

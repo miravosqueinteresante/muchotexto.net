@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Vuelco de bus paraguayo en…"
+title: "Trágico vuelco de bus paraguayo en Brasil"
+title_ai: true
 description: "Autoridades trabajan para confirmar las víctimas tras el trágico vuelco de bus paraguayo en Brasil, generando gran preocupación en el país."
 description_ai: true
 

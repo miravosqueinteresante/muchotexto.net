@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gestión pública, la hoja de ruta digital"
+title: "Impulsan digitalización estatal"
+title_ai: true
 description: "La inclusión financiera y la innovación municipal impulsan la digitalización en Paraguay para optimizar la gestión pública y los servicios estatales."
 description_ai: true
 

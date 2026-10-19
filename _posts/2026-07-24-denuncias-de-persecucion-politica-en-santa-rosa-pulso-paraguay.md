@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Denuncias de persecución."
+title: "Denuncian persecución en Santa Rosa"
+title_ai: true
 description: "El intendente interino de Santa Rosa del Aguaray denunció persecución política y teme por su vida ante graves amenazas."
 description_ai: true
 

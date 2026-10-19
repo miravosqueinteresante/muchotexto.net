@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Elecciones internas."
+title: "Intensas internas municipales"
+title_ai: true
 
 
 

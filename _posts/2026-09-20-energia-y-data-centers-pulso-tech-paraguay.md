@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 20 set"
+title: "DOMINGO 20 de setiembre de 2026 Ultima"
+title_ai: true
 description: "La débil postura de la ANDE ante el proyecto Atome pone bajo la lupa los contratos de infraestructura energética en Paraguay."
 description_ai: true
 date: 2026-09-20

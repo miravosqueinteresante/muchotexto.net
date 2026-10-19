@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Pérdida de investidura de"
+title: "Corte avala destitución de Kattya"
+title_ai: true
 
 
 

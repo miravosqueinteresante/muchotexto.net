@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 9 oct"
+title: "VIERNES 9 de octubre de 2026 Ultima"
+title_ai: true
 description: "La inteligencia artificial en el mercado laboral paraguayo exige reconvertir capacidades y potenciar el pensamiento crítico frente a la automatización."
 description_ai: true
 date: 2026-10-09

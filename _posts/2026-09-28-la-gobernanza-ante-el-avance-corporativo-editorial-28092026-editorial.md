@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "La gobernanza ante el avance corporativo"
+title: "Meta puso en marcha una plataforma"
+title_ai: true
 description: "La gobernanza de la inteligencia artificial en Paraguay enfrenta el desafío urgente de regular el avance corporativo y los agentes autónomos."
 description_ai: true
 

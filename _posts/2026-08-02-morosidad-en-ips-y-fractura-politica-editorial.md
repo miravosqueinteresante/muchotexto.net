@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Morosidad en IPS y fractura política"
+title: "Crisis en el IPS y fractura política"
+title_ai: true
 description: "La deuda histórica de 711 millones de dólares en el IPS evidencia una grave crisis financiera mientras la clase política se desgasta en internas partidarias."
 description_ai: true
 

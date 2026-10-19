@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Capital semilla y escala, el desafío local"
+title: "Startups exigen mejor infraestructura"
+title_ai: true
 description: "La startup Sirius Automotores ganó treinta mil dólares en Moonshot 2026, evidenciando el crecimiento del ecosistema emprendedor en Paraguay."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Capacitación técnica y brecha de mercado"
+title: "La inauguración del centro de entrenamiento"
+title_ai: true
 description: "La formación técnica en Paraguay se transforma con cirugía robótica e inteligencia artificial para cerrar la brecha de mercado y elevar la productividad."
 description_ai: true
 

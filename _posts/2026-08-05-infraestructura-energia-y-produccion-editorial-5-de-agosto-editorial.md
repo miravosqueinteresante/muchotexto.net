@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, energía y producción"
+title: "Energía y producción en Paraguay"
+title_ai: true
 description: "La disponibilidad de energía condiciona la infraestructura digital y la producción agropecuaria en Paraguay hacia nuevos desafíos tecnológicos."
 description_ai: true
 

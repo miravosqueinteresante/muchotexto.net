@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Innovación y startups · 26 ago"
+title: "Nueva era digital en el Este"
+title_ai: true
 description: "New Zone Importados lidera la transformación digital en Ciudad del Este con una masiva expansión logística y gestión basada en datos."
 description_ai: true
 date: 2026-08-26

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Candidaturas indígenas en"
+title: "Avance de candidaturas indígenas"
+title_ai: true
 description: "Las candidaturas indígenas generan gran debate sobre la inclusión política en Paraguay y buscan visibilizar los derechos de los pueblos originarios."
 description_ai: true
 

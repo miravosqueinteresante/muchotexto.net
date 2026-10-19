@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inversión, energía y capital humano"
+title: "MIC MAP y energía para el desarrollo"
+title_ai: true
 description: "La plataforma MIC MAP centraliza datos para inversores, evidenciando que la atracción de capital depende de la estabilidad eléctrica en Paraguay."
 description_ai: true
 

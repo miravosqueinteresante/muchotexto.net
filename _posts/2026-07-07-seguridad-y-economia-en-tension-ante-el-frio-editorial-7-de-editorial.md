@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad, economía y frío"
+title: "Frío y crisis golpean al país"
+title_ai: true
 description: "El frío extremo en Paraguay agrava la crisis de seguridad y la inflación, generando alta tensión social y preocupación en la ciudadanía."
 description_ai: true
 

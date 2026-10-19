@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Brecha digital, entre el dato y la norma"
+title: "Brecha digital: IA y realidad local"
+title_ai: true
 description: "Paraguay enfrenta una marcada brecha digital al priorizar la digitalización básica de registros frente al debate global sobre la inteligencia artificial."
 description_ai: true
 

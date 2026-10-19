@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gestión estatal y control financiero"
+title: "La capacitación técnica en herramientas"
+title_ai: true
 description: "La capacitación en inteligencia artificial en Petropar y el rigor normativo en el sector financiero reflejan la modernización digital en Paraguay."
 description_ai: true
 

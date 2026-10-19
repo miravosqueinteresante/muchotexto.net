@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Mundial 2026 · 12 jun"
+title: "La Albirroja debuta en el Mundial"
+title_ai: true
 
 
 

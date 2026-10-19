@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura y seguridad, tensiones."
+title: "Inseguridad y crisis institucional"
+title_ai: true
 description: "La crisis en Santa Rosa del Aguaray y el caso de la barcaza exponen graves tensiones sobre la infraestructura y seguridad en Paraguay."
 description_ai: true
 

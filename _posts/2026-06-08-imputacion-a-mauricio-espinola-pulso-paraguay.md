@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Imputación a Mauricio"
+title: "Imputan al diputado Mauricio Espínola"
+title_ai: true
 
 
 

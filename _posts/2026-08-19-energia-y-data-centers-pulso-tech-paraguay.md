@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 19 ago"
+title: "ANDE registra suba del 18 % en energía"
+title_ai: true
 description: "El consumo eléctrico nacional creció un 18,2 por ciento debido a la mayor demanda industrial y de infraestructura tecnológica en Paraguay."
 description_ai: true
 date: 2026-08-19

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 2 oct"
+title: "VIERNES 2 de octubre de 2026 Ultima"
+title_ai: true
 description: "El satélite paraguayo GuaraníSat-2 opera con éxito en el espacio mientras ueno bank reporta que el 72% de sus clientes jubilados usa la banca móvil."
 description_ai: true
 date: 2026-10-02

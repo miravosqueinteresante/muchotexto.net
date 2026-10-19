@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Brecha digital y el futuro del mercado."
+title: "La jornada de hoy presenta una tensión"
+title_ai: true
 description: "La brecha digital en Paraguay profundiza la desigualdad mientras el mercado adopta tecnologías avanzadas sin una estrategia de inclusión equitativa."
 description_ai: true
 

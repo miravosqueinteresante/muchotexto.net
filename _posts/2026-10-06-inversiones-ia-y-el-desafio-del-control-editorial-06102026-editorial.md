@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inversiones, IA y el desafío del control"
+title: "Itaipú impulsa la red digital"
+title_ai: true
 description: "Los millones de Itaipú destinados a la ANDE fortalecen la infraestructura digital y energética de Paraguay frente a los nuevos desafíos tecnológicos."
 description_ai: true
 

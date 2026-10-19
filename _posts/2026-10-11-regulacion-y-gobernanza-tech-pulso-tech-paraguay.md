@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 11 oct"
+title: "DOMINGO 11 de octubre de 2026 Ultima"
+title_ai: true
 description: "La Ley Nº 7424 elimina la mora y agiliza los trámites inmobiliarios en Paraguay mediante la exitosa digitalización y unificación de datos públicos."
 description_ai: true
 date: 2026-10-11

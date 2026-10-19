@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Ciberseguridad, el desafío del sistema"
+title: "Urge blindar el sistema financiero"
+title_ai: true
 description: "La evolución de los ciberataques en el sistema financiero exige actualizar la ciberseguridad en Paraguay para proteger la economía digital."
 description_ai: true
 

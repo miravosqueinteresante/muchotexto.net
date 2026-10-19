@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Agresiones y Seguridad en"
+title: "Inseguridad alarma en Canindeyú"
+title_ai: true
 description: "El ataque a una comisaría en Canindeyú y la creciente inseguridad ciudadana marcan la agenda del día en Paraguay con alta tensión social."
 description_ai: true
 

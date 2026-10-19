@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Paraguay vs. Australia en."
+title: "Paraguay y Australia se juegan el pase"
+title_ai: true
 description: "La Albirroja enfrenta a Australia buscando asegurar su pase a los dieciseisavos de final en un partido clave del Mundial 2026."
 description_ai: true
 

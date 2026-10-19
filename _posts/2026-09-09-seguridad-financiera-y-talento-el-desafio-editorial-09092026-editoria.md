@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad financiera y talento, el desafío"
+title: "El Senado solicitó informes al Banco"
+title_ai: true
 description: "El Congreso exige informes al Banco Central sobre fraudes cibernéticos, evidenciando los desafíos en ciberseguridad y talento informático en Paraguay."
 description_ai: true
 

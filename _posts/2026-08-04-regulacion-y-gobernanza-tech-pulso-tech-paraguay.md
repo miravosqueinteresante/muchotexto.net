@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 4 ago"
+title: "Convocan audiencia por fraudes"
+title_ai: true
 description: "El Congreso convoca a una audiencia pública para frenar los fraudes cibernéticos y exigir mayores estándares de ciberseguridad al sector fintech."
 description_ai: true
 date: 2026-08-04

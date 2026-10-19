@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Caso Kattya"
+title: "Filizzola pide destituir a ministros"
+title_ai: true
 
 
 

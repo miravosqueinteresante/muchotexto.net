@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inseguridad y confianza institucional"
+title: "Crisis carcelaria golpea al Estado"
+title_ai: true
 description: "Las crisis en las penitenciarías de Misiones y Oviedo profundizan la crisis de inseguridad y la desconfianza institucional en Paraguay."
 description_ai: true
 

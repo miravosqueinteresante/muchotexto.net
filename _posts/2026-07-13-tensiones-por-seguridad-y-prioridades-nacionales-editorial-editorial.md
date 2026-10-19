@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Tensiones por seguridad y prioridades."
+title: "Inseguridad caldea los ánimos"
+title_ai: true
 description: "La seguridad ciudadana en Paraguay genera preocupación y debate tras recientes hechos de violencia y cambios en la cúpula policial."
 description_ai: true
 

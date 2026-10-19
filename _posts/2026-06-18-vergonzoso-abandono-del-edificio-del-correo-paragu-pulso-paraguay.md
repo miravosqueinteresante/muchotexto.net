@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Vergonzoso abandono del"
+title: "Abandono del Correo Paraguayo"
+title_ai: true
 description: "El abandono del edificio del Correo Paraguayo genera críticas ciudadanas ante el riesgo de derrumbe y la falta de mantenimiento estatal."
 description_ai: true
 

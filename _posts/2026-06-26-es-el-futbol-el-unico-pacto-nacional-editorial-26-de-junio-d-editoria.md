@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "¿Es el fútbol el único pacto nacional?"
+title: "Fútbol y crisis: el pacto que nos une"
+title_ai: true
 description: "La Albirroja paraliza Paraguay en el Mundial mientras la corrupción, la crisis educativa y la impunidad política dominan la agenda nacional."
 description_ai: true
 

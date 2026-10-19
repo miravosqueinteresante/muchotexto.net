@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Alerta de tormentas en."
+title: "Alerta de tormentas en cinco departamentos"
+title_ai: true
 description: "Cinco departamentos registran alerta de tormentas mientras avanza una jornada marcada por la alta tensión social y política en el país."
 description_ai: true
 

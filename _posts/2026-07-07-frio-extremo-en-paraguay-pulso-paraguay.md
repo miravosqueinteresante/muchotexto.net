@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Frío extremo en Paraguay"
+title: "Ola polar azota al país con heladas"
+title_ai: true
 description: "El frío extremo en Paraguay y las heladas generalizadas en la Región Oriental generan gran preocupación en la población."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 15 oct"
+title: "JUEVES 15 de octubre de 2026 Ultima"
+title_ai: true
 description: "Funcionarios de Petropar se capacitaron en inteligencia artificial para optimizar la gestión pública y administrativa."
 description_ai: true
 date: 2026-10-15

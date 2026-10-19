@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Desprolijidades en."
+title: "Detectan desprolijidades en auditoría"
+title_ai: true
 description: "La Contraloría confirmó irregularidades en la gestión pública según el informe de auditoría que genera gran debate sobre la transparencia estatal."
 description_ai: true
 

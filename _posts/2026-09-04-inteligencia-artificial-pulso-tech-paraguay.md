@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 4 set"
+title: "Paraguay impulsa agro con IA"
+title_ai: true
 description: "Paraguay implementa aeronaves no tripuladas con inteligencia artificial para optimizar la fumigación agrícola y liderar la innovación regional en el agro."
 description_ai: true
 date: 2026-09-04

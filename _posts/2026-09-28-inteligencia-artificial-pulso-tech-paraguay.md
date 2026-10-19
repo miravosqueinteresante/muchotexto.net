@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 28 set"
+title: "LUNES 28 de setiembre de 2026 Ultima"
+title_ai: true
 description: "Líderes globales y expertos exigen normativas estrictas para controlar los agentes autónomos ante el avance de la inteligencia artificial."
 description_ai: true
 date: 2026-09-28

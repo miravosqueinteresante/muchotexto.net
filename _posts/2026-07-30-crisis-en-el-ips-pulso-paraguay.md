@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Crisis en el IPS"
+title: "Prometen fármacos en IPS"
+title_ai: true
 description: "La crisis en el IPS genera un fuerte debate por la falta de medicamentos y las constantes denuncias sobre la deficiente atención a los asegurados."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Ética y seguridad, el nuevo desafío"
+title: "IA: ética y seguridad en Paraguay"
+title_ai: true
 description: "La Semana Social Paraguaya 2026 debatió la inteligencia artificial y la necesidad de priorizar la ciberseguridad en la gobernanza digital nacional."
 description_ai: true
 

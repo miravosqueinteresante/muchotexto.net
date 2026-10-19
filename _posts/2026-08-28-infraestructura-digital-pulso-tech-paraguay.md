@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 28 ago"
+title: "Pericia informática en Copaco por desvío"
+title_ai: true
 description: "Fiscalía intervino COPACO para una pericia informática por desvío de fondos, mientras el debate sobre ciberseguridad e inteligencia artificial crece."
 description_ai: true
 date: 2026-08-28

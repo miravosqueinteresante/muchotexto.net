@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Caso María Fernanda"
+title: "Nuevas revelaciones en caso María Fernanda"
+title_ai: true
 description: "Nuevos testimonios en el caso María Fernanda revelan pedidos de borrar el celular y el uso de medicamentos abortivos que complican la investigación."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura: cuello de botella global"
+title: "Infraestructura crítica y desarrollo en IA"
+title_ai: true
 description: "La infraestructura digital y los semiconductores definen el futuro de la inteligencia artificial y los desafíos globales de Paraguay."
 description_ai: true
 

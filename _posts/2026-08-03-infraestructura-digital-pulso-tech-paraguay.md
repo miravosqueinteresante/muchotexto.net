@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 3 ago"
+title: "LUNES 3 de agosto de 2026 Ultima"
+title_ai: true
 description: "La reforma de la Ley de Comercio Electrónico y el nuevo sistema de identidad digital buscan blindar el ecosistema digital paraguayo contra el cibercrimen."
 description_ai: true
 date: 2026-08-03

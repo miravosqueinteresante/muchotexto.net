@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Falta de medicamentos en."
+title: "Reclaman falta de fármacos en el IPS"
+title_ai: true
 description: "Los asegurados del IPS exigen soluciones urgentes ante la persistente falta de medicamentos que afecta la atención médica en la institución."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 17 set"
+title: "JUEVES 17 de setiembre de 2026 Ultima"
+title_ai: true
 description: "El MIC destacó el potencial de Paraguay en almacenamiento de energía y robótica, mientras el TSJE enfrenta pedidos de auditoría electoral."
 description_ai: true
 date: 2026-09-17

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Cuando el sistema colapsa"
+title: "Crisis y renuncia masiva en el IPS"
+title_ai: true
 description: "La renuncia masiva en el IPS expone los graves problemas de gestión y la profunda crisis del sistema de salud pública en Paraguay."
 description_ai: true
 

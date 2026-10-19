@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "INTELIGENCIA ARTIFICIAL · 17 oct"
+title: "SÁBADO 17 de octubre de 2026 Ultima"
+title_ai: true
 description: "La inteligencia artificial en Paraguay exige conectar educación y empleo para evitar que aumenten las brechas sociales en el país."
 description_ai: true
 date: 2026-10-17

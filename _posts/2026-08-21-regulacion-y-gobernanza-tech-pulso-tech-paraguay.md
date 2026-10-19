@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Regulación y gobernanza · 21 ago"
+title: "Impulsan digitalización municipal"
+title_ai: true
 description: "La Municipalidad de Asunción impulsa la innovación digital y se oficializa la inclusión financiera para modernizar la gestión pública."
 description_ai: true
 date: 2026-08-21

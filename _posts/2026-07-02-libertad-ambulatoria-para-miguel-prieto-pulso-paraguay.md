@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Libertad ambulatoria para."
+title: "Otorgan libertad a Miguel Prieto"
+title_ai: true
 description: "Otorgan libertad ambulatoria a Miguel Prieto en el Caso Tajy, generando debate en la política paraguaya y diversas reacciones ciudadanas."
 description_ai: true
 

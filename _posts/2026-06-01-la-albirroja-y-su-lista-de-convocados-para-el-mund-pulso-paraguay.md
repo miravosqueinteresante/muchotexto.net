@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: La Albirroja y su lista de"
+title: "La lista de convocados de la Albirroja"
+title_ai: true
 
 
 

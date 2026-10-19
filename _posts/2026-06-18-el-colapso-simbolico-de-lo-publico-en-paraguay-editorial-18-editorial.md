@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "El colapso simbólico de lo público en"
+title: "El abandono del Correo Paraguayo"
+title_ai: true
 description: "El abandono del edificio del Correo Paraguayo refleja la profunda fragilidad institucional y el deterioro de la infraestructura estatal en el país."
 description_ai: true
 

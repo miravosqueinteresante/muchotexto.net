@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Inteligencia artificial · 13 ago"
+title: "IA optimiza al sector financiero"
+title_ai: true
 description: "El sector financiero paraguayo adopta la inteligencia artificial para captar clientes, reducir costos y mejorar su eficiencia operativa actual."
 description_ai: true
 date: 2026-08-13

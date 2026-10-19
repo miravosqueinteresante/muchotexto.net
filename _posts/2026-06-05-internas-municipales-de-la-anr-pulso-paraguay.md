@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Internas municipales de la"
+title: "Internas de la ANR: 16.848 candidatos"
+title_ai: true
 
 
 

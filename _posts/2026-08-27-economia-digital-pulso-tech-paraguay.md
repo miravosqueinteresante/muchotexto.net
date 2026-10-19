@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Digital · 27 ago"
+title: "Bancard impulsa pagos digitales"
+title_ai: true
 description: "OpenAI abre su primera oficina regional en Brasil mientras la Unión Europea exige mayor seguridad a Meta para proteger a los menores."
 description_ai: true
 date: 2026-08-27

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Frustración deportiva y tensiones sociales"
+title: "Frustración y tensión social en el país"
+title_ai: true
 description: "La derrota ante Francia y las tensiones políticas elevan la temperatura social en Paraguay, reflejando un profundo descontento colectivo actual."
 description_ai: true
 date: 2026-07-05 18:00:00 -0400

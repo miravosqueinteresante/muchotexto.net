@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Celebraciones y desafíos: el impacto del."
+title: "Festejos y desafíos tras la Albirroja"
+title_ai: true
 description: "El triunfo histórico de Paraguay sobre Alemania en el Mundial 2026 desató una euforia nacional que también expuso graves tensiones sociales."
 description_ai: true
 

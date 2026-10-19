@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Hospital Acosta Ñu y."
+title: "Alerta por cuadros respiratorios"
+title_ai: true
 description: "Los cuadros respiratorios superan el sesenta por ciento de las consultas en el Hospital Acosta Ñu y encienden las alertas en la salud pública del país."
 description_ai: true
 

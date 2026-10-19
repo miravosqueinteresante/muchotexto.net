@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Solidaridad y desafíos estructurales en."
+title: "Crisis de salud y deuda estatal"
+title_ai: true
 description: "Las rifas para niños cardiópatas exponen la crisis de la salud pública en Paraguay y la persistente falta de respuestas estatales."
 description_ai: true
 

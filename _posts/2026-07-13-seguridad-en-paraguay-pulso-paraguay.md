@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Seguridad en Paraguay"
+title: "Preocupa la inseguridad en el país"
+title_ai: true
 description: "La creciente inseguridad en Paraguay genera alta preocupación ciudadana tras la mudanza de la Comandancia y graves hechos de violencia."
 description_ai: true
 

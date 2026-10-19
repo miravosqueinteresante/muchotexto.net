@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura digital · 5 oct"
+title: "Lanzan plataforma MIC MAP"
+title_ai: true
 description: "El Ministerio de Industria y Comercio lanzó la plataforma MIC MAP para centralizar datos estratégicos y facilitar nuevas inversiones en el país."
 description_ai: true
 date: 2026-10-05

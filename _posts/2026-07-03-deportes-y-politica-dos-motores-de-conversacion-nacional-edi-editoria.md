@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Deportes y política: dos motores del debate"
+title: "Fútbol y política mueven al país"
+title_ai: true
 description: "La victoria de Paraguay ante Alemania en el Mundial 2026 y el inicio de las elecciones municipales en Asunción dominan el debate nacional."
 description_ai: true
 date: 2026-07-03 18:00:00 -0400

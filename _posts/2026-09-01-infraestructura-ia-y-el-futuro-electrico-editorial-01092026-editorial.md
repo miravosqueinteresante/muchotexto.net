@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Infraestructura, IA y el futuro eléctrico"
+title: "Apuesta solar y IA en la red eléctrica"
+title_ai: true
 description: "La licitación de energía solar en el Chaco y la inteligencia artificial marcan el futuro eléctrico de Paraguay hacia una mayor eficiencia."
 description_ai: true
 

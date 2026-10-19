@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Justicia y violencia, tensiones en Paraguay"
+title: "Tensiones y crisis en la justicia"
+title_ai: true
 description: "La captura de la viuda negra en Yby Pytá y los debates sobre la independencia judicial exponen las tensiones sociales y estructurales en Paraguay."
 description_ai: true
 

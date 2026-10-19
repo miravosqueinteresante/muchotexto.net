@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 17 ago"
+title: "Elevan a ministerio el área de energía"
+title_ai: true
 description: "La creación del Ministerio de Minas y Energía busca atraer inversiones en data centers y ordenar la demanda eléctrica en Paraguay."
 description_ai: true
 date: 2026-08-17

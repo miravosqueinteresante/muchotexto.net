@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Tensiones sociales y vulnerabilidad."
+title: "Vulnerabilidad social y crisis en el país"
+title_ai: true
 description: "La alta vulnerabilidad social en Paraguay se profundiza por las alertas climáticas, la inseguridad y la desconfianza hacia las instituciones públicas."
 description_ai: true
 

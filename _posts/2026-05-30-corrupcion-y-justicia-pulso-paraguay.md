@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Corrupción y Justicia"
+title: "Crece indignación por corrupción judicial"
+title_ai: true
 
 
 

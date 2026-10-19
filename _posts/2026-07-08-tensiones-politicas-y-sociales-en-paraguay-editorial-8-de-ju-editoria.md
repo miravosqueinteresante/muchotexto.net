@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Entre política y fútbol — Editorial"
+title: "Política, fútbol y tensión en el debate"
+title_ai: true
 description: "El cruce entre Celeste Amarilla y Kylian Mbappé domina el debate político en Paraguay y genera una fuerte polarización institucional."
 description_ai: true
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seguridad urbana y riesgos de la IA, el."
+title: "La habilitación del nuevo centro"
+title_ai: true
 description: "El nuevo centro de monitoreo en Pilar expone la urgencia de fortalecer la ciberseguridad ante los riesgos de la inteligencia artificial."
 description_ai: true
 

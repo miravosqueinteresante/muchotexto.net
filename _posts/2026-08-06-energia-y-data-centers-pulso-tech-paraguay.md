@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Energía y data centers · 6 ago"
+title: "Estudian suba de luz de la ANDE"
+title_ai: true
 description: "Un estudio proyecta un aumento de hasta 45,6% en la tarifa eléctrica de la ANDE, afectando la infraestructura digital y los data centers en Paraguay."
 description_ai: true
 date: 2026-08-06

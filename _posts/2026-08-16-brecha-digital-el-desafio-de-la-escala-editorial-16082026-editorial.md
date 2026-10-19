@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Brecha digital, el desafío de la escala"
+title: "Brecha digital y el desafío de escala"
+title_ai: true
 description: "La brecha digital en Paraguay evidencia una modernización bancaria avanzada que contrasta con la falta de debate sobre su impacto humano y social."
 description_ai: true
 

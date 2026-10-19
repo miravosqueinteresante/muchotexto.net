@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Elecciones internas de la."
+title: "Internas de la ANR avanzan hoy"
+title_ai: true
 
 
 

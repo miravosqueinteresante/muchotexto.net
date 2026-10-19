@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Asalto y seguridad en."
+title: "Alerta por inseguridad en Asunción"
+title_ai: true
 description: "La creciente ola de inseguridad y la detención de presuntos criminales en Asunción generan profunda preocupación sobre la seguridad ciudadana."
 description_ai: true
 

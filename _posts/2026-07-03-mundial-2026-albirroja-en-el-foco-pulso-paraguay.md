@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pulso Paraguay: Mundial 2026: Albirroja."
+title: "Histórica victoria de la Albirroja"
+title_ai: true
 description: "La histórica victoria de la Albirroja en el Mundial 2026 desata orgullo nacional, elecciones en Asunción y créditos de vivienda."
 description_ai: true
 
