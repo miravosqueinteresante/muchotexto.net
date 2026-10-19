@@ -307,8 +307,27 @@ def check_posts_desc_ellipsis():
         txt = read(os.path.join(REPO, "_posts", full + ".md"))
         for field in ("description", "resumen"):
             m = re.search(rf'^{field}:\s*"([^"]*)"', txt, re.M)
-            if m and m.group(1).rstrip().endswith("…"):
+            if m and m.group(1).rstrip().endswith(("...", "…")):
                 findings.append((full, field))
+    return findings
+
+
+def check_dup_frontmatter_keys():
+    """Claves repetidas en el front matter: YAML toma la ultima en silencio,
+    asi que un 'description:' duplicado publica un valor distinto al editado."""
+    findings = []
+    for path in glob.glob(os.path.join(REPO, "_posts", "*.md")):
+        txt = read(path)
+        m = re.match(r"---\s*\n(.*?)\n---", txt, re.S)
+        if not m:
+            continue
+        seen, dups = set(), []
+        for key in re.findall(r"^([a-zA-Z_]+):", m.group(1), re.M):
+            if key in seen and key not in dups:
+                dups.append(key)
+            seen.add(key)
+        if dups:
+            findings.append((os.path.basename(path), dups))
     return findings
 
 
@@ -583,6 +602,12 @@ def main():
     # INV-20: description/resumen no terminan en '...'
     for slug, field in check_posts_desc_ellipsis():
         errors.append(f"[INV-20] '{slug}': el campo '{field}' termina en '...'")
+
+    # INV-21: sin claves duplicadas en el front matter
+    for slug, keys in check_dup_frontmatter_keys():
+        errors.append(
+            f"[INV-21] '{slug}': claves duplicadas en front matter: {', '.join(keys)}"
+        )
 
     # INV-9: _data/fuentes.yml == fallback inline de pulso_diario.py
     yml_feeds = parse_named_url_yaml(os.path.join(REPO, "_data/fuentes.yml"))

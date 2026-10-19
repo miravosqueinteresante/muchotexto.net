@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Pulso Paraguay: Pérdida de investidura de"
-description: "Pérdida de investidura de Kattya González: La decisión de la Corte sobre la pérdida de investidura de la senadora ha generado un intenso debate en redes."
 
 
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Pulso Paraguay: Elecciones internas."
-description: "Elecciones internas municipales: Las elecciones internas municipales del próximo domingo generan un intenso debate y movimientos políticos significativos."
 
 
 

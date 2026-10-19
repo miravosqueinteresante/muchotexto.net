@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Pulso Paraguay: Crisis en Neonatología del"
-description: "Crisis en Neonatología del IPS: La renuncia masiva de médicos pone en riesgo la atención neonatal en el país. Pulso Tech Paraguay — 16 de junio de 2026."
 
 
 
@@ -20,7 +19,7 @@ description: "Crisis en Neonatología del IPS: La renuncia masiva de médicos po
 last_modified_at: 2026-06-16
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Crisis en Neonatología del IPS: renuncia másiva de médicos pone en riesgo la atención neonatal. Reporte diario de noticias de Paraguay del 16 de junio de 2026."
+description: "Crisis en Neonatología del IPS: renuncia másiva de médicos pone en riesgo la atención neonatal. Reporte diario de noticias de Paraguay del 16 de junio de."
 ---
 
 PULSO DIARIO PARAGUAY  

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Pulso Paraguay: Imputación a Mauricio"
-description: "Imputación a Mauricio Espínola: La imputación del diputado por homicidio culposo tras un accidente de tránsito ha generado una fuerte controversia social."
 
 
 
