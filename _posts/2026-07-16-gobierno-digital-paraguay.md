@@ -7,7 +7,7 @@ categories: articulos
 pilar: 3
 resumen: "Paraguay tiene arquitectura de gobierno digital pero el ciudadano no puede renovar su cédula online."
 tags: sociedad-trabajo ia-paraguay
-description: "Paraguay ya tiene 1.5M de usuarios con Identidad Electrónica, 480 trámites online y cédula digital. Pero la cédula física se emite en persona. ¿Qué falta?"
+description: "Paraguay ya tiene 1.5M de usuarios con Identidad Electrónica, 480 trámites online y cédula digital. Pero la cédula física se emite en persona. ¿Qué."
 ---
 
 En 2000, un país báltico de 1,3 millones de habitantes lanzó su primer servicio de declaración de impuestos en línea. En 2001 activó X-Road, una capa de interoperabilidad que permite que todas las bases de datos del gobierno se hablen entre sí sin compartir información duplicada. En 2002 volvió obligatoria la cédula de identidad digital con chip criptográfico. En 2005 introdujo el voto por internet. En 2014 lanzó la e-Residency para no residentes. Hoy, Estonia tiene el 99% de sus servicios públicos disponibles en línea, ahorra el equivalente al 2% de su PIB en tiempo de los ciudadanos y es el estándar global de gobierno digital.

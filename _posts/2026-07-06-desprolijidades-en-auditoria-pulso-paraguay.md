@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Desprolijidades en."
-description: "Desprolijidades en auditoría: Las revelaciones sobre el informe de la Contraloría General de la República están generando gran respuesta en la ciudadanía…"
+description: "Desprolijidades en auditoría: Las revelaciones sobre el informe de la Contraloría General de la República están generando gran respuesta en la ciudadanía."
 
 
 

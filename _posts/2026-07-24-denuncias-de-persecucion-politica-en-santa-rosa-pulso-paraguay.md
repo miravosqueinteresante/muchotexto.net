@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Denuncias de persecución."
-description: "Denuncias de persecución política en Santa Rosa del Aguaray: La denuncia del intendente interino ha generado un fuerte eco en redes y medios, marcando el 1…"
+description: "Denuncias de persecución política en Santa Rosa del Aguaray: La denuncia del intendente interino ha generado un fuerte eco en redes y medios, marcando el 1."
 
 
 

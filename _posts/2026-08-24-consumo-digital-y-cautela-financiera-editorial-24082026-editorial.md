@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consumo digital y cautela financiera"
-description: "El comercio electrónico en Paraguay multiplicó su volumen por nueve en los últimos cinco años, consolidándose como el motor principal de la transformación."
+description: "El comercio electrónico en Paraguay multiplicó su volumen por nueve en los últimos cinco años, consolidándose como el motor principal de la."
 
 
 

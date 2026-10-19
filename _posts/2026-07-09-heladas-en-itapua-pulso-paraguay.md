@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Heladas en Itapúa"
-description: "Heladas en Itapúa: Las heladas han impactado la producción agrícola en Itapúa, generando preocupación entre los productores. Pulso Tech Paraguay — 9 de julio…"
+description: "Heladas en Itapúa: Las heladas han impactado la producción agrícola en Itapúa, generando preocupación entre los productores. Pulso Tech Paraguay — 9 de."
 
 
 

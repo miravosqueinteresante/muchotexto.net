@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inteligencia artificial · 14 oct"
-description: "PULSO TECH PARAGUAY MIÉRCOLES 14 de octubre de 2026 Ultima actualizacion: 17:45 🤖 INTELIGENCIA ARTIFICIAL Más de 400 científicos y la organización Google..."
+description: "PULSO TECH PARAGUAY MIÉRCOLES 14 de octubre de 2026 Ultima actualizacion: 17:45 🤖 INTELIGENCIA ARTIFICIAL Más de 400 científicos y la organización."
 date: 2026-10-14
 last_modified_at: 2026-10-14
 categories: pulso-paraguay

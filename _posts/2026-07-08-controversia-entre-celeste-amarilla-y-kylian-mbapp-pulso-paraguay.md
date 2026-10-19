@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Controversia entre."
-description: "Controversia entre Celeste Amarilla y Kylian Mbappé: La disputa sobre los comentarios de la diputada Celeste Amarilla respecto a Mbappé ha desatado un intenso…"
+description: "Controversia entre Celeste Amarilla y Kylian Mbappé: La disputa sobre los comentarios de la diputada Celeste Amarilla respecto a Mbappé ha desatado un."
 
 
 

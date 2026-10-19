@@ -7,7 +7,7 @@ categories: articulos
 pilar: 3
 resumen: "Cinco países hicieron el salto de materias primas a tecnología."
 tags: tech-ecosistema paraguay-futuro
-description: "El 42% de las exportaciones de Paraguay es soja. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Puede Paraguay hacer lo mismo?"
+description: "El 42% de las exportaciones de Paraguay es soja. Cinco países ya hicieron el salto de materias primas a tecnología. ¿Puede Paraguay hacer lo mismo?."
 ---
 
 En 2022, una sequía redujo la cosecha de soja paraguaya en un 60%. Las exportaciones se desplomaron. El PIB creció 0.2% en vez del 4% proyectado. Un solo producto, un solo evento climático, un país entero frenado. Ese episodio no fue una anomalía: fue una radiografía. Paraguay exporta aproximadamente 17.000 millones de dólares al año, de los cuales el complejo soja representa alrededor del 42% y la carne bovina otro 17%. Dos productos concentran cerca del 60% de las divisas que ingresan al país. Y Brasil compra el 31% de todo lo que Paraguay vende al mundo.

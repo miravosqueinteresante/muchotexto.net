@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Selección Paraguaya y su"
-description: "Selección Paraguaya y su debut en el Mundial: La caída de Paraguay ante Estados Unidos en su primer partido mundialista ha generado una gran conversación en…"
+description: "Selección Paraguaya y su debut en el Mundial: La caída de Paraguay ante Estados Unidos en su primer partido mundialista ha generado una gran conversación en."
 
 
 

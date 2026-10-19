@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Falta de medicamentos en."
-description: "Falta de medicamentos en IPS: La falta de medicamentos en el IPS genera preocupación entre los asegurados, quienes reclaman una mejor gestión de la…"
+description: "Falta de medicamentos en IPS: La falta de medicamentos en el IPS genera preocupación entre los asegurados, quienes reclaman una mejor gestión de la."
 
 
 

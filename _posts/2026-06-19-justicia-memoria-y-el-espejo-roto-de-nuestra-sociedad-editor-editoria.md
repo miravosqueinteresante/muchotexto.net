@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Justicia, memoria y el espejo roto"
-description: "Los juicios siempre han sido más que un trámite legal. Son espejos donde nos miramos como sociedad, a veces con orgullo, más a menudo con desazón. El caso..."
+description: "Los juicios siempre han sido más que un trámite legal. Son espejos donde nos miramos como sociedad, a veces con orgullo, más a menudo con desazón. El."
 date: 2026-06-19 18:00:00 -0400
 last_modified_at: 2026-06-19
 categories: editorial

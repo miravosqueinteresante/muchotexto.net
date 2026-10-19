@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: El lunes sube el."
-description: "El lunes sube el combustible y se aprieta el bolsillo: Varios emblemas privados ya confirmaron que desde el lunes los precios en los surtidores se van para…"
+description: "El lunes sube el combustible y se aprieta el bolsillo: Varios emblemas privados ya confirmaron que desde el lunes los precios en los surtidores se van para."
 
 
 

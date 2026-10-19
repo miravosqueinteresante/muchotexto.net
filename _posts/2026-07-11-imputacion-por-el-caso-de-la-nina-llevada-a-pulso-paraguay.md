@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Imputación por el caso de."
-description: "Imputación por el caso de la niña llevada a Argentina: El caso de la niña llevada ilegalmente a Argentina ha generado un fuerte volumen de conversación…"
+description: "Imputación por el caso de la niña llevada a Argentina: El caso de la niña llevada ilegalmente a Argentina ha generado un fuerte volumen de conversación."
 
 
 

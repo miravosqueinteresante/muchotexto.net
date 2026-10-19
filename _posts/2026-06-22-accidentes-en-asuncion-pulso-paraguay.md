@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Accidentes en Asunción"
-description: "Accidentes en Asunción: Los accidentes frente a la Municipalidad de Asunción han generado gran preocupación y debate en la ciudadanía. Pulso Tech Paraguay —…"
+description: "Accidentes en Asunción: Los accidentes frente a la Municipalidad de Asunción han generado gran preocupación y debate en la ciudadanía. Pulso Tech Paraguay."
 
 
 

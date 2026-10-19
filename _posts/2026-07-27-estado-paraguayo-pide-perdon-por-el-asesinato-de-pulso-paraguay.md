@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Estado paraguayo pide."
-description: "Estado paraguayo pide perdón por el asesinato de Santiago Leguizamón: La disculpa oficial ha generado un gran debate sobre derechos humanos y justicia en el…"
+description: "Estado paraguayo pide perdón por el asesinato de Santiago Leguizamón: La disculpa oficial ha generado un gran debate sobre derechos humanos y justicia en el."
 
 
 

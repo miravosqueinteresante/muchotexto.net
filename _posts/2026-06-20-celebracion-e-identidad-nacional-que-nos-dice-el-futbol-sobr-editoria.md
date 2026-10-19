@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fútbol e identidad nacional en Paraguay"
-description: "La Albirroja ganó y el país estalló. En el sentido más literal del término. Desde el histórico triunfo ante Turquía, Paraguay vive un paroxismo colectivo...."
+description: "La Albirroja ganó y el país estalló. En el sentido más literal del término. Desde el histórico triunfo ante Turquía, Paraguay vive un paroxismo."
 date: 2026-06-20 18:00:00 -0400
 last_modified_at: 2026-06-20
 categories: editorial

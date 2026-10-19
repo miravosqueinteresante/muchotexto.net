@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Crisis de salud infantil"
-description: "Crisis de salud infantil: Las rifas para salvar a niños cardiópatas han generado una fuerte conversación en redes sociales. Pulso Tech Paraguay — 27 de junio…"
+description: "Crisis de salud infantil: Las rifas para salvar a niños cardiópatas han generado una fuerte conversación en redes sociales. Pulso Tech Paraguay — 27 de."
 
 
 

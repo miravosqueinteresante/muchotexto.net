@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Festejos por la Albirroja"
-description: "Festejos por la Albirroja: Los festejos por la victoria de Paraguay en el Mundial 2026 han generado un alto volumen de conversación y actividad en redes…"
+description: "Festejos por la Albirroja: Los festejos por la victoria de Paraguay en el Mundial 2026 han generado un alto volumen de conversación y actividad en redes."
 
 
 

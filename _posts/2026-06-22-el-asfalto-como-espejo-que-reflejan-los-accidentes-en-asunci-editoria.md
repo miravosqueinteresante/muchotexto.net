@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El asfalto como espejo de los accidentes"
-description: "Asunción amaneció hoy con estadísticas alarmantes que, más allá de los números, son un reflejo incómodo de cómo vivimos, gestionamos y nos relacionamos..."
+description: "Asunción amaneció hoy con estadísticas alarmantes que, más allá de los números, son un reflejo incómodo de cómo vivimos, gestionamos y nos."
 date: 2026-06-22 18:00:00 -0400
 last_modified_at: 2026-06-22
 categories: editorial

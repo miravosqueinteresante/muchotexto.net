@@ -7,7 +7,7 @@ categories: articulos
 pilar: 4
 resumen: "Asunción, 2.5 millones de habitantes, cero smart cities. Medellín hizo un metrocable por USD 26M. ¿Qué falta en Paraguay?"
 tags: tech-ecosistema ia-paraguay
-description: "Asunción tiene 2.5 millones de habitantes y cero smart cities. Medellín hizo un metrocable por USD 26M. Santiago tiene 2.000 buses eléctricos. ¿Qué falta?"
+description: "Asunción tiene 2.5 millones de habitantes y cero smart cities. Medellín hizo un metrocable por USD 26M. Santiago tiene 2.000 buses eléctricos. ¿Qué falta?."
 ---
 
 Medellín tiene un sistema de teleféricos públicos que conecta barrios pobres con el metro. Seis líneas, 14 kilómetros, 22 millones de pasajeros al año. La línea K costó 26 millones de dólares en 2004 y redujo un viaje de dos horas y media a 30 minutos. Los barrios que conectó registraron una caída medible de la criminalidad, documentada en el American Journal of Epidemiology. Medellín ganó el premio Lee Kuan Yew de Singapur en 2016, fue declarada la ciudad más innovadora del mundo en 2013, y hoy su empresa pública de servicios —EPM— transfiere cientos de millones de dólares al año a las arcas municipales.

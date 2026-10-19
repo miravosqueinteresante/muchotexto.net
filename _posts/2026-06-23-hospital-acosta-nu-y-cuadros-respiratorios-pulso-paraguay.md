@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Hospital Acosta Ñu y."
-description: "Hospital Acosta Ñu y cuadros respiratorios: Las preocupaciones sobre la salud pública son el tema más discutido del día, con un aumento significativo en…"
+description: "Hospital Acosta Ñu y cuadros respiratorios: Las preocupaciones sobre la salud pública son el tema más discutido del día, con un aumento significativo en."
 
 
 

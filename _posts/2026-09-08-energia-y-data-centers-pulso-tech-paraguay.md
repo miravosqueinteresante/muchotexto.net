@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Energía y data centers · 8 set"
-description: "PULSO TECH PARAGUAY MARTES 8 de setiembre de 2026 Ultima actualizacion: 16:30 ⚡ ENERGIA Y DATA CENTERS ANDE cierra con éxito campaña de regularización de..."
+description: "PULSO TECH PARAGUAY MARTES 8 de setiembre de 2026 Ultima actualizacion: 16:30 ⚡ ENERGIA Y DATA CENTERS ANDE cierra con éxito campaña de regularización."
 date: 2026-09-08
 last_modified_at: 2026-09-08
 categories: pulso-paraguay

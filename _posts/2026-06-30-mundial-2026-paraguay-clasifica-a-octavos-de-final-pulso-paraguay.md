@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial 2026: Paraguay."
-description: "Mundial 2026: Paraguay clasifica a octavos de final: La histórica victoria de Paraguay sobre Alemania ha desatado una ola de celebraciones en todo el país…"
+description: "Mundial 2026: Paraguay clasifica a octavos de final: La histórica victoria de Paraguay sobre Alemania ha desatado una ola de celebraciones en todo el país."
 
 
 

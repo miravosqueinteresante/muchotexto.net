@@ -7,7 +7,7 @@ categories: articulos
 pilar: 2
 resumen: "TSMC fabrica más del 90% de los chips avanzados del mundo. Paraguay tiene energía, agua y la alianza diplomática. ¿Por qué no hay una fábrica?"
 tags: geopolitica-regulacion ia-paraguay
-description: "Paraguay tiene la electricidad más barata de Sudamérica, el Acuífero Guaraní y una alianza con Taiwán. ¿Por qué no hay una fábrica de chips? Los números."
+description: "Paraguay tiene la electricidad más barata de Sudamérica, el Acuífero Guaraní y una alianza con Taiwán. ¿Por qué no hay una fábrica de chips? Los."
 ---
 
 Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para existir. El mundo entero aprendió esta lección durante la pandemia: cuando las fábricas de chips se frenan, todo lo demás se frena con ellas.

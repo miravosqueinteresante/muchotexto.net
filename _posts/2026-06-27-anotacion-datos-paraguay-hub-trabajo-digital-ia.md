@@ -7,7 +7,7 @@ categories: articulos
 pilar: 3
 resumen: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos."
 tags: sociedad-trabajo ia-paraguay
-description: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos por centavos. ¿Puede Paraguay ser el hub de anotación de datos para IA?"
+description: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando datos por centavos. ¿Puede Paraguay ser el hub de anotación de datos para IA?."
 ---
 
 Cada vez que un modelo de inteligencia artificial responde una pregunta, traduce un texto o identifica un objeto en una imagen, hubo un ser humano que lo entrenó. Uno que etiquetó datos durante horas por centavos de dólar. Uno cuyo nombre no aparece en ninguna parte. La industria de la anotación de datos —valorada en 3.600 millones de dólares y con un crecimiento anual del 33%— es la cadena de suministro invisible de la inteligencia artificial. Y Paraguay, sin proponérselo, reúne varias de las condiciones para convertirse en un nodo relevante de esa cadena.

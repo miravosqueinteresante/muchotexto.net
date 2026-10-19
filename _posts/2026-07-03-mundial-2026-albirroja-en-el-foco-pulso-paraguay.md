@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Mundial 2026: Albirroja."
-description: "Mundial 2026: Albirroja en el foco: La victoria de Paraguay ante Alemania ha desatado una ola de orgullo y conversación nacional. Pulso Tech Paraguay — 3 de…"
+description: "Mundial 2026: Albirroja en el foco: La victoria de Paraguay ante Alemania ha desatado una ola de orgullo y conversación nacional. Pulso Tech Paraguay — 3 de."
 
 
 

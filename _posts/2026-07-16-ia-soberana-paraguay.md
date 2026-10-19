@@ -7,7 +7,7 @@ categories: articulos
 pilar: 2
 resumen: "Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?"
 tags: geopolitica-regulacion ia-paraguay
-description: "Cada país debería tener su propia IA, dice Jensen Huang. Paraguay tiene GPU, datos y un idioma que ningún modelo habla. ¿Soberanía o marketing?"
+description: "Cada país debería tener su propia IA, dice Jensen Huang. Paraguay tiene GPU, datos y un idioma que ningún modelo habla. ¿Soberanía o marketing?."
 ---
 
 En 2023, Jensen Huang —el CEO de NVIDIA, la empresa que fabrica los chips que entrenan todos los modelos de inteligencia artificial del mundo— empezó a repetir una frase en cada entrevista: "sovereign AI". Cada país, según Huang, debería tener su propia infraestructura de inteligencia artificial. Sus propios datos. Sus propios modelos. Su propia nube.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Caso Kattya"
-description: "Caso Kattya: El tema de mayor conversación hoy es el caso de Kattya González, por el que se cuestiona la idoneidad de ciertos ministros. Pulso Tech Paraguay —…"
+description: "Caso Kattya: El tema de mayor conversación hoy es el caso de Kattya González, por el que se cuestiona la idoneidad de ciertos ministros. Pulso Tech Paraguay."
 
 
 

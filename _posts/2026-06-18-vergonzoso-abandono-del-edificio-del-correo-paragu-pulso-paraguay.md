@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Vergonzoso abandono del"
-description: "Vergonzoso abandono del edificio del Correo Paraguayo: El estado crítico del edificio ha generado un gran volumen de conversación sobre la falta de…"
+description: "Vergonzoso abandono del edificio del Correo Paraguayo: El estado crítico del edificio ha generado un gran volumen de conversación sobre la falta de."
 
 
 

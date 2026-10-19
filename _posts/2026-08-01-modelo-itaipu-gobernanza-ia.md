@@ -7,7 +7,7 @@ categories: articulos
 pilar: 2
 resumen: "Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA."
 tags: [geopolitica-regulacion, infraestructura-energia, paraguay-futuro, taiwan, gobernanza]
-description: "Itaipú fue el modelo binacional más exitoso de América Latina. Paraguay quiere replicarlo con Taiwán para Yguazú Digital. Lecciones de 50 años de historia."
+description: "Itaipú fue el modelo binacional más exitoso de América Latina. Paraguay quiere replicarlo con Taiwán para Yguazú Digital. Lecciones de 50 años de."
 ---
 
 El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), un centro de datos de inteligencia artificial que en su fase final podría consumir 1.000 megavatios. La estructura propuesta es familiar para cualquier paraguayo: una entidad binacional, 50% Paraguay, 50% Taiwán, modelada explícitamente sobre Itaipú. Pero la pregunta que casi nadie está haciendo es si ese modelo —diseñado en 1973 para gestionar una represa hidroeléctrica entre vecinos— puede funcionar para gobernar infraestructura de inteligencia artificial entre países separados por 19.000 kilómetros de océano.

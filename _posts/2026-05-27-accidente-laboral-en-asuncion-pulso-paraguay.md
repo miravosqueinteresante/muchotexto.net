@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Accidente laboral en."
-description: "Accidente laboral en Asunción: El trágico fallecimiento de un joven obrero ha generado gran preocupación en la sociedad acerca de la seguridad en el trabajo…"
+description: "Accidente laboral en Asunción: El trágico fallecimiento de un joven obrero ha generado gran preocupación en la sociedad acerca de la seguridad en el trabajo."
 
 
 

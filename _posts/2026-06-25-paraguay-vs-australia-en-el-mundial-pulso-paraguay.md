@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Paraguay vs. Australia en."
-description: "Paraguay vs. Australia en el Mundial: El partido decisivo para avanzar a los dieciseisavos genera gran expectativa en el país. Pulso Tech Paraguay — 25 de…"
+description: "Paraguay vs. Australia en el Mundial: El partido decisivo para avanzar a los dieciseisavos genera gran expectativa en el país. Pulso Tech Paraguay — 25 de."
 
 
 

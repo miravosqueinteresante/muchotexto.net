@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burocracia, justicia y control digital"
-description: "El Ministerio de Economía y Finanzas anunció la actualización del sistema Siara para el próximo 21 de setiembre, marcando un paso más en la digitalización."
+description: "El Ministerio de Economía y Finanzas anunció la actualización del sistema Siara para el próximo 21 de setiembre, marcando un paso más en la."
 
 
 

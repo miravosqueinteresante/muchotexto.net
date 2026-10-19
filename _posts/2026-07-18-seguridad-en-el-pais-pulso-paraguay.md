@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Seguridad en el país"
-description: "Seguridad en el país: La preocupación por la violencia y la seguridad pública se ha convertido en el tema más debatido del día. Pulso Tech Paraguay — 18 de…"
+description: "Seguridad en el país: La preocupación por la violencia y la seguridad pública se ha convertido en el tema más debatido del día. Pulso Tech Paraguay — 18."
 
 
 

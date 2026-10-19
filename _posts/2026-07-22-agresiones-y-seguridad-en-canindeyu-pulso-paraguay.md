@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Agresiones y Seguridad en"
-description: "Agresiones y Seguridad en Canindeyú: El ataque a una comisaría en Canindeyú genera gran preocupación en la población y un aumento en la discusión sobre la…"
+description: "Agresiones y Seguridad en Canindeyú: El ataque a una comisaría en Canindeyú genera gran preocupación en la población y un aumento en la discusión sobre."
 
 
 

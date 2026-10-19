@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Resultados de la."
-description: "Resultados de la selección paraguaya de fútbol: La derrota de Paraguay ante Francia en el Mundial generó gran conversación y análisis entre los aficionados…"
+description: "Resultados de la selección paraguaya de fútbol: La derrota de Paraguay ante Francia en el Mundial generó gran conversación y análisis entre los."
 
 
 

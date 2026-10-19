@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Internas municipales de la"
-description: "Internas municipales de la ANR: Las elecciones internas para la Asociación Nacional Republicana (ANR) generan un gran volumen de conversación a días del…"
+description: "Internas municipales de la ANR: Las elecciones internas para la Asociación Nacional Republicana (ANR) generan un gran volumen de conversación a días del."
 
 
 

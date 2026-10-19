@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Captura de la viuda negra."
-description: "Captura de la 'viuda negra' en Yby Pytá: La captura de la supuesta 'viuda negra' ha generado gran atención mediática y social. Pulso Tech Paraguay — 28 de…"
+description: "Captura de la 'viuda negra' en Yby Pytá: La captura de la supuesta 'viuda negra' ha generado gran atención mediática y social. Pulso Tech Paraguay — 28 de."
 
 
 

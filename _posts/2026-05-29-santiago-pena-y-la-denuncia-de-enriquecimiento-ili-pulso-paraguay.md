@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Santiago Peña y la."
-description: "Santiago Peña y la denuncia de enriquecimiento ilícito: Las acusaciones sobre el patrimonio del presidente generan un intenso debate en la política nacional…"
+description: "Santiago Peña y la denuncia de enriquecimiento ilícito: Las acusaciones sobre el patrimonio del presidente generan un intenso debate en la política nacional."
 
 
 

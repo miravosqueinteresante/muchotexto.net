@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Operativos contra…"
-description: "Operativos contra narcotraficantes: Las recientes operaciones en el Parque Nacional Paso Bravo han generado un gran volumen de conversación por las…"
+description: "Operativos contra narcotraficantes: Las recientes operaciones en el Parque Nacional Paso Bravo han generado un gran volumen de conversación por las."
 
 
 

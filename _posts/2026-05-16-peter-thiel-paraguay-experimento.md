@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "El experimento paraguayo de Peter Thiel"
 date: 2026-05-16
@@ -7,7 +7,7 @@ categories: articulos
 pilar: 2
 resumen: "El cofundador de Palantir se reunió con Santiago Peña en Mburuvicha Róga."
 tags: geopolitica-regulacion ia-paraguay
-description: "Peter Thiel se reunió con Santiago Peña en Mburuvicha Róga. ¿Qué busca uno de los hombres más ricos de Silicon Valley en Paraguay?"
+description: "Peter Thiel se reunió con Santiago Peña en Mburuvicha Róga. ¿Qué busca uno de los hombres más ricos de Silicon Valley en Paraguay?."
 ---
 
 El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta, cofundador de PayPal y Palantir, primer inversor externo de Facebook, dueño de Founders Fund, una de las firmas de capital de riesgo más poderosas de Silicon Valley. Llegó con Cully Cavness, cofundador de Crusoe AI, una empresa que convierte el gas quemado de los pozos petroleros en electricidad para centros de datos. El mensaje oficial fue que estaban "explorando Paraguay como sede para centros de datos de inteligencia artificial".

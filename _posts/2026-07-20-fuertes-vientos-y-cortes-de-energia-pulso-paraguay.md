@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pulso Paraguay: Fuertes vientos y cortes."
-description: "Fuertes vientos y cortes de energía: Los fuertes vientos que afectaron casi todo Paraguay generaron una ola de comentarios y preocupaciones por los cortes de…"
+description: "Fuertes vientos y cortes de energía: Los fuertes vientos que afectaron casi todo Paraguay generaron una ola de comentarios y preocupaciones por los cortes de."
 
 
 

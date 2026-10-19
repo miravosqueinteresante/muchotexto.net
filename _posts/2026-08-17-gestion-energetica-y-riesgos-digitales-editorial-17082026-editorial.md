@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gestión energética y riesgos digitales"
-description: "La reciente decisión gubernamental de elevar el Viceministerio de Minas y Energía al rango de Ministerio marca un punto de inflexión en la administración de."
+description: "La reciente decisión gubernamental de elevar el Viceministerio de Minas y Energía al rango de Ministerio marca un punto de inflexión en la administración."
 
 
 
