@@ -145,6 +145,11 @@
     fecha: Julio 2024
     texto: 'Brasil lanza el [Plan Brasileño de IA (PBIA)](/articulos/2026/07/16/ia-soberana-paraguay/):
       R$23 mil millones.'
+  - orden: '2024-07-24'
+    fecha: 24 Julio 2024
+    texto: El BCP aprueba el Reglamento del estándar de generación de QR para pagos
+      electrónicos y fija el 30 de junio de 2025 como plazo para adoptar el código
+      PY-QR. [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
   - orden: '2024-09-19'
     fecha: 19-20 Septiembre 2024
     texto: 'Peña firma el Decreto N.º 2553/24, aprobando la [Política Energética Nacional
@@ -191,6 +196,10 @@
     fecha: Junio 2025
     texto: '[Ransomware paraliza 18 agencias del gobierno paraguayo](/articulos/2026/07/17/ciberseguridad-paraguay/)
       y expone millones de registros ciudadanos.'
+  - orden: '2025-06-27'
+    fecha: 27 Junio 2025
+    texto: Se promulga la Ley 7503/2025 del Sistema Nacional de Pagos, que reemplaza
+      a la Ley 4595/2012 y da marco a la interoperabilidad. [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
   - orden: 2025-09
     fecha: Septiembre 2025
     texto: '[Ley 7503/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/): crea
@@ -300,6 +309,10 @@
     texto: La ANDE deroga los cuatro decretos paralelos tras presión sindical (SITRANDE)
       y cuestionamientos internos sobre la opacidad de contratos con empresas de criptominería
       y data centers.
+  - orden: '2026-06-29'
+    fecha: 29 Junio 2026
+    texto: El BCP pone en producción el QR Hub, tras la fase de producción controlada
+      de junio. [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
   - orden: 2026-07
     fecha: Julio 2026
     texto: La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/)
@@ -358,6 +371,11 @@
       Z'': qué esperan los jóvenes del mundo laboral. Cinco barreras de empleabilidad
       en Paraguay, encabezadas por la falta de experiencia práctica (53,3%) y el dominio
       del inglés (53%). [Leer análisis](/articulos/2026/10/09/brecha-triple-jovenes-paraguayos/)'
+  - orden: '2026-07-30'
+    fecha: 30 Julio 2026
+    texto: Algunos bancos habilitan la generación de QR interoperable para transferencias;
+      el límite de G. 10 millones y la restricción a guaraníes ya regían desde marzo.
+      [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
   - orden: '2026-08-03'
     fecha: 3 Agosto 2026
     texto: 'En el Pay Meeting 19, el BCP anuncia su hoja de ruta: comercios, impuestos
@@ -408,6 +426,10 @@
       de memorias DRAM y SSDs en Minga Guazú. Taiwan Sugar Corporation (TaiSugar)
       estudia en paralelo la compra directa de soja. Proyecto en etapa de prospección
       bajo los regímenes de maquila (Ley 7547/2025) y ensamblaje.
+  - orden: '2026-09-08'
+    fecha: 8 Septiembre 2026
+    texto: El presidente del BCP, Carlos Carvallo, informa que el QR Hub generó más
+      de 700.000 códigos en menos de dos meses. [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
   - orden: '2026-09-17'
     fecha: 17 Septiembre 2026
     texto: Atome PLC presenta un Aviso de Controversia contra Paraguay ante el CIADI,

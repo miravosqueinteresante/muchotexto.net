@@ -475,6 +475,12 @@
       "target": "tigo",
       "type": "articulo",
       "label": "5G: espectro repartido, red solo de Claro"
+    },
+    {
+      "source": "bcp",
+      "target": "bancard",
+      "type": "articulo",
+      "label": "QR Hub, la apuesta del BCP para digitalizar comercios"
     }
   ]
 }

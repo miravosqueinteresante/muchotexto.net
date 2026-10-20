@@ -404,6 +404,21 @@ Fuentes: Eurostat (nrg_pc_205, abril 2026), fuentes de mercado (CBRE, JLL, DCP r
 - **Virginia, EE.UU. 95–130 USD/MWh**: TRUE. Una fuente de mercado (Dominion Energy, PJM).
 - **Paraguay 30–45 USD/MWh**: Rango con fuente primaria verificada (ANDE, Res. 49238/2024) pero en revisión activa. Ver sección Tarifas ANDE arriba.
 
+### Pagos digitales — QR Hub y QR interoperable (verificado oct-2026)
+
+Fuentes: BCP, La Nación (31-ago, 8-sep y 30-jul-2026), ABC Color (19-may y 6-ago-2026), Bancard, BACN, INE. Páginas BCP devuelven 403 anti-bot: citar la URL y contrastar con prensa/Guía PY-QR.
+
+- **QR Hub/QR Sip**: plataforma centralizada del BCP dentro del SPI. Pago por transferencia directa entre cuentas, no tarjeta. Tope **1,5% IVA incluido**; límite **G. 10 millones**; solo guaraníes. No es billetera ni conexión con Pix.
+- **Bancard/PY-QR**: red privada bajo estándar PY-QR. **181.000 comercios**, **75+ aplicaciones** (bancos, financieras, cooperativas y billeteras), **68,1%** de los pagos electrónicos de esa red, **20,2M** operaciones en abril-2026 (+61% interanual), **3,7M** usuarios y **8/10** compras de e-commerce con QR. Son datos de la red de Bancard, no totales nacionales.
+- **700.000 códigos** (BCP, 8-sep-2026) son códigos generados, **no comercios**: pueden incluir códigos personales y el BCP no difundió el desglose.
+- **Brecha**: ~**100.000** comercios adheridos a alguna red de pagos vs. más de **950.000** mipymes (DNIT). Las cifras 100.000/181.000 **no cierran entre sí**: no presentarlas como universos separados; reconocer que miden cortes o definiciones distintas.
+- **PISP**: 2 autorizadas y 4 en evaluación (jun-2026).
+- **SPI**: 382M operaciones en 2025 y 2,5M transferencias/día (BCP). No confundir SIP (marca del sistema) con SPI (módulo instantáneo).
+- **Tarjetas**: topes 3% crédito / 2% débito desde 1-jul-2026. Transferencias simples persona-persona gratuitas (Ley 7503/2025).
+- **QR estático gratuito**: obligación de la Guía PY-QR (Circular SGGOF 008/2024) al PSP, no del reglamento en abstracto.
+- **NFC**: incorporado a la normativa, proyección para la primera parte de 2027; **no operativo**.
+- **Cronología**: Res. 12/2024 (24-jul-2024, plazo 30-jun-2025) → Ley 7503/2025 (27-jun-2025) → Res. 24/2025 interoperabilidad (11-dic-2025) → Res. 2 Acta 12 (12-mar-2026, G.10M, QR Hub y NFC) → producción 29-jun-2026 → 700.000 códigos (8-sep-2026).
+
 #### Graduados STEM
 - **~400 graduados en informática por año**: TRUE (INE vía La Tribuna, 22-01-2026). NO usar "400-600" ni "600" como techo. Estimación sectorial: 20-50 empleos por 100 MW en data centers.
 

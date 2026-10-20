@@ -127,12 +127,13 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[ADATA mira Minga Guazú para ensamblar SSDs]({% post_url 2026-08-28-adata-minga-guazu-memorias-semiconductores %})** — El 2.º fabricante mundial de memorias DRAM explora una planta de ensamblaje en Minga Guazú: maquila (Ley 7547), ensamblaje (7546), regla de origen del Mercosur (60% hasta 2038) y la tarifa que falta definir.
 - **[5G: espectro repartido, red solo de Claro]({% post_url 2026-10-15-5g-segunda-subasta-paraguay %})** — Conatel adjudicó en la segunda licitación 100 MHz a Tigo (2.300 MHz) y 100 MHz a Personal (3.700 MHz) sin puja. Solo Claro tiene 5G operativo (desde diciembre de 2025); Tigo y Personal deben encender su primera radiobase hacia febrero de 2027.
 - **[Paraguay proyecta conectar sus pagos]({% post_url 2026-10-16-sip-pagos-instantaneos-transfronterizos-pix %})** — El SIP paraguayo multiplicó 33 veces sus operaciones en cinco años y el BCP anunció su plan para expandirlo a comercios, impuestos e integración con Pix. La conexión transfronteriza sigue en etapa inicial: el reto es regulatorio, no tecnológico.
+- **[QR Hub, la apuesta del BCP para digitalizar comercios]({% post_url 2026-10-20-qr-hub-paraguay %})** — El QR Hub del BCP generó más de 700.000 códigos en menos de dos meses y el 68,1% de los pagos electrónicos de Bancard ya se hace con QR. La brecha está en los microcomercios: solo una fracción de las 950.000 mipymes cobra digitalmente.
 
 <!-- PILAR:4:FIN -->
 
 **Próximamente:**
 
-- **SIP transfronterizo: el BCP construye la autopista financiera digital** — Derlis Montania (BCP) presentó en el Pay Meeting la expansión del Sistema de Pagos Instantáneos a comercios, impuestos e integración regional. Verificado con DPL News y La Nación, 10-ago-2026.
+*Sin temas verificados por el momento. Se investigarán nuevas fuentes de pagos digitales, fintech y blockchain en Paraguay.*
 
 ## Cultura, filosofía y futuro
 

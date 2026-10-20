@@ -83,6 +83,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [ADATA mira Minga Guazú para ensamblar SSDs](https://muchotexto.net/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/)
 - [5G: espectro repartido, red solo de Claro](https://muchotexto.net/articulos/2026/10/15/5g-segunda-subasta-paraguay/)
 - [Paraguay proyecta conectar sus pagos](https://muchotexto.net/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/)
+- [QR Hub, la apuesta del BCP para digitalizar comercios](https://muchotexto.net/articulos/2026/10/20/qr-hub-paraguay/)
 
 ### Pilar 5: Cultura, filosofía y futuro
 - [El futuro de la identidad y la conciencia](https://muchotexto.net/articulos/2026/05/13/ciberhumanidad/)

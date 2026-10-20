@@ -247,6 +247,12 @@
     descripcion: Entidad que organiza el Pay Meeting, el evento donde el BCP presentó
       en agosto de 2026 su hoja de ruta de pagos digitales.
     url: https://cpmp.com.py/
+  - nombre: Dirección Nacional de Ingresos Tributarios (DNIT)
+    descripcion: 'Registro tributario que sirve de denominador para medir la brecha
+      de aceptación: el BCP compara los ~100.000 comercios conectados al sistema de
+      pagos con las más de 950.000 mipymes que, según el dato que cita, registra la
+      DNIT.'
+    url: https://www.dnit.gov.py/
 - seccion: Tecnología aplicada
   items:
   - nombre: BEES Paraguay (Cervepar)

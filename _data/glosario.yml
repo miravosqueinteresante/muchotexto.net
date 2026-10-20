@@ -625,3 +625,15 @@
     definicion: 'Proveedor de Servicios de Inicio de Pagos: fintech habilitada por
       el BCP para iniciar pagos desde la cuenta del cliente, sin manejar los fondos.
       Reglamentados por Resolución del 27-ago-2025.'
+  - termino: QR Hub
+    definicion: Plataforma centralizada del BCP dentro del SPI que interconecta códigos
+      QR de bancos, financieras, entidades de medios de pago y billeteras. Los pagos
+      se liquidan por transferencia directa entre cuentas, no por tarjeta.
+  - termino: PY-QR
+    definicion: Nombre del código QR estandarizado de Paraguay, basado en EMV QRCPS.
+      El BCP lo hizo obligatorio para todos los proveedores de servicios de pago,
+      con plazo de adecuación hasta el 30 de junio de 2025.
+  - termino: SIP y SPI
+    definicion: SIP es la marca comercial del SIPAP; SIPAP sigue siendo el nombre
+      técnico y regulatorio del sistema. SPI es el módulo de pagos instantáneos 24/7;
+      el QR Hub funciona dentro del SPI.
