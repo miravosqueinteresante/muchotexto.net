@@ -319,7 +319,7 @@ Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco M
 #### Data centers y conectividad
 - **Serie GCIE**: creado 2022 (Res. ANDE 46984). Potencia reservada: ~125 MW (2023) → ~822 MW (2025) → 943,8 MW (2026). NO decir "0 a 944 MW en tres años" ni "en 2022 no había data centers".
 - **HIVE: 300 MW operativos + 100 MW GPU en construcción**: TRUE. Fuente: HIVE FY2026 Earnings, verificado en AGENTS.md.
-- **Yguazú Digital: 3 fases, 10 MW a 1.000 MW**: UNVERIFIABLE en detalle. El artículo de muchotexto.net sobre Yguazú Digital menciona estas fases. No se encontró fuente oficial primaria que confirme los 1.000 MW finales con ese desglose exacto. La prensa paraguaya (ABC Color, La Nación) maneja cifras variables.
+- **Yguazú Digital: 3 fases, 10 MW → 100 MW → 1.000 MW**: VERIFICADO (ABC Color, 11-may-2026). El MoU firmado en mayo de 2026 es una declaración de intención no vinculante; las cifras son aspiracionales, no capacidad construida. Fuente: https://www.abc.com.py/economia/2026/05/11/paraguay-y-taiwan-crearan-yguazu-digital-un-gigante-de-ia-que-consumira-una-turbina-y-media-de-itaipu/
 - **BID USD 130M para fibra óptica**: TRUE. Fuente: MITIC, BID, verificado en AGENTS.md.
 - **20-50 empleos por 100 MW en data centers**: TRUE. Fuente: verificado en AGENTS.md (referencia de industria).
 - **Irlanda: ~80 data centers**: UNVERIFIABLE. La cifra exacta varía según fuente: desde 70 hasta 82 según qué se cuenta como "data center". AGENTS.md solo verifica el 23% de consumo. Recomendación: usar "más de 70" o citar fuente (Host in Ireland, CSO Ireland).
