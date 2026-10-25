@@ -27,7 +27,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 **Observatorio:**
 
 - [Cronología](/cronologia/) — Hitos de IA en Paraguay desde 1973
-- [Mapa regulatorio](/regulación/) — Leyes, decretos y estrategias vigentes
+- [Mapa regulatorio](/regulacion/) — Leyes, decretos y estrategias vigentes
 - [Directorio](/directorio/) — Startups, aceleradoras, comunidades y eventos
 - [Casos de uso](/casos-de-uso/) — IA aplicada en sectores productivos
 - [Glosario vivo](/glosario/) — Términos clave explicados en contexto paraguayo
@@ -35,7 +35,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 **Herramientas interactivas:**
 
 - [Simulador Paraguay 2040](/simulador-2040/) — Cinco palancas, dos shocks
-- [Calculadora de costo energético](/calculadora-energética/) — Comparación internacional de tarifas
+- [Calculadora de costo energético](/calculadora-energetica/) — Comparación internacional de tarifas
 - [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos
 - [Grafo del Observatorio](/grafo/) — Relaciones entre las {{ site.data.entities | size }} entidades clave
 - [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo

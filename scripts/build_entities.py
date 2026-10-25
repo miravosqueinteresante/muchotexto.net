@@ -68,7 +68,10 @@ def parse_frontmatter(content):
     return fm
 
 
-def build_post_url(fname, categories):
+def build_post_url(fname, categories, permalink=None):
+    permalink = str(permalink or "").strip()
+    if permalink:
+        return permalink if permalink.endswith("/") else permalink + "/"
     date_match = re.match(r'(\d{4})-(\d{2})-(\d{2})-(.+)\.md$', fname)
     if not date_match:
         return f"/{categories.strip()}/{fname.replace('.md', '/')}"
@@ -148,7 +151,7 @@ def find_mentions_in_posts(entity_name):
             continue
 
         title = clean_title(fm.get("title", ""), fname)
-        url = build_post_url(fname, categories)
+        url = build_post_url(fname, categories, fm.get("permalink"))
 
         # Check: entity name in title?
         title_match = entity_pat.search(strip_accents(title))

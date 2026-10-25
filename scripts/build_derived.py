@@ -58,6 +58,14 @@ def slug_to_url(path):
     return f"/articulos/{y}/{mo}/{d}/{slug}/"
 
 
+def article_url(data, path):
+    """El permalink del front matter manda; si no existe, cae al filename."""
+    permalink = str(data.get("permalink", "") or "").strip()
+    if permalink:
+        return permalink if permalink.endswith("/") else permalink + "/"
+    return slug_to_url(path)
+
+
 def fmt_fecha(iso):
     try:
         d = datetime.strptime(iso, "%Y-%m-%d")
@@ -257,7 +265,7 @@ def iter_pilar_articles(yaml):
         except Exception:
             continue
         pilar = data.get("pilar")
-        url = slug_to_url(path)
+        url = article_url(data, path)
         title = str(data.get("title", "")).strip()
         if not isinstance(pilar, int) or pilar not in PILARES or not url or not title:
             continue

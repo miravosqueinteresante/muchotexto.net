@@ -18,7 +18,7 @@ related_articles:
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
     context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "1. Tratado de Itaipú — Wikipedia (1973) 2. Itaipú Binacional — sitio oficial 3. Yguazú Digital — cobertura del MoU, ABC Color (mayo 2026) 4...."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
@@ -27,7 +27,7 @@ related_articles:
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "- ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones' (4 julio 2026) - [Última Hora —..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
-    url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+    url: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
     context: "1. Wikipedia (EN) — Electricity sector in Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
   - title: "ANDE oculta 943 MW de contratos GCIE bajo llave"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
@@ -76,17 +76,17 @@ obs_regulacion:
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
     context: "Vence el 1 de enero de 2027. Negociaciones suspendidas entre abril y noviembre de 2025 por el escándalo ABIN, y reanudadas en noviembre de 2025 tras la entrega del informe confidencial brasileño. Sin..."
   - label: "Tratado de Itaipu (1973)"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo..."
   - label: "Resolución ANDE 47191/2022 y Decreto 7824/2022 — Marco GCIE"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "Crea el Programa de Grandes Consumidores de Energía Intensiva, regulado por la Resolución 49238/2024. Tarifa base 30 US$/MWh para Muy Alta Tensión (220 kV); rango real: 37-60 US$/MWh por nivel de..."
 obs_casos-de-uso:
   - label: "Yguazú Digital: gobernanza binacional para IA"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
   - label: "Paradoja climatica paraguaya: energia limpia, bosques talados"
-    url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+    url: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
     context: "Paraguay genera 99.9% de electricidad renovable pero emitio 28-52 MtCO2e/ano por deforestacion entre 2000-2020. La energia limpia de Itaipu evita ~4 MtCO2e/ano; la deforestacion emite ~50 MtCO2e/ano...."
   - label: "Diagnóstico de la tarifa eléctrica"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/

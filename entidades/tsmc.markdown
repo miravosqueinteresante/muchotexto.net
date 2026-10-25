@@ -13,7 +13,7 @@ entity_description: >
 entity_category: geopolítica
 related_articles:
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
-    url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
+    url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
     context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
 obs_glosario:
   - label: "TSMC (Taiwan Semiconductor Manufacturing Company)"

@@ -3,6 +3,7 @@ layout: post
 title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
 seo_title: "Starlink conecta a 20.000 paraguayos"
 date: 2026-07-15 21:00:00 -0400
+permalink: /articulos/2026/07/16/starlink-paraguay-conectividad/
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 3

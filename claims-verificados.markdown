@@ -156,7 +156,7 @@ last_modified_at: 2026-08-21
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay tiene la matriz eléctrica 99,998% renovable en 2024 (Itaipú 86%, Yacyretá 11%, Acaray 3%)."</span></div>
-  <span class="claim-source">Fuente: Wikipedia (Electricity sector in Paraguay), ANDE · <a href="/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: Wikipedia (Electricity sector in Paraguay), ANDE · <a href="/articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">

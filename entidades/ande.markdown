@@ -27,13 +27,13 @@ related_articles:
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
     context: "Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. De los aproximadamente 22 países que reconocían a Taipei en 2016, quedan doce. De esos doce, Paraguay es el más grande y —desde que Honduras."
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
-    url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
+    url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
     context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
   - title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
     url: /articulos/2026/07/27/hidrogeno-verde-paraguay/
     context: "Paraguay podría producir hidrógeno verde a un costo entre los más bajos de Sudamérica. Tiene electricidad barata para grandes consumidores (la tarifa GCIE, USD 0,03 por kilovatio-hora), agua abundante del río Paraná y una subestación de 200 MW en..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
   - title: "Paraguay 2040: un país construido con datos"
     url: /articulos/2026/08/05/paraguay-2040-futuro-datos/
@@ -115,7 +115,7 @@ obs_casos-de-uso:
     url: /articulos/2026/07/07/criptomineria-paraguay-energia-barata/
     context: "Paraguay es el 4° país del mundo por hashrate de bitcoin. La minería genera $350-400M anuales para ANDE, pero emplea solo 383 personas formalmente y el 66% no paga seguridad social."
   - label: "Yguazú Digital: gobernanza binacional para IA"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
   - label: "Diagnóstico de la tarifa eléctrica"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/

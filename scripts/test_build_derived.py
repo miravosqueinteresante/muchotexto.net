@@ -40,6 +40,17 @@ class TestHelpers(unittest.TestCase):
         p = os.path.join(bd.POSTS, "2026-09-16-los-contratos.md")
         self.assertEqual(bd.slug_to_url(p), "/articulos/2026/09/16/los-contratos/")
 
+    def test_article_url_respeta_permalink(self):
+        p = os.path.join(bd.POSTS, "2026-07-14-semiconductores-taiwan-paraguay.md")
+        self.assertEqual(
+            bd.article_url({"permalink": "/articulos/2026/07/15/semiconductores-taiwan-paraguay/"}, p),
+            "/articulos/2026/07/15/semiconductores-taiwan-paraguay/",
+        )
+        self.assertEqual(
+            bd.article_url({}, p),
+            "/articulos/2026/07/14/semiconductores-taiwan-paraguay/",
+        )
+
     def test_norm(self):
         self.assertEqual(bd.norm("César SÁNCHEZ"), "cesar sanchez")
 

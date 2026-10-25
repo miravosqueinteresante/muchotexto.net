@@ -19,7 +19,7 @@ related_articles:
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
-    url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
+    url: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
 entity_laws:
   - "Tratado de Yacyretá (1973) — entidad binacional Paraguay-Argentina"
 obs_casos-de-uso:

@@ -13,7 +13,7 @@ entity_description: >
 entity_category: gobierno
 related_articles:
   - title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
-    url: /articulos/2026/07/15/starlink-paraguay-conectividad/
+    url: /articulos/2026/07/16/starlink-paraguay-conectividad/
     context: "En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier."
   - title: "5G en Paraguay, espectro repartido y red encendida solo en Claro"
     url: /articulos/2026/10/15/5g-segunda-subasta-paraguay/
@@ -31,7 +31,7 @@ obs_directorio:
     context: "Organismo regulador de las telecomunicaciones de Paraguay. Administra el espectro radioeléctrico y adjudicó en 2025 y 2026 las licitaciones de 5G a Claro, Nubicom, Tigo y Personal."
 obs_casos-de-uso:
   - label: "Starlink en Paraguay"
-    url: /articulos/2026/07/15/starlink-paraguay-conectividad/
+    url: /articulos/2026/07/16/starlink-paraguay-conectividad/
     context: "20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — primer país del..."
   - label: "El 5G en Paraguay"
     url: /articulos/2026/10/15/5g-segunda-subasta-paraguay/

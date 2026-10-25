@@ -31,7 +31,7 @@ directorio:
     url: "/articulos/2026/09/16/los-contratos-secretos-de-ande/"
 ---
 
-En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465 GWh, el 18,6% del consumo total nacional de 29.419 GWh. Eso equivale al 13,5% de los 7.000 MW de potencia que corresponden a Paraguay en [Itaipú](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/). Las tarifas del programa están reguladas por la Resolución ANDE 49238/2024 y son públicas. Pero las condiciones particulares de cada contrato no lo están: un acuerdo entre la ANDE y Atome Paraguay está disponible en el portal de transparencia, pero es la excepción, no la regla. Y un proyecto de Atome que busca una tarifa fija de 30 dólares por MWh a 10 años bajo el Decreto 5307 generó la crisis política más intensa del sector energético en años.
+En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465 GWh, el 18,6% del consumo total nacional de 29.419 GWh. Eso equivale al 13,5% de los 7.000 MW de potencia que corresponden a Paraguay en [Itaipú](/articulos/2026/08/02/modelo-itaipu-gobernanza-ia/). Las tarifas del programa están reguladas por la Resolución ANDE 49238/2024 y son públicas. Pero las condiciones particulares de cada contrato no lo están: un acuerdo entre la ANDE y Atome Paraguay está disponible en el portal de transparencia, pero es la excepción, no la regla. Y un proyecto de Atome que busca una tarifa fija de 30 dólares por MWh a 10 años bajo el Decreto 5307 generó la crisis política más intensa del sector energético en años.
 
 > **En resumen:**
 > - ANDE administra 943,8 MW de potencia reservada para 41 empresas bajo el GCIE, equivalente al 13,5% de la potencia de Paraguay en Itaipú (7.000 MW).
@@ -148,7 +148,7 @@ Mientras tanto, los 943,8 MW de potencia reservada siguen operando bajo un marco
 
 **Artículos relacionados:**
 - [El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares](/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/) — el diagnóstico financiero que puso los números sobre la mesa
-- [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/) — gobernanza binacional y transparencia
+- [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](/articulos/2026/08/02/modelo-itaipu-gobernanza-ia/) — gobernanza binacional y transparencia
 - [El ente regulador de energía que Paraguay diseña con concurso público](/articulos/2026/08/19/ente-regulador-energia/) — la reforma institucional pendiente
 
 Ver también: [Página pilar — IA en Paraguay](/ia-en-paraguay/)

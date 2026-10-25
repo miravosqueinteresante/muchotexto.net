@@ -13,11 +13,11 @@ entity_description: >
 entity_category: empresa
 related_articles:
   - title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
-    url: /articulos/2026/07/15/starlink-paraguay-conectividad/
+    url: /articulos/2026/07/16/starlink-paraguay-conectividad/
     context: "En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier."
 obs_glosario:
   - label: "Starlink"
-    url: /articulos/2026/07/15/starlink-paraguay-conectividad/
+    url: /articulos/2026/07/16/starlink-paraguay-conectividad/
     context: "Constelación de internet satelital de SpaceX (Elon Musk) con más de 10.000 satélites en órbita baja terrestre. Disponible en Paraguay desde diciembre de 2023, suma 20.000 usuarios —la mayoría..."
 obs_cronologia:
   - label: "2023"
@@ -31,7 +31,7 @@ obs_cronologia:
     context: "Starlink alcanza ~20.000 usuarios en Paraguay."
 obs_casos-de-uso:
   - label: "Starlink en Paraguay"
-    url: /articulos/2026/07/15/starlink-paraguay-conectividad/
+    url: /articulos/2026/07/16/starlink-paraguay-conectividad/
     context: "20.000 usuarios, 1.600 antenas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — primer país del..."
 ---
 

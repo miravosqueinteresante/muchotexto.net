@@ -16,12 +16,12 @@ related_articles:
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
     context: "- Reuters — 'Paraguay stands by Taiwán as island's last South American ally' (16 abril 2024) - [The Economist — 'The lonely road;..."
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
-    url: /articulos/2026/07/14/semiconductores-taiwan-paraguay/
+    url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
     context: "- Wikipedia — TSMC — ingresos, clientes, fábricas, procesos - Wikipedia — Silicon Shield — concepto geopolítico, cuota de mercado, dependencia global - [Wikipedia..."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "La asimetría Itaipú era de tamaño; Brasil tiene 28 veces la población de Paraguay y 47 veces su PIB. Pero compartían un río y una necesidad concreta; energía. La asimetría Paraguay-Taiwán es de naturaleza. Taiwán no necesita la energía de Paraguay..."
   - title: "ADATA mira a Minga Guazú para ensamblar memorias y SSDs"
     url: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
@@ -61,14 +61,14 @@ obs_directorio:
     context: "Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. Leer más."
 obs_regulacion:
   - label: "MoU Yguazu Digital (2026)"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "Propone replicar el modelo binacional 50/50 con Taiwan. Fase I: 10 MW y USD 200-300M con ICDF. Introduce el concepto de Embajada de Datos Digitales. Documento no vinculante. Sin marco regulatorio..."
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
   - label: "Yguazú Digital: gobernanza binacional para IA"
-    url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
+    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."
   - label: "Ensamblaje de memorias y SSDs"
     url: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/

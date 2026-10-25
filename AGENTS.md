@@ -170,6 +170,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 - **Fechas de hitos corporativos**: verificar con comunicados oficiales de la empresa, no con prensa
 - **Cifras de empleo**: cruzar datos de IPS con claims de cámaras sectoriales
 - **Títulos long-form**: `title` es el H1; no truncarlo a 43 chars (error del barrido SEO de oct-2026). Límite 70 chars de `validate_publish`. Si hace falta acortar el `<title>`, usar `seo_title` opcional (13-43 chars, único, keyword-first); no reemplaza el H1. El clamp 13-43 aplica solo a Pulso/Editorial.
+- **URLs de artículos**: el `permalink` del front matter manda; `build_derived.py` y `build_entities.py` lo respetan. Si un post tiene hora cercana a medianoche con offset, Jekyll puede correr el día al construir en UTC: fijar `permalink` o usar mediodía local. Los enlaces internos nunca se escriben a mano con fecha: usar `post_url` o el `permalink`.
 
 ## Claims verificados (referencia para futuros artículos)
 

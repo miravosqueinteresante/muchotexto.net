@@ -3,6 +3,7 @@ layout: post
 title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
 seo_title: "El modelo Itaipú para la IA paraguaya"
 date: 2026-08-01 22:00:00 -0300
+permalink: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
 last_modified_at: 2026-08-15
 categories: articulos
 pilar: 2

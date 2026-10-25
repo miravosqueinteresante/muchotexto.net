@@ -63,12 +63,12 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 
 ## Gobernanza binacional
 
-- **[Tratado de Itaipu (1973)](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)** — Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo de referencia para Yguazu Digital.
-- **[MoU Yguazu Digital (2026)](/articulos/2026/08/01/modelo-itaipu-gobernanza-ia/)** — Propone replicar el modelo binacional 50/50 con Taiwan. Fase I: 10 MW y USD 200-300M con ICDF. Introduce el concepto de Embajada de Datos Digitales. Documento no vinculante. Sin marco regulatorio permanente.
+- **[Tratado de Itaipu (1973)](/articulos/2026/08/02/modelo-itaipu-gobernanza-ia/)** — Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo de referencia para Yguazu Digital.
+- **[MoU Yguazu Digital (2026)](/articulos/2026/08/02/modelo-itaipu-gobernanza-ia/)** — Propone replicar el modelo binacional 50/50 con Taiwan. Fase I: 10 MW y USD 200-300M con ICDF. Introduce el concepto de Embajada de Datos Digitales. Documento no vinculante. Sin marco regulatorio permanente.
 
 ## Cambio climatico y energia
 
-- **[NDC 3.0 (2025)](/articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/)** — Contribucion Nacionalmente Determinada: reduccion del 20% de emisiones bajo BAU para 2030/2035 (10% incondicional + 10% condicional). Requiere USD 24.000M en financiamiento externo.
+- **[NDC 3.0 (2025)](/articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/)** — Contribucion Nacionalmente Determinada: reduccion del 20% de emisiones bajo BAU para 2030/2035 (10% incondicional + 10% condicional). Requiere USD 24.000M en financiamiento externo.
 
 ## Data centers e infraestructura digital
 
