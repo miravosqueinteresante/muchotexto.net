@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
+seo_title: "GPU sin estrategia de IA en Paraguay"
 date: 2026-07-16
 last_modified_at: 2026-08-15
 categories: articulos

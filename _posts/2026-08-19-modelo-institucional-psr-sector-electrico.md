@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "El modelo institucional de PSR para el sector eléctrico paraguayo"
+seo_title: "El modelo PSR para el sector eléctrico"
 date: 2026-08-19 12:00:00 -0300
 last_modified_at: 2026-08-19
 categories: articulos

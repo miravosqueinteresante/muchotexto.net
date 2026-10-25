@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
+seo_title: "El acuerdo tarifario de Itaipú en 2027"
 date: 2026-07-17
 last_modified_at: 2026-09-23
 categories: articulos

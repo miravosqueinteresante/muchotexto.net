@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paraguay no usa IA para hacer periodismo pero la desinformación sí"
+seo_title: "Paraguay no usa IA para el periodismo"
 date: 2026-07-16
 last_modified_at: 2026-08-15
 categories: articulos

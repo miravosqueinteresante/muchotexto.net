@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lo que un data center compra y Paraguay no puede vender"
+seo_title: "La cadena de valor de un data center"
 date: 2026-07-25
 last_modified_at: 2026-08-15
 categories: articulos

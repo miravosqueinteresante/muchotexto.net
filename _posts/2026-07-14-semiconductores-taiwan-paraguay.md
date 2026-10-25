@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
+seo_title: "Taiwán no fabrica chips en Paraguay"
 date: 2026-07-14 20:00:00 -0400
 last_modified_at: 2026-08-15
 categories: articulos

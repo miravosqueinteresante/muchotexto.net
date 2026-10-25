@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paraguay tiene los datos judiciales que la IA necesita"
+seo_title: "Los datos judiciales que la IA necesita"
 date: 2026-07-21
 last_modified_at: 2026-08-15
 categories: articulos

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "La IA cuesta más que los humanos que reemplazó"
+seo_title: "La IA cuesta más que los humanos"
 date: 2026-05-27
 last_modified_at: 2026-08-15
 categories: articulos

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "El data center Tier III que Paraguay ya tiene hace una década"
+seo_title: "El data center Tier III de Tigo"
 date: 2026-09-21 10:00:00 -0300
 last_modified_at: 2026-09-21
 categories: [articulos]

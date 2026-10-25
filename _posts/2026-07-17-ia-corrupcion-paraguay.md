@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Brasil usa inteligencia artificial contra la corrupción, Paraguay no"
+seo_title: "Paraguay no usa IA contra la corrupción"
 date: 2026-07-17
 last_modified_at: 2026-08-15
 categories: articulos

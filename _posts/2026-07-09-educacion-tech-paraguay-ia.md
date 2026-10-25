@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paraguay necesita más ingenieros para sostener su hub de IA"
+seo_title: "Paraguay necesita más ingenieros en IA"
 date: 2026-07-09
 last_modified_at: 2026-08-15
 categories: articulos

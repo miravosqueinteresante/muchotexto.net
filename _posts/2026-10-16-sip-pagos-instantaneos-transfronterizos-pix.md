@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paraguay proyecta conectar sus pagos instantáneos con Pix de Brasil"
+seo_title: "La conexión de Paraguay con Pix"
 date: 2026-10-16 09:00:00 -0300
 last_modified_at: 2026-10-16
 categories: [articulos]

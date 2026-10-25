@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Por qué Asunción no es una ciudad inteligente todavía"
+seo_title: "Asunción no es una ciudad inteligente"
 date: 2026-07-17
 last_modified_at: 2026-08-15
 categories: articulos

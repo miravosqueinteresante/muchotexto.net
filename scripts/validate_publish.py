@@ -160,6 +160,7 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
         return ["No se pudo leer el archivo"], []
 
     title = extract_frontmatter_field(content, "title")
+    seo_title = extract_frontmatter_field(content, "seo_title")
     description = extract_frontmatter_field(content, "description")
     categories = extract_frontmatter_field(content, "categories", "")
     body = extract_body(content)
@@ -171,6 +172,16 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
     e, w = check_title(title, ultimos_3)
     errors.extend(e)
     warnings.extend(w)
+
+    if seo_title:
+        if not 13 <= len(seo_title) <= 43:
+            errors.append(f"seo_title debe tener 13-43 chars (tiene {len(seo_title)})")
+        if "!" in seo_title:
+            errors.append("seo_title contiene signo de exclamacion")
+    elif len(title) + len(" | muchotexto.net") > 60:
+        warnings.append(
+            "Titulo renderizado >60 chars: agregar seo_title (13-43) sin truncar el H1"
+        )
 
     if not categories:
         errors.append("Categoria no definida en frontmatter")

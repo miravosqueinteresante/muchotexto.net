@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
+seo_title: "1,5M de identidades digitales en Paraguay"
 date: 2026-07-16
 last_modified_at: 2026-08-15
 categories: articulos

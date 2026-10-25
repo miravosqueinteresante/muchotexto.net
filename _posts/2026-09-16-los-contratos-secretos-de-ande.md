@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ANDE oculta 943 MW de contratos GCIE bajo llave"
+seo_title: "ANDE oculta 943 MW de contratos"
 date: 2026-09-16 12:00:00 -0300
 last_modified_at: 2026-09-16
 categories: [articulos]

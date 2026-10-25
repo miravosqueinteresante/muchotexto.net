@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "QR Hub, la apuesta del BCP para digitalizar comercios"
+seo_title: "QR Hub del BCP para comercios"
 date: 2026-10-20 09:00:00 -0300
 last_modified_at: 2026-10-20
 categories: [articulos]

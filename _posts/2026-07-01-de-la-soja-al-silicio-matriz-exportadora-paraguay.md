@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "El plan de Paraguay para pasar de la soja al silicio"
+seo_title: "De la soja al silicio en Paraguay"
 date: 2026-07-01
 last_modified_at: 2026-09-23
 categories: articulos

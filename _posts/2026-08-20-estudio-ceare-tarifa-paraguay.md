@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
+seo_title: "La tarifa eléctrica que proyecta Ceare"
 date: 2026-08-20 12:00:00 -0300
 last_modified_at: 2026-08-20
 categories: articulos

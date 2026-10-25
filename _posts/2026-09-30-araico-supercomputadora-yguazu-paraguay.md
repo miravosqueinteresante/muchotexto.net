@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
+seo_title: "El campus de IA de 1,3 GW de ARAICO"
 date: 2026-09-30 09:00:00 -0300
 last_modified_at: 2026-10-02
 categories: [articulos]

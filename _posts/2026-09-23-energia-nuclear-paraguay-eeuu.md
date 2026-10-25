@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "La energía nuclear que Paraguay firmó con EE.UU. no es un reactor"
+seo_title: "La energía nuclear que Paraguay firmó"
 date: 2026-09-23 09:00:00 -0300
 last_modified_at: 2026-09-23
 categories: [articulos]

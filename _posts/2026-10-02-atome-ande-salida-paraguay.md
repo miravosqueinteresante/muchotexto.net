@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "La salida de Atome no es una pérdida de USD 665 millones"
+seo_title: "Atome se va y libera 145 MW"
 date: 2026-10-02 09:00:00 -0300
 last_modified_at: 2026-10-02
 categories: [articulos]

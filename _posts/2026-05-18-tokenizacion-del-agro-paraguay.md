@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Soja, ganado y blockchain en la tokenización del agro paraguayo"
+seo_title: "Tokenización del agro paraguayo"
 date: 2026-05-18
 last_modified_at: 2026-08-15
 categories: articulos

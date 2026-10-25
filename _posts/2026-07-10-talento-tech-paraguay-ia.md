@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paraguay pierde el talento que necesita para ser hub de IA"
+seo_title: "Paraguay pierde el talento que necesita"
 date: 2026-07-10
 last_modified_at: 2026-08-15
 categories: articulos
