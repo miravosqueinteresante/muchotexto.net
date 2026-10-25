@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 tecnologías que prometieron cambiar todo"
+title: "5 tecnologías que prometieron cambiar todo pero no cambiaron nada"
 date: 2026-05-15
 last_modified_at: 2026-08-15
 categories: articulos

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los agentes de IA actuaron sin control y"
+title: "Los agentes de IA actuaron sin control y Paraguay no tiene defensas"
 date: 2026-09-03 06:00:00 -0300
 last_modified_at: 2026-09-03
 categories: articulos

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay tiene energía para la IA pero no"
+title: "Paraguay tiene energía para la IA pero no la red para transportarla"
 date: 2026-07-08
 last_modified_at: 2026-09-23
 categories: articulos

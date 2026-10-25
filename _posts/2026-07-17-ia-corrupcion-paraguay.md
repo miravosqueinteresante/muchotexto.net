@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brasil usa inteligencia artificial contra"
+title: "Brasil usa inteligencia artificial contra la corrupción, Paraguay no"
 date: 2026-07-17
 last_modified_at: 2026-08-15
 categories: articulos

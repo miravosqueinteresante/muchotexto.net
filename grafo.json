@@ -174,37 +174,31 @@
       "source": "mitic",
       "target": "bid",
       "type": "articulo",
-      "label": "1.5M de identidades y 480 trámites online"
+      "label": "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "articulo",
-      "label": "Yguazú Digital y la apuesta de Paraguay"
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "articulo",
-      "label": "Paraguay tiene energía para la IA pero no"
+      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "articulo",
-      "label": "ANDE oculta 943 MW de contratos bajo llave"
-    },
-    {
-      "source": "ande",
-      "target": "itaipu",
-      "type": "ley",
-      "label": "Anexo C del Tratado de Itaipú"
+      "label": "ANDE oculta 943 MW de contratos GCIE bajo llave"
     },
     {
       "source": "ande",
@@ -214,63 +208,69 @@
     },
     {
       "source": "ande",
-      "target": "yacyreta",
-      "type": "articulo",
-      "label": "Yguazú Digital y la apuesta de Paraguay"
+      "target": "itaipu",
+      "type": "ley",
+      "label": "Anexo C del Tratado de Itaipú"
     },
     {
       "source": "ande",
       "target": "yacyreta",
       "type": "articulo",
-      "label": "Paraguay tiene energía para la IA pero no"
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
+    },
+    {
+      "source": "ande",
+      "target": "yacyreta",
+      "type": "articulo",
+      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
     },
     {
       "source": "ande",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Yguazú Digital y la apuesta de Paraguay"
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     },
     {
       "source": "ande",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Por qué Paraguay es el último país"
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "ande",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores"
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
     },
     {
       "source": "ande",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "ande",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores"
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "ande",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Por qué Paraguay es el último país"
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
     },
     {
       "source": "ande",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "ande",
       "target": "araico",
       "type": "articulo",
-      "label": "ARAICO promete un campus de IA de 1,3 GW"
+      "label": "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
     },
     {
       "source": "ande",
@@ -288,169 +288,169 @@
       "source": "ande",
       "target": "santiago-pena",
       "type": "articulo",
-      "label": "Por qué Paraguay es el último país"
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "ande",
       "target": "santiago-pena",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "ande",
       "target": "bid",
       "type": "articulo",
-      "label": "El estudio Ceare que proyecta la tarifa de"
+      "label": "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
     },
     {
       "source": "ande",
       "target": "tsmc",
       "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores"
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
     },
     {
       "source": "ande",
       "target": "universidad-nacional",
       "type": "articulo",
-      "label": "La salida de Atome no es una pérdida de"
+      "label": "La salida de Atome no es una pérdida de USD 665 millones"
     },
     {
       "source": "itaipu",
       "target": "yacyreta",
       "type": "articulo",
-      "label": "Yguazú Digital y la apuesta de Paraguay"
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     },
     {
       "source": "itaipu",
       "target": "yacyreta",
       "type": "articulo",
-      "label": "Paraguay tiene energía para la IA pero no"
+      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
     },
     {
       "source": "itaipu",
       "target": "yacyreta",
       "type": "articulo",
-      "label": "Paraguay tiene energía 100% renovable y el"
+      "label": "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     },
     {
       "source": "itaipu",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Yguazú Digital y la apuesta de Paraguay"
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     },
     {
       "source": "itaipu",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "itaipu",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "itaipu",
       "target": "santiago-pena",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "yacyreta",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Yguazú Digital y la apuesta de Paraguay"
+      "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     },
     {
       "source": "yguazu-digital",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores"
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "yguazu-digital",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Paraguay aprobó una ley de protección de"
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
     },
     {
       "source": "yguazu-digital",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Por qué Paraguay es el último país"
+      "label": "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     },
     {
       "source": "yguazu-digital",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "yguazu-digital",
       "target": "hive-digital",
       "type": "articulo",
-      "label": "Lo que un data center compra y Paraguay no"
+      "label": "Lo que un data center compra y Paraguay no puede vender"
     },
     {
       "source": "yguazu-digital",
       "target": "santiago-pena",
       "type": "articulo",
-      "label": "Por qué Paraguay es el último país"
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "yguazu-digital",
       "target": "santiago-pena",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "yguazu-digital",
       "target": "tsmc",
       "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores"
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
     },
     {
       "source": "yguazu-digital",
       "target": "universidad-nacional",
       "type": "articulo",
-      "label": "Paraguay aprobó una ley de protección de"
+      "label": "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     },
     {
       "source": "taiwan",
       "target": "santiago-pena",
       "type": "articulo",
-      "label": "Por qué Paraguay es el último país"
+      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "taiwan",
       "target": "santiago-pena",
       "type": "articulo",
-      "label": "Lo que Itaipú le enseña a Paraguay sobre"
+      "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
       "source": "taiwan",
       "target": "tsmc",
       "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores"
+      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
     },
     {
       "source": "taiwan",
       "target": "universidad-nacional",
       "type": "articulo",
-      "label": "Paraguay aprobó una ley de protección de"
+      "label": "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     },
     {
       "source": "hive-digital",
       "target": "universidad-nacional",
       "type": "articulo",
-      "label": "Cuando un data center llega a una ciudad"
+      "label": "Qué le pasa a una ciudad paraguaya cuando llega un data center"
     },
     {
       "source": "starlink",
       "target": "conatel",
       "type": "articulo",
-      "label": "Starlink ya conecta a 20.000 paraguayos"
+      "label": "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
     },
     {
       "source": "peter-thiel",
@@ -471,10 +471,16 @@
       "label": "El experimento paraguayo de Peter Thiel"
     },
     {
+      "source": "universidad-nacional",
+      "target": "tigo",
+      "type": "articulo",
+      "label": "El data center Tier III que Paraguay ya tiene hace una década"
+    },
+    {
       "source": "conatel",
       "target": "tigo",
       "type": "articulo",
-      "label": "5G: espectro repartido, red solo de Claro"
+      "label": "5G en Paraguay, espectro repartido y red encendida solo en Claro"
     },
     {
       "source": "bcp",

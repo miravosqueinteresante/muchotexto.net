@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lo que un data center compra y Paraguay no"
+title: "Lo que un data center compra y Paraguay no puede vender"
 date: 2026-07-25
 last_modified_at: 2026-08-15
 categories: articulos

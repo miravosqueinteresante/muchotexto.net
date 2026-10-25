@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Por qué Paraguay es el último país"
+title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
 date: 2026-07-09
 last_modified_at: 2026-08-15
 categories: articulos

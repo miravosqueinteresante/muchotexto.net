@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuando un data center llega a una ciudad"
+title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
 date: 2026-08-04 12:00:00 -0300
 last_modified_at: 2026-10-02
 categories: articulos

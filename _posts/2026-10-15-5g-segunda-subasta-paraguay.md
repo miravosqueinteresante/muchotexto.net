@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5G: espectro repartido, red solo de Claro"
+title: "5G en Paraguay, espectro repartido y red encendida solo en Claro"
 date: 2026-10-15 09:00:00 -0300
 last_modified_at: 2026-10-15
 categories: [articulos]

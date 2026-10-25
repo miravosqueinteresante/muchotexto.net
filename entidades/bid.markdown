@@ -4,7 +4,7 @@ title: "Banco Interamericano de Desarrollo"
 description: >
   Perfil de BID en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Banco Interamericano de Desarrollo.
 permalink: /entidades/bid/
-last_modified_at: 2026-10-19
+last_modified_at: 2026-10-25
 entity_id: bid
 entity_name: BID
 entity_name_full: Banco Interamericano de Desarrollo
@@ -12,10 +12,10 @@ entity_description: >
   Organismo multilateral que financió la Agenda Digital de Paraguay con un préstamo de USD 130M (2019) y la Estrategia Nacional de Hidrógeno Verde (2025). Socio financiero recurrente en infraestructura digital y energética del país. El Data Center Estatal Tier III del MITIC también fue financiado por el BID.
 entity_category: geopolítica
 related_articles:
-  - title: "1.5M de identidades y 480 trámites online"
+  - title: "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/
     context: "En 2018, Paraguay creó el Ministerio de Tecnologías de la Información y Comunicación. En 2019 firmó un préstamo de 130 millones de dólares con el BID para su Agenda Digital. En 2026 reporta más de 480 trámites en línea, 1,5 millones de ciudadanos..."
-  - title: "El estudio Ceare que proyecta la tarifa de"
+  - title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
     context: "> **En resumen;** > - El estudio Ceare (UBA, con apoyo del BID) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2024 y 2030, un alza del 39,4%. > - El mayor ajuste es para la alta y muy alta tensión —la industrial y de data..."
 obs_cronologia:

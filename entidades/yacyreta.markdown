@@ -4,7 +4,7 @@ title: "Entidad Binacional Yacyretá"
 description: >
   Perfil de Yacyretá en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Entidad Binacional Yacyretá.
 permalink: /entidades/yacyreta/
-last_modified_at: 2026-10-19
+last_modified_at: 2026-10-25
 entity_id: yacyreta
 entity_name: Yacyretá
 entity_name_full: Entidad Binacional Yacyretá
@@ -14,11 +14,11 @@ entity_category: infraestructura
 entity_datos_url: https://datospublicos.muchotexto.net/yacyreta.html
 entity_datos_desc: "Generación binacional Paraguay-Argentina: mensual EBY y agregada anual"
 related_articles:
-  - title: "Yguazú Digital y la apuesta de Paraguay"
+  - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-  - title: "Paraguay tiene energía para la IA pero no"
+  - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
-  - title: "Paraguay tiene energía 100% renovable y el"
+  - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/03/energia-renovable-cambio-climatico-paraguay/
 entity_laws:
   - "Tratado de Yacyretá (1973) — entidad binacional Paraguay-Argentina"

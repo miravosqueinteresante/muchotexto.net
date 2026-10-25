@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yguazú Digital y la apuesta de Paraguay"
+title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
 date: 2026-06-23
 last_modified_at: 2026-09-23
 categories: articulos

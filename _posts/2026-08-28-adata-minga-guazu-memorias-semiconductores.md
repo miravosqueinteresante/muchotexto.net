@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ADATA mira Minga Guazú para ensamblar SSDs"
+title: "ADATA mira a Minga Guazú para ensamblar memorias y SSDs"
 date: 2026-08-28 06:00:00 -0300
 last_modified_at: 2026-08-28
 categories: articulos

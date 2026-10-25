@@ -4,7 +4,7 @@ title: "Santiago Peña Palacios"
 description: >
   Perfil de Santiago Peña en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Santiago Peña Palacios.
 permalink: /entidades/santiago-pena/
-last_modified_at: 2026-10-19
+last_modified_at: 2026-10-25
 entity_id: santiago-pena
 entity_name: Santiago Peña
 entity_name_full: Santiago Peña Palacios
@@ -14,11 +14,11 @@ entity_category: gobierno
 related_articles:
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
-  - title: "Apertura eléctrica: luces y sombras"
+  - title: "Luces y sombras de la apertura eléctrica en Paraguay"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-  - title: "Por qué Paraguay es el último país"
+  - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
-  - title: "Lo que Itaipú le enseña a Paraguay sobre"
+  - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/01/modelo-itaipu-gobernanza-ia/
 obs_cronologia:
   - label: "Octubre 2023"

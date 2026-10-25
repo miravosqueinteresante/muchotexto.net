@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Startups de IA que nadie conoce en Paraguay"
+title: "Paraguay tiene startups de IA aunque nadie las conoce"
 date: 2026-07-14
 last_modified_at: 2026-08-15
 categories: articulos

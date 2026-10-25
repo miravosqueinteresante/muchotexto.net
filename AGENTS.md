@@ -169,6 +169,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 - **Certificaciones Tier III**: existen en Paraguay (Itaipú, Tigo, Telefónica)
 - **Fechas de hitos corporativos**: verificar con comunicados oficiales de la empresa, no con prensa
 - **Cifras de empleo**: cruzar datos de IPS con claims de cámaras sectoriales
+- **Títulos long-form**: `title` es el H1; no truncarlo a 43 chars (error del barrido SEO de oct-2026). Límite 70 chars de `validate_publish`. Si hace falta acortar el `<title>`, usar `seo_title` opcional. El clamp 13-43 aplica solo a Pulso/Editorial.
 
 ## Claims verificados (referencia para futuros artículos)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lo que el capital de Silicon Valley busca"
+title: "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
 date: 2026-07-31 18:00:00 -0300
 last_modified_at: 2026-09-23
 categories: articulos

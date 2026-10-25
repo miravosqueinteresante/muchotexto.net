@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Telemedicina desde 2013, IA en salud: no"
+title: "Paraguay tiene telemedicina desde 2013, la IA en salud todavía no"
 date: 2026-07-16
 last_modified_at: 2026-08-15
 categories: articulos

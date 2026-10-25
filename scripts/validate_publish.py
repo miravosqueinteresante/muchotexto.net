@@ -151,7 +151,7 @@ def check_cierre(post_path: str) -> list[str]:
     return errors
 
 
-def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[str]]:
+def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = True) -> tuple[list[str], list[str]]:
     errors = []
     warnings = []
     content = read_file(post_path)
@@ -175,7 +175,7 @@ def check_post(post_path: str, ultimos_3: list[dict]) -> tuple[list[str], list[s
     if not categories:
         errors.append("Categoria no definida en frontmatter")
 
-    if "articulos" in categories:
+    if "articulos" in categories and require_cierre:
         errors.extend(check_cierre(post_path))
 
     if '"@type": "FAQPage"' not in content and '"@type":"FAQPage"' not in content:
@@ -443,7 +443,7 @@ def main():
 
     for post_file in staged_posts:
         post_path = os.path.join(REPO_DIR, post_file)
-        errors, warnings = check_post(post_path, ultimos_3)
+        errors, warnings = check_post(post_path, ultimos_3, require_cierre=(post_file in new_posts))
         all_errors.extend(errors)
         all_warnings.extend(warnings)
         print_report(errors, warnings, os.path.basename(post_file))

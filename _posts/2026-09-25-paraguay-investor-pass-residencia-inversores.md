@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay firma la residencia permanente"
+title: "Paraguay firma la residencia permanente más directa de la región"
 date: 2026-09-25 09:00:00 -0300
 last_modified_at: 2026-09-25
 categories: [articulos]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EE.UU. usó IA para reinventar el fútbol"
+title: "Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026"
 date: 2026-06-23
 last_modified_at: 2026-08-15
 categories: articulos

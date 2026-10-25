@@ -4,7 +4,7 @@ title: "Comisión Nacional de Telecomunicaciones"
 description: >
   Perfil de Conatel en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Comisión Nacional de Telecomunicaciones.
 permalink: /entidades/conatel/
-last_modified_at: 2026-10-19
+last_modified_at: 2026-10-25
 entity_id: conatel
 entity_name: Conatel
 entity_name_full: Comisión Nacional de Telecomunicaciones
@@ -12,10 +12,10 @@ entity_description: >
   Organismo regulador de las telecomunicaciones de Paraguay. Administra el espectro radioeléctrico y adjudicó las licitaciones de 5G: la primera en 2025 (Claro y Nubicom) y la segunda en 2026 (Tigo y Personal). Regula la conectividad del país, una de las patas del hub digital paraguayo.
 entity_category: gobierno
 related_articles:
-  - title: "Starlink ya conecta a 20.000 paraguayos"
+  - title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
     url: /articulos/2026/07/15/starlink-paraguay-conectividad/
     context: "En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier."
-  - title: "5G: espectro repartido, red solo de Claro"
+  - title: "5G en Paraguay, espectro repartido y red encendida solo en Claro"
     url: /articulos/2026/10/15/5g-segunda-subasta-paraguay/
     context: "Paraguay acaba de dar su segundo paso hacia el 5G, pero la distancia entre ese paso y la red real sigue siendo amplia. El 4 de agosto de 2026, la **Conatel** adjudicó la segunda licitación de espectro 5G; **100 MHz a Tigo** en la banda de..."
 obs_cronologia:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay está enseñando guaraní a la"
+title: "Paraguay está enseñando guaraní a la inteligencia artificial"
 date: 2026-07-29
 last_modified_at: 2026-08-15
 categories: articulos

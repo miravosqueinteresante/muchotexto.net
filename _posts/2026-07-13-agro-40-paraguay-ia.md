@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El campo paraguayo se moderniza sin el"
+title: "El campo paraguayo se moderniza sin el pequeño productor"
 date: 2026-07-13
 last_modified_at: 2026-08-15
 categories: articulos

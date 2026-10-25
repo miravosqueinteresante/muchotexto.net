@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lo que la criptominería le cuesta"
+title: "Lo que la criptominería le cuesta realmente a Paraguay"
 date: 2026-07-07
 last_modified_at: 2026-09-23
 categories: articulos

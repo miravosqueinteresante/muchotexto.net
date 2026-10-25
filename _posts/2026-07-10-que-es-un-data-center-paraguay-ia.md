@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qué es un data center y por qué Paraguay"
+title: "Qué es un data center y por qué Paraguay quiere construir uno"
 date: 2026-07-10
 last_modified_at: 2026-10-20
 categories: articulos

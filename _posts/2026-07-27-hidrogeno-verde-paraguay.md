@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paraguay tiene la energía para el"
+title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
 date: 2026-07-27
 last_modified_at: 2026-09-23
 categories: articulos
