@@ -7,12 +7,13 @@ layout: default
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "TechArticle",
+    "@type": "Article",
     "headline": {{ page.title | jsonify }},
     "description": {{ page.description | jsonify }},
     "image": "{{ site.url }}/assets/images/og-image.png",
+    "inLanguage": "es",
     "datePublished": "{{ page.date | default: page.last_modified_at | default: site.time | date_to_xmlschema }}",
-    "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | default: site.time | date_to_xmlschema }}",
     "author": { "@id": "https://muchotexto.net/#author", "name": "César Sánchez" },
     "publisher": {
       "@id": "https://muchotexto.net/#org",
@@ -24,6 +25,37 @@ layout: default
     {% if page.faq %}
     ,"mainEntity": {{ page.faq | jsonify }}
     {% endif %}
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Inicio",
+        "item": "{{ site.url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": {{ page.title | jsonify }},
+        "item": "{{ site.url }}{{ page.url }}"
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": {{ page.title | jsonify }},
+    "@id": "{{ site.url }}{{ page.url }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "inLanguage": "es",
+    "isPartOf": { "@id": "https://muchotexto.net/#website" }
   }
   </script>
   {{ content }}
