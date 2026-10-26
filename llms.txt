@@ -93,6 +93,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [¿Qué es realmente el fútbol?](https://muchotexto.net/articulos/2026/06/10/que-es-realmente-el-futbol/)
 - [Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026](https://muchotexto.net/articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/)
 - [Paraguay está enseñando guaraní a la inteligencia artificial](https://muchotexto.net/articulos/2026/07/29/guarani-ia/)
+- [Inteligencia de alquiler, la IA como pareja, terapeuta y jefe](https://muchotexto.net/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
 
 <!-- ARTICULOS:FIN -->
 

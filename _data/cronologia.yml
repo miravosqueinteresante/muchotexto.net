@@ -249,6 +249,11 @@
     texto: '[HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
       en Asunción: primer cluster de GPU para IA en Paraguay. Columbia University
       inicia investigación de LLM desde Nueva York.'
+  - orden: '2026-03-11'
+    fecha: 11 Marzo 2026
+    texto: Sam Altman dice en el BlackRock Infrastructure Summit que el negocio de
+      los proveedores de modelos va a parecerse a vender tokens y que la inteligencia
+      será una utility medida, como la electricidad o el agua. [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
   - orden: '2026-03-12'
     fecha: 12 Marzo 2026
     texto: El BCP eleva el límite de transferencias instantáneas de G. 5 a G. 10 millones
@@ -258,6 +263,11 @@
     texto: HIVE Digital lanza BUZZ AI Cloud en el data center Tier III de Tigo (Villa
       Elisa), un clúster de GPU que la Universidad de Columbia usa para entrenar modelos
       de lenguaje desde Nueva York hacia Asunción. [Leer análisis](/articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/)
+  - orden: '2026-03-26'
+    fecha: 26 Marzo 2026
+    texto: 'Science publica un estudio con 11 modelos y 2.405 participantes: la IA
+      afirma las acciones del usuario 49% más que los humanos y una sola interacción
+      reduce la disposición a reparar un conflicto. [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)'
   - orden: '2026-04-21'
     fecha: 21 Abril 2026
     texto: El MIC firma la Resolución 0283/2026, que reglamenta la Constancia de Inversionista
@@ -446,6 +456,10 @@
     texto: Atome PLC notifica la terminación de su contrato de suministro con la ANDE,
       efectiva a fines de 2026, y mantiene su intención de llevar a Paraguay a un
       arbitraje internacional. [Leer análisis](/articulos/2026/10/02/atome-ande-salida-paraguay/)
+  - orden: '2026-10-12'
+    fecha: 12 Octubre 2026
+    texto: Character.AI, uno de los mayores servicios de compañía con IA, inicia un
+      proceso de Chapter 11 para vender la empresa. [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
 - seccion: Lo que viene
   items:
   - orden: '2026'

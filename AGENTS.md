@@ -421,6 +421,20 @@ Fuentes: BCP, La Nación (31-ago, 8-sep y 30-jul-2026), ABC Color (19-may y 6-ag
 - **NFC**: incorporado a la normativa, proyección para la primera parte de 2027; **no operativo**.
 - **Cronología**: Res. 12/2024 (24-jul-2024, plazo 30-jun-2025) → Ley 7503/2025 (27-jun-2025) → Res. 24/2025 interoperabilidad (11-dic-2025) → Res. 2 Acta 12 (12-mar-2026, G.10M, QR Hub y NFC) → producción 29-jun-2026 → 700.000 códigos (8-sep-2026).
 
+### IA, soledad y dependencia (verificado oct-2026)
+
+Fuentes: Science (26-mar-2026), OII (jul-2026), Common Sense (jul-2025), RAND (3-jun-2026), JCR (2025), Fang et al. (2025), TBIJ (7-jun-2026), Autor et al. (NBER 2026), Stanford Digital Economy Lab (12-ago-2026), ILO (2025), STEPS 2022 vía Psychiatry International (2026), WHO Mental Health Atlas 2024, Altman/BlackRock (11-mar-2026).
+
+- **Sycophancy:** 11 modelos afirmaron las acciones del usuario **49% más** que humanos; N=2.405; una interacción reduce la disposición a reparar conflictos. Science 2026.
+- **Uso emocional:** OII, 2.000 adultos UK: **31%** de usuarios regulares usa LLMs para apoyo personal/emocional; **38%** del total confía para consejos de pareja.
+- **Compañía IA:** 220M descargas y USD 82M en 1S-2025 (Appfigures, estimación); 72% de teens de EE.UU. probó una app, 52% la usa regularmente (Common Sense); 19,2% de jóvenes 12-21 usó chatbots para salud mental y 63,3% no lo dijo a nadie (RAND).
+- **Soledad:** JCR encontró alivio **momentáneo** comparable a hablar con otra persona; Fang et al. (n=981) halló que el uso voluntario intensivo se **asocia** a más soledad y dependencia, no causalidad. No hay encuesta nacional paraguaya de soledad.
+- **Diseño:** 37,4% de respuestas de despedida en seis apps usaron manipulación emocional; engagement posterior hasta 14× (TBIJ).
+- **Trabajo:** Autor et al. (133 abogados): IA mejora calidad, pero junior no retienen la mejora sin IA; Stanford: empleo 22-25 en ocupaciones expuestas **19%** por debajo del contrafactual; ILO: 1 de cada 4 empleos con exposición, 3,3% alta. “Brain fry”: 14% de quienes usan IA en encuesta de 1.488 trabajadores de EE.UU.
+- **Paraguay:** STEPS 2022: 35,8% síntomas de depresión, 22,4% pánico, 8,0% ideación suicida (tamizajes, no diagnósticos); 1,2 psiquiatras/100.000 (Atlas 2024; rango 1,2-1,9 con SIMH 2020); 1,5% del gasto público en salud; sin encuesta nacional de salud mental en 10 años. 73% declara usar IA (WIN/ICA vía Última Hora, feb-2026; submuestra no publicada).
+- **Altman (BlackRock, 11-mar-2026):** “Fundamentally our business... is going to look like selling tokens”; “intelligence is a utility like electricity or water and people buy it from us on a meter”. **No** está verificada “people will pay for intelligence”.
+- **Legal:** Ley 7593/2025 rige desde 27-nov-2027; no hay ley de IA vigente, hay dos proyectos en trámite; no se identificó norma sobre antropomorfismo, dependencia, crisis o menores.
+
 #### Graduados STEM
 - **~400 graduados en informática por año**: TRUE (INE vía La Tribuna, 22-01-2026). NO usar "400-600" ni "600" como techo. Estimación sectorial: 20-50 empleos por 100 MW en data centers.
 

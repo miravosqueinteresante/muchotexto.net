@@ -50,6 +50,12 @@
     descripcion: Direccion Nacional de Cambio Climatico y Direccion de Mercados de
       Carbono. Responsables de la NDC y el Plan Nacional de Adaptacion. [Leer mas](/articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/).
     url: https://www.mades.gov.py/
+  - nombre: OpenAI
+    descripcion: Laboratorio estadounidense de inteligencia artificial. Desarrolla
+      ChatGPT y vende acceso a sus modelos por suscripción y por tokens. Su CEO, Sam
+      Altman, describió el negocio como la venta de tokens y la inteligencia como
+      una utility medida.
+    url: https://openai.com/
 - seccion: Data centers e infraestructura
   items:
   - nombre: Yguazú Digital

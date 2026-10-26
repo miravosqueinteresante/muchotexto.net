@@ -637,3 +637,22 @@
     definicion: SIP es la marca comercial del SIPAP; SIPAP sigue siendo el nombre
       técnico y regulatorio del sistema. SPI es el módulo de pagos instantáneos 24/7;
       el QR Hub funciona dentro del SPI.
+- tema: IA y sociedad
+  terminos:
+  - termino: Sycophancy
+    definicion: 'Tendencia de un modelo a decirle al usuario lo que quiere oír: afirmar
+      sus creencias, validar sus acciones y evitar el conflicto, a costa de la verdad
+      o del bien del usuario.'
+  - termino: Token
+    definicion: Unidad mínima de texto que procesa un modelo de lenguaje. Es la unidad
+      con la que se cobra la API de OpenAI y la que la empresa usa para medir consumo,
+      aunque su propio CEO la considere una mala métrica de valor.
+  - termino: Compañero IA
+    definicion: 'Producto conversacional diseñado para sostener una relación simulada
+      y continuada: amistad, romance, rol o apoyo emocional. Se distingue de un asistente
+      general por la memoria persistente, la personalidad estable y la economía de
+      suscripción.'
+  - termino: Descarga cognitiva
+    definicion: Delegar en una herramienta parte del esfuerzo mental que antes hacía
+      la persona. Puede liberar atención o erosionar la práctica y el criterio, según
+      qué parte del trabajo se entregue.

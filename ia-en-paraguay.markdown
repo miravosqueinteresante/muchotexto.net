@@ -148,6 +148,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[¿Qué es realmente el fútbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** — Un ensayo filosófico sobre el fútbol: deporte, religión, guerra e idioma, desde Eduardo Galeano hasta el Mundial 2026.
 - **[Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** — USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol.
 - **[Paraguay está enseñando guaraní a la inteligencia artificial]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset comunitario de voz en guaraní.
+- **[Inteligencia de alquiler, la IA como pareja, terapeuta y jefe]({% post_url 2026-10-25-inteligencia-alquiler-ia-soledad-dependencia %})** — La IA no nos aísla por fría, sino por complaciente. Alivia la soledad momentánea, profundiza la dependencia y cobra por tokens. La evidencia y el caso paraguayo.
 
 <!-- PILAR:5:FIN -->
 > **¿2040 o 2050?** Las dos fechas conviven a propósito. **2040** es nuestro horizonte de análisis editorial (el futuro que modelamos con datos del observatorio, donde converge el cierre del bono demográfico ~2045 y el fin del superávit energético). **2050** es el horizonte oficial del Estado: el nombre del plan gubernamental (Política Energética Nacional al 2050, Decreto 2553/2024) que analizamos, no una meta que elegimos nosotros. 2040 = el futuro que proyectamos; 2050 = el futuro que el plan del gobierno promete.
