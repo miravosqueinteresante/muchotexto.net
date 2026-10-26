@@ -3,7 +3,7 @@ layout: post
 title: "Inteligencia de alquiler, la IA como pareja, terapeuta y jefe"
 seo_title: "IA, soledad y dependencia"
 date: 2026-10-25 12:00:00 -0300
-last_modified_at: 2026-10-25
+last_modified_at: 2026-10-26
 categories: articulos
 pilar: 5
 resumen: "La IA no nos aísla por fría, sino por complaciente. Alivia la soledad momentánea, profundiza la dependencia y cobra por tokens. La evidencia y el caso paraguayo."
