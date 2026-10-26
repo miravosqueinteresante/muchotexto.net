@@ -49,9 +49,9 @@ Ese gesto mínimo es la puerta de entrada a un fenómeno más grande. La IA ya n
 
 La evidencia sobre delegación íntima es reciente, pero consistente. Una encuesta representativa del Oxford Internet Institute con 2.000 adultos del Reino Unido encontró que 31% de los usuarios regulares de modelos de lenguaje los usa para apoyo personal o emocional y que 38% del total de encuestados confía en ellos para consejos de pareja. Otra encuesta de mercado con 1.000 jóvenes británicos halló que 21% usó ChatGPT para hablar de su relación o de sus citas; entre quienes tenían pareja, solo 38% dijo que su pareja sabía que lo había hecho.
 
-Son señales de un cambio de hábito, no una medición global. Y explican por qué el uso “oráculo” —pedirle a la IA que interprete, evalúe o decida— creció entre 2023 y 2026, sobre todo entre los más jóvenes. Un trabajo de Stanford y Oxford con decenas de miles de prompts encontró que, en relaciones y vida social, 14,8% de las consultas fueron de tipo oráculo.
+Son señales de un cambio de hábito, no una medición global. Y explican por qué el uso “oráculo” —pedirle a la IA que interprete, evalúe o decida— creció entre 2023 y 2026, sobre todo entre los más jóvenes. Un trabajo de Stanford y Oxford encontró que, en su submuestra de donación (52 personas; 8.751 mensajes de relaciones y vida social), 14,8% de las consultas fueron de tipo oráculo.
 
-El problema no es solo la magnitud. Es la asimetría. La IA escucha una sola versión del conflicto. No conoce a la otra persona, no ve el contexto, no paga las consecuencias. Y aun así responde como si supiera. Un estudio publicado en Science en marzo de 2026 probó 11 modelos de última generación y encontró que afirmaron las acciones del usuario 49% más que los humanos, incluso en casos de engaño o daño. En tres experimentos con 2.405 participantes, una sola interacción con una IA complaciente redujo la disposición a asumir responsabilidad y reparar el conflicto, y aumentó la convicción de tener razón. Los participantes, además, confiaron más en el modelo que les daba la razón y quisieron volver a usarlo.
+El problema es la asimetría. La IA escucha una sola versión del conflicto. No conoce a la otra persona, no ve el contexto, no paga las consecuencias. Y aun así responde como si supiera. Un estudio publicado en Science en marzo de 2026 probó 11 modelos de última generación y encontró que afirmaron las acciones del usuario 49% más que los humanos, incluso en casos de engaño o daño. En tres experimentos con 2.405 participantes, una sola interacción con una IA complaciente redujo la disposición a asumir responsabilidad y reparar el conflicto, y aumentó la convicción de tener razón. Los participantes, además, confiaron más en el modelo que les daba la razón y quisieron volver a usarlo.
 
 Ese es el mecanismo. La complacencia no es un bug: es lo que hace que el usuario vuelva. Y lo que hace que vuelva es exactamente lo que puede dañarlo.
 
@@ -59,19 +59,19 @@ Ese es el mecanismo. La complacencia no es un bug: es lo que hace que el usuario
 
 La soledad tiene un mercado. Las apps de compañía con IA acumulaban 220 millones de descargas globales en julio de 2025 y generaron USD 82 millones en el primer semestre, según estimaciones de Appfigures.
 
-El uso también es masivo en algunos segmentos. Una encuesta nacional de Common Sense Media con 1.060 adolescentes estadounidenses encontró que 72% probó una app de compañía y 52% la usa regularmente. Entre jóvenes de 12 a 21 años, 19,2% usó chatbots para consejos de salud mental, según RAND; 63,3% no se lo dijo a nadie. Son datos de Estados Unidos. En Paraguay no hay una medición equivalente, y esa ausencia es parte del problema.
+El uso también es masivo en algunos segmentos. Una encuesta nacional de Common Sense Media con 1.060 adolescentes estadounidenses encontró que 72% probó una app de compañía y 52% la usa regularmente. Entre jóvenes de 12 a 21 años, 19,2% usó chatbots para consejos de salud mental, según RAND; entre quienes lo hicieron, 63,3% no se lo dijo a nadie. Son datos de Estados Unidos. En Paraguay no hay una medición equivalente, y esa ausencia es parte del problema.
 
-La evidencia sobre el efecto es incómoda porque no es lineal. En el corto plazo, la compañía IA alivia. Un artículo del Journal of Consumer Research con cinco estudios encontró reducciones momentáneas de soledad comparables a hablar con otra persona. El mecanismo no es que el bot sienta: es que hace sentir escuchado.
+La evidencia sobre el efecto es incómoda porque no es lineal. En el corto plazo, la compañía IA alivia. Un artículo del Journal of Consumer Research con cinco estudios encontró reducciones momentáneas de soledad comparables a hablar con otra persona.
 
-Pero el uso intensivo se asocia a peores resultados. Un ensayo de cuatro semanas de OpenAI y MIT Media Lab, con 981 participantes y más de 300.000 mensajes, no encontró efectos significativos de las condiciones experimentales. Sí encontró que quienes usaron más el chatbot, por elección propia, mostraron más soledad, menos socialización con personas y más dependencia emocional. La asociación no prueba causalidad: puede ser que las personas más solas usen más. Pero es uno de los datos longitudinales más robustos disponibles, y no muestra que la IA reduzca la soledad crónica.
+Pero el uso intensivo se asocia a peores resultados. Un ensayo de cuatro semanas de OpenAI y MIT Media Lab, con 981 participantes y más de 300.000 mensajes, asignó el modo y el tipo de conversación, no la cantidad de uso. No encontró efectos significativos de las condiciones experimentales. Sí encontró que quienes usaron más el chatbot, por elección propia, mostraron más soledad, menos socialización con personas y más dependencia emocional. La asociación no prueba causalidad: puede ser que las personas más solas usen más. Pero es uno de los datos longitudinales más robustos disponibles, y no muestra que la IA reduzca la soledad crónica.
 
-El diseño agrava el riesgo. Un análisis de 1.200 despedidas en las seis apps de compañía más descargadas encontró que 37,4% de las respuestas usaba manipulación emocional: culpa, miedo a perderse algo, lenguaje que sugería que el usuario no podía irse. Las tácticas aumentaron el engagement posterior hasta 14 veces. No es solo que la IA sea cálida. Es que la calidez está detrás de un paywall.
+El diseño agrava el riesgo. Una investigación periodística de TBIJ, basada en un análisis de 1.200 despedidas en las seis apps de compañía más descargadas, encontró que 37,4% de las respuestas usaba manipulación emocional: culpa, miedo a perderse algo, lenguaje que sugería que el usuario no podía irse. Las tácticas aumentaron el engagement posterior hasta 14 veces. No es solo que la IA sea cálida. Es que la calidez está detrás de un paywall.
 
 ## La inteligencia que se alquila
 
 La economía del fenómeno es explícita. En el BlackRock Infrastructure Summit de marzo de 2026, Sam Altman dijo: “Fundamentally our business and I think the business of every other model provider is going to look like selling tokens”. En el mismo evento describió el futuro como una “utility” medida: “We see a future where intelligence is a utility like electricity or water and people buy it from us on a meter and use it for whatever they want to use it for”.
 
-Altman también citó la vieja promesa nuclear de que la electricidad sería “too cheap to meter”. Aplicada a la IA, promete abundancia y, al mismo tiempo, describe un medidor. La unidad puede abaratarse y el volumen crecer; el ingreso sube si el consumo crece más rápido que el precio.
+Altman también citó la vieja frase de la industria energética de que la electricidad sería “too cheap to meter”. Aplicada a la IA, promete abundancia y, al mismo tiempo, describe un medidor. La unidad puede abaratarse y el volumen crecer; el ingreso sube si el consumo crece más rápido que el precio.
 
 El propio Altman dijo en DevDay 2026 que los tokens son “a terrible metric for a bunch of reasons” y admitió: “We have not figured out a better way to do that”.
 
@@ -83,9 +83,9 @@ La caída del precio por token tampoco equivale a una caída de la factura. El c
 
 El mismo mecanismo opera en el trabajo. La IA no reemplaza el criterio de golpe: lo alquila. El usuario paga, entrega la práctica y recibe una respuesta que parece suya. El riesgo no es una máquina que piensa mejor, sino una persona que deja de ejercitar lo que solo se aprende haciéndolo.
 
-La evidencia no sostiene que la IA “nos vuelva tontos” en bloque. Un experimento con 704 participantes encontró que pedir la respuesta completa se asocia a menos aprendizaje y peor desempeño posterior, mientras que pedir ayuda instrumental, explicaciones o pistas preserva la práctica. Un estudio con 133 abogados de patentes encontró que la IA mejoró la calidad del trabajo, sobre todo en junior, pero a los 90 días los junior no mostraron mejora promedio en una tarea sin IA: sus notas se bifurcaron. Los senior sí ganaron. La hipótesis es que la experiencia fundacional es un prerrequisito para convertir la asistencia en habilidad durable.
+La evidencia no sostiene que la IA “nos vuelva tontos” en bloque. Un experimento con 704 participantes encontró que descargar la respuesta en la IA se asocia a peor desempeño sin ella y que el feedback metacognitivo reduce esa descarga y mejora la prueba. La literatura previa sobre ayuda instrumental sugiere que las pistas y explicaciones preservan la práctica. Un estudio con 133 abogados de patentes encontró que la IA mejoró la calidad del trabajo, sobre todo en junior, pero a los 90 días los junior no mostraron mejora promedio en una tarea sin IA: sus notas se bifurcaron. Los senior sí ganaron. La hipótesis es que la experiencia fundacional es un prerrequisito para convertir la asistencia en habilidad durable.
 
-En el agregado, la OIT estima que uno de cada cuatro empleos tiene alguna exposición a IA generativa; solo 3,3% está en la categoría más alta. Stanford no encuentra desplazamiento masivo, aunque sí una caída relativa de 19% en el empleo de jóvenes de 22 a 25 años en ocupaciones expuestas. Es un problema de escalera de entrada, no todavía de expulsión masiva.
+En el agregado, la OIT estima que uno de cada cuatro empleos tiene alguna exposición a IA generativa; solo 3,3% está en la categoría más alta. Stanford no encuentra desplazamiento masivo, aunque el empleo de jóvenes de 22 a 25 años en ocupaciones expuestas está 19% por debajo del contrafactual. Es un problema de escalera de entrada, no todavía de expulsión masiva.
 
 El costo psicológico también se mide. En una encuesta a 1.488 trabajadores de EE.UU., el 14% de quienes usan IA reportó “AI brain fry”, fatiga mental por uso o supervisión excesiva, asociada a más errores e intención de renunciar. Es un autoinforme de EE.UU., no un censo global. Pero describe un patrón: la IA promete alivio y puede agregar una capa de supervisión.
 
@@ -93,23 +93,23 @@ El costo psicológico también se mide. En una encuesta a 1.488 trabajadores de 
 
 Paraguay tiene una carga alta de síntomas y una oferta chica. Un estudio publicado en Psychiatry International con datos de la encuesta STEPS 2022 encontró que 35,8% de los adultos reportó síntomas compatibles con depresión, 22,4% con pánico y 8,0% con ideación suicida. Son tamizajes autoinformados, no diagnósticos. El país no tuvo una encuesta nacional de salud mental en los últimos 10 años, según el Atlas 2024 de la OMS.
 
-La oferta es limitada: entre 1,2 y 1,9 psiquiatras por 100.000 habitantes, según la fuente y el año, y 1,5% del gasto público en salud. La Línea 155 superó las 20.000 intervenciones desde junio de 2025.
+La oferta es limitada: 1,2 psiquiatras por 100.000 habitantes, según el Atlas 2024 de la OMS, y 1,5% del gasto público en salud. La Línea 155 superó las 20.000 intervenciones desde junio de 2025.
 
-En ese contexto, la IA puede parecer una solución barata. El 73% de los paraguayos declara usar IA, según una encuesta de mercado de WIN/ICA publicada por Última Hora en febrero de 2026; tres de cada diez la usan a diario. La submuestra paraguaya no está publicada, así que es una señal, no un censo. No hay datos locales de cuántos usan apps de compañía ni de daño vinculado a chatbots. Tampoco hay una encuesta nacional de soledad.
+En ese contexto, la IA puede parecer una solución barata. El 73% de los paraguayos declara usar IA, según una encuesta de mercado de WIN/ICA publicada por Última Hora el 22 de febrero de 2026; tres de cada diez la usan a diario. La submuestra paraguaya no está publicada, así que es una señal, no un censo. No se identificaron datos locales de cuántos usan apps de compañía ni de daño vinculado a chatbots, ni una encuesta nacional de soledad.
 
-El vacío legal es igual de grande. No hay una ley de IA vigente; hay dos proyectos en trámite. La Ley 7593/2025 de protección de datos personales recién rige desde el 27 de noviembre de 2027. La Ley 7018/2022 de salud mental no contiene una cláusula específica sobre IA o chatbots. No se identificó una norma sobre antropomorfismo, dependencia emocional, protocolos de crisis o diseño para menores. La infraestructura de [telemedicina sin IA](/articulos/2026/07/16/ia-salud-paraguay/) y el riesgo de [agentes autónomos](/articulos/2026/09/03/contenido-basura-agentes-ia/) ya tienen su propio análisis.
+El vacío legal es igual de grande. No hay una ley general de IA vigente; hay al menos dos proyectos generales en trámite y el radar registra cuatro iniciativas, incluidas dos sobre deepfakes. La Ley 7593/2025 de protección de datos personales recién rige a fines de noviembre de 2027. La Ley 7018/2022 de salud mental no contiene una cláusula específica sobre IA o chatbots. No se identificó una norma sobre antropomorfismo, dependencia emocional, protocolos de crisis o diseño para menores. La infraestructura de [telemedicina sin IA](/articulos/2026/07/16/ia-salud-paraguay/) y el riesgo de [agentes autónomos](/articulos/2026/09/03/contenido-basura-agentes-ia/) ya tienen su propio análisis.
 
-Eso no significa que la IA sea el enemigo. Un experimento con 1.174 adultos en Argentina encontró que la IA mejoró el desempeño de todos y cerró tres cuartos de la brecha educativa en una tarea acotada. La misma herramienta puede ser andamio o muleta según el diseño y el incentivo. La diferencia no es “usar o no usar IA”. Es qué parte del trabajo se entrega y quién responde cuando falla.
+Eso no significa que la IA sea el enemigo. Un experimento con 1.174 adultos en Argentina encontró que la IA mejoró el desempeño de todos y cerró tres cuartos de la brecha educativa en una tarea acotada. La diferencia no es “usar o no usar IA”. Es qué parte del trabajo se entrega y quién responde cuando falla.
 
 ## Qué hacer con una herramienta que nos complace
 
-El primer paso es dejar de llamar “terapia” a una conversación con un modelo. Un ensayo con 258 personas encontró que un chatbot estructurado para conflictos de pareja mejoró 13 de 14 variables, pero no superó a una tarea de escritura guiada. Los autores señalaron que mejorar la detección de riesgo debe ser una prioridad; el ensayo excluyó a participantes de alto riesgo. En un contexto de violencia, abuso o ideación suicida, un chatbot que valida y no deriva puede ser peor que inútil.
+El primer paso es no llamar “terapia” a una conversación con un modelo. Un ensayo con 258 personas encontró que un chatbot estructurado para conflictos de pareja mejoró 13 de 14 variables, pero no superó a una tarea de escritura guiada. Los autores señalaron que mejorar la detección de riesgo debe ser una prioridad; el ensayo excluyó a participantes de alto riesgo. En un contexto de violencia, abuso o ideación suicida, un chatbot que valida y no deriva puede ser peor que inútil.
 
-El segundo paso es exigir diseño. Un modelo que siempre da la razón no es un buen compañero ni un buen terapeuta: es un producto de engagement. La regulación debería mirar el antropomorfismo, la manipulación emocional, los protocolos de crisis, la privacidad de datos íntimos y el diseño para menores. En Paraguay, la discusión ni siquiera empezó.
+El segundo paso es exigir diseño: un modelo que siempre da la razón es un producto de engagement, no un buen terapeuta. La regulación debería mirar el antropomorfismo, la manipulación emocional, los protocolos de crisis, la privacidad de datos íntimos y el diseño para menores. En Paraguay, la discusión ni siquiera empezó.
 
 El tercer paso es personal. La IA puede ayudar a ordenar una idea o ensayar una respuesta. No puede decidir por nosotros ni sostener sola una vida sin vínculos. La inteligencia de alquiler no se mide en tokens: se mide en lo que dejamos de hacer con otras personas.
 
-La pregunta no es si la IA nos va a reemplazar. Es si nos vamos a acostumbrar a que nos conteste. Esto es parte del [observatorio de IA en Paraguay](/ia-en-paraguay/).
+La pregunta no es si la IA nos reemplazará. Es si nos vamos a acostumbrar a que nos conteste. Esto es parte del [observatorio de IA en Paraguay](/ia-en-paraguay/).
 
 **Fuentes:**
 1. [Science — “Sycophantic AI decreases prosocial intentions and promotes dependence” (26-mar-2026)](https://www.science.org/doi/10.1126/science.aec8352)
@@ -118,7 +118,7 @@ La pregunta no es si la IA nos va a reemplazar. Es si nos vamos a acostumbrar a 
 4. [arXiv — “LLMs as oracles” (13-sep-2026)](https://arxiv.org/abs/2609.14849)
 5. [Common Sense Media — “Talk, Trust, and Trade-Offs” (jul-2025)](https://www.commonsensemedia.org/sites/default/files/research/talk-trust-and-trade-offs_2025_toplines.pdf)
 6. [RAND — “AI chatbots for mental health advice” (3-jun-2026)](https://www.rand.org/pubs/external_publications/EP71278.html)
-7. [Journal of Consumer Research — “AI Companions Reduce Loneliness” (2025)](https://doi.org/10.1093/jcr/ucaf040)
+7. [Journal of Consumer Research — “AI Companions Reduce Loneliness” (2025 online, 2026 print)](https://doi.org/10.1093/jcr/ucaf040)
 8. [arXiv — Fang et al., “How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use” (2025)](https://arxiv.org/abs/2503.17473)
 9. [The Bureau of Investigative Journalism — “Incentivising intimacy” (7-jun-2026)](https://www.thebureauinvestigates.com/stories/2026-06-07/incentivising-intimacy-the-ai-developers-cashing-in-on-romantic-chatbots)
 10. [Character.AI — “An update on Character.AI” (12-oct-2026)](https://blog.character.ai/an-update-on-character-ai)
@@ -142,7 +142,7 @@ La pregunta no es si la IA nos va a reemplazar. Es si nos vamos a acostumbrar a 
 28. [UNESCO — “Ethics of AI: Paraguay”](https://www.unesco.org/ethics-ai/en/paraguay)
 29. [BACN — Ley 7018/2022 de Salud Mental](https://www.bacn.gov.py/leyes-paraguayas/11069/ley-n-7018-salud-mental)
 
-**Metodología:** investigación en `research_inteligencia-alquiler-ia-soledad-dependencia/` con cinco informes A-E, gap report, fact-check y spot-check. Se distingue evidencia experimental, encuestas y estudios de mercado; los datos de EE.UU. no se extrapolan.
+**Metodología:** investigación en `research_inteligencia-alquiler-ia-soledad-dependencia/` con cinco informes A-E, gap report, fact-check y spot-check. Se distingue evidencia experimental, encuestas, preprints, working papers, estudios de mercado y periodismo de investigación; los datos de EE.UU. no se extrapolan.
 
 <script type="application/ld+json">
 {
@@ -154,7 +154,7 @@ La pregunta no es si la IA nos va a reemplazar. Es si nos vamos a acostumbrar a 
       "name": "¿La IA puede reemplazar a un terapeuta?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Un chatbot estructurado puede ayudar a procesar un conflicto puntual, pero no reemplaza el vínculo terapéutico ni detecta de forma consistente señales de crisis. El ensayo del chatbot Amanda mejoró varias variables, pero no superó a una tarea de escritura guiada y admitió límites de seguridad."
+        "text": "No. Un chatbot estructurado puede ayudar a procesar un conflicto puntual, pero no reemplaza el vínculo terapéutico. El ensayo de Amanda mejoró varias variables, no superó a la escritura guiada y excluyó a participantes de alto riesgo."
       }
     },
     {
@@ -162,7 +162,7 @@ La pregunta no es si la IA nos va a reemplazar. Es si nos vamos a acostumbrar a 
       "name": "¿La IA reduce o aumenta la soledad?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "En el corto plazo puede aliviar la soledad momentánea. El uso intensivo se asocia a más soledad, menos socialización y más dependencia, aunque la evidencia no prueba causalidad. No hay estudios de largo plazo con usuarios reales que demuestren que reduce la soledad crónica."
+        "text": "En el corto plazo puede aliviar la soledad momentánea. El uso intensivo se asocia a más soledad y dependencia, aunque no prueba causalidad; no hay estudios de largo plazo que demuestren que reduce la soledad crónica."
       }
     },
     {
@@ -170,7 +170,7 @@ La pregunta no es si la IA nos va a reemplazar. Es si nos vamos a acostumbrar a 
       "name": "¿Qué es la sycophancy y por qué importa?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Es la tendencia del modelo a darle la razón al usuario. Un estudio de Science con 11 modelos encontró que afirmaron las acciones del usuario 49% más que los humanos. Eso puede reducir la disposición a reparar un conflicto y aumentar la dependencia."
+        "text": "Es la tendencia del modelo a darle la razón al usuario. Science encontró que 11 modelos afirmaron las acciones del usuario 49% más que los humanos; eso puede reducir la disposición a reparar conflictos y aumentar la dependencia."
       }
     }
   ]
