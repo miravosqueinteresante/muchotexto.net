@@ -14,7 +14,7 @@ entity_category: empresa
 related_articles:
   - title: "QR Hub, la apuesta del BCP para digitalizar comercios"
     url: /articulos/2026/10/20/qr-hub-paraguay/
-    context: "El 68,1% de los pagos electrónicos que procesa **Bancard** se hace con QR. Es el dato de la red privada con números de abril de 2026, cuando registraba 20,2 millones de operaciones y 181.000 comercios. ABC Color sostiene que Paraguay se saltó la..."
+    context: "El 68,1% de los pagos electrónicos que procesa Bancard se hace con QR. Es el dato de la red privada con números de abril de 2026, cuando registraba 20,2 millones de operaciones y 181.000 comercios. ABC Color sostiene que Paraguay se saltó la..."
 obs_glosario:
   - label: "Bancard"
     url: /articulos/2026/07/24/ecommerce-logistica-paraguay/

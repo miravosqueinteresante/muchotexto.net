@@ -14,10 +14,10 @@ entity_category: empresa
 related_articles:
   - title: "El data center Tier III que Paraguay ya tiene hace una década"
     url: /articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/
-    context: "Paraguay discute, desde hace dos años, data centers de inteligencia artificial que se miden en cientos de megavatios. El que **ya existe**, el único Tier III de un operador privado, mide su capacidad en megavatios que se cuentan con los dedos de una."
+    context: "Paraguay discute, desde hace dos años, data centers de inteligencia artificial que se miden en cientos de megavatios. El que ya existe, el único Tier III de un operador privado, mide su capacidad en megavatios que se cuentan con los dedos de una..."
   - title: "5G en Paraguay, espectro repartido y red encendida solo en Claro"
     url: /articulos/2026/10/15/5g-segunda-subasta-paraguay/
-    context: "Paraguay acaba de dar su segundo paso hacia el 5G, pero la distancia entre ese paso y la red real sigue siendo amplia. El 4 de agosto de 2026, la **Conatel** adjudicó la segunda licitación de espectro 5G; **100 MHz a Tigo** en la banda de..."
+    context: "Paraguay acaba de dar su segundo paso hacia el 5G, pero la distancia entre ese paso y la red real sigue siendo amplia. El 4 de agosto de 2026, la Conatel adjudicó la segunda licitación de espectro 5G; 100 MHz a Tigo en la banda de..."
 obs_cronologia:
   - label: "23 Noviembre 2016"
     url: /cronologia/

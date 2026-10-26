@@ -207,6 +207,7 @@ def load_observatory_entries():
         """Strip markdown links and formatting from context text."""
         text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
         text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)
+        text = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'\1', text)
         return text.strip()
 
     def truncate(text, max_len=200):
@@ -458,6 +459,9 @@ def generate_entity_page(entity, related_articles, obs_matches):
             title_clean = art["title"].replace('"', "'")
             ctx = art.get("context", "")
             ctx = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', ctx)
+            ctx = re.sub(r'\*\*([^*]+)\*\*', r'\1', ctx)
+            ctx = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'\1', ctx)
+            ctx = ctx.replace("**", "").replace("*", "")
             ctx = ctx.replace('"', "'").replace(":", ";")[:250]
             lines.append(f'  - title: "{title_clean}"')
             lines.append(f'    url: {art["url"]}')

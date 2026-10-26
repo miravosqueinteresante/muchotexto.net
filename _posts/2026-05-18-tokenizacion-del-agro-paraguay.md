@@ -187,7 +187,7 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
 <li><strong>FINMA</strong> – <a href="https://www.finma.ch/en/news/2025/03/20250318-mm-dlt-handelssystem/">First DLT trading facility license</a> (Mar 2025)</li>
 <li><strong>CoinTelegraph</strong> – "Farmway tokenizes $100M Georgia almond orchards" (2025)</li>
 <li><strong>CoinTelegraph</strong> – "CertiK RWA Security Report 2025"</li>
-<li>**Olympix** — "90% of exploited smart contracts were audited" (2026)</li>
+<li><strong>Olympix</strong> — "90% of exploited smart contracts were audited" (2026)</li>
 <li><strong>CriptoNoticias</strong> – <a href="https://www.criptoNoticias.com/seguridad-bitcoin/detenido-mexico-promotor-criptomoneda-agrocoin">"Detenido en México promotor de criptomoneda Agrocoin"</a></li>
 <li><strong>IAPP</strong> – <a href="https://iapp.org/news/a/paraguay-da-un-paso-hacia-un-marco-moderno-de-protecci-n-de-la-privacidad">"Paraguay da un paso hacia un marco moderno de protección de la privacidad"</a> (Dec 2025)</li>
 <li><strong>Ferrere Abogados</strong> – <a href="https://www.ferrere.com/es/novedades/paraguay-adopta-su-ley-de-proteccion-de-datos-personales">"Paraguay adopta su Ley de Protección de Datos Personales"</a> (Nov 2025)</li>
@@ -196,10 +196,10 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
 <li><strong>World Bank</strong> – <a href="https://www.worldbank.org/en/publication/globalfindex">Global Findex 2025</a></li>
 <li><strong>Internet Society</strong> – <a href="https://pulse.internetsociety.org/en/reports/PY/">Paraguay Pulse Report 2024</a></li>
 <li><strong>BCP</strong> – <a href="https://www.bcp.gov.py/web/institucional/w/indicadores-financieros-noviembre-2025">Indicadores financieros noviembre 2025</a></li>
-<li>**Cámara Paraguaya de Fintech**: https://fintech.org.py/</li>
+<li><strong>Cámara Paraguaya de Fintech</strong>: https://fintech.org.py/</li>
 <li><strong>DataReportal</strong> – <a href="https://datareportal.com/reports/digital-2026-paraguay">Digital 2026 Paraguay</a></li>
 <li><strong>CAF</strong> – Financial capabilities surveys (OECD/INFE methodology)</li>
-<li>**FATF** — Targeted Update on VA/VASPs (2024, 2025)</li>
+<li><strong>FATF</strong> — Targeted Update on VA/VASPs (2024, 2025)</li>
 <li><strong>Chainalysis</strong> – <a href="https://www.chainalysis.com/blog/2025-global-crypto-adoption-index">2025 Crypto Crime Report</a></li>
 <li><strong>Finka</strong> – Swiss cattle tokenization platform</li>
 <li><strong>PwC Brazil</strong> – <a href="https://www.pwc.com.br/pt/consultoria/agtech-innovation/agtech-innovation-news/materias/2024/Agrotoken-pioneira-na-tokenizacao-de-graos-passa-a-oferecer-sua-infraestrutura-de-blockchain-como-servico.html">Agrotoken blockchain infrastructure as a service</a></li>
@@ -208,7 +208,7 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
 <li><strong>INVENTTA / Doble Filo MX</strong> – Blockchain soberana paraguaya</li>
 <li><strong>RDN</strong> – <a href="https://www.rdn.com.py/2026/02/10/paraguay-en-las-puertas-del-negocio-bitcoin/">Entrevista a Bruno Vaccotti</a> (Feb 2026)</li>
 <li><strong>Vouga Abogados</strong> – <a href="https://www.vouga.com.py/avances-en-la-regulacion-fintech-en-el-paraguay-criptomonedas-y-cripto-activos/">Avances en regulación fintech</a></li>
-<li>**Nethermind** — "Securing Tokenized RWAs" (2026)</li>
+<li><strong>Nethermind</strong> — "Securing Tokenized RWAs" (2026)</li>
 </ol>
 
 <script type="application/ld+json">

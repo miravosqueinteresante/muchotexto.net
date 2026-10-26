@@ -17,7 +17,7 @@ related_articles:
     context: "En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay aprobó la licencia de una empresa que ningún paraguayo había usado todavía. Se llamaba Starlink, pertenecía a SpaceX, y prometía llevar internet de alta velocidad a cualquier."
   - title: "5G en Paraguay, espectro repartido y red encendida solo en Claro"
     url: /articulos/2026/10/15/5g-segunda-subasta-paraguay/
-    context: "Paraguay acaba de dar su segundo paso hacia el 5G, pero la distancia entre ese paso y la red real sigue siendo amplia. El 4 de agosto de 2026, la **Conatel** adjudicó la segunda licitación de espectro 5G; **100 MHz a Tigo** en la banda de..."
+    context: "Paraguay acaba de dar su segundo paso hacia el 5G, pero la distancia entre ese paso y la red real sigue siendo amplia. El 4 de agosto de 2026, la Conatel adjudicó la segunda licitación de espectro 5G; 100 MHz a Tigo en la banda de..."
 obs_cronologia:
   - label: "2023"
     url: /cronologia/

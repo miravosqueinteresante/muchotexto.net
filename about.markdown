@@ -61,7 +61,7 @@ El sitio se sostiene con publicidad no intrusiva y seguirá siendo un espacio in
   "sameAs": [
     "https://www.linkedin.com/in/cesar-sanchez-melgarejo/",
     "https://github.com/miravosqueinteresante",
-    "https://twitter.com/cesanz"
+    "https://x.com/cesanz"
   ],
   "knowsAbout": [
     "Inteligencia Artificial",

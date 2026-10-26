@@ -168,13 +168,13 @@ Accedé al análisis Integral sobre inteligencia artificial en Paraguay en la [g
 ## Fuentes
 
 <ol class="sources-list">
-<li>**The Information** — Uber CTO confirma agotamiento de presupuesto IA 2026 (abril 2026): reportaje original (detrás de paywall)</li>
+<li><strong>The Information</strong> — Uber CTO confirma agotamiento de presupuesto IA 2026 (abril 2026): reportaje original (detrás de paywall)</li>
 <li><strong>Fortune</strong> – <a href="https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/">"Nvidia executive: The cost of AI tools is far beyond the cost of human workers"</a> (28 abril 2026)</li>
-<li>**Axios** — Entrevista original a Bryan Catanzaro, NVIDIA VP (abril 2026)</li>
-<li>**Reuters** — "Starbucks scraps AI inventory tool across North America" (21 mayo 2026): reportaje original</li>
+<li><strong>Axios</strong> — Entrevista original a Bryan Catanzaro, NVIDIA VP (abril 2026)</li>
+<li><strong>Reuters</strong> — "Starbucks scraps AI inventory tool across North America" (21 mayo 2026): reportaje original</li>
 <li><strong>CNBC</strong> – <a href="https://www.cnbc.com/2026/05/21/starbucks-scraps-ai-inventory-tool-across-north-america.html">"Starbucks scraps AI inventory tool across North America"</a> (21 mayo 2026)</li>
-<li>**Windows Central** — Microsoft cancelling Claude Code licences (mayo 2026): reportaje original</li>
-<li>**The Verge** — Cobertura de Microsoft y declaraciones Andrew Macdonald (Uber)</li>
+<li><strong>Windows Central</strong> — Microsoft cancelling Claude Code licences (mayo 2026): reportaje original</li>
+<li><strong>The Verge</strong> — Cobertura de Microsoft y declaraciones Andrew Macdonald (Uber)</li>
 <li><strong>GitHub Blog</strong> – <a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">"GitHub Copilot is moving to usage-based billing"</a> (27 abril 2026)</li>
 <li><strong>GitHub Blog</strong> – <a href="https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/">"Changes to GitHub Copilot Individual plans"</a> (20 abril 2026)</li>
 <li><strong>The Register</strong> – "Microsoft's GitHub shifts to metered AI billing" (28 abril 2026)</li>
@@ -200,10 +200,10 @@ Accedé al análisis Integral sobre inteligencia artificial en Paraguay en la [g
 <li><strong>Cryptobriefing</strong> – <a href="https://cryptobriefing.com/uber-questions-ai-spending-effectiveness/">"Uber questions AI spending effectiveness as budget runs dry"</a> (26 mayo 2026)</li>
 <li><strong>A.L. Capital Advisory</strong> – <a href="https://alcapitaladvisory.com/research/intelligence/ai-infrastructure.html">"AI Capex Cycle 2026: $725B Hyperscaler Buildout — CFA Analysis"</a> (enero 2026)</li>
 <li><strong>Benson Kong</strong> – <a href="https://bkobog.substack.com/p/the-ai-capex-supercycle-725-billion">"The AI Capex Supercycle: $725 Billion, Bottlenecks Everywhere"</a> (mayo 2026)</li>
-<li>**Channel NewsAsia** — Jensen Huang entrevista (mayo 2026): citado en Financial Express</li>
-<li>**MIT CSAIL** — "Rethinking AI's impact: MIT CSAIL study reveals economic limits to job automation" (enero 2024)</li>
-<li>**S&P Global Market Intelligence** — AI initiative abandonment rates (2025-2026)</li>
-<li>**RAND Corporation** — AI project failure rates vs. non-AI projects</li>
+<li><strong>Channel NewsAsia</strong> — Jensen Huang entrevista (mayo 2026): citado en Financial Express</li>
+<li><strong>MIT CSAIL</strong> — "Rethinking AI's impact: MIT CSAIL study reveals economic limits to job automation" (enero 2024)</li>
+<li><strong>S&P Global Market Intelligence</strong> — AI initiative abandonment rates (2025-2026)</li>
+<li><strong>RAND Corporation</strong> — AI project failure rates vs. non-AI projects</li>
 <li><strong>TechTimes</strong> – <a href="https://www.techtimes.com/articles/317058/20260523/starbucks-retires-nomadgo-inventory-ai-across-11000-stores-workers-had-recount-every-scan.htm">"Starbucks Retires NomadGo Inventory AI Across 11,000 Stores"</a> (23 mayo 2026)</li>
 <li><strong>Gartner</strong> – <a href="https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025">"Cost of LLM Inference Will Drop Over 90% by 2030"</a> (25 marzo 2026)</li>
 <li><strong>PRNewswire / Sinch</strong> – <a href="https://www.prnewswire.com/news-releases/sinch-research-reveals-74-of-enterprises-have-rolled-back-live-ai-customer-communications-agents-302770750.html">"Sinch research reveals 74% of enterprises have rolled back live AI customer communications agents"</a> (13 mayo 2026)</li>

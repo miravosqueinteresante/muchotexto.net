@@ -14,7 +14,7 @@ entity_category: empresa
 related_articles:
   - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
     url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/
-    context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un **campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú**, con una inversión anunciada de hasta **USD 12.000 millones**. La anuncia **ARAICO**, una..."
+    context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú, con una inversión anunciada de hasta USD 12.000 millones. La anuncia ARAICO, una..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico"
 obs_cronologia:

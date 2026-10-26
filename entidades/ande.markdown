@@ -19,7 +19,7 @@ related_articles:
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; *y* (agua) + *guasu* (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en."
+    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
     context: "Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental; tener energía disponible..."
@@ -46,10 +46,10 @@ related_articles:
     context: "Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto hay un número que explica por qué se discuten; 68,6. Ese es, en dólares por megavatio-hora, el valor al que la tarifa media de la electricidad paraguaya debería llegar en.."
   - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
     url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/
-    context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un **campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú**, con una inversión anunciada de hasta **USD 12.000 millones**. La anuncia **ARAICO**, una..."
+    context: "Paraguay acumula promesas de cómputo, y acaba de sumar la más grande; un campus de data centers de inteligencia artificial de 1,3 gigavatios en Yguazú, con una inversión anunciada de hasta USD 12.000 millones. La anuncia ARAICO, una..."
   - title: "La salida de Atome no es una pérdida de USD 665 millones"
     url: /articulos/2026/10/02/atome-ande-salida-paraguay/
-    context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la **terminación de su contrato de energía con la ANDE** y mantiene su intención de llevar a..."
+    context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la terminación de su contrato de energía con la ANDE y mantiene su intención de llevar a..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"

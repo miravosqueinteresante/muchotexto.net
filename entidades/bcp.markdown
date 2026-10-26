@@ -14,10 +14,10 @@ entity_category: gobierno
 related_articles:
   - title: "QR Hub, la apuesta del BCP para digitalizar comercios"
     url: /articulos/2026/10/20/qr-hub-paraguay/
-    context: "Ahora el **Banco Central del Paraguay (BCP)** quiere que ese mismo gesto sirva para pagar desde cualquier banco, financiera, cooperativa o billetera, sin una red cerrada. La pieza se llama **QR Hub** y, según el BCP, generó más de 700.000 códigos en."
+    context: "Ahora el Banco Central del Paraguay (BCP) quiere que ese mismo gesto sirva para pagar desde cualquier banco, financiera, cooperativa o billetera, sin una red cerrada. La pieza se llama QR Hub y, según el BCP, generó más de 700.000 códigos en..."
   - title: "Paraguay proyecta conectar sus pagos instantáneos con Pix de Brasil"
     url: /articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/
-    context: "Paraguay tiene un sistema de pagos que funciona en segundos, es gratuito entre personas y está disponible a cualquier hora del día. Lo que no tiene todavía es la capacidad de cruzar la frontera. En agosto de 2026, el **Banco Central del Paraguay..."
+    context: "Paraguay tiene un sistema de pagos que funciona en segundos, es gratuito entre personas y está disponible a cualquier hora del día. Lo que no tiene todavía es la capacidad de cruzar la frontera. En agosto de 2026, el Banco Central del Paraguay..."
 obs_cronologia:
   - label: "31 Mayo 2022"
     url: /cronologia/

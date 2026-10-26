@@ -17,7 +17,7 @@ related_articles:
     context: "En 2018, Paraguay creó el Ministerio de Tecnologías de la Información y Comunicación. En 2019 firmó un préstamo de 130 millones de dólares con el BID para su Agenda Digital. En 2026 reporta más de 480 trámites en línea, 1,5 millones de ciudadanos..."
   - title: "El estudio Ceare que proyecta la tarifa de Paraguay a 68 dólares"
     url: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
-    context: "> **En resumen;** > - El estudio Ceare (UBA, con apoyo del BID) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2024 y 2030, un alza del 39,4%. > - El mayor ajuste es para la alta y muy alta tensión —la industrial y de data..."
+    context: "> En resumen; > - El estudio Ceare (UBA, con apoyo del BID) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2024 y 2030, un alza del 39,4%. > - El mayor ajuste es para la alta y muy alta tensión —la industrial y de data..."
 obs_cronologia:
   - label: "2019"
     url: /cronologia/
