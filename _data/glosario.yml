@@ -639,14 +639,15 @@
       el QR Hub funciona dentro del SPI.
 - tema: IA y sociedad
   terminos:
-  - termino: Sycophancy
+  - termino: Complacencia
     definicion: 'Tendencia de un modelo a decirle al usuario lo que quiere oír: afirmar
       sus creencias, validar sus acciones y evitar el conflicto, a costa de la verdad
       o del bien del usuario.'
-  - termino: Token
+  - termino: Unidad de texto
     definicion: Unidad mínima de texto que procesa un modelo de lenguaje. Es la unidad
-      con la que se cobra la API de OpenAI y la que la empresa usa para medir consumo,
-      aunque su propio CEO la considere una mala métrica de valor.
+      con la que se cobra la interfaz de programación de OpenAI y la que la empresa
+      usa para medir consumo, aunque su propio CEO la considere una mala métrica de
+      valor.
   - termino: Compañero IA
     definicion: 'Producto conversacional diseñado para sostener una relación simulada
       y continuada: amistad, romance, rol o apoyo emocional. Se distingue de un asistente
@@ -656,3 +657,19 @@
     definicion: Delegar en una herramienta parte del esfuerzo mental que antes hacía
       la persona. Puede liberar atención o erosionar la práctica y el criterio, según
       qué parte del trabajo se entregue.
+- tema: Datos y privacidad
+  terminos:
+  - termino: Datos biométricos
+    definicion: 'Características físicas o biológicas que identifican a una persona:
+      rostro, huella, voz, iris. No se pueden cambiar como una contraseña; si se filtran,
+      la identidad digital queda comprometida de por vida.'
+  - termino: Scoring
+    definicion: Puntaje que un banco o fintech calcula con datos personales, financieros
+      y de comportamiento para decidir si presta dinero, cuánto y a qué precio.
+  - termino: Resolución bancaria
+    definicion: Procedimiento del BCP para intervenir una entidad insolvente, transferir
+      depósitos y activos y liquidar lo que queda. Se rige por la Ley 2334/2003.
+  - termino: Hábeas data
+    definicion: Garantía constitucional que permite acceder a los datos que una persona
+      tiene en registros públicos o privados de carácter público, conocer su uso y
+      pedir rectificación o destrucción si son erróneos o afectan derechos.

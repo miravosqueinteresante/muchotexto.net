@@ -298,9 +298,17 @@
 - tema: IA y sociedad
   casos:
   - titulo: Cuando la IA te da la razón
-    texto: 'Una persona consulta a un chatbot por una discusión de pareja. El modelo
-      escucha una sola versión, la valida y le devuelve una respuesta segura. No tiene
-      acceso a la otra persona ni a las consecuencias. El estudio de Science midió
-      ese patrón: los modelos afirmaron a los usuarios 49% más que los humanos y redujeron
-      su disposición a reparar el conflicto.'
+    texto: 'Una persona consulta a un bot conversacional por una discusión de pareja.
+      El modelo escucha una sola versión, la valida y le devuelve una respuesta segura.
+      No tiene acceso a la otra persona ni a las consecuencias. El estudio de Science
+      midió ese patrón: los modelos afirmaron a los usuarios 49% más que los humanos
+      y redujeron su disposición a reparar el conflicto.'
     url: /articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/
+- tema: Datos y privacidad
+  casos:
+  - titulo: La cara como llave de la Expo
+    texto: Según TEDIC, para el acceso digital a la Expo Paraguay 2025 había que usar
+      la app Tuti, pagar con Ueno y pasar una verificación biométrica operada por
+      ITTI. Las tres empresas pertenecen al mismo grupo. No hay cifra pública de cuántas
+      personas entregaron su rostro o su huella.
+    url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/

@@ -200,6 +200,10 @@
     fecha: 27 Junio 2025
     texto: Se promulga la Ley 7503/2025 del Sistema Nacional de Pagos, que reemplaza
       a la Ley 4595/2012 y da marco a la interoperabilidad. [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
+  - orden: '2025-07-12'
+    fecha: 12 Julio 2025
+    texto: La Expo de Mariano Roque Alonso exige la app Tuti y el pago con Ueno para
+      el acceso digital, con verificación biométrica operada por ITTI. [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
   - orden: 2025-09
     fecha: Septiembre 2025
     texto: '[Ley 7503/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/): crea
@@ -251,9 +255,10 @@
       inicia investigación de LLM desde Nueva York.'
   - orden: '2026-03-11'
     fecha: 11 Marzo 2026
-    texto: Sam Altman dice en el BlackRock Infrastructure Summit que el negocio de
-      los proveedores de modelos va a parecerse a vender tokens y que la inteligencia
-      será una utility medida, como la electricidad o el agua. [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
+    texto: Sam Altman dice en la cumbre de infraestructura de BlackRock que el negocio
+      de los proveedores de modelos va a parecerse a vender unidades de texto y que
+      la inteligencia será un servicio público medido, como la electricidad o el agua.
+      [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
   - orden: '2026-03-12'
     fecha: 12 Marzo 2026
     texto: El BCP eleva el límite de transferencias instantáneas de G. 5 a G. 10 millones
@@ -459,7 +464,21 @@
   - orden: '2026-10-12'
     fecha: 12 Octubre 2026
     texto: Character.AI, uno de los mayores servicios de compañía con IA, inicia un
-      proceso de Chapter 11 para vender la empresa. [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
+      proceso de capítulo 11 de la ley de quiebras de Estados Unidos para vender la
+      empresa. [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
+  - orden: '2026-11-02'
+    fecha: 2 Noviembre 2026
+    texto: El BCP dispone la resolución de ueno bank por insuficiencia de solvencia.
+      [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
+  - orden: '2026-11-03'
+    fecha: 3 Noviembre 2026
+    texto: Se suspenden la app, las tarjetas, los cajeros y las sucursales de ueno
+      bank. [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
+  - orden: '2026-11-09'
+    fecha: 9 Noviembre 2026
+    texto: El nuevo presidente del BCP, Jorge Schreiner, dice en el Senado que el
+      negocio de los dueños de Ueno era capturar datos biométricos de millones de
+      personas. [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
 - seccion: Lo que viene
   items:
   - orden: '2026'
@@ -487,3 +506,8 @@
       se cierra entre 2030 y 2070 según la estimación (el artículo toma ~2045). El
       superávit energético se agota entre 2035 y 2040 según la proyección. Las decisiones
       de 2026-2035 definen el camino.
+  - orden: '9999'
+    fecha: 27 Noviembre 2027
+    texto: Entra en vigencia la Ley 7593/2025 de protección de datos personales, con
+      una Agencia dentro del MITIC y derechos de portabilidad y revisión de decisiones
+      automatizadas. [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)

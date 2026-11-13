@@ -86,6 +86,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Lo que el capital de Silicon Valley busca en Paraguay y no encuentra]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})** — HIVE Digital ya invirtió USD 56M y opera 300 MW. Crusoe, X8Cloud y ASUS no tienen inversiones confirmadas. El país con la electricidad más barata de Sudamérica no cierra los acuerdos.
 - **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
 - **[Paraguay firma la residencia permanente más directa de la región]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria) en unos tres meses. No es la más barata, pero sí la más directa de la región.
+- **[Qué datos tuyos tenía Ueno y qué pasa con ellos ahora]({% post_url 2026-11-13-que-datos-tuyos-tenia-ueno %})** — Ueno acumuló identidad, datos financieros y, en muchos casos, biometría de casi 3 millones de cuentas declaradas. La resolución garantiza hasta 75 salarios mínimos por depositante, no los datos. Qué se sabe y qué podés hacer.
 
 <!-- PILAR:2:FIN -->
 
@@ -148,7 +149,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 - **[¿Qué es realmente el fútbol?]({% post_url 2026-06-10-que-es-realmente-el-futbol %})** — Un ensayo filosófico sobre el fútbol: deporte, religión, guerra e idioma, desde Eduardo Galeano hasta el Mundial 2026.
 - **[Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026]({% post_url 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026 %})** — USA no llegó a competir: llegó a demostrar que los datos pueden cambiar el fútbol.
 - **[Paraguay está enseñando guaraní a la inteligencia artificial]({% post_url 2026-07-29-guarani-ia %})** — AIkuaa, mingas comunitarias y el primer dataset comunitario de voz en guaraní.
-- **[Inteligencia de alquiler, la IA como pareja, terapeuta y jefe]({% post_url 2026-10-25-inteligencia-alquiler-ia-soledad-dependencia %})** — La IA no nos aísla por fría, sino por complaciente. Alivia la soledad momentánea, profundiza la dependencia y cobra por tokens. La evidencia y el caso paraguayo.
+- **[Inteligencia de alquiler, la IA como pareja, terapeuta y jefe]({% post_url 2026-10-25-inteligencia-alquiler-ia-soledad-dependencia %})** — La IA no nos aísla por fría, sino por complaciente. Alivia la soledad momentánea, profundiza la dependencia y cobra por consumo. La evidencia y el caso paraguayo.
 
 <!-- PILAR:5:FIN -->
 > **¿2040 o 2050?** Las dos fechas conviven a propósito. **2040** es nuestro horizonte de análisis editorial (el futuro que modelamos con datos del observatorio, donde converge el cierre del bono demográfico ~2045 y el fin del superávit energético). **2050** es el horizonte oficial del Estado: el nombre del plan gubernamental (Política Energética Nacional al 2050, Decreto 2553/2024) que analizamos, no una meta que elegimos nosotros. 2040 = el futuro que proyectamos; 2050 = el futuro que el plan del gobierno promete.

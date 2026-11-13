@@ -56,6 +56,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Lo que el capital de Silicon Valley busca en Paraguay y no encuentra](https://muchotexto.net/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
 - [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](https://muchotexto.net/articulos/2026/08/02/modelo-itaipu-gobernanza-ia/)
 - [Paraguay firma la residencia permanente más directa de la región](https://muchotexto.net/articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/)
+- [Qué datos tuyos tenía Ueno y qué pasa con ellos ahora](https://muchotexto.net/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
 
 ### Pilar 3: IA, sociedad y trabajo
 - [Paraguay tiene una ventaja silenciosa en la anotación de datos para IA](https://muchotexto.net/articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/)

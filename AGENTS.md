@@ -422,6 +422,19 @@ Fuentes: BCP, La Nación (31-ago, 8-sep y 30-jul-2026), ABC Color (19-may y 6-ag
 - **NFC**: incorporado a la normativa, proyección para la primera parte de 2027; **no operativo**.
 - **Cronología**: Res. 12/2024 (24-jul-2024, plazo 30-jun-2025) → Ley 7503/2025 (27-jun-2025) → Res. 24/2025 interoperabilidad (11-dic-2025) → Res. 2 Acta 12 (12-mar-2026, G.10M, QR Hub y NFC) → producción 29-jun-2026 → 700.000 códigos (8-sep-2026).
 
+### Ueno y datos personales (verificado nov-2026)
+
+Fuentes: TEDIC (12-nov-2026), ABC Color (3 y 7-nov-2026), Última Hora (7 y 10-nov-2026), El Observador (9-nov-2026), BACN (Leyes 2334/2003, 861/1996, 7593/2025, 6534/2020).
+
+- **Resolución:** el BCP dispuso la resolución de ueno bank el **2-nov-2026** por insuficiencia de solvencia por debajo del **50%** del mínimo. La app, las tarjetas, los cajeros y las sucursales se suspendieron el **3-nov-2026**.
+- **FGD:** garantiza hasta **75 salarios mínimos** por depositante y por entidad (G. 228.300.000). El anticipo pagado fue de hasta **40 salarios mínimos**: **1.812.348 personas** y **USD 644 M**.
+- **Clientes:** el banco declaraba **2.941.996 clientes/cuentas** a jun-2026; el BCP identificó **~1,8 millones de depositantes**. No son personas únicas y no consta que todas hayan entregado biometría.
+- **No clientes:** Expo 2025 con app Tuti, pago con Ueno y verificación biométrica de ITTI (mismo grupo); convenio IPS–Ueno de abril 2025 para Fe de Vida de quienes cobran por el banco; reconocimiento facial en estadios de la APF; apps UNID.
+- **Cita Schreiner (9-nov-2026):** “Su negocio no es bancario, es capturar los datos biométricos de millones de personas…”. Es una **acusación política**, no una sentencia.
+- **Datos:** no hay información pública sobre venta, transferencia o destino de las bases; tampoco evidencia de uso gubernamental de la base de Ueno. No afirmar ninguna de las dos cosas.
+- **Leyes:** la Ley 2334/2003 no menciona datos personales; la Ley 861/1996 mantiene el secreto bancario (excepción estrecha de “sumas recibidas” para liquidación); la Ley 7593/2025 rige desde el **27-nov-2027**; la Ley 6534/2020 cubre solo datos crediticios. No hay autoridad general de datos operativa.
+- **No usar** “datos públicos” para la base de Ueno: son datos personales en manos privadas.
+
 ### IA, soledad y dependencia (verificado oct-2026)
 
 Fuentes: Science (26-mar-2026), OII (jul-2026), Common Sense (jul-2025), RAND (3-jun-2026), JCR (2025), Fang et al. (2025), TBIJ (7-jun-2026), Autor et al. (NBER 2026), Stanford Digital Economy Lab (12-ago-2026), ILO (2025), STEPS 2022 vía Psychiatry International (2026), WHO Mental Health Atlas 2024, Altman/BlackRock (11-mar-2026).
