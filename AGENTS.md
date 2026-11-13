@@ -424,7 +424,7 @@ Fuentes: BCP, La Nación (31-ago, 8-sep y 30-jul-2026), ABC Color (19-may y 6-ag
 
 ### Ueno y datos personales (verificado nov-2026)
 
-Fuentes: TEDIC (12-nov-2026), ABC Color (3 y 7-nov-2026), Última Hora (7 y 10-nov-2026), El Observador (9-nov-2026), BACN (Leyes 2334/2003, 861/1996, 7593/2025, 6534/2020).
+Fuentes: TEDIC (12-nov-2026), ABC Color (3 y 7-nov-2026), Última Hora (10 y 11-nov-2026), El Observador (9-nov-2026), BACN (Leyes 2334/2003, 861/1996, 7593/2025, 6534/2020).
 
 - **Resolución:** el BCP dispuso la resolución de ueno bank el **2-nov-2026** por insuficiencia de solvencia por debajo del **50%** del mínimo. La app, las tarjetas, los cajeros y las sucursales se suspendieron el **3-nov-2026**.
 - **FGD:** garantiza hasta **75 salarios mínimos** por depositante y por entidad (G. 228.300.000). El anticipo pagado fue de hasta **40 salarios mínimos**: **1.812.348 personas** y **USD 644 M**.

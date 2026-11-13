@@ -42,7 +42,7 @@ casos:
 
 Si eras cliente, Ueno no solo tenía tu dinero. Tenía tu cédula, tu rostro, tu huella, tu historial de pagos y, si alguna vez pidió un préstamo, un puntaje sobre tu comportamiento. El ecosistema también llegó a personas de la Expo, de la Fe de Vida del IPS y de estadios de la APF.
 
-La caída del banco abrió una pregunta que el Estado todavía no respondió: **¿qué pasa con esos datos ahora?** El dinero tiene un fondo de garantía hasta 75 salarios mínimos. La cara, la huella y el historial financiero no.
+La caída del banco abrió una pregunta que el Estado todavía no respondió formalmente: **¿qué pasa con esos datos ahora?** El dinero tiene un fondo de garantía hasta 75 salarios mínimos. La cara, la huella y el historial financiero no.
 
 ## Lo que entregaste sin saberlo
 
@@ -66,21 +66,21 @@ El presidente del BCP, **Jorge Schreiner**, lo dijo ante el Senado: “Su negoci
 
 Una base así sirve para segmentarte, venderte productos, calcular tu riesgo, detectar fraude y decidir si te dan una tarjeta. Con datos crediticios, la Ley 6534/2020 prohíbe usarlos para decisiones laborales.
 
-¿Puede terminar en manos de un gobierno? No hay ninguna evidencia de que haya pasado con Ueno. Pero una base privada grande crea esa capacidad. En Estados Unidos, la ACLU documentó en 2022 que CBP, ICE, el Servicio Secreto y la Guardia Costera compraban datos de localización a los brokers Venntel y Babel Street; el inspector general del DHS documentó esas compras en 2023 y legisladores las calificaron de violaciones a la ley federal. En un informe de 2022 desclasificado en 2023, la ODNI reconoció que la comunidad de inteligencia compra información comercialmente disponible y que los datos “anonimizados” pueden reidentificarse.
+¿Puede terminar en manos de un gobierno? No hay ninguna evidencia de que haya pasado con Ueno. Pero una base privada grande crea esa capacidad. En Estados Unidos, la ACLU documentó en 2022 que CBP, ICE y el Servicio Secreto compraban datos de localización a los brokers Venntel y Babel Street; el inspector general del DHS documentó esas compras en 2023. En un informe de 2022 desclasificado en 2023, la ODNI reconoció que la comunidad de inteligencia compra información comercialmente disponible y que los datos “anonimizados” pueden reidentificarse.
 
 En Israel, Amnistía documentó el sistema de reconocimiento facial **Red Wolf** en puestos de control de Hebrón, y el Washington Post/Breaking the Silence documentaron **Blue Wolf**, con testimonios de exsoldados. El Citizen Lab documentó infecciones de **Pegasus** en periodistas y activistas, aunque no siempre atribuye el operador.
 
-Palantir, la empresa que Peter Thiel cofundó, tiene contratos documentados con ICE desde 2014 y un acuerdo de **USD 29,9 millones** para ImmigrationOS en 2025, además de contratos con el Pentágono. No se encontró un contrato con CBP: la empresa lo negó en 2020. El punto no es que Ueno sea Palantir. Es que una base privada de millones de personas es un activo que se puede comprar, requerir o heredar cuando la empresa cae.
+Palantir, la empresa que Peter Thiel cofundó, tiene contratos documentados con ICE, incluido el sistema ICM/Gotham desde 2014, y un acuerdo de **USD 29,9 millones** para ImmigrationOS en 2025, además de contratos con el Pentágono. No se verificó un contrato con CBP; la empresa lo negó en 2020. El punto no es que Ueno sea Palantir. Es que una base privada de millones de personas es un activo que se puede comprar, requerir o heredar cuando la empresa cae.
 
 ## Qué pasó cuando el banco entró en resolución
 
 El 2 de noviembre de 2026, el BCP dispuso la resolución de ueno bank por una insuficiencia de solvencia por debajo del 50% del mínimo. El 3 de noviembre se suspendieron la app, las tarjetas, los cajeros y las sucursales.
 
-El Fondo de Garantía de Depósitos garantiza hasta 75 salarios mínimos por depositante y por entidad. Como anticipo de hasta 40 salarios mínimos, el BCP pagó a **1.812.348 personas** unos **USD 644 millones**, según datos oficiales difundidos por Última Hora. También liberó los alias del SIP para que la gente pudiera reasociarlos a cuentas de otros bancos. Y anunció que distribuiría activos y pasivos “por lotes” entre entidades locales.
+El Fondo de Garantía de Depósitos garantiza hasta 75 salarios mínimos por depositante y por entidad. Como anticipo de hasta 40 salarios mínimos, el BCP pagó a **1.812.348 personas** unos **USD 644 millones**, según datos oficiales difundidos por Última Hora. También liberó los alias del SIP para reasociarlos a cuentas de otros bancos. Y anunció que distribuiría activos y pasivos “por lotes”.
 
-Sobre los datos, en cambio, no hubo un comunicado equivalente. La Ley 2334/2003 dice que el interventor ocupa los locales y **desapodera a los administradores de todos los libros, papeles, documentos y registros** (art. 15). También permite transferir activos y depósitos **sin consentimiento de los titulares** (art. 25). Pero no menciona bases de datos, biometría, scoring ni quién es el responsable de esa información.
+Sobre los datos no hubo comunicado equivalente. La Ley 2334/2003 dice que el interventor ocupa los locales y **desapodera a los administradores de todos los libros, papeles, documentos y registros** (art. 15). También permite transferir activos y depósitos **sin consentimiento de los titulares** (art. 25). Pero no menciona bases de datos, biometría, scoring ni quién es el responsable de esa información.
 
-Al 13 de noviembre, el mecanismo de resolución todavía no estaba formalmente determinado. Si se transfiere la cartera, los registros operativos podrían viajar con ella por necesidad operativa, aunque ningún documento lo establece. Si se paga la garantía y se liquida el resto, los archivos quedarían bajo el interventor y luego bajo el juez. En ninguno de los dos casos hay una respuesta pública sobre las caras y las huellas.
+Al 13 de noviembre, el mecanismo no estaba formalmente cerrado. El plan declarado es transferir activos y pasivos por lotes; si se transfiere la cartera, los registros podrían viajar con ella por necesidad operativa, aunque ningún documento lo establece. Si se liquida el resto, los archivos quedarían bajo el interventor y luego bajo el juez. No hay respuesta pública sobre las caras y las huellas.
 
 ## La ley que todavía no te protege
 
@@ -111,7 +111,7 @@ El dinero tiene garantía hasta 75 salarios mínimos. La cara no.
 5. [ABC Color — “Ueno Bank: el BCP anuncia procedimiento de resolución” (3-nov-2026)](https://www.abc.com.py/economia/2026/11/03/ueno-bank-el-bcp-anuncia-procedimiento-de-resolucion/)
 6. [La Nación — “BCP anuncia que distribuirá por lotes los activos y pasivos de Ueno” (12-nov-2026)](https://www.lanacion.com.py/negocios/2026/11/12/bcp-anuncia-que-distribuira-por-lotes-en-bancos-locales-los-activos-y-pasivos-de-ueno-bank/)
 7. [Dos Puntos — “BCP libera los alias vinculados a Ueno” (4-nov-2026)](https://www.dospuntos.com.py/noticia/bcp-libera-los-alias-vinculados-a-ueno-y-permite-asociarlos-a-cuentas-de-otros-bancos)
-8. [BACN — Ley 2334/2003 de liquidación y resolución de entidades bancarias](https://www.bacn.gov.py/leyes-paraguayas/2513/ley-n-2334)
+8. [BACN — Ley 2334/2003 de garantía de depósitos y resolución de entidades de intermediación financiera](https://www.bacn.gov.py/leyes-paraguayas/2513/ley-n-2334)
 9. [BACN — Ley 861/1996 General de Bancos, Financieras y Otras Entidades de Crédito](https://www.bacn.gov.py/leyes-paraguayas/4135/ley-n-861-general-de-bancos-financieras-y-otras-entidades-de-credito)
 10. [BACN — Ley 7593/2025 de protección de datos personales](https://www.bacn.gov.py/leyes-paraguayas/12924/ley-n-75932025-de-proteccion-de-datos-personales-en-la-republica-del-paraguay)
 11. [BACN — Constitución Nacional, art. 135](https://www.bacn.gov.py/leyes-paraguayas/9580/constitucion-de-la-republica-del-paraguay)
@@ -119,20 +119,21 @@ El dinero tiene garantía hasta 75 salarios mínimos. La cara no.
 13. [MITIC — “Mitic informa sobre el alcance de la Ley de Protección de Datos Personales” (17-abr-2026)](https://mitic.gov.py/mitic-informa-sobre-el-alcance-de-la-ley-de-proteccion-de-datos-personales)
 14. [BCP — “Consulta Estado de Deuda con Identidad Electrónica” (23-mar-2026)](https://www.bcp.gov.py/web/institucional/w/bcp-habilita-nueva-plataforma-para-consultas-del-estado-de-deuda-de-la-central-de-riesgo-crediticio)
 15. [ODNI — Informe desclasificado sobre información comercialmente disponible (2022)](https://www.dni.gov/files/ODNI/documents/assessments/ODNI-Declassified-Report-on-CAI-January2022.pdf)
-16. [ACLU — “New records detail DHS purchase of cell phone location data” (18-jul-2022)](https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data)
+16. [ACLU — “Nuevos registros detallan la compra y uso de datos de localización de teléfonos por el DHS” (18-jul-2022)](https://www.aclu.org/news/privacy-technology/new-records-detail-dhs-purchase-and-use-of-vast-quantities-of-cell-phone-location-data)
 17. [OIG del DHS — Informe sobre compras de datos de localización (2023)](https://www.oig.dhs.gov/sites/default/files/assets/2023-09/OIG-23-61-Sep23-Redacted.pdf)
-18. [Amnistía Internacional — “Automated Apartheid” (2023)](https://www.amnesty.org/en/documents/mde15/6701/2023/en)
+18. [Amnistía Internacional — “Apartheid automatizado” (2023)](https://www.amnesty.org/en/documents/mde15/6701/2023/en)
 19. [Citizen Lab — Infección de Pegasus en Galina Timchenko (2023)](https://citizenlab.ca/pegasus-infection-of-galina-timchenko-exiled-russian-journalist-and-publisher)
 20. [SAM.gov — Adjudicación de Palantir a ICE para ImmigrationOS (2025)](https://sam.gov/opp/cb55c3c595e5491b94b0090f448ffd21/view)
-21. [DefenseScoop — “Pentagon boosts Palantir Maven contract ceiling” (23-may-2025)](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase)
+21. [DefenseScoop — “El Pentágono eleva el techo del contrato Maven de Palantir” (23-may-2025)](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase)
 22. [Solventa — Informe de calificación de Ueno Bank (mar-2026)](https://www.ueno.com.py/wp-content/uploads/2026/04/Informe-de-Calificacion-UENO-BANK-Dic25-firmado_Solventa.pdf)
 23. [Ueno — “Ueno Bank vuelve a transformar la banca paraguaya con Claude y Salesforce” (10-sep-2026)](https://www.ueno.com.py/2026/09/10/ueno-bank-vuelve-a-transformar-la-banca-paraguaya-con-claude-y-salesforce/)
 24. [ABC Color — “IPS se alía con ueno bank para tramitar validación de Fe de Vida” (14-abr-2025)](https://www.abc.com.py/nacionales/2025/04/14/ips-se-alia-con-ueno-bank-para-tramitar-validacion-de-fe-de-vida/)
-25. [Última Hora — “Primera semana del colapso de Ueno: el FGD desembolsó USD 644 millones” (7-nov-2026)](https://www.ultimahora.com/primera-semana-del-colapso-de-ueno-el-fgd-desembolso-usd-644-millones-a-1-8-millones-de-afectados)
+25. [Última Hora — “Primera semana del colapso de Ueno: el FGD desembolsó USD 644 millones” (11-nov-2026)](https://www.ultimahora.com/primera-semana-del-colapso-de-ueno-el-fgd-desembolso-usd-644-millones-a-1-8-millones-de-afectados)
 26. [Tuti — Aviso de privacidad de ITTI USA (acceso y supresión)](https://www.tuti.com.py/privacy-policy)
 27. [Forbes Paraguay — Entrevista a Miguel Vázquez sobre IA y crédito (2024)](https://www.forbes.com.py/especiales/tecnologia-conductor-futuro-prometedor-n54979)
 28. [IGM Investments — Entrevista a Miguel Vázquez, presidente de Ueno (ene-2026)](https://www.igminvestments.com/post/miguel-v%C3%A1zquez-president-ueno-bank)
 29. [Ueno — Aviso de privacidad (2025)](https://www.ueno.com.py/aviso-de-privacidad)
+30. [Times of Israel — Resumen del reporte del Washington Post sobre Blue Wolf (8-nov-2021)](https://www.timesofisrael.com/idf-building-facial-recognition-database-of-palestinians-in-hebron-report/)
 
 Este artículo integra el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
