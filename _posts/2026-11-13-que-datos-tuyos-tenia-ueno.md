@@ -5,7 +5,7 @@ date: 2026-11-13 12:00:00 -0300
 last_modified_at: 2026-11-13
 categories: articulos
 pilar: 2
-resumen: "Ueno acumuló identidad, datos financieros y, en muchos casos, biometría de casi 3 millones de cuentas declaradas. La resolución garantiza hasta 75 salarios mínimos por depositante, no los datos. Qué se sabe y qué podés hacer."
+resumen: "Ueno acumuló identidad, datos financieros y, en muchos casos, biometría de casi 3 millones de cuentas declaradas. El FGD garantiza hasta 75 salarios mínimos por depositante, no los datos. Qué se sabe y qué podés hacer."
 tags: [datos-personales, ueno, biometria, fintech, privacidad]
 description: "Ueno acumuló identidad, datos financieros y biometría de parte de sus casi 3 millones de cuentas. El dinero tiene garantía limitada; tus datos no."
 schema_type: NewsArticle
@@ -37,36 +37,36 @@ glosario:
 casos:
   - tema: "Datos y privacidad"
     titulo: "La cara como llave de la Expo"
-    texto: "Según TEDIC, para el acceso digital a la Expo Paraguay 2025 había que usar la app Tuti, pagar con Ueno y pasar una verificación biométrica operada por ITTI. Las tres empresas pertenecen al mismo grupo. No hay cifra pública de cuántas personas entregaron su rostro o su huella."
+    texto: "Según TEDIC, para el acceso digital a la Expo Paraguay 2025 había que usar la app Tuti, pagar con Ueno y pasar una verificación biométrica operada por ITTI. Las tres empresas pertenecen al mismo grupo. No hay cifra pública de cuántas personas entregaron su rostro."
 ---
 
-Si eras cliente, Ueno no solo tenía tu dinero. Tenía tu cédula, tu rostro, tu huella, tu historial de pagos y, si alguna vez pidió un préstamo, un puntaje sobre tu comportamiento. El ecosistema también llegó a personas de la Expo, de la Fe de Vida del IPS y de estadios de la APF.
+Si eras cliente, Ueno no solo tenía tu dinero. Tenía tu cédula, tu rostro y tu historial de pagos; según Última Hora, a muchos les registró la huella. Y si pediste un préstamo, un puntaje sobre tu comportamiento. El ecosistema también llegó a personas de la Expo, de la Fe de Vida del IPS y de estadios de la APF.
 
-La caída del banco abrió una pregunta que el Estado todavía no respondió formalmente: **¿qué pasa con esos datos ahora?** El dinero tiene un fondo de garantía hasta 75 salarios mínimos. La cara, la huella y el historial financiero no.
+La caída del banco abrió una pregunta que el Estado todavía no respondió formalmente: **¿qué pasa con esos datos ahora?** El dinero tiene un fondo de garantía hasta 75 salarios mínimos. La cara y el historial financiero no.
 
 ## Lo que entregaste sin saberlo
 
-Para abrir una cuenta, Ueno pedía identificación, selfie, video y documentos. Después venía el resto: cuentas, tarjetas, transferencias, préstamos, seguros, inversiones, remesas, cheques y pagos QR.
+Para abrir una cuenta, Ueno pedía identificación, selfie y documentos. Después venía el resto: cuentas, tarjetas, transferencias, préstamos, seguros, inversiones y pagos QR.
 
-El banco declaraba **2.941.996 clientes** a junio de 2026, según TEDIC. Son cuentas, no necesariamente personas únicas, y no consta que todas hayan entregado biometría.
+TEDIC reporta, citando datos del banco, **2.941.996 clientes** a junio de 2026. No son personas únicas y no hay desglose de quiénes dieron biometría.
 
-Ueno también decía usar **inteligencia artificial para decidir créditos desde 2017**, con una red neuronal entrenada con datos de créditos otorgados y rechazados. Declaró que en 2021 reestructuró sus modelos de datos para decisión crediticia, verificación de identidad y ciberseguridad; a fines de 2025 incorporó un modelo formal de **credit scoring** para Banca Empresas. En 2026 anunció la integración de Claude for Salesforce para atención al cliente, comercial, operaciones y productos. Su aviso de privacidad, según TEDIC, admitía tratamiento en el exterior, infraestructura de terceros y analítica avanzada.
+Ueno también decía usar **inteligencia artificial para decidir créditos desde 2017**, con una red neuronal entrenada con créditos otorgados y rechazados. Declaró que en 2021 reestructuró sus modelos de datos para decisión crediticia, verificación de identidad y ciberseguridad; a fines de 2025 incorporó un modelo de **credit scoring** para empresas. En 2026 anunció la integración de Claude for Salesforce para atención al cliente, comercial y operaciones. Su aviso de privacidad, según TEDIC, admitía tratamiento en el exterior, infraestructura de terceros y analítica avanzada.
 
 ## No eran solo datos de clientes
 
 En la **Expo Paraguay 2025**, según TEDIC, el acceso digital exigía la app Tuti, el pago con Ueno y una verificación biométrica operada por ITTI. Ueno, Tuti e ITTI pertenecen al mismo grupo.
 
-En abril de 2025 se lanzó el convenio IPS–Ueno para la **Fe de Vida biométrica** desde la app. En estadios de la APF, ITTI proveyó sistemas de reconocimiento facial. Y las apps del ecosistema **UNID** —Ueno, APF, Club Olimpia y otras— compartían datos de identificación, laborales, académicos, financieros y de circunstancias sociales, recabados también de forma automatizada.
+En abril de 2025 se lanzó el convenio IPS–Ueno para la **Fe de Vida biométrica** desde la app. ITTI proveyó reconocimiento facial en estadios de la APF. Y los términos de **UNID** —Ueno, APF, Club Olimpia y otras— contemplaban el tratamiento y la posible transferencia de datos de identificación, laborales, académicos, financieros y sociales, recabados de forma automatizada.
 
-No todas esas bases eran de Ueno Bank, pero el mismo grupo manejaba la puerta de la feria, la prueba de vida y el banco. Cuando una sola empresa controla identidad, pago y acceso, el dato se vuelve infraestructura.
+No todas esas bases eran de Ueno Bank, pero el mismo grupo manejaba la puerta de la feria, la prueba de vida y el banco. Cuando un mismo grupo empresarial controla identidad, pago y acceso, el dato se vuelve infraestructura.
 
 El presidente del BCP, **Jorge Schreiner**, lo dijo ante el Senado: “Su negocio no es bancario, es capturar los datos biométricos de millones de personas para tener una base de datos del país y luego hacer negocios”. Es una acusación política, no una sentencia. Pero describe el modelo que TEDIC venía documentando desde 2024.
 
 ## Qué se puede hacer con esa base
 
-Una base así sirve para segmentarte, venderte productos, calcular tu riesgo, detectar fraude y decidir si te dan una tarjeta. Con datos crediticios, la Ley 6534/2020 prohíbe usarlos para decisiones laborales.
+Una base así sirve para segmentarte, calcular tu riesgo, detectar fraude y decidir si te dan una tarjeta. Con datos crediticios, la Ley 6534/2020 prohíbe usarlos para decisiones laborales.
 
-¿Puede terminar en manos de un gobierno? No hay ninguna evidencia de que haya pasado con Ueno. Pero una base privada grande crea esa capacidad. En Estados Unidos, la ACLU documentó en 2022 que CBP, ICE y el Servicio Secreto compraban datos de localización a los brokers Venntel y Babel Street; el inspector general del DHS documentó esas compras en 2023. En un informe de 2022 desclasificado en 2023, la ODNI reconoció que la comunidad de inteligencia compra información comercialmente disponible y que los datos “anonimizados” pueden reidentificarse.
+¿Puede terminar en manos de un gobierno? No hay ninguna evidencia de que haya pasado con Ueno. Pero una base privada grande crea esa capacidad. En 2022, la ACLU documentó que CBP, ICE y el Servicio Secreto compraban localización a Venntel y Babel Street; el inspector general del DHS lo confirmó en 2023. La ODNI reconoció en un informe de 2022 desclasificado en 2023 que la inteligencia compra información comercial y que lo “anonimizado” puede reidentificarse.
 
 En Israel, Amnistía documentó el sistema de reconocimiento facial **Red Wolf** en puestos de control de Hebrón, y el Washington Post/Breaking the Silence documentaron **Blue Wolf**, con testimonios de exsoldados. El Citizen Lab documentó infecciones de **Pegasus** en periodistas y activistas, aunque no siempre atribuye el operador.
 
@@ -76,28 +76,28 @@ Palantir, la empresa que Peter Thiel cofundó, tiene contratos documentados con 
 
 El 2 de noviembre de 2026, el BCP dispuso la resolución de ueno bank por una insuficiencia de solvencia por debajo del 50% del mínimo. El 3 de noviembre se suspendieron la app, las tarjetas, los cajeros y las sucursales.
 
-El Fondo de Garantía de Depósitos garantiza hasta 75 salarios mínimos por depositante y por entidad. Como anticipo de hasta 40 salarios mínimos, el BCP pagó a **1.812.348 personas** unos **USD 644 millones**, según datos oficiales difundidos por Última Hora. También liberó los alias del SIP para reasociarlos a cuentas de otros bancos. Y anunció que distribuiría activos y pasivos “por lotes”.
+El Fondo de Garantía de Depósitos garantiza hasta 75 salarios mínimos por depositante y por entidad. Como anticipo de hasta 40 salarios mínimos, el BCP pagó a **1.812.348 personas** unos **USD 644 millones**, según datos oficiales difundidos por Última Hora. También liberó los alias del SIP y anunció el reparto de activos y pasivos “por lotes”.
 
 Sobre los datos no hubo comunicado equivalente. La Ley 2334/2003 dice que el interventor ocupa los locales y **desapodera a los administradores de todos los libros, papeles, documentos y registros** (art. 15). También permite transferir activos y depósitos **sin consentimiento de los titulares** (art. 25). Pero no menciona bases de datos, biometría, scoring ni quién es el responsable de esa información.
 
-Al 13 de noviembre, el mecanismo no estaba formalmente cerrado. El plan declarado es transferir activos y pasivos por lotes; si se transfiere la cartera, los registros podrían viajar con ella por necesidad operativa, aunque ningún documento lo establece. Si se liquida el resto, los archivos quedarían bajo el interventor y luego bajo el juez. No hay respuesta pública sobre las caras y las huellas.
+Al 13 de noviembre, el mecanismo no estaba formalmente cerrado. El plan declarado es transferir activos y pasivos por lotes; si se transfiere la cartera, los registros podrían viajar con ella, aunque ningún documento lo establece. Si se liquida el resto, el balance residual pasa al juez (art. 26); la ley no dice qué ocurre con las bases. No hay respuesta pública sobre las caras y las huellas.
 
 ## La ley que todavía no te protege
 
-El problema no es que falte una ley. Es que la ley de resolución no habla de datos, y la que habla de datos todavía no rige.
+La ley de resolución no habla de datos; la que habla de datos todavía no rige.
 
 - **Ley 2334/2003:** regula la resolución; no menciona datos personales.
-- **Ley 861/1996:** mantiene el secreto bancario; solo permite divulgar “las sumas recibidas” con fines de liquidación, no el expediente completo.
+- **Ley 861/1996:** mantiene el secreto bancario; la excepción de liquidación alcanza a “las sumas recibidas”, no al expediente completo (arts. 84-88).
 - **Ley 7593/2025:** entra en vigor el **27 de noviembre de 2027**. Crea la Agencia Nacional de Protección de Datos Personales dentro del MITIC, reconoce el carácter sensible de la biometría y derechos de acceso, supresión, portabilidad y revisión de decisiones automatizadas. Pero no tiene una regla específica para resoluciones bancarias.
 - **Hoy:** quedan el hábeas data de la Constitución (art. 135) y la Ley 6534/2020 para datos crediticios. No hay autoridad general de datos operativa.
 
-Aun en 2027, el cliente no podrá vetar la transferencia de su cartera: la Ley 2334/2003 no se deroga. Lo que cambiará es el estándar de información, la posibilidad de reclamar ante una agencia y el control sobre usos secundarios y decisiones automatizadas.
+La Ley 2334/2003 no se deroga: su art. 25 seguirá permitiendo transferir activos y depósitos sin consentimiento. Cómo se combina con los derechos de la Ley 7593 sobre los datos asociados no está resuelto. Lo que cambiará es el estándar de información, el reclamo ante una agencia y el control sobre usos secundarios.
 
 ## Qué podés hacer hoy y qué debería cambiar
 
-Si fuiste cliente, podés pedir acceso a tus datos crediticios a Ueno; si no responde, reclamar ante SEDECO. También podés consultar gratis tu Estado de Deuda en el BCP con Identidad Electrónica. Si el dato es erróneo, la rectificación se pide a la entidad que lo reportó. SEDECO es una de las autoridades de la Ley 6534, aunque solo cubre datos crediticios, no biometría.
+Si fuiste cliente, podés pedir tus datos crediticios a Ueno y reclamar ante SEDECO si no responde. También podés consultar gratis tu Estado de Deuda en el BCP con Identidad Electrónica. Si el dato es erróneo, la rectificación se pide a la entidad que lo reportó. SEDECO es una de las autoridades de la Ley 6534, aunque solo cubre datos crediticios, no biometría.
 
-Para datos personales fuera del crédito, la vía es el **hábeas data** ante un juez de primera instancia. En la práctica requiere patrocinio letrado y no garantiza que el juez ordene borrar una base comercial. Ueno publicaba los correos `ual@ueno.com.py` y `dpoffice@ueno.com.py`, pero no hay confirmación de que sigan operativos tras la intervención. ITTI USA, que gestiona datos del ecosistema UNID, reconoce derechos de acceso y supresión, con límites: la supresión puede cancelar servicios y cede ante obligaciones legales.
+Para el resto, la vía es el **hábeas data** ante un juez de primera instancia. En la práctica requiere patrocinio letrado y no garantiza que el juez ordene borrar una base comercial. Ueno publicaba los correos `ual@ueno.com.py` y `dpoffice@ueno.com.py`, pero no hay confirmación de que sigan operativos tras la intervención. ITTI USA, que gestiona datos de Ueno, ITTI, Tuti y otras marcas, reconoce en su aviso derechos de acceso y supresión, con límites: la supresión puede cancelar servicios y cede ante obligaciones legales.
 
 Debería cambiar que el BCP y los interventores informen **dónde están las bases**, quién tiene acceso y bajo qué contrato; que ninguna base se transfiera sin un consentimiento nuevo y específico; que se audite la biometría de los convenios con el Estado; que el reglamento de la Ley 7593 se publique con participación; y que la Agencia de Datos tenga independencia y presupuesto.
 
@@ -149,7 +149,7 @@ Este artículo integra el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
       "name": "¿Qué datos tenía Ueno de sus clientes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Identificación, biometría facial y dactilar, documentos de KYC, cuentas, saldos, transferencias, tarjetas, préstamos, scoring, ingresos estimados, comportamiento de pago, productos, compras, interacciones y datos de uso de la app."
+        "text": "Identificación, biometría facial y, según Última Hora, dactilar, documentos de KYC, cuentas, saldos, transferencias, tarjetas, préstamos, scoring, ingresos estimados, comportamiento de pago, productos, compras, interacciones y datos de uso de la app."
       }
     },
     {
@@ -165,7 +165,7 @@ Este artículo integra el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
       "name": "¿Puedo pedir que borren mis datos de Ueno?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hoy no hay un derecho general de borrado. Podés pedir acceso o rectificación de datos crediticios ante la entidad y usar el hábeas data para datos personales. Desde 2027 la Ley 7593/2025 reconoce supresión y portabilidad, pero con límites: no permite vetar la transferencia de cartera y cede ante obligaciones legales de conservación."
+        "text": "Hoy no hay un derecho general de borrado. Podés pedir acceso o rectificación de datos crediticios ante la entidad y usar el hábeas data para datos personales. Desde 2027 la Ley 7593/2025 reconoce supresión y portabilidad, pero su cruce con la transferencia de cartera sigue sin resolverse."
       }
     }
   ]
