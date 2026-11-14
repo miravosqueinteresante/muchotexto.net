@@ -127,7 +127,7 @@ def audit():
         if slug in NON_ANALYSIS:
             continue
         url = article_url(data, path)
-        row = {"slug": slug, "title": str(data.get("title", "")), "url": url, "pilar": data.get("pilar")}
+        row = {"slug": slug, "title": str(data.get("title", "")), "url": url, "pilar_num": data.get("pilar")}
         for surface in SURFACES:
             row[surface] = surface_status(surface, data, url, slug, cache)
         rows.append(row)

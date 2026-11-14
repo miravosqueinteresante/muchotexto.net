@@ -617,8 +617,8 @@
     glosario: n/a
     casos: n/a
     directorio: n/a
-    radar: n/a
-    regulacion: n/a
+    radar: updated
+    regulacion: updated
     claims: n/a
     entidades: updated
     grafo: n/a
@@ -627,9 +627,6 @@
     glosario: El artículo no declara términos en su front matter.
     casos: El artículo no declara casos en su front matter.
     directorio: El artículo no declara entradas de directorio en su front matter.
-    radar: No se identificó un vínculo con una norma del radar en este backfill.
-    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
-      este backfill.
     claims: No se identificó un claim en la página pública en este backfill.
     grafo: El grafo no indexa URLs de artículos.
 2026-07-17-ciberseguridad-paraguay:
@@ -642,7 +639,7 @@
     directorio: n/a
     radar: updated
     regulacion: updated
-    claims: n/a
+    claims: updated
     entidades: updated
     grafo: n/a
   motivos:
@@ -650,7 +647,6 @@
     glosario: El artículo no declara términos en su front matter.
     casos: El artículo no declara casos en su front matter.
     directorio: El artículo no declara entradas de directorio en su front matter.
-    claims: No se identificó un claim en la página pública en este backfill.
     grafo: El grafo no indexa URLs de artículos.
 2026-07-17-ia-corrupcion-paraguay:
   superficies:
@@ -1129,16 +1125,12 @@
     glosario: updated
     casos: updated
     directorio: updated
-    radar: n/a
-    regulacion: n/a
-    claims: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
     entidades: n/a
     grafo: n/a
   motivos:
-    radar: No se identificó un vínculo con una norma del radar en este backfill.
-    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
-      este backfill.
-    claims: No se identificó un claim en la página pública en este backfill.
     entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.
 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide:

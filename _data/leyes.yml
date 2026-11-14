@@ -13,6 +13,11 @@
   nota: "Regula el tratamiento de datos crediticios. El BCP y la SEDECO son autoridades; no cubre biometría ni datos de la Expo."
   articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
 
+- nombre: "Resolución MIC 0283/2026 - Investor Pass"
+  estado: vigente
+  nota: "Reglamenta la Constancia de Inversionista Extranjero (CIE). La residencia permanente la concede Migraciones al amparo del art. 46 de la Ley 6984/2022."
+  articulo: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/
+
 - nombre: "Ley 6822/2022 — Servicios de confianza"
   estado: vigente
   nota: "Base legal de la identidad digital, la firma electrónica y las notificaciones digitales."
@@ -100,6 +105,7 @@
 - nombre: "Estrategia Nacional de IA"
   estado: en-tramite
   nota: "El MITIC realizó consulta pública en 2024. La UNESCO publicó el RAM Report en diciembre de 2025. Sin documento oficial publicado."
+  articulo: /articulos/2026/07/16/ia-soberana-paraguay/
 
 - nombre: "Ley de IA, deepfakes y contenido sintético"
   estado: en-tramite

@@ -292,6 +292,15 @@ last_modified_at: 2026-11-14
 </section>
 
 <section class="claims-section">
+<h2 class="claims-section-title">Migración y residencia</h2>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero; la residencia permanente la concede Migraciones al amparo del artículo 46 de la Ley 6984/2022."</span></div>
+  <span class="claim-source">Fuente: MIC — <a href="https://www.mic.gov.py/wp-content/uploads/2026/04/Res.-N-0283.2026_Constancia-de-Inversionista.pdf">Resolución 0283/2026</a> · BACN — <a href="https://www.bacn.gov.py/leyes-paraguayas/10973/ley-n-6984-de-migraciones">Ley 6984/2022</a> · <a href="/articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/">Artículo</a></span>
+</div>
+</section>
+
+<section class="claims-section">
 <h2 class="claims-section-title">Ueno y datos personales</h2>
 
 <div class="claim">
@@ -312,6 +321,20 @@ last_modified_at: 2026-11-14
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"No hay información pública que confirme ni descarte la venta o transferencia de las bases de datos de Ueno."</span></div>
   <span class="claim-source">Fuente: TEDIC — <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
+</div>
+</section>
+
+<section class="claims-section">
+<h2 class="claims-section-title">Ciberseguridad</h2>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"CERT-PY fue creado el 30 de noviembre de 2012 y depende del MITIC."</span></div>
+  <span class="claim-source">Fuente: artículo sobre ciberseguridad — <a href="/articulos/2026/07/17/ciberseguridad-paraguay/">Artículo</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El Decreto 3900/2025 aprobó la Estrategia Nacional de Ciberseguridad 2025-2028."</span></div>
+  <span class="claim-source">Fuente: artículo sobre ciberseguridad — <a href="/articulos/2026/07/17/ciberseguridad-paraguay/">Artículo</a></span>
 </div>
 </section>
 

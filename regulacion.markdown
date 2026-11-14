@@ -25,6 +25,11 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 - **[Ley 7503/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/)** — Crea el Sistema Nacional de Pagos. Extiende la supervisión del Banco Central del Paraguay a empresas fintech. Interoperabilidad obligatoria entre billeteras y bancos. SPI/Sipap registró 28 millones de transacciones en junio 2025.
 - **[Ley 7572/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/)** — Ley del Mercado de Valores. Artículo 73: reconoce instrumentos financieros emitidos en blockchain. Marco legal para la tokenización de activos en Paraguay.
 
+## Migración y residencia
+
+- **[Resolución MIC 0283/2026](/articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/)** - Reglamenta la Constancia de Inversionista Extranjero (CIE). No crea la residencia permanente: la habilita al amparo del artículo 46 de la Ley 6984/2022.
+- **[Ley 6984/2022 de Migraciones](/articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/)** - El artículo 46, párrafo final, es la base legal de la residencia permanente por inversión que promociona el “Investor Pass”.
+
 ## Industria, maquila y ensamblaje electrónico
 
 - **[Ley 7547/2025 del Régimen de Maquila](/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/)** — Moderniza la Ley 1064/97. Tributo único del **1%** sobre el valor agregado nacional o la factura de exportación (el mayor), beneficios hasta **20 años**, maquila de servicios, modalidades shelter y capacidad ociosa. Promulgada y publicada el 8 de septiembre de 2025.
@@ -46,6 +51,11 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 - **[Reglamento tarifario BCP (julio 2026)](/articulos/2026/07/24/ecommerce-logistica-paraguay/)** — El BCP emitió un reglamento que transparenta las comisiones de los medios de pago electrónicos.
 
 - **Sin ley específica de ciberseguridad.** El marco actual se apoya en la estrategia 2025-2028 más legislación dispersa.
+
+## Inteligencia artificial
+
+- **[Estrategia Nacional de IA](/articulos/2026/07/16/ia-soberana-paraguay/)** - El MITIC hizo una consulta pública en 2024 y la UNESCO publicó un diagnóstico en diciembre de 2025, pero no hay estrategia oficial publicada.
+- **[Proyectos de ley de IA, deepfakes y contenido sintético](/articulos/2026/09/03/contenido-basura-agentes-ia/)** - No hay ley vigente. Al menos cuatro proyectos en trámite, ninguno sancionado.
 
 ## Sistema judicial
 
