@@ -191,7 +191,17 @@ last_modified_at: 2026-11-14
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Los data centers ya consumen el 23% de la electricidad de Irlanda en 2025 (20% en 2023)."</span></div>
-  <span class="claim-source">Fuente: CRU Ireland · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: CRU Ireland — <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El MOU nuclear firmado con EE.UU. el 4 de agosto de 2026 no es un Acuerdo 123: no es vinculante, no transfiere tecnología ni compromete proveedor, sitio, capacidad o plazos."</span></div>
+  <span class="claim-source">Fuente: U.S. State Department — <a href="https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-of-state-marco-rubio-and-paraguayan-foreign-minister-ruben-ramirez-lezcano-at-the-signing-of-a-memorandum-of-understanding-for-strategic-civil-nuclear-cooperation/">Remarks</a> · <a href="/articulos/2026/09/23/energia-nuclear-paraguay-eeuu/">Artículo</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Los USD 665 millones de Atome eran inversión proyectada, no dinero desembolsado; la empresa rescindió su contrato con la ANDE en octubre de 2026."</span></div>
+  <span class="claim-source">Fuente: ATOME PLC — <a href="https://www.prnewswire.com/news-releases/atome-plc-notice-of-dispute-and-intent-to-submit-claim-to-arbitration-under-the-uk--paraguay-bilateral-investment-treaty-the-treaty-or-bit-302881982.html">Notice of Dispute</a> · <a href="/articulos/2026/10/02/atome-ande-salida-paraguay/">Artículo</a></span>
 </div>
 </section>
 

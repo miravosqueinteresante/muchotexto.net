@@ -1107,14 +1107,13 @@
     directorio: updated
     radar: n/a
     regulacion: n/a
-    claims: n/a
+    claims: updated
     entidades: n/a
     grafo: n/a
   motivos:
     radar: No se identificó un vínculo con una norma del radar en este backfill.
     regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
       este backfill.
-    claims: No se identificó un claim en la página pública en este backfill.
     entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.
 2026-09-25-paraguay-investor-pass-residencia-inversores:
@@ -1182,14 +1181,13 @@
     directorio: updated
     radar: n/a
     regulacion: n/a
-    claims: n/a
+    claims: updated
     entidades: updated
     grafo: n/a
   motivos:
     radar: No se identificó un vínculo con una norma del radar en este backfill.
     regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
       este backfill.
-    claims: No se identificó un claim en la página pública en este backfill.
     grafo: El grafo no indexa URLs de artículos.
 2026-10-09-brecha-triple-jovenes-paraguayos:
   superficies:
