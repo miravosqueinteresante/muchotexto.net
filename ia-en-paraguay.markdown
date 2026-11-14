@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay"
 permalink: /ia-en-paraguay/
 description: "Data centers, energía, regulación, empleo tech y geopolítica en Paraguay. Análisis con datos duros y fuentes verificables."
-last_modified_at: 2026-10-15
+last_modified_at: 2026-11-14
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -71,6 +71,10 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 <!-- PILAR:1:FIN -->
 
+**Próximamente:**
+
+- La primera subasta solar de Paraguay es 140 MW; su plan dice 800 al año
+
 ## Geopolítica y regulación tech
 
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo -y Taiwán produce el 90% de los semiconductores más avanzados- esa relación tiene implicancias que van mucho más allá del comercio.
@@ -89,6 +93,10 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Qué datos tuyos tenía Ueno y qué pasa con ellos ahora]({% post_url 2026-11-13-que-datos-tuyos-tenia-ueno %})** — Ueno acumuló identidad, datos financieros y, en muchos casos, biometría de casi 3 millones de cuentas declaradas. La resolución garantiza hasta 75 salarios mínimos por depositante, no los datos. Qué se sabe y qué podés hacer.
 
 <!-- PILAR:2:FIN -->
+
+**Próximamente:**
+
+- Paraguay firmó la identidad digital del Mercosur: el plazo vence el 25 de diciembre
 
 ## IA, sociedad y trabajo
 
@@ -109,6 +117,10 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Inglés, experiencia e IA, la brecha triple de los jóvenes paraguayos]({% post_url 2026-10-09-brecha-triple-jovenes-paraguayos %})** — La Encuesta Regional 2026 de Capaser y Zabe relevó cinco barreras de empleabilidad; las tres más ligadas a la economía digital son experiencia práctica (53,3%), inglés (53%) y habilidades digitales e IA (40%).
 
 <!-- PILAR:3:FIN -->
+
+**Próximamente:**
+
+- Por qué las cifras de adopción de IA en Paraguay no coinciden
 
 ## Tecnología aplicada y ecosistema
 
@@ -134,7 +146,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 
 **Próximamente:**
 
-*Sin temas verificados por el momento. Se investigarán nuevas fuentes de pagos digitales, fintech y blockchain en Paraguay.*
+- El Estado paraguayo ya puede comprar I+D que no existe en el mercado
 
 ## Cultura, filosofía y futuro
 
@@ -156,7 +168,7 @@ La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacio
 
 **Próximamente:**
 
-*Sin temas verificados por el momento. Se investigarán fuentes de cultura, filosofía y futuro digital en Paraguay.*
+- Paraguay lee cada vez menos: qué tiene que ver la IA (y qué no)
 
 ---
 
