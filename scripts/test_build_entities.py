@@ -19,8 +19,9 @@ class TestManualArticles(unittest.TestCase):
             {"title": "Nuevo", "url": "/b/", "context": "ctx"},
         ]}
         out = be.merge_manual_articles(related, entity)
-        self.assertEqual([a["url"] for a in out], ["/b/", "/a/"])
-        self.assertEqual([a["score"] for a in out], [2, 1])
+        self.assertEqual({a["url"] for a in out}, {"/a/", "/b/"})
+        self.assertEqual(next(a for a in out if a["url"] == "/a/")["context"], "dup")
+        self.assertTrue(all(a["score"] == 2 for a in out))
 
 
 if __name__ == "__main__":

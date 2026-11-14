@@ -302,3 +302,44 @@
     cobrar con Pix de Brasil desde 2024, anticipando la integración
     transfronteriza que los bancos centrales aún negocian.
   category: empresa
+
+- slug: migraciones
+  name: Migraciones
+  name_full: Dirección General de Migraciones
+  description: >
+    Autoridad migratoria de Paraguay. Concede la residencia permanente y aplica
+    la Ley 6984/2022. El artículo 46 de esa ley es la base de la residencia
+    permanente por inversión que promociona el Investor Pass; Migraciones
+    registró 47.687 solicitudes y otorgó 40.600 residencias en 2025.
+  category: gobierno
+  related_laws:
+    - "Ley 6984/2022 - Migraciones, art. 46 residencia permanente por inversión"
+    - "Resolución MIC 0283/2026 - Constancia de Inversionista Extranjero"
+  manual_articles:
+    - title: "Paraguay firma la residencia permanente más directa de la región"
+      url: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/
+      context: "La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero; la residencia permanente la concede Migraciones al amparo del artículo 46 de la Ley 6984/2022."
+
+- slug: ministerio-energia
+  name: Ministerio de Energía
+  name_full: Ministerio de Energía, Minería e Hidrocarburos
+  description: >
+    Ministerio propuesto por el Ejecutivo el 13 de agosto de 2026. El proyecto
+    de ley de 27 artículos crea tres viceministerios (Energía, Minería e
+    Hidrocarburos) y absorbería al Viceministerio de Minas y Energía (MOPC) y a
+    la Dirección de Combustibles (MIC). Es un proyecto en debate, no una
+    institución creada.
+  category: gobierno
+  related_laws:
+    - "Proyecto de ley de creación del Ministerio de Energía, Minería e Hidrocarburos (2026)"
+    - "Ley 7599/2025 y Decreto 6034/2026 - apertura del sector eléctrico"
+  manual_articles:
+    - title: "El ministerio de energía que Paraguay prepara con tres viceministerios"
+      url: /articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/
+      context: "El proyecto crea el Ministerio de Energía, Minería e Hidrocarburos con tres viceministerios y absorbería al VMME y a la Dirección de Combustibles."
+    - title: "El modelo institucional de PSR para el sector eléctrico paraguayo"
+      url: /articulos/2026/08/19/modelo-institucional-psr-sector-electrico/
+      context: "El documento de PSR diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa."
+    - title: "El ente regulador de energía que Paraguay diseña con concurso público"
+      url: /articulos/2026/08/19/ente-regulador-energia/
+      context: "El proyecto de ley del Ejecutivo crea un ente regulador de energía con concurso público, en paralelo al nuevo ministerio."

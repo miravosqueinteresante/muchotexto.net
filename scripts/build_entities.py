@@ -373,22 +373,28 @@ def law_keys(text):
 
 
 def merge_manual_articles(related, entity):
-    """Agrega artículos curados que el escaneo de 800 chars no captura."""
+    """Agrega o corrige artículos curados que el escaneo de 800 chars no captura."""
     manual = entity.get("manual_articles") or []
-    seen = {art["url"] for art in related}
+    by_url = {art["url"]: art for art in related}
     for art in manual:
         url = str(art.get("url", "")).strip()
         title = str(art.get("title", "")).strip()
-        if not url or not title or url in seen:
+        if not url or not title:
+            continue
+        context = str(art.get("context", "")).strip()
+        if url in by_url:
+            if context:
+                by_url[url]["context"] = context
+            by_url[url]["score"] = 2
             continue
         related.append({
             "title": title,
             "url": url,
             "date": str(art.get("date", "")),
-            "context": str(art.get("context", "")).strip(),
+            "context": context,
             "score": 2,
         })
-        seen.add(url)
+        by_url[url] = related[-1]
     related.sort(key=lambda a: (-a.get("score", 0), a.get("date", "")))
     return related
 
