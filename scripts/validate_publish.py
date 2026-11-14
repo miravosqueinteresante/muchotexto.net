@@ -16,6 +16,7 @@ from urllib.parse import urlparse
 import subprocess
 
 from check_observatorio import check_post as check_observatorio_post
+from url_policy import is_allowed_403, load_allowlist
 
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
@@ -237,6 +238,7 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
             ctx.check_hostname = False
             ctx.verify_mode = ssl.CERT_NONE
             broken = 0
+            allow403 = load_allowlist()
             for url in external_urls[:10]:  # max 10 para no bloquear
                 try:
                     req = urllib.request.Request(url, headers={'User-Agent': 'muchotexto-validator/1.0'})
@@ -244,8 +246,8 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
                     if resp.status != 200:
                         broken += 1
                 except urllib.error.HTTPError as e:
-                    # 403 anti-bot es aceptado por AGENTS.md; no es un link roto.
-                    if e.code != 403:
+                    # 403 anti-bot: solo se acepta si el dominio está en la allowlist.
+                    if not (e.code == 403 and is_allowed_403(url, allow403)):
                         broken += 1
                 except:
                     broken += 1

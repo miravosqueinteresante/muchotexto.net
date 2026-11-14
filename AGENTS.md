@@ -81,7 +81,7 @@ Todo esto se ejecuta **y se verifica con salida real**, no de memoria. Son los p
 1. **Fact-check independiente (Compuerta B) — BLOQUEANTE**: antes del commit, desplegar un agente verificador independiente (Paso 2) que lea el artículo párrafo por párrafo contra las fuentes descargadas (`fetch_sources.py`, Paso 0). El informe (TRUE/PARTIAL/FALSE/UNVERIFIABLE) se guarda en `research_*/`. **Sin informe limpio de FALSE, no se commitea.** No confundir con `validate_publish`, que solo chequea *formato*, no *verdad*. (Error histórico: el #58 se publicó saltando este paso; el fact-check post-commit encontró 2 imprecisiones que habrían entrado en el commit original.)
 2. **Formato de fuentes (§5.1)**: cada entrada de "Fuentes" apunta a la **URL del artículo concreto**, no a la homepage del medio. `validate_publish.py` marca warning si detecta una homepage — si aparece, corregir la URL, no ignorarlo. Excepción legítima: el sitio oficial de una entidad cuando su página principal ES la fuente primaria.
 3. **Atribución de cada fuente/entrevista**: toda cita o mención de un medio/entrevista tiene una **URL específica verificada**. Una etiqueta semilla (nombre de una radio, hashtag, medio sin URL) NO es fuente hasta que una URL concreta la verifique. Si no se encuentra la URL, la cita se elimina o se reatribuye al medio que sí la publicó.
-4. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot válido). Ninguna fuente 404.
+4. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot incluido en `scripts/url_403_allowlist.txt`). Un 403 fuera de la allowlist bloquea; ninguna fuente 404.
 5. **`validate_publish`**: sin warnings bloqueantes (fuentes, superlativos, meta, FAQ, links internos) **y con los artefactos de cierre presentes**: `research_[tema]/` con `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md`. El gate `check_cierre` bloquea el commit si falta alguno — los pasos de verificación se demuestran con artefactos, no dependen de la disciplina de nadie. El gate de enlaces exige **2 enlaces internos contextuales como mínimo, además de la pilar**; un path suelto a `validate_publish.py` ya no pasa en silencio (se trata como `--check`). La cobertura del observatorio se declara en `_data/observatorio.yml`: cada superficie debe ser `updated` (con la URL del artículo) o `n/a` (con motivo); `check_observatorio.py` bloquea si falta la entrada, si una `updated` no contiene la URL o si una `n/a` no explica por qué. Para auditar o backfillear artículos anteriores: `python scripts/audit_observatorio_coverage.py` (read-only) y `python scripts/backfill_observatorio.py --apply` (genera solo entradas faltantes desde evidencia real).
 6. **`build_derived` + `audit_consistency`**: verdes.
 7. **Observatorio actualizado**: pilar enlaza el artículo, `llms.txt`, `entidades/` regeneradas si toca entidad, `directorio/` si el artículo aporta una entrada nueva.
@@ -159,6 +159,19 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 - **Política de revisión**: revisar esta política cada 90 días o al incorporar un modelo/herramienta nueva.
 
 **Recordatorio de mantenimiento:** próxima revisión de la política de IA: 13 de noviembre de 2026.
+
+## Conteos canónicos y documentos locales
+
+`python scripts/site_counts.py` define los cuatro universos que no deben mezclarse:
+
+- **posts:** todos los archivos de `_posts/`.
+- **articulos:** posts con `categories: articulos`.
+- **con_pilar:** artículos con `pilar` 1-5.
+- **analisis:** `con_pilar` menos `NON_ANALYSIS` (bienvenida y ensayo de fútbol).
+
+La página pilar usa el conteo dinámico de `con_pilar`; por eso puede decir 62 artículos mientras el observatorio tiene 61 análisis. No hardcodear estos números en páginas ni artículos.
+
+`estrategia-seo-unificada-muchotexto.md` es un **documento local de referencia**. Está en `.gitignore`; no se commitea ni cuenta como entregable del repo. El hook local `.git/hooks/pre-commit` ejecuta `validate_publish` sobre posts staged y `check_observatorio --all`; los tests lentos quedan en CI.
 
 ## Categorías de error más frecuentes (verificar con especial atención)
 

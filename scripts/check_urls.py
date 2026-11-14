@@ -10,6 +10,8 @@ import urllib.request
 import urllib.error
 import ssl
 
+from url_policy import is_allowed_403, load_allowlist
+
 TIMEOUT = 15
 
 def extract_urls(filepath):
@@ -46,19 +48,32 @@ def main():
         print("No se encontraron URLs externas.")
         sys.exit(0)
 
+    allowlist = load_allowlist()
     broken = []
+    blocked = []
     for url in urls:
         status = check_url(url)
-        symbol = "OK" if status == 200 else "!!"
-        print(f"  [{symbol}] {status} - {url[:80]}")
-        if status != 200:
+        if status == 200:
+            symbol = "OK"
+        elif status == 403 and is_allowed_403(url, allowlist):
+            symbol = "403"
+            blocked.append(url)
+        else:
+            symbol = "!!"
             broken.append((url, status))
+        print(f"  [{symbol}] {status} - {url[:80]}")
 
     if broken:
         print(f"\n{len(broken)} URL(s) no responden 200:")
         for url, status in broken:
             print(f"  {status}: {url}")
         sys.exit(1)
+
+    if blocked:
+        print(f"\n{len(blocked)} URL(s) con 403 anti-bot aceptado por allowlist:")
+        for url in blocked:
+            print(f"  403: {url}")
+        print(f"\n{len(urls) - len(blocked)} URL(s) respondieron 200.")
     else:
         print(f"\nTodas las {len(urls)} URLs responden OK.")
 
