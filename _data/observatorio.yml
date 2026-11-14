@@ -390,7 +390,7 @@
     radar: updated
     regulacion: updated
     claims: n/a
-    entidades: n/a
+    entidades: updated
     grafo: n/a
   motivos:
     cronologia: El artículo no declara hitos en su front matter.
@@ -398,7 +398,6 @@
     casos: El artículo no declara casos en su front matter.
     directorio: El artículo no declara entradas de directorio en su front matter.
     claims: No se identificó un claim en la página pública en este backfill.
-    entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.
 2026-07-10-que-es-un-data-center-paraguay-ia:
   superficies:
@@ -1049,7 +1048,7 @@
     radar: updated
     regulacion: updated
     claims: n/a
-    entidades: n/a
+    entidades: updated
     grafo: n/a
   motivos:
     cronologia: El artículo no declara hitos en su front matter.
@@ -1057,7 +1056,6 @@
     casos: El artículo no declara casos en su front matter.
     directorio: El artículo no declara entradas de directorio en su front matter.
     claims: No se identificó un claim en la página pública en este backfill.
-    entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.
 2026-09-16-los-contratos-secretos-de-ande:
   superficies:

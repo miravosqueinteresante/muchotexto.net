@@ -114,6 +114,10 @@
   category: gobierno
   related_laws:
     - "Estrategia Nacional de Ciberseguridad 2025-2028 — Decreto 3900"
+  manual_articles:
+    - title: "Los agentes de IA actuaron sin control y Paraguay no tiene defensas"
+      url: /articulos/2026/09/03/contenido-basura-agentes-ia/
+      context: "El artículo analiza la respuesta institucional ante agentes autónomos y contenido sintético; CERT-PY opera desde 2012 bajo el MITIC."
 
 - slug: hive-digital
   name: HIVE Digital Technologies
@@ -292,6 +296,9 @@
     - title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
       url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
       context: "El BCP dispuso la resolución de ueno bank el 2-nov-2026 y pagó el anticipo del FGD; la ley de resolución no menciona datos personales."
+    - title: "Paraguay tiene más fintechs que bancos y recién empieza"
+      url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
+      context: "La Ley 7503/2025 creó el Sistema Nacional de Pagos y extendió la supervisión del BCP a las fintech; el artículo analiza el ecosistema y sus límites."
 
 - slug: bancard
   name: Bancard
@@ -302,6 +309,10 @@
     cobrar con Pix de Brasil desde 2024, anticipando la integración
     transfronteriza que los bancos centrales aún negocian.
   category: empresa
+  manual_articles:
+    - title: "Paraguay tiene más fintechs que bancos y recién empieza"
+      url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
+      context: "Bancard es el procesador dominante de pagos digitales en Paraguay, con POS, QR, vPOS y Tokefon; el artículo analiza su rol en el ecosistema fintech."
 
 - slug: migraciones
   name: Migraciones

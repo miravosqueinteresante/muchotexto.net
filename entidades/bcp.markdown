@@ -18,6 +18,9 @@ related_articles:
   - title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
     url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
     context: "El BCP dispuso la resolución de ueno bank el 2-nov-2026 y pagó el anticipo del FGD; la ley de resolución no menciona datos personales."
+  - title: "Paraguay tiene más fintechs que bancos y recién empieza"
+    url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
+    context: "La Ley 7503/2025 creó el Sistema Nacional de Pagos y extendió la supervisión del BCP a las fintech; el artículo analiza el ecosistema y sus límites."
   - title: "Paraguay proyecta conectar sus pagos instantáneos con Pix de Brasil"
     url: /articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/
     context: "Paraguay tiene un sistema de pagos que funciona en segundos, es gratuito entre personas y está disponible a cualquier hora del día. Lo que no tiene todavía es la capacidad de cruzar la frontera. En agosto de 2026, el Banco Central del Paraguay..."
@@ -63,4 +66,4 @@ obs_casos-de-uso:
     context: "Paraguay tiene desde 2022 un sistema de pagos instantáneos (SPI) que en 2025 movió el equivalente a más de tres veces el PIB y que el BCP rebautizó como SIP. En el Pay Meeting de agosto de 2026, el..."
 ---
 
-3 articulos en el observatorio mencionan a BCP.
+4 articulos en el observatorio mencionan a BCP.

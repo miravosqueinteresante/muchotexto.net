@@ -530,6 +530,12 @@
       "source": "bcp",
       "target": "bancard",
       "type": "articulo",
+      "label": "Paraguay tiene más fintechs que bancos y recién empieza"
+    },
+    {
+      "source": "bcp",
+      "target": "bancard",
+      "type": "articulo",
       "label": "QR Hub, la apuesta del BCP para digitalizar comercios"
     }
   ]
