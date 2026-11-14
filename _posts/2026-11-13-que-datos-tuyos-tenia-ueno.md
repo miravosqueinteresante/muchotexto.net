@@ -42,7 +42,7 @@ casos:
 
 Si eras cliente, Ueno no solo tenía tu dinero. Tenía tu cédula, tu rostro y tu historial de pagos; según Última Hora, a muchos les registró la huella. Y si pediste un préstamo, un puntaje sobre tu comportamiento. El ecosistema también llegó a personas de la Expo, de la Fe de Vida del IPS y de estadios de la APF.
 
-La caída del banco abrió una pregunta que el Estado todavía no respondió formalmente: **¿qué pasa con esos datos ahora?** El dinero tiene un fondo de garantía hasta 75 salarios mínimos. La cara y el historial financiero no.
+La caída abrió una pregunta que el Estado todavía no respondió formalmente: **¿qué pasa con esos datos ahora?** El dinero tiene un fondo de garantía hasta 75 salarios mínimos. La cara y el historial financiero no.
 
 ## Lo que entregaste sin saberlo
 
@@ -70,13 +70,13 @@ Una base así sirve para segmentarte, calcular tu riesgo, detectar fraude y deci
 
 En Israel, Amnistía documentó el sistema de reconocimiento facial **Red Wolf** en puestos de control de Hebrón, y el Washington Post/Breaking the Silence documentaron **Blue Wolf**, con testimonios de exsoldados. El Citizen Lab documentó infecciones de **Pegasus** en periodistas y activistas, aunque no siempre atribuye el operador.
 
-Palantir, la empresa que Peter Thiel cofundó, tiene contratos documentados con ICE, incluido el sistema ICM/Gotham desde 2014, y un acuerdo de **USD 29,9 millones** para ImmigrationOS en 2025, además de contratos con el Pentágono. No se verificó un contrato con CBP; la empresa lo negó en 2020. El punto no es que Ueno sea Palantir. Es que una base privada de millones de personas es un activo que se puede comprar, requerir o heredar cuando la empresa cae.
+Palantir, la empresa que [Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) cofundó, tiene contratos documentados con ICE, incluido el sistema ICM/Gotham desde 2014, y un acuerdo de **USD 29,9 millones** para ImmigrationOS en 2025, además de contratos con el Pentágono. No se verificó un contrato con CBP; la empresa lo negó en 2020. El punto no es que Ueno sea Palantir. Es que una base privada de millones de personas es un activo que se puede comprar, requerir o heredar cuando la empresa cae.
 
 ## Qué pasó cuando el banco entró en resolución
 
 El 2 de noviembre de 2026, el BCP dispuso la resolución de ueno bank por una insuficiencia de solvencia por debajo del 50% del mínimo. El 3 de noviembre se suspendieron la app, las tarjetas, los cajeros y las sucursales.
 
-El Fondo de Garantía de Depósitos garantiza hasta 75 salarios mínimos por depositante y por entidad. Como anticipo de hasta 40 salarios mínimos, el BCP pagó a **1.812.348 personas** unos **USD 644 millones**, según datos oficiales difundidos por Última Hora. También liberó los alias del SIP y anunció el reparto de activos y pasivos “por lotes”.
+El Fondo de Garantía de Depósitos garantiza hasta 75 salarios mínimos por depositante y por entidad. Como anticipo de hasta 40 salarios mínimos, el BCP pagó a **1.812.348 personas** unos **USD 644 millones**, según datos oficiales difundidos por Última Hora. También liberó los [alias del SIP]({% post_url 2026-10-20-qr-hub-paraguay %}) y anunció el reparto de activos y pasivos “por lotes”.
 
 Sobre los datos no hubo comunicado equivalente. La Ley 2334/2003 dice que el interventor ocupa los locales y **desapodera a los administradores de todos los libros, papeles, documentos y registros** (art. 15). También permite transferir activos y depósitos **sin consentimiento de los titulares** (art. 25). Pero no menciona bases de datos, biometría, scoring ni quién es el responsable de esa información.
 
@@ -88,7 +88,7 @@ La ley de resolución no habla de datos; la que habla de datos todavía no rige.
 
 - **Ley 2334/2003:** regula la resolución; no menciona datos personales.
 - **Ley 861/1996:** mantiene el secreto bancario; la excepción de liquidación alcanza a “las sumas recibidas”, no al expediente completo (arts. 84-88).
-- **Ley 7593/2025:** entra en vigor el **27 de noviembre de 2027**. Crea la Agencia Nacional de Protección de Datos Personales dentro del MITIC, reconoce el carácter sensible de la biometría y derechos de acceso, supresión, portabilidad y revisión de decisiones automatizadas. Pero no tiene una regla específica para resoluciones bancarias.
+- **[Ley 7593/2025]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}):** entra en vigor el **27 de noviembre de 2027**. Crea la Agencia Nacional de Protección de Datos Personales dentro del MITIC, reconoce el carácter sensible de la biometría y derechos de acceso, supresión, portabilidad y revisión de decisiones automatizadas. Pero no tiene una regla específica para resoluciones bancarias.
 - **Hoy:** quedan el hábeas data de la Constitución (art. 135) y la Ley 6534/2020 para datos crediticios. No hay autoridad general de datos operativa.
 
 La Ley 2334/2003 no se deroga: su art. 25 seguirá permitiendo transferir activos y depósitos sin consentimiento. Cómo se combina con los derechos de la Ley 7593 sobre los datos asociados no está resuelto. Lo que cambiará es el estándar de información, el reclamo ante una agencia y el control sobre usos secundarios.
@@ -97,7 +97,7 @@ La Ley 2334/2003 no se deroga: su art. 25 seguirá permitiendo transferir activo
 
 Si fuiste cliente, podés pedir tus datos crediticios a Ueno y reclamar ante SEDECO si no responde. También podés consultar gratis tu Estado de Deuda en el BCP con Identidad Electrónica. Si el dato es erróneo, la rectificación se pide a la entidad que lo reportó. SEDECO es una de las autoridades de la Ley 6534, aunque solo cubre datos crediticios, no biometría.
 
-Para el resto, la vía es el **hábeas data** ante un juez de primera instancia. En la práctica requiere patrocinio letrado y no garantiza que el juez ordene borrar una base comercial. Ueno publicaba los correos `ual@ueno.com.py` y `dpoffice@ueno.com.py`, pero no hay confirmación de que sigan operativos tras la intervención. ITTI USA, que gestiona datos de Ueno, ITTI, Tuti y otras marcas, reconoce en su aviso derechos de acceso y supresión, con límites: la supresión puede cancelar servicios y cede ante obligaciones legales.
+Para el resto, la vía es el **hábeas data** ante un juez de primera instancia. En la práctica requiere patrocinio letrado y no garantiza que el juez ordene borrar una base comercial. Ueno publicaba los correos `ual@ueno.com.py` y `dpoffice@ueno.com.py`, pero no hay confirmación de que sigan operativos tras la intervención. ITTI USA, que gestiona datos de Ueno, ITTI, Tuti y otras marcas, reconoce derechos de acceso y supresión, con límites: la supresión puede cancelar servicios y cede ante obligaciones legales.
 
 Debería cambiar que el BCP y los interventores informen **dónde están las bases**, quién tiene acceso y bajo qué contrato; que ninguna base se transfiera sin un consentimiento nuevo y específico; que se audite la biometría de los convenios con el Estado; que el reglamento de la Ley 7593 se publique con participación; y que la Agencia de Datos tenga independencia y presupuesto.
 
