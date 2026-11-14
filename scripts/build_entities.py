@@ -24,7 +24,7 @@ OBSERVATORY_PAGES = {
     "glosario": os.path.join(REPO_DIR, "glosario.markdown"),
     "cronologia": os.path.join(REPO_DIR, "cronologia.markdown"),
     "directorio": os.path.join(REPO_DIR, "directorio.markdown"),
-    "regulacion": os.path.join(REPO_DIR, "regulacion.markdown"),
+    "regulacion": os.path.join(REPO_DIR, "_data", "leyes.yml"),
     "casos-de-uso": os.path.join(REPO_DIR, "casos-de-uso.markdown"),
 }
 
@@ -199,7 +199,6 @@ def load_observatory_entries():
         "glosario": re.compile(r'^\*\*(.+?)\*\*\s*[-—]\s*(.+)$', re.MULTILINE),
         "cronologia": re.compile(r'^- \*\*(\d{4})\*\*\s*[-—]\s*(.+)$', re.MULTILINE),
         "directorio": re.compile(r'^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*[-—]\s*(.+)$', re.MULTILINE),
-        "regulacion": re.compile(r'^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*[-—]\s*(.+)$', re.MULTILINE),
         "casos-de-uso": re.compile(r'^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*[-—]\s*(.+)$', re.MULTILINE),
     }
 
@@ -285,6 +284,19 @@ def load_observatory_entries():
                         entries["directorio"].append({"label": nombre, "url": url, "context": desc})
             continue
 
+        elif page_name == "regulacion":
+            # Fuente única del radar legislativo.
+            leyes_f = os.path.join(REPO_DIR, "_data", "leyes.yml")
+            if os.path.exists(leyes_f):
+                with open(leyes_f, "r", encoding="utf-8") as lf:
+                    data = yaml.safe_load(lf) or []
+                for ley in data:
+                    nombre = str(ley.get("nombre", "")).strip()
+                    desc = clean_context(str(ley.get("nota", "")).strip())
+                    url = fix_url(str(ley.get("articulo", "") or "")) or "/radar-legislativo/"
+                    entries["regulacion"].append({"label": nombre, "url": url, "context": desc})
+            continue
+
         else:
             for m in pat.finditer(body):
                 name = m.group(1).strip()
@@ -298,7 +310,7 @@ def load_observatory_entries():
 def match_entity_in_observatory(entity_name, obs_entries):
     """Find observatory entries mentioning the entity name.
     - glosario/directorio: match in term/label only
-    - cronologia/regulacion/casos-de-uso: match in full text OR in linked article content"""
+    - cronologia/radar/casos-de-uso: match in full text OR in linked article content"""
     name_lower = strip_accents(entity_name).lower()
     matches = {"glosario": [], "cronologia": [], "directorio": [],
                "regulacion": [], "casos-de-uso": []}

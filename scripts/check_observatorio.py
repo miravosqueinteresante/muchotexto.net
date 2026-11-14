@@ -23,7 +23,7 @@ MANIFEST = os.path.join(REPO, "_data", "observatorio.yml")
 
 SURFACES = (
     "pilar", "llms", "cronologia", "glosario", "casos", "directorio",
-    "radar", "regulacion", "claims", "entidades", "grafo",
+    "radar", "claims", "entidades", "grafo",
 )
 
 NON_ANALYSIS = {
@@ -81,8 +81,6 @@ def _surface_ok(surface, url, data, slug):
         return _contains("_data/casos.yml", url)
     if surface == "radar":
         return _contains("_data/leyes.yml", url)
-    if surface == "regulacion":
-        return _contains("regulacion.markdown", url)
     if surface == "claims":
         return _contains("claims-verificados.markdown", url)
     if surface == "entidades":

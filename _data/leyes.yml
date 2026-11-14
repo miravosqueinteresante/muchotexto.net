@@ -1,5 +1,5 @@
 # Radar legislativo — estado de leyes, decretos y proyectos.
-# Fuente: mapa regulatorio (/regulacion/) y AGENTS.md (claims verificados).
+# Fuente única del radar legislativo (/radar-legislativo/) y AGENTS.md (claims verificados).
 # Los textos usan acentos y caracteres del español correctamente.
 # Estados válidos: vigente | proyecto | en-tramite | pendiente
 
@@ -122,6 +122,16 @@
   nota: "Paraguay no tiene cuotas de contratación local ni obligaciones de beneficio comunitario para data centers."
   articulo: /articulos/2026/07/25/cadena-valor-data-center/
 
+- nombre: "Contenido local en data centers"
+  estado: pendiente
+  nota: "El memorándum de Yguazú Digital no incluye compromisos de formación de técnicos paraguayos ni exigencias de contenido local. Paraguay captura solo el 15-20% del valor de los proyectos."
+  articulo: /articulos/2026/07/25/cadena-valor-data-center/
+
+- nombre: "Legislación sobre IA judicial"
+  estado: pendiente
+  nota: "No hay protocolos de supervisión humana, validez probatoria de predicciones algorítmicas ni obligación de transparencia algorítmica en el sistema judicial. La Ley 7593/2025 incluye derechos sobre decisiones automatizadas, pero está en vacatio legis hasta 2027."
+  articulo: /articulos/2026/07/21/ia-justicia-paraguay/
+
 - nombre: "Ley 7547/2025 — Régimen de Maquila"
   estado: vigente
   nota: "Moderniza la Ley 1064/97. Tributo único del 1% sobre valor agregado nacional o factura de exportación (el mayor), beneficios hasta 20 años, maquila de servicios, modalidades shelter y capacidad ociosa. Promulgada y publicada el 08-09-2025."
@@ -136,3 +146,33 @@
   estado: vigente
   nota: "Actualiza el Decreto-Ley 27 y la Ley 60/90. Exención de arancel aduanero a bienes de capital, exención de IVA, INR e IDU (piso de US$13M solo para INR/IDU). Reglamentada por Decreto 5432 (30-ene-2026). Publicada el 08-09-2025."
   articulo: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
+
+- nombre: "Ley 6984/2022 — Migraciones"
+  estado: vigente
+  nota: "Su artículo 46, párrafo final, habilita la residencia permanente por inversión que promociona el Investor Pass. La Constancia de Inversionista Extranjero se reglamenta por Resolución MIC 0283/2026."
+  articulo: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/
+
+- nombre: "Ley 5282/2014 — Transparencia pública"
+  estado: vigente
+  nota: "Obliga a los organismos del Estado a responder solicitudes de información en 15 días hábiles (art. 16). Los contratos GCIE no fueron publicados pese a los pedidos de acceso."
+  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+
+- nombre: "Estrategia Nacional de Hidrógeno Verde (julio 2025)"
+  estado: vigente
+  nota: "Seis pilares y 55 medidas, con financiamiento del BID. Pivotea hacia fertilizantes para el mercado brasileño. Es un documento de política pública, sin rango de ley."
+  articulo: /articulos/2026/07/27/hidrogeno-verde-paraguay/
+
+- nombre: "Tratado de Itaipú (1973)"
+  estado: vigente
+  nota: "Crea la Entidad Binacional Itaipú: personalidad jurídica internacional, capital 50/50 Paraguay-Brasil y Consejo de Administración paritario. Las decisiones requieren consenso entre ambas partes."
+  articulo: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
+
+- nombre: "NDC 3.0 (2025)"
+  estado: vigente
+  nota: "Contribución Nacionalmente Determinada: reducción del 20% de emisiones bajo BAU para 2030/2035 (10% incondicional y 10% condicional). Requiere USD 24.000 millones en financiamiento externo."
+  articulo: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
+
+- nombre: "Reglamento tarifario del BCP (julio 2026)"
+  estado: vigente
+  nota: "Transparenta las comisiones de los medios de pago electrónicos. Se suma al marco de la Ley 7503/2025 sobre el Sistema Nacional de Pagos."
+  articulo: /articulos/2026/07/24/ecommerce-logistica-paraguay/

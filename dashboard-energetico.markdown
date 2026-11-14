@@ -237,7 +237,7 @@ last_modified_at: 2026-08-21
 
 <p class="dash-eyebrow"><span class="dash-dot"></span>Datos verificados · actualizado 21 de agosto de 2026</p>
 
-<p class="dash-intro">El pulso eléctrico de la economía de IA en Paraguay, en un solo lugar. Potencia reservada para data centers y criptominería, la tarifa del consumo intensivo y el consumo nacional que la sostiene. Cada cifra sale de <a href="/regulacion/">fuentes oficiales</a> verificadas, no de estimaciones propias.</p>
+<p class="dash-intro">El pulso eléctrico de la economía de IA en Paraguay, en un solo lugar. Potencia reservada para data centers y criptominería, la tarifa del consumo intensivo y el consumo nacional que la sostiene. Cada cifra sale de <a href="/radar-legislativo/">fuentes oficiales</a> verificadas, no de estimaciones propias.</p>
 
 <div class="dash-kpis">
   {% for k in site.data.energia.kpis %}

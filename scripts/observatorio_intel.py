@@ -233,7 +233,7 @@ OBSERVATORIO_PAGES = [
     ("Glosario", "glosario.markdown", True),
     ("Directorio", "directorio.markdown", False),
     ("Cronologia", "cronologia.markdown", False),
-    ("Regulacion", "regulacion.markdown", False),
+    ("Radar legislativo", "_data/leyes.yml", False),
     ("Casos de uso", "casos-de-uso.markdown", False),
 ]
 
@@ -244,6 +244,16 @@ def section4_observatory_density():
         fpath = os.path.join(REPO_DIR, filename)
         if not os.path.exists(fpath):
             results.append((name, 0, "no existe"))
+            continue
+        if filename == "_data/leyes.yml":
+            count = 0
+            try:
+                import yaml
+                with open(fpath, "r", encoding="utf-8") as lf:
+                    count = len(yaml.safe_load(lf) or [])
+            except Exception:
+                count = 0
+            results.append((name, count, "radar"))
             continue
         if filename == "cronologia.markdown":
             # Derivada de _data/cronologia.yml (build_derived.py)

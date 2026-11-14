@@ -32,14 +32,13 @@ MOTIVOS = {
     "casos": "El artículo no declara casos en su front matter.",
     "directorio": "El artículo no declara entradas de directorio en su front matter.",
     "radar": "No se identificó un vínculo con una norma del radar en este backfill.",
-    "regulacion": "No se identificó un vínculo con una norma del mapa regulatorio en este backfill.",
     "claims": "No se identificó un claim en la página pública en este backfill.",
     "entidades": "El artículo no aparece en ninguna página de entidad.",
     "grafo": "El grafo no indexa URLs de artículos.",
 }
 
 DERIVED = ("cronologia", "glosario", "casos", "directorio")
-OPTIONAL = ("radar", "regulacion", "claims", "entidades", "grafo")
+OPTIONAL = ("radar", "claims", "entidades", "grafo")
 
 
 def build_entry(row):

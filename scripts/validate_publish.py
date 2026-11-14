@@ -400,7 +400,7 @@ def check_ecosistema(new_posts: list[str], staged_all: list[str]) -> tuple[list[
                 "Ejecuta git add entidades/ grafo.json"
             )
     # Superficies derivadas (_data/cronologia|glosario|casos|directorio.yml) y
-    # curadas de bajo churn (regulacion, radar): NO se exigen por articulo.
+    # curadas de bajo churn (radar): NO se exigen por articulo.
     # Se actualizan solas si el articulo declara `hitos`/`glosario`/`casos`/`directorio`.
 
     # Check if new article topic is still in Proximamente on pillar page

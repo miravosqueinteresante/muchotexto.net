@@ -27,7 +27,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 **Observatorio:**
 
 - [Cronología](/cronologia/) — Hitos de IA en Paraguay desde 1973
-- [Mapa regulatorio](/regulacion/) — Leyes, decretos y estrategias vigentes
+- [Radar legislativo](/radar-legislativo/) — Leyes, decretos y estrategias por estado
 - [Directorio](/directorio/) — Startups, aceleradoras, comunidades y eventos
 - [Casos de uso](/casos-de-uso/) — IA aplicada en sectores productivos
 - [Glosario vivo](/glosario/) — Términos clave explicados en contexto paraguayo
@@ -51,7 +51,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[Luces y sombras de la apertura eléctrica en Paraguay]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable.
 - **[Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %})** — El proyecto con Taiwán, en tres fases: de 10 MW y $200M a 1 GW y $40.000M.
 - **[Lo que la criptominería le cuesta realmente a Paraguay]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %})** — Paraguay es el cuarto país con mayor minería de bitcoin del mundo.
-- **[Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** — Paraguay genera 8.000 MW pero su red de transmisión no puede llevarlos a donde se necesitan.
+- **[Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %})** — Paraguay tiene 8.760 MW nominales pero su red de transmisión no puede llevarlos a donde se necesitan.
 - **[Qué es un data center y por qué Paraguay quiere construir uno]({% post_url 2026-07-10-que-es-un-data-center-paraguay-ia %})** — Qué es, cómo funciona, qué tiene adentro y por qué consume tanta energía.
 - **[En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú]({% post_url 2026-07-17-itaipu-2027-energia-paraguay %})** — El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?
 - **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.

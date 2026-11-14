@@ -135,7 +135,7 @@ last_modified_at: 2026-11-14
 }
 </style>
 
-<p>El estado de las leyes, decretos y proyectos que definen la inteligencia artificial, la energía y los datos en Paraguay. Filtrá por estado o leé el <a href="/regulacion/">mapa regulatorio completo</a> organizado por tema.</p>
+<p>El estado de las leyes, decretos y proyectos que definen la inteligencia artificial, la energía y los datos en Paraguay. Filtrá por estado o leé la <a href="/cronologia/">cronología</a> organizada por fecha.</p>
 
 <div class="radar-filters">
   <button type="button" class="radar-chip is-active" data-filter="todas">Todas</button>
@@ -193,7 +193,7 @@ last_modified_at: 2026-11-14
   </ul>
 </section>
 
-<p class="radar-note">Esta vista por estado complementa el <a href="/regulacion/">mapa regulatorio</a> (organizado por tema) y la <a href="/cronologia/">cronología</a> (organizada por fecha). Se actualiza con cada investigación nueva y se re-verifica contra fuentes oficiales.</p>
+<p class="radar-note">El mapa regulatorio por tema se integró a esta página. Se actualiza con cada investigación nueva y se re-verifica contra fuentes oficiales.</p>
 
 <script>
 (function () {

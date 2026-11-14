@@ -98,8 +98,7 @@ Los artículos de fondo siguen un proceso estructurado de 12 pasos donde la IA a
 11. **Generación de FAQ**: un script automático (`generate_faq.py`) analiza el contenido del artículo y genera 3 preguntas frecuentes con respuestas basadas en datos del texto. Si el artículo no incluye FAQ, un workflow de GitHub Actions lo detecta y lo genera automáticamente antes de la publicación.
 12. **Actualización del observatorio y la estrategia**: antes del commit final, si el artículo aporta nuevos hitos, entidades, casos o términos, actualizar las páginas del observatorio que correspondan:
     - **`/cronologia/`**: no se edita a mano. Los hitos nuevos se declaran en el front matter del artículo (campo `hitos`, con `fecha` ISO y `texto`) y un generador (`build_derived.py`) recompone la página desde esa fuente única.
-    - **`/regulacion/`**: agregar leyes, decretos o normas nuevas si el artículo cubre legislación.
-    - **`/radar-legislativo/`**: actualizar el estado de las normas (vigente/proyecto/en-tramite/pendiente) en `_data/leyes.yml`.
+    - **`/radar-legislativo/`**: agregar leyes, decretos o normas nuevas y actualizar su estado (vigente/proyecto/en-tramite/pendiente) en `_data/leyes.yml`.
     - **`/claims-verificados/`**: agregar los claims verificados o corregidos por el fact-check del artículo.
     - **`/directorio/`**: no se edita a mano. Las entidades nuevas se declaran en el front matter del artículo (campo `directorio`, con `seccion`, `nombre` y `descripcion`) y un generador (`build_derived.py`) recompone la página desde esa fuente única.
     - **`/casos-de-uso/`**: no se edita a mano. Los casos nuevos se declaran en el front matter del artículo (campo `casos`, con `tema` y `texto`) y un generador (`build_derived.py`) recompone la página; la URL apunta al propio artículo.

@@ -6,7 +6,7 @@ No modifica manifiestos ni páginas. Distingue:
 - missing: el artículo declara el dato (hitos/glosario/casos/directorio)
   pero la superficie no lo contiene.
 - n/a: el artículo no declara esa superficie derivada.
-- linked: superficie opcional (radar/regulación/claims/entidades/grafo)
+- linked: superficie opcional (radar/claims/entidades/grafo)
   que contiene la URL del artículo.
 
 Uso:
@@ -30,7 +30,7 @@ OUT_DIR = os.path.join(REPO, "research_observatorio")
 
 SURFACES = (
     "pilar", "llms", "cronologia", "glosario", "casos", "directorio",
-    "radar", "regulacion", "claims", "entidades", "grafo",
+    "radar", "claims", "entidades", "grafo",
 )
 
 # Mismo universo que audit_consistency: bienvenida y ensayo de fútbol no son
@@ -73,7 +73,6 @@ def load_cache():
         "casos": read(os.path.join(REPO, "_data", "casos.yml")),
         "directorio": read(os.path.join(REPO, "_data", "directorio.yml")),
         "radar": read(os.path.join(REPO, "_data", "leyes.yml")),
-        "regulacion": read(os.path.join(REPO, "regulacion.markdown")),
         "claims": read(os.path.join(REPO, "claims-verificados.markdown")),
         "grafo": read(os.path.join(REPO, "grafo.json")),
         "entidades": "\n".join(read(p) for p in glob.glob(os.path.join(REPO, "entidades", "*.markdown"))),
@@ -140,7 +139,7 @@ def summary(rows):
         for surface in SURFACES:
             if row[surface] == "missing":
                 missing.append((row["slug"], surface))
-    linked = {s: sum(1 for r in rows if r.get(s) == "linked") for s in ("radar", "regulacion", "claims", "entidades", "grafo")}
+    linked = {s: sum(1 for r in rows if r.get(s) == "linked") for s in ("radar", "claims", "entidades", "grafo")}
     by_surface = {}
     for surface in SURFACES:
         by_surface[surface] = {}
@@ -163,14 +162,14 @@ def write_md(rows, path):
         "",
         f"Artículos: {len(rows)}",
         "",
-        "| Artículo | Pilar | LLMS | Cron. | Glos. | Casos | Dir. | Radar | Reg. | Claims | Ent. | Grafo |",
-        "|---|---|---|---|---|---|---|---|---|---|---|---|",
+        "| Artículo | Pilar | LLMS | Cron. | Glos. | Casos | Dir. | Radar | Claims | Ent. | Grafo |",
+        "|---|---|---|---|---|---|---|---|---|---|---|",
     ]
     for r in rows:
         cells = [
             f"[{r['slug']}]({r['url']})",
             r["pilar"], r["llms"], r["cronologia"], r["glosario"], r["casos"],
-            r["directorio"], r["radar"], r["regulacion"], r["claims"],
+            r["directorio"], r["radar"], r["claims"],
             r["entidades"], r["grafo"],
         ]
         lines.append("| " + " | ".join(cells) + " |")
