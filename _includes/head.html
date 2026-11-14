@@ -4,14 +4,8 @@
   <link rel="icon" type="image/png" href="{{ '/assets/images/muchotextonet-logo.png' | relative_url }}">
   <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="preconnect" href="https://www.google-analytics.com">
-  {% if page.layout == 'home' %}
-  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-  {% endif %}
   {% include critical-css.html %}
   <link rel="stylesheet" href="{{ 'assets/monophase/styles.css' | relative_url }}">
-  {% if page.layout == 'home' %}
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
-  {% endif %}
   <link rel="llms.txt" href="/llms.txt">
 
   {% include seo-meta.html %}
