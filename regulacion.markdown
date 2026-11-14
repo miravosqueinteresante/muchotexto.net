@@ -3,7 +3,7 @@ layout: page
 title: "Mapa regulatorio de IA en Paraguay"
 permalink: /regulacion/
 description: "Mapa regulatorio de la IA en Paraguay: leyes, decretos y estrategias vigentes, con análisis, fuentes verificables y contexto local."
-last_modified_at: 2026-09-18
+last_modified_at: 2026-11-14
 ---
 
 Cada norma enlaza con el artículo completo donde se analiza en profundidad. 
@@ -11,6 +11,8 @@ Cada norma enlaza con el artículo completo donde se analiza en profundidad.
 ## Protección de datos y privacidad
 
 - **[Ley 7593/2025](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)** — Primera ley integral de protección de datos personales de Paraguay. Sancionada el 5 de noviembre de 2025, promulgada el 27 de noviembre. Entra en vigor en **noviembre de 2027** (24 meses de transición). Alineada con el GDPR europeo. La autoridad de aplicación será una Dirección General dentro del MITIC, no un órgano independiente. *Pendiente: crear la agencia regulatoria y redactar la reglamentación secundaria.*
+
+- **[Ley 6534/2020](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)** - Protección de datos personales crediticios. Regula el acceso, la rectificación y el uso de historiales de crédito; el BCP y la SEDECO son autoridades. No cubre biometría, datos de la Expo ni decisiones laborales.
 
 ## Identidad digital y gobierno electrónico
 

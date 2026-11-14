@@ -3,7 +3,7 @@ layout: page
 title: "Claims verificados del Observatorio de IA"
 permalink: /claims-verificados/
 description: "Base pública de verificación de datos de muchotexto.net: qué afirmamos, qué corregimos y contra qué fuente. Transparencia editorial."
-last_modified_at: 2026-08-21
+last_modified_at: 2026-11-14
 ---
 
 <style>
@@ -286,8 +286,32 @@ last_modified_at: 2026-08-21
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-unverifiable">UNVERIFIABLE</span><span class="claim-text">"La Ley 7547/2025 reforma la Ley de Maquila."</span></div>
-  <span class="claim-source">BACN devuelve una ley no relacionada para esa URL. La existencia de la reforma se menciona en prensa, pero el número exacto no se pudo confirmar con fuente primaria.</span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La Ley 7547/2025 establece el nuevo régimen de maquila."</span></div>
+  <span class="claim-source">Fuente: BACN — <a href="https://www.bacn.gov.py/leyes-paraguayas/12853/ley-n-75472025-del-regimen-de-maquila">Ley 7547/2025</a> · <a href="/articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/">Artículo</a></span>
+</div>
+</section>
+
+<section class="claims-section">
+<h2 class="claims-section-title">Ueno y datos personales</h2>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El BCP dispuso la resolución de ueno bank el 2-nov-2026 por una insuficiencia de solvencia por debajo del 50% del mínimo; la app y los servicios se suspendieron el 3-nov-2026."</span></div>
+  <span class="claim-source">Fuente: BCP/ABC Color y Poder Judicial — <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El FGD garantiza hasta 75 salarios mínimos por depositante y por entidad; el anticipo de hasta 40 salarios mínimos pagó USD 644 millones a 1.812.348 personas."</span></div>
+  <span class="claim-source">Fuente: BCP vía Última Hora — <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La Ley 2334/2003 no menciona datos personales; la Ley 7593/2025 recién rige el 27-nov-2027 y no tiene una regla específica para resoluciones bancarias."</span></div>
+  <span class="claim-source">Fuente: BACN — <a href="https://www.bacn.gov.py/leyes-paraguayas/2513/ley-n-2334">Ley 2334/2003</a> · <a href="https://www.bacn.gov.py/leyes-paraguayas/12924/ley-n-75932025-de-proteccion-de-datos-personales-en-la-republica-del-paraguay">Ley 7593/2025</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"No hay información pública que confirme ni descarte la venta o transferencia de las bases de datos de Ueno."</span></div>
+  <span class="claim-source">Fuente: TEDIC — <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
 </div>
 </section>
 
