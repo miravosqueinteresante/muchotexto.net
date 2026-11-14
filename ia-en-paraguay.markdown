@@ -16,7 +16,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - **[Luces y sombras de la apertura eléctrica en Paraguay]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})** — El Decreto 6034 y la Ley 7599 habilitan la generación privada de energía renovable. El cambio estructural más importante de la última década.
 - **[El experimento paraguayo de Peter Thiel]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %})** — El cofundador de Palantir y Founders Fund se reunió con el presidente en Mburuvicha Róga. Lo que significa para la vigilancia, los datos y la soberanía.
 
-**Biblioteca de análisis** — {% assign n_articulos = site.posts | where_exp: "p", "p.pilar" | size %}{{ n_articulos }} artículos organizados por sector:
+**Biblioteca de artículos** — {% assign n_articulos = site.posts | where_exp: "p", "p.pilar" | size %}{{ n_articulos }} artículos organizados por sector:
 
 - [Infraestructura y energía](#infraestructura-y-energia) — data centers, electricidad, criptominería
 - [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) — Taiwán, China, leyes, ciberseguridad
