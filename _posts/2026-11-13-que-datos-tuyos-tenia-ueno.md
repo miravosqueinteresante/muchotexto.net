@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
+seo_title: "Datos de Ueno: qué pasó con ellos"
 date: 2026-11-13 12:00:00 -0300
 last_modified_at: 2026-11-13
 categories: articulos

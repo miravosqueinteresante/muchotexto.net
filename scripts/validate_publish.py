@@ -119,7 +119,7 @@ def check_title(title: str, ultimos_3: list[dict]) -> tuple[list[str], list[str]
         if palabra in title.lower():
             errors.append(f"Patron de clickbait detectado: '{palabra}'")
 
-    titulos_prev = [p["title"] for p in ultimos_3]
+    titulos_prev = [p["title"] for p in ultimos_3 if p["title"] != title]
     for prev in titulos_prev:
         if title[:30].lower() == prev[:30].lower():
             warnings.append(
@@ -128,6 +128,20 @@ def check_title(title: str, ultimos_3: list[dict]) -> tuple[list[str], list[str]
             )
 
     return errors, warnings
+
+
+def count_contextual_internal_links(body: str) -> list[str]:
+    """Enlaces internos del cuerpo, sin contar la pilar obligatoria.
+
+    Acepta Liquid `{% post_url ... %}` y rutas hardcodeadas `](/ruta/)`.
+    Devuelve una lista sin duplicados para poder mostrar la evidencia.
+    """
+    links = re.findall(r'\{%\s*post_url\s+[^%]+\%\}', body)
+    links += re.findall(r'\]\((/[^\)]+)\)', body)
+    return sorted({
+        link for link in links
+        if not link.startswith("/ia-en-paraguay")
+    })
 
 
 def check_cierre(post_path: str) -> list[str]:
@@ -196,11 +210,18 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
         errors.append("Falta enlace a pagina pilar /ia-en-paraguay/ en el cuerpo del articulo")
 
     # === INTERNAL LINKS ===
-    # Cuenta tanto {% post_url %} como enlaces internos hardcodeados (/ruta/).
-    internal_links = len(re.findall(r'\{% post_url [^%]+\%\}', body))
-    internal_links += len(re.findall(r'\]\(/[^\)]+\)', body))
-    if internal_links < 2:
-        warnings.append(f"Pocos links internos: {internal_links} (minimo 2 recomendados)")
+    # La pilar tiene su propio gate (INV-19). Este cuenta enlaces contextuales
+    # verificables: 2 mínimo para articulos, según estrategia §5.
+    internal_links = count_contextual_internal_links(body)
+    if "articulos" in categories and len(internal_links) < 2:
+        errors.append(
+            f"Enlaces internos contextuales insuficientes: {len(internal_links)} "
+            f"(mínimo 2 además de la pilar). Agregar enlaces con hechos verificables."
+        )
+    elif len(internal_links) < 2:
+        warnings.append(
+            f"Pocos links internos: {len(internal_links)} (mínimo 2 recomendados)"
+        )
 
     # === URL HEALTH CHECK (solo en modo --check) ===
     urls = re.findall(r'\((https?://[^\)]+)\)', body)
@@ -218,6 +239,10 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
                     req = urllib.request.Request(url, headers={'User-Agent': 'muchotexto-validator/1.0'})
                     resp = urllib.request.urlopen(req, timeout=5, context=ctx)
                     if resp.status != 200:
+                        broken += 1
+                except urllib.error.HTTPError as e:
+                    # 403 anti-bot es aceptado por AGENTS.md; no es un link roto.
+                    if e.code != 403:
                         broken += 1
                 except:
                     broken += 1
@@ -426,8 +451,16 @@ def print_report(errors: list[str], warnings: list[str], post_name: str = ""):
 
 
 def main():
+    # Acepta `--check ruta.md` y también `ruta.md` para que un path suelto
+    # no termine en un exit 0 silencioso (falso positivo histórico).
+    check_target = None
     if len(sys.argv) >= 3 and sys.argv[1] == "--check":
-        post_path = os.path.join(REPO_DIR, sys.argv[2])
+        check_target = sys.argv[2]
+    elif len(sys.argv) == 2 and sys.argv[1].endswith(".md"):
+        check_target = sys.argv[1]
+
+    if check_target:
+        post_path = os.path.join(REPO_DIR, check_target)
         ultimos_3 = get_last_n_posts(3)
         errors, warnings = check_post(post_path, ultimos_3)
         print_report(errors, warnings, os.path.basename(post_path))
