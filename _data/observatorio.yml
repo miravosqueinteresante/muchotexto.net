@@ -1,6 +1,7 @@
 # Decisiones de cobertura del observatorio por artículo.
 # updated = la superficie contiene la URL del artículo.
 # n/a = no aplica; exige un motivo en `motivos`.
+# Generado por scripts/backfill_observatorio.py; las entradas existentes se preservan.
 2026-11-13-que-datos-tuyos-tenia-ueno:
   superficies:
     pilar: updated
@@ -15,6 +16,1283 @@
     entidades: n/a
     grafo: n/a
   motivos:
-    directorio: "Ueno está en resolución y no tiene una URL estable para el directorio."
-    entidades: "No se creó una entidad nueva; BCP ya existe y su página se genera por menciones."
-    grafo: "No se creó una entidad nueva."
+    directorio: Ueno está en resolución y no tiene una URL estable para el directorio.
+    entidades: No se creó una entidad nueva; BCP ya existe y su página se genera por
+      menciones.
+    grafo: No se creó una entidad nueva.
+2026-05-13-ciberhumanidad:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-05-16-peter-thiel-paraguay-experimento:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-05-18-tokenizacion-del-agro-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-05-27-apertura-sector-electrico-privado-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    grafo: El grafo no indexa URLs de artículos.
+2026-05-27-ia-cuesta-mas-que-humanos-burbuja:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-05-28-magnifica-humanitas-enciclica-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-06-23-laboratorio-americano-ia-futbol-mundial-2026:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: updated
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-07-criptomineria-paraguay-energia-barata:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-07-ley-proteccion-datos-paraguay-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-08-red-electrica-paraguay-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-09-educacion-tech-paraguay-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-09-paraguay-china-taiwan-geopolitica-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-10-fintech-paraguay-ecosistema:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-10-que-es-un-data-center-paraguay-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-10-talento-tech-paraguay-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-13-agro-40-paraguay-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-14-semiconductores-taiwan-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-14-startups-ia-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-15-starlink-paraguay-conectividad:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-16-gobierno-digital-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-16-ia-periodismo-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-16-ia-salud-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-16-ia-soberana-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-17-ciberseguridad-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-17-ia-corrupcion-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-17-itaipu-2027-energia-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-17-smart-cities-asuncion-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-21-ia-justicia-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-24-ecommerce-logistica-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-25-cadena-valor-data-center:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-27-hidrogeno-verde-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-29-guarani-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-07-31-silicon-valley-cono-sur-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-01-modelo-itaipu-gobernanza-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-03-energia-renovable-cambio-climatico-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-04-impacto-local-data-center-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-05-paraguay-2040-futuro-datos:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-12-mesa-energetica-pen-2050-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-19-ente-regulador-energia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-19-ministerio-energia-mineria-hidrocarburos:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-19-modelo-institucional-psr-sector-electrico:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-20-estudio-ceare-tarifa-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-08-28-adata-minga-guazu-memorias-semiconductores:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
+    entidades: updated
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    grafo: El grafo no indexa URLs de artículos.
+2026-09-03-contenido-basura-agentes-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-09-16-los-contratos-secretos-de-ande:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: updated
+    regulacion: updated
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-09-21-tigo-data-center-tier-iii-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-09-23-energia-nuclear-paraguay-eeuu:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-09-25-paraguay-investor-pass-residencia-inversores:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-09-26-cervepar-ia-algoritmo-vende-humano-decide:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-09-30-araico-supercomputadora-yguazu-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-10-02-atome-ande-salida-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-10-09-brecha-triple-jovenes-paraguayos:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.
+2026-10-15-5g-segunda-subasta-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-10-16-sip-pagos-instantaneos-transfronterizos-pix:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-10-20-qr-hub-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: updated
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    grafo: El grafo no indexa URLs de artículos.
+2026-10-25-inteligencia-alquiler-ia-soledad-dependencia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: updated
+    radar: n/a
+    regulacion: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
+      este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.

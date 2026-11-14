@@ -26,6 +26,11 @@ SURFACES = (
     "radar", "regulacion", "claims", "entidades", "grafo",
 )
 
+NON_ANALYSIS = {
+    "2026-05-10-primer-articulo",
+    "2026-06-10-que-es-realmente-el-futbol",
+}
+
 
 def _slug(path):
     return os.path.basename(path)[:-3]
@@ -128,32 +133,41 @@ def check_post(path):
     return errors
 
 
-def latest_article():
-    for path in sorted(glob.glob(os.path.join(REPO, "_posts", "*.md")), reverse=True):
+def analysis_articles():
+    paths = []
+    for path in sorted(glob.glob(os.path.join(REPO, "_posts", "*.md"))):
+        slug = os.path.basename(path)[:-3]
         data = _post_data(path)
         categories = data.get("categories") or []
         if isinstance(categories, str):
             categories = [categories]
-        if "articulos" in categories and data.get("pilar"):
-            return path
-    return None
+        if "articulos" in categories and data.get("pilar") and slug not in NON_ANALYSIS:
+            paths.append(path)
+    return paths
+
+
+def latest_article():
+    paths = analysis_articles()
+    return paths[-1] if paths else None
 
 
 def main():
     if len(sys.argv) < 2:
-        print("Uso: python scripts/check_observatorio.py _posts/ARTICULO.md | --latest")
+        print("Uso: python scripts/check_observatorio.py _posts/ARTICULO.md | --latest | --all")
         return 2
+    errors = []
     if sys.argv[1] == "--latest":
         path = latest_article()
         if not path:
             print("No se encontró un artículo de análisis.")
             return 2
         errors = check_post(path)
-        label = os.path.basename(path)
+    elif sys.argv[1] == "--all":
+        for path in analysis_articles():
+            errors.extend(check_post(path))
     else:
         path = os.path.join(REPO, sys.argv[1]) if not os.path.isabs(sys.argv[1]) else sys.argv[1]
         errors = check_post(path)
-        label = os.path.basename(path)
     if errors:
         for error in errors:
             print(f"  X  {error}")
