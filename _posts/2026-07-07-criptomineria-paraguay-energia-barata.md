@@ -3,7 +3,7 @@ layout: post
 title: "Lo que la criptominería le cuesta realmente a Paraguay"
 seo_title: "El costo de la criptominería en Paraguay"
 date: 2026-07-07
-last_modified_at: 2026-09-23
+last_modified_at: 2026-11-14
 categories: articulos
 pilar: 1
 resumen: "Paraguay es el cuarto país con mayor minería de bitcoin del mundo."
@@ -11,39 +11,39 @@ tags: infraestructura-energia
 description: "Paraguay es el cuarto país con mayor minería de bitcoin: 943,8 MW reservados, 383 empleos formales y una ANDE en guerra contra conexiones clandestinas."
 ---
 
-Hay un dato que explica mejor que cualquier análisis la relación de Paraguay con la criptominería: dos tercios de las empresas mineras que operan en el país no tienen empleados formales. En total, el sector registra 383 trabajadores en el Instituto de Previsión Social. Para ponerlo en perspectiva, la energía que reservan estas operaciones —943,8 megavatios de potencia contratada en 41 empresas, con una carga efectiva de unos 800-850 MW— supera el consumo de una ciudad del tamaño de Asunción.
+Hay un dato que explica mejor que cualquier análisis la relación de Paraguay con la criptominería: dos tercios de las empresas mineras que operan en el país no tienen empleados formales. En total, el sector registraba 383 trabajadores en el Instituto de Previsión Social. Para ponerlo en perspectiva, la energía que reservan estas operaciones —943,8 megavatios de potencia contratada en 41 empresas, con una carga efectiva de unos 800-850 MW— equivale al consumo de una ciudad de 1,5 a 2 millones de habitantes.
 
-Paraguay es el cuarto país del mundo con mayor tasa de hash de bitcoin, detrás de Estados Unidos, Rusia y China. Tiene aproximadamente el 4.3% del poder de cómputo global de la red. Llegó a esa posición sin una ley de criptoactivos, sin un plan nacional de desarrollo tecnológico que incluya al sector, y con una empresa estatal de electricidad —la ANDE— que libra una guerra silenciosa contra las conexiones ilegales mientras factura cientos de millones de dólares a las legales. Este artículo es un intento de entender qué está pasando, cuánto cuesta de verdad, y si el saldo es positivo o negativo para el país.
+Paraguay es el cuarto país del mundo con mayor tasa de hash de bitcoin, detrás de Estados Unidos, Rusia y China. Tiene aproximadamente el 4,7% del poder de cómputo global de la red. Llegó a esa posición sin una ley de criptoactivos, sin un plan nacional de desarrollo tecnológico que incluya al sector, y con una empresa estatal de electricidad —la ANDE— que libra una guerra silenciosa contra las conexiones ilegales mientras factura cientos de millones de dólares a las legales. Este artículo es un intento de entender qué está pasando, cuánto cuesta de verdad, y si el saldo es positivo o negativo para el país.
 
 ## De la fiebre del oro digital: quiénes minan y cuánto consumen
 
 La historia arranca, como casi todas las historias de la criptominería global, con la prohibición china de 2021. Cuando el gobierno de Xi Jinping expulsó a los mineros del país —que hasta ese momento concentraban entre el 65 y el 75% del hashrate mundial—, los operadores buscaron tres cosas: electricidad barata, estabilidad regulatoria y un gobierno que no les confiscara las máquinas. Paraguay ofrecía las tres.
 
-El precio de la electricidad industrial para minería en Paraguay oscila entre 0.05 y 0.06 dólares por kilovatio-hora en 2026. Es el más bajo de Sudamérica —Argentina está en 0.06-0.10, Brasil en 0.08-0.15, Chile en 0.10-0.18— y uno de los cinco más competitivos del mundo, comparable con Texas y Quebec. La razón es estructural: Paraguay genera, gracias a Itaipú, Yacyretá y Acaray, más del doble de electricidad de la que consume. El excedente históricamente se cedió a Brasil a precios por debajo del mercado. La minería de criptoactivos apareció como un comprador local dispuesto a pagar más que el precio de exportación.
+La tarifa GCIE para minería es de 30 US$/MWh (0,03 US$/kWh), vigente hasta diciembre de 2027; los contratos específicos pueden variar. Es una de las tarifas más bajas de Sudamérica, comparable con Texas y Quebec. La razón es estructural: Paraguay produce alrededor de 45,5 TWh y consume 29,4 TWh, un excedente de aproximadamente 35%. El excedente históricamente se cedió a Brasil a precios por debajo del mercado. La minería de criptoactivos apareció como un comprador local dispuesto a pagar más que el costo de exportación.
 
-El operador más grande es HIVE Digital, una empresa canadiense que opera alrededor de 400 megavatios instalados de minería Bitcoin en Paraguay (unos 240 MW en Yguazú y 160 MW en Valenzuela, según Hashrate Index, mayo de 2026) y tiene en construcción una expansión de 100 MW de cómputo GPU (data center Tier-III, ready-for-service previsto para el segundo semestre de 2027). Le siguen Pow.re (canadiense) y Penguin Group (paraguaya). La Cámara Paraguaya de Minería de Activos Digitales (CAPAMAD) estima una inversión acumulada de más de 1.100 millones de dólares en infraestructura: 100 millones en data centers, 20 millones en subestaciones eléctricas y hasta 1.000 millones en equipos de procesamiento.
+El operador más grande es HIVE Digital, con sede operativa en San Antonio, Texas, y cotización en TSX y Nasdaq. Opera 300 MW de minería Bitcoin con ASIC (200 MW en Yguazú y 100 MW en Valenzuela) y construye 100 MW adicionales de cómputo GPU en Yguazú, con ready-for-service previsto para el segundo semestre de 2027. Le siguen Pow.re (canadiense) y Penguin Group (paraguaya). La Cámara Paraguaya de Minería de Activos Digitales (CAPAMAD) estima una inversión acumulada de más de 1.100 millones de dólares en infraestructura: 100 millones en data centers, 20 millones en subestaciones eléctricas y hasta 1.000 millones en equipos de procesamiento.
 
-Pero no todo es expansión. Bitfarms, uno de los mineros más grandes que operaban en Paraguay, vendió su sitio de Yguazú a HIVE en enero de 2025. Alps Blockchain, un operador italiano, redirigió sus operaciones en 2025 tras invertir 40 millones de euros en equipos. Al menos diez empresas mineras cerraron operaciones en los últimos dos años. El motivo recurrente: el aumento de tarifas y la incertidumbre regulatoria.
+Pero no todo es expansión. Bitfarms, uno de los mineros más grandes que operaban en Paraguay, acordó vender su sitio de Yguazú a HIVE en enero de 2025 y cerró la operación en marzo. Alps Blockchain, un operador italiano, redirigió sus operaciones en 2025 tras invertir 40 millones de euros en equipos. Al menos diez empresas mineras cerraron operaciones en los últimos dos años. El motivo recurrente: el aumento de tarifas y la incertidumbre regulatoria.
 
 ## ANDE contra los mineros: la guerra por los megavatios
 
-La relación entre la ANDE y el sector minero es, para decirlo con precisión, esquizofrénica. Por un lado, la empresa estatal facturó aproximadamente 170 millones de dólares del sector en 2024, con proyecciones de 350 a 400 millones para 2026. Es uno de sus clientes industriales más importantes. Por otro lado, la ANDE presentó 64 denuncias penales por conexiones ilegales solo hasta abril de 2024, y realizó al menos 14 intervenciones en el mismo período. El total estimado de intervenciones desde que empezó la ofensiva supera las 100.
+La relación entre la ANDE y el sector minero es, para decirlo con precisión, esquizofrénica. Por un lado, la empresa estatal facturó al sector entre USD 100 y 170 millones en 2024, según la estimación que se tome, con proyecciones de USD 350 a 400 millones para 2026. Es uno de sus clientes industriales más importantes. Por otro lado, la ANDE presentó 64 denuncias penales por conexiones ilegales solo hasta abril de 2024, y realizó al menos 14 intervenciones en el mismo período. El total estimado de intervenciones desde que empezó la ofensiva supera las 100.
 
-Las pérdidas por hurto de energía —conexiones directas a la red de media tensión sin medidor, maniobras que requieren conocimiento técnico y complicidad interna— se estiman entre 50 y 80 millones de dólares anuales. Es decir: casi la mitad de lo que el sector paga legalmente. Se han detectado redes de funcionarios de la ANDE que facilitaban conexiones clandestinas y emitían facturación falsa para encubrir el consumo real.
+Las pérdidas por hurto de energía —conexiones directas a la red de media tensión sin medidor, maniobras que requieren conocimiento técnico y complicidad interna— se estiman entre 50 y 80 millones de dólares anuales. Es una porción significativa de lo que el sector paga legalmente. Se han detectado redes de funcionarios de la ANDE que facilitaban conexiones clandestinas y emitían facturación falsa para encubrir el consumo real.
 
 La paradoja es doble. La minería ilegal existe porque la electricidad es tan barata que incluso pagarla es opcional para quien tiene acceso a una conexión clandestina. Y la ANDE, la misma empresa que persigue a los mineros ilegales, depende crecientemente de los ingresos de los mineros legales para sostener su estructura tarifaria.
 
-En 2022, la ANDE intentó aumentar las tarifas a los mineros en un 60%. El Congreso intervino y rechazó una ley que habría consolidado el aumento. Desde entonces, la solución han sido los contratos de compra de energía a largo plazo (PPA, por sus siglas en inglés), que dan previsibilidad a ambas partes pero que vencen, en su mayoría, en 2027. Ese año —el mismo en que vence el acuerdo tarifario de Itaipú y en que entra en vigor la [apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})— va a definir el futuro del sector.
+En 2022, la ANDE solicitó un aumento de hasta 60% sobre la tarifa industrial. El Congreso rechazó un proyecto de ley de criptoactivos; el aumento no se consolidó por ley. Desde entonces, la solución han sido los contratos de compra de energía a largo plazo (PPA, por sus siglas en inglés), que dan previsibilidad a ambas partes pero que vencen el 31 de diciembre de 2027. Ese año —el mismo en que vence el acuerdo tarifario de Itaipú y en que rige la [apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %})— va a definir el futuro del sector.
 
 ## 383 empleos para 943 megavatios: la pregunta que nadie quiere responder
 
 El dato más incómodo de la criptominería en Paraguay no es el consumo energético ni las conexiones ilegales. Es la relación entre la energía que consume y el empleo que genera.
 
-Según el Instituto de Previsión Social, hay 383 personas empleadas formalmente en todo el sector. La propia CAPAMAD, en su estimación más optimista, habla de 500 empleos directos y 1.250 indirectos. Aun tomando la cifra de la cámara (500 empleos), la relación es de menos de un empleo directo por megavatio de los 943,8 MW contratados. Para comparar: la industria manufacturera paraguaya —maquila textil, autopartes, alimentos— genera entre 5 y 15 empleos por megavatio consumido, según datos del Ministerio de Industria y Comercio.
+Según el Instituto de Previsión Social, hay 383 personas empleadas formalmente en todo el sector. La propia CAPAMAD, en su estimación más optimista, habla de 500 empleos directos y 1.250 indirectos. Aun tomando la cifra de la cámara (500 empleos), la relación es de 0,4 a 0,7 empleos directos por megavatio de los 943,8 MW contratados. Para comparar: la industria manufacturera paraguaya —maquila textil, autopartes, alimentos— genera varios empleos por megavatio, muy por encima de la minería.
 
-La minería de bitcoin es intensiva en capital y en energía, pero no en trabajo humano. Una granja de 100 megavatios puede operar con menos de 50 personas: técnicos de mantenimiento, ingenieros eléctricos, personal de seguridad. Los ASIC —los chips especializados que realizan el cómputo— no necesitan operarios que los vigilen. Funcionan solos, las 24 horas, hasta que se vuelven obsoletos. La vida útil promedio de un ASIC es de 1.29 años, tras lo cual se convierte en residuo electrónico.
+La minería de bitcoin es intensiva en capital y en energía, pero no en trabajo humano. HIVE declara unos 250 colaboradores para 300 MW (~0,8 por MW); una granja de 100 MW puede operar con decenas de personas: técnicos de mantenimiento, ingenieros eléctricos y seguridad. Los ASIC —los chips especializados que realizan el cómputo— no necesitan operarios que los vigilen. Funcionan solos, las 24 horas, hasta que se vuelven obsoletos. La vida útil promedio de un ASIC es de 1.29 años, tras lo cual se convierte en residuo electrónico.
 
-Ese residuo es otro problema que Paraguay no ha empezado a dimensionar. TEDIC, la organización que más ha investigado el sector, señala que el país "está atrasado en términos de regulaciones" para manejar los desechos de equipos mineros. Una sola transacción de bitcoin genera unos 79 gramos de residuo electrónico (Digiconomist, 2026). La red en su conjunto produce 21.000 toneladas anuales, comparables a los residuos de pequeños equipos informáticos de todo un país como Países Bajos.
+Ese residuo es otro problema que Paraguay no ha empezado a dimensionar. TEDIC, la organización que más ha investigado el sector, señala que el país "está atrasado en términos de regulaciones" para manejar los desechos de equipos mineros. Una sola transacción de bitcoin genera entre 86 y 114 gramos de residuo electrónico según el año (Digiconomist, 2026). La red en su conjunto produce 21.000 toneladas anuales, comparables a los residuos de pequeños equipos informáticos de todo un país como Países Bajos.
 
 Los defensores del sector argumentan que los empleos, aunque pocos, son de alta calidad: ingenieros y técnicos con salarios muy por encima de la media paraguaya. Y que los efectos indirectos —servicios profesionales, alquileres, consumo local— no se capturan en la planilla del IPS. Es cierto. Pero también es cierto que ninguna otra industria en Paraguay consume tanta energía para generar tan poco empleo directo.
 
@@ -57,13 +57,13 @@ En contra: el hecho de que la energía sea limpia no significa que su uso para m
 
 Entre 2019 y 2022, una sequía prolongada —la peor en 77 años en la cuenca del río Paraná— redujo la generación de Itaipú un 35,6% (de 103,1 TWh en 2016 a 66,4 TWh en 2021). La vulnerabilidad climática de la matriz hidroeléctrica paraguaya no es una hipótesis: es un evento que ya ocurrió. En un escenario de estrés hídrico, cada megavatio que consume un ASIC minando bitcoin es un megavatio que no está disponible para hospitales, industrias o para la exportación a precios de mercado.
 
-El caso Villarrica ilustra el costo social. Vecinos de una granja de criptominería de Penguin Group en esa ciudad denunciaron meses de ruido continuo de ventiladores industriales a más de 75 decibeles —el umbral a partir del cual la exposición prolongada causa daño auditivo. La granja operaba 16.200 máquinas con 44 empleados. Los vecinos presentaron el primer juicio en América Latina contra un data center de criptominería por contaminación sonora. El caso todavía está en tribunales.
+El caso Villarrica ilustra el costo social. Vecinos de una granja de criptominería de Bitfarms (D&N S.A.) en esa ciudad denunciaron meses de ruido continuo de ventiladores industriales, con mediciones de hasta ~100 decibeles. Los 75 dB son el límite municipal para zona industrial, no el umbral de daño auditivo (≈85 dB por 8 horas). La granja operaba 16.200 máquinas con 44 empleados. Los vecinos presentaron el primer juicio en América Latina contra un data center de criptominería por contaminación sonora. El caso todavía está en tribunales.
 
 ## El reloj de 2027: ¿criptominería o centros de datos?
 
-El sector minero en Paraguay tiene una fecha de vencimiento: 2027. Ese año vencen la mayoría de los contratos de suministro eléctrico entre la ANDE y los mineros. Es también el año en que vence el acuerdo tarifario de Itaipú —que define a qué precio Brasil compra el excedente paraguayo— y el año en que finaliza la vacatio legis de la Ley 7593 de protección de datos (vigencia plena: noviembre de 2027), la misma que analizamos en nuestro [artículo anterior]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}).
+El sector minero en Paraguay tiene una fecha de vencimiento: 2027. Ese año vencen todos los contratos de suministro eléctrico entre la ANDE y los mineros. Es también el año en que vence el acuerdo tarifario de Itaipú —que define a qué precio Brasil compra el excedente paraguayo— y el año en que finaliza la vacatio legis de la Ley 7593 de protección de datos (vigencia plena: noviembre de 2027), la misma que analizamos en nuestro [artículo anterior]({% post_url 2026-07-07-ley-proteccion-datos-paraguay-ia %}).
 
-En ese mismo horizonte temporal, Paraguay está apostando a un modelo económico distinto: los centros de datos de inteligencia artificial. [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto con Taiwán, apunta a consumir —en su fase final, aspiracional— un gigavatio de potencia, un nivel comparable a la carga actual de todo el sector de criptominería. Pero mientras la minería de criptoactivos genera entre 0.5 y 1 empleo por megavatio, los centros de datos de IA prometen —al menos sobre el papel— mayor valor agregado, transferencia tecnológica, becas de formación y un ecosistema de servicios alrededor.
+En ese mismo horizonte temporal, Paraguay está apostando a un modelo económico distinto: los centros de datos de inteligencia artificial. [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), el proyecto con Taiwán, apunta a consumir —en su fase final, aspiracional— un gigavatio de potencia, un nivel comparable a la carga actual de todo el sector de criptominería. Pero mientras la minería de criptoactivos genera entre 0,4 y 0,7 empleos por megavatio, los centros de datos de IA prometen —al menos sobre el papel— mayor valor agregado, transferencia tecnológica, becas de formación y un ecosistema de servicios alrededor.
 
 La pregunta no es si Paraguay debe elegir entre una cosa y la otra. El país tiene suficiente energía para ambas, al menos por ahora. La pregunta es si la energía más barata y limpia de Sudamérica debería usarse para alimentar máquinas que resuelven problemas criptográficos cuyo valor social es, como mínimo, discutible.
 
@@ -94,7 +94,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Cuantos empleos genera la criptoMinería en Paraguay?",
+      "name": "¿Cuántos empleos genera la criptominería en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Solo 383 empleos formales registrados en el IPS para todo el sector. DOS tercios de las empresas mineras no tienen empleados formales. En contraste, la manufactura paraguaya genera entre 5 y 15 empleos por MW."
@@ -102,10 +102,10 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
     },
     {
       "@type": "Question",
-      "name": "Cuanto pierde ANDE por criptoMinería ilegal?",
+      "name": "¿Cuánto pierde ANDE por criptominería ilegal?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Las perdidas por hurto de energia se estiman entre USD 50 y 80 millones anuales. ANDE presento 64 denuncias penales solo hasta abril de 2024 y realizo mas de 100 intervencions."
+        "text": "Las pérdidas por hurto de energía se estiman entre USD 50 y 80 millones anuales. ANDE presento 64 denuncias penales solo hasta abril de 2024 y realizó más de 100 intervenciones."
       }
     },
     {
@@ -113,7 +113,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
       "name": "Donde termina la vida util de un ASIC de Minería?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La vida util promedio de un ASIC es de 1,29 anos. Paraguay no tiene regulación para residuos electronicos de Minería. Una sola transaccion de bitcoin genera unos 79 gramos de residuo electronico."
+        "text": "La vida útil promedio de un ASIC es de 1,29 años. Paraguay no tiene regulación para residuos electrónicos de minería. Una sola transacción de bitcoin genera unos 79 gramos de residuo electrónico."
       }
     }
   ]
