@@ -52,6 +52,7 @@ jobs:
           python scripts/test_validate_internal_links.py
           python scripts/test_check_observatorio.py
           python scripts/test_backfill_observatorio.py
+          python scripts/test_build_entities.py
           echo "== Cobertura del observatorio =="
           python scripts/check_observatorio.py --all
           echo "== Sync datos (MuchoTexto Data) =="

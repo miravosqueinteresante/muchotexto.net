@@ -4,7 +4,7 @@ title: "Banco Central del Paraguay"
 description: >
   Perfil de BCP en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Banco Central del Paraguay.
 permalink: /entidades/bcp/
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-14
 entity_id: bcp
 entity_name: BCP
 entity_name_full: Banco Central del Paraguay
@@ -15,6 +15,9 @@ related_articles:
   - title: "QR Hub, la apuesta del BCP para digitalizar comercios"
     url: /articulos/2026/10/20/qr-hub-paraguay/
     context: "Ahora el Banco Central del Paraguay (BCP) quiere que ese mismo gesto sirva para pagar desde cualquier banco, financiera, cooperativa o billetera, sin una red cerrada. La pieza se llama QR Hub y, según el BCP, generó más de 700.000 códigos en..."
+  - title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
+    url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+    context: "El BCP dispuso la resolución de ueno bank el 2-nov-2026 y pagó el anticipo del FGD; la ley de resolución no menciona datos personales."
   - title: "Paraguay proyecta conectar sus pagos instantáneos con Pix de Brasil"
     url: /articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/
     context: "Paraguay tiene un sistema de pagos que funciona en segundos, es gratuito entre personas y está disponible a cualquier hora del día. Lo que no tiene todavía es la capacidad de cruzar la frontera. En agosto de 2026, el Banco Central del Paraguay..."
@@ -48,6 +51,9 @@ obs_directorio:
     url: https://www.bcp.gov.py/
     context: "Autoridad monetaria de Paraguay. Administra el SIPAP/SIP, el sistema de pagos del país, y el QR Hub interoperable. En 2026 lanzó la hoja de ruta de expansión a comercios, impuestos e integración..."
 obs_regulacion:
+  - label: "Ley 6534/2020"
+    url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+    context: "Protección de datos personales crediticios. Regula el acceso, la rectificación y el uso de historiales de crédito; el BCP y la SEDECO son autoridades. No cubre biometría, datos de la Expo ni..."
   - label: "Reglamento tarifario BCP (julio 2026)"
     url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
     context: "El BCP emitió un reglamento que transparenta las comisiones de los medios de pago electrónicos."
@@ -57,4 +63,4 @@ obs_casos-de-uso:
     context: "Paraguay tiene desde 2022 un sistema de pagos instantáneos (SPI) que en 2025 movió el equivalente a más de tres veces el PIB y que el BCP rebautizó como SIP. En el Pay Meeting de agosto de 2026, el..."
 ---
 
-2 articulos en el observatorio mencionan a BCP.
+3 articulos en el observatorio mencionan a BCP.

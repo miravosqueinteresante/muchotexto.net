@@ -13,12 +13,10 @@
     radar: updated
     regulacion: updated
     claims: updated
-    entidades: n/a
+    entidades: updated
     grafo: n/a
   motivos:
     directorio: Ueno está en resolución y no tiene una URL estable para el directorio.
-    entidades: No se creó una entidad nueva; BCP ya existe y su página se genera por
-      menciones.
     grafo: No se creó una entidad nueva.
 2026-05-13-ciberhumanidad:
   superficies:
@@ -1108,13 +1106,12 @@
     radar: n/a
     regulacion: n/a
     claims: updated
-    entidades: n/a
+    entidades: updated
     grafo: n/a
   motivos:
     radar: No se identificó un vínculo con una norma del radar en este backfill.
     regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
       este backfill.
-    entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.
 2026-09-25-paraguay-investor-pass-residencia-inversores:
   superficies:

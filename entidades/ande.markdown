@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-14
 entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
@@ -17,6 +17,9 @@ related_articles:
   - title: "ANDE oculta 943 MW de contratos GCIE bajo llave"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
+  - title: "La energía nuclear que Paraguay firmó con EE.UU. no es un reactor"
+    url: /articulos/2026/09/23/energia-nuclear-paraguay-eeuu/
+    context: "El MOU nuclear con EE.UU. no es un Acuerdo 123 ni una promesa de reactor; ANDE y MOPC participaron del recorrido institucional previo."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
@@ -125,4 +128,4 @@ obs_casos-de-uso:
     context: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay,..."
 ---
 
-12 articulos en el observatorio mencionan a ANDE.
+13 articulos en el observatorio mencionan a ANDE.

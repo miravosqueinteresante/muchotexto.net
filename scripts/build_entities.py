@@ -372,6 +372,27 @@ def law_keys(text):
     return found
 
 
+def merge_manual_articles(related, entity):
+    """Agrega artículos curados que el escaneo de 800 chars no captura."""
+    manual = entity.get("manual_articles") or []
+    seen = {art["url"] for art in related}
+    for art in manual:
+        url = str(art.get("url", "")).strip()
+        title = str(art.get("title", "")).strip()
+        if not url or not title or url in seen:
+            continue
+        related.append({
+            "title": title,
+            "url": url,
+            "date": str(art.get("date", "")),
+            "context": str(art.get("context", "")).strip(),
+            "score": 2,
+        })
+        seen.add(url)
+    related.sort(key=lambda a: (-a.get("score", 0), a.get("date", "")))
+    return related
+
+
 def compute_graph(entities, entity_articles, entity_laws):
     """Nodes = entities. Edges = shared article (exact URL) or shared law (key)."""
     nodes = []
@@ -545,6 +566,7 @@ def main():
         # Full-name fallback for entities like MITIC
         if not related and name_full != name:
             related = find_mentions_in_posts(name_full)
+        related = merge_manual_articles(related, entity)
 
         entity_articles[slug] = related
 

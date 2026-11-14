@@ -37,6 +37,10 @@
     - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
     - "Tarifa de Itaipú 2024-2026 — USD 19.28/kW-mes, venta de excedente al mercado brasileño"
     - "Anexo C del Tratado de Itaipú — vence 1 de enero de 2027"
+  manual_articles:
+    - title: "La energía nuclear que Paraguay firmó con EE.UU. no es un reactor"
+      url: /articulos/2026/09/23/energia-nuclear-paraguay-eeuu/
+      context: "El MOU nuclear con EE.UU. no es un Acuerdo 123 ni una promesa de reactor; ANDE y MOPC participaron del recorrido institucional previo."
 
 - slug: itaipu
   name: Itaipú
@@ -284,6 +288,10 @@
     interoperable y una hoja de ruta para expandir los pagos a comercios,
     impuestos e integración regional con Pix de Brasil.
   category: gobierno
+  manual_articles:
+    - title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
+      url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+      context: "El BCP dispuso la resolución de ueno bank el 2-nov-2026 y pagó el anticipo del FGD; la ley de resolución no menciona datos personales."
 
 - slug: bancard
   name: Bancard
