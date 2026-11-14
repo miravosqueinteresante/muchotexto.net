@@ -21,6 +21,16 @@ CTX = {"url": "/articulos/2026/09/16/x/", "title": "Titulo del articulo"}
 
 
 class TestHelpers(unittest.TestCase):
+    def test_touch_page_date(self):
+        with tempfile.TemporaryDirectory() as d:
+            path = os.path.join(d, "page.md")
+            with open(path, "w", encoding="utf-8") as f:
+                f.write("---\nlast_modified_at: 2026-01-01\n---\n")
+            self.assertTrue(bd.touch_page_date(path, "2026-11-14"))
+            with open(path, encoding="utf-8") as f:
+                self.assertIn("last_modified_at: 2026-11-14", f.read())
+            self.assertFalse(bd.touch_page_date(path, "2026-11-14"))
+
     def test_fmt_fecha(self):
         self.assertEqual(bd.fmt_fecha("2026-09-17"), "17 Septiembre 2026")
 

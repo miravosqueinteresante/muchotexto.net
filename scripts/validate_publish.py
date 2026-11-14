@@ -15,6 +15,8 @@ import urllib.error
 from urllib.parse import urlparse
 import subprocess
 
+from check_observatorio import check_post as check_observatorio_post
+
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
 EXIT_PASS = 0
@@ -202,6 +204,7 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
 
     if "articulos" in categories and require_cierre:
         errors.extend(check_cierre(post_path))
+        errors.extend(check_observatorio_post(post_path))
 
     if '"@type": "FAQPage"' not in content and '"@type":"FAQPage"' not in content:
         errors.append("FAQ schema requerido: agregar FAQPage con 3 preguntas")

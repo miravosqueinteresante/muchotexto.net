@@ -1,0 +1,20 @@
+# Decisiones de cobertura del observatorio por artículo.
+# updated = la superficie contiene la URL del artículo.
+# n/a = no aplica; exige un motivo en `motivos`.
+2026-11-13-que-datos-tuyos-tenia-ueno:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: n/a
+    radar: updated
+    regulacion: updated
+    claims: updated
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    directorio: "Ueno está en resolución y no tiene una URL estable para el directorio."
+    entidades: "No se creó una entidad nueva; BCP ya existe y su página se genera por menciones."
+    grafo: "No se creó una entidad nueva."

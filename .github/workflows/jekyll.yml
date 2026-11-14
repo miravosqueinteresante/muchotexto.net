@@ -50,6 +50,9 @@ jobs:
           python scripts/test_build_derived.py
           python scripts/test_meta_description.py
           python scripts/test_validate_internal_links.py
+          python scripts/test_check_observatorio.py
+          echo "== Cobertura del último artículo =="
+          python scripts/check_observatorio.py --latest
           echo "== Sync datos (MuchoTexto Data) =="
           python scripts/sync_datos.py
           echo "== Generar superficies derivadas =="

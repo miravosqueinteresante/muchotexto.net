@@ -27,7 +27,7 @@ import os
 import re
 import sys
 import unicodedata
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 from common import read
 
@@ -144,6 +144,7 @@ SURFACES = {
         "section_key": "seccion", "item_key": "items", "article_field": "hitos",
         "transform": _hito, "dedup": None,
         "sort": lambda it: str(it.get("orden") or "9999"),
+        "page": "cronologia.markdown",
     },
     "glosario": {
         "seed": "glosario-seed.yml", "out": "glosario.yml",
@@ -151,6 +152,7 @@ SURFACES = {
         "transform": _glosario,
         "dedup": lambda s, it: (s, norm(it.get("termino", ""))),
         "sort": None,
+        "page": "glosario.markdown",
     },
     "casos": {
         "seed": "casos-seed.yml", "out": "casos.yml",
@@ -158,6 +160,7 @@ SURFACES = {
         "transform": _caso,
         "dedup": lambda s, it: (s, norm(it.get("titulo", ""))),
         "sort": None,
+        "page": "casos-de-uso.markdown",
     },
     "directorio": {
         "seed": "directorio-seed.yml", "out": "directorio.yml",
@@ -165,6 +168,7 @@ SURFACES = {
         "transform": _directorio,
         "dedup": lambda s, it: (s, norm(it.get("nombre", ""))),
         "sort": None,
+        "page": "directorio.markdown",
     },
 }
 
@@ -191,6 +195,26 @@ def iter_article_items(cfg):
             res = cfg["transform"](it, ctx)
             if res:
                 yield res
+
+
+def touch_page_date(page: str, date_str: str) -> bool:
+    """Actualiza last_modified_at de una página derivada si cambió su data."""
+    path = os.path.join(REPO, page)
+    text = read(path)
+    if not text:
+        return False
+    new = re.sub(
+        r"^last_modified_at:\s*.*$",
+        f"last_modified_at: {date_str}",
+        text,
+        count=1,
+        flags=re.MULTILINE,
+    )
+    if new == text:
+        return False
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(new)
+    return True
 
 
 def build_surface(name, yaml, out_dir=DATA):
@@ -232,8 +256,24 @@ def build_surface(name, yaml, out_dir=DATA):
         entry[ikey] = items
         out.append(entry)
 
-    with open(os.path.join(out_dir, cfg["out"]), "w", encoding="utf-8") as f:
-        yaml.safe_dump(out, f, allow_unicode=True, sort_keys=False, default_flow_style=False)
+    out_path = os.path.join(out_dir, cfg["out"])
+    new_bytes = yaml.safe_dump(
+        out, allow_unicode=True, sort_keys=False, default_flow_style=False
+    ).encode("utf-8")
+    if os.path.exists(out_path):
+        with open(out_path, "rb") as f:
+            old_bytes = f.read()
+    else:
+        old_bytes = b""
+    old_text = old_bytes.decode("utf-8").lstrip("\ufeff").replace("\r\n", "\n")
+    new_text = new_bytes.decode("utf-8")
+    if old_text != new_text:
+        with open(out_path, "wb") as f:
+            f.write(new_bytes)
+        page = cfg.get("page")
+        if page:
+            today = datetime.now(timezone(timedelta(hours=-3))).strftime("%Y-%m-%d")
+            touch_page_date(page, today)
     n = sum(len(g[ikey]) for g in out)
     return len(out), n
 
