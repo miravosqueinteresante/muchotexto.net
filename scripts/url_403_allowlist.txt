@@ -2,6 +2,7 @@
 # Mantener solo dominios institucionales o medios con bloqueo anti-bot conocido.
 bcp.gov.py
 dni.gov
+restofworld.org
 sciencedirect.com
 timesofisrael.com
 ucl.ac.uk
