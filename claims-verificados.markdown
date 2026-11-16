@@ -169,8 +169,8 @@ last_modified_at: 2026-11-16
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"943,8 MW de potencia reservada por 41 empresas equivalen a ~13,5% de la potencia que le corresponde a Paraguay de Itaipú (7.000 MW)."</span></div>
-  <span class="claim-source">Fuente: ABC Color Negocios (3-ago-2026) · <a href="/dashboard-energetico/">Dashboard</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"ANDE reportó 943,8 MW reservados por 41 suministros (13,5% de los 7.000 MW de Itaipú); un listado posterior al Congreso muestra 32 suministros y 975.667 kW."</span></div>
+  <span class="claim-source">Fuente: ABC Color (15-mar-2026) y ANDE, listado GCIE remitido al Congreso. Los universos no coinciden: 41 suministros/943,8 MW frente a 32/975,7 MW. · <a href="https://www.abc.com.py/economia/2026/03/15/ande-41-empresas-consumen-el-135-de-nuestra-energia-de-itaipu/">ABC Color</a> · <a href="https://silpy.congreso.gov.py/web/descarga/respuestapedidoinforme-169763?preview=">ANDE/SILPy</a> · <a href="/dashboard-energetico/">Dashboard</a></span>
 </div>
 
 <div class="claim">
@@ -219,7 +219,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026."</span></div>
-  <span class="claim-source">Fuente: ABC Color. Falta incorporar el acto oficial que dejó sin efecto los decretos 5306, 5307, 5860 y 5861. · <a href="/dashboard-energetico/">Dashboard</a></span>
+  <span class="claim-source">Fuente: Agencia IP (10-jun-2026) y ABC Color (9-jun-2026). El Ejecutivo dejó sin efecto los decretos 5306 y 5307, modificados por 5860 y 5861. · <a href="https://www.ip.gov.py/ip/2026/06/10/ejecutivo-derogo-decretos-emitidos-sobre-industrias-convergentes-y-fortalece-coordinacion-institucional/">Agencia IP</a> · <a href="/dashboard-energetico/">Dashboard</a></span>
 </div>
 
 <div class="claim">
@@ -233,7 +233,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La negociación del Anexo C se suspendió en abril de 2025 y se reanudó en noviembre de 2025."</span></div>
-  <span class="claim-source">Fuente: ABC Color, El Nacional, ANDE · <a href="/articulos/2026/07/17/itaipu-2027-energia-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: MRE Paraguay, suspensión del 1-abr-2025 y reanudación anunciada el 17-nov-2025. · <a href="https://www.mre.gov.py/paraguay-pide-aclaraciones-a-brasil-y-suspende-temporalmente-negociacion-del-anexo-c-del-tratado-de-itaipu/">MRE (suspensión)</a> · <a href="https://www.mre.gov.py/paraguay-recibe-informe-del-brasil-y-ambos-paises-avanzan-en-una-nueva-etapa-de-relacion/">MRE (reanudación)</a> · <a href="/articulos/2026/07/17/itaipu-2027-energia-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">

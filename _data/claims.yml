@@ -1,4 +1,4 @@
-# Piloto de migración: 18 claims.
+# Piloto de migración: 20 claims.
 # La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
 # No migrar el resto hasta subir de evidencia los claims internos.
 
@@ -37,15 +37,15 @@
   claim: "Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026."
   tipo: hecho
   estado: parcial
-  evidencia: D
-  fuente: ABC Color / Dashboard energético
-  url: /dashboard-energetico/
-  localizador: dashboard, nota GCIE
-  extracto: "Los decretos se derogan por presión sindical y técnica interna de ANDE."
-  fecha_corte: 2026-06-09
+  evidencia: A
+  fuente: Agencia IP / ABC Color
+  url: https://www.ip.gov.py/ip/2026/06/10/ejecutivo-derogo-decretos-emitidos-sobre-industrias-convergentes-y-fortalece-coordinacion-institucional/
+  localizador: párrafo 2
+  extracto: "El presidente de la República, Santiago Peña, dispuso dejar sin efecto los Decretos N.° 5306 y 5307"
+  fecha_corte: 2026-06-10
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-  nota: "Falta el acto oficial que dejó sin efecto los decretos."
+  nota: "El acto administrativo original no está enlazado; la comunicación oficial confirma la decisión."
 
 - id: uen-003
   seccion: Ueno y datos personales
@@ -271,3 +271,33 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
   nota: "El informe HCI 2020 redondea a 0,53; la serie descargable conserva 0,528."
+
+- id: ene-003
+  seccion: Energía y data centers
+  claim: "ANDE reportó 943,8 MW reservados por 41 suministros (13,5% de los 7.000 MW de Itaipú); un listado posterior al Congreso muestra 32 suministros y 975.667 kW."
+  tipo: hecho
+  estado: parcial
+  evidencia: A
+  fuente: ABC Color / ANDE-SILPy
+  url: https://www.abc.com.py/economia/2026/03/15/ande-41-empresas-consumen-el-135-de-nuestra-energia-de-itaipu/
+  localizador: párrafo 1
+  extracto: "41 suministros activos... 943,8 MW"
+  fecha_corte: 2026-03-15
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+  nota: "El listado al Congreso suma 32 suministros y 975.667 kW; los universos no coinciden."
+
+- id: ita-001
+  seccion: Itaipú
+  claim: "La negociación del Anexo C se suspendió en abril de 2025 y se reanudó en noviembre de 2025."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MRE Paraguay
+  url: https://www.mre.gov.py/paraguay-pide-aclaraciones-a-brasil-y-suspende-temporalmente-negociacion-del-anexo-c-del-tratado-de-itaipu/
+  localizador: comunicado del 1-abr-2025
+  extracto: "El Gobierno del Paraguay decidió suspender temporalmente toda negociación relacionada al Anexo C del Tratado de Itaipu"
+  fecha_corte: 2025-04-01
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+  nota: "La reanudación fue anunciada el 17-nov-2025 y confirmada para la primera quincena de diciembre."
