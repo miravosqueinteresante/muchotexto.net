@@ -1,4 +1,4 @@
-# Piloto de migración: 10 claims.
+# Piloto de migración: 14 claims.
 # La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
 # No migrar el resto hasta subir de evidencia los claims internos.
 
@@ -151,3 +151,63 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
   nota: "Cifra histórica autodeclarada; la empresa reporta hoy más de 1M de toneladas."
+
+- id: tar-003
+  seccion: Tarifas ANDE
+  claim: "El estudio Ceare proyecta la tarifa media de 49,2 a 68,6 US$/MWh al 2030 (+39,4%)."
+  tipo: proyeccion
+  estado: parcial
+  evidencia: D
+  fuente: Ceare / ABC Color
+  url: https://www.abc.com.py/economia/2026/08/06/ande-estudio-internacional-proyecta-un-aumento-de-la-tarifa-de-hasta-456/
+  localizador: párrafo 1
+  extracto: "el pliego tarifario medio pasará de US$ 49,2 a US$ 68,6 por MWh"
+  fecha_corte: 2026-08-06
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
+  nota: "Es proyección, no tarifa aplicada; falta el PDF original del estudio."
+
+- id: ita-002
+  seccion: Itaipú
+  claim: "El acuerdo tarifario de Itaipú (USD 19,28/kW-mes) vence el 1 de enero de 2027."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MRE Paraguay / Itamaraty
+  url: https://www.mre.gov.py/paraguay-y-brasil-llegaron-a-un-historico-acuerdo-sobre-la-tarifa-de-itaipu/
+  localizador: comunicado del 9-may-2024
+  extracto: "tarifa por energía eléctrica en 19,28 Kw/mes hasta el 2026"
+  fecha_corte: 2024-05-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+  nota: "El acuerdo cubre 2024-2026; el vencimiento es el 1-ene-2027."
+
+- id: dem-002
+  seccion: Demografía y economía
+  claim: "La fecundidad es de 1,90 hijos por mujer (2026) y caerá a 1,72 en 2050, por debajo del reemplazo."
+  tipo: proyeccion
+  estado: confirmado
+  evidencia: A
+  fuente: INE Paraguay
+  url: https://www.ine.gov.py/Publicaciones/Biblioteca/documento/266/Triptico.pdf
+  localizador: indicadores demográficos 2026-2031
+  extracto: "Tasa Global de Fecundidad (TGF) 1,90"
+  fecha_corte: 2026-07-10
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: "La proyección a 2050 de 1,72 proviene de la Revisión 2024."
+
+- id: reg-002
+  seccion: Regulación
+  claim: "La Ley 7599/2025 y el Decreto 6034/2026 abren la generación privada de energía renovable."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: BACN
+  url: https://www.bacn.gov.py/leyes-paraguayas/12999/ley-n-7599-2025-de-modernizaci-n-del-r-gimen-que-regula-y-fomenta-la-generaci-n-de-energ-a-el-ctrica-a-partir-de-fuentes-de-energ-as-renovables-no-convencionales-no-hidr-ulicas
+  localizador: artículo 1 y artículo 5
+  extracto: "promover el fomento, generación, producción, desarrollo y utilización de energía eléctrica"
+  fecha_corte: 2026-04-14
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
+  nota: "El Decreto 6034/2026 reglamenta las figuras de autogenerador, cogenerador, generador y exportador."

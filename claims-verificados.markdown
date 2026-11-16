@@ -224,7 +224,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"El estudio Ceare proyecta la tarifa media de 49,2 a 68,6 US$/MWh al 2030 (+39,4%)."</span></div>
-  <span class="claim-source">Fuente: estudio Ceare (UBA, con apoyo del BID). Es proyección, no tarifa aplicada; falta enlazar el documento original. · <a href="/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: Ceare (UBA, con apoyo del BID), presentado por ANDE; ABC Color (6-ago-2026). Es proyección, no tarifa aplicada. · <a href="https://www.abc.com.py/economia/2026/08/06/ande-estudio-internacional-proyecta-un-aumento-de-la-tarifa-de-hasta-456/">ABC Color</a> · <a href="https://www.ceare.org/documentos.php">CEARE</a> · <a href="/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/">Artículo</a></span>
 </div>
 </section>
 
@@ -238,7 +238,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El acuerdo tarifario de Itaipú (USD 19,28/kW-mes) vence el 1 de enero de 2027."</span></div>
-  <span class="claim-source">Fuente: ANDE · <a href="/articulos/2026/07/17/itaipu-2027-energia-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: MRE Paraguay (9-may-2024) y entendimiento Brasil-Paraguay (16-abr-2024): tarifa de USD 19,28/kW-mes para 2024, 2025 y 2026. · <a href="https://www.mre.gov.py/paraguay-y-brasil-llegaron-a-un-historico-acuerdo-sobre-la-tarifa-de-itaipu/">MRE</a> · <a href="https://concordia.itamaraty.gov.br/ApiConcordia/Acordo/integra-acordo-html/12813">Itamaraty</a> · <a href="/articulos/2026/07/17/itaipu-2027-energia-paraguay/">Artículo</a></span>
 </div>
 </section>
 
@@ -252,7 +252,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La fecundidad es de 1,90 hijos por mujer (2026) y caerá a 1,72 en 2050, por debajo del reemplazo."</span></div>
-  <span class="claim-source">Fuente: INE Revisión 2024. El rango 1,7-1,8 estaba desactualizado. · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
+  <span class="claim-source">Fuente: INE, Proyecciones de la Población 2026 (Revisión 2025). El rango 1,7-1,8 estaba desactualizado. · <a href="https://www.ine.gov.py/Publicaciones/Biblioteca/documento/266/Triptico.pdf">INE</a> · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -291,7 +291,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La Ley 7599/2025 y el Decreto 6034/2026 abren la generación privada de energía renovable."</span></div>
-  <span class="claim-source">Fuente: BACN · <a href="/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: BACN, Ley 7599/2025. · <a href="https://www.bacn.gov.py/leyes-paraguayas/12999/ley-n-7599-2025-de-modernizaci-n-del-r-gimen-que-regula-y-fomenta-la-generaci-n-de-energ-a-el-ctrica-a-partir-de-fuentes-de-energ-as-renovables-no-convencionales-no-hidr-ulicas">Ley 7599/2025</a> · <a href="/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">

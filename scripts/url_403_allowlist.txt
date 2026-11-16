@@ -1,6 +1,7 @@
 # Dominios que pueden devolver 403 anti-bot y se aceptan como fuente válida.
 # Mantener solo dominios institucionales o medios con bloqueo anti-bot conocido.
 bcp.gov.py
+mre.gov.py
 dni.gov
 restofworld.org
 sciencedirect.com
