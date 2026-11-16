@@ -73,7 +73,7 @@ def load_cache():
         "casos": read(os.path.join(REPO, "_data", "casos.yml")),
         "directorio": read(os.path.join(REPO, "_data", "directorio.yml")),
         "radar": read(os.path.join(REPO, "_data", "leyes.yml")),
-        "claims": read(os.path.join(REPO, "claims-verificados.markdown")),
+        "claims": read(os.path.join(REPO, "_data", "claims.yml")),
         "grafo": read(os.path.join(REPO, "grafo.json")),
         "entidades": "\n".join(read(p) for p in glob.glob(os.path.join(REPO, "entidades", "*.markdown"))),
     }

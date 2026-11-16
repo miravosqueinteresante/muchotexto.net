@@ -82,7 +82,7 @@ def _surface_ok(surface, url, data, slug):
     if surface == "radar":
         return _contains("_data/leyes.yml", url)
     if surface == "claims":
-        return _contains("claims-verificados.markdown", url)
+        return _contains("_data/claims.yml", url)
     if surface == "entidades":
         return _any_entity_mentions(url)
     if surface == "grafo":

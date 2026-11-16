@@ -1,438 +1,563 @@
-# Piloto de migración: 29 claims.
-# La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
-# No migrar el resto hasta subir de evidencia los claims internos.
-
-- id: ene-005
-  seccion: Energía y data centers
-  claim: "La demanda eléctrica creció 18,5% en 2024, 12,5% en 2025 y 17,9% acumulado a 8 meses de 2026."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: ANDE
-  url: https://www.ande.gov.py/interna.php?id=15615
-  localizador: comunicado de demanda, párrafo 1
-  extracto: "17,9% acumulado a 8 meses de 2026"
-  fecha_corte: 2026-08-31
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
-  nota: "El 21% era un parcial del primer trimestre."
-
-- id: dem-001
-  seccion: Demografía y economía
-  claim: "Paraguay tiene 6.460.159 habitantes (2026), con edad mediana de 29,4 años."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: INE Paraguay
-  url: https://www.ine.gov.py/noticias/2946/paraguay-sigue-teniendo-la-mayor-cantidad-de-su-poblacion-en-edad-productiva
-  localizador: noticia 2946, párrafo 3
-  extracto: "La edad mediana es de 29,4 años"
-  fecha_corte: 2026-07-10
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-  nota: "Corregido de 'edad media' a 'edad mediana'."
-
-- id: tar-002
-  seccion: Tarifas ANDE
-  claim: "Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026."
-  tipo: hecho
-  estado: parcial
-  evidencia: A
-  fuente: Agencia IP / ABC Color
-  url: https://www.ip.gov.py/ip/2026/06/10/ejecutivo-derogo-decretos-emitidos-sobre-industrias-convergentes-y-fortalece-coordinacion-institucional/
-  localizador: párrafo 2
-  extracto: "El presidente de la República, Santiago Peña, dispuso dejar sin efecto los Decretos N.° 5306 y 5307"
-  fecha_corte: 2026-06-10
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-  nota: "El acto administrativo original no está enlazado; la comunicación oficial confirma la decisión."
-
-- id: uen-003
-  seccion: Ueno y datos personales
-  claim: "El BCP pagó un anticipo de hasta 40 salarios mínimos a 1.812.348 personas: G. 3,99 billones, equivalentes a USD 644 millones según la conversión difundida por Última Hora."
-  tipo: hecho
-  estado: parcial
-  evidencia: D
-  fuente: Última Hora
-  url: https://www.ultimahora.com/primera-semana-del-colapso-de-ueno-el-fgd-desembolso-usd-644-millones-a-1-8-millones-de-afectados
-  localizador: párrafo 1
-  extracto: "el FGD desembolsó USD 644 millones a 1,8 millones de afectados"
-  fecha_corte: 2026-11-11
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
-  nota: "El BCP confirma guaraníes; la equivalencia en dólares depende del tipo de cambio."
-
-- id: reg-003
-  seccion: Regulación
-  claim: "No identificamos una norma específica para data centers en la revisión de Ley 294/1993, Ley 7599/2025, Ley 7547/2025 y Ley 3001/2006."
-  tipo: negacion
-  estado: parcial
-  evidencia: E
-  fuente: Revisión propia
-  url: /articulos/2026/08/04/impacto-local-data-center-paraguay/#revision-regulacion-data-centers
-  localizador: sección "Cómo verificamos la ausencia de una regulación específica"
-  extracto: "Este artículo afirma que no identificamos una norma específica para data centers. No es una afirmación de inexistencia absoluta."
-  fecha_corte: 2026-11-16
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-  nota: "Una ausencia no se prueba como hecho positivo; requiere revisión legal declarada."
-
-- id: uen-005
-  seccion: Ueno y datos personales
-  claim: "No encontramos información pública que confirme ni descarte la venta o transferencia de las bases de datos de Ueno."
-  tipo: negacion
-  estado: no_demostrable
-  evidencia: E
-  fuente: TEDIC
-  url: https://www.tedic.org/caso-ueno-biometria-datos-personales-y-la-deuda-del-estado-paraguayo/
-  localizador: sección "¿Se vendieron los datos?"
-  extracto: "Hasta hoy no hay información pública que lo confirme ni lo descarte"
-  fecha_corte: 2026-11-12
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
-  nota: "Ausencia de evidencia, no prueba de inexistencia."
-
-- id: cor-003
-  seccion: Correcciones
-  claim: "El Anexo C de Itaipú vence el 1 de enero de 2027."
-  tipo: hecho
-  estado: incorrecto
-  evidencia: A
-  fuente: Itamaraty
-  url: https://concordia.itamaraty.gov.br/ApiConcordia/Acordo/integra-acordo-html/12813
-  localizador: Entendimiento Brasil-Paraguay, 16-abr-2024
-  extracto: "A próxima tarifa de Itaipu será de US$ 19,28/kW, a ser aplicada nos anos de 2024, 2025 e 2026"
-  fecha_corte: 2024-04-16
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-  nota: "Lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C."
-
-- id: ene-006
-  seccion: Energía y data centers
-  claim: "HIVE Digital opera 300 MW en Paraguay (minería ASIC) y desarrolla 100 MW de infraestructura HPC/AI (Tier III, 2027)."
-  tipo: hecho
-  estado: confirmado
-  evidencia: B
-  fuente: HIVE Digital Technologies
-  url: https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-reaches-ai-cloud-milestone-in-paraguay-powers-columbia-university-llm-research-from-new-york-to-asuncion/
-  localizador: comunicado del 18-mar-2026, declaración de Frank Holmes
-  extracto: "HIVE has 300 MW of renewable hydroelectric power operational in Paraguay, with another 100 MW in development."
-  fecha_corte: 2026-03-18
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-  nota: "300 MW son minería ASIC; los 100 MW son infraestructura HPC/AI, no capacidad GPU equivalente."
-
-- id: ene-008
-  seccion: Energía y data centers
-  claim: "Los data centers consumieron el 23% de la electricidad metrada de Irlanda en 2025 (22% en 2024 y 21% en 2023)."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: CSO Ireland
-  url: https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2025/keyfindings/
-  localizador: Key Findings, Table 1
-  extracto: "The percentage share of total metered electricity consumption used by data centres rose to 23% in 2025"
-  fecha_corte: 2026-07-07
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-  nota: "Corregido: 2023 fue 21%, no 20%."
-
-- id: tok-001
-  seccion: Tokenización agro y cripto
-  claim: "Agrotoken tokenizó 230.000 toneladas de soja, maíz y trigo (dato histórico, 2024)."
-  tipo: hecho
-  estado: parcial
-  evidencia: D
-  fuente: Tanssi
-  url: https://www.tanssi.network/post/collaboration-tanssi-agrotoken
-  localizador: párrafo sobre Agrotoken
-  extracto: "tokenized US$70 million in cereals, the equivalent of 230,000 tons of soybeans, corn, and wheat"
-  fecha_corte: 2024-09-09
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
-  nota: "Cifra histórica autodeclarada; la empresa reporta hoy más de 1M de toneladas."
-
-- id: tar-003
-  seccion: Tarifas ANDE
-  claim: "El estudio Ceare proyecta la tarifa media de 49,2 a 68,6 US$/MWh al 2030 (+39,4%)."
-  tipo: proyeccion
-  estado: parcial
-  evidencia: D
-  fuente: Ceare / ABC Color
-  url: https://www.abc.com.py/economia/2026/08/06/ande-estudio-internacional-proyecta-un-aumento-de-la-tarifa-de-hasta-456/
-  localizador: párrafo 1
-  extracto: "el pliego tarifario medio pasará de US$ 49,2 a US$ 68,6 por MWh"
-  fecha_corte: 2026-08-06
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
-  nota: "Es proyección, no tarifa aplicada; falta el PDF original del estudio."
-
-- id: ita-002
-  seccion: Itaipú
-  claim: "El acuerdo tarifario de Itaipú (USD 19,28/kW-mes) vence el 1 de enero de 2027."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: MRE Paraguay / Itamaraty
-  url: https://www.mre.gov.py/paraguay-y-brasil-llegaron-a-un-historico-acuerdo-sobre-la-tarifa-de-itaipu/
-  localizador: comunicado del 9-may-2024
-  extracto: "tarifa por energía eléctrica en 19,28 Kw/mes hasta el 2026"
-  fecha_corte: 2024-05-09
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-  nota: "El acuerdo cubre 2024-2026; el vencimiento es el 1-ene-2027."
-
-- id: dem-002
-  seccion: Demografía y economía
-  claim: "La fecundidad es de 1,90 hijos por mujer (2026) y caerá a 1,72 en 2050, por debajo del reemplazo."
-  tipo: proyeccion
-  estado: confirmado
-  evidencia: A
-  fuente: INE Paraguay
-  url: https://www.ine.gov.py/Publicaciones/Biblioteca/documento/266/Triptico.pdf
-  localizador: indicadores demográficos 2026-2031
-  extracto: "Tasa Global de Fecundidad (TGF) 1,90"
-  fecha_corte: 2026-07-10
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-  nota: "La proyección a 2050 de 1,72 proviene de la Revisión 2024."
-
-- id: reg-002
-  seccion: Regulación
-  claim: "La Ley 7599/2025 y el Decreto 6034/2026 abren la generación privada de energía renovable."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: BACN
-  url: https://www.bacn.gov.py/leyes-paraguayas/12999/ley-n-7599-2025-de-modernizaci-n-del-r-gimen-que-regula-y-fomenta-la-generaci-n-de-energ-a-el-ctrica-a-partir-de-fuentes-de-energ-as-renovables-no-convencionales-no-hidr-ulicas
-  localizador: artículo 1 y artículo 5
-  extracto: "promover el fomento, generación, producción, desarrollo y utilización de energía eléctrica"
-  fecha_corte: 2026-04-14
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-  nota: "El Decreto 6034/2026 reglamenta las figuras de autogenerador, cogenerador, generador y exportador."
+# Registro de claims. Ordenado por sección y orden de la página.
+# Actualizado: 2026-11-16.
 
 - id: ene-001
   seccion: Energía y data centers
-  claim: "La matriz eléctrica paraguaya es casi totalmente renovable: en 2025, Itaipú aportó 87,6%, Yacyretá 10,5% y Acaray 1,9% del consumo nacional."
+  claim: 'La matriz eléctrica paraguaya es casi totalmente renovable: en 2025, Itaipú aportó 87,6%, Yacyretá 10,5% y Acaray 1,9% del consumo nacional.'
   tipo: hecho
   estado: confirmado
   evidencia: A
   fuente: ANDE
   url: https://www.ande.gov.py/interna.php?id=14877
   localizador: comunicado del 14-ene-2026, párrafos 2-3
-  extracto: "Itaipú Binacional: 25.768 GWh (87,6 %). Yacyretá: 3.081 GWh (10,5 %). Central Hidroeléctrica Acaray: 570 GWh (1,9 %)"
+  extracto: 'Itaipú Binacional: 25.768 GWh (87,6 %). Yacyretá: 3.081 GWh (10,5 %). Central Hidroeléctrica Acaray: 570 GWh (1,9 %)'
   fecha_corte: 2025-12-31
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
-  nota: "Cambia la composición de 2024 por la distribución oficial de 2025."
-
-- id: ene-004
-  seccion: Energía y data centers
-  claim: "El consumo nacional de electricidad fue de 29,4 TWh en 2025 (29.419 GWh)."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: ANDE
-  url: https://www.ande.gov.py/interna.php?id=14877
-  localizador: comunicado del 14-ene-2026, párrafo 2
-  extracto: "el consumo total llegó a 29.419 GWh"
-  fecha_corte: 2025-12-31
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
-  nota: "El BAGP 2025 de ANDE reporta 29.418.538 MWh, compatible con el redondeo."
-
-- id: cib-002
-  seccion: Ciberseguridad
-  claim: "El Decreto 3900/2025 aprobó la Estrategia Nacional de Ciberseguridad 2025-2028."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: MITIC
-  url: https://mitic.gov.py/enc2025-2028/
-  localizador: comunicado del 23-may-2025, párrafo 1
-  extracto: "El Poder Ejecutivo, mediante el decreto N° 3900, oficializó la Estrategia Nacional de Ciberseguridad para el periodo 2025-2028"
-  fecha_corte: 2025-05-23
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/07/17/ciberseguridad-paraguay/
-  nota: "El decreto fue firmado el 22-may-2025 y oficializado el 23-may-2025."
-
-- id: dem-005
-  seccion: Demografía y economía
-  claim: "El índice de capital humano de Paraguay es 0,528 (el más bajo entre pares regionales)."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: Banco Mundial
-  url: https://api.worldbank.org/v2/country/PRY/indicator/HD.HCI.OVRL?format=json
-  localizador: serie HD.HCI.OVRL, Paraguay, 2020
-  extracto: "Paraguay - Human capital index (HCI) (scale 0-1): 0.528"
-  fecha_corte: 2020-12-31
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-  nota: "El informe HCI 2020 redondea a 0,53; la serie descargable conserva 0,528."
-
-- id: ene-003
-  seccion: Energía y data centers
-  claim: "ANDE reportó 943,8 MW reservados por 41 suministros (13,5% de los 7.000 MW de Itaipú); un listado posterior al Congreso muestra 32 suministros y 975.667 kW."
-  tipo: hecho
-  estado: parcial
-  evidencia: A
-  fuente: ABC Color / ANDE-SILPy
-  url: https://www.abc.com.py/economia/2026/03/15/ande-41-empresas-consumen-el-135-de-nuestra-energia-de-itaipu/
-  localizador: párrafo 1
-  extracto: "41 suministros activos... 943,8 MW"
-  fecha_corte: 2026-03-15
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-  nota: "El listado al Congreso suma 32 suministros y 975.667 kW; los universos no coinciden."
-
-- id: ita-001
-  seccion: Itaipú
-  claim: "La negociación del Anexo C se suspendió en abril de 2025 y se reanudó en noviembre de 2025."
-  tipo: hecho
-  estado: confirmado
-  evidencia: A
-  fuente: MRE Paraguay
-  url: https://www.mre.gov.py/paraguay-pide-aclaraciones-a-brasil-y-suspende-temporalmente-negociacion-del-anexo-c-del-tratado-de-itaipu/
-  localizador: comunicado del 1-abr-2025
-  extracto: "El Gobierno del Paraguay decidió suspender temporalmente toda negociación relacionada al Anexo C del Tratado de Itaipu"
-  fecha_corte: 2025-04-01
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-  nota: "La reanudación fue anunciada el 17-nov-2025 y confirmada para la primera quincena de diciembre."
-
-- id: dem-004
-  seccion: Demografía y economía
-  claim: "El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026)."
-  tipo: proyeccion
-  estado: confirmado
-  evidencia: A
-  fuente: IMF World Economic Outlook
-  url: https://www.imf.org/en/Publications/WEO/weo-database/2026/October
-  localizador: WEO octubre 2026, NGDPDPC, Paraguay
-  extracto: "Paraguay: USD 9.370 de PIB per cápita nominal proyectado para 2026"
-  fecha_corte: 2026-10-31
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-  nota: "9.370 redondea a 9.400; es proyección, no dato observado."
-
-- id: dem-007
-  seccion: Demografía y economía
-  claim: "Paraguay es el 4.º exportador mundial de soja (no el 6.º; 6.º es como productor)."
-  tipo: hecho
-  estado: parcial
-  evidencia: A
-  fuente: USDA FAS
-  url: https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8
-  localizador: Table 07, columna Exports, 2025/26
-  extracto: "Paraguay exports 8,200 thousand metric tons, behind Brazil, United States and Argentina"
-  fecha_corte: 2026-04-09
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
-  nota: "Un informe USDA de 2024 lo ubicaba tercero; la tabla 2025/26 lo ubica cuarto."
-
-- id: tok-002
-  seccion: Tokenización agro y cripto
-  claim: "Los exploits en activos tokenizados sumaron USD 17,9M (2023), USD 6M (2024) y USD 14,6M (primer semestre 2025)."
-  tipo: hecho
-  estado: confirmado
-  evidencia: C
-  fuente: CertiK
-  url: https://www.certik.com/certik-report/intel3d/2025-skynet-rwa-security-report
-  localizador: Key Takeaways, párrafo 2
-  extracto: "Direct losses from RWA-specific exploits reached approximately $14.6 million in H1 2025, following $6 million in 2024 and $17.9 million in 2023"
-  fecha_corte: 2025-08-21
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
-  nota: "Informe sectorial de una empresa de seguridad; no es registro gubernamental."
-
-- id: cor-001
-  seccion: Correcciones
-  claim: "Paraguay es el 6.º exportador mundial de soja."
-  tipo: hecho
-  estado: incorrecto
-  evidencia: A
-  fuente: USDA FAS
-  url: https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8
-  localizador: Table 07, columna Exports, 2025/26
-  extracto: "Paraguay exports 8,200 thousand metric tons, behind Brazil, United States and Argentina"
-  fecha_corte: 2026-04-09
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
-  nota: "Corregido a 4.º exportador; 6.º es como productor."
-
-- id: cor-002
-  seccion: Correcciones
-  claim: "La demanda eléctrica crece 12% anual."
-  tipo: hecho
-  estado: incorrecto
-  evidencia: A
-  fuente: ANDE
-  url: https://www.ande.gov.py/interna.php?id=14877
-  localizador: comunicado del 14-ene-2026, párrafo 1
-  extracto: "La demanda de energía eléctrica en Paraguay registró en el año 2025 un crecimiento del 12,5 %"
-  fecha_corte: 2025-12-31
-  ultima_verificacion: 2026-11-16
-  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
-  nota: "El piso oficial reciente es 12,5%, no 12%."
-
+  nota: Cambia la composición de 2024 por la distribución oficial de 2025.
 - id: ene-002
   seccion: Energía y data centers
-  claim: "Paraguay tiene la tarifa industrial más barata de Sudamérica."
+  claim: Paraguay tiene la tarifa industrial más barata de Sudamérica.
   tipo: hecho
   estado: parcial
   evidencia: D
   fuente: CIER 2025 / ABC Color
   url: https://www.abc.com.py/economia/2025/05/02/paraguay-exhibe-la-tarifa-electrica-mas-baja-de-la-region-pero/
   localizador: párrafo 1
-  extracto: "la tarifa industrial (US$ 35 por MWh)... la menor de la muestra"
+  extracto: la tarifa industrial (US$ 35 por MWh)... la menor de la muestra
   fecha_corte: 2025-05-02
   ultima_verificacion: 2026-11-16
   articulo: /calculadora-energetica/
-  nota: "Es la más baja entre 13 países CIER 2025; no se comparó Argentina ni Bolivia."
-
+  nota: Es la más baja entre 13 países CIER 2025; no se comparó Argentina ni Bolivia.
+- id: ene-003
+  seccion: Energía y data centers
+  claim: ANDE reportó 943,8 MW reservados por 41 suministros (13,5% de los 7.000 MW de Itaipú); un listado posterior al Congreso muestra 32 suministros y 975.667 kW.
+  tipo: hecho
+  estado: parcial
+  evidencia: A
+  fuente: ABC Color / ANDE-SILPy
+  url: https://www.abc.com.py/economia/2026/03/15/ande-41-empresas-consumen-el-135-de-nuestra-energia-de-itaipu/
+  localizador: párrafo 1
+  extracto: 41 suministros activos... 943,8 MW
+  fecha_corte: 2026-03-15
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+  nota: El listado al Congreso suma 32 suministros y 975.667 kW; los universos no coinciden.
+- id: ene-004
+  seccion: Energía y data centers
+  claim: El consumo nacional de electricidad fue de 29,4 TWh en 2025 (29.419 GWh).
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=14877
+  localizador: comunicado del 14-ene-2026, párrafo 2
+  extracto: el consumo total llegó a 29.419 GWh
+  fecha_corte: 2025-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+  nota: El BAGP 2025 de ANDE reporta 29.418.538 MWh, compatible con el redondeo.
+- id: ene-005
+  seccion: Energía y data centers
+  claim: La demanda eléctrica creció 18,5% en 2024, 12,5% en 2025 y 17,9% acumulado a 8 meses de 2026.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=15615
+  localizador: comunicado de demanda, párrafo 1
+  extracto: 17,9% acumulado a 8 meses de 2026
+  fecha_corte: 2026-08-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+  nota: El 21% era un parcial del primer trimestre.
+- id: ene-006
+  seccion: Energía y data centers
+  claim: HIVE Digital opera 300 MW en Paraguay (minería ASIC) y desarrolla 100 MW de infraestructura HPC/AI (Tier III, 2027).
+  tipo: hecho
+  estado: confirmado
+  evidencia: B
+  fuente: HIVE Digital Technologies
+  url: https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-reaches-ai-cloud-milestone-in-paraguay-powers-columbia-university-llm-research-from-new-york-to-asuncion/
+  localizador: comunicado del 18-mar-2026, declaración de Frank Holmes
+  extracto: HIVE has 300 MW of renewable hydroelectric power operational in Paraguay, with another 100 MW in development.
+  fecha_corte: 2026-03-18
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  nota: 300 MW son minería ASIC; los 100 MW son infraestructura HPC/AI, no capacidad GPU equivalente.
 - id: ene-007
   seccion: Energía y data centers
-  claim: "Un data center de 100 MW emplea entre 20 y 50 personas en operación permanente (referencia de industria)."
+  claim: Un data center de 100 MW emplea entre 20 y 50 personas en operación permanente (referencia de industria).
   tipo: hecho
   estado: parcial
   evidencia: C
   fuente: Latitude Media / APRS
   url: https://www.latitudemedia.com/news/data-center-jobs-arent-at-servers-theyre-in-energy/
   localizador: párrafo 2
-  extracto: "Industry benchmarks put permanent staffing at roughly 25 to 40 operators per 100 megawatts."
+  extracto: Industry benchmarks put permanent staffing at roughly 25 to 40 operators per 100 megawatts.
   fecha_corte: 2026-05-06
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-  nota: "Benchmark de industria, no cifra oficial por empresa en Paraguay."
-
+  nota: Benchmark de industria, no cifra oficial por empresa en Paraguay.
+- id: ene-008
+  seccion: Energía y data centers
+  claim: Los data centers consumieron el 23% de la electricidad metrada de Irlanda en 2025 (22% en 2024 y 21% en 2023).
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: CSO Ireland
+  url: https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2025/keyfindings/
+  localizador: Key Findings, Table 1
+  extracto: The percentage share of total metered electricity consumption used by data centres rose to 23% in 2025
+  fecha_corte: 2026-07-07
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  nota: 'Corregido: 2023 fue 21%, no 20%.'
+- id: ene-009
+  seccion: Energía y data centers
+  claim: 'El MOU nuclear firmado con EE.UU. el 4 de agosto de 2026 no es un Acuerdo 123: no es vinculante, no transfiere tecnología ni compromete proveedor, sitio, capacidad o plazos.'
+  tipo: hecho
+  estado: parcial
+  evidencia: B
+  fuente: U.S. Department of State
+  url: https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-of-state-marco-rubio-and-paraguayan-foreign-minister-ruben-ramirez-lezcano-at-the-signing-of-a-memorandum-of-understanding-for-strategic-civil-nuclear-cooperation/
+  localizador: Remarks at signing, 4-ago-2026
+  extracto: Memorandum of Understanding for Strategic Civil Nuclear Cooperation
+  fecha_corte: 2026-08-04
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/09/23/energia-nuclear-paraguay-eeuu/
+  nota: El MOU no es vinculante; la lista de lo que no compromete se basa en el texto, no en una cláusula única.
+- id: ene-010
+  seccion: Energía y data centers
+  claim: Los USD 665 millones de Atome eran inversión proyectada, no dinero desembolsado; la empresa notificó la terminación de su PPA el 1-oct-2026, efectiva a fines de 2026.
+  tipo: hecho
+  estado: parcial
+  evidencia: B
+  fuente: ATOME PLC
+  url: https://www.prnewswire.com/news-releases/atome-plc-notice-of-dispute-and-intent-to-submit-claim-to-arbitration-under-the-uk--paraguay-bilateral-investment-treaty-the-treaty-or-bit-302881982.html
+  localizador: Notice of Dispute
+  extracto: Atome PLC notice of dispute and intent to submit claim to arbitration
+  fecha_corte: 2026-10-01
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/10/02/atome-ande-salida-paraguay/
+  nota: La notificación no equivale a extinción inmediata del contrato.
+- id: tar-001
+  seccion: Tarifas ANDE
+  claim: La tarifa del Grupo Consumo Intensivo Especial es de 30 US$/MWh (Resolución 49238/2024, vigente hasta diciembre de 2027).
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=12464
+  localizador: Resolución 49238/2024, anexo tarifario
+  extracto: Resolución ANDE N° 49238/2024 - Actualización de las Tarifas de Energía Eléctrica GCIE
+  fecha_corte: 2024-06-30
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+  nota: Tarifa de referencia; el rango real varía por nivel de tensión y horario.
+- id: tar-002
+  seccion: Tarifas ANDE
+  claim: Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026.
+  tipo: hecho
+  estado: parcial
+  evidencia: A
+  fuente: Agencia IP / ABC Color
+  url: https://www.ip.gov.py/ip/2026/06/10/ejecutivo-derogo-decretos-emitidos-sobre-industrias-convergentes-y-fortalece-coordinacion-institucional/
+  localizador: párrafo 2
+  extracto: El presidente de la República, Santiago Peña, dispuso dejar sin efecto los Decretos N.° 5306 y 5307
+  fecha_corte: 2026-06-10
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+  nota: El acto administrativo original no está enlazado; la comunicación oficial confirma la decisión.
+- id: tar-003
+  seccion: Tarifas ANDE
+  claim: El estudio Ceare proyecta la tarifa media de 49,2 a 68,6 US$/MWh al 2030 (+39,4%).
+  tipo: proyeccion
+  estado: parcial
+  evidencia: D
+  fuente: Ceare / ABC Color
+  url: https://www.abc.com.py/economia/2026/08/06/ande-estudio-internacional-proyecta-un-aumento-de-la-tarifa-de-hasta-456/
+  localizador: párrafo 1
+  extracto: el pliego tarifario medio pasará de US$ 49,2 a US$ 68,6 por MWh
+  fecha_corte: 2026-08-06
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
+  nota: Es proyección, no tarifa aplicada; falta el PDF original del estudio.
+- id: ita-001
+  seccion: Itaipú
+  claim: La negociación del Anexo C se suspendió en abril de 2025 y se reanudó en noviembre de 2025.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MRE Paraguay
+  url: https://www.mre.gov.py/paraguay-pide-aclaraciones-a-brasil-y-suspende-temporalmente-negociacion-del-anexo-c-del-tratado-de-itaipu/
+  localizador: comunicado del 1-abr-2025
+  extracto: El Gobierno del Paraguay decidió suspender temporalmente toda negociación relacionada al Anexo C del Tratado de Itaipu
+  fecha_corte: 2025-04-01
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+  nota: La reanudación fue anunciada el 17-nov-2025 y confirmada para la primera quincena de diciembre.
+- id: ita-002
+  seccion: Itaipú
+  claim: El acuerdo tarifario de Itaipú (USD 19,28/kW-mes) vence el 1 de enero de 2027.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MRE Paraguay / Itamaraty
+  url: https://www.mre.gov.py/paraguay-y-brasil-llegaron-a-un-historico-acuerdo-sobre-la-tarifa-de-itaipu/
+  localizador: comunicado del 9-may-2024
+  extracto: tarifa por energía eléctrica en 19,28 Kw/mes hasta el 2026
+  fecha_corte: 2024-05-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+  nota: El acuerdo cubre 2024-2026; el vencimiento es el 1-ene-2027.
+- id: dem-001
+  seccion: Demografía y economía
+  claim: Paraguay tiene 6.460.159 habitantes (2026), con edad mediana de 29,4 años.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: INE Paraguay
+  url: https://www.ine.gov.py/noticias/2946/paraguay-sigue-teniendo-la-mayor-cantidad-de-su-poblacion-en-edad-productiva
+  localizador: noticia 2946, párrafo 3
+  extracto: La edad mediana es de 29,4 años
+  fecha_corte: 2026-07-10
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: Corregido de 'edad media' a 'edad mediana'.
+- id: dem-002
+  seccion: Demografía y economía
+  claim: La fecundidad es de 1,90 hijos por mujer (2026) y caerá a 1,72 en 2050, por debajo del reemplazo.
+  tipo: proyeccion
+  estado: confirmado
+  evidencia: A
+  fuente: INE Paraguay
+  url: https://www.ine.gov.py/Publicaciones/Biblioteca/documento/266/Triptico.pdf
+  localizador: indicadores demográficos 2026-2031
+  extracto: Tasa Global de Fecundidad (TGF) 1,90
+  fecha_corte: 2026-07-10
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: La proyección a 2050 de 1,72 proviene de la Revisión 2024.
 - id: dem-003
   seccion: Demografía y economía
-  claim: "El bono demográfico se cierra alrededor de 2045."
+  claim: El bono demográfico se cierra alrededor de 2045.
   tipo: proyeccion
   estado: parcial
   evidencia: A
   fuente: INE Paraguay / Rodríguez (2016)
   url: https://www.ine.gov.py/Publicaciones/Biblioteca/documento/277/Ventana%20Demogr%C3%A1fica%201205.pdf
   localizador: conclusiones
-  extracto: "la ventana demográfica... no se cerraría por lo menos en los próximos 25 años"
+  extracto: la ventana demográfica... no se cerraría por lo menos en los próximos 25 años
   fecha_corte: 2024-12-31
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-  nota: "INE 2024 mantiene la ventana abierta al 2050; Rodríguez (2016) estima ~2045; UIP 2030-2040."
-
+  nota: INE 2024 mantiene la ventana abierta al 2050; Rodríguez (2016) estima ~2045; UIP 2030-2040.
+- id: dem-004
+  seccion: Demografía y economía
+  claim: El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026).
+  tipo: proyeccion
+  estado: confirmado
+  evidencia: A
+  fuente: IMF World Economic Outlook
+  url: https://www.imf.org/en/Publications/WEO/weo-database/2026/October
+  localizador: WEO octubre 2026, NGDPDPC, Paraguay
+  extracto: 'Paraguay: USD 9.370 de PIB per cápita nominal proyectado para 2026'
+  fecha_corte: 2026-10-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: 9.370 redondea a 9.400; es proyección, no dato observado.
+- id: dem-005
+  seccion: Demografía y economía
+  claim: El índice de capital humano de Paraguay es 0,528 (el más bajo entre pares regionales).
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: Banco Mundial
+  url: https://api.worldbank.org/v2/country/PRY/indicator/HD.HCI.OVRL?format=json
+  localizador: serie HD.HCI.OVRL, Paraguay, 2020
+  extracto: 'Paraguay - Human capital index (HCI) (scale 0-1): 0.528'
+  fecha_corte: 2020-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: El informe HCI 2020 redondea a 0,53; la serie descargable conserva 0,528.
+- id: dem-006
+  seccion: Demografía y economía
+  claim: La informalidad laboral fue de 60,1% en 2025, según el INE; la referencia comparable de 2024 fue 62,5%.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: INE Paraguay
+  url: https://www.ine.gov.py/noticias/2891/la-ocupacion-informal-fue-de-601-en-el-ano-2025
+  localizador: párrafo 3
+  extracto: La proporción de personas ocupadas, clasificadas como informales, fue de 60,1% en el año 2025
+  fecha_corte: 2025-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: Ocupados no agropecuarios; la referencia de 2024 es 62,5%.
+- id: dem-007
+  seccion: Demografía y economía
+  claim: Paraguay es el 4.º exportador mundial de soja (no el 6.º; 6.º es como productor).
+  tipo: hecho
+  estado: parcial
+  evidencia: A
+  fuente: USDA FAS
+  url: https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8
+  localizador: Table 07, columna Exports, 2025/26
+  extracto: Paraguay exports 8,200 thousand metric tons, behind Brazil, United States and Argentina
+  fecha_corte: 2026-04-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
+  nota: Un informe USDA de 2024 lo ubicaba tercero; la tabla 2025/26 lo ubica cuarto.
+- id: reg-001
+  seccion: Regulación
+  claim: 'Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025), en vigencia desde el 27-nov-2027: 24 meses desde su publicación.'
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: BACN
+  url: https://www.bacn.gov.py/leyes-paraguayas/12924/ley-n-75932025-de-proteccion-de-datos-personales-en-la-republica-del-paraguay
+  localizador: artículo 57
+  extracto: Ley N° 7593/2025 - De Protección de Datos Personales en la República del Paraguay
+  fecha_corte: 2025-11-27
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
+  nota: La fecha de vigencia se computa desde la publicación oficial.
+- id: reg-002
+  seccion: Regulación
+  claim: La Ley 7599/2025 y el Decreto 6034/2026 abren la generación privada de energía renovable.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: BACN
+  url: https://www.bacn.gov.py/leyes-paraguayas/12999/ley-n-7599-2025-de-modernizaci-n-del-r-gimen-que-regula-y-fomenta-la-generaci-n-de-energ-a-el-ctrica-a-partir-de-fuentes-de-energ-as-renovables-no-convencionales-no-hidr-ulicas
+  localizador: artículo 1 y artículo 5
+  extracto: promover el fomento, generación, producción, desarrollo y utilización de energía eléctrica
+  fecha_corte: 2026-04-14
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
+  nota: El Decreto 6034/2026 reglamenta las figuras de autogenerador, cogenerador, generador y exportador.
+- id: reg-003
+  seccion: Regulación
+  claim: No identificamos una norma específica para data centers en la revisión de Ley 294/1993, Ley 7599/2025, Ley 7547/2025 y Ley 3001/2006.
+  tipo: negacion
+  estado: parcial
+  evidencia: E
+  fuente: Revisión propia
+  url: /articulos/2026/08/04/impacto-local-data-center-paraguay/#revision-regulacion-data-centers
+  localizador: sección "Cómo verificamos la ausencia de una regulación específica"
+  extracto: Este artículo afirma que no identificamos una norma específica para data centers. No es una afirmación de inexistencia absoluta.
+  fecha_corte: 2026-11-16
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  nota: Revisión documental publicada en el artículo; no es una fuente oficial ni prueba de inexistencia absoluta.
+- id: reg-004
+  seccion: Regulación
+  claim: La Ley 7547/2025 establece el nuevo régimen de maquila.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: BACN
+  url: https://www.bacn.gov.py/leyes-paraguayas/12853/ley-n-75472025-del-regimen-de-maquila
+  localizador: artículo 1
+  extracto: Ley N° 7547/2025 - Del Régimen de Maquila
+  fecha_corte: 2025-09-08
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
+  nota: Reemplaza a la Ley 1064/97.
+- id: mig-001
+  seccion: Migración y residencia
+  claim: La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero; la residencia permanente la concede Migraciones al amparo del artículo 46 de la Ley 6984/2022.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MIC / BACN
+  url: https://www.mic.gov.py/wp-content/uploads/2026/04/Res.-N-0283.2026_Constancia-de-Inversionista.pdf
+  localizador: Resolución 0283/2026
+  extracto: Resolución N° 0283/2026 - Constancia de Inversionista Extranjero
+  fecha_corte: 2026-04-30
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/
+  nota: La CIE no crea la residencia; la habilita al amparo de la Ley 6984/2022.
+- id: uen-001
+  seccion: Ueno y datos personales
+  claim: El BCP dispuso la resolución de ueno bank el 2-nov-2026 por una insuficiencia de solvencia por debajo del 50% del mínimo; la app y los servicios se suspendieron el 3-nov-2026.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: Poder Judicial / BCP
+  url: https://www.pj.gov.py/notas/30918-corte-suprema-de-justicia-socializa-comunicacion-de-la-superintendencia-de-bancos-sobre-ueno-bank-sa
+  localizador: comunicación de la Superintendencia de Bancos
+  extracto: Corte Suprema de Justicia socializa comunicación de la Superintendencia de Bancos sobre ueno bank S.A.
+  fecha_corte: 2026-11-05
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+  nota: La resolución del BCP es del 2-nov; la suspensión se comunicó el 3-nov.
+- id: uen-002
+  seccion: Ueno y datos personales
+  claim: El FGD garantiza hasta 75 salarios mínimos por depositante y por entidad.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: Poder Judicial / BCP
+  url: https://www.pj.gov.py/notas/30918-corte-suprema-de-justicia-socializa-comunicacion-de-la-superintendencia-de-bancos-sobre-ueno-bank-sa
+  localizador: comunicación de la Superintendencia de Bancos
+  extracto: El FGD garantiza hasta 75 salarios mínimos por depositante y por entidad
+  fecha_corte: 2026-11-05
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+  nota: El anticipo efectivo fue de hasta 40 salarios mínimos.
+- id: uen-003
+  seccion: Ueno y datos personales
+  claim: 'El BCP pagó un anticipo de hasta 40 salarios mínimos a 1.812.348 personas: G. 3,99 billones, equivalentes a USD 644 millones según la conversión difundida por Última Hora.'
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: Última Hora
+  url: https://www.ultimahora.com/primera-semana-del-colapso-de-ueno-el-fgd-desembolso-usd-644-millones-a-1-8-millones-de-afectados
+  localizador: párrafo 1
+  extracto: el FGD desembolsó USD 644 millones a 1,8 millones de afectados
+  fecha_corte: 2026-11-11
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+  nota: El BCP confirma guaraníes; la equivalencia en dólares depende del tipo de cambio.
+- id: uen-004
+  seccion: Ueno y datos personales
+  claim: La Ley 2334/2003 no menciona datos personales; la Ley 7593/2025 recién rige el 27-nov-2027 y no tiene una regla específica para resoluciones bancarias.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: BACN
+  url: https://www.bacn.gov.py/leyes-paraguayas/2513/ley-n-2334
+  localizador: texto íntegro
+  extracto: Ley N° 2334/2003 - De garantía de depósitos y resolución de entidades de intermediación financiera
+  fecha_corte: 2026-11-16
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+  nota: La Ley 7593/2025 está en https://www.bacn.gov.py/leyes-paraguayas/12924/.
+- id: uen-005
+  seccion: Ueno y datos personales
+  claim: No encontramos información pública que confirme ni descarte la venta o transferencia de las bases de datos de Ueno.
+  tipo: negacion
+  estado: no_demostrable
+  evidencia: E
+  fuente: TEDIC
+  url: https://www.tedic.org/caso-ueno-biometria-datos-personales-y-la-deuda-del-estado-paraguayo/
+  localizador: sección "¿Se vendieron los datos?"
+  extracto: Hasta hoy no hay información pública que lo confirme ni lo descarte
+  fecha_corte: 2026-11-12
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+  nota: Ausencia de evidencia, no prueba de inexistencia.
+- id: cib-001
+  seccion: Ciberseguridad
+  claim: CERT-PY fue creado el 30 de noviembre de 2012 y depende del MITIC.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: CERT-PY
+  url: https://www.cert.gov.py/
+  localizador: página institucional / marco legal
+  extracto: CERT-PY, el centro nacional de respuesta a incidentes cibernéticos
+  fecha_corte: 2012-11-30
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/ciberseguridad-paraguay/
+  nota: Depende del MITIC.
+- id: cib-002
+  seccion: Ciberseguridad
+  claim: El Decreto 3900/2025 aprobó la Estrategia Nacional de Ciberseguridad 2025-2028.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MITIC
+  url: https://mitic.gov.py/enc2025-2028/
+  localizador: comunicado del 23-may-2025, párrafo 1
+  extracto: El Poder Ejecutivo, mediante el decreto N° 3900, oficializó la Estrategia Nacional de Ciberseguridad para el periodo 2025-2028
+  fecha_corte: 2025-05-23
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/ciberseguridad-paraguay/
+  nota: El decreto fue firmado el 22-may-2025 y oficializado el 23-may-2025.
+- id: tok-001
+  seccion: Tokenización agro y cripto
+  claim: Agrotoken tokenizó 230.000 toneladas de soja, maíz y trigo (dato histórico, 2024).
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: Tanssi
+  url: https://www.tanssi.network/post/collaboration-tanssi-agrotoken
+  localizador: párrafo sobre Agrotoken
+  extracto: tokenized US$70 million in cereals, the equivalent of 230,000 tons of soybeans, corn, and wheat
+  fecha_corte: 2024-09-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
+  nota: Cifra histórica autodeclarada; la empresa reporta hoy más de 1M de toneladas.
+- id: tok-002
+  seccion: Tokenización agro y cripto
+  claim: Los exploits en activos tokenizados sumaron USD 17,9M (2023), USD 6M (2024) y USD 14,6M (primer semestre 2025).
+  tipo: hecho
+  estado: confirmado
+  evidencia: C
+  fuente: CertiK
+  url: https://www.certik.com/certik-report/intel3d/2025-skynet-rwa-security-report
+  localizador: Key Takeaways, párrafo 2
+  extracto: Direct losses from RWA-specific exploits reached approximately $14.6 million in H1 2025, following $6 million in 2024 and $17.9 million in 2023
+  fecha_corte: 2025-08-21
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
+  nota: Informe sectorial de una empresa de seguridad; no es registro gubernamental.
 - id: tok-003
   seccion: Tokenización agro y cripto
-  claim: "El colapso de UST/LUNA destruyó alrededor de USD 40.000 millones de capitalización de mercado en una semana."
+  claim: El colapso de UST/LUNA destruyó alrededor de USD 40.000 millones de capitalización de mercado en una semana.
   tipo: hecho
   estado: confirmado
   evidencia: C
   fuente: Glassnode / Forbes
   url: https://research.glassnode.com/the-week-onchain-week-20-2022/
   localizador: párrafo 2
-  extracto: "over the course of just a few days, two top 10 digital assets by market cap (LUNA and UST) erased nearly $40 Billion in investor value"
+  extracto: over the course of just a few days, two top 10 digital assets by market cap (LUNA and UST) erased nearly $40 Billion in investor value
   fecha_corte: 2022-05-16
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
-  nota: "Mide capitalización destruida, no pérdidas efectivas de inversores."
+  nota: Mide capitalización destruida, no pérdidas efectivas de inversores.
+- id: cor-001
+  seccion: Correcciones
+  claim: Paraguay es el 6.º exportador mundial de soja.
+  tipo: hecho
+  estado: incorrecto
+  evidencia: A
+  fuente: USDA FAS
+  url: https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8
+  localizador: Table 07, columna Exports, 2025/26
+  extracto: Paraguay exports 8,200 thousand metric tons, behind Brazil, United States and Argentina
+  fecha_corte: 2026-04-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
+  nota: Corregido a 4.º exportador; 6.º es como productor.
+- id: cor-002
+  seccion: Correcciones
+  claim: La demanda eléctrica crece 12% anual.
+  tipo: hecho
+  estado: incorrecto
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=14877
+  localizador: comunicado del 14-ene-2026, párrafo 1
+  extracto: La demanda de energía eléctrica en Paraguay registró en el año 2025 un crecimiento del 12,5 %
+  fecha_corte: 2025-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+  nota: El piso oficial reciente es 12,5%, no 12%.
+- id: cor-003
+  seccion: Correcciones
+  claim: El Anexo C de Itaipú vence el 1 de enero de 2027.
+  tipo: hecho
+  estado: incorrecto
+  evidencia: A
+  fuente: Itamaraty
+  url: https://concordia.itamaraty.gov.br/ApiConcordia/Acordo/integra-acordo-html/12813
+  localizador: Entendimiento Brasil-Paraguay, 16-abr-2024
+  extracto: A próxima tarifa de Itaipu será de US$ 19,28/kW, a ser aplicada nos anos de 2024, 2025 e 2026
+  fecha_corte: 2024-04-16
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+  nota: Lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C.
