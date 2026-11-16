@@ -184,8 +184,8 @@ last_modified_at: 2026-11-16
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"HIVE Digital opera 300 MW en Paraguay y construye 100 MW adicionales de cómputo GPU."</span></div>
-  <span class="claim-source">Fuente: HIVE FY2026 Earnings · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"HIVE Digital opera 300 MW en Paraguay (minería ASIC) y desarrolla 100 MW de infraestructura HPC/AI (Tier III, 2027)."</span></div>
+  <span class="claim-source">Fuente: HIVE Digital Technologies, comunicado del 18-mar-2026: “300 MW... operational in Paraguay, with another 100 MW in development”. · <a href="https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-reaches-ai-cloud-milestone-in-paraguay-powers-columbia-university-llm-research-from-new-york-to-asuncion/">HIVE</a> · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -194,8 +194,8 @@ last_modified_at: 2026-11-16
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Los data centers ya consumen el 23% de la electricidad de Irlanda en 2025 (20% en 2023)."</span></div>
-  <span class="claim-source">Fuente: CRU Ireland — <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Los data centers consumieron el 23% de la electricidad metrada de Irlanda en 2025 (22% en 2024 y 21% en 2023)."</span></div>
+  <span class="claim-source">Fuente: CSO Ireland, “Data Centres Metered Electricity Consumption 2025” (7-jul-2026). · <a href="https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2025/keyfindings/">CSO</a> · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -362,7 +362,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Agrotoken tokenizó 230.000 toneladas de soja, maíz y trigo."</span></div>
-  <span class="claim-source">Fuente: prensaeconomica.com.ar, bichosdecampo.com (2022-2025). Falta documentación corporativa primaria o un registro verificable de emisión. · <a href="/articulos/2026/05/18/tokenizacion-del-agro-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: Tanssi (9-jul-2024), que cita la cifra histórica de Agrotoken; la empresa reporta hoy más de 1M de toneladas en su plataforma. Falta un registro verificable de emisión. · <a href="https://www.tanssi.network/post/collaboration-tanssi-agrotoken">Tanssi</a> · <a href="/articulos/2026/05/18/tokenizacion-del-agro-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">

@@ -1,4 +1,4 @@
-# Piloto de migración: 7 claims.
+# Piloto de migración: 10 claims.
 # La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
 # No migrar el resto hasta subir de evidencia los claims internos.
 
@@ -106,3 +106,48 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
   nota: "Corrección publicada en la sección Correcciones."
+
+- id: ene-006
+  seccion: Energía y data centers
+  claim: "HIVE Digital opera 300 MW en Paraguay (minería ASIC) y desarrolla 100 MW de infraestructura HPC/AI (Tier III, 2027)."
+  tipo: hecho
+  estado: confirmado
+  evidencia: B
+  fuente: HIVE Digital Technologies
+  url: https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-reaches-ai-cloud-milestone-in-paraguay-powers-columbia-university-llm-research-from-new-york-to-asuncion/
+  localizador: comunicado del 18-mar-2026, declaración de Frank Holmes
+  extracto: "HIVE has 300 MW of renewable hydroelectric power operational in Paraguay, with another 100 MW in development."
+  fecha_corte: 2026-03-18
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  nota: "300 MW son minería ASIC; los 100 MW son infraestructura HPC/AI, no capacidad GPU equivalente."
+
+- id: ene-008
+  seccion: Energía y data centers
+  claim: "Los data centers consumieron el 23% de la electricidad metrada de Irlanda en 2025 (22% en 2024 y 21% en 2023)."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: CSO Ireland
+  url: https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2025/keyfindings/
+  localizador: Key Findings, Table 1
+  extracto: "The percentage share of total metered electricity consumption used by data centres rose to 23% in 2025"
+  fecha_corte: 2026-07-07
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  nota: "Corregido: 2023 fue 21%, no 20%."
+
+- id: tok-001
+  seccion: Tokenización agro y cripto
+  claim: "Agrotoken tokenizó 230.000 toneladas de soja, maíz y trigo (dato histórico, 2024)."
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: Tanssi
+  url: https://www.tanssi.network/post/collaboration-tanssi-agrotoken
+  localizador: párrafo sobre Agrotoken
+  extracto: "tokenized US$70 million in cereals, the equivalent of 230,000 tons of soybeans, corn, and wheat"
+  fecha_corte: 2024-09-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
+  nota: "Cifra histórica autodeclarada; la empresa reporta hoy más de 1M de toneladas."
