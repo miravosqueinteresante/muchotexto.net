@@ -159,8 +159,8 @@ last_modified_at: 2026-11-16
 <h2 class="claims-section-title">Energía y data centers</h2>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay tiene la matriz eléctrica 99,998% renovable en 2024 (Itaipú 86%, Yacyretá 11%, Acaray 3%)."</span></div>
-  <span class="claim-source">Fuente: Wikipedia (Electricity sector in Paraguay), ANDE · <a href="/articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La matriz eléctrica paraguaya es casi totalmente renovable: en 2025, Itaipú aportó 87,6%, Yacyretá 10,5% y Acaray 1,9% del consumo nacional."</span></div>
+  <span class="claim-source">Fuente: ANDE (14-ene-2026), distribución del consumo de 29.419 GWh. · <a href="https://www.ande.gov.py/interna.php?id=14877">ANDE</a> · <a href="/articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -175,7 +175,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El consumo nacional de electricidad fue de 29,4 TWh en 2025 (29.419 GWh)."</span></div>
-  <span class="claim-source">Fuente: ANDE (14-ene-2026) · <a href="/dashboard-energetico/">Dashboard</a></span>
+  <span class="claim-source">Fuente: ANDE (14-ene-2026): “el consumo total llegó a 29.419 GWh”. · <a href="https://www.ande.gov.py/interna.php?id=14877">ANDE</a> · <a href="/dashboard-energetico/">Dashboard</a></span>
 </div>
 
 <div class="claim">
@@ -267,7 +267,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El índice de capital humano de Paraguay es 0,528 (el más bajo entre pares regionales)."</span></div>
-  <span class="claim-source">Fuente: Banco Mundial 2020 (Uruguay ~0,60, Chile ~0,65, Costa Rica ~0,63) · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
+  <span class="claim-source">Fuente: Banco Mundial, Human Capital Index 2020 (Uruguay ~0,60, Chile ~0,65, Costa Rica ~0,63). · <a href="https://api.worldbank.org/v2/country/PRY/indicator/HD.HCI.OVRL?format=json">Banco Mundial</a> · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -353,7 +353,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El Decreto 3900/2025 aprobó la Estrategia Nacional de Ciberseguridad 2025-2028."</span></div>
-  <span class="claim-source">Fuente: artículo sobre ciberseguridad — <a href="/articulos/2026/07/17/ciberseguridad-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: MITIC, “Poder Ejecutivo oficializa la Estrategia Nacional de Ciberseguridad 2025-2028” (23-may-2025). · <a href="https://mitic.gov.py/enc2025-2028/">MITIC</a> · <a href="/articulos/2026/07/17/ciberseguridad-paraguay/">Artículo</a></span>
 </div>
 </section>
 

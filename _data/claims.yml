@@ -1,4 +1,4 @@
-# Piloto de migración: 14 claims.
+# Piloto de migración: 18 claims.
 # La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
 # No migrar el resto hasta subir de evidencia los claims internos.
 
@@ -211,3 +211,63 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
   nota: "El Decreto 6034/2026 reglamenta las figuras de autogenerador, cogenerador, generador y exportador."
+
+- id: ene-001
+  seccion: Energía y data centers
+  claim: "La matriz eléctrica paraguaya es casi totalmente renovable: en 2025, Itaipú aportó 87,6%, Yacyretá 10,5% y Acaray 1,9% del consumo nacional."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=14877
+  localizador: comunicado del 14-ene-2026, párrafos 2-3
+  extracto: "Itaipú Binacional: 25.768 GWh (87,6 %). Yacyretá: 3.081 GWh (10,5 %). Central Hidroeléctrica Acaray: 570 GWh (1,9 %)"
+  fecha_corte: 2025-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
+  nota: "Cambia la composición de 2024 por la distribución oficial de 2025."
+
+- id: ene-004
+  seccion: Energía y data centers
+  claim: "El consumo nacional de electricidad fue de 29,4 TWh en 2025 (29.419 GWh)."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=14877
+  localizador: comunicado del 14-ene-2026, párrafo 2
+  extracto: "el consumo total llegó a 29.419 GWh"
+  fecha_corte: 2025-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+  nota: "El BAGP 2025 de ANDE reporta 29.418.538 MWh, compatible con el redondeo."
+
+- id: cib-002
+  seccion: Ciberseguridad
+  claim: "El Decreto 3900/2025 aprobó la Estrategia Nacional de Ciberseguridad 2025-2028."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MITIC
+  url: https://mitic.gov.py/enc2025-2028/
+  localizador: comunicado del 23-may-2025, párrafo 1
+  extracto: "El Poder Ejecutivo, mediante el decreto N° 3900, oficializó la Estrategia Nacional de Ciberseguridad para el periodo 2025-2028"
+  fecha_corte: 2025-05-23
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/ciberseguridad-paraguay/
+  nota: "El decreto fue firmado el 22-may-2025 y oficializado el 23-may-2025."
+
+- id: dem-005
+  seccion: Demografía y economía
+  claim: "El índice de capital humano de Paraguay es 0,528 (el más bajo entre pares regionales)."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: Banco Mundial
+  url: https://api.worldbank.org/v2/country/PRY/indicator/HD.HCI.OVRL?format=json
+  localizador: serie HD.HCI.OVRL, Paraguay, 2020
+  extracto: "Paraguay - Human capital index (HCI) (scale 0-1): 0.528"
+  fecha_corte: 2020-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: "El informe HCI 2020 redondea a 0,53; la serie descargable conserva 0,528."
