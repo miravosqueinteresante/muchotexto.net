@@ -3,6 +3,7 @@
 bcp.gov.py
 mre.gov.py
 imf.org
+forbes.com
 dni.gov
 restofworld.org
 sciencedirect.com

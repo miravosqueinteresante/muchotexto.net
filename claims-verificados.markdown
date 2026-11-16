@@ -165,7 +165,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-partial">PARTIALLY</span><span class="claim-text">"Paraguay tiene la tarifa industrial más barata de Sudamérica."</span></div>
-  <span class="claim-source">Es la más baja entre 13 países según CIER 2025 (residencial USD 46/MWh, industrial USD 35/MWh), pero "la más barata" sin comparar Argentina y Bolivia es impreciso. · <a href="/calculadora-energetica/">Calculadora</a></span>
+  <span class="claim-source">Es la más baja entre 13 países según CIER 2025 (residencial USD 46/MWh, industrial USD 35/MWh), pero "la más barata" sin comparar Argentina y Bolivia es impreciso. · <a href="https://www.abc.com.py/economia/2025/05/02/paraguay-exhibe-la-tarifa-electrica-mas-baja-de-la-region-pero/">ABC Color</a> · <a href="/calculadora-energetica/">Calculadora</a></span>
 </div>
 
 <div class="claim">
@@ -189,8 +189,8 @@ last_modified_at: 2026-11-16
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Un data center emplea 20-50 personas por cada 100 MW (referencia de industria)."</span></div>
-  <span class="claim-source">Fuente: referencia de industria (sin cifra oficial por empresa) · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Un data center de 100 MW emplea entre 20 y 50 personas en operación permanente (referencia de industria)."</span></div>
+  <span class="claim-source">Fuente: benchmarks de industria; no hay cifra oficial por empresa en Paraguay. · <a href="https://www.latitudemedia.com/news/data-center-jobs-arent-at-servers-theyre-in-energy/">Latitude Media</a> · <a href="https://aprs.scot/wp-content/uploads/2026/03/Data-Centres-and-Employment-5.pdf">APRS</a> · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -257,7 +257,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-partial">PARTIALLY</span><span class="claim-text">"El bono demográfico se cierra alrededor de 2045."</span></div>
-  <span class="claim-source">No es fecha oficial: INE habla de ~2070 y la UIP de 2030-2040. Se presenta como estimación divergente. · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
+  <span class="claim-source">No es fecha oficial: INE 2024 mantiene la ventana abierta al 2050; Rodríguez (2016) estima un cierre cercano a 2045; la UIP maneja 2030-2040. · <a href="https://www.ine.gov.py/Publicaciones/Biblioteca/documento/277/Ventana%20Demogr%C3%A1fica%201205.pdf">INE</a> · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -371,8 +371,8 @@ last_modified_at: 2026-11-16
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"El colapso de UST/LUNA destruyó entre USD 40.000 y 45.000 millones de capitalización de mercado en una semana."</span></div>
-  <span class="claim-source">Fuente: Bloomberg, Wikipedia. La magnitud es correcta, pero mide capitalización destruida, no pérdidas efectivas de inversores.</span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El colapso de UST/LUNA destruyó alrededor de USD 40.000 millones de capitalización de mercado en una semana."</span></div>
+  <span class="claim-source">Fuente: Glassnode (16-may-2022) y Forbes (18-may-2022). Mide capitalización destruida, no pérdidas efectivas de inversores. · <a href="https://research.glassnode.com/the-week-onchain-week-20-2022/">Glassnode</a> · <a href="https://www.forbes.com/sites/stevenehrlich/2022/05/18/galaxy-ceo-mike-novogratz-preaches-humility-expresses-confidence-in-cryptos-future-despite-lunaterrausd-crash/">Forbes</a></span>
 </div>
 </section>
 

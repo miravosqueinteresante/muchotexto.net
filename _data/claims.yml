@@ -1,4 +1,4 @@
-# Piloto de migración: 25 claims.
+# Piloto de migración: 29 claims.
 # La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
 # No migrar el resto hasta subir de evidencia los claims internos.
 
@@ -376,3 +376,63 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
   nota: "El piso oficial reciente es 12,5%, no 12%."
+
+- id: ene-002
+  seccion: Energía y data centers
+  claim: "Paraguay tiene la tarifa industrial más barata de Sudamérica."
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: CIER 2025 / ABC Color
+  url: https://www.abc.com.py/economia/2025/05/02/paraguay-exhibe-la-tarifa-electrica-mas-baja-de-la-region-pero/
+  localizador: párrafo 1
+  extracto: "la tarifa industrial (US$ 35 por MWh)... la menor de la muestra"
+  fecha_corte: 2025-05-02
+  ultima_verificacion: 2026-11-16
+  articulo: /calculadora-energetica/
+  nota: "Es la más baja entre 13 países CIER 2025; no se comparó Argentina ni Bolivia."
+
+- id: ene-007
+  seccion: Energía y data centers
+  claim: "Un data center de 100 MW emplea entre 20 y 50 personas en operación permanente (referencia de industria)."
+  tipo: hecho
+  estado: parcial
+  evidencia: C
+  fuente: Latitude Media / APRS
+  url: https://www.latitudemedia.com/news/data-center-jobs-arent-at-servers-theyre-in-energy/
+  localizador: párrafo 2
+  extracto: "Industry benchmarks put permanent staffing at roughly 25 to 40 operators per 100 megawatts."
+  fecha_corte: 2026-05-06
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  nota: "Benchmark de industria, no cifra oficial por empresa en Paraguay."
+
+- id: dem-003
+  seccion: Demografía y economía
+  claim: "El bono demográfico se cierra alrededor de 2045."
+  tipo: proyeccion
+  estado: parcial
+  evidencia: A
+  fuente: INE Paraguay / Rodríguez (2016)
+  url: https://www.ine.gov.py/Publicaciones/Biblioteca/documento/277/Ventana%20Demogr%C3%A1fica%201205.pdf
+  localizador: conclusiones
+  extracto: "la ventana demográfica... no se cerraría por lo menos en los próximos 25 años"
+  fecha_corte: 2024-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: "INE 2024 mantiene la ventana abierta al 2050; Rodríguez (2016) estima ~2045; UIP 2030-2040."
+
+- id: tok-003
+  seccion: Tokenización agro y cripto
+  claim: "El colapso de UST/LUNA destruyó alrededor de USD 40.000 millones de capitalización de mercado en una semana."
+  tipo: hecho
+  estado: confirmado
+  evidencia: C
+  fuente: Glassnode / Forbes
+  url: https://research.glassnode.com/the-week-onchain-week-20-2022/
+  localizador: párrafo 2
+  extracto: "over the course of just a few days, two top 10 digital assets by market cap (LUNA and UST) erased nearly $40 Billion in investor value"
+  fecha_corte: 2022-05-16
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
+  nota: "Mide capitalización destruida, no pérdidas efectivas de inversores."
