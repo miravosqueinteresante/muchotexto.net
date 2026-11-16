@@ -312,3 +312,15 @@
       ITTI. Las tres empresas pertenecen al mismo grupo. No hay cifra pública de cuántas
       personas entregaron su rostro.
     url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+- tema: Compras públicas
+  casos:
+  - titulo: El ramal de Nueva Asunción
+    texto: En el barrio piloto de Luque, ANDE midió pérdidas mensuales cercanas al
+      88% en el ramal y 175 medidores para unas 380-420 casas. El objetivo del reto
+      es bajar a 5% o menos en la zona intervenida. No es la media nacional.
+    url: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  - titulo: AquaStop y las 128.167 conexiones
+    texto: ESSAP concentró su reto en una zona piloto de 128.167 conexiones, donde
+      34,9% no tenía micromedición y 12,5% estaba cortada o desconectada. El foco
+      son las pérdidas comerciales, no las físicas de la red.
+    url: /articulos/2026/11/16/compra-publica-innovacion-paraguay/

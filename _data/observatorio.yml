@@ -1279,3 +1279,21 @@
     claims: No se identificó un claim en la página pública en este backfill.
     entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.
+2026-11-16-compra-publica-innovacion-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: n/a
+    radar: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    directorio: No se agregó una entrada nueva al directorio en esta edición.
+    radar: La Ley 7021/2022 ya estaba en el radar; no se agregó una norma nueva.
+    claims: No se incorporaron claims nuevos a la página pública en esta edición.
+    entidades: No se creó ni actualizó una página de entidad en esta edición.
+    grafo: El grafo no indexa URLs de artículos.

@@ -673,3 +673,27 @@
     definicion: Garantía constitucional que permite acceder a los datos que una persona
       tiene en registros públicos o privados de carácter público, conocer su uso y
       pedir rectificación o destrucción si son erróneos o afectan derechos.
+- tema: Compras públicas
+  terminos:
+  - termino: Compra Pública de Innovación (CPI)
+    definicion: Procedimiento especial de contratación para comprar investigación,
+      desarrollo o soluciones que el mercado no ofrece o no tiene suficientemente
+      desarrolladas. No es un fondo de innovación ni una compra garantizada.
+  - termino: Desarrollo de Solución Innovadora (DS)
+    definicion: Modalidad de CPI que financia investigación, desarrollo y prueba por
+      etapas. No incluye la adquisición de la solución resultante.
+  - termino: Compra de Solución Innovadora (CS)
+    definicion: Modalidad de CPI que compra una solución ya validada en una DS previa.
+      Solo pueden ofertar los adjudicatarios de esa DS.
+  - termino: Consulta Preliminar de Mercado (CPM)
+    definicion: Consulta abierta a proveedores y especialistas antes de convocar una
+      CPI. Sirve para levantar el estado del arte y decidir si existe mérito para
+      innovar o si conviene una compra convencional.
+  - termino: Registro de Proveedores del Estado (RPE)
+    definicion: Padrón obligatorio de la DNCP para participar en contrataciones públicas.
+      La inscripción es electrónica y la verificación documental tarda hasta cuatro
+      días hábiles.
+  - termino: Nivel de madurez tecnológica (TRL)
+    definicion: Escala que mide qué tan cerca está una tecnología de estar lista para
+      el mercado. La CPI usa el TRL para decidir desde qué etapa técnica arranca cada
+      solución.

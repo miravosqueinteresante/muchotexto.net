@@ -105,6 +105,10 @@
     fecha: Noviembre 2022
     texto: OpenAI lanza **ChatGPT**. Comienza el superciclo global de inversión en
       IA.
+  - orden: '2022-12-09'
+    fecha: 9 Diciembre 2022
+    texto: Se promulga la Ley 7021/2022 de Suministro y Contrataciones Públicas, que
+      habilita procedimientos especiales pero no menciona la CPI. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
   - orden: '2023'
     fecha: '2023'
     texto: '[CONATEL aprueba Starlink](/articulos/2026/07/16/starlink-paraguay-conectividad/)
@@ -150,6 +154,10 @@
     texto: El BCP aprueba el Reglamento del estándar de generación de QR para pagos
       electrónicos y fija el 30 de junio de 2025 como plazo para adoptar el código
       PY-QR. [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
+  - orden: '2024-08-01'
+    fecha: 1 Agosto 2024
+    texto: El Decreto 2264/24 reglamenta la Ley 7021/2022 y ordena la Cadena Integrada
+      de Suministro Público. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
   - orden: '2024-09-19'
     fecha: 19-20 Septiembre 2024
     texto: 'Peña firma el Decreto N.º 2553/24, aprobando la [Política Energética Nacional
@@ -212,6 +220,10 @@
     fecha: Septiembre 2025
     texto: '[Ley 7547/2025](/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/):
       reforma la Ley de Maquila para incluir servicios digitales.'
+  - orden: '2025-09-12'
+    fecha: 12 Septiembre 2025
+    texto: ANDE publica la ficha de necesidad del reto Energía Segura para reducir
+      pérdidas no técnicas en baja tensión. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
   - orden: '2025-11-05'
     fecha: 5 Noviembre 2025
     texto: 'Paraguay sanciona su [primera ley integral de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
@@ -220,6 +232,10 @@
     fecha: 7 Noviembre 2025
     texto: '[Ley 7572/2025](/articulos/2026/07/10/fintech-paraguay-ecosistema/): reconoce
       instrumentos financieros en blockchain. Tokenización legal en Paraguay.'
+  - orden: '2025-11-27'
+    fecha: 27 Noviembre 2025
+    texto: Se cierran las consultas preliminares de mercado de ANDE y ESSAP; ambos
+      pilotos quedan en etapa precontractual. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
   - orden: 2025-12
     fecha: Diciembre 2025
     texto: '[Ley 7599](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/)
@@ -263,6 +279,10 @@
     fecha: 12 Marzo 2026
     texto: El BCP eleva el límite de transferencias instantáneas de G. 5 a G. 10 millones
       por operación. [Leer análisis](/articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/)
+  - orden: '2026-03-12'
+    fecha: 12 Marzo 2026
+    texto: El MEF firma la Resolución 203/2026, que incorpora la CPI como política
+      pública transversal. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
   - orden: '2026-03-18'
     fecha: 18 Marzo 2026
     texto: HIVE Digital lanza BUZZ AI Cloud en el data center Tier III de Tigo (Villa
@@ -466,6 +486,14 @@
     texto: Character.AI, uno de los mayores servicios de compañía con IA, inicia un
       proceso de capítulo 11 de la ley de quiebras de Estados Unidos para vender la
       empresa. [Leer análisis](/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
+  - orden: '2026-10-21'
+    fecha: 21 Octubre 2026
+    texto: El MEF firma la Resolución 518/2026, que caracteriza la CPI y fija procedimientos
+      y lineamientos. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
+  - orden: '2026-10-26'
+    fecha: 26 Octubre 2026
+    texto: Entra en vigor la Resolución DNCP 3.033/26, que reglamenta el procedimiento
+      especial de CPI. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
   - orden: '2026-11-02'
     fecha: 2 Noviembre 2026
     texto: El BCP dispone la resolución de ueno bank por insuficiencia de solvencia.
