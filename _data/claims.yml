@@ -1,0 +1,108 @@
+# Piloto de migración: 7 claims.
+# La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
+# No migrar el resto hasta subir de evidencia los claims internos.
+
+- id: ene-005
+  seccion: Energía y data centers
+  claim: "La demanda eléctrica creció 18,5% en 2024, 12,5% en 2025 y 17,9% acumulado a 8 meses de 2026."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=15615
+  localizador: comunicado de demanda, párrafo 1
+  extracto: "17,9% acumulado a 8 meses de 2026"
+  fecha_corte: 2026-08-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+  nota: "El 21% era un parcial del primer trimestre."
+
+- id: dem-001
+  seccion: Demografía y economía
+  claim: "Paraguay tiene 6.460.159 habitantes (2026), con edad mediana de 29,4 años."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: INE Paraguay
+  url: https://www.ine.gov.py/noticias/2946/paraguay-sigue-teniendo-la-mayor-cantidad-de-su-poblacion-en-edad-productiva
+  localizador: noticia 2946, párrafo 3
+  extracto: "La edad mediana es de 29,4 años"
+  fecha_corte: 2026-07-10
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: "Corregido de 'edad media' a 'edad mediana'."
+
+- id: tar-002
+  seccion: Tarifas ANDE
+  claim: "Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026."
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: ABC Color / Dashboard energético
+  url: /dashboard-energetico/
+  localizador: dashboard, nota GCIE
+  extracto: "Los decretos se derogan por presión sindical y técnica interna de ANDE."
+  fecha_corte: 2026-06-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
+  nota: "Falta el acto oficial que dejó sin efecto los decretos."
+
+- id: uen-003
+  seccion: Ueno y datos personales
+  claim: "El BCP pagó un anticipo de hasta 40 salarios mínimos a 1.812.348 personas: G. 3,99 billones, equivalentes a USD 644 millones según la conversión difundida por Última Hora."
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: Última Hora
+  url: https://www.ultimahora.com/primera-semana-del-colapso-de-ueno-el-fgd-desembolso-usd-644-millones-a-1-8-millones-de-afectados
+  localizador: párrafo 1
+  extracto: "el FGD desembolsó USD 644 millones a 1,8 millones de afectados"
+  fecha_corte: 2026-11-11
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+  nota: "El BCP confirma guaraníes; la equivalencia en dólares depende del tipo de cambio."
+
+- id: reg-003
+  seccion: Regulación
+  claim: "No identificamos una norma específica para data centers en la revisión de Ley 294/1993, Ley 7599/2025, Ley 7547/2025 y Ley 3001/2006."
+  tipo: negacion
+  estado: parcial
+  evidencia: E
+  fuente: Revisión propia
+  url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  localizador: sección regulatoria
+  extracto: "Paraguay no tiene una sola norma específica para data centers."
+  fecha_corte: 2026-08-04
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
+  nota: "Una ausencia no se prueba como hecho positivo; requiere revisión legal declarada."
+
+- id: uen-005
+  seccion: Ueno y datos personales
+  claim: "No encontramos información pública que confirme ni descarte la venta o transferencia de las bases de datos de Ueno."
+  tipo: negacion
+  estado: no_demostrable
+  evidencia: E
+  fuente: TEDIC
+  url: https://www.tedic.org/caso-ueno-biometria-datos-personales-y-la-deuda-del-estado-paraguayo/
+  localizador: sección "¿Se vendieron los datos?"
+  extracto: "Hasta hoy no hay información pública que lo confirme ni lo descarte"
+  fecha_corte: 2026-11-12
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+  nota: "Ausencia de evidencia, no prueba de inexistencia."
+
+- id: cor-003
+  seccion: Correcciones
+  claim: "El Anexo C de Itaipú vence el 1 de enero de 2027."
+  tipo: hecho
+  estado: incorrecto
+  evidencia: D
+  fuente: ANDE / artículo Itaipú
+  url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+  localizador: sección Anexo C
+  extracto: "Lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C."
+  fecha_corte: 2026-11-16
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
+  nota: "Corrección publicada en la sección Correcciones."
