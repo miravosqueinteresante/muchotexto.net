@@ -145,7 +145,7 @@ last_modified_at: 2026-11-16
 
 <p class="claims-intro">Publicamos el registro de verificación que sostiene nuestros artículos: qué afirmación confirmamos, cuál era falsa o imprecisa y contra qué fuente. No es un resumen de todo lo que escribimos, sino de los datos duros que corregimos y confirmamos. Es la transparencia editorial hecha producto.</p>
 
-<p class="claims-intro">40 registros revisados al 16-nov-2026: 37 claims y 3 correcciones. El estado indica la veracidad; Evidencia A-E indica la calidad de la fuente.</p>
+<p class="claims-intro">48 registros revisados al 16-nov-2026: 45 claims y 3 correcciones. El estado indica la veracidad; Evidencia A-E indica la calidad de la fuente.</p>
 
 <div class="claims-legend">
   <span class="claims-legend-item"><span class="claim-v v-true">TRUE</span> confirmado con fuente</span>
@@ -163,7 +163,7 @@ last_modified_at: 2026-11-16
   <span class="claims-legend-item"><strong>E</strong> revisión propia / sin fuente externa</span>
 </div>
 
-{% assign secciones = "Energía y data centers|Tarifas ANDE|Itaipú|Demografía y economía|Regulación|Migración y residencia|Ueno y datos personales|Ciberseguridad|Tokenización agro y cripto|Correcciones" | split: "|" %}
+{% assign secciones = "Energía y data centers|Tarifas ANDE|Itaipú|Demografía y economía|Regulación|Migración y residencia|Mercosur e identidad digital|Ueno y datos personales|Ciberseguridad|Tokenización agro y cripto|Correcciones" | split: "|" %}
 {% for seccion in secciones %}
 <section class="claims-section">
 <h2 class="claims-section-title">{{ seccion }}</h2>

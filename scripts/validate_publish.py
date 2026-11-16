@@ -414,6 +414,18 @@ def check_ecosistema(new_posts: list[str], staged_all: list[str]) -> tuple[list[
 
         pillar_path = os.path.join(REPO_DIR, "ia-en-paraguay.markdown")
         pillar_content = read_file(pillar_path)
+        pilar = extract_frontmatter_field(content, "pilar", "").strip()
+        if pilar:
+            # Solo comparar contra el "Proximamente" del pilar del articulo.
+            # El chequeo global marca falsos positivos con palabras genericas
+            # como "Paraguay" que aparecen en los Proximamente de otros pilares.
+            section = re.search(
+                rf'<!-- PILAR:{re.escape(pilar)}:INICIO -->(.*?)(?=\n## |\Z)',
+                pillar_content,
+                re.DOTALL,
+            )
+            if section:
+                pillar_content = section.group(1)
         pm_sections = re.findall(r'\*\*Pr.{1,2}ximamente:\*\*\s*(.+?)(?:\n\n|\n\*|\Z)', pillar_content, re.DOTALL)
 
         title_words = set(re.findall(r'\w+', title.lower()))

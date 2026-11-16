@@ -673,3 +673,20 @@
     definicion: Garantía constitucional que permite acceder a los datos que una persona
       tiene en registros públicos o privados de carácter público, conocer su uso y
       pedir rectificación o destrucción si son erróneos o afectan derechos.
+- tema: Identidad y datos
+  terminos:
+  - termino: Identidad digital
+    definicion: Conjunto de credenciales y atributos que permiten confirmar que una
+      persona es quien dice ser en un entorno digital. No es lo mismo que una firma
+      digital calificada.
+  - termino: Autenticación electrónica
+    definicion: Proceso por el cual un sistema verifica la identidad de una persona
+      o de otro sistema antes de permitirle acceder a un servicio.
+  - termino: Interoperabilidad
+    definicion: Capacidad de dos o más sistemas para intercambiar información y usarla
+      de forma coordinada, sin duplicar bases ni exigir al usuario que empiece de
+      cero.
+  - termino: Ratificación
+    definicion: Acto por el cual el Congreso de un país aprueba un tratado o acuerdo
+      internacional para que adquiera fuerza obligatoria dentro de su ordenamiento
+      jurídico.
