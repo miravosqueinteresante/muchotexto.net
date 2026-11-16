@@ -91,7 +91,6 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 - **[Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial]({% post_url 2026-08-01-modelo-itaipu-gobernanza-ia %})** — Paraguay propone para Yguazú Digital el mismo modelo de entidad binacional 50/50 de Itaipú. Las lecciones de 50 años y lo que cambia con la IA.
 - **[Paraguay firma la residencia permanente más directa de la región]({% post_url 2026-09-25-paraguay-investor-pass-residencia-inversores %})** — La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero: residencia permanente directa desde USD 70.000 (vía productiva) o USD 200.000 (financiera e inmobiliaria) en unos tres meses. No es la más barata, pero sí la más directa de la región.
 - **[Qué datos tuyos tenía Ueno y qué pasa con ellos ahora]({% post_url 2026-11-13-que-datos-tuyos-tenia-ueno %})** — Ueno acumuló identidad, datos financieros y, en muchos casos, biometría de casi 3 millones de cuentas declaradas. El FGD garantiza hasta 75 salarios mínimos por depositante, no los datos. Qué se sabe y qué podés hacer.
-- **[La identidad digital del Mercosur que Paraguay aún no puede usar]({% post_url 2026-11-16-identidad-digital-mercosur-paraguay %})** — El Mercosur aprobó el 30-jun-2026 el reconocimiento mutuo de medios de identificación y autenticación electrónica. Paraguay todavía debe ratificarlo y el plazo del 25 de diciembre pertenece a otra norma regional.
 
 <!-- PILAR:2:FIN -->
 

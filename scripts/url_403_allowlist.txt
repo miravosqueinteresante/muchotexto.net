@@ -4,9 +4,6 @@ bcp.gov.py
 mre.gov.py
 imf.org
 forbes.com
-mercosur.int
-documentos.mercosur.int
-normas.mercosur.int
 dni.gov
 restofworld.org
 sciencedirect.com

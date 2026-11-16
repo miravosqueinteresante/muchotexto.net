@@ -324,18 +324,10 @@
     texto: La ANDE deroga los cuatro decretos paralelos tras presión sindical (SITRANDE)
       y cuestionamientos internos sobre la opacidad de contratos con empresas de criptominería
       y data centers.
-  - orden: '2026-06-18'
-    fecha: 18 Junio 2026
-    texto: La tercera reunión del Grupo Agenda Digital del Mercosur, en Asunción,
-      consolida el texto del acuerdo de identidad digital. [Leer análisis](/articulos/2026/11/16/identidad-digital-mercosur-paraguay/)
   - orden: '2026-06-29'
     fecha: 29 Junio 2026
     texto: El BCP pone en producción el QR Hub, tras la fase de producción controlada
       de junio. [Leer análisis](/articulos/2026/10/20/qr-hub-paraguay/)
-  - orden: '2026-06-30'
-    fecha: 30 Junio 2026
-    texto: El Consejo del Mercado Común aprueba la Decisión CMC 4/2026 sobre reconocimiento
-      mutuo de identificación y autenticación electrónica. [Leer análisis](/articulos/2026/11/16/identidad-digital-mercosur-paraguay/)
   - orden: 2026-07
     fecha: Julio 2026
     texto: La [Identidad Electrónica supera 1.5M de usuarios](/articulos/2026/07/16/gobierno-digital-paraguay/)
@@ -388,10 +380,6 @@
     fecha: 27 Julio 2026
     texto: Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos
       de extensión tarifaria. [Miguel Báez asume como nuevo titular](/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/).
-  - orden: '2026-07-27'
-    fecha: 27 Julio 2026
-    texto: HOY y ADN Digital reportan que el proyecto de ley que ratifica el acuerdo
-      ya fue presentado al Congreso paraguayo. [Leer análisis](/articulos/2026/11/16/identidad-digital-mercosur-paraguay/)
   - orden: '2026-07-30'
     fecha: 30 Julio 2026
     texto: 'Capaser y Zabe Corporate presentan la Encuesta Regional 2026 ''Generación
@@ -491,10 +479,6 @@
     texto: El nuevo presidente del BCP, Jorge Schreiner, dice en el Senado que el
       negocio de los dueños de Ueno era capturar datos biométricos de millones de
       personas. [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
-  - orden: '2026-12-25'
-    fecha: 25 Diciembre 2026
-    texto: Vence el plazo de incorporación de la Resolución GMC 17/2026 sobre comercio
-      electrónico, no del acuerdo de identidad digital. [Leer análisis](/articulos/2026/11/16/identidad-digital-mercosur-paraguay/)
 - seccion: Lo que viene
   items:
   - orden: '2026'
