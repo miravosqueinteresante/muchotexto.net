@@ -11,6 +11,7 @@ import os
 import sys
 import tempfile
 import unittest
+from pathlib import Path
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -134,16 +135,24 @@ class TestMotor(unittest.TestCase):
             with tempfile.TemporaryDirectory() as t1, tempfile.TemporaryDirectory() as t2:
                 bd.build_surface(name, yaml, out_dir=t1)
                 bd.build_surface(name, yaml, out_dir=t2)
-                a = open(os.path.join(t1, bd.SURFACES[name]["out"]), encoding="utf-8").read()
-                b = open(os.path.join(t2, bd.SURFACES[name]["out"]), encoding="utf-8").read()
+                a = Path(t1, bd.SURFACES[name]["out"]).read_text(encoding="utf-8")
+                b = Path(t2, bd.SURFACES[name]["out"]).read_text(encoding="utf-8")
                 self.assertEqual(a, b, f"{name} no es determinista")
+
+    def test_no_toca_pagina_real_con_out_dir_temporal(self):
+        import yaml
+        page = Path(bd.REPO, bd.SURFACES["directorio"]["page"])
+        before = page.read_text(encoding="utf-8")
+        with tempfile.TemporaryDirectory() as tmp:
+            bd.build_surface("directorio", yaml, out_dir=tmp)
+        self.assertEqual(before, page.read_text(encoding="utf-8"))
 
     def test_esquema(self):
         import yaml
         for name, cfg in bd.SURFACES.items():
             with tempfile.TemporaryDirectory() as tmp:
                 bd.build_surface(name, yaml, out_dir=tmp)
-                data = yaml.safe_load(open(os.path.join(tmp, cfg["out"]), encoding="utf-8"))
+                data = yaml.safe_load(Path(tmp, cfg["out"]).read_text(encoding="utf-8"))
                 self.assertIsInstance(data, list)
                 self.assertTrue(data, f"{name}: salida vacia")
                 for grupo in data:

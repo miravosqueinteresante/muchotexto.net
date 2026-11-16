@@ -217,7 +217,9 @@ def touch_page_date(page: str, date_str: str) -> bool:
     return True
 
 
-def build_surface(name, yaml, out_dir=DATA):
+def build_surface(name, yaml, out_dir=DATA, touch_page=None):
+    if touch_page is None:
+        touch_page = os.path.abspath(out_dir) == os.path.abspath(DATA)
     cfg = SURFACES[name]
     seed = yaml.safe_load(read(os.path.join(DATA, cfg["seed"]))) or []
     sec = cfg["section_key"]
@@ -271,7 +273,7 @@ def build_surface(name, yaml, out_dir=DATA):
         with open(out_path, "wb") as f:
             f.write(new_bytes)
         page = cfg.get("page")
-        if page:
+        if page and touch_page:
             today = datetime.now(timezone(timedelta(hours=-3))).strftime("%Y-%m-%d")
             touch_page_date(page, today)
     n = sum(len(g[ikey]) for g in out)
