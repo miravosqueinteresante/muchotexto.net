@@ -261,8 +261,8 @@ last_modified_at: 2026-11-16
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026)."</span></div>
-  <span class="claim-source">Fuente: BCP. Es una estimación nominal; falta un documento primario que fije la cifra exacta. USD 5.900 era el dato 2022-2023, ya corregido. · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026)."</span></div>
+  <span class="claim-source">Fuente: IMF World Economic Outlook (oct-2026), proyección de PIB per cápita nominal: USD 9.370. · <a href="https://www.imf.org/en/Publications/WEO/weo-database/2026/October">IMF WEO</a> · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -277,7 +277,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Paraguay es el 4.º exportador mundial de soja (no el 6.º; 6.º es como productor)."</span></div>
-  <span class="claim-source">Fuente: MercoPress 2024, USDA 2026, WITS (Banco Mundial). Falta una tabla oficial de clasificación mundial de exportaciones que fije el puesto exacto. · <a href="/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: USDA FAS, tabla 07 de oferta y distribución mundial de soja (abr-2026): Paraguay exporta 8,2 MMT, detrás de Brasil, EE.UU. y Argentina. Un informe de 2024 lo ubicaba tercero. · <a href="https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8">USDA</a> · <a href="/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/">Artículo</a></span>
 </div>
 </section>
 
@@ -367,7 +367,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Los exploits en activos tokenizados sumaron USD 17,9M (2023), USD 6M (2024) y USD 14,6M (primer semestre 2025)."</span></div>
-  <span class="claim-source">Fuente: CertiK 2025 Skynet RWA Security Report</span>
+  <span class="claim-source">Fuente: CertiK, 2025 Skynet RWA Security Report (21-ago-2025). · <a href="https://www.certik.com/certik-report/intel3d/2025-skynet-rwa-security-report">CertiK</a></span>
 </div>
 
 <div class="claim">
@@ -381,17 +381,17 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-false">FALSE</span><span class="claim-text">"Paraguay es el 6.º exportador mundial de soja."</span></div>
-  <span class="claim-source">Corregido: es el 4.º exportador mundial; 6.º es como productor. · <a href="/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/">Artículo</a></span>
+  <span class="claim-source">Corregido: es el 4.º exportador mundial en la campaña 2025/26; 6.º es como productor. · <a href="https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8">USDA</a> · <a href="/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-false">FALSE</span><span class="claim-text">"La demanda eléctrica crece 12% anual."</span></div>
-  <span class="claim-source">Corregido: el piso oficial reciente es 12,5% (2025); en 2024 fue 18,5% y a 8 meses de 2026, 17,9%. · <a href="/dashboard-energetico/">Dashboard</a></span>
+  <span class="claim-source">Corregido: el piso oficial reciente es 12,5% (2025); en 2024 fue 18,5% y a 8 meses de 2026, 17,9%. · <a href="https://www.ande.gov.py/interna.php?id=14877">ANDE</a> · <a href="/dashboard-energetico/">Dashboard</a></span>
 </div>
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-false">FALSE</span><span class="claim-text">"El Anexo C de Itaipú vence el 1 de enero de 2027."</span></div>
-  <span class="claim-source">Corregido: lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C. Las negociaciones del Anexo C siguen abiertas. · <a href="/articulos/2026/07/17/itaipu-2027-energia-paraguay/">Artículo</a></span>
+  <span class="claim-source">Corregido: lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C. Las negociaciones del Anexo C siguen abiertas. · <a href="https://concordia.itamaraty.gov.br/ApiConcordia/Acordo/integra-acordo-html/12813">Itamaraty</a> · <a href="/articulos/2026/07/17/itaipu-2027-energia-paraguay/">Artículo</a></span>
 </div>
 </section>
 

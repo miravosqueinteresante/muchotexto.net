@@ -1,4 +1,4 @@
-# Piloto de migración: 20 claims.
+# Piloto de migración: 25 claims.
 # La página pública /claims-verificados/ todavía se renderiza desde claims-verificados.markdown.
 # No migrar el resto hasta subir de evidencia los claims internos.
 
@@ -97,15 +97,15 @@
   claim: "El Anexo C de Itaipú vence el 1 de enero de 2027."
   tipo: hecho
   estado: incorrecto
-  evidencia: D
-  fuente: ANDE / artículo Itaipú
-  url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-  localizador: sección Anexo C
-  extracto: "Lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C."
-  fecha_corte: 2026-11-16
+  evidencia: A
+  fuente: Itamaraty
+  url: https://concordia.itamaraty.gov.br/ApiConcordia/Acordo/integra-acordo-html/12813
+  localizador: Entendimiento Brasil-Paraguay, 16-abr-2024
+  extracto: "A próxima tarifa de Itaipu será de US$ 19,28/kW, a ser aplicada nos anos de 2024, 2025 e 2026"
+  fecha_corte: 2024-04-16
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-  nota: "Corrección publicada en la sección Correcciones."
+  nota: "Lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C."
 
 - id: ene-006
   seccion: Energía y data centers
@@ -301,3 +301,78 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
   nota: "La reanudación fue anunciada el 17-nov-2025 y confirmada para la primera quincena de diciembre."
+
+- id: dem-004
+  seccion: Demografía y economía
+  claim: "El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026)."
+  tipo: proyeccion
+  estado: confirmado
+  evidencia: A
+  fuente: IMF World Economic Outlook
+  url: https://www.imf.org/en/Publications/WEO/weo-database/2026/October
+  localizador: WEO octubre 2026, NGDPDPC, Paraguay
+  extracto: "Paraguay: USD 9.370 de PIB per cápita nominal proyectado para 2026"
+  fecha_corte: 2026-10-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
+  nota: "9.370 redondea a 9.400; es proyección, no dato observado."
+
+- id: dem-007
+  seccion: Demografía y economía
+  claim: "Paraguay es el 4.º exportador mundial de soja (no el 6.º; 6.º es como productor)."
+  tipo: hecho
+  estado: parcial
+  evidencia: A
+  fuente: USDA FAS
+  url: https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8
+  localizador: Table 07, columna Exports, 2025/26
+  extracto: "Paraguay exports 8,200 thousand metric tons, behind Brazil, United States and Argentina"
+  fecha_corte: 2026-04-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
+  nota: "Un informe USDA de 2024 lo ubicaba tercero; la tabla 2025/26 lo ubica cuarto."
+
+- id: tok-002
+  seccion: Tokenización agro y cripto
+  claim: "Los exploits en activos tokenizados sumaron USD 17,9M (2023), USD 6M (2024) y USD 14,6M (primer semestre 2025)."
+  tipo: hecho
+  estado: confirmado
+  evidencia: C
+  fuente: CertiK
+  url: https://www.certik.com/certik-report/intel3d/2025-skynet-rwa-security-report
+  localizador: Key Takeaways, párrafo 2
+  extracto: "Direct losses from RWA-specific exploits reached approximately $14.6 million in H1 2025, following $6 million in 2024 and $17.9 million in 2023"
+  fecha_corte: 2025-08-21
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
+  nota: "Informe sectorial de una empresa de seguridad; no es registro gubernamental."
+
+- id: cor-001
+  seccion: Correcciones
+  claim: "Paraguay es el 6.º exportador mundial de soja."
+  tipo: hecho
+  estado: incorrecto
+  evidencia: A
+  fuente: USDA FAS
+  url: https://apps.fas.usda.gov/psdonline/reporthandler.ashx?fileName=Table+07%3A+Soybeans%3A+World+Supply+and+Distribution&format=html&reportId=706&templateId=8
+  localizador: Table 07, columna Exports, 2025/26
+  extracto: "Paraguay exports 8,200 thousand metric tons, behind Brazil, United States and Argentina"
+  fecha_corte: 2026-04-09
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/
+  nota: "Corregido a 4.º exportador; 6.º es como productor."
+
+- id: cor-002
+  seccion: Correcciones
+  claim: "La demanda eléctrica crece 12% anual."
+  tipo: hecho
+  estado: incorrecto
+  evidencia: A
+  fuente: ANDE
+  url: https://www.ande.gov.py/interna.php?id=14877
+  localizador: comunicado del 14-ene-2026, párrafo 1
+  extracto: "La demanda de energía eléctrica en Paraguay registró en el año 2025 un crecimiento del 12,5 %"
+  fecha_corte: 2025-12-31
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+  nota: "El piso oficial reciente es 12,5%, no 12%."
