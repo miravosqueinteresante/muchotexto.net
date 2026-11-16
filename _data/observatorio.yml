@@ -1279,3 +1279,19 @@
     claims: No se identificó un claim en la página pública en este backfill.
     entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.
+2026-11-16-compra-publica-innovacion-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: n/a
+    radar: updated
+    claims: updated
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    entidades: El artículo no aparece en ninguna página de entidad.
+    grafo: El grafo no indexa URLs de artículos.

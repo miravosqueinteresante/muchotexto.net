@@ -673,3 +673,19 @@
     definicion: Garantía constitucional que permite acceder a los datos que una persona
       tiene en registros públicos o privados de carácter público, conocer su uso y
       pedir rectificación o destrucción si son erróneos o afectan derechos.
+- tema: Compras públicas
+  terminos:
+  - termino: Compra Pública de Innovación
+    definicion: Procedimiento por el cual el Estado financia investigación, desarrollo
+      o validación de una solución que no existe o no está suficientemente desarrollada
+      en el mercado, y luego puede comprarla.
+  - termino: Licitación DS
+    definicion: Licitación para Desarrollo de Solución Innovadora. Paga I+D por etapas
+      y no incluye la compra de la solución resultante.
+  - termino: Licitación CS
+    definicion: Licitación para Compra de Solución Innovadora. Compra una solución
+      ya validada en una DS anterior; solo pueden ofertar los adjudicatarios de esa
+      DS.
+  - termino: Registro de Proveedores del Estado
+    definicion: Padrón obligatorio para participar en contrataciones públicas. Sin
+      inscripción, la empresa o institución no puede presentar una oferta.

@@ -561,3 +561,123 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
   nota: Lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C.
+
+- id: cpi-001
+  seccion: Compras públicas e innovación
+  claim: "La Resolución DNCP 3.033/26 reglamenta la Compra Pública de Innovación y entró en vigencia el 26 de octubre de 2026."
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: La Nación / Partners
+  url: https://www.lanacion.com.py/negocios/2026/10/28/dncp-reglamenta-compras-innovadoras-para-atender-desafios-del-estado/
+  localizador: párrafo 1
+  extracto: "La normativa, establecida mediante la Resolución DNCP n.º 3.033, entró en vigencia el 26 de octubre"
+  fecha_corte: 2026-10-28
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "No se localizó URL directa del PDF oficial; se usa cobertura de prensa y reproducción de Partners."
+
+- id: cpi-002
+  seccion: Compras públicas e innovación
+  claim: "La CPI tiene dos modalidades: Licitación para Desarrollo de Solución Innovadora (DS) y Licitación para Compra de Solución Innovadora (CS)."
+  tipo: hecho
+  estado: confirmado
+  evidencia: C
+  fuente: Partners / DNCP
+  url: https://partners.com/es/paraguay/news/paraguay-public-innovation-procurement-dncp-resolution-3033
+  localizador: sección "Dos licitaciones sucesivas"
+  extracto: "Licitación para Desarrollo de Solución Innovadora (código DS)... Licitación para Compra de Solución Innovadora (código CS)"
+  fecha_corte: 2026-10-27
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "DS desarrolla; CS compra la solución validada."
+
+- id: cpi-003
+  seccion: Compras públicas e innovación
+  claim: "Las licitaciones DS deben publicarse al menos 30 días antes de la apertura; las CS, al menos 15. La garantía de oferta es 5% y la de fiel cumplimiento, 5-10%."
+  tipo: hecho
+  estado: confirmado
+  evidencia: C
+  fuente: Partners / DNCP
+  url: https://partners.com/es/paraguay/news/paraguay-public-innovation-procurement-dncp-resolution-3033
+  localizador: sección "Las reglas para los oferentes"
+  extracto: "30 días corridos... 30 días... 15... garantía de mantenimiento de oferta del 5%... fiel cumplimiento de entre el 5% y el 10%"
+  fecha_corte: 2026-10-27
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "Plazos y garantías del procedimiento especial."
+
+- id: cpi-004
+  seccion: Compras públicas e innovación
+  claim: "La DS no compra la solución resultante; la CS solo admite ofertas de los adjudicatarios de la DS anterior."
+  tipo: hecho
+  estado: confirmado
+  evidencia: C
+  fuente: Partners / DNCP
+  url: https://partners.com/es/paraguay/news/paraguay-public-innovation-procurement-dncp-resolution-3033
+  localizador: sección "Dos licitaciones sucesivas"
+  extracto: "Nunca cubre la compra de la solución resultante... Solo pueden ofertar los adjudicatarios de esa licitación."
+  fecha_corte: 2026-10-27
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "La DS no garantiza la compra final."
+
+- id: cpi-005
+  seccion: Compras públicas e innovación
+  claim: "La CPI se lanzó en 2023 con apoyo del BID y tiene dos pilotos: ANDE y ESSAP."
+  tipo: hecho
+  estado: confirmado
+  evidencia: B
+  fuente: La Nación
+  url: https://www.lanacion.com.py/negocios/2026/10/28/dncp-reglamenta-compras-innovadoras-para-atender-desafios-del-estado/
+  localizador: párrafo final
+  extracto: "La implementación de la CPI en Paraguay comenzó en 2023 con apoyo del Banco Interamericano de Desarrollo (BID). Hasta ahora... dos proyectos piloto impulsados por la ANDE y la ESSAP."
+  fecha_corte: 2026-10-28
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "Pilotos, no convocatorias masivas."
+
+- id: cpi-006
+  seccion: Compras públicas e innovación
+  claim: "El Reto ANDE busca soluciones para pérdidas no técnicas de energía en baja tensión, estimadas en torno al 14% de la energía distribuida."
+  tipo: hecho
+  estado: parcial
+  evidencia: D
+  fuente: Partners / Reto ANDE
+  url: https://partners.com/es/paraguay/news/paraguay-public-innovation-procurement-dncp-resolution-3033
+  localizador: párrafo sobre pilotos
+  extracto: "pérdidas no técnicas de energía en su red de baja tensión, en promedio el 14% de la energía que distribuye según la página del Reto ANDE"
+  fecha_corte: 2026-10-27
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "Dato atribuido al Reto ANDE; no es una serie nacional."
+
+- id: cpi-007
+  seccion: Compras públicas e innovación
+  claim: "ESSAP presentó AquaStop para reducir pérdidas comerciales y realizó una visita técnica con cuatro proveedores interesados."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ESSAP
+  url: https://www.essap.com.py/essap-busca-soluciones-innovadoras-para-reducir-perdidas-comerciales-de-agua-a-traves-de-la-modalidad-cpi/
+  localizador: párrafo 2
+  extracto: "se llevó a cabo una visita técnica con la participación de cuatro proveedores interesados"
+  fecha_corte: 2026-11-16
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "AquaStop busca reducir agua no contabilizada."
+
+- id: cpi-008
+  seccion: Compras públicas e innovación
+  claim: "El MEF incorporó la CPI como política pública transversal mediante la Resolución 203/2026."
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: MEF
+  url: https://www.mef.gov.py/sites/default/files/2026-03/RESOLUCION_MEF_N_203_2026.pdf
+  localizador: Artículo 1
+  extracto: "Establecer las Compras Públicas de Innovación (CPI) como una herramienta de política pública transversal del Estado"
+  fecha_corte: 2026-03-12
+  ultima_verificacion: 2026-11-16
+  articulo: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+  nota: "Implementación gradual y progresiva (Art. 8)."

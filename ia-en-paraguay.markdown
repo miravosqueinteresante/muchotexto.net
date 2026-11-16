@@ -133,12 +133,9 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 - **[5G en Paraguay, espectro repartido y red encendida solo en Claro]({% post_url 2026-10-15-5g-segunda-subasta-paraguay %})** — Conatel adjudicó en la segunda licitación 100 MHz a Tigo (2.300 MHz) y 100 MHz a Personal (3.700 MHz) sin puja. Solo Claro tiene 5G operativo (desde diciembre de 2025); Tigo y Personal deben encender su primera radiobase hacia febrero de 2027.
 - **[Paraguay proyecta conectar sus pagos instantáneos con Pix de Brasil]({% post_url 2026-10-16-sip-pagos-instantaneos-transfronterizos-pix %})** — El SIP paraguayo multiplicó 33 veces sus operaciones en cinco años y el BCP anunció su plan para expandirlo a comercios, impuestos e integración con Pix. La conexión transfronteriza sigue en etapa inicial: el reto es regulatorio, no tecnológico.
 - **[QR Hub, la apuesta del BCP para digitalizar comercios]({% post_url 2026-10-20-qr-hub-paraguay %})** — El QR Hub del BCP generó más de 700.000 códigos en menos de dos meses y el 68,1% de los pagos electrónicos de Bancard ya se hace con QR. La brecha está en los microcomercios: solo una fracción de las 950.000 mipymes cobra digitalmente.
+- **[El Estado ya puede comprar I+D que el mercado no ofrece]({% post_url 2026-11-16-compra-publica-innovacion-paraguay %})** — Desde el 26-oct-2026, el Estado paraguayo puede financiar I+D y comprar soluciones que el mercado no ofrece. La norma ya rige; el desafío es que las instituciones aprendan a usarla.
 
 <!-- PILAR:4:FIN -->
-
-**Próximamente:**
-
-- El Estado paraguayo ya puede comprar I+D que no existe en el mercado
 
 ## Cultura, filosofía y futuro
 
