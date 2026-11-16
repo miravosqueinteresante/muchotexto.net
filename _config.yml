@@ -78,6 +78,7 @@ exclude:
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
+  - requirements.txt
   - node_modules/
   - vendor/bundle/
   - vendor/cache/
