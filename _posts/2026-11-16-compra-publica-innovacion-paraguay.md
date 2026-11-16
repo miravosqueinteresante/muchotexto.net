@@ -7,6 +7,7 @@ last_modified_at: 2026-11-16
 permalink: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
 categories: [articulos]
 pilar: 4
+entidades: [ande]
 resumen: "Desde el 26-oct-2026 la DNCP puede convocar compras de I+D. La DS paga por etapas y no garantiza la compra final; el cuello de botella es la capacidad institucional."
 tags: [compras-publicas, innovacion, dncp, i+d, paraguay]
 description: "La DNCP reglamentó la Compra Pública de Innovación: contratos de I+D por etapas, sin compra garantizada. Qué exige y cómo prepararse."

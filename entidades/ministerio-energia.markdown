@@ -4,7 +4,7 @@ title: "Ministerio de Energía | IA en Paraguay"
 description: >
   Perfil de Ministerio de Energía en el Observatorio de IA en Paraguay: artículos, leyes, datos verificables y fuentes primarias locales.
 permalink: /entidades/ministerio-energia/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 entity_id: ministerio-energia
 entity_name: Ministerio de Energía
 entity_name_full: Ministerio de Energía, Minería e Hidrocarburos
@@ -42,12 +42,9 @@ obs_directorio:
     url: /articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/
     context: "Proyecto de ley presentado el 13 de agosto de 2026 en la Mesa Nacional del Sector Eléctrico: 27 artículos, 3 viceministerios, absorbe al VMME (MOPC) y la Dirección de Combustibles (MIC), rectoría..."
 obs_regulacion:
-  - label: "Política Energética Nacional al 2050 (Decreto 2553/2024)"
-    url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
-    context: "Aprobada el 19-20 de septiembre de 2024. 95 objetivos, 385 metas con plazos concretos. Incluía la creación de un Ministerio de Energía, Hidrocarburos y Minería (plazo original: 2024, aún sin crear a..."
-  - label: "Ministerio de Energía, Minería e Hidrocarburos y Ente Regulador de Energía (proyectos de ley, 2026)"
+  - label: "Ministerio de Energía, Minería e Hidrocarburos"
     url: /articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/
-    context: "El 13 de agosto de 2026 el Ejecutivo presentó dos proyectos de ley —la creación del ministerio y del ente regulador— en la primera reunión de la Mesa Nacional del Sector Eléctrico. El estudio Ceare..."
+    context: "Proyecto de ley presentado por el Ejecutivo el 13 de agosto de 2026. Absorbe al VMME y a la Dirección de Combustibles."
 obs_casos-de-uso:
   - label: "Planificación energética institucional"
     url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/

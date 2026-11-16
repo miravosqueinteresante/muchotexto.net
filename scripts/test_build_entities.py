@@ -12,6 +12,10 @@ import build_entities as be  # noqa: E402
 
 
 class TestManualArticles(unittest.TestCase):
+    def test_carga_regulacion_sin_keyerror(self):
+        entries = be.load_observatory_entries()
+        self.assertIn("regulacion", entries)
+
     def test_agrega_y_no_duplica(self):
         related = [{"title": "Existente", "url": "/a/", "date": "", "context": "", "score": 1}]
         entity = {"manual_articles": [

@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
@@ -20,12 +20,12 @@ related_articles:
   - title: "La energía nuclear que Paraguay firmó con EE.UU. no es un reactor"
     url: /articulos/2026/09/23/energia-nuclear-paraguay-eeuu/
     context: "El MOU nuclear con EE.UU. no es un Acuerdo 123 ni una promesa de reactor; ANDE y MOPC participaron del recorrido institucional previo."
+  - title: "El Estado ya puede comprar I+D, pero no es una venta segura"
+    url: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+    context: "ANDE es uno de los dos pilotos de Compra Pública de Innovación; el reto Energía Segura busca reducir pérdidas eléctricas no técnicas en baja tensión en una zona crítica de Luque."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
-  - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
-    url: /articulos/2026/07/08/red-electrica-paraguay-ia/
-    context: "Paraguay genera mucha más electricidad de la que consume. Esa frase se repite en cada artículo sobre energía en el país, en cada discurso oficial, en cada promesa de inversión. Es cierta. Pero omite un detalle fundamental; tener energía disponible..."
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
     context: "Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. De los aproximadamente 22 países que reconocían a Taipei en 2016, quedan doce. De esos doce, Paraguay es el más grande y —desde que Honduras."
@@ -38,7 +38,7 @@ related_articles:
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
-  - title: "Paraguay 2040: un país construido con datos"
+  - title: "Paraguay 2040, un país construido con datos"
     url: /articulos/2026/08/05/paraguay-2040-futuro-datos/
     context: "En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 943,8 megavatios de potencia reservada y contratada para data centers y criptominería, y una proyección de ingresos para ANDE de 350 millones de..."
   - title: "El ente regulador de energía que Paraguay diseña con concurso público"
@@ -53,6 +53,9 @@ related_articles:
   - title: "La salida de Atome no es una pérdida de USD 665 millones"
     url: /articulos/2026/10/02/atome-ande-salida-paraguay/
     context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la terminación de su contrato de energía con la ANDE y mantiene su intención de llevar a..."
+  - title: "Inteligencia de alquiler, la IA como pareja, terapeuta y jefe"
+    url: /articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/
+    context: "Ese gesto mínimo es la puerta de entrada a un fenómeno más grande. La IA ya no se usa solo para buscar datos o escribir correos; se usa para decidir con quién estar, cómo responder y cómo trabajar. El problema no es que sea fría. Es que está..."
 entity_laws:
   - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
@@ -78,29 +81,23 @@ obs_cronologia:
   - label: "Enero 2025"
     url: /cronologia/
     context: "HIVE adquiere Yguazú 200 MW de Bitfarms por USD 56M. Asume USD 19M en contratos con ANDE. Construcción de fase 1 completada en junio 2025."
+  - label: "12 Septiembre 2025"
+    url: /cronologia/
+    context: "ANDE publica la ficha de necesidad del reto Energía Segura para reducir pérdidas no técnicas en baja tensión. Leer análisis"
+  - label: "27 Noviembre 2025"
+    url: /cronologia/
+    context: "Se cierran las consultas preliminares de mercado de ANDE y ESSAP; ambos pilotos quedan en etapa precontractual. Leer análisis"
   - label: "9 Junio 2026"
     url: /cronologia/
     context: "La ANDE deroga los cuatro decretos paralelos tras presión sindical (SITRANDE) y cuestionamientos internos sobre la opacidad de contratos con empresas de criptominería y data centers."
-  - label: "2 Julio 2026"
-    url: /cronologia/
-    context: "El Expediente Judicial Electrónico se expande a Juzgados Penales de Saltos del Guairá. ~42% de Juzgados de Paz ya opera con el sistema."
-  - label: "27 Julio 2026"
-    url: /cronologia/
-    context: "Renuncia Félix Sosa, presidente de ANDE, por negarse a aplicar decretos de extensión tarifaria. Miguel Báez asume como nuevo titular."
 obs_directorio:
   - label: "Programa GCIE de la ANDE"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "Grandes Consumidores de Energía Intensiva: 943,8 MW reservados para 41 empresas (criptomineras y data centers), tarifa Resolución 49238/2024, 13,5% de la potencia de Itaipú. La transparencia de los..."
 obs_regulacion:
-  - label: "Ley 7599/2025 y Decreto 6034/2026"
-    url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
-    context: "Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas..."
-  - label: "Resolución ANDE 47191/2022 y Decreto 7824/2022 — Marco GCIE"
+  - label: "Resolución ANDE 49238/2024 — Pliego de Tarifas Nº 21"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-    context: "Crea el Programa de Grandes Consumidores de Energía Intensiva, regulado por la Resolución 49238/2024. Tarifa base 30 US$/MWh para Muy Alta Tensión (220 kV); rango real: 37-60 US$/MWh por nivel de..."
-  - label: "Ley 5282/2014 — Transparencia Pública"
-    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-    context: "Obliga a los organismos del Estado a responder solicitudes de información en 15 días hábiles (Art. 16). Los contratos GCIE no han sido publicados pese a haber transcurrido años desde su firma...."
+    context: "Regula las tarifas del Programa de Grandes Consumidores de Energía Intensiva (GCIE): 943,8 MW reservados, tarifa de referencia de 30 US$/MWh, vigente hasta diciembre de 2027. Base legal del programa:..."
 obs_casos-de-uso:
   - label: "Agricultura de precisión"
     url: /articulos/2026/07/13/agro-40-paraguay-ia/
@@ -128,4 +125,4 @@ obs_casos-de-uso:
     context: "El documento de la consultora PSR (septiembre 2025, para el MIC/PNUD) diagnostica funciones mezcladas entre VMME y ANDE y propone separarlas en ministerio, regulador y empresa. Coincide con Uruguay,..."
 ---
 
-13 articulos en el observatorio mencionan a ANDE.
+14 articulos en el observatorio mencionan a ANDE.

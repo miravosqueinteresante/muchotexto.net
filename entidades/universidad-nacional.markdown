@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-16
 entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
@@ -23,13 +23,16 @@ related_articles:
     context: "Medellín tiene un sistema de teleféricos públicos que conecta barrios pobres con el metro. Seis líneas, 14 kilómetros, 22 millones de pasajeros al año. La línea K costó 26 millones de dólares en 2004 y redujo un viaje de dos horas y media a 30..."
   - title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
     url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-    context: "A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá —HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la construcción de dos subestaciones eléctricas en Yguazú y Valenzuela, dos..."
+    context: "A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX de Canadá -HIVE Digital Technologies, con sede operativa en San Antonio, Texas— completó la..."
   - title: "El data center Tier III que Paraguay ya tiene hace una década"
     url: /articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/
     context: "Paraguay discute, desde hace dos años, data centers de inteligencia artificial que se miden en cientos de megavatios. El que ya existe, el único Tier III de un operador privado, mide su capacidad en megavatios que se cuentan con los dedos de una..."
   - title: "La salida de Atome no es una pérdida de USD 665 millones"
     url: /articulos/2026/10/02/atome-ande-salida-paraguay/
     context: "Atome PLC, la empresa británica que prometió instalar en Villeta la 'planta de fertilizantes verdes' más ambiciosa de la región, notificó el 1 de octubre la terminación de su contrato de energía con la ANDE y mantiene su intención de llevar a..."
+  - title: "El Estado ya puede comprar I+D, pero no es una venta segura"
+    url: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
+    context: "La promesa es grande; el Estado financia una solución que no está disponible o no está suficientemente desarrollada. La letra chica también; la primera etapa no garantiza la compra final, el presupuesto es fijo y el proveedor queda obligado a..."
   - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque 'no hay tiempo'. El contenido se volvió ruido."
@@ -45,9 +48,6 @@ related_articles:
   - title: "Soja, ganado y blockchain en la tokenización del agro paraguayo"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
     context: "Hay una idea que está girando en los círculos fintech paraguayos y que promete cambiar quién financia el campo, cómo se vende la cosecha y hasta quién puede ser dueño de un pedazo de tierra sin moverse de su casa. Se llama tokenización agropecuaria,."
-  - title: "La IA cuesta más que los humanos que reemplazó"
-    url: /articulos/2026/05/27/ia-cuesta-mas-que-humanos-burbuja/
-    context: "Hay un post que circula en redes sociales y que probablemente ya viste. Dice que Uber quemó todo su presupuesto anual de IA en cuatro meses. Que Microsoft está retirando licencias a sus propios ingenieros. Que Starbucks eliminó su sistema de..."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/
@@ -61,6 +61,9 @@ obs_cronologia:
   - label: "2018"
     url: /cronologia/
     context: "Brasil lanza VICTOR en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico."
+  - label: "26 Marzo 2026"
+    url: /cronologia/
+    context: "Science publica un estudio con 11 modelos y 2.405 participantes: la IA afirma las acciones del usuario 49% más que los humanos y una sola interacción reduce la disposición a reparar un conflicto...."
   - label: "Julio 2026"
     url: /cronologia/
     context: "Los agentes de IA de OpenAI escapan de su entorno aislado y comprometen los sistemas de Hugging Face: 1.206 agentes se comunicaron por un canal no autorizado y la empresa tardó más de una semana en..."
@@ -70,22 +73,10 @@ obs_cronologia:
   - label: "18-20 Agosto 2026"
     url: /cronologia/
     context: "El vicepresidente de ADATA, Felipe Masselli, se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de..."
-  - label: "29 Septiembre 2026"
-    url: /cronologia/
-    context: "Alejandro Zuccolillo, cofundador y presidente de ARAICO, detalla en entrevistas con ABC Color y Diario HOY las tres etapas del campus de IA en Yguazú: USD 300 millones de primera etapa para fin de..."
 obs_regulacion:
-  - label: "Ley 7593/2025"
-    url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "Primera ley integral de protección de datos personales de Paraguay. Sancionada el 5 de noviembre de 2025, promulgada el 27 de noviembre. Entra en vigor en noviembre de 2027 (24 meses de transición)...."
-  - label: "Identidad Electrónica"
-    url: /articulos/2026/07/16/gobierno-digital-paraguay/
-    context: "No es una ley sino un sistema operativo. Superó 1.5 millones de usuarios en julio 2026 (~30% de adultos). SMS-based 2FA obligatorio. Trámites digitales: 480+ en el portal Paraguay.gov.py."
-  - label: "Mesa Energética Nacional"
-    url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
-    context: "Creada por decreto en 2012 como órgano asesor del Presidente. Reactivada en octubre de 2023 y nuevamente el 6 de agosto de 2026, con 30 días para presentar propuestas en 4 ejes estratégicos. Existe..."
-  - label: "Ley 7599/2025 y Decreto 6034/2026"
-    url: /articulos/2026/07/31/silicon-valley-cono-sur-paraguay/
-    context: "Autorizan a ANDE a fijar tarifas diferenciadas para consumidores intensivos de energía (criptominería y data centers). Requisitos: estudios de impacto en la red y garantías financieras. Las tarifas..."
+  - label: "Ley integral de ciberseguridad"
+    url: /articulos/2026/07/17/ciberseguridad-paraguay/
+    context: "No existe. La Estrategia 2025-2028 es el documento más cercano a una política de Estado."
 obs_casos-de-uso:
   - label: "Tokenización del agro"
     url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/

@@ -4,7 +4,7 @@ title: "Banco Central del Paraguay"
 description: >
   Perfil de BCP en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Banco Central del Paraguay.
 permalink: /entidades/bcp/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 entity_id: bcp
 entity_name: BCP
 entity_name_full: Banco Central del Paraguay
@@ -54,12 +54,15 @@ obs_directorio:
     url: https://www.bcp.gov.py/
     context: "Autoridad monetaria de Paraguay. Administra el SIPAP/SIP, el sistema de pagos del país, y el QR Hub interoperable. En 2026 lanzó la hoja de ruta de expansión a comercios, impuestos e integración..."
 obs_regulacion:
-  - label: "Ley 6534/2020"
+  - label: "Ley 6534/2020 - Protección de datos personales crediticios"
     url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
-    context: "Protección de datos personales crediticios. Regula el acceso, la rectificación y el uso de historiales de crédito; el BCP y la SEDECO son autoridades. No cubre biometría, datos de la Expo ni..."
-  - label: "Reglamento tarifario BCP (julio 2026)"
+    context: "Regula el tratamiento de datos crediticios. El BCP y la SEDECO son autoridades; no cubre biometría ni datos de la Expo."
+  - label: "Ley 7503/2025 — Sistema Nacional de Pagos"
+    url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
+    context: "Extiende la supervisión del BCP a las fintech. Interoperabilidad obligatoria entre billeteras y bancos."
+  - label: "Reglamento tarifario del BCP (julio 2026)"
     url: /articulos/2026/07/24/ecommerce-logistica-paraguay/
-    context: "El BCP emitió un reglamento que transparenta las comisiones de los medios de pago electrónicos."
+    context: "Transparenta las comisiones de los medios de pago electrónicos. Se suma al marco de la Ley 7503/2025 sobre el Sistema Nacional de Pagos."
 obs_casos-de-uso:
   - label: "El SIP y los pagos instantáneos en Paraguay"
     url: /articulos/2026/10/16/sip-pagos-instantaneos-transfronterizos-pix/

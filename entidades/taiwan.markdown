@@ -4,7 +4,7 @@ title: "Taiwán (República de China)"
 description: >
   Perfil de Taiwán en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-16
 entity_id: taiwan
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
@@ -59,10 +59,6 @@ obs_directorio:
   - label: "Becas de Taiwán"
     url: https://www.icdf.org.tw/
     context: "Programa de becas ampliado en junio 2026 para formación tecnológica de paraguayos. Leer más."
-obs_regulacion:
-  - label: "MoU Yguazu Digital (2026)"
-    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
-    context: "Propone replicar el modelo binacional 50/50 con Taiwan. Fase I: 10 MW y USD 200-300M con ICDF. Introduce el concepto de Embajada de Datos Digitales. Documento no vinculante. Sin marco regulatorio..."
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/

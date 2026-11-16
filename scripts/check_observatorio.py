@@ -126,6 +126,14 @@ def check_post(path):
         elif status == "n/a":
             if not str(reasons.get(surface, "")).strip():
                 errors.append(f"Observatorio: '{surface}' es n/a pero falta el motivo")
+            declared = data.get("entidades") or []
+            if isinstance(declared, str):
+                declared = [declared]
+            if surface == "entidades" and declared:
+                errors.append(
+                    f"Observatorio: 'entidades' es n/a pero el artículo declara "
+                    f"{', '.join(str(e) for e in declared)}"
+                )
         else:
             errors.append(f"Observatorio: '{surface}' debe ser updated o n/a")
     return errors

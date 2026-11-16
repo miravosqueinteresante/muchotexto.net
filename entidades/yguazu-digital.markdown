@@ -4,7 +4,7 @@ title: "Proyecto Yguazú Digital"
 description: >
   Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Proyecto Yguazú Digital.
 permalink: /entidades/yguazu-digital/
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-16
 entity_id: yguazu-digital
 entity_name: Yguazú Digital
 entity_name_full: Proyecto Yguazú Digital
@@ -16,6 +16,8 @@ related_articles:
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
+  - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
+    url: /articulos/2026/07/08/red-electrica-paraguay-ia/
   - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
@@ -47,12 +49,9 @@ obs_directorio:
     url: /directorio/
     context: "Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. Leer análisis."
 obs_regulacion:
-  - label: "Tratado de Itaipu (1973)"
-    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
-    context: "Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo..."
-  - label: "MoU Yguazu Digital (2026)"
-    url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
-    context: "Propone replicar el modelo binacional 50/50 con Taiwan. Fase I: 10 MW y USD 200-300M con ICDF. Introduce el concepto de Embajada de Datos Digitales. Documento no vinculante. Sin marco regulatorio..."
+  - label: "Contenido local en data centers"
+    url: /articulos/2026/07/25/cadena-valor-data-center/
+    context: "El memorándum de Yguazú Digital no incluye compromisos de formación de técnicos paraguayos ni exigencias de contenido local. Paraguay captura solo el 15-20% del valor de los proyectos."
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
@@ -65,4 +64,4 @@ obs_casos-de-uso:
     context: "ARAICO proyecta un campus de data centers de IA de 1,3 GW en Yguazú con una inversión anunciada de hasta USD 12.000 millones en tres etapas; su primera fase sería de 6 MW para diciembre de 2026. Se..."
 ---
 
-8 articulos en el observatorio mencionan a Yguazú Digital.
+9 articulos en el observatorio mencionan a Yguazú Digital.

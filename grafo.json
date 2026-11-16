@@ -206,12 +206,6 @@
       "source": "ande",
       "target": "itaipu",
       "type": "articulo",
-      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
-    },
-    {
-      "source": "ande",
-      "target": "itaipu",
-      "type": "articulo",
       "label": "ANDE oculta 943 MW de contratos GCIE bajo llave"
     },
     {
@@ -231,12 +225,6 @@
       "target": "yacyreta",
       "type": "articulo",
       "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
-    },
-    {
-      "source": "ande",
-      "target": "yacyreta",
-      "type": "articulo",
-      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
     },
     {
       "source": "ande",
@@ -330,6 +318,12 @@
     },
     {
       "source": "ande",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "El Estado ya puede comprar I+D, pero no es una venta segura"
+    },
+    {
+      "source": "ande",
       "target": "ministerio-energia",
       "type": "articulo",
       "label": "El ente regulador de energía que Paraguay diseña con concurso público"
@@ -374,6 +368,12 @@
       "source": "itaipu",
       "target": "yguazu-digital",
       "type": "articulo",
+      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
+    },
+    {
+      "source": "itaipu",
+      "target": "yguazu-digital",
+      "type": "articulo",
       "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
@@ -393,6 +393,12 @@
       "target": "yguazu-digital",
       "type": "articulo",
       "label": "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
+    },
+    {
+      "source": "yacyreta",
+      "target": "yguazu-digital",
+      "type": "articulo",
+      "label": "Paraguay tiene energía para la IA pero no la red para transportarla"
     },
     {
       "source": "yguazu-digital",

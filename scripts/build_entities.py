@@ -223,7 +223,6 @@ def load_observatory_entries():
         with open(fpath, "r", encoding="utf-8") as f:
             content = f.read()
         body = content.split('---', 2)[-1] if content.startswith('---') else content
-        pat = patterns[page_name]
 
         if page_name == "glosario":
             # El glosario es derivado: se lee de _data/glosario.yml
@@ -298,6 +297,7 @@ def load_observatory_entries():
             continue
 
         else:
+            pat = patterns[page_name]
             for m in pat.finditer(body):
                 name = m.group(1).strip()
                 url = fix_url(m.group(2).strip())

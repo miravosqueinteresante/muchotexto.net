@@ -4,7 +4,7 @@ title: "KOGA Impact Lab"
 description: >
   Perfil de KOGA Impact Lab en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre KOGA Impact Lab.
 permalink: /entidades/koga/
-last_modified_at: 2026-10-19
+last_modified_at: 2026-11-16
 entity_id: koga
 entity_name: KOGA Impact Lab
 entity_name_full: KOGA Impact Lab

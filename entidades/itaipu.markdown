@@ -4,7 +4,7 @@ title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Itaipú Binacional, con fuentes primarias locales.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-16
 entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
@@ -69,18 +69,15 @@ obs_directorio:
     url: https://www.pti.org.py/
     context: "Opera la unica unidad experimental de hidrogeno verde del Paraguay (2 Nm3/h). Leer mas."
 obs_regulacion:
-  - label: "Tarifa de Itaipú 2024-2026"
+  - label: "Tarifa de Itaipú 2024-2026 (acuerdo tarifario)"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Acuerdo Peña-Lula: $19.28/kW-mes. Paraguay obtiene derecho a vender su excedente en el mercado libre brasileño."
+    context: "Acuerdo Peña-Lula: USD 19,28/kW-mes. Vence el 1 de enero de 2027."
   - label: "Anexo C del Tratado de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "Vence el 1 de enero de 2027. Negociaciones suspendidas entre abril y noviembre de 2025 por el escándalo ABIN, y reanudadas en noviembre de 2025 tras la entrega del informe confidencial brasileño. Sin..."
-  - label: "Tratado de Itaipu (1973)"
+    context: "Negociaciones suspendidas entre abril y noviembre de 2025 por el escándalo ABIN, reanudadas en noviembre. Sin nuevo acuerdo a agosto de 2026. Vence el 1 de enero de 2027."
+  - label: "Tratado de Itaipú (1973)"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
-    context: "Crea la Entidad Binacional Itaipu: personeria juridica internacional, capital 50/50 Paraguay-Brasil, Consejo de Administracion paritario. Las decisiones requieren consenso entre ambas partes. Modelo..."
-  - label: "Resolución ANDE 47191/2022 y Decreto 7824/2022 — Marco GCIE"
-    url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-    context: "Crea el Programa de Grandes Consumidores de Energía Intensiva, regulado por la Resolución 49238/2024. Tarifa base 30 US$/MWh para Muy Alta Tensión (220 kV); rango real: 37-60 US$/MWh por nivel de..."
+    context: "Crea la Entidad Binacional Itaipú: personalidad jurídica internacional, capital 50/50 Paraguay-Brasil y Consejo de Administración paritario. Las decisiones requieren consenso entre ambas partes."
 obs_casos-de-uso:
   - label: "Yguazú Digital: gobernanza binacional para IA"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/

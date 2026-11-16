@@ -80,6 +80,15 @@ class TestObservatorio(unittest.TestCase):
         errors = co.check_post(str(self.root / "_posts" / "2026-01-01-prueba.md"))
         self.assertTrue(any("'grafo'" in e for e in errors), errors)
 
+    def test_falla_si_declara_entidad_y_entidades_n_a(self):
+        post = POST.replace(
+            "permalink: /articulos/2026/01/01/prueba/",
+            "permalink: /articulos/2026/01/01/prueba/\nentidades: [ande]",
+        )
+        (self.root / "_posts" / "2026-01-01-prueba.md").write_text(post, encoding="utf-8")
+        errors = co.check_post(str(self.root / "_posts" / "2026-01-01-prueba.md"))
+        self.assertTrue(any("'entidades' es n/a" in e for e in errors), errors)
+
 
 if __name__ == "__main__":
     unittest.main()

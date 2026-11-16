@@ -4,7 +4,7 @@ title: "MITIC | Observatorio de IA en Paraguay"
 description: >
   Perfil de MITIC en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Ministerio de Tecnologías de la Información y Comunicación.
 permalink: /entidades/mitic/
-last_modified_at: 2026-10-25
+last_modified_at: 2026-11-16
 entity_id: mitic
 entity_name: MITIC
 entity_name_full: Ministerio de Tecnologías de la Información y Comunicación
@@ -30,13 +30,16 @@ obs_cronologia:
   - label: "Junio 2026"
     url: /cronologia/
     context: "MITIC dona 1.600 antenas Starlink para escuelas rurales."
+  - label: "27 Noviembre 2027"
+    url: /cronologia/
+    context: "Entra en vigencia la Ley 7593/2025 de protección de datos personales, con una Agencia dentro del MITIC y derechos de portabilidad y revisión de decisiones automatizadas. Leer análisis"
 obs_regulacion:
-  - label: "Ley 7593/2025"
+  - label: "Reglamentación de la Ley 7593/2025"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "Primera ley integral de protección de datos personales de Paraguay. Sancionada el 5 de noviembre de 2025, promulgada el 27 de noviembre. Entra en vigor en noviembre de 2027 (24 meses de transición)...."
-  - label: "Estrategia Nacional de Ciberseguridad 2025-2028"
-    url: /articulos/2026/07/17/ciberseguridad-paraguay/
-    context: "Aprobada por Decreto 3900 en mayo 2025. Primera estrategia nacional de ciberseguridad, con apoyo de la OEA. CERT-PY opera desde 2012 bajo el MITIC."
+    context: "Debe estar lista antes de noviembre de 2027. La autoridad de aplicación (Dirección General del MITIC) aún no fue creada."
+  - label: "Estrategia Nacional de IA"
+    url: /articulos/2026/07/16/ia-soberana-paraguay/
+    context: "El MITIC realizó consulta pública en 2024. La UNESCO publicó el RAM Report en diciembre de 2025. Sin documento oficial publicado."
 ---
 
 1 articulos en el observatorio mencionan a MITIC.

@@ -4,7 +4,7 @@ title: "CERT-PY | Observatorio de IA en Paraguay"
 description: >
   Perfil de CERT-PY en el Observatorio de IA en Paraguay: artículos, leyes, datos verificables y fuentes primarias locales.
 permalink: /entidades/cert-py/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 entity_id: cert-py
 entity_name: CERT-PY
 entity_name_full: Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay
@@ -28,10 +28,6 @@ obs_cronologia:
   - label: "2012"
     url: /cronologia/
     context: "Se crea CERT-PY, el centro nacional de respuesta a incidentes de ciberseguridad."
-obs_regulacion:
-  - label: "Estrategia Nacional de Ciberseguridad 2025-2028"
-    url: /articulos/2026/07/17/ciberseguridad-paraguay/
-    context: "Aprobada por Decreto 3900 en mayo 2025. Primera estrategia nacional de ciberseguridad, con apoyo de la OEA. CERT-PY opera desde 2012 bajo el MITIC."
 obs_casos-de-uso:
   - label: "Respuesta a incidentes"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/
