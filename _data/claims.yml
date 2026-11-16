@@ -69,10 +69,10 @@
   estado: parcial
   evidencia: E
   fuente: Revisión propia
-  url: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-  localizador: sección regulatoria
-  extracto: "Paraguay no tiene una sola norma específica para data centers."
-  fecha_corte: 2026-08-04
+  url: /articulos/2026/08/04/impacto-local-data-center-paraguay/#revision-regulacion-data-centers
+  localizador: sección "Cómo verificamos la ausencia de una regulación específica"
+  extracto: "Este artículo afirma que no identificamos una norma específica para data centers. No es una afirmación de inexistencia absoluta."
+  fecha_corte: 2026-11-16
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
   nota: "Una ausencia no se prueba como hecho positivo; requiere revisión legal declarada."

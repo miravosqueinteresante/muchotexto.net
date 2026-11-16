@@ -296,7 +296,7 @@ last_modified_at: 2026-11-16
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"No identificamos una norma específica para data centers en la revisión de Ley 294/1993, Ley 7599/2025, Ley 7547/2025 y Ley 3001/2006."</span></div>
-  <span class="claim-source">Fuente: revisión propia de normas citadas en el artículo. La ausencia de una norma específica no se puede probar como un hecho positivo. · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: revisión propia documentada en el artículo, sección “Cómo verificamos la ausencia de una regulación específica”. No es una afirmación de inexistencia absoluta ni una fuente oficial. · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/#revision-regulacion-data-centers">Metodología</a> · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">

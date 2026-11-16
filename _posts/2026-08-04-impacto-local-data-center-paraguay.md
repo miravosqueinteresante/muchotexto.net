@@ -3,7 +3,7 @@ layout: post
 title: "Qué le pasa a una ciudad paraguaya cuando llega un data center"
 seo_title: "Cuando un data center llega a una ciudad"
 date: 2026-08-04 12:00:00 -0300
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 categories: articulos
 pilar: 1
 resumen: "HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles."
@@ -17,7 +17,7 @@ A mediados de 2025, una empresa de infraestructura digital que cotiza en la TSX 
 > - HIVE Digital opera 300 MW en Yguazú y Valenzuela tras invertir USD 56M en la compra del predio y USD 19M en depósitos de energía con ANDE. La construcción duró seis meses y empleó entre 800 y 1.500 trabajadores temporales. La operación permanente emplea a unos 250 colaboradores directos.
 > - La infraestructura que construyó HIVE —subestaciones eléctricas, fibra óptica— es privada y dedicada. No hay evidencia de que la red eléctrica residencial de Yguazú o Valenzuela haya mejorado por la presencia del data center.
 > - A nivel global, USD 156.000 millones en proyectos de data centers fueron bloqueados o retrasados en 2025 por oposición comunitaria. En Virginia, 42 grupos de vecinos protestan contra los data centers; en Loudoun aportaron el 31% de los ingresos tributarios en el año fiscal 2023.
-> - Paraguay no tiene ninguna regulación específica para data centers: no hay cuotas de contratación local, no hay obligaciones de beneficio comunitario, no hay un requisito de evaluación de impacto ambiental específico para esta actividad (la Ley 294/1993 aplica genéricamente y nunca se aplicó al sector).
+> - En nuestra revisión documental no identificamos ninguna regulación específica para data centers: no encontramos cuotas de contratación local, obligaciones de beneficio comunitario ni un requisito de evaluación de impacto ambiental específico para esta actividad (la Ley 294/1993 aplica genéricamente y nunca se aplicó al sector). El alcance de esa revisión está detallado al final del artículo.
 
 El debate sobre los data centers en Paraguay suele concentrarse en los grandes números: los megavatios, los miles de millones de dólares, la geopolítica de los semiconductores. Pero los data centers no se instalan en hojas de Excel. Se instalan en distritos. Y la diferencia entre un data center que enriquece a su comunidad y uno que la exprime está en las reglas que el país establece —o deja de establecer— antes de que lleguen.
 
@@ -59,11 +59,11 @@ Suecia muestra un camino distinto. En Luleå, Meta instaló un data center de un
 
 ## El vacío legal paraguayo
 
-Paraguay no tiene una sola regulación específica para data centers. Y sin embargo el sector ya es significativo: según datos de ANDE publicados en agosto de 2026, 41 empresas están registradas como consumidores intensivos especiales, con una potencia reservada de 943,8 megavatios —el 13,5% de la potencia de Itaipú que le corresponde a Paraguay (7.000 MW)— y una proyección de ingresos para la ANDE de USD 350 millones en 2026, un 18,6% más que el año anterior.
+En la revisión documental que detallamos al final, no identificamos una sola regulación específica para data centers. Y sin embargo el sector ya es significativo: según datos de ANDE publicados en agosto de 2026, 41 empresas están registradas como consumidores intensivos especiales, con una potencia reservada de 943,8 megavatios —el 13,5% de la potencia de Itaipú que le corresponde a Paraguay (7.000 MW)— y una proyección de ingresos para la ANDE de USD 350 millones en 2026, un 18,6% más que el año anterior.
 
 La Ley 7599 de 2025 y el Decreto 6034 de 2026 abrieron el sector eléctrico a la inversión privada y crearon las figuras de autogenerador, cogenerador, generador, exportador y gran consumidor. La Ley de Maquila (Ley 1064/1997, reformada por la Ley 7547/2025) permite a los data centers exportar servicios de cómputo con un impuesto del 1% sobre el valor agregado nacional o la factura de exportación, el mayor, y exención de IVA y aranceles en la importación de equipos. Son marcos habilitadores —atraen inversión—, no regulatorios —no protegen a la comunidad—.
 
-No existe una cuota mínima de contratación de mano de obra local. No existe una obligación de compartir infraestructura eléctrica o de conectividad con la comunidad. No existe un requisito de EIA específico para data centers: la Ley 294/1993 aplica genéricamente y nunca se aplicó al sector, y ninguna compensación ambiental ha sido exigida a un data center o a una operación de criptominería.
+No identificamos una cuota mínima de contratación de mano de obra local. No identificamos una obligación de compartir infraestructura eléctrica o de conectividad con la comunidad. No identificamos un requisito de EIA específico para data centers: la Ley 294/1993 aplica genéricamente y nunca se aplicó al sector, y ninguna compensación ambiental ha sido exigida a un data center o a una operación de criptominería.
 
 Chile, en contraste, diseñó el Plan Nacional de Data Centers (PDATA) con metas explícitas: triplicar la capacidad instalada para 2030, atraer USD 2.500 millones en inversión y establecer criterios de sostenibilidad para el uso de agua y energía. Paraguay no tiene un PDATA. Lo más cercano es el memorando de entendimiento de Yguazú Digital, un documento no vinculante que no establece obligaciones concretas para ninguna de las partes.
 
@@ -74,6 +74,18 @@ Paraguay tiene una ventana que pocos países conservan: los data centers están 
 Esa decisión requiere tres cosas. Una: exigir evaluaciones de impacto ambiental y social antes de aprobar nuevas conexiones de alta tensión para data centers. Dos: establecer cuotas mínimas de contratación local —no solo en la construcción, también en la operación— y mecanismos para que la recaudación fiscal de los data centers se reinvierta en los municipios donde operan. Tres: negociar acuerdos de beneficio comunitario vinculantes, como la extensión de fibra óptica a las comunidades vecinas.
 
 Un data center puede ser la mejor noticia en décadas o el inicio de una tensión generacional. La diferencia entre un escenario y el otro no la hace el data center. La hacen las reglas que el país escribe antes de que llegue.
+
+<h2 id="revision-regulacion-data-centers">Cómo verificamos la ausencia de una regulación específica</h2>
+
+Este artículo afirma que **no identificamos** una norma específica para data centers. No es una afirmación de inexistencia absoluta: es el resultado de una revisión documental acotada, hecha con fuentes públicas y con fecha de corte.
+
+**Qué revisamos.** Ley 294/1993 de Evaluación de Impacto Ambiental, Ley 3001/2006 de Evaluación de Impacto Ambiental, Ley 7599/2025 de generación renovable no convencional, Decreto 6034/2026 que la reglamenta y Ley 7547/2025 de maquila. También buscamos en BACN y SILPy por “data center”, “centro de datos”, “centro de procesamiento de datos”, “cómputo”, “inteligencia artificial” e “impacto ambiental”.
+
+**Qué encontramos.** Normas generales de evaluación ambiental, energía y maquila. Ninguna establece obligaciones específicas para data centers: cuotas de contratación local, acuerdos de beneficio comunitario, requisitos de agua o energía, o un procedimiento de EIA diferenciado.
+
+**Qué no prueba.** Una revisión documental no demuestra que la norma no exista en todo el universo administrativo. Puede haber resoluciones municipales, reglamentos inferiores, actos administrativos no publicados o prácticas de hecho que no aparecen en las bases consultadas. La conclusión es “no identificamos”, no “no existe”.
+
+**Qué faltaría para cerrarlo.** Un dictamen legal externo o pedidos de información a MADES, ANDE y MITIC para confirmar el universo completo de normas y actos aplicables. Hasta entonces, el estado del claim es **PARCIAL** y la evidencia es **E**: revisión propia documentada, no fuente oficial.
 
 Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
@@ -117,7 +129,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
       "name": "¿Qué regulaciónes tiene Paraguay para data centers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay no tiene regulaciones específicas para data centers. La Ley 7599/2025 y el Decreto 6034/2026 habilitan la inversión privada en el sector eléctrico pero no establecen cuotas de contratación local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental específicas. La Ley de Maquila (7547/2025) ofrece incentivos fiscales sin contraprestaciones sociales. Chile, en contraste, tiene el Plan Nacional de Data Centers (PDATA) con criterios de sostenibilidad e impacto local."
+        "text": "En nuestra revisión documental no identificamos regulaciones específicas para data centers. La Ley 7599/2025 y el Decreto 6034/2026 habilitan la inversión privada en el sector eléctrico pero no establecen cuotas de contratación local, obligaciones de beneficio comunitario ni evaluaciones de impacto ambiental específicas. La Ley de Maquila (7547/2025) ofrece incentivos fiscales sin contraprestaciones sociales. Chile, en contraste, tiene el Plan Nacional de Data Centers (PDATA) con criterios de sostenibilidad e impacto local. El alcance de la revisión está detallado al final del artículo."
       }
     }
   ]
