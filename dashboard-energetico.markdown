@@ -279,7 +279,7 @@ last_modified_at: 2026-08-21
     <span class="dash-bar-value">{{ c.gwh | divided_by: 1000.0 | round: 1 }} TWh</span>
   </div>
   {% endfor %}
-  <p class="dash-disclaimer">Demanda del sistema con pérdidas (ANDE). Crecimiento reciente de la demanda: 5,7% (2022), 12,4% (2023), 18,5% (2024), 12,5% (2025), 21% (2026) — el piso oficial reciente es 12,5%.</p>
+  <p class="dash-disclaimer">Demanda del sistema con pérdidas (ANDE). Crecimiento reciente de la demanda: 5,7% (2022), 12,4% (2023), 18,5% (2024), 12,5% (2025) y 17,9% acumulado a 8 meses de 2026. El 21% era un parcial del primer trimestre, no un cierre anual.</p>
 </section>
 
 <section class="dash-section">

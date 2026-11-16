@@ -3,7 +3,7 @@ layout: post
 title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
 seo_title: "Datos de Ueno: qué pasó con ellos"
 date: 2026-11-13 12:00:00 -0300
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-16
 categories: articulos
 pilar: 2
 resumen: "Ueno acumuló identidad, datos financieros y, en muchos casos, biometría de casi 3 millones de cuentas declaradas. El FGD garantiza hasta 75 salarios mínimos por depositante, no los datos. Qué se sabe y qué podés hacer."
@@ -138,7 +138,7 @@ El dinero tiene garantía hasta 75 salarios mínimos. La cara no.
 
 Este artículo integra el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 
-**Metodología:** investigación en `research_que-datos-tuyos-tenia-ueno/` con seis informes (A-F), gap report, fact-check independiente y spot-check. No hay evidencia pública de venta o transferencia de las bases ni de uso gubernamental de los datos de Ueno.
+**Metodología:** investigación en `research_que-datos-tuyos-tenia-ueno/` con seis informes (A-F), gap report, fact-check independiente y spot-check. No encontramos evidencia pública de venta o transferencia de las bases ni de uso gubernamental de los datos de Ueno.
 
 <script type="application/ld+json">
 {

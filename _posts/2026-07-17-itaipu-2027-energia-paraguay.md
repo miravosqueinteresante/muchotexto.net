@@ -3,7 +3,7 @@ layout: post
 title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
 seo_title: "El acuerdo tarifario de Itaipú en 2027"
 date: 2026-07-17
-last_modified_at: 2026-09-23
+last_modified_at: 2026-11-16
 categories: articulos
 pilar: 1
 resumen: "El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?"
@@ -33,7 +33,7 @@ La Administración Nacional de Electricidad opera una red de transmisión que no
 
 Esto significa que incluso si Paraguay obtuviera las mejores condiciones posibles en la renegociación —más energía para uso propio, libertad total de venta a terceros—, no tendría cómo transportarla. La energía está en Itaipú, en la frontera con Brasil, a 300 kilómetros de Asunción. La línea de transmisión que debería llevarla a los centros de consumo no existe.
 
-La demanda eléctrica paraguaya crece a un ritmo de entre el 12,5% y el 21% anual, impulsada por la expansión de la criptominería, [que ya convirtió a Paraguay en el cuarto mayor minero de bitcoin del mundo]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}), los centros de datos y el crecimiento económico general. Si ese ritmo se mantiene, Paraguay podría necesitar toda su energía de Itaipú para consumo doméstico en menos de quince años. En ese escenario, la pregunta deja de ser "¿cuánto nos paga Brasil?" y pasa a ser "¿tenemos suficiente para nosotros?".
+La demanda eléctrica paraguaya creció 12,5% en 2025 y 17,9% acumulado a 8 meses de 2026, impulsada por la expansión de la criptominería, [que ya convirtió a Paraguay en el cuarto mayor minero de bitcoin del mundo]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}), los centros de datos y el crecimiento económico general. Si ese ritmo se mantiene, Paraguay podría necesitar toda su energía de Itaipú para consumo doméstico en menos de quince años. En ese escenario, la pregunta deja de ser "¿cuánto nos paga Brasil?" y pasa a ser "¿tenemos suficiente para nosotros?".
 
 ## Lo que pasó en 2009 (y por qué importa ahora)
 

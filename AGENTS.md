@@ -266,7 +266,7 @@ Fuentes: Wikipedia (Electricity sector in Paraguay), Banco Mundial CCKP, Global 
 ### Demografía y economía (datos verificados ago 2026)
 Fuentes: INE Paraguay, Banco Mundial, BCP, ABC Color.
 
-- **Población**: 6.460.159 (2026, INE Revisión 2025), proyección ~6,9M (2040, INE Revisión 2024), 7,1M recién en 2050. NO usar 7,2-7,5M para 2040. Edad media: 29,4 años.
+- **Población**: 6.460.159 (2026, INE Revisión 2025), proyección ~6,9M (2040, INE Revisión 2024), 7,1M recién en 2050. NO usar 7,2-7,5M para 2040. Edad mediana: 29,4 años.
 - **Fecundidad**: 1,90 hijos por mujer (2026) → 1,72 (2050), INE Revisión 2024. Por debajo del nivel de reemplazo (2,1). NO usar 1,7-1,8 (dato desactualizado).
 - **Bono demográfico**: sin fecha oficial consolidada. Proyecciones recientes: INE ~2050, UNFPA ~2054, estudios citados por ABC ~2045. Presentar como estimación divergente, nunca como fecha fija.
 - **Urbanización**: 69% (Censo 2022), proyectado ~78-80% (2040).
@@ -307,7 +307,7 @@ Para cualquier dato sobre Paraguay, el fact-checker DEBE consultar:
 Fuentes: AGENTS.md (claims pre-verificados), ABC Color, ANDE, BCP, BACN, Banco Mundial.
 
 #### Datos demográficos y económicos
-- **Población 6,5M, edad media 29,4 años**: TRUE. Fuente: INE Paraguay, verificado en AGENTS.md.
+- **Población 6,5M, edad mediana 29,4 años**: TRUE. Fuente: INE Paraguay, verificado en AGENTS.md.
 - **Proyección ~6,9M en 2040**: TRUE (INE Revisión 2024/2025). NO usar 7,2-7,5M: 7,1M recién en 2050.
 - **Fecundidad 1,90 (2026) → 1,72 (2050)**: TRUE. Fuente: INE Revisión 2024. El rango 1,7-1,8 estaba desactualizado.
 - **Urbanización 69% → ~80% en 2040**: TRUE. Fuente: Censo 2022, verificado en AGENTS.md.

@@ -34,7 +34,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay tiene la energía para el hidrógeno verde pero no el puerto](https://muchotexto.net/articulos/2026/07/27/hidrogeno-verde-paraguay/)
 - [Paraguay tiene energía 100% renovable y el cambio climático la amenaza](https://muchotexto.net/articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/)
 - [Qué le pasa a una ciudad paraguaya cuando llega un data center](https://muchotexto.net/articulos/2026/08/04/impacto-local-data-center-paraguay/)
-- [Paraguay 2040: un país construido con datos](https://muchotexto.net/articulos/2026/08/05/paraguay-2040-futuro-datos/)
+- [Paraguay 2040, un país construido con datos](https://muchotexto.net/articulos/2026/08/05/paraguay-2040-futuro-datos/)
 - [El plan energético al 2050 que Paraguay escribió y todavía no ejecuta](https://muchotexto.net/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/)
 - [El ente regulador de energía que Paraguay diseña con concurso público](https://muchotexto.net/articulos/2026/08/19/ente-regulador-energia/)
 - [El ministerio de energía que Paraguay prepara con tres viceministerios](https://muchotexto.net/articulos/2026/08/19/ministerio-energia-mineria-hidrocarburos/)
@@ -106,7 +106,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Radar legislativo](https://muchotexto.net/radar-legislativo/): Estado de leyes, decretos y proyectos de IA y energía en Paraguay
 - [Grafo del Observatorio](https://muchotexto.net/grafo/): Mapa de relaciones entre las {{ site.data.entities | size }} entidades del observatorio
 - [Dashboard energético](https://muchotexto.net/dashboard-energetico/): Potencia reservada, tarifa GCIE y consumo eléctrico de data centers en Paraguay
-- [Claims verificados](https://muchotexto.net/claims-verificados/): Registro público de verificación de datos del observatorio
+- [Registro de verificación](https://muchotexto.net/claims-verificados/): Registro público de verificación de datos del observatorio
 
 ## Datos verificables (MuchoTexto Data)
 

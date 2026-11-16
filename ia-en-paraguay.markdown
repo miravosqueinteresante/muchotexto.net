@@ -39,7 +39,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos
 - [Grafo del Observatorio](/grafo/) — Relaciones entre las {{ site.data.entities | size }} entidades clave
 - [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo
-- [Claims verificados](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
+- [Registro de verificación](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
 - [Datos verificados — MuchoTexto Data](https://datospublicos.muchotexto.net/) — Infraestructura de datos verificables sobre Paraguay: ANDE, Itaipú y Yacyretá con fuente y trazabilidad completa
 
 ## Infraestructura y energía
@@ -57,7 +57,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 - **[Paraguay tiene la energía para el hidrógeno verde pero no el puerto]({% post_url 2026-07-27-hidrogeno-verde-paraguay %})** — La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales.
 - **[Paraguay tiene energía 100% renovable y el cambio climático la amenaza]({% post_url 2026-08-03-energia-renovable-cambio-climatico-paraguay %})** — El 99.9% de la electricidad es renovable pero el 97% depende de dos represas en una sola cuenca. Sin diversificación solar ni eólica.
 - **[Qué le pasa a una ciudad paraguaya cuando llega un data center]({% post_url 2026-08-04-impacto-local-data-center-paraguay %})** — HIVE invirtió USD 56M y opera 300 MW. La comunidad recibió empleo temporal y mejoras escolares. Después, los beneficios son menos visibles.
-- **[Paraguay 2040: un país construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
+- **[Paraguay 2040, un país construido con datos]({% post_url 2026-08-05-paraguay-2040-futuro-datos %})** — Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década.
 - **[El plan energético al 2050 que Paraguay escribió y todavía no ejecuta]({% post_url 2026-08-12-mesa-energetica-pen-2050-paraguay %})** — La PEN 2050 (Decreto 2553/2024) tenía 95 objetivos y 385 metas, incluido un ministerio de energía que debía existir en 2024. Sigue sin existir, aunque el 13 de agosto de 2026 el Ejecutivo presentó los proyectos de ley del ministerio y de un ente regulador eléctrico.
 - **[El ente regulador de energía que Paraguay diseña con concurso público]({% post_url 2026-08-19-ente-regulador-energia %})** — El árbitro que le faltaba al sector: directorio elegido por concurso, mandato de seis años y revisión tarifaria con audiencia. Pone fin al "juez y parte" de la ANDE.
 - **[El ministerio de energía que Paraguay prepara con tres viceministerios]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %})** — El proyecto de ley crea el Ministerio de Energía, Minería e Hidrocarburos absorbiendo al VMME y a la Dirección de Combustibles, con financiamiento por regalías y rectoría sobre la ANDE y Petropar.

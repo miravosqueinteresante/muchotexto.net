@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Claims verificados del Observatorio de IA"
+title: "Registro de verificación de datos del Observatorio"
 permalink: /claims-verificados/
 description: "Base pública de verificación de datos de muchotexto.net: qué afirmamos, qué corregimos y contra qué fuente. Transparencia editorial."
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 ---
 
 <style>
@@ -76,6 +76,7 @@ last_modified_at: 2026-11-14
 .v-false { background: rgba(255, 107, 107, 0.16); color: #ff6b6b; }
 .v-partial { background: rgba(255, 212, 59, 0.16); color: #ffd43b; }
 .v-unverifiable { background: rgba(173, 181, 189, 0.16); color: #adb5bd; }
+.v-no-demostrable { background: rgba(255, 169, 77, 0.16); color: #ffa94d; }
 
 .claims-section {
   margin-bottom: var(--spacer-3);
@@ -144,11 +145,14 @@ last_modified_at: 2026-11-14
 
 <p class="claims-intro">Publicamos el registro de verificación que sostiene nuestros artículos: qué afirmación confirmamos, cuál era falsa o imprecisa y contra qué fuente. No es un resumen de todo lo que escribimos, sino de los datos duros que corregimos y confirmamos. Es la transparencia editorial hecha producto.</p>
 
+<p class="claims-intro">40 registros revisados al 16-nov-2026: 37 claims y 3 correcciones. El estado indica la veracidad; la fuente y la nota indican la calidad de la evidencia.</p>
+
 <div class="claims-legend">
   <span class="claims-legend-item"><span class="claim-v v-true">TRUE</span> confirmado con fuente</span>
   <span class="claims-legend-item"><span class="claim-v v-false">FALSE</span> era falso, corregido</span>
   <span class="claims-legend-item"><span class="claim-v v-partial">PARTIALLY</span> impreciso, matizado</span>
   <span class="claims-legend-item"><span class="claim-v v-unverifiable">UNVERIFIABLE</span> sin fuente sólida</span>
+  <span class="claims-legend-item"><span class="claim-v v-no-demostrable">NO DEMOSTRABLE</span> ausencia no comprobada</span>
 </div>
 
 <section class="claims-section">
@@ -175,8 +179,8 @@ last_modified_at: 2026-11-14
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La demanda eléctrica crece 12,5-21% anual (12,5% en 2025, 18,5% en 2024, 21% en 2026)."</span></div>
-  <span class="claim-source">Fuente: ANDE. El piso oficial reciente es 12,5%, no 12%. · <a href="/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La demanda eléctrica creció 18,5% en 2024, 12,5% en 2025 y 17,9% acumulado a 8 meses de 2026."</span></div>
+  <span class="claim-source">Fuente: ANDE. El 21% era un parcial del primer trimestre de 2026, no un cierre anual. · <a href="https://www.ande.gov.py/interna.php?id=15615">ANDE</a> · <a href="/dashboard-energetico/">Dashboard</a> · <a href="/articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -200,8 +204,8 @@ last_modified_at: 2026-11-14
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Los USD 665 millones de Atome eran inversión proyectada, no dinero desembolsado; la empresa rescindió su contrato con la ANDE en octubre de 2026."</span></div>
-  <span class="claim-source">Fuente: ATOME PLC — <a href="https://www.prnewswire.com/news-releases/atome-plc-notice-of-dispute-and-intent-to-submit-claim-to-arbitration-under-the-uk--paraguay-bilateral-investment-treaty-the-treaty-or-bit-302881982.html">Notice of Dispute</a> · <a href="/articulos/2026/10/02/atome-ande-salida-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Los USD 665 millones de Atome eran inversión proyectada, no dinero desembolsado; la empresa notificó la terminación de su PPA el 1-oct-2026, efectiva a fines de 2026."</span></div>
+  <span class="claim-source">Fuente: ATOME PLC · <a href="https://www.prnewswire.com/news-releases/atome-plc-notice-of-dispute-and-intent-to-submit-claim-to-arbitration-under-the-uk--paraguay-bilateral-investment-treaty-the-treaty-or-bit-302881982.html">Notice of Dispute</a> · <a href="/articulos/2026/10/02/atome-ande-salida-paraguay/">Artículo</a>. La notificación no equivale a extinción inmediata del contrato.</span>
 </div>
 </section>
 
@@ -210,17 +214,17 @@ last_modified_at: 2026-11-14
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La tarifa del Grupo Consumo Intensivo Especial es de 30 US$/MWh (Resolución 49238/2024, vigente hasta diciembre de 2027)."</span></div>
-  <span class="claim-source">Fuente: Resolución ANDE 49238/2024 · <a href="/dashboard-energetico/">Dashboard</a></span>
+  <span class="claim-source">Fuente: Resolución ANDE 49238/2024 · <a href="https://www.ande.gov.py/interna.php?id=12464">Resolución</a> · <a href="/dashboard-energetico/">Dashboard</a></span>
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026."</span></div>
-  <span class="claim-source">Fuente: ABC Color · <a href="/dashboard-energetico/">Dashboard</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026."</span></div>
+  <span class="claim-source">Fuente: ABC Color. Falta incorporar el acto oficial que dejó sin efecto los decretos 5306, 5307, 5860 y 5861. · <a href="/dashboard-energetico/">Dashboard</a></span>
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El estudio Ceare proyecta la tarifa media de 49,2 a 68,6 US$/MWh al 2030 (+39,4%)."</span></div>
-  <span class="claim-source">Fuente: estudio Ceare (UBA, con apoyo del BID). Es proyección, no tarifa aplicada. · <a href="/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"El estudio Ceare proyecta la tarifa media de 49,2 a 68,6 US$/MWh al 2030 (+39,4%)."</span></div>
+  <span class="claim-source">Fuente: estudio Ceare (UBA, con apoyo del BID). Es proyección, no tarifa aplicada; falta enlazar el documento original. · <a href="/articulos/2026/08/20/estudio-ceare-tarifa-paraguay/">Artículo</a></span>
 </div>
 </section>
 
@@ -242,8 +246,8 @@ last_modified_at: 2026-11-14
 <h2 class="claims-section-title">Demografía y economía</h2>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay tiene 6.460.159 habitantes (2026), con edad media de 29,4 años."</span></div>
-  <span class="claim-source">Fuente: INE Paraguay, Revisión 2025 · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay tiene 6.460.159 habitantes (2026), con edad mediana de 29,4 años."</span></div>
+  <span class="claim-source">Fuente: INE Paraguay, Revisión 2025. La edad mediana es el indicador oficial; “edad media” era una imprecisión. · <a href="https://www.ine.gov.py/noticias/2946/paraguay-sigue-teniendo-la-mayor-cantidad-de-su-poblacion-en-edad-productiva">INE</a> · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -257,8 +261,8 @@ last_modified_at: 2026-11-14
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026)."</span></div>
-  <span class="claim-source">Fuente: BCP. USD 5.900 era el dato 2022-2023, ya corregido. · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026)."</span></div>
+  <span class="claim-source">Fuente: BCP. Es una estimación nominal; falta un documento primario que fije la cifra exacta. USD 5.900 era el dato 2022-2023, ya corregido. · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -267,13 +271,13 @@ last_modified_at: 2026-11-14
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La informalidad laboral está entre 60% y 64% según trimestre y medición."</span></div>
-  <span class="claim-source">Fuente: INE 2025-2026 · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"La informalidad laboral fue de 60,1% en 2025, según el INE; la referencia comparable de 2024 fue 62,5%."</span></div>
+  <span class="claim-source">Fuente: INE, Ocupación Informal 2022 y 2025. · <a href="https://www.ine.gov.py/noticias/2891/la-ocupacion-informal-fue-de-601-en-el-ano-2025">INE</a> · <a href="/articulos/2026/08/05/paraguay-2040-futuro-datos/">Artículo</a></span>
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay es el 4.º exportador mundial de soja (no el 6.º; 6.º es como productor)."</span></div>
-  <span class="claim-source">Fuente: MercoPress 2024, USDA 2026, WITS (Banco Mundial) · <a href="/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Paraguay es el 4.º exportador mundial de soja (no el 6.º; 6.º es como productor)."</span></div>
+  <span class="claim-source">Fuente: MercoPress 2024, USDA 2026, WITS (Banco Mundial). Falta una tabla oficial de clasificación mundial de exportaciones que fije el puesto exacto. · <a href="/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/">Artículo</a></span>
 </div>
 </section>
 
@@ -281,8 +285,8 @@ last_modified_at: 2026-11-14
 <h2 class="claims-section-title">Regulación</h2>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025), en vigencia desde noviembre de 2027."</span></div>
-  <span class="claim-source">Fuente: BACN · <a href="/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025), en vigencia desde el 27-nov-2027: 24 meses desde su publicación."</span></div>
+  <span class="claim-source">Fuente: BACN · <a href="https://www.bacn.gov.py/leyes-paraguayas/12924/ley-n-75932025-de-proteccion-de-datos-personales-en-la-republica-del-paraguay">Ley 7593/2025</a> · <a href="/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -291,8 +295,8 @@ last_modified_at: 2026-11-14
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Paraguay no tiene una regulación específica para data centers."</span></div>
-  <span class="claim-source">Fuente: verificado en AGENTS.md · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"No identificamos una norma específica para data centers en la revisión de Ley 294/1993, Ley 7599/2025, Ley 7547/2025 y Ley 3001/2006."</span></div>
+  <span class="claim-source">Fuente: revisión propia de normas citadas en el artículo. La ausencia de una norma específica no se puede probar como un hecho positivo. · <a href="/articulos/2026/08/04/impacto-local-data-center-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -315,12 +319,17 @@ last_modified_at: 2026-11-14
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El BCP dispuso la resolución de ueno bank el 2-nov-2026 por una insuficiencia de solvencia por debajo del 50% del mínimo; la app y los servicios se suspendieron el 3-nov-2026."</span></div>
-  <span class="claim-source">Fuente: BCP/ABC Color y Poder Judicial — <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
+  <span class="claim-source">Fuente: BCP/ABC Color y Poder Judicial — <a href="https://www.pj.gov.py/notas/30918-corte-suprema-de-justicia-socializa-comunicacion-de-la-superintendencia-de-bancos-sobre-ueno-bank-sa">Poder Judicial</a> · <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El FGD garantiza hasta 75 salarios mínimos por depositante y por entidad; el anticipo de hasta 40 salarios mínimos pagó USD 644 millones a 1.812.348 personas."</span></div>
-  <span class="claim-source">Fuente: BCP vía Última Hora — <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El FGD garantiza hasta 75 salarios mínimos por depositante y por entidad."</span></div>
+  <span class="claim-source">Fuente: BCP · <a href="https://www.pj.gov.py/notas/30918-corte-suprema-de-justicia-socializa-comunicacion-de-la-superintendencia-de-bancos-sobre-ueno-bank-sa">Comunicación de la Superintendencia de Bancos</a> · <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"El BCP pagó un anticipo de hasta 40 salarios mínimos a 1.812.348 personas: G. 3,99 billones, equivalentes a USD 644 millones según la conversión difundida por Última Hora."</span></div>
+  <span class="claim-source">Fuente: BCP/Última Hora. El BCP confirma depositantes y monto en guaraníes; la equivalencia en dólares depende del tipo de cambio y la fecha. · <a href="https://www.ultimahora.com/primera-semana-del-colapso-de-ueno-el-fgd-desembolso-usd-644-millones-a-1-8-millones-de-afectados">Última Hora</a> · <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -329,8 +338,8 @@ last_modified_at: 2026-11-14
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"No hay información pública que confirme ni descarte la venta o transferencia de las bases de datos de Ueno."</span></div>
-  <span class="claim-source">Fuente: TEDIC — <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-no-demostrable">NO DEMOSTRABLE</span><span class="claim-text">"No encontramos información pública que confirme ni descarte la venta o transferencia de las bases de datos de Ueno."</span></div>
+  <span class="claim-source">Fuente: TEDIC y BCP. Es una ausencia de evidencia, no una prueba de que la operación no exista. · <a href="https://www.tedic.org/caso-ueno-biometria-datos-personales-y-la-deuda-del-estado-paraguayo/">TEDIC</a> · <a href="/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/">Artículo</a></span>
 </div>
 </section>
 
@@ -339,7 +348,7 @@ last_modified_at: 2026-11-14
 
 <div class="claim">
   <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"CERT-PY fue creado el 30 de noviembre de 2012 y depende del MITIC."</span></div>
-  <span class="claim-source">Fuente: artículo sobre ciberseguridad — <a href="/articulos/2026/07/17/ciberseguridad-paraguay/">Artículo</a></span>
+  <span class="claim-source">Fuente: CERT-PY — <a href="https://www.cert.gov.py/">CERT-PY</a> · <a href="/articulos/2026/07/17/ciberseguridad-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -352,8 +361,8 @@ last_modified_at: 2026-11-14
 <h2 class="claims-section-title">Tokenización agro y cripto</h2>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"Agrotoken tokenizó 230.000 toneladas de soja, maíz y trigo."</span></div>
-  <span class="claim-source">Fuente: prensaeconomica.com.ar, bichosdecampo.com (2022-2025) · <a href="/articulos/2026/05/18/tokenizacion-del-agro-paraguay/">Artículo</a></span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"Agrotoken tokenizó 230.000 toneladas de soja, maíz y trigo."</span></div>
+  <span class="claim-source">Fuente: prensaeconomica.com.ar, bichosdecampo.com (2022-2025). Falta documentación corporativa primaria o un registro verificable de emisión. · <a href="/articulos/2026/05/18/tokenizacion-del-agro-paraguay/">Artículo</a></span>
 </div>
 
 <div class="claim">
@@ -362,11 +371,30 @@ last_modified_at: 2026-11-14
 </div>
 
 <div class="claim">
-  <div class="claim-head"><span class="claim-v v-true">TRUE</span><span class="claim-text">"El colapso de UST/LUNA destruyó entre USD 40.000 y 45.000 millones en una semana."</span></div>
-  <span class="claim-source">Fuente: Bloomberg, Wikipedia. La magnitud es correcta; algunos artículos decían "3 días" y las fuentes "una semana".</span>
+  <div class="claim-head"><span class="claim-v v-partial">PARCIAL</span><span class="claim-text">"El colapso de UST/LUNA destruyó entre USD 40.000 y 45.000 millones de capitalización de mercado en una semana."</span></div>
+  <span class="claim-source">Fuente: Bloomberg, Wikipedia. La magnitud es correcta, pero mide capitalización destruida, no pérdidas efectivas de inversores.</span>
 </div>
 </section>
 
-<p class="claims-note">Este registro se alimenta de nuestra base interna de claims verificados (AGENTS.md) y se actualiza con cada fact-check. Si detectás un dato que cambió, escribinos por la <a href="/contacto/">página de contacto</a>. Nuestra metodología completa está en <a href="/como-trabajamos/">cómo trabajamos</a>.</p>
+<section class="claims-section">
+<h2 class="claims-section-title">Correcciones</h2>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-false">FALSE</span><span class="claim-text">"Paraguay es el 6.º exportador mundial de soja."</span></div>
+  <span class="claim-source">Corregido: es el 4.º exportador mundial; 6.º es como productor. · <a href="/articulos/2026/07/01/de-la-soja-al-silicio-matriz-exportadora-paraguay/">Artículo</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-false">FALSE</span><span class="claim-text">"La demanda eléctrica crece 12% anual."</span></div>
+  <span class="claim-source">Corregido: el piso oficial reciente es 12,5% (2025); en 2024 fue 18,5% y a 8 meses de 2026, 17,9%. · <a href="/dashboard-energetico/">Dashboard</a></span>
+</div>
+
+<div class="claim">
+  <div class="claim-head"><span class="claim-v v-false">FALSE</span><span class="claim-text">"El Anexo C de Itaipú vence el 1 de enero de 2027."</span></div>
+  <span class="claim-source">Corregido: lo que vence es el acuerdo tarifario 2024-2026, no el Anexo C. Las negociaciones del Anexo C siguen abiertas. · <a href="/articulos/2026/07/17/itaipu-2027-energia-paraguay/">Artículo</a></span>
+</div>
+</section>
+
+<p class="claims-note">Este registro se actualiza con cada fact-check y se contrasta contra fuentes primarias. Si detectás un dato que cambió, escribinos por la <a href="/contacto/">página de contacto</a>. Nuestra metodología completa está en <a href="/como-trabajamos/">cómo trabajamos</a>.</p>
 
 </div>

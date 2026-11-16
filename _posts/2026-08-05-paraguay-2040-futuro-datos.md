@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Paraguay 2040: un país construido con datos"
+title: "Paraguay 2040, un país construido con datos"
 date: 2026-08-05 14:00:00 -0300
-last_modified_at: 2026-08-15
+last_modified_at: 2026-11-16
 categories: articulos
 pilar: 1
 resumen: "Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década."
@@ -13,7 +13,7 @@ description: "Paraguay tiene energía limpia, una población joven y 943,8 MW de
 En agosto de 2026, Paraguay tiene 41 empresas registradas como consumidores intensivos de energía, 943,8 megavatios de potencia reservada y contratada para data centers y criptominería, y una proyección de ingresos para ANDE de 350 millones de dólares por ese segmento —un 18,6% más que el año anterior—. Es un país que todavía exporta soja, carne y electricidad a precio de costo, pero que por primera vez en su historia tiene sobre la mesa cartas que ningún otro país Sudaméricano puede jugar. La pregunta es qué hace con ellas.
 
 > **En resumen:**
-> - Paraguay tiene una ventana demográfica que, según distintas estimaciones, se cierra entre 2030 y 2070 (este análisis toma ~2045): población joven con edad media de 29 años, pero con fecundidad en declive. El bono demográfico no espera.
+> - Paraguay tiene una ventana demográfica que, según distintas estimaciones, se cierra entre 2030 y 2070 (este análisis toma ~2045): población joven con edad mediana de 29,4 años, pero con fecundidad en declive. El bono demográfico no espera.
 > - El superávit energético —la ventaja competitiva más importante del país— podría agotarse entre 2035 y 2040, según la proyección de este análisis, si la demanda sigue creciendo a dos dígitos (12,5% en 2025 y 17,9% acumulado a 8 meses de 2026). Diversificar con solar en el Chaco (4,8-4,9 kWh/m²/día promedio anual) no es opcional: es urgente.
 > - La potencia reservada para data centers pasó de ~125 MW en 2023 a ~822 MW en 2025 y 943,8 MW en 2026, tras la creación del régimen de consumo intensivo en 2022. Según este análisis, a 2040 esa cifra podría ir de 2.000 a 8.000 MW dependiendo de si Paraguay soluciona sus cuellos de botella: fibra internacional, regulación y talento.
 > - Tres escenarios: uno donde Paraguay se convierte en el hub de cómputo de Sudamérica, otro donde vende energía barata sin transferencia tecnológica, y un tercero —el más probable si no se toman decisiones— donde el superávit se consume sin haber construido nada nuevo.
@@ -22,7 +22,7 @@ Proyectar un país a quince años no es un ejercicio de adivinación. Es un ejer
 
 ## El reloj demográfico: una ventana que se cierra
 
-Paraguay tiene hoy aproximadamente 6,5 millones de habitantes, con una edad media de 29,4 años —una de las poblaciones más jóvenes de Sudamérica—. Las proyecciones del Instituto Nacional de Estadística (Revisión 2024) indican que la población crecerá hasta unos 6,9 millones en 2040 —recién superará los 7 millones hacia 2050—, con una tasa de fecundidad de 1,90 hijos por mujer en 2026 que caerá a 1,72 en 2050, por debajo del nivel de reemplazo de 2,1. La urbanización pasará del 69% actual a cerca del 80%.
+Paraguay tiene hoy aproximadamente 6,5 millones de habitantes, con una edad mediana de 29,4 años —una de las poblaciones más jóvenes de Sudamérica—. Las proyecciones del Instituto Nacional de Estadística (Revisión 2024) indican que la población crecerá hasta unos 6,9 millones en 2040 —recién superará los 7 millones hacia 2050—, con una tasa de fecundidad de 1,90 hijos por mujer en 2026 que caerá a 1,72 en 2050, por debajo del nivel de reemplazo de 2,1. La urbanización pasará del 69% actual a cerca del 80%.
 
 Eso significa que Paraguay está viviendo su bono demográfico ahora: hay más personas en edad de trabajar que dependientes (niños y adultos mayores). Pero ese bono se agota, según las estimaciones citadas, en algún punto entre 2030 y 2070 —este análisis toma alrededor de 2045—, cuando la proporción se invierte y el país empieza a envejecer. Cada año que pasa sin invertir en educación, salud y empleo formal para esa población joven es un año de bono demográfico desperdiciado.
 
@@ -42,7 +42,7 @@ La paradoja es que Paraguay ya tiene escrita buena parte del camino. La Polític
 
 ## Data centers: de 943,8 MW a lo que Paraguay quiera ser
 
-El régimen de consumo intensivo que regula estos proyectos se creó en 2022. La potencia reservada pasó de ~125 MW en 2023 a ~822 MW en 2025 y a 943,8 MW contratados en 2026 —no toda operativa—, con HIVE Digital Technologies como el operador más grande (300 MW operativos, 100 MW GPU en construcción). La demanda efectivamente consumida es menor: el estudio del Ceare (con apoyo del BID, publicado por ABC Color el 9 de agosto de 2026) estima las cargas del grupo de consumo intensivo en 854 MW para 2025 y 803 MW para 2026.<sup><a href="https://www.abc.com.py/edicion-impresa/suplementos/economico/2026/08/09/periodo-2026-2030-preven-subas-hasta-del-46/">[nota]</a></sup> Yguazú Digital —el proyecto binacional con Taiwán— proyecta otras tres fases que van de 10 MW a 1.000 MW. Según este análisis, la capacidad a 2040 podría ir de 2.000 MW en un escenario conservador a 8.000 MW en uno optimista.
+El régimen de consumo intensivo que regula estos proyectos se creó en 2022. La potencia reservada pasó de ~125 MW en 2023 a ~822 MW en 2025 y a 943,8 MW contratados en 2026 —no toda operativa—, con HIVE Digital Technologies como el operador más grande (300 MW operativos, 100 MW GPU en construcción). La demanda efectivamente consumida es menor: el estudio del Ceare (con apoyo del BID, publicado por ABC Color el 9 de agosto de 2026) estima las cargas del grupo de consumo intensivo en 854 MW para 2025 y 803 MW para 2026.<sup><a href="https://www.abc.com.py/edicion-impresa/suplementos/economico/2026/08/09/periodo-2026-2030-preven-subas-hasta-del-46/">[nota]</a></sup> Yguazú Digital —el proyecto binacional con Taiwán— proyecta otras tres fases que van de 10 MW a 1.000 MW. Según este análisis, la capacidad a 2040 podría ir de 2.000 MW en un escenario conservador a 8.000 MW en uno optimista. Ese crecimiento también presiona la red: [Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %}).
 
 Para ponerlo en perspectiva: Irlanda, el país que se convirtió en el hub de data centers de Europa, tiene aproximadamente 80 centros de datos que consumen el 23% de su electricidad nacional. Loudoun County, Virginia —el "Data Center Alley" del mundo— alberga más de 200 data centers. Según la Encuesta de Tarifas Eléctricas de CIER 2025, la tarifa residencial paraguaya (US$ 46 por MWh) y la industrial (US$ 35 por MWh) son las más bajas entre 13 países de la región. Paraguay tiene la energía más barata de Sudamérica, una ubicación central en el continente y 99,9% de energía renovable. Los fundamentos están. Lo que falta es todo lo demás.
 
@@ -60,7 +60,7 @@ La diferencia la va a marcar la composición de ese PIB. Si Paraguay sigue depen
 
 Hay señales de que el cambio ya empezó. Las exportaciones de servicios bajo el régimen de maquila —que incluyen desarrollo de software, procesamiento de datos y servicios de cómputo— crecieron sostenidamente en los últimos cinco años. La Ley 7547 de 2025 reformó la Ley de Maquila para incluir explícitamente los servicios intangibles. Y la combinación de energía barata, ubicación geográfica y huso horario compatible con Estados Unidos le da a Paraguay una ventana de oportunidad en el mercado de nearshoring de servicios digitales que ningún otro país Sudaméricano puede replicar.
 
-Pero la informalidad —que oscila entre el 60% y el 64% de la fuerza laboral según la medición y el trimestre— es el lastre. Un país donde dos de cada tres trabajadores no tienen seguridad social, no califican para crédito hipotecario y no acumulan antigüedad laboral no puede construir una economía digital competitiva. Formalizar el empleo es la reforma estructural más importante que Paraguay puede hacer antes de 2040, y la más difícil.
+Pero la informalidad —60,1% de los ocupados no agropecuarios en 2025, con una referencia de 62,5% en 2024— es el lastre. Un país donde dos de cada tres trabajadores no tienen seguridad social, no califican para crédito hipotecario y no acumulan antigüedad laboral no puede construir una economía digital competitiva. Formalizar el empleo es la reforma estructural más importante que Paraguay puede hacer antes de 2040, y la más difícil.
 
 ## Los tres escenarios
 
@@ -126,7 +126,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
       "name": "¿Cuál es el principal riesgo para el desarrollo de Paraguay hacia 2040?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Los tres riesgos principales son: la vulnerabilidad climática (el 97% de la capacidad hidroeléctrica depende de una sola cuenca, el Paraná, y una sequía prolongada como la de 2019-2022 podría repetirse), la informalidad laboral (62% de la fuerza de trabajo, lo que limita la productividad y la inversión en capital humano), y la presión geopolítica de China sobre Taiwán (que afecta directamente proyectos como Yguazú Digital y la posición diplomática de Paraguay)."
+        "text": "Los tres riesgos principales son: la vulnerabilidad climática (el 97% de la capacidad hidroeléctrica depende de una sola cuenca, el Paraná, y una sequía prolongada como la de 2019-2022 podría repetirse), la informalidad laboral (60,1% de los ocupados no agropecuarios en 2025, lo que limita la productividad y la inversión en capital humano), y la presión geopolítica de China sobre Taiwán (que afecta directamente proyectos como Yguazú Digital y la posición diplomática de Paraguay)."
       }
     }
   ]
