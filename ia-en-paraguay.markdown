@@ -71,10 +71,6 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 <!-- PILAR:1:FIN -->
 
-**Próximamente:**
-
-- La primera subasta solar de Paraguay es 140 MW; su plan dice 800 al año
-
 ## Geopolítica y regulación tech
 
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo -y Taiwán produce el 90% de los semiconductores más avanzados- esa relación tiene implicancias que van mucho más allá del comercio.
