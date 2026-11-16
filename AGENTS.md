@@ -4,6 +4,22 @@
 
 Todo artículo long-form en `_posts/` debe pasar por verificación de datos antes del commit.
 
+### Paso 0: Brief de premisa (BLOQUEANTE)
+
+Antes de investigar o escribir, crear `research_[tema]/brief.md` con cinco respuestas:
+
+1. ¿Quién es el lector y qué va a entender o decidir después?
+2. ¿Cuál es la tesis en una frase?
+3. ¿Por qué ahora? Fecha, norma, dato o debate nuevo.
+4. ¿Qué 5-8 claims de alto riesgo sostienen la tesis?
+5. ¿Qué fuentes primarias existen hoy?
+
+Si falla cualquiera, el artículo se descarta o se reformula. El listado "Próximamente" es una hipótesis editorial, no un brief verificado.
+
+**Regla de corrección interna:** un error de estrategia, de un borrador o de una lista interna no es un tema público. Si el gancho del artículo es "corregimos nuestro error", no se publica; se corrige en `research_*`, en la estrategia o en este archivo.
+
+**Fact-check del outline:** antes de redactar 2.000 palabras, un agente independiente revisa la tesis y los claims centrales contra las fuentes primarias. Si no se sostienen, se cambia el enfoque o se mata el artículo.
+
 ### Paso 1: Escribir el borrador
 Redactar el artículo normalmente. Las fuentes deben citarse al pie.
 
