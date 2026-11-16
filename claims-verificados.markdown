@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Registro de verificación de datos del Observatorio"
+title: "Claims verificados del observatorio"
 permalink: /claims-verificados/
 description: "Base pública de verificación de datos de muchotexto.net: qué afirmamos, qué corregimos y contra qué fuente. Transparencia editorial."
 last_modified_at: 2026-11-16
