@@ -96,7 +96,8 @@ def _hito(it, ctx):
         return None
     extra = f" [Leer análisis]({ctx['url']})" if ctx["url"] else ""
     if it.get("futuro"):
-        return "Lo que viene", {"orden": "9999", "fecha": fmt_fecha(fecha), "texto": texto + extra}
+        orden = fecha if re.match(r"\d{4}", fecha) else "9999"
+        return "Lo que viene", {"orden": orden, "fecha": fmt_fecha(fecha), "texto": texto + extra}
     year = int(fecha[:4]) if re.match(r"\d{4}", fecha) else 9999
     return seccion_por_anio(year), {"orden": fecha, "fecha": fmt_fecha(fecha), "texto": texto + extra}
 

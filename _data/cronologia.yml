@@ -535,8 +535,12 @@
       suspendidas entre abril y noviembre de 2025, reanudadas en noviembre de 2025.
   - orden: 2027-11
     fecha: Noviembre 2027
-    texto: Entra en vigor la [Ley 7593 de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/).
-      Yguazú Digital Fase I debe estar operativo.
+    texto: Yguazú Digital Fase I debe estar operativo.
+  - orden: '2027-11-27'
+    fecha: 27 Noviembre 2027
+    texto: Entra en vigencia la Ley 7593/2025 de protección de datos personales, con
+      una Agencia dentro del MITIC y derechos de portabilidad y revisión de decisiones
+      automatizadas. [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
   - orden: '2028'
     fecha: '2028'
     texto: '[Elecciones generales en Paraguay](/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/):
@@ -550,8 +554,3 @@
       se cierra entre 2030 y 2070 según la estimación (el artículo toma ~2045). El
       superávit energético se agota entre 2035 y 2040 según la proyección. Las decisiones
       de 2026-2035 definen el camino.
-  - orden: '9999'
-    fecha: 27 Noviembre 2027
-    texto: Entra en vigencia la Ley 7593/2025 de protección de datos personales, con
-      una Agencia dentro del MITIC y derechos de portabilidad y revisión de decisiones
-      automatizadas. [Leer análisis](/articulos/2026/11/13/que-datos-tuyos-tenia-ueno/)
