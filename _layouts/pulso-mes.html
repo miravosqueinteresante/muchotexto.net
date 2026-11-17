@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+
+  {% assign pulsos = site.categories["pulso-paraguay"] | sort: "date" | reverse %}
+  <ul class="post-list-by-taxonomy">
+  {% for post in pulsos %}
+    {% assign ym = post.date | date: "%Y-%m" %}
+    {% if ym == page.ym %}
+    <li>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time>
+      &raquo;
+      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+
+  <p><a href="{{ '/pulso-paraguay/' | relative_url }}">&larr; Volver al archivo de Pulso Paraguay</a></p>
+</article>
