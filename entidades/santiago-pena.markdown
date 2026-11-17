@@ -9,9 +9,12 @@ entity_id: santiago-pena
 entity_name: Santiago Peña
 entity_name_full: Santiago Peña Palacios
 entity_description: >
-  Presidente de Paraguay desde agosto 2023. Su gobierno impulsó la apertura del sector eléctrico (Ley 7599, Decreto 6034), promovió el proyecto Yguazú Digital con Taiwán, y recibió a Peter Thiel y a delegaciones de TSMC. Bajo su administración, Paraguay se posiciona activamente como hub de IA en Sudamérica. Asumió el 15 de agosto de 2023; antes fue ministro de Hacienda (2015-2018) y dirigió el equipo económico de la campaña. Su agenda tech combina la apertura del sector eléctrico, Yguazú Digital, la atracción de data centers y la promoción de Paraguay como plataforma de servicios. Su gobierno aún no tiene una estrategia nacional de IA aprobada.
+  Expresidente de Paraguay. Asumió el 15 de agosto de 2023 y fue destituido por el Senado el 6 de noviembre de 2026 por mal desempeño en el caso Ueno Bank; lo reemplazó Pedro Alliana. Antes fue ministro de Hacienda (2015-2018). Su gobierno impulsó la apertura del sector eléctrico (Ley 7599, Decreto 6034), promovió Yguazú Digital con Taiwán y buscó atraer data centers. Desde el 7 de noviembre de 2026 cumple prisión preventiva; según la Fiscalía, está imputado por lesión de confianza, administración en provecho propio y asociación criminal. Niega los cargos y no hay condena. La causa investiga el colapso de Ueno Bank, del que fue accionista hasta 2025. Paraguay sigue sin una estrategia nacional de IA aprobada.
 entity_category: gobierno
 related_articles:
+  - title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
+    url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
+    context: "El colapso de Ueno Bank desencadenó el juicio político y la prisión preventiva de Santiago Peña. El artículo documenta qué datos acumuló el banco y qué pasó con ellos tras la resolución."
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
   - title: "Luces y sombras de la apertura eléctrica en Paraguay"
@@ -29,4 +32,4 @@ obs_cronologia:
     context: "Santiago Peña reconvoca la Mesa Energética Nacional y da 30 días para propuestas en 4 ejes: institucionalidad, grandes proyectos de generación, mesa público-privada y reglas para inversores."
 ---
 
-4 articulos en el observatorio mencionan a Santiago Peña.
+5 articulos en el observatorio mencionan a Santiago Peña.

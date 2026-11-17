@@ -212,13 +212,13 @@
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Anexo C del Tratado de Itaipú"
+      "label": "Tarifa de Itaipú 2024-2026"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Tarifa de Itaipú 2024-2026"
+      "label": "Anexo C del Tratado de Itaipú"
     },
     {
       "source": "ande",
@@ -278,13 +278,13 @@
       "source": "ande",
       "target": "araico",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "ande",
       "target": "araico",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "ande",
@@ -332,13 +332,13 @@
       "source": "ande",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "ande",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "itaipu",
@@ -494,13 +494,13 @@
       "source": "araico",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "araico",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "peter-thiel",
@@ -519,6 +519,12 @@
       "target": "universidad-nacional",
       "type": "articulo",
       "label": "El experimento paraguayo de Peter Thiel"
+    },
+    {
+      "source": "santiago-pena",
+      "target": "bcp",
+      "type": "articulo",
+      "label": "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
     },
     {
       "source": "universidad-nacional",
