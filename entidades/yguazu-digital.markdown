@@ -4,7 +4,7 @@ title: "Proyecto Yguazú Digital"
 description: >
   Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Proyecto Yguazú Digital.
 permalink: /entidades/yguazu-digital/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 entity_id: yguazu-digital
 entity_name: Yguazú Digital
 entity_name_full: Proyecto Yguazú Digital

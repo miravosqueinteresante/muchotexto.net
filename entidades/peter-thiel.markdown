@@ -4,12 +4,12 @@ title: "Peter Thiel | IA en Paraguay"
 description: >
   Perfil de Peter Thiel en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Peter Thiel, con fuentes primarias locales.
 permalink: /entidades/peter-thiel/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 entity_id: peter-thiel
 entity_name: Peter Thiel
 entity_name_full: Peter Thiel
 entity_description: >
-  Cofundador de PayPal, Palantir Technologies y Founders Fund. Se reunió con el presidente Santiago Peña en Mburuvicha Róga en 2024, generando debate sobre vigilancia, datos y soberanía digital en Paraguay. Su interés en el país es un indicador del potencial geopolítico y económico de Paraguay en la economía de la IA.
+  Cofundador de PayPal, Palantir Technologies y Founders Fund. Se reunió con el presidente Santiago Peña en Mburuvicha Róga el 13 de mayo de 2026, generando debate sobre vigilancia, datos y soberanía digital en Paraguay. Su interés en el país es un indicador del potencial geopolítico y económico de Paraguay en la economía de la IA. La visita fue exploratoria: no anunció una inversión directa ni un proyecto propio en el país. El interés se explica por la energía barata de Itaipú y por el plan Yguazú Digital; el debate local se centra en el historial de Palantir en vigilancia y en qué condiciones se usarían datos paraguayos.
 entity_category: geopolítica
 related_articles:
   - title: "El experimento paraguayo de Peter Thiel"

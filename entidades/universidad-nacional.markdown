@@ -4,7 +4,7 @@ title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
@@ -61,6 +61,9 @@ obs_cronologia:
   - label: "2018"
     url: /cronologia/
     context: "Brasil lanza VICTOR en el Supremo Tribunal Federal: IA que organiza recursos por tema jurídico."
+  - label: "31 Enero 2025"
+    url: /cronologia/
+    context: "Cierra el campo de la primera edición del WIN World AI Index; ICA/ÚH difunden 73% de uso declarado alguna vez para Paraguay. Leer análisis"
   - label: "26 Marzo 2026"
     url: /cronologia/
     context: "Science publica un estudio con 11 modelos y 2.405 participantes: la IA afirma las acciones del usuario 49% más que los humanos y una sola interacción reduce la disposición a reparar un conflicto...."
@@ -70,9 +73,6 @@ obs_cronologia:
   - label: "1 Julio 2026"
     url: /cronologia/
     context: "Debuta el QR interoperable (QR SIP) en comercios, con unas 250.000 operaciones en su primer mes. Leer análisis"
-  - label: "18-20 Agosto 2026"
-    url: /cronologia/
-    context: "El vicepresidente de ADATA, Felipe Masselli, se reúne con el Ministerio de Industria y Comercio, la cúpula de Rediex y la delegación de Taiwán (embajador Iván Lee) para evaluar una planta de..."
 obs_regulacion:
   - label: "Ley integral de ciberseguridad"
     url: /articulos/2026/07/17/ciberseguridad-paraguay/

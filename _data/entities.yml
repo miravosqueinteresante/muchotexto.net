@@ -152,7 +152,12 @@
     Aceleradora y hub de innovación con más de 14 años operando en Paraguay.
     Apoyó a 200+ startups y capacitó a 10.000+ emprendedores. Es el punto de
     encuentro del ecosistema emprendedor tech en Paraguay y un actor clave en
-    la formación de talento para la economía digital.
+    la formación de talento para la economía digital. Su modelo combina
+    aceleración, coworking y programas corporativos con empresas como Samsung,
+    Tigo y Coca-Cola. No es un fondo de capital riesgo ni un regulador: su rol
+    es formar equipos, conectar founders y dar estructura a las primeras
+    etapas. Su límite es la escala: no reemplaza la inversión privada ni la
+    política pública de talento.
   category: comunidad
 
 - slug: x8cloud
@@ -161,8 +166,12 @@
   description: >
     Empresa con sede en Los Ángeles que anunció un plan de USD 10-50B a 30 años
     para construir data centers de IA en Paraguay. Inició construcción en mayo
-    2026 con 50 MW iniciales. Uno de los primeros actores privados habilitados
-    por la apertura del sector eléctrico (Ley 7599, Decreto 6034).
+    de 2026 con 50 MW iniciales. Uno de los primeros actores privados habilitados
+    por la apertura del sector eléctrico (Ley 7599, Decreto 6034). Sus anuncios
+    deben leerse como proyectos: no hay contrato público verificado con ANDE ni
+    un cronograma de fases auditado. Su relevancia es que representa al inversor
+    privado que llega con la apertura eléctrica; su riesgo es que la promesa de
+    capacidad se confunda con capacidad construida.
   category: empresa
 
 - slug: araico
@@ -184,10 +193,14 @@
   name_full: Peter Thiel
   description: >
     Cofundador de PayPal, Palantir Technologies y Founders Fund. Se reunió con
-    el presidente Santiago Peña en Mburuvicha Róga en 2024, generando debate
-    sobre vigilancia, datos y soberanía digital en Paraguay. Su interés en el
-    país es un indicador del potencial geopolítico y económico de Paraguay en
-    la economía de la IA.
+    el presidente Santiago Peña en Mburuvicha Róga el 13 de mayo de 2026,
+    generando debate sobre vigilancia, datos y soberanía digital en Paraguay.
+    Su interés en el país es un indicador del potencial geopolítico y económico
+    de Paraguay en la economía de la IA. La visita fue exploratoria: no anunció
+    una inversión directa ni un proyecto propio en el país. El interés se
+    explica por la energía barata de Itaipú y por el plan Yguazú Digital; el
+    debate local se centra en el historial de Palantir en vigilancia y en qué
+    condiciones se usarían datos paraguayos.
   category: geopolítica
 
 - slug: santiago-pena
@@ -198,7 +211,11 @@
     del sector eléctrico (Ley 7599, Decreto 6034), promovió el proyecto Yguazú
     Digital con Taiwán, y recibió a Peter Thiel y a delegaciones de TSMC. Bajo
     su administración, Paraguay se posiciona activamente como hub de IA en
-    Sudamérica.
+    Sudamérica. Asumió el 15 de agosto de 2023; antes fue ministro de Hacienda
+    (2015-2018) y dirigió el equipo económico de la campaña. Su agenda tech
+    combina la apertura del sector eléctrico, Yguazú Digital, la atracción de
+    data centers y la promoción de Paraguay como plataforma de servicios. Su
+    gobierno aún no tiene una estrategia nacional de IA aprobada.
   category: gobierno
 
 - slug: bid
@@ -216,11 +233,16 @@
   name: TSMC
   name_full: Taiwan Semiconductor Manufacturing Company
   description: >
-    El mayor fabricante de semiconductores del mundo. Produce más del 90% de
+    El mayor fabricante de semiconductores del mundo. Produce la mayor parte de
     los chips avanzados utilizados en IA (NVIDIA H100, Apple M-series, etc.).
     Aunque no fabrica en Paraguay, delegados de TSMC han participado en foros
     bilaterales Paraguay-Taiwán. Su relación con Taiwán es clave para entender
-    la geopolítica de los chips.
+    la geopolítica de los chips. Es una fundición: fabrica chips diseñados por
+    otras empresas y no vende chips con marca propia. Su capacidad en nodos
+    avanzados está concentrada en Taiwán, lo que convierte a la isla en un punto
+    crítico de la cadena global de IA. Para Paraguay, su relevancia es
+    geopolítica: explica por qué Taiwán es un socio estratégico y por qué la
+    relación con China condiciona la agenda tecnológica.
   category: geopolítica
 
 - slug: sopaia
@@ -230,7 +252,15 @@
     Organización que reúne a profesionales, investigadores y entusiastas de la
     IA en Paraguay. Promueve el desarrollo y la divulgación de la inteligencia
     artificial en el país. Co-organiza IBERAMIA 2026, la 19ª Conferencia
-    Iberoamericana de Inteligencia Artificial a realizarse en Asunción.
+    Iberoamericana de Inteligencia Artificial a realizarse en Asunción. Fundada
+    en 2023, no es una autoridad regulatoria ni un colegio profesional. Su
+    aporte es de comunidad y divulgación: conecta talento, organiza actividades
+    y acerca casos de IA a empresas y al Estado. IBERAMIA 2026 es su principal
+    vidriera regional. También busca articular con universidades, empresas y
+    organismos públicos. Su límite es la ausencia de una estrategia nacional de
+    IA, que deja la agenda de comunidad sin marco de política. Su agenda incluye
+    talleres, charlas, formación y vínculos con el sector productivo y la
+    academia.
   category: comunidad
 
 - slug: pti-py
@@ -241,7 +271,12 @@
     Binacional. Opera la única unidad experimental de hidrógeno verde del
     Paraguay (2 Nm³/h). Desarrolla proyectos de innovación en energía,
     automatización y tecnología aplicada. Actor clave en la transición
-    energética y la diversificación tecnológica del país.
+    energética y la diversificación tecnológica del país. Su sede operativa
+    está vinculada a Itaipú y su unidad de hidrógeno verde produce 2 Nm³/h, una
+    escala de investigación, no industrial. También trabaja en automatización,
+    robótica y formación técnica. Su importancia es doble: es un puente entre
+    la energía de Itaipú y la diversificación tecnológica, y un socio posible
+    para pilotos de IA aplicada en la región este.
   category: academia
 
 - slug: universidad-nacional
@@ -261,7 +296,14 @@
     Cámara binacional que impulsó foros internacionales para posicionar a
     Paraguay como hub de data centers, energía limpia e IA. Organizó el foro
     en Silicon Valley (junio 2026) con el MIC, conectando el ecosistema tech
-    paraguayo con inversores y empresas estadounidenses.
+    paraguayo con inversores y empresas estadounidenses. Su función es de
+    articulación comercial e institucional: no opera infraestructura ni regula
+    el sector. En el debate de IA, su valor está en abrir puertas entre
+    empresas paraguayas, inversores estadounidenses y el sector público, y en
+    traducir prioridades de política a agendas de negocios. También organiza
+    misiones, encuentros y espacios de networking para sus socios. No es un
+    fondo de inversión ni una entidad técnica; su influencia depende de la
+    agenda de sus miembros y de su capacidad de convocar a decisores públicos.
   category: comunidad
 
 - slug: conatel

@@ -4,7 +4,7 @@ title: "Banco Interamericano de Desarrollo"
 description: >
   Perfil de BID en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Banco Interamericano de Desarrollo.
 permalink: /entidades/bid/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 entity_id: bid
 entity_name: BID
 entity_name_full: Banco Interamericano de Desarrollo

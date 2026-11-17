@@ -4,7 +4,7 @@ title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad

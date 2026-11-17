@@ -4,12 +4,12 @@ title: "Santiago Peña Palacios"
 description: >
   Perfil de Santiago Peña en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Santiago Peña Palacios.
 permalink: /entidades/santiago-pena/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 entity_id: santiago-pena
 entity_name: Santiago Peña
 entity_name_full: Santiago Peña Palacios
 entity_description: >
-  Presidente de Paraguay desde agosto 2023. Su gobierno impulsó la apertura del sector eléctrico (Ley 7599, Decreto 6034), promovió el proyecto Yguazú Digital con Taiwán, y recibió a Peter Thiel y a delegaciones de TSMC. Bajo su administración, Paraguay se posiciona activamente como hub de IA en Sudamérica.
+  Presidente de Paraguay desde agosto 2023. Su gobierno impulsó la apertura del sector eléctrico (Ley 7599, Decreto 6034), promovió el proyecto Yguazú Digital con Taiwán, y recibió a Peter Thiel y a delegaciones de TSMC. Bajo su administración, Paraguay se posiciona activamente como hub de IA en Sudamérica. Asumió el 15 de agosto de 2023; antes fue ministro de Hacienda (2015-2018) y dirigió el equipo económico de la campaña. Su agenda tech combina la apertura del sector eléctrico, Yguazú Digital, la atracción de data centers y la promoción de Paraguay como plataforma de servicios. Su gobierno aún no tiene una estrategia nacional de IA aprobada.
 entity_category: gobierno
 related_articles:
   - title: "El experimento paraguayo de Peter Thiel"

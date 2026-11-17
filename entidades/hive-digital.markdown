@@ -4,7 +4,7 @@ title: "HIVE Digital Technologies Ltd."
 description: >
   Perfil de HIVE Digital Technologies en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre HIVE Digital Technologies Ltd..
 permalink: /entidades/hive-digital/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 entity_id: hive-digital
 entity_name: HIVE Digital Technologies
 entity_name_full: HIVE Digital Technologies Ltd.
