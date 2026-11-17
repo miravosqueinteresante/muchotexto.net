@@ -278,13 +278,13 @@
       "source": "ande",
       "target": "araico",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "ande",
       "target": "araico",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "ande",
@@ -332,13 +332,13 @@
       "source": "ande",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "ande",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "itaipu",
@@ -494,13 +494,13 @@
       "source": "araico",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "araico",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "peter-thiel",

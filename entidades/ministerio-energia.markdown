@@ -23,6 +23,7 @@ related_articles:
     context: "El proyecto crea el Ministerio de Energía, Minería e Hidrocarburos con tres viceministerios y absorbería al VMME y a la Dirección de Combustibles."
   - title: "El plan energético al 2050 que Paraguay escribió y todavía no ejecuta"
     url: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
+    context: "> Actualización (13 de agosto de 2026); un día después de la publicación de este análisis, el Ejecutivo presentó dos proyectos de ley en la primera reunión de la Mesa Nacional del Sector Eléctrico; la creación del Ministerio de Energía, Minería..."
 entity_laws:
   - "Proyecto de ley de creación del Ministerio de Energía, Minería e Hidrocarburos (2026)"
   - "Ley 7599/2025 y Decreto 6034/2026 - apertura del sector eléctrico"

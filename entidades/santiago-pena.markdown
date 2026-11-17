@@ -17,12 +17,16 @@ related_articles:
     context: "El colapso de Ueno Bank desencadenó el juicio político y la prisión preventiva de Santiago Peña. El artículo documenta qué datos acumuló el banco y qué pasó con ellos tras la resolución."
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
+    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta,..."
   - title: "Luces y sombras de la apertura eléctrica en Paraguay"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
+    context: "El 19 de mayo de 2026, Santiago Peña firmó el Decreto 6034. Con esa firma, Paraguay habilitó por primera vez en su historia que empresas privadas generen, compren, vendan y exporten energía eléctrica de fuentes renovables no hidráulicas. La noticia.."
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
+    context: "El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán el memorándum, presenciado por los presidentes Santiago Peña y Lai Ching-te de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes.."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
+    context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
 obs_cronologia:
   - label: "Octubre 2023"
     url: /cronologia/

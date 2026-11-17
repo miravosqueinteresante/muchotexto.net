@@ -14,15 +14,16 @@ entity_category: geopolítica
 related_articles:
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
-    context: "- Reuters — 'Paraguay stands by Taiwán as island's last South American ally' (16 abril 2024) - [The Economist — 'The lonely road;..."
+    context: "El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán el memorándum, presenciado por los presidentes Santiago Peña y Lai Ching-te de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes.."
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
-    context: "- Wikipedia — TSMC — ingresos, clientes, fábricas, procesos - Wikipedia — Silicon Shield — concepto geopolítico, cuota de mercado, dependencia global - [Wikipedia..."
+    context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
+    context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda; va a abrir sus puertas la primera..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
-    context: "La asimetría Itaipú era de tamaño; Brasil tiene 28 veces la población de Paraguay y 47 veces su PIB. Pero compartían un río y una necesidad concreta; energía. La asimetría Paraguay-Taiwán es de naturaleza. Taiwán no necesita la energía de Paraguay..."
+    context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
   - title: "ADATA mira a Minga Guazú para ensamblar memorias y SSDs"
     url: /articulos/2026/08/28/adata-minga-guazu-memorias-semiconductores/
     context: "El fabricante taiwanés de memorias ADATA, segundo mayor productor del mundo de módulos DRAM, inició la prospección de una planta de ensamblaje de memorias y unidades de estado sólido en Minga Guazú, Alto Paraná. Su vicepresidente lo dijo sin..."

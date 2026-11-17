@@ -95,23 +95,17 @@ def clean_title(title_str, fallback_fname):
 
 def extract_paragraph_containing(body, pattern, max_len=250):
     """Extract the paragraph that contains the match, skipping JSON-LD and HTML blocks."""
-    m = pattern.search(body)
-    if not m:
-        return ""
-    match_pos = m.start()
-
     # Skip JSON-LD script blocks and HTML
     clean_body = body
-    # Remove JSON-LD blocks
     clean_body = re.sub(r'<script\s[^>]*>.*?</script>', '', clean_body, flags=re.DOTALL | re.IGNORECASE)
     clean_body = re.sub(r'<[^>]+>', '', clean_body)
 
-    # Re-find match in cleaned body
-    m2 = pattern.search(clean_body)
-    if m2:
-        match_pos = m2.start()
-    else:
+    # Pattern is accent-insensitive; search over normalized text but slice original
+    clean_body_norm = strip_accents(clean_body)
+    m = pattern.search(clean_body_norm)
+    if not m:
         return ""
+    match_pos = m.start()
 
     # Find paragraph boundaries in clean body
     para_start = clean_body.rfind('\n\n', 0, max(0, match_pos))
@@ -501,6 +495,7 @@ def generate_entity_page(entity, related_articles, obs_matches):
             ctx = re.sub(r'\*\*([^*]+)\*\*', r'\1', ctx)
             ctx = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'\1', ctx)
             ctx = ctx.replace("**", "").replace("*", "")
+            ctx = re.sub(r'\{%.*?%\}', '', ctx)
             ctx = ctx.replace('"', "'").replace(":", ";")[:250]
             lines.append(f'  - title: "{title_clean}"')
             lines.append(f'    url: {art["url"]}')

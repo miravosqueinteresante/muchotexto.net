@@ -14,22 +14,31 @@ entity_category: infraestructura
 related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
+    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
+    context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda; va a abrir sus puertas la primera..."
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
+    context: "Ese desajuste entre generación y transmisión es, hoy por hoy, el principal obstáculo para que Paraguay se convierta en el hub de inteligencia artificial que promete ser. Y la ventana para resolverlo se está cerrando; 2027 es el año en que vencen los."
   - title: "Paraguay necesita más ingenieros para sostener su hub de IA"
     url: /articulos/2026/07/09/educacion-tech-paraguay-ia/
+    context: "En noviembre de 2027, cuando abra la primera fase de Yguazú Digital, Paraguay va a necesitar técnicos en refrigeración líquida para servidores de inteligencia artificial, ingenieros eléctricos especializados en subestaciones de alta tensión y..."
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
+    context: "El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán el memorándum, presenciado por los presidentes Santiago Peña y Lai Ching-te de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes.."
   - title: "Qué es un data center y por qué Paraguay quiere construir uno"
     url: /articulos/2026/07/10/que-es-un-data-center-paraguay-ia/
+    context: "En cada artículo de este sitio sobre inteligencia artificial en Paraguay aparece la expresión 'centro de datos' o 'data center'. Yguazú Digital, todavía un proyecto, aspira a ser uno. Los mineros de criptomonedas operan versiones más pequeñas. Los..."
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
+    context: "Paraguay es el último aliado diplomático de Taiwán en Sudamérica. Juntos firmaron Yguazú Digital, un centro de datos de inteligencia artificial de 200 millones de..."
   - title: "Lo que un data center compra y Paraguay no puede vender"
     url: /articulos/2026/07/25/cadena-valor-data-center/
+    context: "Paraguay está atrayendo data centers con la promesa de energía barata. Yguazú Digital proyecta 1.000 MW en su fase final. HIVE Digital Technologies opera 300 MW de infraestructura de minería Bitcoin en Paraguay (200 MW en Yguazú,..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
+    context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
 obs_glosario:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/

@@ -16,10 +16,13 @@ entity_datos_desc: "Generación binacional Paraguay-Argentina: mensual EBY y agr
 related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
+    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
+    context: "Paraguay genera más electricidad de la que consume, pero tener energía disponible no es lo mismo que tenerla donde se necesita. El país tiene 8.760 MW nominales entre su cuota de Itaipú, Yacyretá y Acaray (8.025 MW disponibles), pero su red de 500..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
+    context: "En 2024 Paraguay generó el 99,998% de su electricidad con fuentes renovables. Es un número que ningún país industrializado puede igualar. Pero esa electricidad sale casi enteramente de dos represas —Itaipú y Yacyretá— que dependen de un solo río, el."
 entity_laws:
   - "Tratado de Yacyretá (1973) — entidad binacional Paraguay-Argentina"
 obs_casos-de-uso:

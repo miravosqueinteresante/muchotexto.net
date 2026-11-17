@@ -16,19 +16,19 @@ entity_datos_desc: "serie 2000–2026: generación por sector 50/60 Hz y suminis
 related_articles:
   - title: "En 2027 Paraguay arriesga el acuerdo tarifario de Itaipú"
     url: /articulos/2026/07/17/itaipu-2027-energia-paraguay/
-    context: "- Wikipedia — Tratado de Itaipú — historia, estructura, Anexo C - [Wilson Center — 'Brazil, Paraguay, and the Future of..."
+    context: "El 26 de abril de 1973, Paraguay y Brasil firmaron el Tratado de Itaipú. Cincuenta y tres años después, la represa hidroeléctrica con mayor generación acumulada de la historia —14.000 megavatios instalados, 20 turbinas de 700 megavatios cada una—..."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
-    context: "1. Tratado de Itaipú — Wikipedia (1973) 2. Itaipú Binacional — sitio oficial 3. Yguazú Digital — cobertura del MoU, ABC Color (mayo 2026) 4...."
+    context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "- Focus Taiwán (CNA) — Firma del MOU Paraguay-Taiwán (8 mayo 2026) - [Infobae — 'Paraguay y Taiwán anunciaron el desarrollo de uno de los mayores centros de IA del..."
+    context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
   - title: "Paraguay tiene energía para la IA pero no la red para transportarla"
     url: /articulos/2026/07/08/red-electrica-paraguay-ia/
-    context: "- ABC Color — 'Peña reporta avances en la red eléctrica y millonarias inversiones' (4 julio 2026) - [Última Hora —..."
+    context: "Paraguay genera más electricidad de la que consume, pero tener energía disponible no es lo mismo que tenerla donde se necesita. El país tiene 8.760 MW nominales entre su cuota de Itaipú, Yacyretá y Acaray (8.025 MW disponibles), pero su red de 500..."
   - title: "Paraguay tiene energía 100% renovable y el cambio climático la amenaza"
     url: /articulos/2026/08/04/energia-renovable-cambio-climatico-paraguay/
-    context: "1. Wikipedia (EN) — Electricity sector in Paraguay 2. ANDE — Portal oficial 3. Itaipú Binacional — Informes de generación 4...."
+    context: "En 2024 Paraguay generó el 99,998% de su electricidad con fuentes renovables. Es un número que ningún país industrializado puede igualar. Pero esa electricidad sale casi enteramente de dos represas —Itaipú y Yacyretá— que dependen de un solo río, el."
   - title: "ANDE oculta 943 MW de contratos GCIE bajo llave"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "En 2025, cuarenta y una empresas —la mayoría criptomineras y data centers— operaban bajo el Programa de Grandes Consumidores de Energía Intensiva (GCIE) de la ANDE, con una potencia reservada total de 943,8 MW. Su consumo combinado alcanzó 5.465..."
