@@ -3,7 +3,7 @@ layout: post
 title: "El Estado ya puede comprar I+D, pero no es una venta segura"
 seo_title: "Compra Pública de Innovación en Paraguay"
 date: 2026-11-16 12:00:00 -0300
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 permalink: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
 categories: [articulos]
 pilar: 4
