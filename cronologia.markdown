@@ -16,6 +16,6 @@ La cronología está dividida por etapas para que puedas leerla como un proceso,
 {% assign sec_slug = grupo.seccion | slugify %}
 ## {{ grupo.seccion }}
 
-<p>{{ grupo.items.size }} hitos. <a href="{{ '/cronologia/' | append: sec_slug | append: '/' | relative_url }}">Ver esta sección</a></p>
+<p>{{ grupo.items.size }} hitos. <a href="{{ '/cronologia/' | append: sec_slug | append: '/' | relative_url }}" aria-label="Ver sección {{ grupo.seccion }}">Ver esta sección</a></p>
 
 {% endfor %}
