@@ -3,6 +3,8 @@ layout: pulso-mes
 title: "Pulso Paraguay — agosto 2026"
 permalink: /pulso-paraguay/2026/08/
 ym: "2026-08"
+prev_url: /pulso-paraguay/2026/07/
+next_url: /pulso-paraguay/2026/09/
 description: "Ediciones de Pulso Paraguay de agosto de 2026."
 last_modified_at: 2026-11-17
 ---

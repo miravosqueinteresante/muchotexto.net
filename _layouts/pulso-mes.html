@@ -21,5 +21,13 @@ layout: default
   {% endfor %}
   </ul>
 
+  {% if page.prev_url or page.next_url %}
+  <p class="pulso-nav">
+    {% if page.prev_url %}<a href="{{ page.prev_url | relative_url }}">&larr; Mes anterior</a>{% endif %}
+    {% if page.prev_url and page.next_url %} &middot; {% endif %}
+    {% if page.next_url %}<a href="{{ page.next_url | relative_url }}">Mes siguiente &rarr;</a>{% endif %}
+  </p>
+  {% endif %}
+
   <p><a href="{{ '/pulso-paraguay/' | relative_url }}">&larr; Volver al archivo de Pulso Paraguay</a></p>
 </article>
