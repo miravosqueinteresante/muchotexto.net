@@ -115,8 +115,14 @@
   gap: .35em .75em;
   align-items: center;
   margin-bottom: var(--spacer-2);
-  opacity: .65;
+  opacity: .9;
   font-size: .82em;
+}
+
+.post p a,
+.post li a:not(.post-tag) {
+  text-decoration: underline;
+  text-underline-offset: .15em;
 }
 
 .post-categories,
