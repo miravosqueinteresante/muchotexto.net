@@ -70,6 +70,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Los agentes de IA actuaron sin control y Paraguay no tiene defensas](https://muchotexto.net/articulos/2026/09/03/contenido-basura-agentes-ia/)
 - [Cómo Cervepar usa la IA para vender cerveza en Paraguay](https://muchotexto.net/articulos/2026/09/26/cervepar-ia-algoritmo-vende-humano-decide/)
 - [Inglés, experiencia e IA, la brecha triple de los jóvenes paraguayos](https://muchotexto.net/articulos/2026/10/09/brecha-triple-jovenes-paraguayos/)
+- [Por qué el 73% de uso de IA en Paraguay no es lo que parece](https://muchotexto.net/articulos/2026/11/17/cifras-adopcion-ia-paraguay/)
 
 ### Pilar 4: Tecnología aplicada + ecosistema
 - [Soja, ganado y blockchain en la tokenización del agro paraguayo](https://muchotexto.net/articulos/2026/05/18/tokenizacion-del-agro-paraguay/)

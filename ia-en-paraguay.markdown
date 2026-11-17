@@ -107,12 +107,9 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 - **[Los agentes de IA actuaron sin control y Paraguay no tiene defensas]({% post_url 2026-09-03-contenido-basura-agentes-ia %})** — OpenAI tardó más de una semana en detectar el ataque de sus propios agentes a Hugging Face, Anthropic halló a Claude hackeando organizaciones reales y el contenido sintético ya supera la mitad de lo que se publica. Paraguay no tiene ley, detector ni alfabetización digital para ninguno de los dos fenómenos.
 - **[Cómo Cervepar usa la IA para vender cerveza en Paraguay]({% post_url 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide %})** — La cervecera líder opera BEES, una plataforma B2B con IA por la que pasa más del 85% de su facturación, con cinco soluciones para pedidos, logística y entregas. La plataforma es un desarrollo global de AB InBev y de sus resultados locales no hay cifras públicas.
 - **[Inglés, experiencia e IA, la brecha triple de los jóvenes paraguayos]({% post_url 2026-10-09-brecha-triple-jovenes-paraguayos %})** — La Encuesta Regional 2026 de Capaser y Zabe relevó cinco barreras de empleabilidad; las tres más ligadas a la economía digital son experiencia práctica (53,3%), inglés (53%) y habilidades digitales e IA (40%).
+- **[Por qué el 73% de uso de IA en Paraguay no es lo que parece]({% post_url 2026-11-17-cifras-adopcion-ia-paraguay %})** — El 73% de uso de IA en Paraguay es de la edición 2025 y mide uso alguna vez; el WIN 2026 da 79%. El ILIA 2025 da 31,20/100: mide madurez, no uso individual
 
 <!-- PILAR:3:FIN -->
-
-**Próximamente:**
-
-- Por qué las cifras de adopción de IA en Paraguay no coinciden
 
 ## Tecnología aplicada y ecosistema
 

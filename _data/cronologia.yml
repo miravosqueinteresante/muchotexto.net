@@ -192,6 +192,10 @@
     texto: '[Bitfarms vende Yguazú a HIVE](/articulos/2026/07/07/criptomineria-paraguay-energia-barata/)
       y completa su salida de Paraguay en enero 2026 con la venta de Paso Pe (70 MW,
       hasta USD 30M). ~10 mineras cierran en 2 años.'
+  - orden: '2025-01-31'
+    fecha: 31 Enero 2025
+    texto: Cierra el campo de la primera edición del WIN World AI Index; ICA/ÚH difunden
+      73% de uso declarado alguna vez para Paraguay. [Leer análisis](/articulos/2026/11/17/cifras-adopcion-ia-paraguay/)
   - orden: 2025-04
     fecha: Abril 2025
     texto: 'Escándalo [ABIN: inteligencia brasileña espía a funcionarios paraguayos](/articulos/2026/07/17/itaipu-2027-energia-paraguay/)
@@ -224,6 +228,10 @@
     fecha: 12 Septiembre 2025
     texto: ANDE publica la ficha de necesidad del reto Energía Segura para reducir
       pérdidas no técnicas en baja tensión. [Leer análisis](/articulos/2026/11/16/compra-publica-innovacion-paraguay/)
+  - orden: '2025-10-24'
+    fecha: 24 Octubre 2025
+    texto: 'Se difunde el ILIA 2025: Paraguay obtiene 31,20/100 y queda en el grupo
+      de países exploradores. [Leer análisis](/articulos/2026/11/17/cifras-adopcion-ia-paraguay/)'
   - orden: '2025-11-05'
     fecha: 5 Noviembre 2025
     texto: 'Paraguay sanciona su [primera ley integral de protección de datos](/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
@@ -264,6 +272,10 @@
       un esquema paralelo al GCIE para "industrias convergentes" y "Power to X" con
       contratos en dólares a 15 años. Un quinto decreto autoriza 3.000 MW adicionales.
       Sin debate público.
+  - orden: '2026-02-22'
+    fecha: 22 Febrero 2026
+    texto: Última Hora publica el 73% de uso de IA en Paraguay, con el desglose de
+      frecuencia de ICA. [Leer análisis](/articulos/2026/11/17/cifras-adopcion-ia-paraguay/)
   - orden: 2026-03
     fecha: Marzo 2026
     texto: '[HIVE Digital lanza BUZZ AI Cloud](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
@@ -320,6 +332,10 @@
     fecha: 13 Mayo 2026
     texto: '[Peter Thiel y Crusoe AI se reúnen con Peña](/articulos/2026/05/16/peter-thiel-paraguay-experimento/)
       en Mburuvicha Róga.'
+  - orden: '2026-05-17'
+    fecha: 17 Mayo 2026
+    texto: 'Se publica el WIN World AI Index 2026: la tabla de PSRC/WIN reporta 79%
+      de uso declarado y el índice compuesto da 68,9. [Leer análisis](/articulos/2026/11/17/cifras-adopcion-ia-paraguay/)'
   - orden: '2026-05-19'
     fecha: 19 Mayo 2026
     texto: 'Peña firma el [Decreto 6034](/articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/):

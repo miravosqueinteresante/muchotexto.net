@@ -697,3 +697,23 @@
     definicion: Escala que mide qué tan cerca está una tecnología de estar lista para
       el mercado. La CPI usa el TRL para decidir desde qué etapa técnica arranca cada
       solución.
+- tema: Datos de IA
+  terminos:
+  - termino: Uso declarado
+    definicion: Respuesta de una persona a una encuesta sobre si usó herramientas
+      de IA. No es un registro de uso efectivo ni una medición de adopción productiva.
+  - termino: AI Index (WIN)
+    definicion: 'Índice compuesto de siete indicadores: frecuencia de uso, confianza,
+      eficiencia, interés, comodidad, usabilidad y aceptación. No es una tasa de adopción.'
+  - termino: ILIA
+    definicion: 'Índice Latinoamericano de Inteligencia Artificial, elaborado por
+      CEPAL y Cenia. Mide madurez del ecosistema en tres dimensiones: factores habilitantes,
+      investigación/desarrollo/adopción y gobernanza.'
+  - termino: Huella digital
+    definicion: Indicador construido con tráfico web o uso de aplicaciones, no con
+      una encuesta de personas. El ILIA lo usa para aproximar adopción cuando no hay
+      estadísticas oficiales.
+  - termino: Brecha digital
+    definicion: Diferencia en acceso, dispositivos y habilidades para usar internet.
+      Explica por qué una cifra de uso de IA no se reparte de forma uniforme en la
+      población.

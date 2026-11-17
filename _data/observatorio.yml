@@ -1297,3 +1297,21 @@
     radar: La Ley 7021/2022 ya estaba en el radar; no se agregó una norma nueva.
     claims: No se incorporaron claims nuevos a la página pública en esta edición.
     grafo: El grafo no indexa URLs de artículos.
+2026-11-17-cifras-adopcion-ia-paraguay:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: updated
+    glosario: updated
+    casos: updated
+    directorio: n/a
+    radar: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    directorio: No se agregó una entrada nueva al directorio en esta edición.
+    radar: No se agregó una norma nueva al radar; el artículo usa leyes y datos ya existentes.
+    claims: No se incorporaron claims nuevos a la página pública en esta edición.
+    entidades: El artículo no se centra en una entidad del observatorio; usa MITIC e INE como fuentes.
+    grafo: El grafo no indexa URLs de artículos.
