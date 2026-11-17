@@ -11,10 +11,9 @@ Cada hito enlaza con el artículo completo donde se analiza en profundidad con f
 > Esta página se genera a partir de una fuente única: los hitos declarados en el front matter de cada artículo, más un *seed* curado de contexto histórico. No se edita a mano — ver `/como-trabajamos/`.
 
 {% for grupo in site.data.cronologia %}
+{% assign sec_slug = grupo.seccion | slugify %}
 ## {{ grupo.seccion }}
 
-{% for item in grupo.items -%}
-- **{{ item.fecha }}** — {{ item.texto }}
-{% endfor %}
+<p>{{ grupo.items.size }} hitos. <a href="{{ '/cronologia/' | append: sec_slug | append: '/' | relative_url }}">Ver esta sección</a></p>
 
 {% endfor %}

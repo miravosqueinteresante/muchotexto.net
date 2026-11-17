@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+
+  {% assign target = page.seccion | slugify %}
+  {% for grupo in site.data.cronologia %}
+    {% assign grupo_slug = grupo.seccion | slugify %}
+    {% if grupo_slug == target %}
+    <ul class="post-list-by-taxonomy">
+      {% for item in grupo.items %}
+      {% capture item_html %}<strong>{{ item.fecha }}</strong> &mdash; {{ item.texto }}{% endcapture %}
+      <li>{{ item_html | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  {% endfor %}
+
+  <p><a href="{{ '/cronologia/' | relative_url }}">&larr; Volver a la cronología completa</a></p>
+</article>
