@@ -10,4 +10,4 @@ last_modified_at: 2026-11-17
 
 Hitos anunciados y fechas futuras.
 
-Esta sección no es una agenda oficial ni una predicción: reúne fechas anunciadas, vencimientos normativos y proyecciones que aparecen en los artículos. Algunas pueden cambiar; otras dependen de decisiones políticas. Sirven para ubicar el debate, no para fijar un calendario definitivo. Si una fecha se mueve, la edición del artículo enlazado conserva el contexto y la fuente original.
+Esta sección no es una agenda oficial ni una predicción: reúne fechas anunciadas, vencimientos normativos y proyecciones que aparecen en los artículos. Algunas pueden cambiar; otras dependen de decisiones políticas. Sirven para ubicar el debate, no para fijar un calendario definitivo. Si una fecha se mueve, la edición del artículo enlazado conserva el contexto y la fuente original. Las proyecciones no reemplazan el seguimiento de cada norma o anuncio.

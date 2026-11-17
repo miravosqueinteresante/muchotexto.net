@@ -10,4 +10,4 @@ last_modified_at: 2026-11-17
 
 Hitos de contexto histórico entre 1973 y 2009.
 
-Esta sección reúne los antecedentes que explican por qué Paraguay llega a la discusión de IA con una matriz eléctrica peculiar: la creación de la CNEA, el Tratado de Itaipú, la Ley de Maquila y la tarifa social. No son hitos de IA en sentido estricto, pero son las condiciones institucionales y energéticas sobre las que se montó el debate posterior.
+Esta sección reúne los antecedentes que explican por qué Paraguay llega a la discusión de IA con una matriz eléctrica peculiar: la creación de la CNEA, el Tratado de Itaipú, la Ley de Maquila y la tarifa social. No son hitos de IA en sentido estricto, pero son las condiciones institucionales y energéticas sobre las que se montó el debate posterior. La sección también muestra cómo la energía se volvió el recurso central del país.
