@@ -20,5 +20,13 @@ layout: default
     {% endif %}
   {% endfor %}
 
+  {% if page.prev_url or page.next_url %}
+  <p class="pulso-nav">
+    {% if page.prev_url %}<a href="{{ page.prev_url | relative_url }}">&larr; Sección anterior</a>{% endif %}
+    {% if page.prev_url and page.next_url %} &middot; {% endif %}
+    {% if page.next_url %}<a href="{{ page.next_url | relative_url }}">Sección siguiente &rarr;</a>{% endif %}
+  </p>
+  {% endif %}
+
   <p><a href="{{ '/cronologia/' | relative_url }}">&larr; Volver a la cronología completa</a></p>
 </article>
