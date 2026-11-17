@@ -54,7 +54,7 @@ El 73% mide **uso declarado alguna vez** en una encuesta. El 31,20 mide **madure
 
 ## El 73% es de 2025, no de 2026
 
-El dato que se difundió en Paraguay aparece en la nota de **Última Hora del 22 de febrero de 2026**. El artículo describe un estudio de **40 países**, con **más de 32.700 personas** encuestadas y una media global de **63%**. El dato de 32.700 coincide con la primera edición del **WIN World AI Index**; el informe 2025 declara 38 países miembros y una media cercana a 62%, que la nota redondea. No es la edición 2026.
+El dato que se difundió en Paraguay aparece en la nota de **Última Hora del 22 de febrero de 2026**. El artículo describe un estudio de **40 países**, con **más de 32.700 personas** encuestadas y una media global de **63%**. El informe 2025 del **WIN** declara 38 países miembros y una media global de **62%**; el **63%** es la cifra que difundió **Última Hora**, no un redondeo del informe. Las bases son distintas: **34.515 casos** para la incidencia de uso y **32.770** para el **AI Index**; el “32.700” de la nota es una aproximación a la base del índice, no el n de la incidencia. No es la edición 2026.
 
 La edición 2026 se publicó el **17 de mayo de 2026**, con campo entre noviembre de 2025 y enero de 2026. En la tabla de incidencia que reproduce el miembro filipino de WIN (PSRC), Paraguay aparece con **79% de uso declarado**, no 73%. Esa tabla lo ubica **17.º**, empatado con Chile, en una lista de 44 o 45 países según se mida incidencia o índice.
 
@@ -66,9 +66,9 @@ Y hay una diferencia más importante: **el 73% es uso alguna vez, no uso diario*
 
 La otra cifra que confunde es el **68,9** que Paraguay obtuvo en el **AI Index 2026**. No es una tasa de adopción. Es un índice compuesto de siete indicadores: frecuencia de uso, confianza, eficiencia, interés, comodidad, usabilidad y aceptación. Con 68,9, Paraguay quedó **tercero de 44 países**, detrás de India y China (75,8) y delante de Marruecos (68,4) e Indonesia (67,9). El índice global fue 54,5.
 
-WIN publica un top 5 del AI Index; Paraguay está **3.º**. Y el “8.º del mundo” que publicó Última Hora no está en las tablas de WIN. Lo verificable de 2025 es **9.º en el AI Index (58,2)** y **4.º en el subíndice de uso (52,2)**. El 8.º pudo ser una posición de incidencia, pero no es un dato reproducible en el informe.
+WIN publica un top 5 del AI Index; Paraguay está **3.º**. Y el “8.º del mundo” que publicó Última Hora no está en las tablas de WIN. Lo verificable de 2025 es **9.º en el AI Index (58,2)** y **4.º, empatado con Malasia, en el subíndice de uso (52,2)**. El 8.º pudo ser una posición de incidencia, pero no es un dato reproducible en el informe.
 
-Tampoco conviene leer el salto de 58,2 a 68,9 como una mejora limpia. WIN advierte que cambió la redacción de las preguntas, agregó afirmaciones y modificó la ponderación. Las diferencias entre 2025 y 2026 son “tendencias direccionales”, no una medición precisa del cambio.
+Tampoco conviene leer el salto de 58,2 a 68,9 como una mejora limpia. WIN advierte que cambió la redacción de las preguntas, agregó afirmaciones, cambió el ruteo de los indicadores e incorporó países nuevos; en 2026, además, todos los países se ponderaron a **~1.000 casos**. Las diferencias entre 2025 y 2026 son “tendencias direccionales”, no una medición precisa del cambio.
 
 ## El 31,20/100 mide madurez
 
@@ -86,13 +86,13 @@ El **ILIA 2026** ya reporta **32,6/100** y **14 de 20**, con 126 subindicadores.
 
 La brecha digital también produce cifras que parecen pelear. **DataReportal 2026** estima **83,1%** de penetración de internet sobre la población total (5,84 millones sobre 7,03 millones). **El INE 2025** mide **85,4%** sobre población de 10 años o más (4,43 millones sobre 5,19 millones). Cambian universo y fuente; no son cifras rivales.
 
-El **134% de penetración móvil** son **9,46 millones de conexiones**, no personas: una persona puede tener más de una línea, y muchas conexiones son solo voz o SMS. El **99,3% de hogares con TIC** que reporta el INE incluye radio y televisión; no equivale a internet. La línea de base del Plan Nacional de Telecomunicaciones 2026-2030 reporta **53,72% de hogares con internet fijo** en 2025.
+El **134% de penetración móvil** son **9,46 millones de conexiones**, no personas: una persona puede tener más de una línea, y muchas conexiones son solo voz o SMS. El **99,3% de hogares con TIC** que reporta el INE incluye radio y televisión; no equivale a internet. La línea de base del documento en consulta pública del Plan Nacional de Telecomunicaciones 2026-2030 reporta **53,72% de hogares con internet fijo** en 2025.
 
 La brecha rural/urbana sigue: **77,8% vs 88,2%** en personas, pero **49,5% vs 85,5%** en hogares con internet. La encuesta del INE no cubre Boquerón, Alto Paraguay, comunidades indígenas ni viviendas colectivas; la brecha rural real es probablemente mayor.
 
 ## Adopción productiva: no hay una encuesta nacional
 
-No se identificó una encuesta nacional dedicada a medir adopción de IA en empresas. Lo más cercano es la **ETML 2024 del INE**, limitada a Asunción y Central: **12,9%** de las empresas declara usar ciencia de datos, IA o big data; **23,3%** planea incorporarlo; **63,9%** no lo usa ni lo planea. Son 1.450 encuestas y 10.627 empresas de cinco o más ocupados.
+No se identificó una encuesta nacional dedicada a medir adopción de IA en empresas. Lo más cercano es la **ETML 2024 del INE**, limitada a Asunción y Central: **12,9%** de las empresas declara usar ciencia de datos, IA o big data; **23,3%** planea incorporarlo; **63,9%** no lo usa ni lo planea. Se hicieron **1.450 encuestas efectivas**; el **universo estimado** es de **10.627 empresas** de cinco o más ocupados.
 
 Ese 12,9% no es “adopción productiva” en sentido estricto: agrupa IA con big data y ciencia de datos, y solo cubre la principal aglomeración urbana. Otras mediciones muestran un panorama más limitado:
 
@@ -101,7 +101,7 @@ Ese 12,9% no es “adopción productiva” en sentido estricto: agrupa IA con bi
 - **17%** de 152 industrias encuestadas por BID/UIP usa tecnologías cercanas a la industria 4.0.
 - **74%** de las empresas de la encuesta de PwC no registra cambios en ingresos ni costos por IA; el tamaño de la muestra paraguaya no se publica.
 
-En el Estado, la **DNCP** es el caso más maduro: usa modelos para detectar anomalías y un chatbot, con modelos desde 2019. Pero no publica una evaluación de impacto. El resto del sector público usa IA de forma puntual, sin catálogo ni estrategia nacional aprobada.
+En el Estado, la **DNCP** es el caso más maduro: usa modelos para detectar anomalías y un chatbot, con desarrollos desde 2019. Pero no publica una evaluación de impacto. **Según MITIC y TEDIC**, el resto del sector público usa IA de forma **puntual o aislada**. **No se identificó un catálogo público consolidado** de proyectos de IA del Estado ni una estrategia nacional aprobada.
 
 ## La narrativa: cómo se mezclan las cifras
 
@@ -121,11 +121,11 @@ Antes de repetir un número, hacé cinco preguntas:
 2. **¿Mide uso alguna vez, uso frecuente o uso diario?** El 73% es alguna vez; el 32% es frecuente; el diario no se publica.
 3. **¿Es adopción, índice compuesto o madurez?** 73/79% es uso declarado; 68,9 es AI Index; 31,20 es madurez.
 4. **¿Es personas, hogares o conexiones?** 83,1% y 85,4% son personas con universos distintos; 134% son conexiones; 53,72% son hogares con internet fijo.
-5. **¿Es encuesta o huella digital?** El WIN es encuesta telefónica; el ILIA usa tráfico web y apps.
+5. **¿Es encuesta o huella digital?** El WIN es una encuesta internacional de opinión (**CAWI, CATI, presencial o TAPI según el país**); en Paraguay se hizo por **CATI**. El ILIA usa tráfico web y apps.
 
 | Si querés decir… | Citá… |
 |---|---|
-| “Uso declarado de IA en 2026” | 79% (WIN 2026/PSRC), aclarando que es “alguna vez” |
+| “Uso declarado de IA en 2026” | 79% (tabla PSRC de WIN 2026), aclarando que es “alguna vez” |
 | “Uso declarado en 2025” | 73% (ICA/ÚH), aclarando que es “alguna vez” |
 | “Madurez del ecosistema” | ILIA 2025: 31,20/100; ILIA 2026: 32,6/100 |
 | “Adopción en empresas de Asunción y Central” | ETML 2024: 12,9% |
@@ -159,6 +159,7 @@ Este análisis se inscribe en el pilar de IA, sociedad y trabajo de [IA en Parag
 17. [PwC — 29.ª Encuesta Global de CEOs, capítulo Paraguay](https://www.pwc.com/py/es/pdfs/29th%20CEO%20Survey%20Capitulo%20Paraguay%202026.pdf)
 18. [El Prisma — “¿Sabés cuáles son las inteligencias artificiales que más conversan con los paraguayos?” (27-may-2026)](https://elprisma.com.py/sabes-cuales-son-las-inteligencias-artificiales-que-mas-conversan-con-los-paraguayos/)
 19. [J.P. Morgan — “Inteligencia artificial en América Latina: de la adopción a la creación de valor” (1-sep-2026)](https://privatebank.jpmorgan.com/latam/es/insights/markets-and-investing/el-pulso-de-america-latina/inteligencia-artificial-en-america-latina-de-la-adopcion-a-la-creacion-de-valor)
+20. [The Paraguay Post — “¿Qué tan protegidos estamos en la era de la IA en Paraguay?” (15-oct-2025)](https://www.theparaguaypost.com/p/ia-paraguay-seguridad-vigilancia-democracia)
 
 <script type="application/ld+json">
 {
@@ -170,7 +171,7 @@ Este análisis se inscribe en el pilar de IA, sociedad y trabajo de [IA en Parag
       "name": "¿El 73% significa que 7 de cada 10 paraguayos usan IA todos los días?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. El 73% es uso declarado alguna vez en la edición 2025 del WIN. El desglose es 32% siempre o a menudo, 41% a veces, 25% nunca y 2% que no sabe o no responde. El uso diario paraguayo no se publica."
+        "text": "No. El 73% es uso declarado alguna vez en la edición 2025, según ICA/ÚH. El desglose es 32% siempre o a menudo, 41% a veces, 25% nunca y 2% que no sabe o no responde. El uso diario paraguayo no se publica."
       }
     },
     {
@@ -202,7 +203,7 @@ Este análisis se inscribe en el pilar de IA, sociedad y trabajo de [IA en Parag
       "name": "¿Cuál cifra debo citar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Depende de lo que quieras decir. Para uso declarado en 2026, 79% (WIN 2026/PSRC); para uso declarado en 2025, 73% (ICA/ÚH); para madurez, ILIA 2025 31,20/100 o ILIA 2026 32,6/100; para adopción en empresas de Asunción y Central, 12,9% (ETML 2024)."
+        "text": "Depende de lo que quieras decir. Para uso declarado en 2026, 79% (tabla PSRC de WIN 2026); para uso declarado en 2025, 73% (ICA/ÚH); para madurez, ILIA 2025 31,20/100 o ILIA 2026 32,6/100; para adopción en empresas de Asunción y Central, 12,9% (ETML 2024)."
       }
     }
   ]
