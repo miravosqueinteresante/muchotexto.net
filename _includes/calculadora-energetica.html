@@ -135,7 +135,7 @@
   }
 
   function build(){
-    barsEl.innerHTML = '';
+    barsEl.replaceChildren();
     var mw = Number(mwEl.value);
     var mwh = mw * 8760;
     var showRisk = riskEl.checked;
