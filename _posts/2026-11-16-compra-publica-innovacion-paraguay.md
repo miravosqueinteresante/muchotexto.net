@@ -111,9 +111,9 @@ La resolución exige incluir criterios de propiedad intelectual en el pliego y c
 
 La CPI paraguaya no arranca de cero. Arranca de dos retos piloto que la DNCP venía trabajando con ANDE y ESSAP desde 2025.
 
-**ANDE: pérdidas no técnicas.** El reto busca un modelo piloto para identificar, controlar y reducir **pérdidas eléctricas no técnicas** —hurto de energía— en baja tensión en zonas sociales críticas. La ficha de ANDE dice que esas pérdidas “corresponden en promedio al **13%** del total de energía distribuida”. La página de la DNCP dice **14%**. La ficha primaria y el informe de cierre dicen 13%; la página institucional dice 14%.
+**ANDE: pérdidas no técnicas.** El reto busca un modelo piloto para identificar, controlar y reducir **pérdidas eléctricas no técnicas** —hurto de energía— en baja tensión en zonas sociales críticas. La ficha de ANDE dice que esas pérdidas “corresponden en promedio al **13%** del total de energía distribuida”. La página de la DNCP dice **14%**.
 
-Ninguna de las dos cifras es “el total de pérdidas de ANDE”. Las pérdidas de distribución cerraron 2024 en **21,89%** y 2025 en **20,03%**; las pérdidas totales, incluyendo transmisión, fueron **24,40% a diciembre de 2025 (año móvil)**. El 13-14% es una porción: las pérdidas no técnicas dentro de la energía distribuida.
+Ninguna es el total de pérdidas de ANDE. Distribución: **21,89% al cierre de 2024** (informe de la CPM de ANDE) y **20,03% en diciembre de 2025 (año móvil, BAGP)**; el resumen del BAGP consigna **21%** anual. Totales con transmisión: **24,40%** (mismo corte). El 13-14% es una porción: las pérdidas no técnicas.
 
 El piloto se concentra en el Asentamiento Nueva Asunción, en Tarumandy, Luque. El barrio tiene unas **380-420 casas**, de las cuales **175** tienen medidor y **27** están en situación regular. En agosto de 2025, las pérdidas mensuales medidas en el ramal del barrio rondaban el **88%**, con 326.472 kWh entregados. El objetivo es reducir a **5% o menos** en la zona intervenida. El 88% es el ramal, no la media nacional.
 
@@ -121,9 +121,9 @@ ANDE recibió **10 propuestas**; **5** fueron calificadas como “interesantes y
 
 **ESSAP: pérdidas comerciales de agua.** AquaStop ataca las **pérdidas comerciales** de agua, el componente crítico del Agua No Contabilizada. Las causas incluyen conexiones clandestinas, errores de micromedición, cuentas promediadas, conexiones obsoletas, robo de medidores y falta de interoperabilidad.
 
-La zona piloto comprende en promedio **128.167 conexiones**. En esa zona, **52,6%** tiene micromedición efectiva, **34,9%** no tiene micromedición y **12,5%** está cortada o desconectada. ESSAP recibió **7 propuestas** —6 paraguayas y 1 chilena—; **5** fueron consideradas interesantes y pertinentes. La visita técnica del 15-oct-2025 tuvo **cuatro proveedores** interesados. Cuatro proveedores en la visita no son cuatro propuestas: son dos momentos y dos universos distintos.
+La zona piloto comprende en promedio **128.167 conexiones**. En esa zona, **52,6%** tiene micromedición efectiva, **34,9%** no tiene micromedición y **12,5%** está cortada o desconectada. ESSAP recibió **7 propuestas** —6 paraguayas y 1 chilena—; **5** fueron consideradas interesantes y pertinentes. La visita técnica del 15-oct-2025 tuvo **cuatro proveedores** interesados. Cuatro proveedores en la visita no son cuatro propuestas: son dos momentos distintos y no permiten inferir el número de propuestas.
 
-**El estado real.** Al cierre de esta edición, **16-nov-2026**, no se registraba convocatoria DS publicada ni adjudicación para ninguno de los dos retos. La DNCP registra que ambos pilotos avanzaron “hasta la etapa de consulta preliminar al mercado”. El 27-oct-2026 remitió a ANDE y ESSAP el compendio de reglamentaciones “a los efectos de que las mismas avancen con sus retos hoy vigentes”.
+**El estado real.** Al cierre de esta edición, **16-nov-2026**, no se localizó en el SICP una convocatoria DS publicada ni una adjudicación para ninguno de los dos retos. La DNCP registra que ambos pilotos avanzaron “hasta la etapa de consulta preliminar al mercado”. El 27-oct-2026 remitió a ANDE y ESSAP el compendio de reglamentaciones “a los efectos de que las mismas avancen con sus retos hoy vigentes”.
 
 Cualquier frase del tipo “ANDE y ESSAP ya están licitando” sería falsa: están en etapa precontractual.
 
@@ -131,7 +131,7 @@ Cualquier frase del tipo “ANDE y ESSAP ya están licitando” sería falsa: es
 
 La norma crea el procedimiento. No crea los equipos, no garantiza la compra y no resuelve la política de innovación de cada institución. La MEF 203/2026 lo reconoce: la implementación será gradual “conforme con la capacidad institucional, presupuestaria y técnica”.
 
-La experiencia regional calibra expectativas. En **Chile**, al 31-dic-2025 se habían capacitado más de **300 personas**, se acompañó a **16 instituciones** y se publicaron **4 consultas al mercado (RFI)** dentro de ese universo; en total, el sistema registró 13 RFI de innovación en 2025. No se publicaron Contratos para la Innovación ni Diálogos Competitivos. Un piloto, el Hospital Las Higueras, exigió cerca de **un año** de definición del problema.
+En **Chile**, al 31-dic-2025 se habían capacitado más de **300 personas**, se acompañó a **16 instituciones** y se publicaron **4 consultas al mercado (RFI)** dentro de ese universo; en total, el sistema registró 13 RFI de innovación en 2025. No se publicaron Contratos para la Innovación ni Diálogos Competitivos. Un piloto, el Hospital Las Higueras, exigió cerca de **un año** de definición del problema.
 
 En **Uruguay**, el Decreto 112/026 separó la innovación de la compra ordinaria: ANII coordina el subprograma, ARCE da asesoramiento normativo y una Comisión Asesora de Compras Innovadoras se conforma por cada llamado. La propiedad intelectual queda, por regla general, en el adjudicatario, con uso gratuito para el Estado.
 
@@ -156,7 +156,7 @@ La CPI no se juega en la licitación. Se juega antes.
 
 ## Lectura honesta
 
-La CPI es una herramienta incipiente: dos pilotos, un reglamento y una promesa. No se registra presupuesto oficial, calendario ni adjudicaciones al 16-nov-2026.
+La CPI es una herramienta incipiente: dos pilotos, un reglamento y una promesa. No se localizó en el SICP presupuesto oficial, calendario ni adjudicaciones al 16-nov-2026.
 
 El Estado puede comprar I+D. Lo que todavía no tiene es un mercado aceitado. Y un mercado no se crea con una resolución: se crea con instituciones que aprenden a comprar, empresas que aprenden a vender y una regla que no promete más de lo que puede cumplir.
 
@@ -209,7 +209,7 @@ Este análisis se inscribe en el pilar de tecnología aplicada y ecosistema de [
       "name": "¿Cuándo salen las primeras licitaciones de CPI?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Al 16-nov-2026 no se registraba convocatoria DS publicada ni adjudicación para los pilotos de ANDE y ESSAP. La DNCP no informó montos ni plazos para las primeras licitaciones."
+        "text": "Al 16-nov-2026 no se localizó en el SICP una convocatoria DS publicada ni una adjudicación para los pilotos de ANDE y ESSAP. La DNCP no informó montos ni plazos para las primeras licitaciones."
       }
     }
   ]
