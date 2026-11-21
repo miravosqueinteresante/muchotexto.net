@@ -47,6 +47,9 @@ crecimiento_demanda:
 
 tarifa_gcie:
   tarifa: "30 US$/MWh"
+  referencia: 30
+  energia_220: "31,05–37,25"
+  energia_23: "31,77–40,06"
   resolucion: "Resolución ANDE 49238/2024"
   vigencia: "vigente hasta diciembre 2027"
   eventos:
@@ -115,6 +118,8 @@ tarifa_ia:
   media_23: 56.39
   energia_min: 34.26
   energia_max: 45.54
+  energia_220: "34,26–41,10"
+  energia_23: "35,65–45,54"
   potencia_reservada_punta_min: 5.81
   potencia_reservada_punta_max: 12.32
   potencia_reservada_fuera_min: 3.87
@@ -122,6 +127,7 @@ tarifa_ia:
   ajuste_piso: 2.5
   primera_actualizacion: 2028
   solicitudes_mw: 6000
+  solicitudes_mw_label: "6.000"
   disponible_mw: 750
   comprometido_mw: 286
   restante_mw: 464

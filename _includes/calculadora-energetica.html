@@ -4,17 +4,15 @@
   <p class="calc-eyebrow"><span class="calc-dot"></span>Herramienta de comparación de costos</p>
 
   <div class="calc-alert">
-    <span class="calc-alert-icon">&#9888;</span>
+    <span class="calc-alert-icon">&#9432;</span>
     <div>
-      <p class="calc-alert-title">Tarifa vigente: Resolución ANDE 52552/2026 (21-oct-2026)</p>
+      <p class="calc-alert-title">Tarifa vigente: Resolución ANDE 52552/2026</p>
       <p class="calc-alert-text">
-        La ANDE creó el Grupo de Consumo de Industrias Electrointensivas de Tecnología Avanzada.
-        Para un data center de IA en 220 kV, la tarifa media es
+        Para IA y data centers en 220 kV, la tarifa media es
         <b>{{ t.media_220 | replace: ".", "," }} US$/MWh</b>; en 23 kV,
-        <b>{{ t.media_23 | replace: ".", "," }} US$/MWh</b>. Se ajusta cada año con un piso de
-        <b>{{ t.ajuste_piso | replace: ".", "," }}%</b> desde {{ t.primera_actualizacion }} y se revisa
-        cada dos años por costo de generación.
-        <a href="#disclaimer-detail" onclick="document.getElementById('disclaimer-detail').scrollIntoView({behavior:'smooth'});return false;">Ver detalle completo &#8595;</a>
+        <b>{{ t.media_23 | replace: ".", "," }} US$/MWh</b>. El GCIE de
+        {{ site.data.energia.tarifa_gcie.referencia }} US$/MWh quedó para criptominería.
+        <a href="#cambios">Ver qué cambió &#8595;</a>
       </p>
     </div>
   </div>
@@ -31,13 +29,13 @@
       <div class="calc-field">
         <span class="calc-field-label">Capacidad instalada</span>
         <div class="calc-mw-display" id="mw-display">100 <span>MW</span></div>
-        <input type="range" id="calc-mw" min="10" max="1000" step="10" value="100" aria-label="Capacidad instalada en MW">
+        <input type="range" id="calc-mw" min="10" max="1000" step="1" value="100" aria-label="Capacidad instalada en MW">
         <div class="calc-range-marks"><span>10 MW</span><span>1.000 MW</span></div>
         <div class="calc-presets">
           <button type="button" class="calc-preset-btn" data-mw="10">Piloto · 10 MW</button>
           <button type="button" class="calc-preset-btn active" data-mw="100">Mediano · 100 MW</button>
-          <button type="button" class="calc-preset-btn" data-mw="300">HIVE Paraguay · 300 MW</button>
-          <button type="button" class="calc-preset-btn" data-mw="1000">Hiperescala · 1.000 MW</button>
+          <button type="button" class="calc-preset-btn" data-mw="286">Kuntur/Araico · 286 MW</button>
+          <button type="button" class="calc-preset-btn" data-mw="1000">Hipotético · 1.000 MW</button>
         </div>
       </div>
 
@@ -53,7 +51,7 @@
         <ol class="calc-howto-list">
           <li>Ajustá la capacidad de tu proyecto con el slider o los botones de abajo.</li>
           <li>Compará el costo anual de electricidad en 5 mercados.</li>
-          <li>Activá el escenario de revisión para ver el impacto de una tarifa más alta.</li>
+          <li>Activá el escenario Ceare 2030 para ver el impacto de una tarifa más alta.</li>
         </ol>
       </div>
     </div>
@@ -61,7 +59,7 @@
     <div class="calc-panel">
       <label class="calc-toggle">
         <input type="checkbox" id="riskScenario">
-        <span class="calc-toggle-text"><b>Mostrar escenario de revisión tarifaria</b> — si la tarifa de 220 kV se acerca a los 51,4 US$/MWh que proyecta el estudio Ceare 2026-2030 para alta y muy alta tensión, en vez de mantenerse en {{ t.media_220 | replace: ".", "," }}.</span>
+        <span class="calc-toggle-text"><b>Mostrar escenario Ceare 2030</b> — si la tarifa de 220 kV converge a 51,4 US$/MWh, la referencia del estudio Ceare para alta y muy alta tensión, en vez de mantenerse en {{ t.media_220 | replace: ".", "," }}.</span>
       </label>
 
       <div class="calc-headline" aria-live="polite">
@@ -80,54 +78,10 @@
 
       <div class="calc-narrative" id="narrative" aria-live="polite"></div>
 
-      <div class="calc-disclaimer" id="disclaimer-detail">
-        <p><b>Tarifas usadas (USD/MWh):</b><br>
-        Paraguay {{ t.media_220 | replace: ".", "," }} (220 kV, media; 23 kV: {{ t.media_23 | replace: ".", "," }}) · Suecia (Luleå) 45–65 · Chile 85–100 · Virginia, EE.UU. 95–130 · Irlanda (Dublín) 150–190.<br>
-        <small>Irlanda: el rango 150–190 USD/MWh corresponde a PPA de data center a gran escala.
-        Como referencia, Eurostat (nrg_pc_205, edición abril 2026; datos del 2.º semestre de 2025) reporta
-        €255/MWh (~276 USD/MWh) para consumidores no-domésticos medianos (500–2.000 MWh/año), lo que confirma
-        la magnitud de la diferencia.</small></p>
-
-        <p><b>Qué es la tarifa de {{ t.media_220 | replace: ".", "," }} US$/MWh:</b><br>
-        La Resolución P/N° 52552/2026, firmada el 21 de octubre de 2026, creó el Grupo de Consumo de
-        Industrias Electrointensivas de Tecnología Avanzada para IA, nube, centros de datos de hiperescala
-        y HPC. La energía va de {{ t.energia_min | replace: ".", "," }} a {{ t.energia_max | replace: ".", "," }} US$/MWh
-        según tensión y horario; a eso se suma la potencia reservada, de
-        {{ t.potencia_reservada_punta_min | replace: ".", "," }} a {{ t.potencia_reservada_punta_max | replace: ".", "," }} US$/kW-mes
-        en punta y de {{ t.potencia_reservada_fuera_min | replace: ".", "," }} a {{ t.potencia_reservada_fuera_max | replace: ".", "," }}
-        fuera de punta. Los promedios de {{ t.media_220 | replace: ".", "," }} US$/MWh (220 kV) y
-        {{ t.media_23 | replace: ".", "," }} US$/MWh (23 kV) combinan energía y potencia; no son una tarifa única.
-        El exceso de potencia se factura a 6 veces el precio de la potencia reservada en punta y 4 veces fuera
-        de punta; en 220 kV equivale a 34,88 y 15,49 US$/kW-mes, respectivamente.</p>
-
-        <p><b>Cómo se actualiza:</b><br>
-        Cada año, con un factor que combina 50% el índice de precios al productor industrial de EE.UU. (PPI)
-        y 50% el índice de precios al consumidor urbano (CPI). Si el factor es menor a 1,025, se aplica igual:
-        el aumento mínimo es de 2,5% anual. La primera actualización será en 2028 y regirá desde el 1 de julio.
-        Cada dos años, la ANDE revisa las tarifas según la variación de su costo medio de generación; si sube
-        más de 30% en dos años, corresponde una revisión integral. No hay un tope máximo.</p>
-
-        <p><b>Qué pasó con el régimen GCIE:</b><br>
-        La Resolución 49238/2024 sigue vigente para criptominería y validación de blockchain, con contratos
-        que no pueden extenderse más allá del 31 de diciembre de 2027. La referencia de 30 US$/MWh del GCIE
-        no es la tarifa aplicable a un data center de IA: la Resolución 52552/2026 sacó a la IA, la nube,
-        la hiperescala y el HPC de ese grupo y los pasó al nuevo régimen.</p>
-
-        <p><b>Contexto de oferta:</b><br>
-        La ANDE reportó solicitudes por unos {{ t.solicitudes_mw }} MW, pero aclaró que no son pedidos firmes.
-        Dispone de unos {{ t.disponible_mw }} MW; con los {{ t.comprometido_mw }} MW comprometidos con Kuntur
-        quedan aproximadamente {{ t.restante_mw }} MW. El contrato con Kuntur dura 15 años y arranca el
-        1 de diciembre de 2026 con 6 MW en 23 kV.</p>
-
-        <p><b>Nivel de verificación por país:</b><br>
-        Paraguay: resolución oficial de ANDE y cobertura de ABC Color (24-oct y 1-nov-2026).
-        Suecia: dos fuentes de mercado independientes.
-        Chile y Virginia: una fuente de mercado cada una.
-        Irlanda: dos fuentes independientes (Eurostat + fuente de mercado).</p>
-
-        <p>Esta calculadora aísla el componente de energía y usa un perfil continuo. No reemplaza una cotización real,
-        no incluye impuestos, transmisión, conexión, respaldo ni asesoría legal o financiera.</p>
-      </div>
+      <p class="calc-panel-note">
+        <b>Tarifa usada:</b> {{ t.media_220 | replace: ".", "," }} US$/MWh (220 kV, media; incluye energía y potencia).
+        <a href="#metodologia">Metodología y límites &#8595;</a>
+      </p>
 
       <p class="calc-updated">Última verificación de fuentes: 21 de noviembre de 2026</p>
     </div>
@@ -174,7 +128,7 @@
 
     var rows = markets.slice();
     if(showRisk){
-      rows.splice(1, 0, { id:'py-risk', name:'Paraguay (revisión Ceare)', min:51.4, max:51.4, color:'#adb5bd', note:'proyección 2030 alta/muy alta tensión' });
+      rows.splice(1, 0, { id:'py-risk', name:'Paraguay (Ceare 2030)', min:51.4, max:51.4, color:'#adb5bd', note:'proyección alta/muy alta tensión' });
     }
 
     var costs = rows.map(function(m){
@@ -215,14 +169,14 @@
     document.getElementById('hl-savings').textContent = fmtUSD(savings);
 
     var riskNote = showRisk
-      ? ' Con la revisión, la tarifa de 220 kV se acerca a los 51,4 US$/MWh que proyecta el estudio Ceare (con apoyo del BID) para alta y muy alta tensión en 2030. La ventaja frente a Virginia se reduce, pero Paraguay seguiría siendo más barato que Irlanda.'
+      ? ' En el escenario Ceare 2030, la tarifa de 220 kV se acerca a los 51,4 US$/MWh que proyecta el estudio (con apoyo del BID) para alta y muy alta tensión. La ventaja frente a Virginia se reduce, pero Paraguay seguiría siendo más barato que Irlanda.'
       : '';
 
     document.getElementById('narrative').innerHTML =
       'Para <b>' + mw.toLocaleString('es-PY') + ' MW</b> operando todo el año, la electricidad en Paraguay costaría ' +
       'alrededor de <b>' + fmtUSD(py.cost) + ' al año</b> con la tarifa media de 220 kV — frente a <b>' + fmtUSD(ie.cost) + '</b> en ' +
       'Irlanda y <b>' + fmtUSD(va.cost) + '</b> en Virginia. La tarifa rige desde el 21 de octubre de 2026, se ajusta cada año ' +
-      'con un piso de 2,5% desde 2028 y se revisa cada dos años por costo de generación.' + riskNote;
+      'con un piso de {{ t.ajuste_piso | replace: ".", "," }}% desde {{ t.primera_actualizacion }} y se revisa cada dos años por costo de generación.' + riskNote;
   }
 
   mwEl.addEventListener('input', function(){

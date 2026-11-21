@@ -35,7 +35,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 **Herramientas interactivas:**
 
 - [Simulador Paraguay 2040](/simulador-2040/) — Cinco palancas, dos shocks
-- [Calculadora de costo energético](/calculadora-energetica/) — Costo anual con la tarifa de ANDE de 2026 y comparación internacional
+- [Calculadora de costo energético](/calculadora-energetica/) — Costo anual con la tarifa de IA de ANDE y comparación internacional
 - [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos
 - [Grafo del Observatorio](/grafo/) — Relaciones entre las {{ site.data.entities | size }} entidades clave
 - [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifas GCIE e IA y consumo
