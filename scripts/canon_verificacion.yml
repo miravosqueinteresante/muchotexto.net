@@ -11,9 +11,15 @@ claims:
   # ── Tarifas y energía (30 días: cambian) ──────────────────────────────
   - id: tarifa_gcie
     categoria: tarifas
-    fecha_verificacion: "2026-10-16"
+    fecha_verificacion: "2026-11-21"
     caducidad_dias: 30
-    fuente: "ANDE Res. 49238/2024 (GCIE 30 USD/MWh)"
+    fuente: "ANDE Res. 49238/2024 (GCIE 30 USD/MWh, vigente para criptominería)"
+
+  - id: tarifa_ia
+    categoria: tarifas
+    fecha_verificacion: "2026-11-21"
+    caducidad_dias: 30
+    fuente: "ANDE Res. 52552/2026 (IA 220 kV: 48,91 USD/MWh; 23 kV: 56,39)"
 
   - id: demanda_electrica
     categoria: energia

@@ -2,8 +2,8 @@
 layout: page
 title: "Dashboard energético — Data Centers"
 permalink: /dashboard-energetico/
-description: "Potencia reservada, tarifa GCIE y consumo eléctrico de data centers en Paraguay. Datos verificados contra ANDE y el estudio Ceare."
-last_modified_at: 2026-08-21
+description: "Potencia reservada, tarifas GCIE e IA y consumo eléctrico de data centers en Paraguay. Datos verificados contra ANDE y el estudio Ceare."
+last_modified_at: 2026-11-21
 ---
 
 <style>
@@ -235,9 +235,13 @@ last_modified_at: 2026-08-21
 <div class="dash-page">
 <div class="dash">
 
-<p class="dash-eyebrow"><span class="dash-dot"></span>Datos verificados · actualizado 21 de agosto de 2026</p>
+<p class="dash-eyebrow"><span class="dash-dot"></span>Datos verificados · actualizado 21 de noviembre de 2026</p>
 
 <p class="dash-intro">El pulso eléctrico de la economía de IA en Paraguay, en un solo lugar. Potencia reservada para data centers y criptominería, la tarifa del consumo intensivo y el consumo nacional que la sostiene. Cada cifra sale de <a href="/radar-legislativo/">fuentes oficiales</a> verificadas, no de estimaciones propias.</p>
+
+<div class="dash-note">
+  <strong>Nuevo régimen para IA desde el 21-oct-2026:</strong> la Resolución ANDE 52552/2026 creó el Grupo de Consumo de Industrias Electrointensivas de Tecnología Avanzada. La tarifa media es de 48,91 US$/MWh en 220 kV y 56,39 US$/MWh en 23 kV. La tarifa GCIE de esta página sigue vigente para criptominería. <a href="/calculadora-energetica/">Ver la calculadora actualizada</a>.
+</div>
 
 <div class="dash-kpis">
   {% for k in site.data.energia.kpis %}
@@ -284,7 +288,7 @@ last_modified_at: 2026-08-21
 
 <section class="dash-section">
   <h2 class="dash-section-title">Tarifa GCIE — línea de tiempo</h2>
-  <p class="dash-intro">La tarifa del <strong>Grupo Consumo Intensivo Especial</strong>: {{ site.data.energia.tarifa_gcie.tarifa }} ({{ site.data.energia.tarifa_gcie.resolucion }}), {{ site.data.energia.tarifa_gcie.vigencia }}.</p>
+  <p class="dash-intro">La tarifa del <strong>Grupo Consumo Intensivo Especial</strong> (criptominería y blockchain): {{ site.data.energia.tarifa_gcie.tarifa }} ({{ site.data.energia.tarifa_gcie.resolucion }}), {{ site.data.energia.tarifa_gcie.vigencia }}.</p>
   <ul class="dash-timeline">
     {% for e in site.data.energia.tarifa_gcie.eventos %}
     <li>
@@ -348,7 +352,7 @@ last_modified_at: 2026-08-21
   </ul>
 </div>
 
-<p class="dash-disclaimer">Este tablero se re-verifica contra fuentes oficiales cada 30 días (próxima revisión de la tarifa: 7 de septiembre de 2026). Es una instantánea estática, no un feed en tiempo real. Complementa el <a href="/radar-legislativo/">radar legislativo</a> (estado de las normas) y la <a href="/calculadora-energetica/">calculadora de costo energético</a> (comparación internacional).</p>
+<p class="dash-disclaimer">Este tablero se re-verifica contra fuentes oficiales cada 30 días (última revisión: 21 de noviembre de 2026). Es una instantánea estática, no un feed en tiempo real. Complementa el <a href="/radar-legislativo/">radar legislativo</a> (estado de las normas) y la <a href="/calculadora-energetica/">calculadora de costo energético</a> (comparación internacional).</p>
 
 {% include datos-verificados.html entidad="ande" %}
 

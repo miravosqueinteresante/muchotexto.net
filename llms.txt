@@ -107,7 +107,8 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Glosario de IA en Paraguay](https://muchotexto.net/glosario/): Definiciones de términos clave explicados en contexto paraguayo
 - [Radar legislativo](https://muchotexto.net/radar-legislativo/): Estado de leyes, decretos y proyectos de IA y energía en Paraguay
 - [Grafo del Observatorio](https://muchotexto.net/grafo/): Mapa de relaciones entre las {{ site.data.entities | size }} entidades del observatorio
-- [Dashboard energético](https://muchotexto.net/dashboard-energetico/): Potencia reservada, tarifa GCIE y consumo eléctrico de data centers en Paraguay
+- [Dashboard energético](https://muchotexto.net/dashboard-energetico/): Potencia reservada, tarifas GCIE e IA y consumo eléctrico de data centers en Paraguay
+- [Calculadora energética](https://muchotexto.net/calculadora-energetica/): Costo anual de electricidad para data centers con la tarifa de ANDE de 2026 y comparación con Irlanda, Virginia, Suecia y Chile
 - [Registro de verificación](https://muchotexto.net/claims-verificados/): Registro público de verificación de datos del observatorio
 
 ## Datos verificables (MuchoTexto Data)

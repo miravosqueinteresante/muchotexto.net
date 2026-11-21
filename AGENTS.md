@@ -160,7 +160,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 
 **Canon de datos (dos capas, sin conflicto):**
 1. **Serie del conector** (generación, suministro, pérdidas, clientes, consumo) → se sincroniza desde datos-publicos; NO se edita a mano.
-2. **Canon editorial verificado** (tarifa GCIE, timeline de decretos, proyección Ceare, distinciones, consumo por categoría) → vive en `_data/energia.yml` contra AGENTS.md; se re-verifica cada 30 días (próxima: 16-nov-2026).
+2. **Canon editorial verificado** (tarifas GCIE e IA, timeline de decretos, proyección Ceare, distinciones, consumo por categoría) → vive en `_data/energia.yml` contra AGENTS.md; se re-verifica cada 30 días (última: 21-nov-2026; próxima: 21-dic-2026).
 
 **Entidades energéticas con datos:** `ande`, `itaipu`, `yacyreta` tienen `datos_url` en `_data/entities.yml` y sección "Datos verificados" en sus páginas. Para crear/editar la página de una entidad, regenerar con `python scripts/build_entities.py` (nunca a mano).
 
@@ -398,16 +398,18 @@ Fuentes: texto íntegro "PRELIMINAR VMME" (energia.paraguay.gov.py / drive.mitic
 - **Cita Oxilia (15-ago)**: "juez y parte" es cita directa suya. El ente regulador debe ser "técnico e independiente del poder político".
 - **UIP/Feprinco**: sin declaración verificada sobre el proyecto. NO atribuirles posición.
 
-### Tarifas ANDE — Consumo Intensivo Especial (verificado ago 2026)
+### Tarifas ANDE — GCIE y nuevo régimen para IA (verificado 21-nov-2026)
 
-Fuentes: Resolución ANDE 49238/2024, Pliego de Tarifas Nº 21, ABC Color, decretos presidenciales (5306, 5307, 5860, 5861).
+Fuentes: Resolución ANDE 49238/2024, Resolución ANDE P/N° 52552/2026, Pliego de Tarifas Nº 21, ABC Color (23-oct, 24-oct, 1-nov y 4-nov-2026), decretos presidenciales (5306, 5307, 5860, 5861).
 
-- **Tarifa Grupo Consumo Intensivo Especial: 30 US$/MWh**: TRUE. Resolución 49238/2024, vigente hasta dic 2027.
-- **Decretos de extensión a 15 años (5306, 5307, 5860, 5861, ene-abr 2026)**: TRUE. Extendían la tarifa de 30 a industrias convergentes y data centers.
-- **Decretos derogados el 9 de junio de 2026**: TRUE. Presión sindical y técnica interna de ANDE.
+- **Tarifa Grupo Consumo Intensivo Especial: 30 US$/MWh**: referencia del GCIE (Res. 49238/2024), vigente para criptominería y blockchain. NO aplicarla a data centers de IA desde el 21-oct-2026.
+- **Resolución 52552/2026 (21-oct-2026)**: creó el Grupo de Consumo de Industrias Electrointensivas de Tecnología Avanzada para IA, nube, hiperescala y HPC. Sa sacó del GCIE. Tarifa media: **48,91 US$/MWh en 220 kV** y **56,39 US$/MWh en 23 kV**. Energía: 34,26–45,54 US$/MWh. Potencia reservada: 5,81–12,32 US$/kW-mes en punta y 3,87–8,22 fuera de punta. Exceso: 6× en punta y 4× fuera de punta.
+- **Ajuste de la tarifa de IA**: CPI + PPI de EE.UU. (50/50), piso de 2,5% anual, primera actualización en 2028 (rige desde el 1 de julio). Revisión cada dos años por costo medio de generación; revisión integral si sube más de 30% en dos años. Sin tope máximo. La resolución no fija fecha de finalización.
+- **Kuntur/Araico**: contrato de 15 años por hasta 286 MW, firmado el 22-oct-2026. Arranca el 1-dic-2026 con 6 MW en 23 kV (56,39 US$/MWh); 146 MW en 220 kV desde abril 2028 y 286 MW desde abril 2029 (48,91 US$/MWh).
+- **Decretos de extensión a 15 años (5306, 5307, 5860, 5861, ene-abr 2026)**: TRUE. Extendían la tarifa de 30 a industrias convergentes y data centers. Derogados el 9 de junio de 2026.
 - **Renuncia de Félix Sosa (presidente ANDE) el 27 de julio de 2026**: TRUE. Se negó a aplicar los decretos.
-- **Nuevo titular Miguel Báez instruido a definir tarifa técnica única**: TRUE. Informe entregado 31 de julio, contenido no público.
-- **Demanda de empresas interesadas: 6.300 MW**: Cifra reportada por prensa (ABC Color). Equivale a toda la potencia de Itaipú disponible para PY. VERIFICAR con fuente oficial cuando esté disponible.
+- **Nuevo titular Miguel Báez**: recibió la instrucción de definir una tarifa técnica única; la Resolución 52552/2026 es el resultado. No decir que sigue "sin publicar".
+- **Demanda de empresas interesadas: 6.000 MW**: cifra reportada por Báez (ABC Color, oct-2026), aclarada como solicitudes no firmes. La ANDE dispone de ~750 MW; con 286 MW de Kuntur quedan ~464 MW. Actualizar el viejo dato de 6.300 MW cuando se cite la fuente nueva.
 
 ### Tarifas y finanzas ANDE — estudio Ceare 2026-2030 (verificado 15-ago-2026)
 
@@ -415,7 +417,7 @@ Fuentes: ABC Color / Silvana Bogarín (9-ago-2026), estudio Ceare (UBA, con apoy
 
 - **Costo medio de generación ANDE: serie US$24/MWh (2023) → US$26,39 (2025) → ~US$28 tras incrementos de binacionales**: TRUE. Itaipú pasó de 16,75 a 19,28 US$/kW-mes; Yacyretá de 22,60 a 28 US$. NO citar un solo número sin aclarar período.
 - **Tarifa media ANDE 2024: US$49,49/MWh**: TRUE. NO confundir con tarifa GCIE (30) ni tarifa técnica (~44).
-- **Proyección Ceare 2026-2030**: tarifa media 49,2→68,6 US$/MWh (+39,4%); alta/muy alta tensión 35,3→51,4 (+45,6%); baja tensión 55,8→77,8 (+39,4%). Nuestro techo de 45 US$ era corto como proyección. Es proyección/recomendación, NO tarifa aplicada.
+- **Proyección Ceare 2026-2030**: tarifa media 49,2→68,6 US$/MWh (+39,4%); alta/muy alta tensión 35,3→51,4 (+45,6%); baja tensión 55,8→77,8 (+39,4%). Es proyección/recomendación, NO tarifa aplicada. La tarifa media de IA de 48,91 US$/MWh (220 kV, Res. 52552/2026) ya quedó cerca de la referencia de 51,4 para 2030.
 - **Cripto GCIE**: creció el consumo 14,4% (2022-2025) con criptominería vs 6,9% sin ellas. Cargas GCIE: 854 MW (2025) y 803 MW (2026) —demanda efectiva, NO potencia reservada. Los 943,8 MW de AGENTS.md son potencia reservada/contratada. Distinguir siempre.
 - **Pérdidas de distribución ANDE**: 23,4% (2023) → 21,9% (2024) → 20,03% (2025). Comparables: Celesc 8,9%, Cemig 14,7%, EPEC 13%.
 - **Morosidad particulares (sin Estado)**: 14,02% (2018) → 28,95% pico (2023) → 22,04% (2024) → 18,79% (2025).
@@ -424,7 +426,7 @@ Fuentes: ABC Color / Silvana Bogarín (9-ago-2026), estudio Ceare (UBA, con apoy
 - **Acuerdo Operativo Itaipú 2007**: expira 31-dic-2026 (renovado 2024-2026 por entendimiento del 16-abr/9-may-2024). Beneficio ~US$200M/año; desde 2027 la ANDE contratará toda su necesidad de potencia y podrá vender sobrante en Brasil (aún no vendió 1 kWh). NO confundir con Anexo C (reanudado nov-2025) ni con acuerdo tarifario (19,28, vence 1-ene-2027).
 - **Plan Maestro ANDE 2024-2043**: ~800 MW/año promedio de generación fotovoltaica. Primera licitación: planta solar Loma Plata (Chaco), anunciada mayo-2026. AGO-2026: ninguna planta utility-scale en operación — usar "la primera licitación se anunció en mayo de 2026", NO "no hay ningún proyecto".
 
-**Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Próxima verificación: 16 de noviembre de 2026 (última: 16-oct-2026, sin cambios). Si cambia, actualizar `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
+**Recordatorio de mantenimiento:** re-verificar la tarifa de ANDE cada 30 días. Última verificación: 21-nov-2026 (Res. 52552/2026 vigente; GCIE 30 sigue para criptominería). Próxima: 21-dic-2026. Si cambia, actualizar `_data/energia.yml`, `_includes/calculadora-energetica.html` y `calculadora-energetica.markdown` en menos de 48h.
 
 ### Tarifas eléctricas internacionales para data centers (verificado ago 2026)
 

@@ -3,7 +3,7 @@ layout: page
 title: "Observatorio de IA en Paraguay"
 permalink: /ia-en-paraguay/
 description: "Data centers, energía, regulación, empleo tech y geopolítica en Paraguay. Análisis con datos duros y fuentes verificables."
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-21
 ---
 
 Paraguay está en el mapa de la inteligencia artificial global. No como consumidor de tecnología ajena, sino como un territorio donde se juegan algunas de las partidas más importantes del nuevo tablero tecnológico: la energía que alimenta los centros de datos, la geopolítica de los semiconductores, la regulación de datos en América Latina, y una fuerza laboral joven que busca su lugar en la economía digital.
@@ -35,10 +35,10 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 **Herramientas interactivas:**
 
 - [Simulador Paraguay 2040](/simulador-2040/) — Cinco palancas, dos shocks
-- [Calculadora de costo energético](/calculadora-energetica/) — Comparación internacional de tarifas
+- [Calculadora de costo energético](/calculadora-energetica/) — Costo anual con la tarifa de ANDE de 2026 y comparación internacional
 - [Radar legislativo](/radar-legislativo/) — Estado de leyes, decretos y proyectos
 - [Grafo del Observatorio](/grafo/) — Relaciones entre las {{ site.data.entities | size }} entidades clave
-- [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifa GCIE y consumo
+- [Dashboard energético](/dashboard-energetico/) — Potencia reservada, tarifas GCIE e IA y consumo
 - [Registro de verificación](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
 - [Datos verificados — MuchoTexto Data](https://datospublicos.muchotexto.net/) — Infraestructura de datos verificables sobre Paraguay: ANDE, Itaipú y Yacyretá con fuente y trazabilidad completa
 

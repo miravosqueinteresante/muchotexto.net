@@ -152,9 +152,9 @@
   localizador: Resolución 49238/2024, anexo tarifario
   extracto: Resolución ANDE N° 49238/2024 - Actualización de las Tarifas de Energía Eléctrica GCIE
   fecha_corte: 2024-06-30
-  ultima_verificacion: 2026-11-16
+  ultima_verificacion: 2026-11-21
   articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-  nota: Tarifa de referencia; el rango real varía por nivel de tensión y horario.
+  nota: Tarifa de referencia del GCIE, aplicable a criptominería y blockchain. Desde el 21-oct-2026 NO aplica a IA, nube, hiperescala ni HPC.
 - id: tar-002
   seccion: Tarifas ANDE
   claim: Los decretos que extendían la tarifa de 30 a 15 años fueron derogados el 9 de junio de 2026.
@@ -183,6 +183,20 @@
   ultima_verificacion: 2026-11-16
   articulo: /articulos/2026/08/20/estudio-ceare-tarifa-paraguay/
   nota: Es proyección, no tarifa aplicada; falta el PDF original del estudio.
+- id: tar-004
+  seccion: Tarifas ANDE
+  claim: La Resolución 52552/2026 creó el Grupo de Consumo de Industrias Electrointensivas de Tecnología Avanzada, con tarifa media de 48,91 US$/MWh en 220 kV y 56,39 US$/MWh en 23 kV para IA, nube, hiperescala y HPC.
+  tipo: hecho
+  estado: confirmado
+  evidencia: A
+  fuente: ANDE / ABC Color
+  url: https://www.abc.com.py/economia/2026/11/01/tarifa-para-centros-de-ia-ande-cobrara-entre-us-34-y-46-por-mwh-de-energia-mas-la-potencia-reservada/
+  localizador: párrafos sobre el cuadro de tarifas y los promedios
+  extracto: Los promedios de US$ 56,39 (23 kV) y US$ 48,91 (220 kV) que mencionó en la citada entrevista no aparecen en la resolución, que solo detalla los valores por separado.
+  fecha_corte: 2026-11-01
+  ultima_verificacion: 2026-11-21
+  articulo: /calculadora-energetica/
+  nota: Promedios que combinan energía y potencia reservada; no son una tarifa única. La energía va de 34,26 a 45,54 US$/MWh. Ajuste anual con piso de 2,5% desde 2028 y revisión bienal por costo de generación.
 - id: ita-001
   seccion: Itaipú
   claim: La negociación del Anexo C se suspendió en abril de 2025 y se reanudó en noviembre de 2025.

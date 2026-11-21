@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Calculadora energ\u00e9tica \u2014 Data Centers"
+title: "Calculadora energética para data centers"
+seo_title: "Calculadora energía data center Paraguay"
 permalink: /calculadora-energetica/
-description: "Compar\u00e1 el costo de electricidad para un data center en Paraguay vs. Irlanda, Virginia, Suecia y Chile. Tarifas oficiales verificadas."
-last_modified_at: 2026-08-08
+description: "Calculá el costo anual de electricidad de un data center con la tarifa de ANDE de 2026 y compará con Irlanda, Virginia, Suecia y Chile."
+last_modified_at: 2026-11-21
 ---
 
 <style>
@@ -239,7 +240,7 @@ last_modified_at: 2026-08-08
 /* assumption */
 .calc-assumption {
   font-size: 11px;
-  color: var(--calc-muted-2);
+  color: var(--calc-muted);
   line-height: 1.55;
   background: var(--calc-panel-2);
   border: 1px solid var(--calc-border-soft);
@@ -452,6 +453,130 @@ last_modified_at: 2026-08-08
   text-align: center;
 }
 
+/* page content */
+.calc-intro,
+.calc-section {
+  --calc-border-soft: rgba(73,80,87,0.5);
+  --calc-muted: var(--oc-gray-5);
+  --calc-muted-2: var(--oc-gray-6);
+}
+
+.calc-intro {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--oc-gray-3);
+  margin-bottom: var(--spacer-2);
+}
+
+.calc-intro p {
+  margin-bottom: 10px;
+}
+
+.calc-intro strong {
+  color: var(--oc-cyan-4);
+}
+
+.calc-section {
+  margin-top: var(--spacer-3);
+}
+
+.calc-section h2 {
+  font-size: 18px;
+  line-height: 1.3;
+  color: var(--oc-gray-1);
+  margin-bottom: 10px;
+}
+
+.calc-section h3 {
+  font-size: 14px;
+  color: var(--oc-gray-2);
+  margin: 18px 0 8px;
+}
+
+.calc-section p,
+.calc-section li {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--oc-gray-3);
+}
+
+.calc-section p a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.calc-section ul,
+.calc-section ol {
+  padding-left: 20px;
+  margin-bottom: 12px;
+}
+
+.calc-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  margin: 10px 0 16px;
+}
+
+.calc-table th,
+.calc-table td {
+  border-bottom: 1px solid var(--calc-border-soft);
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.calc-table th {
+  color: var(--calc-muted);
+  font-weight: 600;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.calc-table td {
+  color: var(--oc-gray-3);
+}
+
+.calc-faq details {
+  border-bottom: 1px solid var(--calc-border-soft);
+  padding: 10px 0;
+}
+
+.calc-faq summary {
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--oc-gray-2);
+}
+
+.calc-faq p {
+  margin-top: 8px;
+}
+
+.calc-sources {
+  font-size: 11.5px;
+  line-height: 1.65;
+  color: var(--calc-muted);
+}
+
+.calc-sources a {
+  color: var(--oc-cyan-4);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(34,184,207,0.35);
+}
+
+@media (max-width: 860px) {
+  .calc-table {
+    font-size: 11px;
+  }
+
+  .calc-table th,
+  .calc-table td {
+    padding: 6px;
+  }
+}
+
 /* responsive */
 @media (max-width: 860px) {
   .calc-energetica-page .container {
@@ -469,6 +594,161 @@ last_modified_at: 2026-08-08
 }
 </style>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Calculadora energética para data centers",
+  "url": "https://muchotexto.net/calculadora-energetica/",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "isAccessibleForFree": true,
+  "description": "Calcula el costo anual de electricidad de un data center en Paraguay con la tarifa de ANDE vigente desde octubre de 2026 y lo compara con Irlanda, Virginia, Suecia y Chile."
+}
+</script>
+
+<div class="calc-intro">
+  <p><strong>Actualizado el 21 de noviembre de 2026.</strong> La Resolución 52552/2026 de la ANDE creó el Grupo de Consumo de Industrias Electrointensivas de Tecnología Avanzada. Para un data center de IA en 220 kV, la tarifa media es de <strong>48,91 US$/MWh</strong>; en 23 kV, de <strong>56,39 US$/MWh</strong>.</p>
+  <p>La referencia de 30 US$/MWh del GCIE ya no aplica a estos proyectos: quedó para criptominería. La calculadora compara el costo anual con Irlanda, Virginia, Suecia y Chile, y muestra el impacto de una revisión tarifaria.</p>
+</div>
+
 <div class="calc-energetica-page">
 {% include calculadora-energetica.html %}
 </div>
+
+<section class="calc-section">
+  <h2>Cómo se calcula</h2>
+  <p>La calculadora multiplica la capacidad instalada por 8.760 horas anuales y por la tarifa media de 220 kV. Es un ejercicio de orden de magnitud, no una factura:</p>
+  <ul>
+    <li><strong>Capacidad:</strong> de 10 a 1.000 MW, con factor de carga de ~100%.</li>
+    <li><strong>Tarifa Paraguay:</strong> 48,91 US$/MWh en 220 kV, el promedio que combina energía y potencia reservada. En 23 kV el promedio es 56,39 US$/MWh, pero ese nivel tiene un tope de 6 MW en subestación.</li>
+    <li><strong>Comparación internacional:</strong> rangos de mercado para Suecia, Chile, Virginia e Irlanda. No son tarifas reguladas equivalentes ni incluyen impuestos.</li>
+    <li><strong>Escenario de revisión:</strong> lleva la tarifa paraguaya a 51,4 US$/MWh, la referencia técnica del estudio Ceare para alta y muy alta tensión en 2030.</li>
+  </ul>
+  <p>El resultado no incluye conexión, transmisión, respaldo, impuestos, costo de capital ni depreciación. Para un proyecto real, la factura de ANDE depende del perfil horario, la potencia reservada y el nivel de tensión.</p>
+</section>
+
+<section class="calc-section">
+  <h2>Qué cambió con la Resolución 52552/2026</h2>
+  <p>Hasta octubre de 2026, los data centers se cobijaban en el Grupo de Consumo Intensivo Especial (GCIE). La extensión de ese régimen por los decretos 5306, 5307, 5860 y 5861 había sido derogada el 9 de junio de 2026, y el Pliego de Tarifas N° 21 no tenía un grupo para IA, nube, hiperescala ni HPC. La Resolución 52552/2026 los separó en un grupo propio, con tarifas más altas y una actualización anual.</p>
+  <table class="calc-table">
+    <thead>
+      <tr><th>Concepto</th><th>GCIE (Res. 49238/2024)</th><th>Tecnología avanzada (Res. 52552/2026)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Aplica a</td><td>Criptominería y validación de blockchain</td><td>IA, nube, centros de datos de hiperescala y HPC</td></tr>
+      <tr><td>Energía en 220 kV</td><td>31,05–37,25 US$/MWh según horario</td><td>34,26–41,10 US$/MWh según horario</td></tr>
+      <tr><td>Energía en 23 kV</td><td>31,77–40,06 US$/MWh según modalidad y horario</td><td>35,65–45,54 US$/MWh según modalidad y horario</td></tr>
+      <tr><td>Promedio 220 kV</td><td>—</td><td>48,91 US$/MWh</td></tr>
+      <tr><td>Promedio 23 kV</td><td>—</td><td>56,39 US$/MWh</td></tr>
+      <tr><td>Ajuste</td><td>Régimen temporal</td><td>CPI + PPI de EE.UU., piso de 2,5% anual desde 2028</td></tr>
+      <tr><td>Vigencia</td><td>Contratos hasta el año 2027</td><td>Sin fecha de finalización en la resolución</td></tr>
+    </tbody>
+  </table>
+  <p>La resolución también creó requisitos de acreditación: declaración jurada de intención de obtener certificación Tier III o TIA-942 Rated 3, contrato con un cliente de clase mundial, estados financieros auditados, origen lícito de fondos y control efectivo del terreno. La ANDE reportó unas 6.000 MW de solicitudes, pero solo unos 750 MW disponibles; tras los 286 MW comprometidos con Kuntur quedan aproximadamente 464 MW. El detalle está en el <a href="/dashboard-energetico/">dashboard energético</a> y en el <a href="/radar-legislativo/">radar legislativo</a>.</p>
+</section>
+
+<section class="calc-section calc-faq">
+  <h2>Preguntas frecuentes</h2>
+
+  <details>
+    <summary>¿Cuánto paga un data center de IA por electricidad en Paraguay?</summary>
+    <p>La tarifa media es de 48,91 US$/MWh en 220 kV y de 56,39 US$/MWh en 23 kV. Son promedios que combinan energía y potencia reservada; la energía sola va de 34,26 a 45,54 US$/MWh según tensión y horario.</p>
+  </details>
+
+  <details>
+    <summary>¿La tarifa de 30 US$/MWh sigue vigente?</summary>
+    <p>Para criptominería y validación de blockchain sigue el GCIE de la Resolución 49238/2024. Para IA, nube, hiperescala y HPC rige la Resolución 52552/2026, con un promedio de 48,91 US$/MWh en 220 kV.</p>
+  </details>
+
+  <details>
+    <summary>¿La tarifa queda fija durante los 15 años del contrato?</summary>
+    <p>No. El contrato de Kuntur dura 15 años, pero la tarifa se ajusta cada año con un piso de 2,5% desde 2028 y se revisa cada dos años según el costo medio de generación de la ANDE.</p>
+  </details>
+
+  <details>
+    <summary>¿Qué potencia tiene disponible la ANDE?</summary>
+    <p>La ANDE reportó solicitudes por unas 6.000 MW, pero aclaró que no son pedidos firmes. Dispone de unos 750 MW; con los 286 MW comprometidos con Kuntur quedan aproximadamente 464 MW.</p>
+  </details>
+
+  <details>
+    <summary>¿Qué pasa si un proyecto consume más potencia que la reservada?</summary>
+    <p>Paga un recargo por exceso: 6 veces el precio de la potencia reservada en punta y 4 veces fuera de punta. En 220 kV equivale a 34,88 y 15,49 US$/kW-mes, respectivamente.</p>
+  </details>
+
+  <details>
+    <summary>¿La calculadora incluye impuestos y costos de conexión?</summary>
+    <p>No. Aísla el componente de energía y potencia. No incluye impuestos, transmisión, conexión, respaldo ni una cotización real de ANDE.</p>
+  </details>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Cuánto paga un data center de IA por electricidad en Paraguay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La tarifa media es de 48,91 US$/MWh en 220 kV y de 56,39 US$/MWh en 23 kV. Son promedios que combinan energía y potencia reservada; la energía sola va de 34,26 a 45,54 US$/MWh según tensión y horario."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿La tarifa de 30 US$/MWh sigue vigente?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Para criptominería y validación de blockchain sigue el GCIE de la Resolución 49238/2024. Para IA, nube, hiperescala y HPC rige la Resolución 52552/2026, con un promedio de 48,91 US$/MWh en 220 kV."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿La tarifa queda fija durante los 15 años del contrato?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. El contrato de Kuntur dura 15 años, pero la tarifa se ajusta cada año con un piso de 2,5% desde 2028 y se revisa cada dos años según el costo medio de generación de la ANDE."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué potencia tiene disponible la ANDE?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La ANDE reportó solicitudes por unas 6.000 MW, pero aclaró que no son pedidos firmes. Dispone de unos 750 MW; con los 286 MW comprometidos con Kuntur quedan aproximadamente 464 MW."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué pasa si un proyecto consume más potencia que la reservada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paga un recargo por exceso: 6 veces el precio de la potencia reservada en punta y 4 veces fuera de punta. En 220 kV equivale a 34,88 y 15,49 US$/kW-mes, respectivamente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿La calculadora incluye impuestos y costos de conexión?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Aísla el componente de energía y potencia. No incluye impuestos, transmisión, conexión, respaldo ni una cotización real de ANDE."
+      }
+    }
+  ]
+}
+</script>
+
+<section class="calc-section calc-sources">
+  <h2>Fuentes</h2>
+  <p>
+    <a href="https://www.ande.gov.py/docs/tarifas/RP52552%20Grupo%20Consumo%20Ind.%20Elect.%20Tec.%20Avanzada.pdf">ANDE — Resolución P/N° 52552/2026</a>, Grupo de Consumo de Industrias Electrointensivas de Tecnología Avanzada (21-oct-2026).<br>
+    <a href="https://www.abc.com.py/economia/2026/10/24/ande-crea-por-resolucion-tarifa-para-centros-de-ia-y-fija-requisitos-pero-su-disponibilidad-es-limitada/">ABC Color — "ANDE crea por resolución tarifa para centros de IA y fija requisitos, pero su disponibilidad es limitada"</a> (24-oct-2026).<br>
+    <a href="https://www.abc.com.py/economia/2026/11/01/tarifa-para-centros-de-ia-ande-cobrara-entre-us-34-y-46-por-mwh-de-energia-mas-la-potencia-reservada/">ABC Color — "Tarifa para centros de IA: ANDE cobrará entre US$ 34 y 46 por MWh de energía, más la potencia reservada"</a> (1-nov-2026).<br>
+    <a href="https://www.abc.com.py/economia/2026/11/01/tarifa-de-la-ande-para-centros-de-ia-subira-como-minimo-25-por-ano-desde-2028-y-se-revisara-cada-dos-anos/">ABC Color — "Tarifa de la ANDE para centros de IA subirá como mínimo 2,5% por año desde 2028 y se revisará cada dos años"</a> (1-nov-2026).<br>
+    <a href="https://www.abc.com.py/economia/2026/11/04/piden-6000-mw-y-quedan-464-cuales-son-los-requisitos-de-ande-para-dar-energia-a-centros-de-ia/">ABC Color — "Piden 6.000 MW y quedan 464: cuáles son los requisitos de ANDE para dar energía a centros de IA"</a> (4-nov-2026).<br>
+    <a href="https://www.abc.com.py/economia/2026/10/23/es-beneficioso-para-la-ande-centro-de-ia-pagara-entre-us-4891-y-5639-por-mwh-de-la-energia/">ABC Color — "¿Es beneficioso para la ANDE? Centro de IA pagará entre US$ 48,91 y 56,39 por MWh de la energía"</a> (23-oct-2026).<br>
+    ANDE — <a href="https://www.ande.gov.py/docs/tarifas/RP49238%20Actualizacion%20de%20las%20Tarifas%20de%20Energia%20Electrica%20GCIE-2024.pdf">Resolución P/N° 49238/2024</a>, tarifas del GCIE.
+  </p>
+  <p>Metodología: costo anual = capacidad (MW) × 8.760 h × tarifa media (US$/MWh). Los promedios de Paraguay son los difundidos por la ANDE; no son una tarifa única de la resolución. La comparación internacional usa rangos de mercado y no incorpora impuestos ni condiciones contractuales locales.</p>
+</section>
