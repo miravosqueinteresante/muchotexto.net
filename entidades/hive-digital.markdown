@@ -4,12 +4,12 @@ title: "HIVE Digital Technologies Ltd."
 description: >
   Perfil de HIVE Digital Technologies en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre HIVE Digital Technologies Ltd..
 permalink: /entidades/hive-digital/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-23
 entity_id: hive-digital
 entity_name: HIVE Digital Technologies
 entity_name_full: HIVE Digital Technologies Ltd.
 entity_description: >
-  Empresa de infraestructura digital listada en NASDAQ (HIVE). Opera 300 MW en Paraguay (200 MW Yguazú + 100 MW Valenzuela, fases completadas jun-nov 2025) y construye 100 MW adicionales de cómputo GPU en Yguazú (energización: sept 2026). Plan total: 400 MW. Modelo dual: minería Bitcoin (93.5% revenue FY2026) + HPC/AI cloud. Lanzó BUZZ AI Cloud en marzo 2026 en data center Tier III en Asunción.
+  Empresa de infraestructura digital listada en NASDAQ (HIVE). Opera 300 MW en Paraguay (200 MW Yguazú + 100 MW Valenzuela, fases completadas jun-nov 2025) y construye 100 MW adicionales de infraestructura en Yguazú, capacidad sin asignar entre minería, AI y HPC (energización prevista Q4 2026; Tier-III H2 2027). Plan total: 400 MW. Los PPAs de Yguazú y Valenzuela vencen el 31-dic-2027. Modelo dual: minería Bitcoin (93.5% revenue FY2026) + HPC/AI cloud. Lanzó BUZZ AI Cloud en marzo 2026 en data center Tier III en Asunción.
 entity_category: empresa
 related_articles:
   - title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"

@@ -4,7 +4,7 @@ title: "CERT-PY | Observatorio de IA en Paraguay"
 description: >
   Perfil de CERT-PY en el Observatorio de IA en Paraguay: artículos, leyes, datos verificables y fuentes primarias locales.
 permalink: /entidades/cert-py/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-23
 entity_id: cert-py
 entity_name: CERT-PY
 entity_name_full: Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay

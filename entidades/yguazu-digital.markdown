@@ -4,7 +4,7 @@ title: "Proyecto Yguazú Digital"
 description: >
   Perfil de Yguazú Digital en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Proyecto Yguazú Digital.
 permalink: /entidades/yguazu-digital/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-23
 entity_id: yguazu-digital
 entity_name: Yguazú Digital
 entity_name_full: Proyecto Yguazú Digital
@@ -52,7 +52,7 @@ obs_cronologia:
     context: "ICDF contacta a Google, Microsoft y Amazon como potenciales clientes ancla de Yguazú Digital."
   - label: "Noviembre 2027"
     url: /cronologia/
-    context: "Entra en vigor la Ley 7593 de protección de datos. Yguazú Digital Fase I debe estar operativo."
+    context: "Yguazú Digital Fase I debe estar operativo."
 obs_directorio:
   - label: "Yguazú Digital"
     url: /directorio/

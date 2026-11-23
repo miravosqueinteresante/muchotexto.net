@@ -4,7 +4,7 @@ title: "Banco Central del Paraguay"
 description: >
   Perfil de BCP en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Banco Central del Paraguay.
 permalink: /entidades/bcp/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-23
 entity_id: bcp
 entity_name: BCP
 entity_name_full: Banco Central del Paraguay

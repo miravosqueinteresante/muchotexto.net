@@ -4,7 +4,7 @@ title: "Taiwán (República de China)"
 description: >
   Perfil de Taiwán en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Taiwán (República de China).
 permalink: /entidades/taiwan/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-23
 entity_id: taiwan
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
