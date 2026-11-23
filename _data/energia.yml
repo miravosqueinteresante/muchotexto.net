@@ -1,13 +1,13 @@
 # Dashboard energético — datos verificados contra AGENTS.md (ago 2026).
 # Fuentes: ANDE, Res. 49238/2024, estudio Ceare (UBA/BID), ABC Color.
 # Recordatorio: re-verificar la tarifa de ANDE cada 30 días.
-# Re-verificada: 21-nov-2026 (Res. 52552/2026 vigente para IA; GCIE 30 US$/MWh sigue para criptominería).
-# Próxima: 21-dic-2026.
+# Re-verificada: 23-nov-2026 (Res. 52552/2026 vigente para IA; GCIE 30 US$/MWh sigue para criptominería).
+# Próxima: 23-dic-2026.
 
 kpis:
-  - label: "Potencia reservada"
+  - label: "Potencia reservada GCIE"
     value: "943,8 MW"
-    note: "41 empresas, agosto 2026"
+    note: "41 empresas; criptominería/blockchain, ago 2026"
   - label: "Tarifa GCIE"
     value: "30 US$/MWh"
     note: "Resolución 49238/2024; criptominería, hasta dic 2027"
@@ -43,7 +43,7 @@ crecimiento_demanda:
   - "12,4% (2023)"
   - "18,5% (2024)"
   - "12,5% (2025)"
-  - "17,9% acum. 8 meses (2026)"
+  - "16% acum. octubre (2026)"
 
 tarifa_gcie:
   tarifa: "30 US$/MWh"
@@ -106,7 +106,7 @@ itaipu_ingresos:
   perdida_60: "Sin cifra oficial. El 60% es la caída de la tarifa (servicio de deuda = 60% del costo de Itaipú en 2019, FMI), no de los ingresos paraguayos. NO usar USD 600M ni 750M. Si hace falta número: 'más de USD 650M' (ABC Color, 1-jun-2025)."
 
 # Tarifa para IA, nube, hiperescala y HPC (Resolución ANDE P/N° 52552/2026).
-# Verificada 21-nov-2026 contra ABC Color y la resolución citada.
+# Verificada 23-nov-2026 contra ABC Color y la resolución citada.
 tarifa_ia:
   resolucion: "Resolución ANDE P/N° 52552/2026"
   fecha: "21-oct-2026"

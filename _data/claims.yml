@@ -40,9 +40,9 @@
   localizador: párrafo 1
   extracto: 41 suministros activos... 943,8 MW
   fecha_corte: 2026-03-15
-  ultima_verificacion: 2026-11-16
+  ultima_verificacion: 2026-11-23
   articulo: /articulos/2026/09/16/los-contratos-secretos-de-ande/
-  nota: El listado al Congreso suma 32 suministros y 975.667 kW; los universos no coinciden.
+  nota: El listado al Congreso suma 32 suministros y 975.667 kW; los universos no coinciden. Desde la Res. 52552/2026, los 943,8 MW describen GCIE criptominería/blockchain; IA/nube/HPC se contabilizan aparte.
 - id: ene-004
   seccion: Energía y data centers
   claim: El consumo nacional de electricidad fue de 29,4 TWh en 2025 (29.419 GWh).
@@ -59,32 +59,32 @@
   nota: El BAGP 2025 de ANDE reporta 29.418.538 MWh, compatible con el redondeo.
 - id: ene-005
   seccion: Energía y data centers
-  claim: La demanda eléctrica creció 18,5% en 2024, 12,5% en 2025 y 17,9% acumulado a 8 meses de 2026.
+  claim: La demanda eléctrica creció 18,5% en 2024, 12,5% en 2025 y 16% acumulado a octubre de 2026.
   tipo: hecho
   estado: confirmado
   evidencia: A
   fuente: ANDE
-  url: https://www.ande.gov.py/interna.php?id=15615
+  url: https://www.ande.gov.py/interna.php?id=15783
   localizador: comunicado de demanda, párrafo 1
-  extracto: 17,9% acumulado a 8 meses de 2026
-  fecha_corte: 2026-08-31
-  ultima_verificacion: 2026-11-16
+  extracto: entre enero y octubre de 2026, la demanda acumulada registró un incremento del 16%
+  fecha_corte: 2026-10-31
+  ultima_verificacion: 2026-11-23
   articulo: /articulos/2026/08/12/mesa-energetica-pen-2050-paraguay/
-  nota: El 21% era un parcial del primer trimestre.
+  nota: El 17,9% era el acumulado a agosto; el 21% era un parcial del primer trimestre.
 - id: ene-006
   seccion: Energía y data centers
-  claim: HIVE Digital opera 300 MW en Paraguay (minería ASIC) y desarrolla 100 MW de infraestructura HPC/AI (Tier III, 2027).
+  claim: HIVE Digital opera ~300 MW en Paraguay (minería ASIC) y construye 100 MW de infraestructura sin asignar en Yguazú, con energización prevista Q4 2026 y data center Tier III en H2 2027.
   tipo: hecho
   estado: confirmado
-  evidencia: B
+  evidencia: A
   fuente: HIVE Digital Technologies
-  url: https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-reaches-ai-cloud-milestone-in-paraguay-powers-columbia-university-llm-research-from-new-york-to-asuncion/
-  localizador: comunicado del 18-mar-2026, declaración de Frank Holmes
-  extracto: HIVE has 300 MW of renewable hydroelectric power operational in Paraguay, with another 100 MW in development.
-  fecha_corte: 2026-03-18
-  ultima_verificacion: 2026-11-16
+  url: https://www.hivedigitaltechnologies.com/news/hive-reports-q2-revenue-of-849-million-with-ai-gpu-revenue-expanding-70-as-dual-engine-model-drives-resilience-with-139-million-in-cash-on-the-balance-sheet/
+  localizador: Q2 FY2027, 9-nov-2026, sección Dual-Engine Infrastructure
+  extracto: The additional 100 MW is currently unallocated, providing flexibility to direct power toward opportunities offering attractive returns across hashrate services, AI and HPC workloads.
+  fecha_corte: 2026-11-09
+  ultima_verificacion: 2026-11-23
   articulo: /articulos/2026/08/04/impacto-local-data-center-paraguay/
-  nota: 300 MW son minería ASIC; los 100 MW son infraestructura HPC/AI, no capacidad GPU equivalente.
+  nota: 300 MW son minería ASIC; los 100 MW son infraestructura sin asignar, no capacidad GPU equivalente. Energización Q4 2026; Tier III H2 2027.
 - id: ene-007
   seccion: Energía y data centers
   claim: Un data center de 100 MW emplea entre 20 y 50 personas en operación permanente (referencia de industria).
@@ -241,18 +241,18 @@
   nota: Corregido de 'edad media' a 'edad mediana'.
 - id: dem-002
   seccion: Demografía y economía
-  claim: La fecundidad es de 1,90 hijos por mujer (2026) y caerá a 1,72 en 2050, por debajo del reemplazo.
+  claim: La fecundidad es de 1,90 hijos por mujer (2026; 1,92 en 2025) y caerá a 1,72 en 2050, por debajo del reemplazo.
   tipo: proyeccion
   estado: confirmado
   evidencia: A
   fuente: INE Paraguay
   url: https://www.ine.gov.py/Publicaciones/Biblioteca/documento/266/Triptico.pdf
   localizador: indicadores demográficos 2026-2031
-  extracto: Tasa Global de Fecundidad (TGF) 1,90
+  extracto: El número promedio de hijos por mujer en el año 2026 es de 1,90
   fecha_corte: 2026-07-10
-  ultima_verificacion: 2026-11-16
+  ultima_verificacion: 2026-11-23
   articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-  nota: La proyección a 2050 de 1,72 proviene de la Revisión 2024.
+  nota: 1,90/2026 y 1,72/2050 provienen de la Revisión 2025; 1,92 en 2025.
 - id: dem-003
   seccion: Demografía y economía
   claim: El bono demográfico se cierra alrededor de 2045.
@@ -269,18 +269,18 @@
   nota: INE 2024 mantiene la ventana abierta al 2050; Rodríguez (2016) estima ~2045; UIP 2030-2040.
 - id: dem-004
   seccion: Demografía y economía
-  claim: El PIB per cápita de Paraguay ronda los USD 9.400 nominales (2026).
-  tipo: proyeccion
+  claim: El PIB per cápita de Paraguay se ubica en el rango de USD 9.300–9.900 nominales (2026); MEF/BCP reporta USD 9.324,53.
+  tipo: hecho
   estado: confirmado
   evidencia: A
-  fuente: IMF World Economic Outlook
-  url: https://www.imf.org/en/Publications/WEO/weo-database/2026/October
-  localizador: WEO octubre 2026, NGDPDPC, Paraguay
-  extracto: 'Paraguay: USD 9.370 de PIB per cápita nominal proyectado para 2026'
-  fecha_corte: 2026-10-31
-  ultima_verificacion: 2026-11-16
+  fuente: MEF / BCP
+  url: http://www.mef.gov.py/sites/default/files/2026-10/Panorama%20Macreoecon%C3%B3mico%20del%20Paraguay%20Ago%202026.pdf
+  localizador: Panorama Macroeconómico Ago 2026, tabla de PIB per cápita
+  extracto: PIB per cápita (USD) … 2026(**) 9.324,53
+  fecha_corte: 2026-08-31
+  ultima_verificacion: 2026-11-23
   articulo: /articulos/2026/08/05/paraguay-2040-futuro-datos/
-  nota: 9.370 redondea a 9.400; es proyección, no dato observado.
+  nota: Usar rango o 9.324,53 con fuente; evitar cifra única sin año/fuente.
 - id: dem-005
   seccion: Demografía y economía
   claim: El índice de capital humano de Paraguay es 0,528 (el más bajo entre pares regionales).

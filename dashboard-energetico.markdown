@@ -3,7 +3,7 @@ layout: page
 title: "Dashboard energético — Data Centers"
 permalink: /dashboard-energetico/
 description: "Potencia reservada, tarifas GCIE e IA y consumo eléctrico de data centers en Paraguay. Datos verificados contra ANDE y el estudio Ceare."
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 <style>
@@ -235,7 +235,7 @@ last_modified_at: 2026-11-21
 <div class="dash-page">
 <div class="dash">
 
-<p class="dash-eyebrow"><span class="dash-dot"></span>Datos verificados · actualizado 21 de noviembre de 2026</p>
+<p class="dash-eyebrow"><span class="dash-dot"></span>Datos verificados · actualizado 23 de noviembre de 2026</p>
 
 <p class="dash-intro">El pulso eléctrico de la economía de IA en Paraguay, en un solo lugar. Potencia reservada para data centers y criptominería, la tarifa del consumo intensivo y el consumo nacional que la sostiene. Cada cifra sale de <a href="/radar-legislativo/">fuentes oficiales</a> verificadas, no de estimaciones propias.</p>
 
@@ -270,7 +270,7 @@ last_modified_at: 2026-11-21
     <div class="dash-bar-track"><div class="dash-bar-fill" style="width: 100%"></div></div>
     <span class="dash-bar-value">943,8 MW</span>
   </div>
-  <p class="dash-disclaimer">Serie GCIE, creada en 2022 (Resolución ANDE 46984). 943,8 MW de potencia reservada y contratada por 41 empresas a agosto de 2026 — no necesariamente operativa.</p>
+  <p class="dash-disclaimer">Serie GCIE, creada en 2022 (Resolución ANDE 46984). 943,8 MW de potencia reservada y contratada por 41 empresas a agosto de 2026 — no necesariamente operativa. Desde la Res. 52552/2026 (21-oct-2026), IA, nube, hiperescala y HPC se contabilizan en un grupo propio y no dentro de esta serie.</p>
 </section>
 
 <section class="dash-section">
@@ -283,7 +283,7 @@ last_modified_at: 2026-11-21
     <span class="dash-bar-value">{{ c.gwh | divided_by: 1000.0 | round: 1 }} TWh</span>
   </div>
   {% endfor %}
-  <p class="dash-disclaimer">Demanda del sistema con pérdidas (ANDE). Crecimiento reciente de la demanda: 5,7% (2022), 12,4% (2023), 18,5% (2024), 12,5% (2025) y 17,9% acumulado a 8 meses de 2026. El 21% era un parcial del primer trimestre, no un cierre anual.</p>
+  <p class="dash-disclaimer">Demanda del sistema con pérdidas (ANDE). Crecimiento reciente de la demanda: 5,7% (2022), 12,4% (2023), 18,5% (2024), 12,5% (2025) y 16% acumulado a octubre de 2026 (17,9% era a agosto). El 21% era un parcial del primer trimestre, no un cierre anual.</p>
 </section>
 
 <section class="dash-section">
@@ -352,7 +352,7 @@ last_modified_at: 2026-11-21
   </ul>
 </div>
 
-<p class="dash-disclaimer">Este tablero se re-verifica contra fuentes oficiales cada 30 días (última revisión: 21 de noviembre de 2026). Es una instantánea estática, no un feed en tiempo real. Complementa el <a href="/radar-legislativo/">radar legislativo</a> (estado de las normas) y la <a href="/calculadora-energetica/">calculadora de costo energético</a> (comparación internacional).</p>
+<p class="dash-disclaimer">Este tablero se re-verifica contra fuentes oficiales cada 30 días (última revisión: 23 de noviembre de 2026). Es una instantánea estática, no un feed en tiempo real. Complementa el <a href="/radar-legislativo/">radar legislativo</a> (estado de las normas) y la <a href="/calculadora-energetica/">calculadora de costo energético</a> (comparación internacional).</p>
 
 {% include datos-verificados.html entidad="ande" %}
 
