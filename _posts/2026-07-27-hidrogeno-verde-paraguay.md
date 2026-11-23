@@ -3,7 +3,7 @@ layout: post
 title: "Paraguay tiene la energía para el hidrógeno verde pero no el puerto"
 seo_title: "Hidrógeno verde en Paraguay, sin puerto"
 date: 2026-07-27
-last_modified_at: 2026-09-23
+last_modified_at: 2026-11-23
 categories: articulos
 pilar: 1
 resumen: "La electricidad más barata de Sudamérica y agua ilimitada. Pero sin costa ni proyectos comerciales."
@@ -11,7 +11,7 @@ tags: infraestructura-energia ia-paraguay paraguay ia
 description: "Paraguay podría producir hidrógeno verde a USD 1,5/kg, entre los más baratos de Sudamérica. Pero sin puerto ni proyectos en ejecución, la oportunidad."
 ---
 
-Paraguay podría producir hidrógeno verde a un costo entre los más bajos de Sudamérica. Tiene electricidad barata para grandes consumidores (la tarifa GCIE, USD 0,03 por kilovatio-hora), agua abundante del río Paraná y una subestación de 200 MW en Yguazú (operada por HIVE desde 2025). Con esa energía, un electrolizador de 1 GW podría generar alrededor de 1.800 millones de metros cúbicos de hidrógeno por año. El mercado global de hidrógeno (99% de origen fósil) fue de unos USD 155.000 millones en 2022 según informes de investigación de mercado, con el segmento verde en apenas USD 4.200 millones —menos del 3%— pero creciendo rápido. Paraguay tiene la materia prima. Lo que no tiene es un proyecto comercial en operación, una ley específica de hidrógeno ni un puerto marítimo para exportarlo. Chile ya envió su primer cargamento de combustibles sintéticos a Porsche en 2022.
+Paraguay podría producir hidrógeno verde a un costo entre los más bajos de Sudamérica. Tiene electricidad barata en la referencia del GCIE (USD 0,03 por kilovatio-hora), aunque esa tarifa hoy aplica a criptominería y blockchain, no a electrólisis; agua abundante del río Paraná y una subestación de 200 MW en Yguazú (operada por HIVE desde 2025). Con esa energía, un electrolizador de 1 GW podría generar alrededor de 1.800 millones de metros cúbicos de hidrógeno por año. El mercado global de hidrógeno (99% de origen fósil) fue de unos USD 155.000 millones en 2022 según informes de investigación de mercado, con el segmento verde en apenas USD 4.200 millones —menos del 3%— pero creciendo rápido. Paraguay tiene la materia prima. Lo que no tiene es un proyecto comercial en operación, una ley específica de hidrógeno ni un puerto marítimo para exportarlo. Chile ya envió su primer cargamento de combustibles sintéticos a Porsche en 2022.
 
 ## La energía sobra. Los proyectos, no.
 
@@ -37,7 +37,7 @@ Chile no tenía un sector de hidrógeno verde en 2020. Tenía viento en Magallan
 
 Uruguay hizo algo similar pero a menor escala: su proyecto HIF en Paysandú moviliza USD 5.300 millones y el consorcio alemán Enertrag participa en H2Global, el mecanismo de compra del gobierno alemán que garantiza precios a los productores (la primera licitación la ganó Fertiglobe de Emiratos Árabes en 2024). Uruguay avanzó rápido porque reguló con claridad desde el principio.
 
-Paraguay tiene ventajas que Chile y Uruguay no tienen: electricidad hidroeléctrica 24/7 a USD 0,03/kWh para grandes consumidores (tarifa GCIE), frente a los USD 0.025-0.04 de las subastas solares y eólicas en Chile. El costo nivelado de hidrógeno (LCOH) proyectado para Paraguay en 2030 está entre USD 1.50 y 3.10 por kilogramo, potencialmente el más bajo de Sudamérica. La Agencia Internacional de Energías Renovables (IRENA) estima que el hidrógeno verde será competitivo con el gris antes de 2030 en ubicaciones con electricidad renovable por debajo de USD 20 por megavatio-hora. Paraguay no llega a ese umbral (USD 30/MWh), pero su ventaja no es solo el precio: es la constancia. Una central hidroeléctrica produce 24 horas al día, todos los días del año. Ningún parque solar o eólico puede decir lo mismo, y esa diferencia reduce el costo nivelado porque el electrolizador no se para. Lo que le falta no es recurso. Es regulación, infraestructura de transmisión —la ANDE anunció la construcción de dos nuevas líneas de 500 kV para triplicar la capacidad de la red—, y un marco de certeza jurídica que transforme los Anuncios en ejecución.
+Paraguay tiene ventajas que Chile y Uruguay no tienen: electricidad hidroeléctrica 24/7 a USD 0,03/kWh en la referencia GCIE —que hoy cubre criptominería/blockchain, no electrólisis—, frente a los USD 0.025-0.04 de las subastas solares y eólicas en Chile. El costo nivelado de hidrógeno (LCOH) proyectado para Paraguay en 2030 está entre USD 1.50 y 3.10 por kilogramo, potencialmente el más bajo de Sudamérica, pero ese cálculo usa la referencia GCIE como escenario, no un precio contratado. La Agencia Internacional de Energías Renovables (IRENA) estima que el hidrógeno verde será competitivo con el gris antes de 2030 en ubicaciones con electricidad renovable por debajo de USD 20 por megavatio-hora. Con la referencia GCIE de USD 30/MWh, Paraguay no llega a ese umbral; con la tarifa técnica (~USD 44) o la nueva tarifa de tecnología avanzada (48,91), el LCOH sería más alto. Su ventaja no es solo el precio: es la constancia. Una central hidroeléctrica produce 24 horas al día, todos los días del año. Ningún parque solar o eólico puede decir lo mismo, y esa diferencia reduce el costo nivelado porque el electrolizador no se para. Lo que le falta no es recurso. Es regulación, infraestructura de transmisión —la ANDE anunció la construcción de dos nuevas líneas de 500 kV para triplicar la capacidad de la red—, y un marco de certeza jurídica que transforme los Anuncios en ejecución.
 
 ## La oportunidad silenciosa
 
@@ -57,6 +57,8 @@ Paraguay no va a competir con Chile en la exportación de hidrógeno a Japón. N
 6. [HIF Global — Haru Oni e-fuel plant, Magallanes](https://www.hifglobal.com/)
 7. [ANDE — Informe de Gestión y líneas de 500 kV](https://www.ande.gov.py/)
 8. [Banco Mundial — "The Potential of Green Hydrogen in Latin America" (2024)](https://www.worldbank.org/)
+9. [ANDE — Resolución P/N° 52552/2026, régimen para industrias electrointensivas de tecnología avanzada (21-oct-2026)](https://www.ande.gov.py/docs/tarifas/RP52552%20Grupo%20Consumo%20Ind.%20Elect.%20Tec.%20Avanzada.pdf)
+10. [ANDE — Decreto 6214/2026, derogación de los decretos de industrias convergentes (9-jun-2026)](https://www.ande.gov.py/interna.php?id=15342)
 
 <script type="application/ld+json">
 {
@@ -68,7 +70,7 @@ Paraguay no va a competir con Chile en la exportación de hidrógeno a Japón. N
       "name": "¿Puede Paraguay producir hidrógeno verde?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sí. Paraguay tiene electricidad hidroeléctrica barata para grandes consumidores (tarifa GCIE, USD 0,03/kWh), agua abundante del río Paraná y una subestación de 200 MW en Yguazú. Con esa energía, un electrolizador de 1 GW podría generar ~1.800 millones de Nm³ de hidrógeno por año. El LCOH proyectado para 2030 está entre USD 1,50 y 3,10/kg."
+        "text": "Sí, con una salvedad: la referencia de USD 0,03/kWh es la tarifa GCIE para criptominería y blockchain; el hidrógeno verde no tiene tarifa vigente desde la derogación de los decretos de junio de 2026. El artículo usa esa referencia como escenario de LCOH, no como precio contratado. Con esa referencia, un electrolizador de 1 GW podría generar ~1.800 millones de Nm³ de hidrógeno por año; el LCOH proyectado para 2030 está entre USD 1,50 y 3,10/kg."
       }
     },
     {

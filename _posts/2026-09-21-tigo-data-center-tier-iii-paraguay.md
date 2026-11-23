@@ -3,7 +3,7 @@ layout: post
 title: "El data center Tier III que Paraguay ya tiene hace una década"
 seo_title: "El data center Tier III de Tigo"
 date: 2026-09-21 10:00:00 -0300
-last_modified_at: 2026-09-21
+last_modified_at: 2026-11-23
 categories: [articulos]
 pilar: 1
 resumen: "El único data center Tier III de un operador privado está en Villa Elisa, es de Tigo y opera desde 2016. Sobre él corre la nube global (Netflix, Google) mientras los megaproyectos de IA siguen en anuncios."
@@ -58,7 +58,7 @@ La evidencia técnica más reciente coincide y amplía la lista: en la red de Ti
 
 Hay un matiz que conviene corregir. En 2026, una declaración del ministro de Industria y Comercio mencionó a "Amazon y Netflix" usando la infraestructura. Sin embargo, la evidencia disponible no muestra un nodo de Amazon en Paraguay: lo que existe es una **alianza comercial entre Tigo Business y AWS** (2024) para revender servicios de nube. La dupla original y verificable es **Netflix y Google**.
 
-El data center también entró en la conversación de la IA en 2026. El **18 de marzo**, HIVE Digital lanzó allí su plataforma **BUZZ AI Cloud**, con un clúster de GPU que un equipo de investigación de **Columbia University** usa para entrenar modelos de lenguaje desde Nueva York hacia Asunción. Es importante no mezclar tres cosas distintas de HIVE: su minería de Bitcoin (**300 MW**, ASIC) opera en Yguazú y Valenzuela; el BUZZ corre en el data center Tier III de Tigo en Asunción; y su expansión de GPU de **100 MW** se construye en Yguazú para 2027.
+El data center también entró en la conversación de la IA en 2026. El **18 de marzo**, HIVE Digital lanzó allí su plataforma **BUZZ AI Cloud**, con un clúster de GPU que un equipo de investigación de **Columbia University** usa para entrenar modelos de lenguaje desde Nueva York hacia Asunción. Es importante no mezclar tres cosas distintas de HIVE: su minería de Bitcoin (**300 MW**, ASIC) opera en Yguazú y Valenzuela; el BUZZ corre en el data center Tier III de Tigo en Asunción; y su expansión de infraestructura de **100 MW** en Yguazú —capacidad aún sin asignar entre minería, AI y HPC— apunta a 2027.
 
 Un detalle de arquitectura: Tigo **no figura como miembro** del PIT Paraguay, uno de los tres puntos de intercambio de tráfico (IXP) del país. Con **más de 20.000 km de fibra propia y 14 enlaces internacionales** —ocho por Brasil, cuatro por Argentina y dos por Bolivia—, prefiere rutas y *peering* bilaterales.
 
@@ -68,9 +68,9 @@ Aquí conviene la honestidad: **no hay cifra pública** del consumo eléctrico d
 
 Para ponerlo en escala: el PUE promedio de la industria fue **1,56 en 2024**, según el [Uptime Institute](https://datacenter.uptimeinstitute.com/rs/711-RIA-145/images/2024.GlobalDataCenterSurvey.Report.pdf), y los diseños nuevos rondan 1,3. En un clima subtropical como el paraguayo, la refrigeración pesa más que en zonas templadas. Pero sin medición publicada, cualquier número de consumo de este data center es una estimación, no un dato.
 
-Lo que sí es verificable es el precio de la energía. La encuesta CIER 2025 ubica la tarifa **industrial paraguaya en US$35/MWh y la residencial en US$46/MWh**, las más bajas de trece países relevados. La tarifa del régimen de grandes consumidores (GCIE) es de **US$30/MWh** por resolución de la ANDE, vigente hasta diciembre de 2027.
+Lo que sí es verificable es el precio de la energía. La encuesta CIER 2025 ubica la tarifa **industrial paraguaya en US$35/MWh y la residencial en US$46/MWh**, las más bajas de trece países relevados. La tarifa del GCIE es de **US$30/MWh** por resolución de la ANDE y aplica a criptominería y blockchain, vigente hasta diciembre de 2027. Para IA, nube, hiperescala y HPC, la **Resolución 52552/2026** fijó una tarifa media de **48,91 US$/MWh en 220 kV y 56,39 en 23 kV**. El data center de Tigo aloja BUZZ AI Cloud, pero su tarifa eléctrica no es pública: no corresponde aplicarle la referencia GCIE.
 
-Y aquí aparece el contraste que ordena todo: el [régimen GCIE](/articulos/2026/09/16/los-contratos-secretos-de-ande/) suma **943,8 MW de potencia reservada en 41 empresas** —el 13,5% de la potencia que le corresponde a Paraguay en Itaipú—, con cuatro criptomineras reuniendo 730 MW, el 77% del total. Frente a eso, la capacidad de *colocation* empresarial del país se estima en **1 a 2 MW**. Es decir: el data center de Tigo equivale, él solo, a casi todo el mercado de colocation paraguayo. La escala de los megavatios anunciados y la escala de lo que existe son dos mundos.
+Y aquí aparece el contraste que ordena todo: el [régimen GCIE](/articulos/2026/09/16/los-contratos-secretos-de-ande/) —criptominería y blockchain— suma **943,8 MW de potencia reservada en 41 empresas** —el 13,5% de la potencia que le corresponde a Paraguay en Itaipú—, con cuatro criptomineras reuniendo 730 MW, el 77% del total. Frente a eso, la capacidad de *colocation* empresarial del país se estima en **1 a 2 MW**. Es decir: el data center de Tigo equivale, él solo, a casi todo el mercado de colocation paraguayo. La escala de los megavatios anunciados y la escala de lo que existe son dos mundos.
 
 ## El mapa real: dos certificados y una ola de anuncios
 
@@ -81,7 +81,7 @@ Conviene deshacer un error frecuente: **no existe un data center separado de "Te
 El resto de la lista está en otra etapa:
 
 - **Data Center del Estado (MITIC/BID)** en Chaco'i: adjudicado en mayo de 2026, con certificación Tier III **contratada pero aún no emitida**, y entrega comprometida para **diciembre de 2027**.
-- **HIVE Digital**: 300 MW de minería Bitcoin ya operativos (Tier-I) y 100 MW de GPU en construcción.
+- **HIVE Digital**: 300 MW de minería Bitcoin ya operativos (Tier-I) y 100 MW de infraestructura en construcción, capacidad sin asignar entre minería, AI y HPC.
 - **[Yguazú Digital](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)** (Paraguay-Taiwán): un memorándum no vinculante con fases de 10 MW, 100 MW y 1.000 MW, sin obra ni certificación.
 - **X8 Cloud**: anuncia de 6 a 250 MW y una meta declarada de 5 GW, sin construcción certificada.
 - **Pardat Holding**: 100 MW anunciados con "Tecnología Tier IV" **declarada por la empresa**, sin figurar en el registro del Uptime.
@@ -160,6 +160,7 @@ No son incompatibles: un país puede tener ambos. Pero la distancia entre el rel
 20. [Wikipedia en español — Tigo (Paraguay)](https://es.wikipedia.org/wiki/Tigo_%28Paraguay%29)
 21. [Cloudflare — Network (PoP Asunción)](https://www.cloudflare.com/network/)
 22. [Netify — Google CDN en Paraguay](https://www.netify.ai/resources/cdn/google-cloud-cdn/country/py)
+23. [ANDE — Resolución P/N° 52552/2026, régimen para industrias electrointensivas de tecnología avanzada (21-oct-2026)](https://www.ande.gov.py/docs/tarifas/RP52552%20Grupo%20Consumo%20Ind.%20Elect.%20Tec.%20Avanzada.pdf)
 23. [Tigo Business y AWS — alianza (5-jul-2024)](https://www.paraguayti.com/24009/tigo-business-y-amazon-web-services-unen-fuerzas-para-ofrecer-soluciones-avanzadas-en-la-nube-para-empresas/)
 24. [InfoNegocios — "Tigo Business: la disponibilidad tecnológica…" (21-sep-2026)](https://infonegocios.com.py/infobrand/tigo-business-la-disponibilidad-tecnologica-ya-no-es-solo-una-conversacion-tecnica-sino-una-decision-estrategica-para-las-empresas)
 25. [Uptime Institute — Global Data Center Survey 2024 (PUE promedio 1,56)](https://datacenter.uptimeinstitute.com/rs/711-RIA-145/images/2024.GlobalDataCenterSurvey.Report.pdf)
