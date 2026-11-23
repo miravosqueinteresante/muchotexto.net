@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Paraguay tiene más GPU que estrategia para inteligencia artificial"
-seo_title: "GPU sin estrategia de IA en Paraguay"
+title: "Paraguay tiene más infraestructura que estrategia para la IA"
+seo_title: "Infraestructura de IA sin estrategia"
 date: 2026-07-16
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-23
 categories: articulos
 pilar: 2
-resumen: "Paraguay construye infraestructura de IA pero no tiene estrategia nacional. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?"
+resumen: "Paraguay acumula 300 MW ASIC y 100 MW de infraestructura sin asignar, pero no tiene estrategia nacional de IA. ¿Qué es la IA soberana y qué puede hacer un país de USD 45 mil millones de PIB?"
 tags: geopolitica-regulacion ia-paraguay
-description: "Cada país debería tener su propia IA, dice Jensen Huang. Paraguay tiene GPU, datos y un idioma que ningún modelo habla. ¿Soberanía o marketing?."
+description: "Paraguay suma 300 MW ASIC y 100 MW de infraestructura sin asignar. La IA soberana requiere estrategia, datos y modelos, no solo energía."
 ---
 
 En 2023, Jensen Huang —el CEO de NVIDIA, la empresa que fabrica los chips que entrenan todos los modelos de inteligencia artificial del mundo— empezó a repetir una frase en cada entrevista: "sovereign AI". Cada país, según Huang, debería tener su propia infraestructura de inteligencia artificial. Sus propios datos. Sus propios modelos. Su propia nube.
 
 El discurso es convincente. También es conveniente: NVIDIA vende las GPU que hacen falta para construir esa infraestructura, y cada país que compra la idea de la IA soberana es un país que le compra chips a Huang.
 
-Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies ya opera 300 MW de infraestructura en Paraguay (200 MW en Yguazú, 100 MW en Valenzuela), toda para minería Bitcoin con ASIC y construye un campus adicional de 100 MW de cómputo GPU en Yguazú (con energización prevista para septiembre de 2026 y finalización del data center Tier-III en el segundo semestre de 2027), el proyecto binacional Yguazú Digital con Taiwán está en desarrollo, y el MITIC está construyendo un data center estatal Tier III. Por otro lado, Paraguay no tiene una estrategia nacional de IA, gasta el 0,14% de su PIB en investigación y desarrollo, y ocupa el puesto 14 de 19 países latinoamericanos en el índice ILIA de preparación para la inteligencia artificial. La brecha entre la infraestructura que se construye y la estrategia que no existe es el tema de este artículo.
+Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies ya opera 300 MW de infraestructura en Paraguay (200 MW en Yguazú, 100 MW en Valenzuela), toda para minería Bitcoin con ASIC y construye 100 MW de infraestructura adicional en Yguazú, capacidad aún sin asignar entre minería, AI y HPC (energización prevista Q4 2026; Tier III en H2 2027), el proyecto binacional Yguazú Digital con Taiwán está en desarrollo, y el MITIC está construyendo un data center estatal Tier III. Por otro lado, Paraguay no tiene una estrategia nacional de IA, gasta el 0,14% de su PIB en investigación y desarrollo, y ocupa el puesto 14 de 19 países latinoamericanos en el índice ILIA de preparación para la inteligencia artificial. La brecha entre la infraestructura que se construye y la estrategia que no existe es el tema de este artículo.
 
 ## Qué es la IA soberana (y por qué NVIDIA quiere que la compres)
 
@@ -39,7 +39,7 @@ Chile lidera el ILIA 2025 con 70,56 puntos sobre 100. Paraguay tiene 31,20 y ocu
 
 Paraguay no tiene un plan de IA soberana. Pero tiene piezas que pocos países de su tamaño están construyendo. El problema es que las piezas no forman un rompecabezas: están en cajas distintas.
 
-La pieza más grande se llama HIVE Digital Technologies. Esta empresa con sede operativa en San Antonio, Texas, que cotiza en TSX y Nasdaq, [ya opera 300 MW en Paraguay]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}) —200 MW en Yguazú y 100 MW en Valenzuela, completados en tres fases entre junio y noviembre de 2025— principalmente para minería Bitcoin. En paralelo, construye un campus adicional de 100 MW de cómputo GPU en Yguazú, alimentado con electricidad de Itaipú, con energización prevista para septiembre de 2026 y el data center Tier-III operativo en el segundo semestre de 2027. El plan total es alcanzar 400 megavatios en Paraguay, que representarían el 74% de su huella renovable global esperada (~540 MW en 2026). De concretarse según lo planeado, Paraguay quedaría entre los países de la región con más capacidad de cómputo GPU.
+La pieza más grande se llama HIVE Digital Technologies. Esta empresa con sede operativa en San Antonio, Texas, que cotiza en TSX y Nasdaq, [ya opera 300 MW en Paraguay]({% post_url 2026-07-07-criptomineria-paraguay-energia-barata %}) —200 MW en Yguazú y 100 MW en Valenzuela, completados en tres fases entre junio y noviembre de 2025— principalmente para minería Bitcoin. En paralelo, construye 100 MW de infraestructura adicional en Yguazú, alimentada con electricidad de Itaipú, con energización prevista para Q4 2026 y el data center Tier III en H2 2027. La capacidad está sin asignar entre minería, AI y HPC: no es una expansión GPU confirmada. El plan total es alcanzar 400 megavatios en Paraguay, que representarían el 74% de su huella renovable global esperada (~540 MW en 2026). Si esa capacidad se asigna a GPU, Paraguay quedaría entre los países de la región con más cómputo; hoy no está asignada.
 
 La segunda pieza es el data center estatal Tier III que el MITIC está construyendo con financiamiento del BID, dentro del Programa de Apoyo a la Agenda Digital de 130 millones de dólares. La licitación se adjudicó en mayo de 2026 al Consorcio TIC. El plazo de ejecución es de 20 meses. La certificación es Uptime Institute Tier III. La capacidad proyectada: 5.000 máquinas virtuales y 2.000 contenedores. Este data center va a alojar NubePY, la nube gubernamental que ya atiende a 113 instituciones públicas y procesó más de 12 millones de transacciones digitales. No es un centro de cómputo para IA -no está diseñado para entrenar modelos-, pero es el prerrequisito sin el cual la IA soberana no puede existir: infraestructura donde el Estado controla sus propios datos.
 
@@ -59,7 +59,7 @@ No existe un regulador de IA. MITIC coordina de facto. No hay una ley de intelig
 
 Y luego está el elefante lingüístico. Paraguay es un país bilingüe: casi el 70% de la población habla guaraní, según la EPHC 2022 del INE. El guaraní fue incorporado como idioma de trabajo del Mercosur, pero los idiomas oficiales siguen siendo español y portugués. Ningún modelo de lenguaje importante -ni GPT-4, ni Claude, ni Gemini, ni Llama- tiene guaraní funcional. Si existe un caso de uso para una IA soberana paraguaya, es este: un modelo que hable los dos idiomas del país, entrenado con datos del gobierno, las leyes, la educación y la cultura paraguaya. No para competir con OpenAI. Para que un ciudadano paraguayo pueda interactuar con el Estado en su idioma.
 
-Ese modelo costaría entre USD 500.000 y USD 1 millón. No requiere construir un centro de datos nuevo —HIVE tendrá la infraestructura de GPU para cuando el modelo esté listo. No requiere entrenar desde cero —basta con afinar un modelo abierto como Llama o Mistral. El modelo de Maritaca en Brasil demuestra que el enfoque funciona: Sabiá no fue entrenado desde cero, fue afinado sobre arquitecturas existentes con datos en portugués, supera a GPT-4o en tareas en ese idioma y ejecuta toda su inferencia dentro de Brasil. Paraguay necesita su propio Sabiá.
+Ese modelo costaría entre USD 500.000 y USD 1 millón. No requiere construir un centro de datos nuevo —HIVE tendrá la infraestructura energética para cuando el modelo esté listo; la asignación a GPU no está confirmada. No requiere entrenar desde cero —basta con afinar un modelo abierto como Llama o Mistral. El modelo de Maritaca en Brasil demuestra que el enfoque funciona: Sabiá no fue entrenado desde cero, fue afinado sobre arquitecturas existentes con datos en portugués, supera a GPT-4o en tareas en ese idioma y ejecuta toda su inferencia dentro de Brasil. Paraguay necesita su propio Sabiá.
 
 ## Lo que la IA soberana no es
 
@@ -75,7 +75,7 @@ Y, sobre todo, no significa comprarle todo a NVIDIA. La ironía de la IA soberan
 
 Paraguay está en una posición inusual. Tiene infraestructura de IA muy por delante de su estrategia sobre qué hacer con ella. La oportunidad no es competir con Silicon Valley. Es hacer tres cosas que pocos países están haciendo.
 
-La primera es un modelo de lenguaje bilingüe español-guaraní. No desde cero: afinando Llama o Mistral con datos del gobierno, las leyes, los textos escolares y el corpus lingüístico guaraní. Costo estimado: entre USD 500.000 y USD 1 millón. Infraestructura: HIVE Yguazú (donde el campus de 100 MW GPU estará energizado en septiembre de 2026 y el data center Tier-III en H2 2027). Tiempo: seis meses. Esto pondría a Paraguay en el mapa como el país que resolvió la inclusión digital de su población en su propio idioma.
+La primera es un modelo de lenguaje bilingüe español-guaraní. No desde cero: afinando Llama o Mistral con datos del gobierno, las leyes, los textos escolares y el corpus lingüístico guaraní. Costo estimado: entre USD 500.000 y USD 1 millón. Infraestructura: HIVE Yguazú (donde la expansión de 100 MW estará energizada en Q4 2026 y el data center Tier III en H2 2027; la asignación a GPU no está confirmada). Tiempo: seis meses. Esto pondría a Paraguay en el mapa como el país que resolvió la inclusión digital de su población en su propio idioma.
 
 La segunda es terminar la estrategia nacional de IA. El diagnóstico de UNESCO ya está hecho. Los dos proyectos de ley están en el Congreso. Lo que falta es la decisión política de aprobarlos y asignar un presupuesto que no dependa de la cooperación internacional.
 
@@ -96,6 +96,7 @@ Leé el análisis completo sobre geopolítica tecnológica en la [guía de intel
 - [UNESCO — RAM Report: Paraguay AI Readiness Assessment](https://www.unesco.org/) (diciembre 2025)
 - [Epoch AI — Training compute and cost estimates for major ML models](https://epoch.ai/data/ai-models) (2025)
 - [HIVE Digital Technologies — Paraguay AI Infrastructure](https://www.hivedigitaltechnologies.com/operations/paraguay/) (2026)
+- [HIVE — Q2 FY2027: 100 MW de Yguazú sin asignar, energización Q4 2026](https://www.hivedigitaltechnologies.com/news/hive-reports-q2-revenue-of-849-million-with-ai-gpu-revenue-expanding-70-as-dual-engine-model-drives-resilience-with-139-million-in-cash-on-the-balance-sheet/) (9-nov-2026)
 
 <script type="application/ld+json">
 {
@@ -115,7 +116,7 @@ Leé el análisis completo sobre geopolítica tecnológica en la [guía de intel
       "name": "¿Tiene Paraguay una estrategia de IA soberana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Paraguay no tiene una estrategia nacional de IA aprobada. El país gasta el 0,14% de su PIB en I+D y ocupa el puesto 14 de 19 en el índice ILIA 2025. Sin embargo, está construyendo infraestructura relevante: HIVE ya opera 300 MW y construye 100 MW adicionales de cómputo GPU en Yguazú, el MITIC construye un data center estatal Tier III con financiamiento del BID, y Yguazú Digital con Taiwán está en desarrollo."
+        "text": "No. Paraguay no tiene una estrategia nacional de IA aprobada. El país gasta el 0,14% de su PIB en I+D y ocupa el puesto 14 de 19 en el índice ILIA 2025. Sin embargo, está construyendo infraestructura relevante: HIVE ya opera 300 MW y construye 100 MW adicionales de infraestructura sin asignar en Yguazú, el MITIC construye un data center estatal Tier III con financiamiento del BID, y Yguazú Digital con Taiwán está en desarrollo."
       }
     },
     {
@@ -123,7 +124,7 @@ Leé el análisis completo sobre geopolítica tecnológica en la [guía de intel
       "name": "¿Cuánto costaría que Paraguay tenga su propio modelo de IA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Entrenar un modelo desde cero como GPT-4 costaría más de 100 millones de dólares. Pero afinar un modelo abierto existente (como Llama o Mistral) con datos paraguayos en español y guaraní costaría menos de 500.000 dólares, usando la infraestructura GPU que HIVE tendrá operativa en Yguazú. Brasil ya lo hizo con Maritaca AI y su modelo Sabiá, que supera a GPT-4o en portugués con inferencia local."
+        "text": "Entrenar un modelo desde cero como GPT-4 costaría más de 100 millones de dólares. Pero afinar un modelo abierto existente (como Llama o Mistral) con datos paraguayos en español y guaraní costaría menos de 500.000 dólares, usando la infraestructura de HIVE en Yguazú, si esa capacidad se asigna a GPU. Brasil ya lo hizo con Maritaca AI y su modelo Sabiá, que supera a GPT-4o en portugués con inferencia local."
       }
     }
   ]

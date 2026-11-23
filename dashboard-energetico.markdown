@@ -60,7 +60,7 @@ last_modified_at: 2026-11-23
 
 @media (min-width: 40rem) {
   .dash-kpis {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   }
 }
 

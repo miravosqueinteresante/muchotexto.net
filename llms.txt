@@ -51,7 +51,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Paraguay aprobó una ley de protección de datos que cambia las reglas](https://muchotexto.net/articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/)
 - [Por qué Paraguay es el último país sudamericano que apuesta por Taiwán](https://muchotexto.net/articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/)
 - [Por qué Taiwán no fabrica semiconductores en Paraguay](https://muchotexto.net/articulos/2026/07/15/semiconductores-taiwan-paraguay/)
-- [Paraguay tiene más GPU que estrategia para inteligencia artificial](https://muchotexto.net/articulos/2026/07/16/ia-soberana-paraguay/)
+- [Paraguay tiene más infraestructura que estrategia para la IA](https://muchotexto.net/articulos/2026/07/16/ia-soberana-paraguay/)
 - [Paraguay ya sufrió ciberataques chinos y su defensa tiene 13 años](https://muchotexto.net/articulos/2026/07/17/ciberseguridad-paraguay/)
 - [Lo que el capital de Silicon Valley busca en Paraguay y no encuentra](https://muchotexto.net/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)
 - [Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial](https://muchotexto.net/articulos/2026/08/02/modelo-itaipu-gobernanza-ia/)

@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "ANDE reserva 943 MW para data centers"
+title: "ANDE reserva 943 MW para criptominer?a"
 title_ai: true
-description: "La ANDE acumula 943 MW reservados para data centers mientras Brasil invierte millones en infraestructura regional de inteligencia artificial."
+description: "La ANDE acumula 943 MW reservados en el GCIE de criptominer?a, mientras Brasil invierte millones en infraestructura regional de IA."
 description_ai: true
 date: 2026-08-22
-last_modified_at: 2026-08-22
+last_modified_at: 2026-11-23
 categories: pulso-paraguay
 tags: pulso tech paraguay ia tecnologia infraestructura energia datos
 ---
 PULSO TECH PARAGUAY
 📅 SÁBADO 22 DE AGOSTO DE 2026  |  🕐 Ultima actualización: 08:00
+
+> **Nota de actualización (23-nov-2026):** los 943,8 MW corresponden al GCIE de criptominería/blockchain. Desde la Resolución 52552/2026, IA, nube, hiperescala y HPC se contabilizan en un grupo propio. La expansión de 100 MW de HIVE es infraestructura sin asignar, con energización prevista para Q4 2026.
 
 🌐 INFRAESTRUCTURA DIGITAL
 
@@ -21,15 +23,15 @@ Brasil licitó la construcción de uno de los diez supercomputadores más potent
 
 ⚡ ENERGÍA Y DATA CENTERS
 
-**ANDE: 943,8 MW reservados para data centers y criptominería (ago 2026)**
-La potencia reservada pasó de 125 MW (2023) → 822 MW (2025) → 943,8 MW (ago 2026). Equivale al 13,5% de la potencia de Itaipú (7.000 MW). Ingresos proyectados: US$ 350M en 2026 (+18,6% interanual). Tarifa GCIE: 30 US$/MWh (Res. 49238/2024, vigente hasta dic 2027). Decretos de extensión derogados el 9-jun-2026; nuevo titular Miguel Báez definiendo tarifa técnica única.
+**ANDE: 943,8 MW reservados en el GCIE de criptominería (ago 2026)**
+La potencia reservada pasó de 125 MW (2023) → 822 MW (2025) → 943,8 MW (ago 2026). Equivale al 13,5% de la potencia de Itaipú (7.000 MW). Ingresos proyectados: US$ 350M en 2026 (+18,6% interanual). Tarifa GCIE: 30 US$/MWh (Res. 49238/2024, vigente para criptominería hasta dic 2027). La IA/nube/HPC tiene desde el 21-oct-2026 un régimen propio (Res. 52552/2026: 48,91 US$/MWh en 220 kV).
 
 📊 Relevancia: ALTA
 
 🤖 INTELIGENCIA ARTIFICIAL
 
-**HIVE Digital: 300 MW operativos + 100 MW GPU en construcción (Yguazú)**
-Fase 1 (200 MW Yguazú) completada jun-2025; Fase 2 (100 MW Valenzuela) nov-2025; expansión GPU 100 MW (energización sept 2026, ready H2 2027). Modelo dual: Bitcoin 93,5% revenue + HPC/AI cloud 6,5%. BUZZ AI Cloud lanzado mar-2026 en Tier III Tigo Asunción.
+**HIVE Digital: 300 MW operativos + 100 MW de infraestructura sin asignar en construcción (Yguazú)**
+Fase 1 (200 MW Yguazú) completada jun-2025; Fase 2 (100 MW Valenzuela) nov-2025; expansión de 100 MW (capacidad sin asignar; energización Q4 2026, Tier III H2 2027). Modelo dual: Bitcoin 93,5% revenue + HPC/AI cloud 6,5%. BUZZ AI Cloud lanzado mar-2026 en Tier III Tigo Asunción.
 
 📊 Relevancia: MEDIA
 
@@ -37,9 +39,9 @@ Fase 1 (200 MW Yguazú) completada jun-2025; Fase 2 (100 MW Valenzuela) nov-2025
 
 1. 🥇 Brasil: supercomputador IA 7.200 petaflops (US$ 192M, 2027)
 
-2. 🥈 ANDE: 943,8 MW reservados data centers (13,5% de Itaipú)
+2. 🥈 ANDE: 943,8 MW reservados en el GCIE de criptominería (13,5% de Itaipú)
 
-3. 🥉 HIVE: 300 MW operativos + GPU en construcción
+3. 🥉 HIVE: 300 MW operativos + infraestructura en construcción
 
 💡 INSIGHT TECH DEL DÍA
 Brasil demuestra que la carrera global por la infraestructura de IA ya no es solo de potencias tradicionales: con decisión política, inversión masiva y alianzas estratégicas (Nvidia, Huawei, China), un país emergente puede saltar al top 10 mundial de cómputo IA en 2 años. Paraguay, con 943 MW reservados y energía 100% renovable, tiene la materia prima; la pregunta es si tendrá la visión regulatoria y la visión de Estado para capitalizarla antes de que la ventana se cierre.

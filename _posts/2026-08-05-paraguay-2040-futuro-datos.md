@@ -2,7 +2,7 @@
 layout: post
 title: "Paraguay 2040, un país construido con datos"
 date: 2026-08-05 14:00:00 -0300
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-23
 categories: articulos
 pilar: 1
 resumen: "Prospectiva a 15 años: bono demográfico, superávit energético, data centers y los tres escenarios que dependen de las decisiones de esta década."
@@ -42,7 +42,7 @@ La paradoja es que Paraguay ya tiene escrita buena parte del camino. La Polític
 
 ## Data centers: de 943,8 MW a lo que Paraguay quiera ser
 
-El régimen de consumo intensivo que regula estos proyectos se creó en 2022. La potencia reservada pasó de ~125 MW en 2023 a ~822 MW en 2025 y a 943,8 MW contratados en 2026 —no toda operativa—, con HIVE Digital Technologies como el operador más grande (300 MW operativos, 100 MW GPU en construcción). La demanda efectivamente consumida es menor: el estudio del Ceare (con apoyo del BID, publicado por ABC Color el 9 de agosto de 2026) estima las cargas del grupo de consumo intensivo en 854 MW para 2025 y 803 MW para 2026.<sup><a href="https://www.abc.com.py/edicion-impresa/suplementos/economico/2026/08/09/periodo-2026-2030-preven-subas-hasta-del-46/">[nota]</a></sup> Yguazú Digital —el proyecto binacional con Taiwán— proyecta otras tres fases que van de 10 MW a 1.000 MW. Según este análisis, la capacidad a 2040 podría ir de 2.000 MW en un escenario conservador a 8.000 MW en uno optimista. Ese crecimiento también presiona la red: [Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %}).
+El régimen de consumo intensivo que regula estos proyectos se creó en 2022. La potencia reservada pasó de ~125 MW en 2023 a ~822 MW en 2025 y a 943,8 MW contratados en 2026 —no toda operativa—, con HIVE Digital Technologies como el operador más grande (300 MW operativos y 100 MW de infraestructura sin asignar en construcción). La demanda efectivamente consumida es menor: el estudio del Ceare (con apoyo del BID, publicado por ABC Color el 9 de agosto de 2026) estima las cargas del grupo de consumo intensivo en 854 MW para 2025 y 803 MW para 2026.<sup><a href="https://www.abc.com.py/edicion-impresa/suplementos/economico/2026/08/09/periodo-2026-2030-preven-subas-hasta-del-46/">[nota]</a></sup> Yguazú Digital —el proyecto binacional con Taiwán— proyecta otras tres fases que van de 10 MW a 1.000 MW. Según este análisis, la capacidad a 2040 podría ir de 2.000 MW en un escenario conservador a 8.000 MW en uno optimista. Ese crecimiento también presiona la red: [Paraguay tiene energía para la IA pero no la red para transportarla]({% post_url 2026-07-08-red-electrica-paraguay-ia %}).
 
 Para ponerlo en perspectiva: Irlanda, el país que se convirtió en el hub de data centers de Europa, tiene aproximadamente 80 centros de datos que consumen el 23% de su electricidad nacional. Loudoun County, Virginia —el "Data Center Alley" del mundo— alberga más de 200 data centers. Según la Encuesta de Tarifas Eléctricas de CIER 2025, la tarifa residencial paraguaya (US$ 46 por MWh) y la industrial (US$ 35 por MWh) son las más bajas entre 13 países de la región. Paraguay tiene la energía más barata de Sudamérica, una ubicación central en el continente y 99,9% de energía renovable. Los fundamentos están. Lo que falta es todo lo demás.
 

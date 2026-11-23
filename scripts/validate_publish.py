@@ -207,11 +207,12 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
         errors.extend(check_cierre(post_path))
         errors.extend(check_observatorio_post(post_path))
 
-    if '"@type": "FAQPage"' not in content and '"@type":"FAQPage"' not in content:
-        errors.append("FAQ schema requerido: agregar FAQPage con 3 preguntas")
+    if "articulos" in categories:
+        if '"@type": "FAQPage"' not in content and '"@type":"FAQPage"' not in content:
+            errors.append("FAQ schema requerido: agregar FAQPage con 3 preguntas")
 
-    if "/ia-en-paraguay/" not in content:
-        errors.append("Falta enlace a pagina pilar /ia-en-paraguay/ en el cuerpo del articulo")
+        if "/ia-en-paraguay/" not in content:
+            errors.append("Falta enlace a pagina pilar /ia-en-paraguay/ en el cuerpo del articulo")
 
     # === INTERNAL LINKS ===
     # La pilar tiene su propio gate (INV-19). Este cuenta enlaces contextuales

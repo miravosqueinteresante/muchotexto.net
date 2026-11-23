@@ -3,15 +3,15 @@ layout: post
 title: "Lo que un data center compra y Paraguay no puede vender"
 seo_title: "La cadena de valor de un data center"
 date: 2026-07-25
-last_modified_at: 2026-08-15
+last_modified_at: 2026-11-23
 categories: articulos
 pilar: 4
 resumen: "La cadena de valor revela que el hardware es 100% importado y los empleos directos son menos de 1 por MW."
 tags: tech-ecosistema ia-paraguay infraestructura-energia paraguay ia
-description: "Paraguay atrae data centers con energía barata, pero el hardware es 100% importado y los empleos directos son menos de 1 por MW. El valor está en otro lado."
+description: "Paraguay atrae data centers con energía barata, pero el hardware es 100% importado y los empleos directos son menos de 1 por MW. El valor está afuera."
 ---
 
-[Paraguay está atrayendo data centers](/ia-en-paraguay/) con la promesa de energía barata. Yguazú Digital proyecta 1.000 MW en su fase final. HIVE Digital Technologies opera 300 MW de infraestructura de minería Bitcoin en Paraguay (200 MW en Yguazú, 100 MW en Valenzuela) y construye un nuevo campus de 100 MW para cómputo GPU e IA en Yguazú, con energización prevista para septiembre de 2026. X8Cloud y Pardat Holding construyen sus propias instalaciones. La narrativa es seductora: el país se convertirá en un hub de inteligencia artificial que generará miles de empleos y transformará la economía. Los números cuentan una historia distinta.
+[Paraguay está atrayendo data centers](/ia-en-paraguay/) con la promesa de energía barata. Yguazú Digital proyecta 1.000 MW en su fase final. HIVE Digital Technologies opera 300 MW de infraestructura de minería Bitcoin en Paraguay (200 MW en Yguazú, 100 MW en Valenzuela) y construye 100 MW de infraestructura adicional en Yguazú, capacidad aún sin asignar entre minería, AI y HPC, con energización prevista para Q4 2026. X8Cloud y Pardat Holding construyen sus propias instalaciones. La narrativa es seductora: el país se convertirá en un hub de inteligencia artificial que generará miles de empleos y transformará la economía. Los números cuentan una historia distinta.
 
 Un data center de 100 MW emplea aproximadamente entre 20 y 50 personas en operaciones permanentes. Durante la construcción —que dura entre 18 y 36 meses— puede emplear entre 800 y 1.500 trabajadores, la mayoría electricistas. Pero una vez que los servidores están encendidos, el data center funciona casi solo: filas de racks refrigerados, monitoreados remotamente, visitados por un puñado de técnicos por turno. El hardware representa entre el 60% y el 70% del CAPEX total. Ese hardware —GPUs NVIDIA de USD 25.000 a 40.000 por unidad, sistemas de refrigeración líquida, UPS industriales, sistemas de supresión de incendios con gases inertes— es 100% importado. Paraguay no fabrica nada de eso. No lo va a fabricar en el futuro previsible. La cadena de valor local se concentra en los márgenes: la obra civil, la seguridad, la fibra de último kilómetro, los servicios profesionales.
 
@@ -59,6 +59,7 @@ La respuesta está en si la política pública trata a los data centers como un 
 6. [CBRE — LATAM Data Center Market Reports](https://www.cbre.com/)
 7. [Wikipedia — Dulles Technology Corridor (Ashburn DC history)](https://en.wikipedia.org/wiki/Dulles_Technology_Corridor)
 8. [Ministerio de Industria y Comercio — Ley de Maquila Paraguay](https://www.mic.gov.py/)
+9. [HIVE — Q2 FY2027: 100 MW de Yguazú sin asignar, energización Q4 2026](https://www.hivedigitaltechnologies.com/news/hive-reports-q2-revenue-of-849-million-with-ai-gpu-revenue-expanding-70-as-dual-engine-model-drives-resilience-with-139-million-in-cash-on-the-balance-sheet/) (9-nov-2026)
 
 <script type="application/ld+json">
 {
