@@ -19,10 +19,10 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 **Biblioteca de artículos** — {% assign n_articulos = site.posts | where_exp: "p", "p.pilar" | size %}{{ n_articulos }} artículos organizados por sector:
 
 - [Infraestructura y energía](#infraestructura-y-energia) — data centers, electricidad, criptominería
-- [Geopolítica y regulación tech](#geopolítica-y-regulación-tech) — Taiwán, China, leyes, ciberseguridad
+- [Geopolítica y regulación tech](#geopolitica-y-regulacion-tech) — Taiwán, China, leyes, ciberseguridad
 - [IA, sociedad y trabajo](#ia-sociedad-y-trabajo) — educación, talento, gobierno digital, salud
-- [Tecnología aplicada y ecosistema](#tecnología-aplicada-y-ecosistema) — blockchain, fintech, startups, smart cities
-- [Cultura, filosofía y futuro](#cultura-filosofía-y-futuro) — ética, identidad, prospectiva
+- [Tecnología aplicada y ecosistema](#tecnologia-aplicada-y-ecosistema) — blockchain, fintech, startups, smart cities
+- [Cultura, filosofía y futuro](#cultura-filosofia-y-futuro) — ética, identidad, prospectiva
 
 **Observatorio:**
 
@@ -42,7 +42,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 - [Registro de verificación](/claims-verificados/) — Qué datos confirmamos, corregimos y contra qué fuente
 - [Datos verificados — MuchoTexto Data](https://datospublicos.muchotexto.net/) — Infraestructura de datos verificables sobre Paraguay: ANDE, Itaipú y Yacyretá con fuente y trazabilidad completa
 
-## Infraestructura y energía
+## Infraestructura y energía {#infraestructura-y-energia}
 
 La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El país genera aproximadamente 2.5 veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
 
@@ -71,7 +71,7 @@ La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray pr
 
 <!-- PILAR:1:FIN -->
 
-## Geopolítica y regulación tech
+## Geopolítica y regulación tech {#geopolitica-y-regulacion-tech}
 
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mundo donde los chips son el nuevo petróleo -y Taiwán produce el 90% de los semiconductores más avanzados- esa relación tiene implicancias que van mucho más allá del comercio.
 
@@ -90,7 +90,7 @@ Paraguay es el último aliado diplomático de Taiwán en Sudamérica. En un mund
 
 <!-- PILAR:2:FIN -->
 
-## IA, sociedad y trabajo
+## IA, sociedad y trabajo {#ia-sociedad-y-trabajo} {#ia-sociedad-y-trabajo}
 
 La inteligencia artificial no son solo algoritmos: son cadenas de suministro humanas, sistemas educativos que necesitan reformarse, y una fuerza laboral que debe decidir qué lugar ocupa en la economía del futuro.
 
@@ -111,7 +111,7 @@ La inteligencia artificial no son solo algoritmos: son cadenas de suministro hum
 
 <!-- PILAR:3:FIN -->
 
-## Tecnología aplicada y ecosistema
+## Tecnología aplicada y ecosistema {#tecnologia-aplicada-y-ecosistema}
 
 Blockchain en el agro, fintech, startups y la cadena de valor invisible que rodea a cada centro de datos. Paraguay no solo aloja infraestructura: también está construyendo un ecosistema.
 
@@ -134,7 +134,7 @@ Blockchain en el agro, fintech, startups y la cadena de valor invisible que rode
 
 <!-- PILAR:4:FIN -->
 
-## Cultura, filosofía y futuro
+## Cultura, filosofía y futuro {#cultura-filosofia-y-futuro}
 
 La tecnología no existe en el vacío. Cambia cómo nos vemos, cómo nos relacionamos y qué creemos que es posible.
 

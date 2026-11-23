@@ -525,6 +525,14 @@ last_modified_at: 2026-11-21
   margin: 10px 0 16px;
 }
 
+.calc-table caption {
+  caption-side: top;
+  text-align: left;
+  font-size: 11px;
+  color: var(--calc-muted);
+  padding-bottom: 8px;
+}
+
 .calc-table th,
 .calc-table td {
   border-bottom: 1px solid var(--calc-border-soft);
@@ -574,6 +582,16 @@ last_modified_at: 2026-11-21
 }
 
 /* responsive */
+@media (prefers-reduced-motion: reduce) {
+  .calc-dot {
+    animation: none;
+  }
+
+  .calc-bar-fill {
+    transition: none;
+  }
+}
+
 @media (max-width: 860px) {
   .calc-grid {
     grid-template-columns: 1fr;
@@ -621,6 +639,7 @@ last_modified_at: 2026-11-21
   <h2>Qué cambió con la Resolución 52552/2026</h2>
   <p>Hasta octubre de 2026, los data centers se cobijaban en el Grupo de Consumo Intensivo Especial (GCIE). La extensión de ese régimen por los decretos 5306, 5307, 5860 y 5861 había sido derogada el 9 de junio de 2026, y el Pliego de Tarifas N° 21 no tenía un grupo para IA, nube, hiperescala ni HPC. La Resolución 52552/2026 los separó en un grupo propio, con tarifas más altas y una actualización anual.</p>
   <table class="calc-table">
+    <caption>Fuente: ANDE, Res. 52552/2026 (tecnología avanzada) y Res. 49238/2024 (GCIE).</caption>
     <thead>
       <tr><th>Concepto</th><th>GCIE (Res. 49238/2024)</th><th>Tecnología avanzada (Res. 52552/2026)</th></tr>
     </thead>
@@ -647,7 +666,7 @@ last_modified_at: 2026-11-21
     <li><strong>Escenario Ceare:</strong> lleva la tarifa paraguaya a 51,4 US$/MWh, la referencia técnica para alta y muy alta tensión en 2030.</li>
   </ul>
   <p>El resultado no incluye conexión, transmisión, respaldo, impuestos, costo de capital ni depreciación. Tampoco modela punta y fuera de punta ni excesos de potencia: usa un perfil continuo. Para un proyecto real, la factura de ANDE depende del perfil horario, la potencia reservada y el nivel de tensión.</p>
-  <p>El ecosistema completo de data centers, energía y regulación está en el <a href="/ia-en-paraguay/">observatorio de IA en Paraguay</a>.</p>
+  <p>El ecosistema completo de data centers, energía y regulación está en la <a href="/ia-en-paraguay/">página pilar del observatorio</a>.</p>
 </section>
 
 <section class="calc-section calc-faq">

@@ -274,7 +274,7 @@
   estado: confirmado
   evidencia: A
   fuente: MEF / BCP
-  url: http://www.mef.gov.py/sites/default/files/2026-10/Panorama%20Macreoecon%C3%B3mico%20del%20Paraguay%20Ago%202026.pdf
+  url: https://www.mef.gov.py/sites/default/files/2026-10/Panorama%20Macreoecon%C3%B3mico%20del%20Paraguay%20Ago%202026.pdf
   localizador: Panorama Macroeconómico Ago 2026, tabla de PIB per cápita
   extracto: PIB per cápita (USD) … 2026(**) 9.324,53
   fecha_corte: 2026-08-31
