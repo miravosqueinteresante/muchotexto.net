@@ -11,7 +11,7 @@ tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025), que entra en vigor en noviembre de 2027."
 ---
 
-En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera: va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda: va a abrir sus puertas la primera fase de Yguazú Digital, el centro de datos de inteligencia artificial con Taiwán. Dos instituciones que van a convivir, una al lado de la otra, sin que nadie haya puesto sobre la mesa si la primera está a la altura de la segunda.
+En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera: va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda: apunta a abrir sus puertas la primera fase de Yguazú Digital, el centro de datos de inteligencia artificial con Taiwán. Dos instituciones que van a convivir, una al lado de la otra, sin que nadie haya puesto sobre la mesa si la primera está a la altura de la segunda.
 
 Paraguay fue, hasta noviembre de 2025, el último país de Sudamérica —junto con Bolivia— sin una ley Integral de protección de datos. Tenía artículos sueltos en la Constitución (el 33, el 36, el 135 de habeas data), una ley de datos crediticios (la 6534/2020) y una de Comercio electrónico (la 4868/2013). Pero no existía una autoridad nacional, no había obligación de notificar brechas de seguridad, no se sabía qué pasaba con los datos de un paraguayo si terminaban en un servidor en otro continente. La Ley 7593/2025 cambió eso. La pregunta es si cambió lo suficiente.
 
@@ -29,11 +29,11 @@ En términos de alcance geográfico, la ley es extraterritorial: se aplica a cua
 
 El problema no está en lo que la ley dice. Está en quién va a hacer que se cumpla.
 
-El borrador original de la Coalición de Datos Personales proponía una autoridad independiente, con estructura, presupuesto y personal propios. El texto final que aprobó el Congreso degradó esa autoridad a una Dirección Nacional dentro del MITIC, el Ministerio de Tecnologías de la Información y Comunicación. Una unidad desconcentrada, con autonomía funcional pero sin independencia estructural. En la práctica, compite por presupuesto con todas las demás prioridades del ministerio.
+El borrador original de la Coalición de Datos Personales proponía una autoridad independiente, con estructura, presupuesto y personal propios. El texto final que aprobó el Congreso creó una Agencia Nacional de Protección de Datos Personales como unidad desconcentrada del MITIC, el Ministerio de Tecnologías de la Información y Comunicación, con autonomía funcional pero sin independencia estructural. En la práctica, compite por presupuesto con todas las demás prioridades del ministerio.
 
-Las multas máximas son de 1.200 millones de guaraníes, unos 160.000 dólares. Para ponerlo en contexto: el GDPR europeo permite multas de hasta el 4% de la facturación global; la LGPD brasileña permite hasta 50 millones de reales por infracción. Las sanciones paraguayas son, literalmente, dos órdenes de magnitud más bajas.
+Las multas máximas son de 1.200 millones de guaraníes, unos 160.000 dólares. Para ponerlo en contexto: el GDPR europeo permite multas de hasta el 4% de la facturación global; la LGPD brasileña permite hasta 50 millones de reales por infracción. Las sanciones paraguayas son casi dos órdenes de magnitud más bajas.
 
-Y hay un dato que ilustra mejor que cualquier comparación normativa el estado de preparación del país: según la Asociación Latinoamericana de Privacidad (ALAP), hay un solo profesional certificado en privacidad y protección de datos en todo Paraguay. Uno. El cargo de DPO —Delegado de Protección de Datos— es, como lo describió un análisis jurídico local, "un cargo inexistente en la estructura tradicional paraguaya". Las empresas no saben qué es. No hay programas universitarios que lo enseñen. No hay un pool de talento del cual contratar.
+Y hay un dato que ilustra mejor que cualquier comparación normativa el estado de preparación del país: según la Asociación Latinoamericana de Privacidad (ALAP), hay un solo profesional certificado en privacidad y protección de datos en todo Paraguay. Uno. El cargo de DPO —Delegado de Protección de Datos— es, como lo describió un análisis jurídico local, "un cargo inexistente en la estructura tradicional paraguaya". Las empresas no saben qué es. La oferta de formación especializada es incipiente y no hay un pool de talento consolidado del cual contratar.
 
 La experiencia brasileña, que es el espejo más cercano, muestra que implementar una ley de este tipo lleva años incluso con recursos. La ANPD brasileña —que es un organismo autónomo, no una dirección dentro de un ministerio— tardó dos años en empezar a multar. Cuando lo hizo, las primeras siete sanciones fueron en su mayoría contra el sector público, que irónicamente no puede recibir multas (la ley se lo prohíbe, igual que la paraguaya). Las entidades públicas pueden violar la ley sin consecuencia financiera. Solo reciben recomendaciones.
 
@@ -49,7 +49,7 @@ El ejemplo de Estonia es instructivo, y en sentido inverso. Estonia almacena cop
 
 ## Lo que la ley previó sobre inteligencia artificial (y lo que no)
 
-La Ley 7593 incorpora protecciones contra decisiones automatizadas que son, en espíritu, equivalentes al Artículo 22 del GDPR. Los ciudadanos tienen derecho a no ser objeto de decisiones basadas únicamente en tratamiento automatizado que produzcan efectos jurídicos o les afecten significativamente. Tienen derecho a intervención humana, a expresar su punto de vista y a impugnar la decisión. Las evaluaciones de impacto son obligatorias para tratamientos de alto riesgo.
+La Ley 7593 incorpora protecciones contra decisiones automatizadas, en línea con el Artículo 22 del GDPR. Los ciudadanos tienen derecho a no ser objeto de decisiones basadas únicamente en tratamiento automatizado que produzcan efectos jurídicos o les afecten significativamente. Tienen derecho a intervención humana, a expresar su punto de vista y a impugnar la decisión. Las evaluaciones de impacto son obligatorias para tratamientos de alto riesgo.
 
 Pero estas protecciones fueron diseñadas para un mundo donde la IA procesa datos personales, no para un mundo donde Paraguay es el país que aloja la infraestructura que entrena los modelos. La ley regula qué hacen las empresas paraguayas con los datos de los paraguayos. No regula —no puede regular— qué hacen las empresas extranjeras con datos extranjeros en servidores paraguayos. Esa es una laguna que ninguna ley nacional de protección de datos cubre, y que cobra una relevancia particular cuando tu país se propone ser un hub regional de almacenamiento y procesamiento.
 
@@ -103,7 +103,7 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
       "name": "Cuando entra en vigor la ley y que problemas tiene?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Entra en vigor en noviembre de 2027. La autoridad de control fue degradada a una Direccion General dentro del MITIC (sin independencia). Las multas maximas son de ~USD 160.000. Hay solo un profesional certificado en privacidad en todo Paraguay."
+        "text": "Entra en vigor en noviembre de 2027. La autoridad de control es una Agencia Nacional dentro del MITIC (sin independencia estructural). Las multas maximas son de ~USD 160.000. Hay solo un profesional certificado en privacidad en todo Paraguay."
       }
     },
     {

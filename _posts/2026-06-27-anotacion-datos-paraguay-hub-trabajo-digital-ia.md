@@ -25,7 +25,7 @@ El arco salarial cuenta la historia geopolítica de esta industria: un anotador 
 
 ## Por qué Colombia, México y Costa Rica ya están en el mapa —y Paraguay no
 
-Colombia lidera el mercado latinoamericano con Medellín como epicentro, gracias a una combinación de talento bilingüe, zona horaria alineada con Estados Unidos y costos entre 40 y 50% por debajo de las tarifas onshore. Empresas como Annotera operan desde allí con anotadores que ganan entre 500 y 800 dólares mensuales. Costa Rica ofrece una fuerza laboral altamente educada con inglés generalizado. México compite por proximidad geográfica y un ecosistema de outsourcing maduro. Incluso Venezuela, con la economía destruida, se ha convertido en una reserva de trabajadores remotos dispuestos a etiquetar datos por 120 a 350 dólares al mes.
+Colombia lidera el mercado latinoamericano con Medellín como epicentro, gracias a una combinación de talento bilingüe, zona horaria alineada con Estados Unidos y costos entre 40 y 50% por debajo de las tarifas onshore. Allí los anotadores de nivel junior en el sector formal ganan entre 500 y 800 dólares mensuales, según los findings. Costa Rica ofrece una fuerza laboral altamente educada con inglés generalizado. México compite por proximidad geográfica y un ecosistema de outsourcing maduro. Incluso Venezuela, con la economía destruida, se ha convertido en una reserva de trabajadores remotos dispuestos a etiquetar datos por 120 a 350 dólares al mes.
 
 Paraguay no aparece en ese mapa. No tiene una industria BPO consolidada, no tiene un Medellín, no tiene un clúster de anotación. Pero esa ausencia —bien leída— puede ser una ventaja. La rotación de personal en los hubs maduros es altísima: los anotadores colombianos y mexicanos saltan de empresa en empresa apenas aparece una oferta mejor, un problema crónico que encarece el reclutamiento y degrada la calidad del etiquetado. En Paraguay, donde el ecosistema BPO es incipiente, una empresa que llegue primero no tendría que competir por el talento contra quince call centers vecinos. Tendría el mercado laboral para ella sola.
 
@@ -41,11 +41,11 @@ Y hay un tercer factor que pocos mencionan: la zona horaria. Paraguay opera en U
 
 ## El régimen de maquila digital que Paraguay ya tiene y que pocos conocen
 
-Si el costo de la electricidad y la demografía juvenil son las ventajas operativas, el andamiaje fiscal es la ventaja estructural. Paraguay tiene un régimen de maquila —la Ley 1064/97— que permite importar equipamiento e insumos libres de aranceles para procesar y reexportar servicios. El impuesto aplicable es un único 1% sobre el valor agregado nacional. Las empresas bajo este régimen no pagan impuesto a la renta, recuperan el IVA de las compras locales y están exentas de tributos aduaneros.
+Si el costo de la electricidad y la demografía juvenil son las ventajas operativas, el andamiaje fiscal es la ventaja estructural. Paraguay tiene un régimen de maquila —la Ley 7547/2025, que reemplazó a la Ley 1064/97— que permite importar equipamiento e insumos libres de aranceles para procesar y reexportar servicios. El impuesto aplicable es un único 1% sobre el valor agregado nacional. Las empresas bajo este régimen no pagan impuesto a la renta, recuperan el IVA de las compras locales y están exentas de tributos aduaneros.
 
 Una empresa de anotación de datos que exporta servicios hace exactamente eso: recibe datasets de clientes en el extranjero, los procesa con trabajadores locales y devuelve datos etiquetados. Bajo el régimen de maquila, esa operación convierte a Paraguay en uno de los países con menor carga impositiva corporativa del mundo. La tasa general de renta empresarial ya es la más baja de América Latina (10%), pero bajo maquila se reduce a cero. Compárese con el 35% de Colombia, el 30% de México o el 29.5% de Perú.
 
-Paraguay también tiene una deuda pública de aproximadamente el 38% del PIB, un déficit fiscal controlado (1.1%) y un crecimiento del PIB proyectado en 3.8% para 2025, según el FMI. Para un inversor que planifica una operación a diez años, esa estabilidad macroeconómica vale más que cualquier subsidio.
+Paraguay también tiene una deuda pública de aproximadamente el 19,5% del PIB, un déficit fiscal controlado (1.1%) y un crecimiento del PIB proyectado en 3.8% para 2025, según el FMI. Para un inversor que planifica una operación a diez años, esa estabilidad macroeconómica vale más que cualquier subsidio.
 
 ## Trabajo fantasma, trauma vicario y el espejo en el que Paraguay no debería mirarse
 
@@ -71,7 +71,7 @@ El tercero es el Estado. La Ley de Maquila existe, pero ¿sabe REDIEX vender ser
 
 El panorama tiene una ironía de fondo. [El análisis sobre los costos reales de la IA]({% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %}) demuestra, con números, que la inteligencia artificial está quemando presupuestos a un ritmo insostenible. Uber agotó el suyo en cuatro meses. Starbucks eliminó su sistema de IA porque funcionaba peor que un humano. La burbuja de la IA se sostiene, en parte, sobre la promesa de que reemplazar humanos con máquinas va a ser más barato. Pero mientras tanto, la misma industria depende de ejércitos de humanos mal pagados para seguir funcionando.
 
-Paraguay puede insertarse en esa contradicción como un país que ofrece algo distinto: trabajo digital con estándares decentes, costos competitivos y la electricidad más barata del hemisferio. O puede ser un país más en la cadena de explotación del ghost work global. La diferencia no la va a hacer el mercado solo. La va a hacer —o no— un Estado que entienda lo que está en juego antes de que otro país de la región ocupe ese lugar.
+Paraguay puede insertarse en esa contradicción como un país que ofrece algo distinto: trabajo digital con estándares decentes, costos competitivos y una de las electricidades más baratas del hemisferio. O puede ser un país más en la cadena de explotación del ghost work global. La diferencia no la va a hacer el mercado solo. La va a hacer —o no— un Estado que entienda lo que está en juego antes de que otro país de la región ocupe ese lugar.
 
 Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guía de inteligencia artificial](/ia-en-paraguay/).
 
