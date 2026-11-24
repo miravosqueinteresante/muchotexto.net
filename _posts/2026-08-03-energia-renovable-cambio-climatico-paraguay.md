@@ -12,7 +12,7 @@ tags: [infraestructura-energia, paraguay-futuro, cambio-climatico, itaipu, defor
 description: "Paraguay genera el 99,9% de su electricidad con fuentes renovables, pero el 97% depende de dos represas y perdió 6,3M de hectáreas de bosque."
 ---
 
-En 2024 Paraguay generó el 99,998% de su electricidad con fuentes renovables. Es un número que ningún país industrializado puede igualar. Pero esa electricidad sale casi enteramente de dos represas —Itaipú y Yacyretá— que dependen de un solo río, el Paraná, cuyo caudal está bajando. Al mismo tiempo, el país perdió 6,3 millones de hectáreas de bosque en dos décadas, una superficie equivalente a todo el departamento de Presidente Hayes. Paraguay es una paradoja climática: el país con la matriz eléctrica más limpia de Sudamérica es también uno de los que más carbono emite por hectárea talada.
+En 2024 Paraguay generó el 99,998% de su electricidad con fuentes renovables. Es un número que ningún país industrializado puede igualar. Pero esa electricidad sale casi enteramente de dos represas —Itaipú y Yacyretá— que dependen de un solo río, el Paraná, cuyo caudal está bajando. Al mismo tiempo, el país perdió 6,3 millones de hectáreas de bosque en dos décadas, casi el 70% de la superficie del departamento de Presidente Hayes. Paraguay es una paradoja climática: el país con la matriz eléctrica más limpia de Sudamérica es también uno de los que más carbono emite por hectárea talada.
 
 > **En resumen:**
 > - Paraguay tiene la matriz eléctrica más limpia de Sudamérica (99,9% renovable) y también la más concentrada: Itaipú y Yacyretá suman el 97% de la capacidad hidroeléctrica en una sola cuenca.
@@ -36,7 +36,7 @@ Entre 2019 y 2022, la cuenca del Paraná experimentó la sequía más severa des
 
 Paraguay no sufrió apagones por esa sequía. Pero no fue porque el sistema estuviera preparado. Fue porque el país cede cerca del 30% de su mitad de Itaipú a Brasil —el resto, alrededor del 70%, lo consume—. Durante la sequía, lo que cayó fue la exportación, no el consumo interno. El colchón de ventas a Brasil absorbió el golpe.
 
-Ese colchón no es eterno. La demanda eléctrica paraguaya crece a un ritmo que en los últimos años alcanzó un ritmo de dos dígitos (12,5% en 2025 y 17,9% en los primeros ocho meses de 2026), según datos de ANDE, impulsada por la expansión de data centers, la electrificación del transporte y el crecimiento vegetativo. Las proyecciones del Banco Mundial indican que Paraguay podría alcanzar el pico de su capacidad de consumo hacia 2030. Si para entonces no diversificó su matriz, una sequía como la de 2021 ya no será absorbida por el colchón de exportación: golpeará directamente al consumidor paraguayo.
+Ese colchón no es eterno. La demanda eléctrica paraguaya crece a un ritmo que en los últimos años alcanzó un ritmo de dos dígitos (12,5% en 2025 y 17,9% en los primeros ocho meses de 2026), según datos de ANDE, impulsada por la expansión de [data centers]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %}), la electrificación del transporte y el crecimiento vegetativo. Las proyecciones del Banco Mundial indican que Paraguay podría alcanzar el pico de su capacidad de consumo hacia 2030. Si para entonces no diversificó su matriz, una sequía como la de 2021 ya no será absorbida por el colchón de exportación: golpeará directamente al consumidor paraguayo.
 
 El embalse de Itaipú, además, no fue diseñado para regular sequías prolongadas. Su capacidad de almacenamiento equivale a aproximadamente un mes de caudal promedio del Paraná. En términos hidrológicos, es una represa de pasada: lo que entra, sale. No puede acumular agua de años húmedos para usar en años secos. Las proyecciones climáticas para la cuenca del Paraná bajo escenarios de cambio climático sugieren un aumento de temperatura de aproximadamente 1,5°C para mediados de siglo. Las proyecciones de precipitación tienen una incertidumbre muy alta —algunos modelos proyectan reducción y otros aumento—, lo que hace que la planificación energética a largo plazo sea especialmente difícil.
 
@@ -54,7 +54,7 @@ Paraguay no tiene un solo parque solar conectado al sistema interconectado nacio
 
 El potencial existe. Paraguay recibe una irradiación solar promedio de 4,8 a 4,9 kilovatios-hora por metro cuadrado por día en la región occidental (Atlas Solar 2016), entre las más altas de Sudamérica. El Chaco paraguayo tiene vientos constantes con velocidades medias superiores a 6 metros por segundo a 80 metros de altura, viables para generación eólica. Pero no hay proyectos.
 
-La razón no es técnica ni económica. Es institucional. Paraguay no tiene un plan nacional de diversificación energética. No existe una meta vinculante de penetración de energías renovables no convencionales. La Ley 7599 de 2025 abrió el sector eléctrico a la inversión privada por primera vez, y su decreto reglamentario (Decreto 6034 de 2026) habilitó seis fuentes renovables no convencionales —solar, eólica, biomasa, biogás, geotermia y almacenamiento— y creó las figuras de autogenerador, cogenerador, generador, exportador y gran consumidor. Pero a un año de su promulgación, no se ha concretado ningún proyecto utility-scale bajo este marco. Paraguay sigue sin tener un mecanismo de subastas de energía renovable como el que usaron Uruguay —desde 2006— y Brasil —desde 2009— para construir sus parques eólicos.
+La razón no es técnica ni económica. Es institucional. Paraguay no tiene un plan nacional de diversificación energética. No existe una meta vinculante de penetración de energías renovables no convencionales. La [Ley 7599 de 2025]({% post_url 2026-08-19-ministerio-energia-mineria-hidrocarburos %}) abrió el sector eléctrico a la inversión privada por primera vez, y su decreto reglamentario (Decreto 6034 de 2026) habilitó seis fuentes renovables no convencionales —solar, eólica, biomasa, biogás, geotermia y almacenamiento— y creó las figuras de autogenerador, cogenerador, generador, exportador y gran consumidor. Pero a un año de su promulgación, no se ha concretado ningún proyecto utility-scale bajo este marco. Paraguay sigue sin tener un mecanismo de subastas de energía renovable como el que usaron Uruguay —desde 2006— y Brasil —desde 2009— para construir sus parques eólicos.
 
 ## Lo que dice (y no dice) la política climática paraguaya
 
@@ -80,11 +80,11 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 4. [Banco Mundial — Paraguay Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/paraguay)
 5. [Global Forest Watch — Paraguay deforestation data](https://www.globalforestwatch.org/country/PRY)
 6. [UNFCCC — Paraguay NDC 3.0 (2025)](https://unfccc.int/documents/)
-7. [MADES — Dirección Nacional de Cambio Climático](http://www.mades.gov.py/)
-8. [Ley 7190/23 — Bonos de carbono Paraguay](https://www.bacn.gov.py/)
-9. [Ley 7599/2025 — Apertura sector eléctrico y Decreto 6034/2026](https://www.bacn.gov.py/)
-10. [ABC Color — Cobertura sector energético](https://www.abc.com.py/)
-11. [IRENA — Renewable capacity statistics 2025](https://www.irena.org/)
+7. [MADES — Dirección Nacional de Cambio Climático](https://www.mades.gov.py/direccion-de-cambio-climatico/)
+8. [Ley 7190/23 — Bonos de carbono Paraguay](https://www.bacn.gov.py/leyes-paraguayas/11986/ley-n-7190-de-los-creditos-de-carbono)
+9. [Ley 7599/2025 — Apertura sector eléctrico y Decreto 6034/2026](https://www.bacn.gov.py/leyes-paraguayas/12999/ley-n-75992025-de-modernizacion-del-regimen-que-regula-y-fomenta-la-generacion-de-energia-electrica-a-partir-de-fuentes-de-energias-renovables-no-convencionales-no-hidraulicas)
+10. [ABC Color — La energía como ventaja estratégica de Paraguay](https://www.abc.com.py/negocios/2025/04/21/la-energia-como-ventaja-estrategica-paraguay-frente-al-mapa-regional/)
+11. [IRENA — Renewable capacity statistics 2025](https://www.irena.org/Publications/2025/Mar/Renewable-Capacity-Statistics-2025)
 12. [Ember Climate — Paraguay electricity data](https://ember-climate.org/countries/paraguay/)
 
 <script type="application/ld+json">

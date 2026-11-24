@@ -17,7 +17,7 @@ Detrás de los dos proyectos de ley que Paraguay discute desde el 13 de agosto h
 > - El estudio Ceare (UBA, con apoyo del BID) proyecta la tarifa media de la ANDE de 49,2 a 68,6 US$/MWh entre 2024 y 2030, un alza del 39,4%.
 > - El mayor ajuste es para la alta y muy alta tensión —la industrial y de data centers—: de 35,3 a 51,4 US$/MWh, un 45,6%.
 > - Diagnostica una ANDE con pérdidas totales del 26,5% en 2024 y una morosidad de particulares que tocó el 28,95% en 2023.
-> - Su insuficiencia de rentabilidad acumulada ronda los 1.800 millones de dólares en 2025, pese a que su carta orgánica exige 8% a 10%.
+> - Su insuficiencia de rentabilidad ronda los 1.800 millones de dólares en 2025, pese a que su carta orgánica exige 8% a 10%.
 > - Es el insumo técnico que precede al Ente Regulador de Energía: el punto 04 de la agenda de la misma Mesa del 13 de agosto que presentó los dos proyectos de ley.
 
 ## El diagnóstico que puso los números sobre la mesa
@@ -36,7 +36,7 @@ Ese dato desarma una creencia arraigada. Paraguay sigue teniendo la electricidad
 
 El diagnóstico de la operación es el capítulo menos cómodo. El informe registra pérdidas totales de energía del 26,5% en 2024, medidas sobre la energía neta entregada, y las atribuye en buena parte a las pérdidas no técnicas —las que no son físicas sino comerciales, incluido el hurto—, con un repunte desde 2021 que el propio informe vincula a "significativos indicios" de criptominería clandestina. En la comparación regional, las distribuidoras seleccionadas declaran pérdidas del orden del 15% (dato de 2019), muy por debajo de la ANDE.
 
-La morosidad completa el cuadro. El índice de morosidad de consumidores particulares alcanzó el 28,95% en 2023, tras crecer de forma sostenida desde 2018; según los datos de la ANDE citados por la prensa, para 2025 había bajado a 18,79%, todavía muy lejos del 1% al 2,5% de incobrabilidad que reportan las empresas comparables. Y el capítulo financiero cierra con el número que mejor resume el problema: según el seguimiento de ABC Color, la insuficiencia de rentabilidad acumulada de la ANDE pasó de 468 millones de dólares en 2002 a unos 1.800 millones en 2025, pese a que su propia carta orgánica —la Ley 966 de 1964, en su artículo 88— le exige una rentabilidad de entre 8% y 10% sobre la inversión inmovilizada.
+La morosidad completa el cuadro. El índice de morosidad de consumidores particulares alcanzó el 28,95% en 2023, tras crecer de forma sostenida desde 2018; según los datos de la ANDE citados por la prensa, para 2025 había bajado a 18,79%, todavía muy lejos del 1% al 2,5% de incobrabilidad que reportan las empresas comparables. Y el capítulo financiero cierra con el número que mejor resume el problema: según el seguimiento de ABC Color, la insuficiencia de rentabilidad de la ANDE pasó de 468 millones de dólares en 2002 a unos 1.800 millones en 2025, pese a que su propia carta orgánica —la Ley 966 de 1964, en su artículo 88— le exige una rentabilidad de entre 8% y 10% sobre la inversión inmovilizada.
 
 ## El puente entre el diagnóstico y la institución
 
@@ -72,7 +72,7 @@ El debate completo sobre energía e institucionalidad está en el [Observatorio 
 6. [BACN — Ley 3.480/2008 "Que amplía la tarifa social de energía eléctrica"](https://www.bacn.gov.py/leyes-paraguayas/154/ley-n-3480-amplia-la-tarifa-social-de-energia-electrica)
 7. [La Nación — "Gobierno presenta proyectos para crear Ministerio de Minas y ente regulador eléctrico"](https://www.lanacion.com.py/politica/2026/08/13/gobierno-presenta-proyectos-para-crear-ministerio-de-minas-y-ente-regulador-electrico/) (13 de agosto de 2026)
 8. [ABC Color — "El descargo de Félix Sosa tras ser relevado de la presidencia de ANDE"](https://www.abc.com.py/nacionales/2026/07/27/el-descargo-de-felix-sosa-tras-ser-relevado-de-la-presidencia-de-ande/) (27 de julio de 2026)
-9. [CEARE-UBA — sitio institucional](https://www.ceare.org/) (para el perfil del autor del estudio)
+9. [CEARE-UBA — sitio institucional](https://www.ceare.org/institucional.php) (para el perfil del autor del estudio)
 
 <script type="application/ld+json">
 {
@@ -92,7 +92,7 @@ El debate completo sobre energía e institucionalidad está en el [Observatorio 
       "name": "¿Cuál es la situación financiera de la ANDE según el estudio?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "El estudio registra pérdidas totales de energía del 26,5% en 2024, morosidad de particulares que alcanzó el 28,95% en 2023, y una insuficiencia de rentabilidad acumulada de unos 1.800 millones de dólares en 2025, pese a que la carta orgánica de la ANDE (Ley 966 de 1964) exige una rentabilidad de 8% a 10% sobre la inversión inmovilizada."
+        "text": "El estudio registra pérdidas totales de energía del 26,5% en 2024, morosidad de particulares que alcanzó el 28,95% en 2023, y una insuficiencia de rentabilidad de unos 1.800 millones de dólares en 2025, pese a que la carta orgánica de la ANDE (Ley 966 de 1964) exige una rentabilidad de 8% a 10% sobre la inversión inmovilizada."
       }
     },
     {

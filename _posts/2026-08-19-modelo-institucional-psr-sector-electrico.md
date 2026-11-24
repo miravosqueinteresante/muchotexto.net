@@ -11,7 +11,7 @@ tags: [infraestructura-energia, politica-energetica, mesa-energetica, institucio
 description: "La consultora brasileña PSR propone separar el sector eléctrico de Paraguay en ministerio, ente regulador y una ANDE enfocada. Qué dice y qué omite."
 ---
 
-Paraguay no necesita descubrir que tiene un problema institucional en su sector eléctrico: necesita decidir si acepta la solución que ya le pusieron sobre la mesa. Esa solución tiene autor. Se llama PSR, una consultora brasileña fundada en 1987, y en septiembre de 2025 entregó al Ministerio de Industria y Comercio un documento de presentación titulado "Propuesta de Modernización del Sector Eléctrico Paraguayo". El 13 de agosto de 2026, ese documento abrió la primera reunión de la Mesa Nacional del Sector Eléctrico y sirvió de punto de partida para los dos proyectos de ley que el Ejecutivo presentó esa misma tarde.
+Paraguay no necesita descubrir que tiene un problema institucional en su sector eléctrico: necesita decidir si acepta la solución que ya le pusieron sobre la mesa. La autoría consta en la portada del documento entregado al Ministerio de Industria y Comercio: PSR, una consultora brasileña fundada en 1987, firma un trabajo de presentación titulado "Propuesta de Modernización del Sector Eléctrico Paraguayo". El 13 de agosto de 2026, ese documento abrió la primera reunión de la Mesa Nacional del Sector Eléctrico y sirvió de punto de partida para los dos proyectos de ley que el Ejecutivo presentó esa misma tarde.
 
 > **En resumen:**
 > - La consultora brasileña PSR propone separar el sector eléctrico paraguayo en tres piezas: un ministerio (política y planificación), un ente regulador (reglas y arbitraje) y la ANDE enfocada en operar.

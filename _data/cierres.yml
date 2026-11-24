@@ -262,17 +262,15 @@ cierres:
   last_modified_at: 2026-08-15
 - slug: 2026-07-21-ia-justicia-paraguay
   research_dir: research_ia-justicia
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-07-24-ecommerce-logistica-paraguay
   research_dir: research_ecommerce
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-07-25-cadena-valor-data-center
   research_dir: research_cadena-valor-data-center
@@ -296,10 +294,9 @@ cierres:
   last_modified_at: 2026-08-15
 - slug: 2026-07-31-silicon-valley-cono-sur-paraguay
   research_dir: research_silicon_valley
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-09-23
 - slug: 2026-08-01-modelo-itaipu-gobernanza-ia
   research_dir: research_itaipu
@@ -313,10 +310,9 @@ cierres:
   last_modified_at: 2026-08-15
 - slug: 2026-08-03-energia-renovable-cambio-climatico-paraguay
   research_dir: research_energia_renovable
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-09-23
 - slug: 2026-08-04-impacto-local-data-center-paraguay
   research_dir: research_impacto-local-data-center-paraguay
@@ -340,31 +336,27 @@ cierres:
   last_modified_at: 2026-08-18
 - slug: 2026-08-19-ente-regulador-energia
   research_dir: research_ente-regulador
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-19
 - slug: 2026-08-19-ministerio-energia-mineria-hidrocarburos
   research_dir: research_ministerio-mmeh
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-19
 - slug: 2026-08-19-modelo-institucional-psr-sector-electrico
   research_dir: research_modelo-institucional-psr
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-19
 - slug: 2026-08-20-estudio-ceare-tarifa-paraguay
   research_dir: research_estudio-ceare
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-20
 - slug: 2026-08-28-adata-minga-guazu-memorias-semiconductores
   research_dir: research_adata-minga-guazu-memorias-semiconductores
@@ -398,17 +390,15 @@ cierres:
   last_modified_at: 2026-09-23
 - slug: 2026-09-25-paraguay-investor-pass-residencia-inversores
   research_dir: research_investor_pass
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-09-25
 - slug: 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide
   research_dir: research_cervepar
-  estado: parcial
-  faltantes:
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-09-26
 - slug: 2026-09-30-araico-supercomputadora-yguazu-paraguay
   research_dir: research_araico

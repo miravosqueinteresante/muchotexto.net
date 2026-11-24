@@ -34,7 +34,7 @@ La estructura básica que fija el artículo 12 es simétrica: el Gabinete del Mi
 
 El **Viceministerio de Energía** coordina con los entes del sector todo lo eléctrico: energías renovables, eficiencia, energía nuclear, planificación e integración regional. El **Viceministerio de Minería** se ocupa de los recursos minerales, el catastro minero, la fiscalización de permisos y concesiones y la formalización del sector. El **Viceministerio de Hidrocarburos** cubre la prospección, exploración y explotación de reservas, su industrialización, transporte y comercialización.
 
-La novedad no es la palabra "ministerio", sino que el proyecto le asigna funciones que hoy están repartidas entre el MOPC, el MIC y, de facto, la ANDE. El artículo 5 enumera más de una docena de competencias: formular la Política Energética Nacional y la Política Minera Nacional, elaborar balances e inventarios, promover inversiones, administrar los sistemas de información del sector, y —el punto más sensible— percibir las regalías, royalties y cánones de minería e hidrocarburos.
+La novedad no es la palabra "ministerio", sino que el proyecto le asigna funciones que hoy están repartidas entre el MOPC, el MIC y, de facto, la ANDE. El artículo 5 enumera 17 competencias: formular la Política Energética Nacional y la Política Minera Nacional, elaborar balances e inventarios, promover inversiones, administrar los sistemas de información del sector, y —el punto más sensible— percibir las regalías, royalties y cánones de minería e hidrocarburos.
 
 ## El mapa del poder: quién se coordina y quién se rige
 

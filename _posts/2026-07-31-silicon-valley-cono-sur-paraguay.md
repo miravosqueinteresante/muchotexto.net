@@ -11,19 +11,19 @@ tags: [geopolitica-regulacion, infraestructura-energia, tech-ecosistema, inversi
 description: "Paraguay tiene la electricidad más barata de Sudamérica y HIVE Digital ya invierte USD 56M. Pero el resto de Silicon Valley todavía no se decide."
 ---
 
-En marzo de 2026 el ministro de Industria y Comercio de Paraguay, Marco Riquelme, aterrizó en Silicon Valley con una agenda de reuniones que incluía a OpenAI, Nvidia, Crusoe y Lambda. La misión: vender a Paraguay como el próximo destino de infraestructura de inteligencia artificial. Pero la empresa que más había invertido en Paraguay ya estaba allí desde antes: una minera de Bitcoin canadiense reconvertida que en noviembre de 2024 había puesto la primera piedra de lo que hoy son 300 megavatios operativos.
+En marzo de 2026 el ministro de Industria y Comercio de Paraguay, Marco Riquelme, aterrizó en Silicon Valley con una agenda de reuniones que incluía a OpenAI, Nvidia, Crusoe y Lambda. La misión: vender a Paraguay como el próximo destino de infraestructura de inteligencia artificial. Pero la empresa que más había invertido en Paraguay ya estaba allí desde antes: una minera de Bitcoin canadiense reconvertida que en 2025 completó los 300 megavatios que hoy opera en Yguazú y Valenzuela.
 
 > **En resumen:**
 > - HIVE Digital Technologies es el único inversor tech de escala global con presencia real en Paraguay: 300 MW operativos, USD 56M en adquisiciones y 68% de su capacidad mundial en suelo paraguayo.
 > - Crusoe AI, X8Cloud y ASUS no tienen inversiones confirmadas en Paraguay. Crusoe solo tuvo una reunión exploratoria con el gobierno; X8Cloud promociona servicios pero sin cifras verificables de inversión.
-> - Paraguay tiene la electricidad industrial más barata de Sudamérica (USD 30-45 por MWh), un superávit energético del 200% y un régimen fiscal de maquila con 1% de impuesto a la renta. Pero cero hiperescaladores.
+> - Paraguay tiene la electricidad industrial más barata de Sudamérica (USD 30-45 por MWh), un excedente de alrededor del 35% y un régimen fiscal de maquila con 1% de impuesto a la renta. Pero cero hiperescaladores.
 > - Chile atrajo a cuatro hiperescaladores (AWS, Google, Microsoft, Oracle) con estabilidad jurídica, no con energía barata. Uruguay consiguió a Google con USD 850M de inversión. Paraguay tiene condiciones que ningún otro país ofrece y capital que ningún otro país recibe.
 
-Paraguay produce casi el triple de la electricidad que consume. Sus 44 teravatios-hora anuales —alimentados por Itaipú, Yacyretá y Acaray— representan uno de los mayores superávits de energía limpia per cápita de Sudamérica. Esa abundancia, combinada con un régimen de maquila que grava las exportaciones de servicios al 1% y una ubicación en el corazón de Sudamérica, configura una propuesta de valor que ninguna otra economía de la región iguala. Y sin embargo, el capital de Silicon Valley sigue pasando de largo.
+Paraguay produce alrededor de 50% más electricidad de la que consume. Sus 44 teravatios-hora anuales —alimentados por Itaipú, Yacyretá y Acaray— representan uno de los mayores superávits de energía limpia per cápita de Sudamérica. Esa abundancia, combinada con un régimen de maquila que grava las exportaciones de servicios al 1% y una ubicación en el corazón de Sudamérica, configura una propuesta de valor que ninguna otra economía de la región iguala. Y sin embargo, el capital de Silicon Valley sigue pasando de largo.
 
 ## HIVE Digital: el único que puso los pies en Paraguay
 
-En noviembre de 2024, HIVE Digital Technologies —una empresa canadiense listada en la TSX y dedicada a la minería de Bitcoin— puso la primera piedra de su centro de operaciones en Valenzuela, Paraguay: 100 megavatios de capacidad, alimentados por Itaipú. Dos meses después firmó una carta de intención para adquirir el sitio de Yguazú, un predio de 200 MW que pertenecía a Bitfarms, por USD 56 millones (USD 25 millones al cierre y USD 31 millones en seis meses). Asumió además USD 19 millones en depósitos de contratos de compra de energía que Bitfarms tenía con ANDE.
+En 2025, HIVE Digital Technologies —una empresa canadiense listada en la TSX y dedicada a la minería de Bitcoin— completó su centro de operaciones en Valenzuela, Paraguay: 100 megavatios de capacidad, alimentados por Itaipú. En enero de 2025 firmó una carta de intención para adquirir el sitio de Yguazú, un predio de 200 MW que pertenecía a Bitfarms, por USD 56 millones (USD 25 millones al cierre y USD 31 millones en seis meses). Asumió además USD 19 millones en depósitos de contratos de compra de energía que Bitfarms tenía con ANDE.
 
 En septiembre de 2025, HIVE alcanzó 18 exahashes por segundo de capacidad de minería. En noviembre llegó a 25 EH/s. En menos de seis meses pasó de cero a 300 megavatios operativos en Paraguay, ejecutando lo que su CEO, Aydin Kilic, describió como "uno de los programas de expansión más grandes de la historia de HIVE". Para el cierre de su año fiscal 2026, la compañía reportó ingresos de USD 297,8 millones, un crecimiento de 158% interanual impulsado casi enteramente por sus operaciones paraguayas.
 
@@ -101,15 +101,15 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 6. [HIVE Digital Technologies — Validación NeurIPS de infraestructura de IA en Paraguay](https://www.hivedigitaltechnologies.com/news/hives-paraguay-ai-infrastructure-performance-validated-in-columbia-university-study-research-heads-to-neurips/) (junio 2026)
 7. [Data Center Dynamics — Entrevista con Cully Cavness, cofundador de Crusoe](https://www.datacenterdynamics.com/en/news/crusoe-pivots-to-building-data-centers-plans-100mw-facility/) (julio 2024)
 8. [AccessWire — Paraguay's Hydroelectric Surplus Is Becoming the World's Next AI and Data Center Frontier](https://www.accesswire.com/1152241/paraguays-hydroelectric-surplus-is-becoming-the-worlds-next-ai-and-data-center-frontier-and-this-infrastructure-builder-has-been-proving-it-for-years) (marzo 2026)
-9. [Forbes — South America's AI Infrastructure Reality Check](https://www.forbes.com/) (enero 2026)
-10. [BTG Pactual / Canal Solar — Brazil and Chile compete for leadership in data centers](https://www.canalsolar.com.br/) (septiembre 2025)
+9. [Moor Insights & Strategy — South America's AI Infrastructure Reality Check](https://moorinsightsstrategy.com/south-americas-ai-infrastructure-reality-check/) (febrero 2026)
+10. [BTG Pactual / Canal Solar — Brazil and Chile compete for leadership in data centers](https://canalsolar.com.br/en/Brazil-Chile-Data-Centers-South-America-BTG-Pactual/) (septiembre 2025)
 11. [CEPAL — Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://www.cepal.org/es) (septiembre 2024)
 12. [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
-13. [Ley 60/90 — Régimen de Maquila, Paraguay](https://www.mic.gov.py/)
-14. [Ley 7599 (2025) y Decreto 6034 (2026) — Gaceta Oficial del Paraguay](https://www.gacetaoficial.gov.py/)
+13. [Ley 60/90 — Régimen de incentivos a la inversión, Paraguay](https://www.bacn.gov.py/leyes-paraguayas/2401/ley-n-60-aprueba-con-modificaciones-el-decreto-ley-n-27-de-fecha-31-de-marzo-de-1990-por-el-cual-se-modifica-y-amplia-el-decreto-ley-n-19-de-fecha-28-de-abril-de-1989-que-establece-el-regimen-de-incentivos-fis)
+14. [Ley 7599/2025 — Modernización del régimen de energías renovables no convencionales](https://www.bacn.gov.py/leyes-paraguayas/12999/ley-n-75992025-de-modernizacion-del-regimen-que-regula-y-fomenta-la-generacion-de-energia-electrica-a-partir-de-fuentes-de-energias-renovables-no-convencionales-no-hidraulicas)
 15. [Transparency International — Corruption Perceptions Index 2025: Uruguay 73, Paraguay 24](https://www.transparency.org/en/cpi/2025) (febrero 2026)
 16. [Introl Blog — Latin America AI Infrastructure](https://www.introl.com/blog/) (abril 2026)
-17. [Global Data Center Hub — South America: The $380B AI Race](https://www.globaldatacenterhub.com/) (septiembre 2025)
+17. [Global Data Center Hub — South America: The $380B AI Race](https://www.globaldatacenterhub.com/p/south-america-the-380b-ai-race-from) (septiembre 2025)
 18. [X8Cloud — sitio oficial](https://x8cloud.ai/?lang=es)
 
 <script type="application/ld+json">
