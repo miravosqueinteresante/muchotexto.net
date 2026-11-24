@@ -16,7 +16,7 @@ from urllib.parse import urlparse
 import subprocess
 
 from check_observatorio import check_post as check_observatorio_post
-from url_policy import is_allowed_403, load_allowlist
+from url_policy import is_allowed_403, is_allowed_homepage, load_allowlist, load_homepage_allowlist
 
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(REPO_DIR, "_posts")
@@ -238,22 +238,34 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
             ctx = ssl.create_default_context()
             ctx.check_hostname = False
             ctx.verify_mode = ssl.CERT_NONE
-            broken = 0
+            broken_404 = []
+            broken_403 = []
+            broken_other = []
             allow403 = load_allowlist()
             for url in external_urls[:10]:  # max 10 para no bloquear
                 try:
                     req = urllib.request.Request(url, headers={'User-Agent': 'muchotexto-validator/1.0'})
                     resp = urllib.request.urlopen(req, timeout=5, context=ctx)
                     if resp.status != 200:
-                        broken += 1
+                        broken_other.append((url, resp.status))
                 except urllib.error.HTTPError as e:
                     # 403 anti-bot: solo se acepta si el dominio está en la allowlist.
-                    if not (e.code == 403 and is_allowed_403(url, allow403)):
-                        broken += 1
-                except:
-                    broken += 1
-            if broken > 0:
-                warnings.append(f"URLs posiblemente rotas: {broken}/{len(external_urls[:10])} (verificar con scripts/check_urls.py)")
+                    if e.code == 403 and is_allowed_403(url, allow403):
+                        continue
+                    if e.code in (404, 410):
+                        broken_404.append(url)
+                    elif e.code == 403:
+                        broken_403.append(url)
+                    else:
+                        broken_other.append((url, e.code))
+                except Exception:
+                    broken_other.append((url, "sin respuesta"))
+            if broken_404:
+                errors.append("URLs 404/410 (bloqueante): " + ", ".join(broken_404[:6]))
+            if broken_403:
+                warnings.append("URLs 403 fuera de allowlist (revisar): " + ", ".join(broken_403[:6]))
+            if broken_other:
+                warnings.append(f"URLs no verificables ({len(broken_other)}): " + ", ".join(u for u, _ in broken_other[:6]))
         except:
             pass  # si falla el import, no bloquea
 
@@ -270,13 +282,13 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
                 homepage_urls.append(url)
         except Exception:
             pass
-    if homepage_urls:
-        warnings.append(
-            "Fuentes con URL de homepage (sin ruta al artículo concreto) — "
-            "regla §5.1 exige la URL específica [Medio — 'Título'](URL) (fecha). "
-            "Excepción legítima: el sitio oficial de una entidad cuando su "
-            "página principal ES la fuente primaria: "
-            + ", ".join(homepage_urls[:6])
+    allow_home = load_homepage_allowlist()
+    bad_home = [u for u in homepage_urls if not is_allowed_homepage(u, allow_home)]
+    if bad_home:
+        errors.append(
+            "Fuentes con URL de homepage (bloqueante): "
+            + ", ".join(bad_home[:6])
+            + ". Usar la URL específica o agregar el dominio a scripts/url_homepage_allowlist.txt si la portada ES la fuente primaria."
         )
 
     if not description:

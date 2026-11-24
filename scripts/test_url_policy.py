@@ -24,6 +24,15 @@ class TestUrlPolicy(unittest.TestCase):
     def test_no_confunde_sufijo(self):
         self.assertFalse(up.is_allowed_403("https://fakebcp.gov.py/x", {"bcp.gov.py"}))
 
+    def test_homepage_allowlist_exacta_y_subdominio(self):
+        domains = {"ande.gov.py", "worldbank.org"}
+        self.assertTrue(up.is_allowed_homepage("https://www.ande.gov.py/", domains))
+        self.assertTrue(up.is_allowed_homepage("https://ande.gov.py/", domains))
+        self.assertTrue(up.is_allowed_homepage("https://www.worldbank.org/", domains))
+
+    def test_homepage_rechaza_dominio_ajeno(self):
+        self.assertFalse(up.is_allowed_homepage("https://example.com/", {"ande.gov.py"}))
+
 
 if __name__ == "__main__":
     unittest.main()

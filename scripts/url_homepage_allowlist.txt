@@ -1,0 +1,12 @@
+# Dominios cuya homepage puede ser fuente primaria cuando no existe una URL
+# específica del dato (sitios oficiales de entidades o proyectos).
+ande.gov.py
+www.ande.gov.py
+pti.org.py
+www.pti.org.py
+h2global-stiftung.com
+www.h2global-stiftung.com
+hifglobal.com
+www.hifglobal.com
+uptp.edu.py
+www.uptp.edu.py

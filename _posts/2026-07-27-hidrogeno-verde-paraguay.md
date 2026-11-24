@@ -56,7 +56,7 @@ Paraguay no va a competir con Chile en la exportación de hidrógeno a Japón. N
 5. [Gobierno de Chile — Estrategia Nacional de Hidrógeno Verde (2020)](https://energia.gob.cl/hidrogeno-verde)
 6. [HIF Global — Haru Oni e-fuel plant, Magallanes](https://www.hifglobal.com/)
 7. [ANDE — Informe de Gestión y líneas de 500 kV](https://www.ande.gov.py/)
-8. [Banco Mundial — "The Potential of Green Hydrogen in Latin America" (2024)](https://www.worldbank.org/)
+8. [Banco Mundial — "Green Hydrogen in Latin America and the Caribbean" (2025)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099060225142533687)
 9. [ANDE — Resolución P/N° 52552/2026, régimen para industrias electrointensivas de tecnología avanzada (21-oct-2026)](https://www.ande.gov.py/docs/tarifas/RP52552%20Grupo%20Consumo%20Ind.%20Elect.%20Tec.%20Avanzada.pdf)
 10. [ANDE — Decreto 6214/2026, derogación de los decretos de industrias convergentes (9-jun-2026)](https://www.ande.gov.py/interna.php?id=15342)
 
