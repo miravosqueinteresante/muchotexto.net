@@ -15,6 +15,8 @@ import urllib.error
 from urllib.parse import urlparse
 import subprocess
 
+import yaml
+
 from check_observatorio import check_post as check_observatorio_post
 from url_policy import is_allowed_403, is_allowed_homepage, load_allowlist, load_homepage_allowlist
 
@@ -147,6 +149,21 @@ def count_contextual_internal_links(body: str) -> list[str]:
     })
 
 
+def _research_dir_for(post_path: str, topic: str) -> str:
+    """Resuelve la carpeta de investigación desde el manifiesto de cierre."""
+    manifest_path = os.path.join(REPO_DIR, "_data", "cierres.yml")
+    slug = os.path.basename(post_path)[:-3]
+    try:
+        with open(manifest_path, "r", encoding="utf-8") as f:
+            entries = (yaml.safe_load(f) or {}).get("cierres", [])
+        entry = next((e for e in entries if e.get("slug") == slug), None)
+        if entry and entry.get("research_dir"):
+            return os.path.join(REPO_DIR, entry["research_dir"])
+    except (OSError, yaml.YAMLError):
+        pass
+    return os.path.join(REPO_DIR, "research_" + topic)
+
+
 def check_cierre(post_path: str) -> list[str]:
     """Gate de cierre: todo articulo de analisis exige su carpeta de investigacion
     con plan, findings, gap report y spot-check del editor. Los pasos de verificacion
@@ -156,15 +173,16 @@ def check_cierre(post_path: str) -> list[str]:
     if not m:
         return []
     topic = m.group(1)
-    research_dir = os.path.join(REPO_DIR, "research_" + topic)
+    research_dir = _research_dir_for(post_path, topic)
+    rel = os.path.relpath(research_dir, REPO_DIR).replace("\\", "/")
     if not os.path.isdir(research_dir):
-        return [f"Cierre: falta 'research_{topic}/' (plan, findings, gap report, spot-check)"]
+        return [f"Cierre: falta '{rel}/' (plan, findings, gap report, spot-check)"]
     errors = []
     for fname in ("research_plan.md", "gap_report.md", "spotcheck.md"):
         if not os.path.exists(os.path.join(research_dir, fname)):
-            errors.append(f"Cierre: falta el artefacto obligatorio 'research_{topic}/{fname}'")
+            errors.append(f"Cierre: falta el artefacto obligatorio '{rel}/{fname}'")
     if not glob.glob(os.path.join(research_dir, "findings_*.md")):
-        errors.append(f"Cierre: faltan 'research_{topic}/findings_*.md'")
+        errors.append(f"Cierre: faltan '{rel}/findings_*.md'")
     return errors
 
 

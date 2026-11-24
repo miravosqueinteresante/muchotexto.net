@@ -2,6 +2,7 @@
 """Valida que el manifiesto de cierre cubra todos los análisis y use estados válidos."""
 
 import re
+import sys
 import unittest
 from pathlib import Path
 
@@ -9,6 +10,8 @@ import yaml
 
 REPO = Path(__file__).resolve().parent.parent
 MANIFEST = REPO / "_data" / "cierres.yml"
+sys.path.insert(0, str(REPO / "scripts"))
+import validate_publish as vp  # noqa: E402
 NON_ANALYSIS = {
     "2026-05-10-primer-articulo",
     "2026-06-10-que-es-realmente-el-futbol",
@@ -52,6 +55,11 @@ class TestCierres(unittest.TestCase):
     def test_sin_duplicados(self):
         slugs = [e["slug"] for e in self.data["cierres"]]
         self.assertEqual(len(slugs), len(set(slugs)))
+
+    def test_resuelve_alias_desde_manifiesto(self):
+        path = REPO / "_posts" / "2026-05-18-tokenizacion-del-agro-paraguay.md"
+        resolved = Path(vp._research_dir_for(str(path), "tokenizacion-del-agro-paraguay"))
+        self.assertEqual(resolved.name, "research_tokenizacion_agro")
 
 
 if __name__ == "__main__":
