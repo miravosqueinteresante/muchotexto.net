@@ -3,7 +3,7 @@ layout: post
 title: "La salida de Atome no es una pérdida de USD 665 millones"
 seo_title: "Atome se va y libera 145 MW"
 date: 2026-10-02 09:00:00 -0300
-last_modified_at: 2026-10-02
+last_modified_at: 2026-11-24
 categories: [articulos]
 pilar: 1
 resumen: "La británica Atome rescindió su contrato con la ANDE sin haber construido nada en Villeta desde 2022. Los USD 665 millones eran inversión proyectada, no desembolsada; el conflicto era tarifario y su salida libera 145 MW."
@@ -40,7 +40,7 @@ Atome PLC, la empresa británica que prometió instalar en Villeta la "planta de
 
 **Atome PLC** es una empresa británica listada en el mercado **AIM**, la bolsa "junior" de Londres, incorporada en octubre de 2021. Es, en la jerga financiera, una empresa **pre-revenue**: no genera ingresos operativos, porque su primera planta —la de Villeta— nunca entró en operación. Su capitalización ronda las **£27,8 millones** (unos USD 36 millones), su acción cayó **45%** en 2026 y su cotización está **suspendida desde julio de 2026** —coherente con la regla de AIM que suspende a las empresas que no publican sus balances a tiempo—.
 
-El directorio concentra el relato. El **presidente y principal accionista es Peter Levine**; el **CEO es Olivier Mussat**, exdirector de inversiones de energía de la Corporación Financiera Internacional (IFC, parte del Grupo Banco Mundial); y su director ejecutivo en Paraguay es **James Spalding**, director general paraguayo de Itaipú entre 2013 y 2018. Entre los accionistas figuran el gestor de fondos Schroders, la petrolera de servicios **Baker Hughes** y la suiza **Casale**, que iba a ser la contratista de la planta.
+El directorio concentra el relato. El **presidente y principal accionista es Peter Levine**; el **CEO es Olivier Mussat**, exdirector de inversiones de energía de la Corporación Financiera Internacional (IFC, parte del Grupo Banco Mundial); y su director ejecutivo es **James Spalding**, director general paraguayo de Itaipú entre 2013 y 2018. Entre los accionistas figuran el gestor de fondos Schroders, la petrolera de servicios **Baker Hughes** y la suiza **Casale**, que iba a ser la contratista de la planta.
 
 ## El contrato de 2022 y el nudo de la tarifa
 
@@ -54,7 +54,7 @@ El contrato de 2022 tampoco blindaba a Atome: la prensa recoge que el acuerdo or
 
 La cifra que circula como "la inversión que Paraguay perdería" es, en realidad, un número de **inversión proyectada que difunde la propia Atome**. En abril de 2026 anunció una "decisión final de inversión" (FID, por sus siglas en inglés) por **USD 665 millones**: **USD 420 millones en deuda** coordinada por IDB Invest junto con la IFC, el Banco Europeo de Inversiones, el FMO holandés y el Fondo Verde para el Clima, más **USD 245 millones en capital** liderado por Hy24, con DEG, el fondo danés IFDK y el banco paraguayo Sudameris.
 
-Ninguno de esos tramos se desembolsó. La construcción estaba condicionada a una sola cosa: **que el Estado garantizara energía barata y a plazo fijo**. El Ejecutivo lo hizo en enero de 2026 con el **Decreto 5307** (el grupo tarifario "Energía a X") y el **Decreto 5861** (un tope de 250 MW), pero ambos fueron **derogados el 9 de junio de 2026** tras la presión de los gremios de la ANDE y las protestas internas —el mismo conflicto que [rodea a los contratos del consumo intensivo](/articulos/2026/09/16/los-contratos-secretos-de-ande/)—. Al caer el decreto, cayó la condición del financiamiento. Atome lo reconoce en su propia narrativa: los decretos eran su "garantía" para levantar el dinero internacional.
+Ninguno de esos tramos se desembolsó. La construcción estaba condicionada a una sola cosa: **que el Estado garantizara energía barata y a plazo fijo**. El Ejecutivo lo hizo en enero de 2026 con el **Decreto 5307** (el grupo tarifario "Energía a X") y en abril con el **Decreto 5861** (un tope de 250 MW), pero ambos fueron **derogados el 9 de junio de 2026** tras la presión de los gremios de la ANDE y las protestas internas —el mismo conflicto que [rodea a los contratos del consumo intensivo](/articulos/2026/09/16/los-contratos-secretos-de-ande/)—. Al caer el decreto, cayó la condición del financiamiento. Atome lo reconoce en su propia narrativa: los decretos eran su "garantía" para levantar el dinero internacional.
 
 El saldo físico, documentado por el periodista Bruno Vaccotti (**@peztresojos**) con fotos del predio, es contundente: **"ahí, en ese terreno, no han puesto un ladrillo"**. Cuatro años después de firmar. La cifra de inversión anunciada fue subiendo —USD 350 millones en 2023, USD 665 millones en abril de 2026— mientras la obra siguió en cero.
 
@@ -70,7 +70,7 @@ Conviene ser preciso sobre quién rompe qué. Atome presenta su salida como la c
 
 La razón de fondo por la que Atome se aferraba a una tarifa de USD 30 por MWh es económica. En la producción de amoníaco verde, **la electricidad es el costo dominante**, entre el 45% y el 80% del total según IRENA. El amoníaco verde cuesta hoy, según las mismas fuentes, del orden de **USD 600 a 1.400 por tonelada**, contra un amoníaco convencional que ronda los **USD 260 a 600** —y que llegó a superar los USD 1.000 durante la crisis del gas de 2022—. Sin energía muy barata, el proyecto no cierra. No en Villeta; en casi ningún lugar.
 
-El propio sector lo entendió antes que Atome. **Yara**, el gigante noruego de los fertilizantes y uno de los compradores potenciales de la planta, **canceló o pausó en los últimos dos años al menos cuatro o cinco proyectos** de hidrógeno y amoníaco de bajo carbono, incluido su proyecto de amoníaco azul en Estados Unidos. La Agencia Internacional de la Energía lo documenta en su *Global Hydrogen Review 2024*: **"varios proyectos enfrentaron retrasos y cancelaciones"**, por señales de demanda poco claras, obstáculos de financiamiento e incertidumbre regulatoria. El entusiasmo de 2021 se desinfló; Atome quedó vendiendo el relato de aquel momento.
+El propio sector lo entendió antes que Atome. **Yara**, el gigante noruego de los fertilizantes y uno de los compradores potenciales de la planta, **canceló o pausó en los últimos dos años al menos cuatro o cinco proyectos** de hidrógeno y amoníaco de bajo carbono, incluido su proyecto de amoníaco azul en Estados Unidos. La Agencia Internacional de la Energía lo documenta en su *Global Hydrogen Review 2024*: **"varios proyectos enfrentaron retrasos y cancelaciones"** (traducción propia), por señales de demanda poco claras, obstáculos de financiamiento e incertidumbre regulatoria. El entusiasmo de 2021 se desinfló; Atome quedó vendiendo el relato de aquel momento.
 
 ## Lo que gana Paraguay
 

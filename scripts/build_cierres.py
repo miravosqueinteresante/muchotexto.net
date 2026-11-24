@@ -63,6 +63,11 @@ ALIASES = {
     "ia-corrupcion-paraguay": "research_ai_corruption",
     "ministerio-energia-mineria-hidrocarburos": "research_ministerio-mmeh",
     "los-contratos-secretos-de-ande": "research_contratos_ande",
+    "araico-supercomputadora-yguazu-paraguay": "research_araico",
+    "atome-ande-salida-paraguay": "research_atome",
+    "brecha-triple-jovenes-paraguayos": "research_brecha-triple",
+    "5g-segunda-subasta-paraguay": "research_5g",
+    "silicon-valley-cono-sur-paraguay": "research_silicon_valley",
 }
 
 REQUIRED = ("research_plan.md", "gap_report.md", "spotcheck.md")
@@ -105,11 +110,13 @@ def missing_artifacts(directory):
 def classify(path, data):
     topic = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", path.stem)
     exact = REPO / ("research_" + topic)
+    aliased = ALIASES.get(topic)
+    candidates = []
     if exact.is_dir():
-        directory = exact
-    else:
-        aliased = ALIASES.get(topic)
-        directory = REPO / aliased if aliased else None
+        candidates.append(exact)
+    if aliased and (REPO / aliased).is_dir() and (REPO / aliased) not in candidates:
+        candidates.append(REPO / aliased)
+    directory = min(candidates, key=lambda d: (len(missing_artifacts(d)), 0 if d == exact else 1)) if candidates else None
 
     missing = missing_artifacts(directory) if directory else list(REQUIRED) + ["findings_*.md"]
     if directory and not missing:

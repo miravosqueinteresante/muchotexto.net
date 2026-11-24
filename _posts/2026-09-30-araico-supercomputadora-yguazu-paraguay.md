@@ -40,7 +40,7 @@ Paraguay acumula promesas de cómputo, y acaba de sumar la más grande: un **cam
 
 No es una entidad estatal ni un ente binacional: **ARAICO** es una empresa **privada incorporada en Estados Unidos** —su perfil de LinkedIn la presenta como "a US-incorporated company", del sector "Energy Technology"— que desarrolla su proyecto en Paraguay. La fundaron dos emprendedores paraguayos: **Alejandro Zuccolillo**, cofundador y presidente, que antes creó la desarrolladora inmobiliaria ZUBA; y **Nicolás Arréllaga**, cofundador y CEO, antes al frente de la fintech brasileña Nexoos. Ambos son, en la jerga del sector, *second-time founders*.
 
-Su proyecto se llama **Iguazú AI City** —en su material oficial, "Iguazu AI Campus"— y se emplazaría en **Yguazú, Alto Paraná**, junto al corredor de transmisión de 500 kV que conecta Itaipú con el resto del país. El campus está diseñado, según la empresa, para **1,3 GW** de capacidad de cómputo.
+Su proyecto se llama **Iguazú AI City** —en su material oficial, "Iguazu AI Campus"— y se emplazaría en **Yguazú, Alto Paraná**, junto al [corredor de transmisión de 500 kV]({% post_url 2026-07-08-red-electrica-paraguay-ia %}) que conecta Itaipú con el resto del país. El campus está diseñado, según la empresa, para **1,3 GW** de capacidad de cómputo.
 
 ## Un campus de 1,3 GW, no una supercomputadora
 

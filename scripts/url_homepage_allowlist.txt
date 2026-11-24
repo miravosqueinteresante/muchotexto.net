@@ -10,3 +10,9 @@ hifglobal.com
 www.hifglobal.com
 uptp.edu.py
 www.uptp.edu.py
+itaipu.gov.py
+www.itaipu.gov.py
+araico.ai
+www.araico.ai
+capaser.org.py
+www.capaser.org.py
