@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Por qué el 73% de uso de IA en Paraguay no es lo que parece"
-seo_title: "Cifras de adopción de IA en Paraguay"
+title: "El 73% de los paraguayos encuestados dijo haber usado IA alguna vez"
+seo_title: "Qué es el 73% de uso de IA en Paraguay"
 date: 2026-11-17 12:00:00 -0300
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-23
 permalink: /articulos/2026/11/17/cifras-adopcion-ia-paraguay/
 categories: [articulos]
 pilar: 3
-resumen: "El 73% de uso de IA en Paraguay es de la edición 2025 y mide uso alguna vez; el WIN 2026 da 79%. El ILIA 2025 da 31,20/100: mide madurez, no uso individual"
+resumen: "Una encuesta de WIN/ICA de 2025 encontró que el 73% de los paraguayos encuestados dijo haber usado IA alguna vez. No es adopción diaria; el 79% de 2026 y el ILIA miden otra cosa."
 tags: [adopcion-ia, datos, ilia, win, paraguay]
-description: "El 73% de uso de IA es de 2025 y mide uso declarado alguna vez; el 31,20/100 del ILIA mide madurez. Qué mide cada cifra y cuál citar"
+description: "El 73% es de una encuesta de WIN/ICA de 2025 y mide uso declarado alguna vez, no adopción diaria. El 79% de 2026 y el ILIA miden otra cosa."
 schema_type: NewsArticle
 hitos:
   - fecha: "2025-01-31"
@@ -48,80 +48,68 @@ casos:
     texto: "La edición 2025 del WIN se apoya en unos 500 casos telefónicos nacionales. El margen de error calculado es de ±4,4 puntos, y el estudio no publica tasa de respuesta ni diseño de ponderación intra-país."
 ---
 
-Dos titulares pueden convivir sin contradecirse. Uno dice que **el 73% de los paraguayos usa inteligencia artificial**. Otro dice que **Paraguay saca 31,20 sobre 100 en el Índice Latinoamericano de IA (ILIA)** y queda entre los países “exploradores”. Parecen incompatibles. No lo son.
+Si viste que el 73% de los paraguayos usa IA, ese número viene de una encuesta. WIN/ICA preguntó en 2025 y el 73% de los encuestados respondió que había usado IA alguna vez. No dice cuánto, ni con qué frecuencia, ni si fue en el trabajo o en casa: dice que la usó al menos una vez.
 
-El 73% mide **uso declarado alguna vez** en una encuesta. El 31,20 mide **madurez del ecosistema**: infraestructura, talento, datos, investigación y gobernanza. Además, el 73% es de la edición 2025 del estudio, no de la de 2026. La cifra correcta depende de la pregunta que quieras responder.
+Lo difundió **Última Hora el 22 de febrero de 2026**, con un estudio de **40 países** y **más de 32.700 personas**. Lo que se mide es una respuesta declarada, no un registro de uso.
 
-## El 73% es de 2025, no de 2026
+Al mismo tiempo, Paraguay obtiene **31,20 sobre 100** en el Índice Latinoamericano de IA (ILIA) y queda entre los países “exploradores”. Parecen cifras incompatibles y no lo son: el 31,20 mide madurez del ecosistema —infraestructura, talento, datos, investigación, gobernanza—, no cuánta gente usa IA.
 
-El dato que se difundió en Paraguay aparece en la nota de **Última Hora del 22 de febrero de 2026**. El artículo describe un estudio de **40 países**, con **más de 32.700 personas** encuestadas y una media global de **63%**. El informe 2025 del **WIN** declara 38 países miembros y una media global de **62%**; el **63%** es la cifra que difundió **Última Hora**, no un redondeo del informe. Las bases son distintas: **34.515 casos** para la incidencia de uso y **32.770** para el **AI Index**; el “32.700” de la nota es una aproximación a la base del índice, no el n de la incidencia. No es la edición 2026.
+**En una frase:** el 73% es el porcentaje de encuestados por WIN/ICA en 2025 que dijo haber usado IA alguna vez. No es uso diario ni adopción de empresas. El 79% de 2026 y el 31,20/100 del ILIA miden otras cosas.
 
-La edición 2026 se publicó el **17 de mayo de 2026**, con campo entre noviembre de 2025 y enero de 2026. En la tabla de incidencia que reproduce el miembro filipino de WIN (PSRC), Paraguay aparece con **79% de uso declarado**, no 73%. Esa tabla lo ubica **17.º**, empatado con Chile, en una lista de 44 o 45 países según se mida incidencia o índice.
+## Qué es el 73% y de dónde sale
 
-El 73% tampoco está impreso en la tabla país por país del informe público de 2025. Sale del gráfico que **ICA Consultoría Estratégica** difundió con la nota de Última Hora. Por eso la formulación correcta no es “el informe WIN 2025 publica 73%”, sino “el 73% que circuló correspondía a la edición 2025”.
+El dato no aparece impreso en la tabla país por país del informe público de WIN 2025. Sale del gráfico que **ICA Consultoría Estratégica** difundió con la nota de Última Hora. Por eso la formulación correcta no es “el informe WIN 2025 publica 73%”, sino “el 73% que circuló correspondía a la edición 2025”.
 
-Y hay una diferencia más importante: **el 73% es uso alguna vez, no uso diario**. El desglose es 32% “siempre o a menudo”, 41% “a veces”, 25% “nunca” y 2% que no sabe o no responde. La etiqueta del gráfico “3 de cada 10 usan IA a diario” es un error: el 32% agrupa “a menudo” y “todos los días”, no solo uso diario. El uso diario paraguayo no se publica; el global de 2026 es 15%.
+Las bases del informe difieren según qué se mida: **34.515 casos** para la incidencia de uso —el porcentaje que respondió que usó IA— y **32.770** para el AI Index. El “32.700” de la nota aproxima la segunda, no la primera. El informe declara **38 países miembros** y una media global de **62%**; el **63%** es de Última Hora, no un redondeo del documento.
 
-## El 68,9 es un índice, no una tasa
+En Paraguay, la edición 2025 se apoya en unos **500 casos telefónicos** nacionales, con un margen de error de **±4,4 puntos**. El estudio no publica tasa de respuesta ni diseño de ponderación intra-país, así que el 73% es un buen titular y una mala base para comparaciones finas.
 
-La otra cifra que confunde es el **68,9** que Paraguay obtuvo en el **AI Index 2026**. No es una tasa de adopción. Es un índice compuesto de siete indicadores: frecuencia de uso, confianza, eficiencia, interés, comodidad, usabilidad y aceptación. Con 68,9, Paraguay quedó **tercero de 44 países**, detrás de India y China (75,8) y delante de Marruecos (68,4) e Indonesia (67,9). El índice global fue 54,5.
+Y el 73% es **uso alguna vez**. El desglose es **32% “siempre o a menudo”, 41% “a veces”, 25% “nunca” y 2%** que no sabe o no responde. La etiqueta “3 de cada 10 usan IA a diario” no se sostiene: ese 32% agrupa “a menudo” con “todos los días”. El uso diario paraguayo no se publica; el global de 2026 es **15%**.
 
-WIN publica un top 5 del AI Index; Paraguay está **3.º**. Y el “8.º del mundo” que publicó Última Hora no está en las tablas de WIN. Lo verificable de 2025 es **9.º en el AI Index (58,2)** y **4.º, empatado con Malasia, en el subíndice de uso (52,2)**. El 8.º pudo ser una posición de incidencia, pero no es un dato reproducible en el informe.
+La edición 2026 se publicó el **17 de mayo de 2026**, con campo entre noviembre de 2025 y enero de 2026. En la tabla de incidencia que reproduce el miembro filipino de WIN (PSRC), Paraguay figura con **79% de uso declarado**: **17.º**, empatado con Chile, en una lista de 44 o 45 países.
 
-Tampoco conviene leer el salto de 58,2 a 68,9 como una mejora limpia. WIN advierte que cambió la redacción de las preguntas, agregó afirmaciones, cambió el ruteo de los indicadores e incorporó países nuevos; en 2026, además, todos los países se ponderaron a **~1.000 casos**. Las diferencias entre 2025 y 2026 son “tendencias direccionales”, no una medición precisa del cambio.
+## Por qué el 31,20 del ILIA no lo contradice
 
-## El 31,20/100 mide madurez
+El **ILIA 2025**, de CEPAL y Cenia, le dio a Paraguay **31,20/100**, puesto **14 de 19** y categoría “explorador”. El promedio regional fue **42,98**: el país quedó **11,78 puntos por debajo**.
 
-El **ILIA 2025**, elaborado por CEPAL y Cenia, le dio a Paraguay **31,20/100**, puesto **14 de 19** y categoría “explorador”. El promedio regional fue **42,98**. El país quedó **11,78 puntos por debajo**.
+Las dimensiones explican el puntaje: Factores Habilitantes **41,94**; Infraestructura **42,87**; Datos **51,52**; Talento Humano **32,59**; I+D+A **25,63** (último de 19); Adopción **35,46** (puesto 17); Gobernanza **21,81**. Un detalle de edición: circuló **42,87** como si fuera talento, pero 42,87 es infraestructura. El 33 que cita J.P. Morgan sí es el redondeo de 32,59.
 
-Las dimensiones de 2025 explican el puntaje: Factores Habilitantes **41,94**; Infraestructura **42,87**; Datos **51,52**; **Talento Humano 32,59**; I+D+A **25,63** (último de 19); Adopción **35,46** (puesto 17); Gobernanza **21,81**. El dato de talento importa: circuló **42,87** como si fuera talento, pero 42,87 es infraestructura. El 33 que cita J.P. Morgan es el redondeo correcto de 32,59.
+La “adopción” del ILIA pesa solo **10,5% del puntaje total**: 30% de la dimensión I+D+A, que a su vez pesa 35%. Y la mitad de ese componente mide estructura industrial y gobierno digital. La otra mitad se construye con huellas digitales: tráfico a **260 sitios web** (abril de 2025) y uso de **6 aplicaciones móviles** (diciembre de 2024). No es una encuesta de personas.
 
-La “adopción” del ILIA pesa solo **10,5% del puntaje total**: 30% de la dimensión I+D+A, que a su vez pesa 35%. Y la mitad de ese componente mide estructura industrial y gobierno digital, no uso ciudadano. La otra mitad se construye con huellas digitales: tráfico a **260 sitios web** (abril de 2025) y uso de **6 aplicaciones móviles** (diciembre de 2024). No es una encuesta de personas.
+Por eso el total del ILIA no equivale a una tasa de uso. Dice que el ecosistema tiene baja madurez en talento, investigación, gobernanza y estructura productiva. Es otra foto.
 
-Por eso el puntaje total del ILIA no equivale a una tasa de uso de la población. Dice que el ecosistema tiene baja madurez en talento, investigación, gobernanza y estructura productiva. Es una foto distinta.
+El **ILIA 2026** reporta **32,6/100** y **14 de 20**, con 126 subindicadores. Tampoco es comparable con 2025: cambió la metodología. Citar 31,20 como “el dato actual” en noviembre de 2026 sería otro error de edición.
 
-El **ILIA 2026** ya reporta **32,6/100** y **14 de 20**, con 126 subindicadores. No es plenamente comparable con 2025: cambió la metodología. Citar 31,20 como “el dato actual” en noviembre de 2026 sería otro error de edición.
+## El 79% de 2026 no es una mejora comparable
 
-## Acceso: 83,1% y 85,4% no se contradicen
+El salto de 73% a 79% tienta a leerse como crecimiento. WIN advierte que cambió la redacción de las preguntas, agregó afirmaciones, cambió el ruteo de los indicadores e incorporó países nuevos; en 2026, además, todos los países se ponderaron a **~1.000 casos**. Las diferencias entre ediciones son “tendencias direccionales”, no una medición precisa del cambio.
 
-La brecha digital también produce cifras que parecen pelear. **DataReportal 2026** estima **83,1%** de penetración de internet sobre la población total (5,84 millones sobre 7,03 millones). **El INE 2025** mide **85,4%** sobre población de 10 años o más (4,43 millones sobre 5,19 millones). Cambian universo y fuente; no son cifras rivales.
+Lo mismo pasa con el índice compuesto. El **68,9** del AI Index 2026 no es una tasa de adopción: combina siete indicadores —frecuencia de uso, confianza, eficiencia, interés, comodidad, usabilidad y aceptación—. Con 68,9, Paraguay quedó **tercero de 44 países**, detrás de India y China (75,8) y delante de Marruecos (68,4) e Indonesia (67,9). El global fue 54,5.
 
-El **134% de penetración móvil** son **9,46 millones de conexiones**, no personas: una persona puede tener más de una línea, y muchas conexiones son solo voz o SMS. El **99,3% de hogares con TIC** que reporta el INE incluye radio y televisión; no equivale a internet. La línea de base del documento en consulta pública del Plan Nacional de Telecomunicaciones 2026-2030 reporta **53,72% de hogares con internet fijo** en 2025.
+En 2025 el AI Index paraguayo fue **58,2**, **9.º**, y el subíndice de uso **52,2**, **4.º** empatado con Malasia. El “8.º del mundo” que publicó Última Hora no está en las tablas de WIN: pudo ser una posición de incidencia, pero no es un dato reproducible.
 
-La brecha rural/urbana sigue: **77,8% vs 88,2%** en personas, pero **49,5% vs 85,5%** en hogares con internet. La encuesta del INE no cubre Boquerón, Alto Paraguay, comunidades indígenas ni viviendas colectivas; la brecha rural real es probablemente mayor.
+## Lo que todavía no se mide
 
-## Adopción productiva: no hay una encuesta nacional
+No hay una encuesta nacional dedicada a medir adopción de IA en empresas. Y el 73% tampoco dice si la IA es una herramienta ocasional o parte de la rutina: el uso diario no se publica. Lo más cercano a adopción productiva es la **ETML 2024 del INE**, limitada a Asunción y Central: **12,9%** de las empresas declara usar ciencia de datos, IA o big data; **23,3%** planea incorporarlo; **63,9%** no lo usa ni lo planea. Fueron **1.450 encuestas** sobre un universo de **10.627 empresas** de cinco o más ocupados.
 
-No se identificó una encuesta nacional dedicada a medir adopción de IA en empresas. Lo más cercano es la **ETML 2024 del INE**, limitada a Asunción y Central: **12,9%** de las empresas declara usar ciencia de datos, IA o big data; **23,3%** planea incorporarlo; **63,9%** no lo usa ni lo planea. Se hicieron **1.450 encuestas efectivas**; el **universo estimado** es de **10.627 empresas** de cinco o más ocupados.
+Ese 12,9% tampoco es adopción productiva en sentido estricto: mezcla IA con big data y ciencia de datos, y cubre solo la principal aglomeración urbana. Otras mediciones apuntan más abajo. **Ninguna de las 359 mipymes** de Local Digital alcanza el nivel “avanzado”; **17%** de 152 industrias del BID/UIP usa tecnologías cercanas a la industria 4.0; **74%** de las empresas de PwC no registra cambios en ingresos ni costos por IA, y el tamaño de su muestra paraguaya no se publica. El **61%** de 150 mipymes de Asunción que dice usar IA para decisiones es una muestra por conveniencia, no representativa.
 
-Ese 12,9% no es “adopción productiva” en sentido estricto: agrupa IA con big data y ciencia de datos, y solo cubre la principal aglomeración urbana. Otras mediciones muestran un panorama más limitado:
+En el Estado, la **DNCP** es el caso más maduro: usa modelos para detectar anomalías y un chatbot desde 2019, pero no publica una evaluación de impacto. Según MITIC y TEDIC, el resto del sector público usa IA de forma puntual o aislada. No hay catálogo público consolidado ni estrategia nacional aprobada.
 
-- **61%** de 150 mipymes de Asunción dice usar IA para decisiones, pero es una muestra por conveniencia, no representativa.
-- **Ninguna de las 359 mipymes** analizadas por Local Digital alcanza el nivel “avanzado” que exige IA, ERP y automatización.
-- **17%** de 152 industrias encuestadas por BID/UIP usa tecnologías cercanas a la industria 4.0.
-- **74%** de las empresas de la encuesta de PwC no registra cambios en ingresos ni costos por IA; el tamaño de la muestra paraguaya no se publica.
+Sobre acceso, basta una línea: las cifras que parecen pelear miden universos distintos. **83,1%** de DataReportal es población total; **85,4%** del INE es población de 10 años o más; el **134%** móvil son conexiones, no personas.
 
-En el Estado, la **DNCP** es el caso más maduro: usa modelos para detectar anomalías y un chatbot, con desarrollos desde 2019. Pero no publica una evaluación de impacto. **Según MITIC y TEDIC**, el resto del sector público usa IA de forma **puntual o aislada**. **No se identificó un catálogo público consolidado** de proyectos de IA del Estado ni una estrategia nacional aprobada.
+> **El dato que viaja solo.** Los errores no son solo de lectura, también de circulación. **El Prisma** publicó que “más del 70% de los paraguayos ya chatea diariamente con algoritmos”, cuando la fuente da 32% “siempre o a menudo” y 41% “a veces”. **MarketData** atribuyó a talento humano el 42,87 de infraestructura. **J.P. Morgan** habla de “20 países” y lista 19 al citar el ILIA 2025; su 33 de talento es correcto, pero generaliza a partir de una encuesta a startups.
+>
+> En las notas que revisamos, ninguna pone el 73% y el 31,20 juntos con su metodología. Cada cifra viaja sola, sin la pregunta que la produjo.
 
-## La narrativa: cómo se mezclan las cifras
+## Cómo citar cada cifra
 
-Los errores no son solo de lectura. También son de circulación.
-
-**El Prisma** publicó que “más del 70% de los paraguayos ya chatea diariamente con algoritmos”. La fuente que cita da 32% “siempre o a menudo” y 41% “a veces”; el uso diario no se publica. Dos errores en una frase: edición vieja y frecuencia inflada.
-
-**MarketData** atribuyó a talento humano el 42,87 que corresponde a infraestructura, dijo que Factores Habilitantes estaba “por encima” del promedio cuando está por debajo, y comparó el talento paraguayo con la infraestructura de Uruguay, Brasil y Chile. **J.P. Morgan** dice “20 países” y lista 19 al citar el ILIA 2025; su 33 de talento es correcto, pero generaliza a partir de una encuesta a startups.
-
-Ninguna de las notas relevadas pone el 73% y el 31,20 juntos con su metodología. Ese es el patrón: cada cifra viaja sola, sin la pregunta que la produjo.
-
-## Guía para citar sin equivocarse
-
-Antes de repetir un número, hacé cinco preguntas:
+Antes de repetir un número, hacé cuatro preguntas.
 
 1. **¿De qué edición es?** 73% es 2025; 79% es 2026. 31,20 es ILIA 2025; 32,6 es ILIA 2026.
-2. **¿Mide uso alguna vez, uso frecuente o uso diario?** El 73% es alguna vez; el 32% es frecuente; el diario no se publica.
-3. **¿Es adopción, índice compuesto o madurez?** 73/79% es uso declarado; 68,9 es AI Index; 31,20 es madurez.
-4. **¿Es personas, hogares o conexiones?** 83,1% y 85,4% son personas con universos distintos; 134% son conexiones; 53,72% son hogares con internet fijo.
-5. **¿Es encuesta o huella digital?** El WIN es una encuesta internacional de opinión (**CAWI, CATI, presencial o TAPI según el país**); en Paraguay se hizo por **CATI**. El ILIA usa tráfico web y apps.
+2. **¿Mide uso alguna vez, frecuente o diario?** El 73% es alguna vez; el 32% es frecuente; el diario no se publica.
+3. **¿Es adopción, índice o madurez?** 73/79% es uso declarado; 68,9 es AI Index; 31,20 es madurez.
+4. **¿Es encuesta o huella digital?** El WIN es una encuesta de opinión (**CATI** en Paraguay); el ILIA usa tráfico web y apps.
 
 | Si querés decir… | Citá… |
 |---|---|
@@ -133,9 +121,9 @@ Antes de repetir un número, hacé cinco preguntas:
 
 ## Cierre
 
-No hay un “verdadero” 73% ni un “verdadero” 31,20. Hay dos termómetros. El primero mide si alguien declaró haber usado IA alguna vez. El segundo mide si el país tiene infraestructura, talento, datos, investigación y gobernanza para sostenerla.
+No hay un “verdadero” 73% ni un “verdadero” 31,20. Hay dos termómetros: uno mide si alguien declaró haber usado IA alguna vez; el otro, si el país tiene infraestructura, talento, datos, investigación y gobernanza para sostenerla.
 
-El titular correcto no es “Paraguay lidera” ni “Paraguay está atrasado”. Es más incómodo y más útil: **Paraguay usa IA, pero todavía mide mal cuánto y cómo**. Y hasta que no separemos uso declarado, madurez y adopción productiva, vamos a seguir discutiendo cifras que no son comparables.
+La conclusión correcta no es “Paraguay lidera” ni “Paraguay está atrasado”. Es más incómoda y más útil: **Paraguay usa IA, pero todavía mide mal cuánto y cómo**. Hasta que no separemos uso declarado, madurez y adopción productiva, vamos a seguir discutiendo cifras que no son comparables.
 
 Este análisis se inscribe en el pilar de IA, sociedad y trabajo de [IA en Paraguay](/ia-en-paraguay/). Para el contexto de talento, ver [la brecha triple de los jóvenes paraguayos]({% post_url 2026-10-09-brecha-triple-jovenes-paraguayos %}); para el ecosistema emprendedor, ver [startups de IA en Paraguay]({% post_url 2026-07-14-startups-ia-paraguay %}).
 
@@ -168,7 +156,7 @@ Este análisis se inscribe en el pilar de IA, sociedad y trabajo de [IA en Parag
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "¿El 73% significa que 7 de cada 10 paraguayos usan IA todos los días?",
+      "name": "¿El 73% significa que 7 de cada 10 paraguayos encuestados usan IA todos los días?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "No. El 73% es uso declarado alguna vez en la edición 2025, según ICA/ÚH. El desglose es 32% siempre o a menudo, 41% a veces, 25% nunca y 2% que no sabe o no responde. El uso diario paraguayo no se publica."
@@ -195,7 +183,7 @@ Este análisis se inscribe en el pilar de IA, sociedad y trabajo de [IA en Parag
       "name": "¿Por qué el 73% y el 31,20/100 no coinciden?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Porque miden objetos distintos y ediciones distintas: el 73% es uso declarado alguna vez en 2025; el 31,20/100 es madurez del ecosistema en el ILIA 2025. El WIN 2026 mide 79% y el ILIA 2026 mide 32,6/100; ninguna serie es comparable sin aclarar la edición."
+        "text": "Porque miden objetos y ediciones distintas: el 73% es uso declarado alguna vez en 2025; el 31,20/100 es madurez del ecosistema en el ILIA 2025. El WIN 2026 mide 79% y el ILIA 2026 mide 32,6/100; ninguna serie es comparable sin aclarar la edición."
       }
     },
     {
