@@ -1,0 +1,494 @@
+# Manifiesto de cierre long-form. Generado por scripts/build_cierres.py.
+# estado: completo | parcial | legacy. No inventa artefactos.
+# research_*/ es local y no se versiona; este manifiesto es la evidencia versionada.
+
+cierres:
+- slug: 2026-05-13-ciberhumanidad
+  research_dir: null
+  estado: legacy
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Sin carpeta de investigación identificable o carpeta vacía; exige cierre
+    resumido antes de una nueva edición.
+  last_modified_at: 2026-08-15
+- slug: 2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo
+  research_dir: null
+  estado: legacy
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Sin carpeta de investigación identificable o carpeta vacía; exige cierre
+    resumido antes de una nueva edición.
+  last_modified_at: 2026-08-15
+- slug: 2026-05-16-peter-thiel-paraguay-experimento
+  research_dir: null
+  estado: legacy
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Sin carpeta de investigación identificable o carpeta vacía; exige cierre
+    resumido antes de una nueva edición.
+  last_modified_at: 2026-08-15
+- slug: 2026-05-18-tokenizacion-del-agro-paraguay
+  research_dir: research_tokenizacion_agro
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-05-27-apertura-sector-electrico-privado-paraguay
+  research_dir: research_apertura_electrica
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-23
+- slug: 2026-05-27-ia-cuesta-mas-que-humanos-burbuja
+  research_dir: research_ai_bubble
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-05-28-magnifica-humanitas-enciclica-ia
+  research_dir: research_magnifica_humanitas
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-23
+- slug: 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026
+  research_dir: research_futbol
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo
+  research_dir: research_yguazu_digital
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-23
+- slug: 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia
+  research_dir: research_anotacion_datos
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-01-de-la-soja-al-silicio-matriz-exportadora-paraguay
+  research_dir: research_soja_silicio
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-23
+- slug: 2026-07-07-criptomineria-paraguay-energia-barata
+  research_dir: research_criptomineria-paraguay-energia-barata
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-14
+- slug: 2026-07-07-ley-proteccion-datos-paraguay-ia
+  research_dir: research_ley_proteccion_datos
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-08-red-electrica-paraguay-ia
+  research_dir: research_red-electrica-paraguay-ia
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-14
+- slug: 2026-07-09-educacion-tech-paraguay-ia
+  research_dir: research_educacion_tech
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-09-paraguay-china-taiwan-geopolitica-ia
+  research_dir: research_china_taiwan
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-10-fintech-paraguay-ecosistema
+  research_dir: research_fintech
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-10-que-es-un-data-center-paraguay-ia
+  research_dir: research_que-es-un-data-center-paraguay-ia
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-10-20
+- slug: 2026-07-10-talento-tech-paraguay-ia
+  research_dir: research_talento_tech
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-13-agro-40-paraguay-ia
+  research_dir: research_agro_40
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-14-semiconductores-taiwan-paraguay
+  research_dir: research_semiconductor
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-14-startups-ia-paraguay
+  research_dir: research_startups_ia
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-15-starlink-paraguay-conectividad
+  research_dir: research_starlink
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-16-gobierno-digital-paraguay
+  research_dir: null
+  estado: legacy
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Sin carpeta de investigación identificable o carpeta vacía; exige cierre
+    resumido antes de una nueva edición.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-16-ia-periodismo-paraguay
+  research_dir: research_ai_journalism_2026
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-16-ia-salud-paraguay
+  research_dir: research_ai_health_latam
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-16-ia-soberana-paraguay
+  research_dir: research_ia-soberana-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-23
+- slug: 2026-07-17-ciberseguridad-paraguay
+  research_dir: research_paraguay_cyber
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-17-ia-corrupcion-paraguay
+  research_dir: research_ai_corruption
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-17-itaipu-2027-energia-paraguay
+  research_dir: research_itaipu-2027-energia-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-16
+- slug: 2026-07-17-smart-cities-asuncion-paraguay
+  research_dir: research_asuncion
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-21-ia-justicia-paraguay
+  research_dir: research_ia-justicia
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-24-ecommerce-logistica-paraguay
+  research_dir: research_ecommerce
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-25-cadena-valor-data-center
+  research_dir: research_cadena-valor-data-center
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-23
+- slug: 2026-07-27-hidrogeno-verde-paraguay
+  research_dir: research_hidrogeno-verde-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-23
+- slug: 2026-07-29-guarani-ia
+  research_dir: research_guarani
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-07-31-silicon-valley-cono-sur-paraguay
+  research_dir: research_silicon-valley-cono-sur-paraguay
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-23
+- slug: 2026-08-01-modelo-itaipu-gobernanza-ia
+  research_dir: research_itaipu
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-15
+- slug: 2026-08-03-energia-renovable-cambio-climatico-paraguay
+  research_dir: research_energia_renovable
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-23
+- slug: 2026-08-04-impacto-local-data-center-paraguay
+  research_dir: research_impacto-local-data-center-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-16
+- slug: 2026-08-05-paraguay-2040-futuro-datos
+  research_dir: research_paraguay-2040-futuro-datos
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-23
+- slug: 2026-08-12-mesa-energetica-pen-2050-paraguay
+  research_dir: research_mesa-energetica-pen-2050
+  estado: parcial
+  faltantes:
+  - gap_report.md
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-18
+- slug: 2026-08-19-ente-regulador-energia
+  research_dir: research_ente-regulador
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-19
+- slug: 2026-08-19-ministerio-energia-mineria-hidrocarburos
+  research_dir: research_ministerio-mmeh
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-19
+- slug: 2026-08-19-modelo-institucional-psr-sector-electrico
+  research_dir: research_modelo-institucional-psr
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-19
+- slug: 2026-08-20-estudio-ceare-tarifa-paraguay
+  research_dir: research_estudio-ceare
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-08-20
+- slug: 2026-08-28-adata-minga-guazu-memorias-semiconductores
+  research_dir: research_adata-minga-guazu-memorias-semiconductores
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-23
+- slug: 2026-09-03-contenido-basura-agentes-ia
+  research_dir: research_contenido-basura-agentes-ia
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-03
+- slug: 2026-09-16-los-contratos-secretos-de-ande
+  research_dir: research_contratos_ande
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-16
+- slug: 2026-09-21-tigo-data-center-tier-iii-paraguay
+  research_dir: research_tigo-data-center-tier-iii-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-23
+- slug: 2026-09-23-energia-nuclear-paraguay-eeuu
+  research_dir: research_nuclear
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-23
+- slug: 2026-09-25-paraguay-investor-pass-residencia-inversores
+  research_dir: research_investor_pass
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-25
+- slug: 2026-09-26-cervepar-ia-algoritmo-vende-humano-decide
+  research_dir: research_cervepar
+  estado: parcial
+  faltantes:
+  - spotcheck.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-09-26
+- slug: 2026-09-30-araico-supercomputadora-yguazu-paraguay
+  research_dir: research_araico-supercomputadora-yguazu-paraguay
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-10-02
+- slug: 2026-10-02-atome-ande-salida-paraguay
+  research_dir: research_atome-ande-salida-paraguay
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-10-02
+- slug: 2026-10-09-brecha-triple-jovenes-paraguayos
+  research_dir: research_brecha-triple-jovenes-paraguayos
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-10-09
+- slug: 2026-10-15-5g-segunda-subasta-paraguay
+  research_dir: research_5g-segunda-subasta-paraguay
+  estado: parcial
+  faltantes:
+  - research_plan.md
+  - gap_report.md
+  - spotcheck.md
+  - findings_*.md
+  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  last_modified_at: 2026-10-15
+- slug: 2026-10-16-sip-pagos-instantaneos-transfronterizos-pix
+  research_dir: research_sip-pagos-instantaneos-transfronterizos-pix
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-10-16
+- slug: 2026-10-20-qr-hub-paraguay
+  research_dir: research_qr-hub-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-10-20
+- slug: 2026-10-25-inteligencia-alquiler-ia-soledad-dependencia
+  research_dir: research_inteligencia-alquiler-ia-soledad-dependencia
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-10-26
+- slug: 2026-11-13-que-datos-tuyos-tenia-ueno
+  research_dir: research_que-datos-tuyos-tenia-ueno
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-16
+- slug: 2026-11-16-compra-publica-innovacion-paraguay
+  research_dir: research_compra-publica-innovacion-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-17
+- slug: 2026-11-17-cifras-adopcion-ia-paraguay
+  research_dir: research_cifras-adopcion-ia-paraguay
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-23

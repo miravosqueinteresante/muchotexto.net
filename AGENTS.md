@@ -95,7 +95,7 @@ El agente de verificación hará lo siguiente automáticamente:
 Todo esto se ejecuta **y se verifica con salida real**, no de memoria. Son los pasos que históricamente se saltaron por "dejarlos para el final":
 
 1. **Fact-check independiente (Compuerta B) — BLOQUEANTE**: antes del commit, desplegar un agente verificador independiente (Paso 2) que lea el artículo párrafo por párrafo contra las fuentes descargadas (`fetch_sources.py`, Paso 0). El informe (TRUE/PARTIAL/FALSE/UNVERIFIABLE) se guarda en `research_*/`. **Sin informe limpio de FALSE, no se commitea.** No confundir con `validate_publish`, que solo chequea *formato*, no *verdad*. (Error histórico: el #58 se publicó saltando este paso; el fact-check post-commit encontró 2 imprecisiones que habrían entrado en el commit original.)
-2. **Formato de fuentes (§5.1)**: cada entrada de "Fuentes" apunta a la **URL del artículo concreto**, no a la homepage del medio. `validate_publish.py` marca warning si detecta una homepage — si aparece, corregir la URL, no ignorarlo. Excepción legítima: el sitio oficial de una entidad cuando su página principal ES la fuente primaria.
+2. **Formato de fuentes (§5.1)**: cada entrada de "Fuentes" apunta a la **URL del artículo concreto**, no a la homepage del medio. La política es **error bloqueante**; hasta que la Fase 1 lo implemente, `validate_publish.py` lo advierte. Si aparece, corregir la URL, no ignorarlo. Excepción legítima: el sitio oficial de una entidad cuando su página principal ES la fuente primaria.
 3. **Atribución de cada fuente/entrevista**: toda cita o mención de un medio/entrevista tiene una **URL específica verificada**. Una etiqueta semilla (nombre de una radio, hashtag, medio sin URL) NO es fuente hasta que una URL concreta la verifique. Si no se encuentra la URL, la cita se elimina o se reatribuye al medio que sí la publicó.
 4. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot incluido en `scripts/url_403_allowlist.txt`). Un 403 fuera de la allowlist bloquea; ninguna fuente 404.
 5. **`validate_publish`**: sin warnings bloqueantes (fuentes, superlativos, meta, FAQ, links internos) **y con los artefactos de cierre presentes**: `research_[tema]/` con `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md`. El gate `check_cierre` bloquea el commit si falta alguno — los pasos de verificación se demuestran con artefactos, no dependen de la disciplina de nadie. El gate de enlaces exige **2 enlaces internos contextuales como mínimo, además de la pilar**; un path suelto a `validate_publish.py` ya no pasa en silencio (se trata como `--check`). La cobertura del observatorio se declara en `_data/observatorio.yml`: cada superficie debe ser `updated` (con la URL del artículo) o `n/a` (con motivo); `check_observatorio.py` bloquea si falta la entrada, si una `updated` no contiene la URL o si una `n/a` no explica por qué. Si el artículo declara `entidades: [slug]` en el front matter, `entidades` no puede quedar en `n/a`: el gate exige `updated` y que la página de entidad contenga la URL. Para auditar o backfillear artículos anteriores: `python scripts/audit_observatorio_coverage.py` (read-only) y `python scripts/backfill_observatorio.py --apply` (genera solo entradas faltantes desde evidencia real).
@@ -168,13 +168,21 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 
 ## Política editorial de IA (alineada con como-trabajamos.markdown)
 
-- La IA es asistente, nunca autor final. Toda publicación requiere supervisión editorial humana.
+- La IA es asistente en los artículos long-form: el editor humano decide, verifica y firma antes de publicar.
 - **Artículos long-form**: si la IA intervino de forma significativa en investigación o redacción, el artículo lleva al pie la fórmula: "Artículo elaborado con la asistencia de inteligencia artificial y supervisado por el editor humano de muchotexto.net." Si el uso incidió en contenido factual, indicar qué parte del proceso fue asistido.
-- Pulso y Editorial ya se marcan como generados por IA con el modelo nombrado.
+- **Pulso y Editorial**: se generan y publican automáticamente con el modelo nombrado. La revisión humana es **posterior el mismo día**; no se presentan como “supervisadas antes de publicar”. Si se detecta un error, se corrige o se retira. El FAQ automático sigue la misma lógica: se genera desde el texto y se revisa después.
+
+### Política de cierre long-form (decisión 24-nov-2026)
+
+- **Artefactos crudos:** `research_*/` sigue siendo local y no se versiona (incluye `sources/` con material descargado). Lo que se versiona es un manifiesto de cierre `_data/cierres.yml` con: artículo, `research_dir`, estado (`completo`/`parcial`/`legacy`), fecha y faltantes. Se genera con `python scripts/build_cierres.py`; CI valida cobertura con `python scripts/test_cierres.py`. Los `findings` crudos no se publican.
+- **Legacy:** 17 análisis tienen cierre exacto y completo; 33 tienen carpeta alias/parcial; 13 no tienen carpeta identificable. No se inventan artefactos retroactivos. Los parciales se backfillean con `gap_report.md` y `spotcheck.md`; los 13 se marcan `legacy` con motivo y exigen un cierre resumido antes de una nueva edición.
+- **Fuentes:** 404 y URLs de homepage son errores bloqueantes. Excepción: homepage oficial cuando esa página ES la fuente primaria (lista explícita de allowlist). Mientras la Fase 1 no esté implementada, `validate_publish` los advierte; la política ya no los considera aceptables.
+- **Alcance del gate:** el cierre y la cobertura del observatorio se exigen a cualquier artículo long-form que se modifique, no solo a los nuevos. Los artículos `legacy` pueden publicar una edición con un cierre resumido y una razón explícita.
+- **Automatizaciones:** Pulso/Editorial no requieren aprobación previa; FAQ no requiere aprobación previa si solo agrega schema derivado del texto. Cualquier cambio de prosa generado por un bot sí requiere revisión humana antes de publicar.
 - **Prohibido**: ingresar información confidencial, datos personales de fuentes o borradores de contenidos inéditos en herramientas de IA comerciales. Solo herramientas autorizadas (listadas en como-trabajamos.markdown).
 - **Política de revisión**: revisar esta política cada 90 días o al incorporar un modelo/herramienta nueva.
 
-**Recordatorio de mantenimiento:** próxima revisión de la política de IA: 13 de noviembre de 2026.
+**Recordatorio de mantenimiento:** próxima revisión de la política de IA: 22 de febrero de 2027.
 
 ## Conteos canónicos y documentos locales
 
