@@ -27,7 +27,7 @@ Esto es lo que pasó. En diciembre de 2025, Uber implementó Claude Code — el 
 
 El problema es que Claude Code no se factura por usuario, sino por consumo de tokens. Un ingeniero que corre un agente contra un repositorio moderado cuesta ~$500 al mes. Uno que corre múltiples agentes en paralelo, refactorizando codebases completos, puede llegar a $2.000 mensuales. El propio Naga gastó $1.200 en una sesión de demostración de dos horas. Multiplicado por 5.000 ingenieros, la cuenta mensual oscila entre $2.5 y $10 millones. En cuatro meses, eso son entre $10 y $40 millones. El presupuesto de un año desapareció en un trimestre.
 
-Pero la historia no terminó ahí. Semanas después, el presidente de Uber, Andrew Macdonald, dio una entrevista a [Rapid Response](https://www.fastcompany.com/91547368/ubers-andrew-macdonald-on-what-americas-economy-looks-like-from-the-drivers-seat) donde dijo algo todavía más inquietante: la empresa no puede trazar una línea clara entre el consumo de tokens y las funcionalidades entregadas a los usuarios. *"Ese vínculo no existe todavía"*, admitió. El CEO Dara Khosrowshahi había planteado la estrategia como una sustitución directa — menos humanos, más infraestructura de IA — pero Macdonald ahora cuestiona si ese trade-off se puede defender sin métricas de impacto.
+Pero la historia no terminó ahí. Semanas después, el director de operaciones (COO) de Uber, Andrew Macdonald, dio una entrevista a [Rapid Response](https://www.fastcompany.com/91547368/ubers-andrew-macdonald-on-what-americas-economy-looks-like-from-the-drivers-seat) donde dijo algo todavía más inquietante: la empresa no puede trazar una línea clara entre el consumo de tokens y las funcionalidades entregadas a los usuarios. *"Ese vínculo no existe todavía"* (traducción propia), admitió. El CEO Dara Khosrowshahi había planteado la estrategia como una sustitución directa — menos humanos, más infraestructura de IA — pero Macdonald ahora cuestiona si ese trade-off se puede defender sin métricas de impacto.
 
 El caso Uber no es un fracaso. Es una advertencia sobre lo que pasa cuando una herramienta que funciona bien encuentra un modelo de precios que no fue diseñado para el uso que los ingenieros le dan.
 
@@ -49,7 +49,7 @@ El CEO de NVIDIA, Jensen Huang, dijo recientemente que los CEOs que culpan a la 
 
 ## 3. Starbucks: cuando la IA no distingue los tipos de leche
 
-En septiembre de 2025, Starbucks lanzó "Automated Counting", un sistema basado en visión computarizada desarrollado por NomadGo. Los baristas usarían tablets con cámaras y LIDAR (detección por luz y distancia) para escanear estantes de leches, jarabes y otros ingredientes. El sistema, según el comunicado oficial, contaría el inventario ocho veces más rápido que el método manual, con un 99% de precisión, y permitiría a los empleados *"pasar más tiempo haciendo café y conectándose con los clientes"*.
+En septiembre de 2025, Starbucks lanzó "Automated Counting", un sistema basado en visión computarizada desarrollado por NomadGo. Los baristas usarían tablets con cámaras y LIDAR (detección por luz y distancia) para escanear estantes de leches, jarabes y otros ingredientes. El sistema permitiría a los empleados *"pasar más tiempo haciendo café y conectándose con los clientes"* (traducción propia), según el comunicado oficial.
 
 Nueve meses después, [Reuters](https://www.aol.com/articles/exclusive-starbucks-scraps-ai-inventory-185730000.html) reveló que Starbucks estaba retirando el sistema de todas sus más de 11.000 tiendas en Norteamérica. Un newsletter interno fechado el 19 de mayo de 2026 decía: *"A partir de hoy, Automated Counting será retirado. Los componentes de bebidas y la leche se contarán de la misma manera que las otras categorías de inventario."* Es decir, a mano.
 
@@ -63,7 +63,7 @@ El caso Starbucks ilustra una lección que se repite en múltiples industrias. L
 
 ## 4. NVIDIA: el vendedor de palas admite que la fiebre del oro es cara
 
-En abril de 2026, Bryan Catanzaro, vicepresidente de Applied Deep Learning de NVIDIA, dijo a Axios: *"Para mi equipo, el costo del cómputo está muy por encima del costo de los empleados."*
+En abril de 2026, Bryan Catanzaro, vicepresidente de Applied Deep Learning de NVIDIA, dijo a Axios: *"Para mi equipo, el costo del cómputo está muy por encima del costo de los empleados."* (traducción propia)
 
 La frase merece contexto. Catanzaro lidera un equipo de investigación en deep learning dentro de NVIDIA — literalmente uno de los grupos más intensivos en GPUs del planeta. Sus cargas de trabajo (entrenamiento de modelos, pipelines de inferencia, pruebas iterativas) son inherentemente costosas en cómputo. No es una afirmación que pueda extrapolarse a toda la economía: el equipo de Catanzaro vive en el extremo más intensivo en cómputo del espectro de IA.
 
@@ -71,7 +71,7 @@ Pero el hecho de que provenga del principal vendedor de la infraestructura de IA
 
 Un [estudio del MIT de 2024](https://www.csail.mit.edu/news/rethinking-ais-impact-mit-csail-study-reveals-economic-limits-job-automation) respalda esta visión. Analizando 1.000 categorías de tareas visuales automatizables, los investigadores encontraron que solo el 23% eran económicamente viables para reemplazo por IA a los costos actuales. En el 77% restante, los humanos seguían siendo más baratos.
 
-Mes y medio después, el CEO de NVIDIA, Jensen Huang, contradijo implícitamente a su propio vicepresidente. En una entrevista con [Channel NewsAsia](https://www.channelnewsasia.com/shorts/narrative-connects-ai-job-loss-too-lazy-nvidia-ceo-jensen-huang-6139891), Huang dijo que los CEOs que vinculan la IA con despidos están siendo *"flojos"* y usando la tecnología para *"sonar inteligentes"*. *"La IA acaba de llegar. ¿Cómo es posible que ya estén perdiendo empleos?"*, preguntó.
+Mes y medio después, el CEO de NVIDIA, Jensen Huang, contradijo implícitamente a su propio vicepresidente. En una entrevista con [Channel NewsAsia](https://www.channelnewsasia.com/shorts/narrative-connects-ai-job-loss-too-lazy-nvidia-ceo-jensen-huang-6139891), Huang dijo que los CEOs que vinculan la IA con despidos están siendo *"flojos"* (traducción propia).
 
 La contradicción entre Catanzaro y Huang no es una hipocresía. Es la tensión natural entre la realidad operativa de la IA (es cara) y la necesidad comercial de venderla (va a ser más barata). Ambas cosas pueden ser ciertas en diferentes horizontes de tiempo.
 
@@ -89,7 +89,7 @@ S&P Global Market Intelligence documentó que el [42% de las empresas](https://w
 
 Y Gartner, la consultora que inventó el Hype Cycle, colocó a la IA generativa explícitamente en el ["valle de la desilusión" (trough of disillusionment)](https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026). Solo el 28% de los proyectos de infraestructura de IA entregan completamente contra su caso de negocio (el 72% restante no cumple lo prometido), y el 25% del presupuesto planificado para 2026 se deslizará a 2027.
 
-Klarna, la abanderada del reemplazo laboral, comenzó a [recontratar agentes humanos](https://officechai.com/ai/how-uber-microsoft-klarna-and-others-are-pulling-back-from-ai/) después de que la satisfacción del cliente cayera 22%. Su CEO admitió: *"Nos enfocamos demasiado en eficiencia y costo. El resultado fue menor calidad."* El Commonwealth Bank of Australia reemplazó 45 agentes con un bot de voz y [revirtió la decisión](https://officechai.com/ai/how-uber-microsoft-klarna-and-others-are-pulling-back-from-ai/) un mes después, disculpándose y ofreciendo salarios caídos.
+Klarna, la abanderada del reemplazo laboral, comenzó a [recontratar agentes humanos](https://officechai.com/ai/how-uber-microsoft-klarna-and-others-are-pulling-back-from-ai/) después de que la satisfacción del cliente cayera 22%. Su CEO admitió: *"Nos enfocamos demasiado en eficiencia y costo. El resultado fue menor calidad."* (traducción propia) El Commonwealth Bank of Australia reemplazó 45 agentes con un bot de voz y [revirtió la decisión](https://officechai.com/ai/how-uber-microsoft-klarna-and-others-are-pulling-back-from-ai/) un mes después, disculpándose y ofreciendo salarios caídos.
 
 El patrón no es que la IA no funcione. Es que funciona bien en laboratorio y mal en producción. Funciona bien en tareas acotadas y mal en flujos complejos. Funciona bien cuando el costo lo absorbe el VC y mal cuando lo tiene que pagar el CFO.
 
@@ -99,13 +99,13 @@ El patrón no es que la IA no funcione. Es que funciona bien en laboratorio y ma
 
 Detrás de estos retrocesos hay una realidad macroeconómica que merece atención.
 
-En 2026, las cuatro grandes empresas tecnológicas — Amazon, Google, Microsoft y Meta — gastarán un total de aproximadamente [$725 mil millones](https://bkobog.substack.com/p/the-ai-capex-supercycle-725-billion) en capex (gasto de capital: inversión en infraestructura física como centros de datos y GPUs), un 77% más que en 2025. Es la inversión en infraestructura privada más grande en un solo año en la historia de la humanidad. Amazon sola gastará más en capex que todo el sector eléctrico estadounidense.
+En 2026, las cuatro grandes empresas tecnológicas — Amazon, Google, Microsoft y Meta — gastarán un total de aproximadamente [$725 mil millones](https://bkobog.substack.com/p/the-ai-capex-supercycle-725-billion) en capex (gasto de capital: inversión en infraestructura física como centros de datos y GPUs), un 77% más que en 2025. Es, según ese análisis, la mayor inversión privada en infraestructura en un solo año. Amazon sola gastará más en capex que todo el sector eléctrico estadounidense.
 
-Goldman Sachs calcula que, para mantener los retornos actuales sobre el capital invertido, estas empresas necesitan generar aproximadamente [$1 billón en ingresos anuales adicionales](https://bkobog.substack.com/p/the-ai-capex-supercycle-725-billion) para 2027. Las estimaciones actuales de consenso proyectan $450 mil millones. Hay una brecha de 2x entre lo que el gasto requiere y lo que los analistas esperan.
+Goldman Sachs estima un capex combinado de USD 1,15 billones entre 2025 y 2027, según el mismo análisis. La pregunta es cuánto ingreso adicional tendría que generar esa inversión para justificarse.
 
-JPMorgan fue más específico: para que la inversión acumulada en IA genere un retorno del 10% para 2030, la industria necesitaría producir unos [$650 mil millones](https://www.cnbc.com/2026/05/21/ai-spending-expected-to-top-1-trillion-in-2-years-why-that-estimate-may-be-too-low.html) en ingresos anuales adicionales. Hoy, los ingresos de IA empresarial rondan los $90 mil millones. Cerrar esa brecha requiere un crecimiento compuesto cercano al 50% anual durante cinco años. Cloud computing, en su década de mayor expansión, creció al 40%.
+JPMorgan fue más específico: para que la inversión acumulada en IA genere un retorno del 10% para 2030, la industria necesitaría producir alrededor de [USD 1 billón](https://www.cnbc.com/2026/05/21/ai-spending-expected-to-top-1-trillion-in-2-years-why-that-estimate-may-be-too-low.html) en ingresos anuales de IA para 2030. Hoy, los ingresos de IA empresarial rondan los USD 90.000 millones. Cerrar esa brecha requiere un crecimiento compuesto de aproximadamente 61% anual durante cinco años. Cloud computing, en su década de mayor expansión, creció al 40%.
 
-El flujo de caja libre (free cash flow: el efectivo que queda después de gastos operativos y de capital) de los hiperescaladores (las megaprocesadoras tecnológicas: Amazon, Google, Microsoft, Meta) ya muestra la presión. Meta cayó de $26 mil millones en el primer trimestre de 2025 a $1.2 mil millones en el mismo período de 2026. Microsoft vio su margen de flujo de caja libre reducirse del 30% al 25%. La correlación entre los precios de las acciones de los cuatro gigantes — que históricamente se movían juntos — cayó del 80% al 20%, señal de que el mercado está empezando a diferenciar entre los que pueden monetizar la IA y los que no.
+El flujo de caja libre (free cash flow: el efectivo que queda después de gastos operativos y de capital) de los hiperescaladores (las megaprocesadoras tecnológicas: Amazon, Google, Microsoft, Meta) ya muestra la presión. Meta cayó de $26 mil millones en el primer trimestre de 2025 a $1.2 mil millones en el mismo período de 2026. Microsoft vio su margen de flujo de caja libre reducirse del 33% en 2023 a cerca del 25% en el primer trimestre de 2026. La correlación entre los precios de las acciones de los cuatro gigantes — que históricamente se movían juntos — cayó del 80% al 20%, señal de que el mercado está empezando a diferenciar entre los que pueden monetizar la IA y los que no.
 
 Nadie está diciendo que la IA colapsará como las punto-com. La diferencia clave es que este dinero se gastó en activos físicos (GPUs, data centers, redes eléctricas), no en acciones especulativas. Pero eso también significa que el dinero ya está gastado y no se recupera fácilmente. Los data centers no se mudan. Las GPUs se pueden revender, pero a pérdida si la demanda se contrae.
 
@@ -121,7 +121,7 @@ La infraestructura de IA está impulsando avances en salud (diagnóstico por im�
 
 El propio Gartner proyecta que los costos de inferencia para modelos de 1 billón de parámetros caerán más del [90% en los próximos cuatro años](https://www.gartner.com/en/newsroom/press-releases/2026-03-25-gartner-predicts-that-by-2030-performing-inference-on-an-llm-with-1-trillion-parameters-will-cost-genai-providers-over-90-percent-less-than-in-2025). Si esa proyección se cumple, la ecuación económica actual se invierte: lo que hoy es caro será barato. El problema es el timing — las empresas están gastando como si esa caída ya hubiera ocurrido.
 
-Los ingresos de IA empresarial crecen al 40% anual. El backlog de Google Cloud casi se duplicó trimestre contra trimestre. NVIDIA reporta ingresos récord cada trimestre. Hay demanda real, no solo hype. La pregunta es si la demanda puede crecer lo suficientemente rápido para justificar la montaña de capex que ya se comprometió.
+El backlog de Google Cloud casi se duplicó trimestre contra trimestre. NVIDIA reporta ingresos récord cada trimestre. Hay demanda real, no solo hype. La pregunta es si la demanda puede crecer lo suficientemente rápido para justificar la montaña de capex que ya se comprometió.
 
 ---
 
@@ -129,13 +129,13 @@ Los ingresos de IA empresarial crecen al 40% anual. El backlog de Google Cloud c
 
 Todo lo anterior importa poco si no se conecta con la realidad local. Porque Paraguay está apostando su recurso más valioso — la energía de Itaipú — a esta misma industria, justo cuando el mercado global muestra señales de corrección. [La apuesta tiene nombre concreto: Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), [en un país que recién está abriendo su sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}).
 
-Los proyectos anunciados son de una escala que el país nunca vio. X8 Cloud planea invertir entre [$10 y $50 mil millones](https://www.asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/) en 30 años para construir el centro de datos de IA "más grande de América Latina", con un target de 5 GW de capacidad. Yguazú Digital, la alianza con Taiwán, proyecta tres fases que culminan en una inversión de [$40 mil millones](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) — equivalente al PIB total de Paraguay — para consumir 1.000 MW. Hive Digital ya invirtió [$400 millones](https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier) y está expandiendo sus centros a 400 MW. Crusoe AI y Peter Thiel están explorando el país.
+Los proyectos anunciados son de una escala que el país nunca vio. X8 Cloud planea invertir entre [$10 y $50 mil millones](https://www.asunciontimes.com/paraguay-news/national-news/ai-data-centre-paraguay-a-historic-moment-for-the-nation/) en 30 años para construir el centro de datos de IA "más grande de América Latina", con un target de 5 GW de capacidad. Yguazú Digital, la alianza con Taiwán, proyecta tres fases que culminan en una inversión de [$40 mil millones](https://www.abc.com.py/economia/2026/05/13/centro-de-datos-soberano-con-taiwan-ministro-de-industria-habla-de-inversion-de-us-40000-millones/) — equivalente al PIB total de Paraguay — para consumir 1.000 MW. Hive Digital ya invirtió [$400 millones](https://www.bnamericas.com/en/interviews/paraguays-multimillion-ai-data-center-surge-latams-new-frontier) y opera unos 300 MW, con 100 MW adicionales de infraestructura en construcción. Crusoe AI y Peter Thiel están explorando el país.
 
-Paraguay tiene lo que la IA necesita: energía barata ($0.04/kWh), 100% renovable, y un gobierno dispuesto a recibirla. El ministro de Industria, Marco Riquelme, viajó a Silicon Valley y se reunió con ejecutivos de NVIDIA, OpenAI y Crusoe. El presidente Peña firmó acuerdos con Taiwán y recibió a Thiel en la residencia presidencial.
+Paraguay tiene lo que la IA necesita: energía barata ($0.04/kWh), 100% renovable, y un gobierno dispuesto a recibirla. El presidente Peña firmó acuerdos con Taiwán y recibió a Thiel en la residencia presidencial.
 
 Pero la lección de la criptominería debería darnos una pausa. Hoy, 41 empresas del Grupo de Consumo Intensivo Especial reservan 943,8 MW, equivalentes al 13.5% de la potencia paraguaya de Itaipú (7.000 MW), o 1.4 turbinas completas. Generan apenas [1.58 empleos por MW](https://www.abc.com.py/economia/2026/03/16/solo-cuatro-criptomineras-consumen-mas-que-una-turbina-de-itaipu/).
 
-Los centros de datos de IA tienen el mismo perfil: alta intensidad energética, baja creación de empleo. El proyecto insignia de Crusoe en Texas, Abilene, consumirá 1.2 GW y generará unos pocos cientos de empleos permanentes. Para un país que necesita empleo formal y diversificación económica, la ecuación no es automáticamente favorable.
+Los centros de datos de IA tienen el mismo perfil: alta intensidad energética, baja creación de empleo. El proyecto insignia de Crusoe en Abilene, Texas, opera a escala de gigavatios, con una planta de empleo mucho menor que su consumo energético. Para un país que necesita empleo formal y diversificación económica, la ecuación no es automáticamente favorable.
 
 Y luego está el timing. Paraguay está entrando al mercado de centros de datos de IA en 2026, exactamente cuando:
 - Gartner coloca a la IA en el "valle de la desilusión" (trough of disillusionment)
@@ -143,7 +143,7 @@ Y luego está el timing. Paraguay está entrando al mercado de centros de datos 
 - Las empresas están retrocediendo en proyectos de IA
 - La brecha entre capex e ingresos está en máximos históricos
 
-Los contratos que exigen las empresas como X8 Cloud son de 30 a 50 años. Si la burbuja de IA se desinfla en los próximos 5 años, Paraguay podría quedar atrapado en contratos desfavorables, con energía comprometida, infraestructura construida y beneficios que nunca llegaron. Los excedentes energéticos que el ministro Riquelme da por seguros podrían agotarse entre [2030 y 2033](https://www.abc.com.py/economia/2025/04/24/senado-pide-informe-urgente-a-la-ande-sobre-crisis-electrica-pronosticada-para-el-2029/) según el expresidente de ANDE, Pedro Ferreira. La UIP advierte sobre apagones recurrentes a partir de 2029.
+Los contratos que exigen las empresas como X8 Cloud son de 30 años. Si la burbuja de IA se desinfla en los próximos 5 años, Paraguay podría quedar atrapado en contratos desfavorables, con energía comprometida, infraestructura construida y beneficios que nunca llegaron. Los excedentes energéticos que el ministro Riquelme da por seguros podrían agotarse entre [2030 y 2033](https://www.abc.com.py/economia/2025/04/24/senado-pide-informe-urgente-a-la-ande-sobre-crisis-electrica-pronosticada-para-el-2029/) según el expresidente de ANDE, Pedro Ferreira. La UIP advierte sobre apagones recurrentes a partir de 2029.
 
 No se trata de decir que no a la inversión. Se trata de preguntar, antes de firmar contratos que comprometen recursos estratégicos por décadas, si el riesgo está siendo evaluado con la misma profundidad con la que se evalúa el beneficio potencial. Porque las empresas que negocian estos acuerdos tienen equipos de análisis de riesgo global. Paraguay tiene un Viceministerio, una ANDE con historial de corrupción, y una ley de protección de datos que no entra en vigor hasta noviembre de 2027.
 
@@ -157,7 +157,7 @@ Lo que estamos viendo no es el colapso de la IA. Es el fin de la fase experiment
 
 Para las grandes empresas tecnológicas, la pregunta es si los $725 mil millones en capex de 2026 generarán los $1 billón en ingresos que necesitan para justificarse. Para las startups y consultoras, la pregunta es si el mercado seguirá comprando la promesa del reemplazo laboral cuando los datos muestran que, por ahora, la IA cuesta más que el humano que reemplaza.
 
-Y para Paraguay, la pregunta es más urgente que para nadie. Porque cuando firmas un contrato a 50 años comprometiendo tu energía, no te puedes permitir el lujo de esperar a que la burbuja se desinfle para descubrir que llegaste tarde.
+Y para Paraguay, la pregunta es más urgente que para nadie. Porque cuando firmas un contrato a 30 años comprometiendo tu energía, no te puedes permitir el lujo de esperar a que la burbuja se desinfle para descubrir que llegaste tarde.
 
 La tecnología no necesita ser una burbuja para ser una mala inversión para un país con instituciones frágiles. Necesita apenas no cumplir las promesas con las que se vendió. Y en eso, la historia de la tecnología tiene un precedente que Paraguay debería considerar antes de firmar la próxima línea de transmisión.
 
@@ -235,7 +235,7 @@ Accedé al análisis Integral sobre inteligencia artificial en Paraguay en la [g
       "name": "¿Cuánto gastan las grandes tecnológicas en infraestructura de IA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Amazon, Google, Microsoft y Meta gastarán aproximadamente USD 725.000 millones en capex de IA en 2026, un 77% más que en 2025. Goldman Sachs calcula que necesitan generar USD 1 billón en ingresos anuales adicionales para 2027."
+        "text": "Amazon, Google, Microsoft y Meta gastarán aproximadamente USD 725.000 millones en capex de IA en 2026, un 77% más que en 2025. JPMorgan estima que la industria necesitaría generar alrededor de USD 1 billón en ingresos anuales de IA para 2030 para justificar un retorno del 10%."
       }
     }
   ]

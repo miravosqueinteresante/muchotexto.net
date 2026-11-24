@@ -56,13 +56,13 @@ Cada uno de estos modelos tiene problemas diferentes. Agrotoken depende de la ve
 
 Empecemos por los que funcionan, porque existen y vale la pena estudiarlos.
 
-**Agrotoken/Justoken** es, por lejos, el caso más grande y relevante para Paraguay. Nacido en Argentina en 2020, hoy opera en Brasil y tiene planes explícitos de expansión a Paraguay y Uruguay. Ha tokenizado más de 230.000 toneladas de soja, maíz y trigo. En la Bolsa de Brasil (B3) tiene dos fondos tokenizados — JSOY (soja, USD 100 millones en activos) y JSOY_OIL (aceite de soja, USD 481 millones) — que suman más de USD 581 millones. Tiene inversores como Bunge, Visa y el Banco do Brasil. Su modelo de infraestructura como servicio (Justoken) permite que terceros usen su plataforma para tokenizar sus propios activos. Es, sin discusión, el caso más maduro y relevante.
+**Agrotoken/Justoken** es, por lejos, el caso más grande y relevante para Paraguay. Nacido en Argentina en 2020, hoy opera en Brasil y tiene planes explícitos de expansión a Paraguay y Uruguay. Ha tokenizado más de 230.000 toneladas de soja, maíz y trigo. En la Bolsa de Brasil (B3) tiene dos fondos tokenizados — JSOY (soja, unos USD 142 millones en activos) y JSOY_OIL (aceite de soja, unos USD 425 millones) — que suman alrededor de USD 567 millones. Tiene socios como Bunge y Visa; el Banco do Brasil es partner de su plataforma Broto. Su modelo de infraestructura como servicio (Justoken) permite que terceros usen su plataforma para tokenizar sus propios activos. Es, sin discusión, el caso más maduro y relevante.
 
-**AgriDigital** en Australia es otro éxito, pero de un tipo diferente. No tokeniza para inversión, sino que digitaliza la cadena de suministro de granos. Procesa más de 5,2 millones de toneladas al año y ha supervisado más de USD 1.000 millones en transacciones. Blockchain le sirve para trazabilidad y pagos automáticos al transferir el título, no para emitir tokens de inversión. Es una muestra de que el mayor valor de blockchain en el agro quizás no está en la tokenización financiera, sino en la eficiencia operativa.
+**AgriDigital** en Australia es otro éxito, pero de un tipo diferente. No tokeniza para inversión, sino que digitaliza la cadena de suministro de granos. En su pico histórico, hacia 2019, procesaba más de 5,2 millones de toneladas al año y había supervisado más de USD 1.000 millones en transacciones. Blockchain le sirve para trazabilidad y pagos automáticos al transferir el título, no para emitir tokens de inversión. Es una muestra de que el mayor valor de blockchain en el agro quizás no está en la tokenización financiera, sino en la eficiencia operativa.
 
 **Farmway Technologies**, con sede en EE.UU. pero operaciones globales, tokenizó más de USD 250 millones en activos agrícolas. Su acuerdo más notable: USD 100 millones con el gobierno de Georgia para tokenizar 500 hectáreas de almendros. Tiene financiamiento de USAID y la Unión Europea.
 
-**Finka** en Suiza es el modelo de cumplimiento regulatorio: un token con ISIN, supervisado por FINMA, que representa ingresos de un rodeo ganadero real en Bolivia (el rancho La Pradera, de 3.200 hectáreas y más de 3.500 cabezas). Es un ejemplo relevante de cómo se puede estructurar legalmente un token agropecuario con estándares suizos, aunque el activo subyacente esté en otro país.
+**Finka** en Suiza es el modelo de cumplimiento regulatorio: un token con ISIN, supervisado por FINMA, que representa ingresos de un rodeo ganadero real en Bolivia (el rancho La Pradera, de 3.200 hectáreas y más de 4.300 cabezas). Es un ejemplo relevante de cómo se puede estructurar legalmente un token agropecuario con estándares suizos, aunque el activo subyacente esté en otro país.
 
 Ahora hablemos de los que no funcionaron.
 
@@ -86,11 +86,11 @@ Paraguay no parte de cero. De hecho, parte con ventajas que muchos países envid
 
 **Producción agropecuaria**. Paraguay es el 4° exportador mundial de soja y uno de los mayores exportadores de carne bovina del planeta. Los modelos de Agrotoken (soja, maíz, trigo) y PecuToken (ganado) se mapean directamente sobre la estructura productiva del país. No hay que adaptar nada: el activo subyacente ya existe en escala masiva.
 
-**Adopción digital**. El 94% de los paraguayos tiene teléfono móvil. El 84% usa internet. El sistema de pagos instantáneos (SPI/Sipap) procesa 28 millones de transacciones al mes. El 64% de los paraguayos ya paga con QR. La identidad electrónica (Identidad Electrónica del MITIC) está operativa con más de 400 trámites en línea. Paraguay no es Finlandia, pero tampoco es el desierto digital que muchos imaginan.
+**Adopción digital**. El 94% de los paraguayos tiene teléfono móvil. El 84% usa internet, según la encuesta Findex; otras mediciones, como DataReportal, lo ubican en 82,9%. El sistema de pagos instantáneos (SPI/Sipap) procesa 28 millones de transacciones al mes. El 64% de los paraguayos ya paga con QR. La identidad electrónica (Identidad Electrónica del MITIC) está operativa con más de 400 trámites en línea. Paraguay no es Finlandia, pero tampoco es el desierto digital que muchos imaginan.
 
 **Cultura de trueque**. El agro paraguayo ya usa mecanismos de intercambio no monetario: el productor entrega grano a cambio de insumos, el feedlot recibe animales a cambio de engorde. La tokenización es, en cierto sentido, una evolución digital de una práctica que ya existe.
 
-**Cooperativas**. Cerca de 600 cooperativas activas con 1,8 millones de socios (51% de la población económicamente activa). Son canales de distribución y confianza que ninguna plataforma tecnológica podría construir desde cero.
+**Cooperativas**. Unas 650 cooperativas activas con casi 2 millones de socios (INCOOP 2023), equivalentes al 51% de la población económicamente activa según DGRV. Son canales de distribución y confianza que ninguna plataforma tecnológica podría construir desde cero.
 
 ---
 
@@ -102,11 +102,11 @@ Acá está el problema: tener energía y una ley no es suficiente. Paraguay nece
 
 El nuevo Registro Único Nacional (RUN), lanzado en enero de 2026, reemplazó 150 años de registros en papel. Es un avance enorme. Pero el Banco Interamericano de Desarrollo, que financia el programa de modernización catastral (PR-L1061, USD 25 millones), pone un objetivo claro: llegar al 60% de cobertura de mapeo catastral rural. Eso significa que hoy, en 2026, probablemente menos del 60% de las tierras rurales tiene un registro digital claro y verificable.
 
-Y el 40% de la tierra agrícola está en manos del 0,07% de los propietarios. La desigualdad en la tenencia de la tierra en Paraguay no es un detalle: es la estructura misma del campo. Tokenizar sin resolver primero quién es dueño de qué es emitir tokens sobre disputas. El Banco Mundial lo dice claro en sus estudios: los programas de titulación son "necesarios pero no suficientes" para el desarrollo rural.
+Y el 40% de la tierra agrícola está en manos del 0,07% de los propietarios. La desigualdad en la tenencia de la tierra en Paraguay no es un detalle: es la estructura misma del campo. Tokenizar sin resolver primero quién es dueño de qué es emitir tokens sobre disputas. Estudios sobre titulación en Perú lo resumen así: los programas de titulación son "necesarios pero no suficientes" para el desarrollo rural.
 
 ### b. Educación financiera y digital
 
-El promedio de alfabetización financiera en los países de la OCDE es de 63 sobre 100, según la encuesta OECD/INFE 2023. Paraguay no alcanza ese nivel: los datos de CAF, que aplican la misma metodología, ubican al país en un rango de 50-60. En áreas rurales, donde la tokenización tendría que llegar primero para ser útil, la alfabetización financiera es inevitablemente menor.
+El promedio de alfabetización financiera en los países de la OCDE ronda los 60 sobre 100, según la encuesta OECD/INFE 2023. Paraguay no alcanza ese nivel: los datos de CAF, que aplican la misma metodología, ubican al país en un rango de 50-60. En áreas rurales, donde la tokenización tendría que llegar primero para ser útil, la alfabetización financiera es inevitablemente menor.
 
 No es que la gente sea "ignorante". Es que el sistema financiero tradicional nunca llegó a esos lugares. El 30% de los distritos con más de 2.000 habitantes no tiene presencia bancaria. El 17% de la población vive en zonas sin sucursales. Pedirle a un productor que entienda wallets, gas fees, smart contracts, oráculos y riesgos de depegging cuando nunca tuvo una cuenta bancaria no es realista.
 
@@ -118,9 +118,9 @@ La tokenización no funciona sin conectividad. O, mejor dicho, funciona pero exc
 
 ### d. Sandbox regulatorio
 
-Paraguay no tiene un sandbox regulatorio. Ni siquiera un "innovation hub" como los que operan en Brasil (BCB, desde 2020), México (CNBV, desde 2018), el Reino Unido (FCA, desde 2016) o los Emiratos Árabes Unidos (VARA, desde 2022). La Ley 7572 es de arquitectura gruesa; los reglamentos secundarios recién están en proceso. No hay un espacio controlado donde los proyectos puedan probar sin riesgo de violar normas que todavía no existen.
+Paraguay no tiene un sandbox regulatorio. Ni siquiera un "innovation hub" como los que operan en Brasil (BCB, desde 2020), México (CNBV, desde 2018), el Reino Unido (FCA, desde 2016) o los Emiratos Árabes Unidos (sandbox desde 2017; VARA, 2022). La Ley 7572 es de arquitectura gruesa; los reglamentos secundarios recién están en proceso. No hay un espacio controlado donde los proyectos puedan probar sin riesgo de violar normas que todavía no existen.
 
-El Reino Unido reportó que el 75% de los proyectos que entraron a su sandbox completaron las pruebas exitosamente; de esos, el 90% obtuvo autorización plena. El sandbox no es solo protección al inversor: es un mecanismo de aprendizaje regulatorio.
+El Reino Unido reportó que, en la primera cohorte de su sandbox, el 75% de los proyectos completó las pruebas; de esos, alrededor del 90% obtuvo autorización plena, según el reporte del FCA. El sandbox no es solo protección al inversor: es un mecanismo de aprendizaje regulatorio.
 
 ### e. Auditoría y seguridad
 
@@ -130,7 +130,7 @@ Suiza exige auditoría técnica de smart contracts desde su DLT Act de 2021. VAR
 
 ### f. Protección de datos
 
-La Ley de Protección de Datos Personales (Ley 7593/2025) se aprobó en noviembre de 2025. Está inspirada en el GDPR europeo y la LGPD brasileña. Tiene todos los elementos correctos: consentimiento explícito, derechos de acceso y cancelación, sanciones de hasta 10.000 salarios mínimos. Pero no entra en vigor hasta noviembre de 2027. La agencia reguladora aún no se ha creado. Los reglamentos secundarios no se han redactado.
+La Ley de Protección de Datos Personales (Ley 7593/2025) se aprobó en noviembre de 2025. Instala consentimiento explícito, derechos de acceso y cancelación y un régimen de sanciones. Pero no entra en vigor hasta noviembre de 2027. La agencia reguladora aún no se ha creado. Los reglamentos secundarios no se han redactado.
 
 Paraguay no tiene, hoy, ninguna ley de protección de datos efectiva. Una plataforma de tokenización que procese datos financieros de productores e inversores opera [en un país que está recibiendo inversiones billonarias en infraestructura de IA]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}) y [abriendo sectores estratégicos al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) sin un marco de protección de datos que funcione.
 
@@ -144,7 +144,7 @@ No se trata de decir "no a la tokenización". Se trata de hacerla bien. Acá va 
 
 **Prioridad 2: Sandbox regulatorio agro-token.** El BCP y la SIV deberían crear, antes de fin de 2026, un sandbox específico para tokenización agropecuaria. Máximo 10 proyectos, emisión limitada a USD 5 millones por proyecto, inversor minorista limitado a USD 10.000, enfriamiento de 7 días, reporte mensual. El modelo del FCA británico — 75% de éxito en primera cohorte — es el benchmark.
 
-**Prioridad 3: Educación vía cooperativas.** Las casi 600 cooperativas paraguayas activas con 1,8 millones de socios son el canal natural. No a través de apps ni cursos online, sino de extensionistas rurales, radio y módulos en el sistema de extensión del MAG. La alfabetización financiera digital no es un requisito previo: se construye paralelamente.
+**Prioridad 3: Educación vía cooperativas.** Las unas 650 cooperativas paraguayas activas con casi 2 millones de socios son el canal natural. No a través de apps ni cursos online, sino de extensionistas rurales, radio y módulos en el sistema de extensión del MAG. La alfabetización financiera digital no es un requisito previo: se construye paralelamente.
 
 **Prioridad 4: identidad digital rural.** La Identidad Electrónica del MITIC tiene que llegar al productor rural. Sin identidad verificable, el KYC/AML es imposible, y sin KYC/AML la plataforma no puede operar legalmente. La biometría móvil y el acuerdo con Starlink/Copaco para conectar escuelas rurales son el camino.
 
@@ -158,7 +158,7 @@ No se trata de decir "no a la tokenización". Se trata de hacerla bien. Acá va 
 
 ¿Quién vigila? La SIV/BCP no tiene experiencia en smart contracts. Los reglamentos secundarios recién empiezan en 2026. La auditoría técnica no es obligatoria. ¿Quién garantiza que el código hace lo que dice hacer?
 
-¿Qué pasa si el token se cae? USDR, una stablecoin respaldada por bienes raíces tokenizados, perdió el 50% de su valor en horas cuando los inversores pidieron rescates masivos y el colateral ilíquido no pudo venderse a tiempo. UST/LUNA destruyó USD 40.000 millones en 3 días. Los activos agrícolas son ilíquidos por definición — una cosecha no se vende en una hora. ¿Qué pasa cuando el pánico llega?
+¿Qué pasa si el token se cae? USDR, una stablecoin respaldada por bienes raíces tokenizados, perdió el 50% de su valor en horas cuando los inversores pidieron rescates masivos y el colateral ilíquido no pudo venderse a tiempo. UST/LUNA destruyó unos USD 40.000 millones en una semana. Los activos agrícolas son ilíquidos por definición — una cosecha no se vende en una hora. ¿Qué pasa cuando el pánico llega?
 
 ¿Y si se pierde la clave? Una clave privada perdida es un activo perdido permanentemente. No hay "olvidé mi contraseña". No hay chargeback. Mt. Gox perdió USD 450 millones por custodia inadecuada. Zoth perdió USD 8,4 millones por una sola clave de administrador comprometida. En un país donde el 30% de los distritos no tiene presencia bancaria, ¿quién va a custodiar las claves de los productores?
 
@@ -229,7 +229,7 @@ Revisá todos los análisis sobre tecnología en Paraguay en la [guía de inteli
       "name": "Que casos reales de tokenizacion agropecuaria existen?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Agrotoken ha tokenizado mas de 230.000 toneladas de soja, maiz y trigo por USD 581 millones. AgriDigital en Australia procesa 5,2 millones de toneladas al ano por USD 1.000 millones. En contraste, Agrocoin en Mexico fue un fraude con perdidas de USD 20 millones."
+        "text": "Agrotoken ha tokenizado mas de 230.000 toneladas de soja, maiz y trigo; sus fondos JSOY y JSOY_OIL suman alrededor de USD 567 millones. AgriDigital en Australia procesaba 5,2 millones de toneladas al ano en su pico historico. Agrocoin en Mexico fue senalado por la FCA britanica, sin cifra de perdidas confirmada."
       }
     },
     {

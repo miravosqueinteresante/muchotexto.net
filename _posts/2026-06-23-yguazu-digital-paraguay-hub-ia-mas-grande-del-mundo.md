@@ -25,7 +25,7 @@ El proyecto se estructura en tres etapas de escala creciente. Cada una represent
 
 **Fase II — Escala regional.** 100 megavatios. Inversión aproximada de 5.000 millones de dólares. Según Riquelme, el impacto económico equivaldría al 10% del PIB nacional. El consumo energético proyectado es inferior al 2% de la generación eléctrica del país. En esta fase se espera atraer capital privado mediante vehículos de propósito especial (SPV).
 
-**Fase III — Hiperscala.** 1 gigavatio (1.000 megavatios). Inversión estimada en 40.000 millones de dólares. Para ponerlo en perspectiva: el PIB de Paraguay en 2024 fue de aproximadamente 44.700 millones de dólares. La Fase III equivale a construir una economía entera. El requerimiento energético total del sistema sería de 1,5 gigavatios, equivalente a casi dos turbinas de Itaipú (cada una genera 700 megavatios) o aproximadamente siete veces la represa de Acaray (210 MW). Esta fase es, por ahora, aspiracional.
+**Fase III — Hiperscala.** 1 gigavatio (1.000 megavatios). Inversión estimada en 40.000 millones de dólares. Para ponerlo en perspectiva: el PIB de Paraguay en 2024 fue de aproximadamente 42.000 millones de dólares. La Fase III equivale a construir una economía entera. El requerimiento energético total del sistema sería de 1,5 gigavatios, equivalente a más de dos turbinas de Itaipú (cada una genera 700 megavatios) o alrededor de siete veces la represa de Acaray (210 MW). Esta fase es, por ahora, aspiracional.
 
 La estructura de propiedad será 50/50, modelada sobre la entidad binacional de Itaipú. Paraguay aporta el terreno y la energía. Taiwán aporta los equipos de cómputo de alto rendimiento —incluyendo chips NVIDIA— y garantiza la utilización de la capacidad de procesamiento desde el día uno. ANDE será un actor estratégico en el esquema organizativo.
 
@@ -35,19 +35,19 @@ La estructura de propiedad será 50/50, modelada sobre la entidad binacional de 
 
 ### La energía más barata de Latinoamérica
 
-Paraguay tiene el costo de electricidad industrial más bajo de la región: entre 30 y 45 dólares por megavatio-hora (CIER 2025). Para comparar, la tarifa industrial de Uruguay y Chile es varias veces mayor. Prácticamente toda esa energía es hidroeléctrica (99,998%). Itaipú, la represa más grande del mundo en generación, produce un promedio de 80 a 90 teravatios-hora por año. Paraguay consume alrededor de dos tercios de su mitad (29.419 GWh en 2025). El excedente —unos 15 a 16 teravatios-hora anuales, cerca del 35% de su generación— se exporta a Brasil y Argentina a precios que no reflejan su valor de mercado.
+Paraguay tiene el costo de electricidad industrial más bajo de la región: entre 30 y 45 dólares por megavatio-hora según estimaciones de mercado; la referencia de la CIER 2025 para la industria paraguaya es de 35 dólares por MWh. Para comparar, la tarifa industrial de Uruguay y Chile es varias veces mayor. Prácticamente toda esa energía es hidroeléctrica (99,998%). Itaipú, la represa más grande del mundo en generación, produce un promedio de 80 a 90 teravatios-hora por año. Paraguay consume alrededor de dos tercios de su mitad (29.419 GWh en 2025). El excedente —unos 15 a 16 teravatios-hora anuales, cerca del 35% de su generación— se exporta a Brasil y Argentina a precios que no reflejan su valor de mercado.
 
-Para un data center de inteligencia artificial, donde la energía representa entre el 40% y el 60% del costo operativo, esta diferencia es existencial. Un megavatio en Paraguay cuesta la mitad que en Brasil y un tercio que en Europa. En una industria donde cada punto porcentual de margen se disputa en centavos de dólar por kilovatio-hora, Paraguay tiene una ventaja estructural que ningún otro país de la región puede igualar.
+Para un data center de inteligencia artificial, donde la energía representa entre el 40% y el 60% del costo operativo, esta diferencia es existencial. Un megavatio en Paraguay cuesta una fracción de lo que cuesta en Brasil y en Europa. En una industria donde cada punto porcentual de margen se disputa en centavos de dólar por kilovatio-hora, Paraguay tiene una ventaja estructural que ningún otro país de la región puede igualar.
 
 ### Acceso directo a semiconductores avanzados
 
-Ningún otro proyecto de infraestructura de IA en Latinoamérica tiene lo que Yguazú Digital promete: acceso estructural a la cadena de suministro de chips de última generación. Taiwán no está vendiendo equipos a Paraguay. Está co-invirtiendo. Los chips NVIDIA llegan como aporte de capital de un socio que fabrica el 90% de los semiconductores avanzados del planeta.
+Ningún otro proyecto de infraestructura de IA en Latinoamérica tiene lo que Yguazú Digital promete: acceso estructural a la cadena de suministro de chips de última generación. Taiwán no está vendiendo equipos a Paraguay. Está co-invirtiendo. Los chips NVIDIA llegan como aporte de capital de Taiwán, el centro mundial de fabricación de semiconductores avanzados.
 
 Esto es inédito. Brasil, Chile y Uruguay tienen data centers de Google, Microsoft y AWS, pero ninguno tiene una línea directa con TSMC y la cadena de suministro de semiconductores. Si el proyecto se materializa aunque sea en su Fase I, Paraguay pasaría de ser un importador neto de tecnología a un socio en la producción de infraestructura de cómputo soberano.
 
 ### El timing del mercado
 
-La demanda global de cómputo para inteligencia artificial está en crecimiento explosivo. El mercado de data centers en Latinoamérica se valoró en 7.160 millones de dólares en 2024 y se proyecta que alcance los 14.300 millones para 2030. La región concentra el 6,6% del PIB mundial pero solo recibe el 1,28% de la inversión global en IA. Esa brecha es una ventana de oportunidad.
+La demanda global de cómputo para inteligencia artificial está en crecimiento explosivo. El mercado de data centers en Latinoamérica se valoró en 7.160 millones de dólares en 2024 y se proyecta que alcance los 14.300 millones para 2030. La región concentra el 6,6% del PIB mundial pero solo recibe el 1,12% de la inversión global en IA. Esa brecha es una ventana de oportunidad.
 
 En el primer semestre de 2025 se anunciaron 380.000 millones de dólares en compromisos de IA y data centers entre Brasil, Chile, México, Argentina y Paraguay. El pastel se está repartiendo ahora. Llegar temprano —con un socio que controla la cadena de chips— no es irrelevante.
 
@@ -63,11 +63,11 @@ El Fondo de Cooperación y Desarrollo Internacional de Taiwán (ICDF) ya contact
 
 ### La paradoja energética: producir no es entregar
 
-Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red de 835 kilómetros de líneas de 500 kV —concentradas entre Itaipú y el área metropolitana de Asunción, sin un anillo nacional— y pérdidas en distribución del 20% (2025). Para ponerlo en números: de cada 100 megavatios generados, unos 20 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
+Paraguay genera mucha más electricidad de la que consume. El problema no es la generación: es la transmisión. ANDE, la empresa estatal de electricidad, opera una red troncal de 500 kV concentrada entre Itaipú y el área metropolitana de Asunción, sin un anillo nacional, y pérdidas en distribución del 20% (2025). Para ponerlo en números: de cada 100 megavatios generados, unos 20 se pierden antes de llegar al consumidor. [La apertura del sector eléctrico al capital privado]({% post_url 2026-05-27-apertura-sector-electrico-privado-paraguay %}) promete inversiones, pero la red sigue siendo el cuello de botella.
 
-La Fase III del proyecto requeriría 1.500 megavatios —el equivalente a más de dos turbinas de Itaipú—, una carga que la red de transmisión actual, con 835 kilómetros de líneas de 500 kV concentradas en la región oriental, no podría soportar sin una expansión masiva. Sin inversión en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
+La Fase III del proyecto requeriría 1.500 megavatios —el equivalente a más de dos turbinas de Itaipú—, una carga que la red de transmisión actual, con su troncal de 500 kV concentrada en la región oriental, no podría soportar sin una expansión masiva. Sin inversión en infraestructura de transmisión —miles de millones de dólares, un horizonte de cinco a diez años— la energía existe en las turbinas de Itaipú pero no llega a los servidores.
 
-La renegociación de Itaipú —cuyo acuerdo tarifario vence el 1 de enero de 2027— es una variable crítica. Paraguay podría recuperar soberanía sobre su excedente energético y destinarlo a proyectos propios, o podría encontrarse con condiciones menos favorables. El resultado de esa negociación define si Yguazú Digital tiene la energía que necesita o si se queda en un Anuncio sin voltaje.
+La renegociación de Itaipú —cuyo acuerdo tarifario vence el 31 de diciembre de 2026— es una variable crítica. Paraguay podría recuperar soberanía sobre su excedente energético y destinarlo a proyectos propios, o podría encontrarse con condiciones menos favorables. El resultado de esa negociación define si Yguazú Digital tiene la energía que necesita o si se queda en un Anuncio sin voltaje.
 
 ### Sin cliente ancla, sin financiamiento
 
@@ -93,7 +93,7 @@ El riesgo para los hyperscalers es real. Google, Microsoft y Amazon tienen opera
 
 Paraguay no está solo en la carrera. El Índice Latinoamericano de Inteligencia Artificial (ILIA 2024) ni siquiera lo menciona en el top 3. Los líderes son Chile (70,56), Brasil (67,39) y Uruguay (62,32).
 
-Brasil tiene 188 data centers activos y 770 megavatios de capacidad instalada. ByteDance anunció 38.000 millones de dólares en infraestructura. Chile tiene presencia de los cuatro grandes hyperscalers y un plan nacional de data centers (PDATA) con 2.500 millones en inversiones. Uruguay ya aloja el data center de Google en Canelones, una inversión de más de 850 millones de dólares, y tiene acceso a cables submarinos. Paraguay tiene cero cables submarinos, cero hyperscalers confirmados y menos de 50 megavatios de data centers comerciales —excluyendo la minería de Bitcoin, donde HIVE opera unos 400 MW—.
+Brasil tiene 188 data centers activos y 770 megavatios de capacidad instalada. ByteDance anunció 38.000 millones de dólares en infraestructura. Chile tiene presencia de los cuatro grandes hyperscalers y un plan nacional de data centers (PDATA) con 2.500 millones en inversiones. Uruguay ya aloja el data center de Google en Canelones, una inversión de más de 850 millones de dólares, y tiene acceso a cables submarinos. Paraguay tiene cero cables submarinos, cero hyperscalers confirmados y menos de 50 megavatios de data centers comerciales —excluyendo la minería de Bitcoin, donde [HIVE opera unos 300 MW]({% post_url 2026-07-31-silicon-valley-cono-sur-paraguay %})—.
 
 La ventaja energética de Paraguay es real, pero la energía es solo uno de los factores de decisión para un data center. También importan la latencia, la conectividad internacional, la disponibilidad de talento, la estabilidad regulatoria y la cercanía a los mercados de consumo. En casi todas esas dimensiones, Paraguay está detrás.
 
@@ -144,7 +144,7 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
 - [DataGuidance — Paraguay Data Protection Law overview](https://www.dataguidance.com/jurisdiction/paraguay)
 - [Wikipedia — Itaipú Dam](https://en.wikipedia.org/wiki/Itaipu_Dam)
 - [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)
-- [Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://indicelatam.cl/)
+- [Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://indicelatam.cl/descargables/)
 
 <script type="application/ld+json">
 {
@@ -172,7 +172,7 @@ Este análisis es parte del [cluster de inteligencia artificial en Paraguay](/ia
       "name": "Cuales son los principales riesgos de Yguazú Digital?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La red de ANDE tiene 835 km de lineas de 500 kV concentradas en la region oriental y sin anillo nacional y perdidas del 20% (2025). Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwán, su unico aliado Sudaméricano."
+        "text": "La red de ANDE tiene una troncal de 500 kV concentrada en la region oriental y sin anillo nacional, con perdidas del 20% (2025). Sin cliente ancla no hay financiamiento. Paraguay no tiene cables submarinos. China presiona a Paraguay para romper con Taiwán, su unico aliado Sudaméricano."
       }
     }
   ]

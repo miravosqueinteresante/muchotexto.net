@@ -38,11 +38,9 @@ cierres:
   last_modified_at: 2026-08-15
 - slug: 2026-05-18-tokenizacion-del-agro-paraguay
   research_dir: research_tokenizacion_agro
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-05-27-apertura-sector-electrico-privado-paraguay
   research_dir: research_apertura_electrica
@@ -56,19 +54,15 @@ cierres:
   last_modified_at: 2026-09-23
 - slug: 2026-05-27-ia-cuesta-mas-que-humanos-burbuja
   research_dir: research_ai_bubble
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-05-28-magnifica-humanitas-enciclica-ia
   research_dir: research_magnifica_humanitas
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-23
 - slug: 2026-06-23-laboratorio-americano-ia-futbol-mundial-2026
   research_dir: research_futbol
@@ -81,11 +75,9 @@ cierres:
   last_modified_at: 2026-08-15
 - slug: 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo
   research_dir: research_yguazu_digital
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-09-23
 - slug: 2026-06-27-anotacion-datos-paraguay-hub-trabajo-digital-ia
   research_dir: research_anotacion_datos
