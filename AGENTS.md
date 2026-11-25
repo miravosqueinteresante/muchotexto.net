@@ -18,6 +18,8 @@ Si falla cualquiera, el artículo se descarta o se reformula. El listado "Próxi
 
 **Regla de corrección interna:** un error de estrategia, de un borrador o de una lista interna no es un tema público. Si el gancho del artículo es "corregimos nuestro error", no se publica; se corrige en `research_*`, en la estrategia o en este archivo.
 
+**Gate de proceso:** `python scripts/check_longform_process.py --staged` (hook) y `--range` (CI) exigen que todo post long-form nuevo o modificado tenga `brief.md` (solo nuevos), `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md` con contenido mínimo, y que pase `validate_publish`. No valida la verdad; valida que el proceso deje evidencia. Un post nuevo sin brief no se puede commitear ni desplegar.
+
 **Fact-check del outline:** antes de redactar 2.000 palabras, un agente independiente revisa la tesis y los claims centrales contra las fuentes primarias. Si no se sostienen, se cambia el enfoque o se mata el artículo.
 
 ### Paso 1: Escribir el borrador
@@ -111,6 +113,7 @@ Todo esto se ejecuta **y se verifica con salida real**, no de memoria. Son los p
 3. **Atribución de cada fuente/entrevista**: toda cita o mención de un medio/entrevista tiene una **URL específica verificada**. Una etiqueta semilla (nombre de una radio, hashtag, medio sin URL) NO es fuente hasta que una URL concreta la verifique. Si no se encuentra la URL, la cita se elimina o se reatribuye al medio que sí la publicó.
 4. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot incluido en `scripts/url_403_allowlist.txt`). Un 403 fuera de la allowlist queda como **warning revisable**; ninguna fuente 404/410.
 5. **`validate_publish`**: sin errores ni warnings bloqueantes (TL;DR, frontmatter, extensión, fuentes, superlativos, meta, FAQ, links internos) **y con los artefactos de cierre presentes**: `research_[tema]/` con `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md`. El gate `check_cierre` bloquea el commit si falta alguno — los pasos de verificación se demuestran con artefactos, no dependen de la disciplina de nadie. El gate de enlaces exige **2 enlaces internos contextuales como mínimo, además de la pilar**; un path suelto a `validate_publish.py` ya no pasa en silencio (se trata como `--check`). La cobertura del observatorio se declara en `_data/observatorio.yml`: cada superficie debe ser `updated` (con la URL del artículo) o `n/a` (con motivo); `check_observatorio.py` bloquea si falta la entrada, si una `updated` no contiene la URL o si una `n/a` no explica por qué. Si el artículo declara `entidades: [slug]` en el front matter, `entidades` no puede quedar en `n/a`: el gate exige `updated` y que la página de entidad contenga la URL. Para auditar o backfillear artículos anteriores: `python scripts/audit_observatorio_coverage.py` (read-only) y `python scripts/backfill_observatorio.py --apply` (genera solo entradas faltantes desde evidencia real).
+   - **Gate de proceso (hook + CI):** `check_longform_process.py` exige `brief.md` (nuevos), `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md` con contenido mínimo, y corre `validate_publish` sobre el post. En CI se aplica a los posts cambiados; no se puede omitir con `--no-verify` porque el deploy queda bloqueado.
 6. **`build_derived` + `audit_consistency`**: verdes.
 7. **Observatorio actualizado**: pilar enlaza el artículo, `llms.txt`, `entidades/` regeneradas si toca entidad (declarar `entidades: [slug]` y agregar el vínculo curado en `manual_articles`), `directorio/` si el artículo aporta una entrada nueva.
 8. **Registro local de estrategia (opcional, no gate)**: si el editor mantiene `estrategia-seo-unificada-muchotexto.md` al día, puede actualizar §3.2, §16, §17 y §19. No se exige para publicar: el contrato vinculante es este archivo y `validate_publish.py`.
@@ -215,7 +218,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 
 La página pilar usa el conteo dinámico de `con_pilar`; por eso puede diferir del total de análisis del observatorio. No hardcodear estos números en páginas ni artículos.
 
-`estrategia-seo-unificada-muchotexto.md` es un **documento local de referencia**. Está en `.gitignore`; no se commitea ni cuenta como entregable del repo. **Las reglas vinculantes de long-form son las de este archivo y las que ejecuta `validate_publish`; la estrategia no se lee en CI.** El hook local `.git/hooks/pre-commit` ejecuta `validate_publish` sobre posts staged y `check_observatorio --all`; los tests lentos quedan en CI.
+`estrategia-seo-unificada-muchotexto.md` es un **documento local de referencia**. Está en `.gitignore`; no se commitea ni cuenta como entregable del repo. **Las reglas vinculantes de long-form son las de este archivo y las que ejecuta `validate_publish`; la estrategia no se lee en CI.** El hook local `.git/hooks/pre-commit` ejecuta `validate_publish` sobre posts staged, `check_longform_process.py --staged` y `check_observatorio --all`; CI repite el gate de proceso sobre los posts cambiados y corre los tests lentos.
 
 ## Sistema visual y accesibilidad (25-nov-2026)
 
