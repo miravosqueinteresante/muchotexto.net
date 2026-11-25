@@ -98,6 +98,8 @@ exclude:
   - squirrel-audit-report-v5.md
   - scripts/
   - config/
+  - skills-lock.json
+  - .agents/
   # Investigación y planificación: interno, nunca se publica.
   - research_*
   - _planning/
