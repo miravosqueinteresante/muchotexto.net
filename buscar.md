@@ -7,10 +7,10 @@ sitemap: false
 ---
 
 <div class="search-form">
-  <input type="text" id="search-input" class="search-input" placeholder="Escribe para buscar..." autofocus>
+  <input type="search" id="search-input" class="search-input" placeholder="Escribe para buscar..." aria-label="Buscar en el sitio" autofocus>
 </div>
 
-<ul id="search-results" class="search-results"></ul>
+<ul id="search-results" class="search-results" aria-live="polite"></ul>
 
 <style>
 .search-input {

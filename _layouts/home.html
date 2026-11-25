@@ -73,7 +73,7 @@ layout: default
             {% when 'ia-paraguay' %}IA en Paraguay
             {% when 'analisis-ia' %}Análisis de IA
             {% when 'paraguay-futuro' %}Paraguay futuro
-            {% else %}{{ sector | capitalize }}
+            {% else %}{{ sector | replace: '-', ' ' | capitalize }}
           {% endcase %}
           &middot; {{ post.date | date: "%-d %b %Y" }}
         </p>
