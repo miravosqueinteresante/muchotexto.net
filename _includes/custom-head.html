@@ -1,7 +1,9 @@
 <meta name="google-site-verification" content="T1nXe5DPBuLiDoybPexnDnTdgd-jGC1_OVvGmpI6u-M" />
 <meta name="msvalidate.01" content="D33375E2D37A67073CF4A1F2DB1F005E" />
 
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://unpkg.com https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' https://www.google-analytics.com data:; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com; frame-src; form-action 'self';">
+<meta name="google-adsense-account" content="ca-pub-1746542023638578">
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://unpkg.com https://www.googletagmanager.com https://www.google-analytics.com https://www.googletagservices.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://securepubads.g.doubleclick.net https://tpc.googlesyndication.com https://www.google.com https://www.gstatic.com https://adservice.google.com https://fundingchoicesmessages.google.com 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' https://www.google-analytics.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://tpc.googlesyndication.com https://www.google.com https://www.gstatic.com https://*.adtrafficquality.google data:; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.googletagservices.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://securepubads.g.doubleclick.net https://tpc.googlesyndication.com https://www.google.com https://www.gstatic.com https://*.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://securepubads.g.doubleclick.net https://tpc.googlesyndication.com https://www.google.com https://fundingchoicesmessages.google.com; form-action 'self';">
 
 <!-- Google Consent Mode + GA4 -->
 <script>
@@ -23,6 +25,10 @@ gtag('config', 'G-LLZE5F9CB7', {
   'cookie_flags': 'SameSite=None;Secure'
 });
 </script>
+
+{% if page.categories contains 'articulos' %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense.client }}" crossorigin="anonymous"></script>
+{% endif %}
 
 <meta http-equiv="X-Frame-Options" content="DENY">
 

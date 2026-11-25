@@ -28,4 +28,4 @@ También acepto reportes de errores, sugerencias de mejora y correcciones factua
 
 ## Sobre la privacidad
 
-Este sitio utiliza Google Analytics con Consent Mode v2: las cookies de análisis están desactivadas por defecto y solo se activan si aceptás explícitamente el banner de cookies. No recolectamos datos personales, no usamos trackers de terceros más allá de GA4, y no compartimos información con nadie. La política completa está en la [página de privacidad](/privacidad/).
+Este sitio utiliza Google Analytics y Google AdSense con Consent Mode v2: las cookies de análisis y publicidad están desactivadas por defecto y solo se activan si aceptás explícitamente el banner de cookies. No recolectamos datos personales ni compartimos información con terceros fuera de Google. La política completa está en la [página de privacidad](/privacidad/).

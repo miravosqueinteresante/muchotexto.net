@@ -13,8 +13,8 @@
 <div id="cookie-banner" role="dialog" aria-label="Aviso de cookies">
   <div class="cookie-banner-content">
     <p>
-      Este sitio utiliza cookies de Google Analytics para entender cómo se usa y mejorar la experiencia.
-      No almacenamos información personal. Más información en nuestra
+      Este sitio utiliza cookies de Google Analytics y Google AdSense para analítica y publicidad.
+      Podés aceptar o rechazar las cookies no esenciales. Más información en nuestra
       <a href="{{ '/privacidad/' | relative_url }}">Política de Privacidad</a>.
     </p>
     <div class="cookie-banner-actions">
@@ -25,5 +25,5 @@
 </div>
 
 <script>
-(function(){var a="muchotexto_cookie_consent";function b(){return localStorage.getItem(a)}function c(d){localStorage.setItem(a,d)}function e(){var f=document.getElementById("cookie-banner");if(f)f.style.display="none"}function g(h){typeof gtag=="function"&&gtag("consent","update",{analytics_storage:h?"granted":"denied"})}var i=b();if(i==="accepted"){e();g(true)}else if(i==="rejected"){e();g(false)}else{document.addEventListener("DOMContentLoaded",function(){var j=document.getElementById("cookie-banner");if(j)j.style.display="block";document.getElementById("cookie-accept").addEventListener("click",function(){c("accepted");e();g(true)});document.getElementById("cookie-reject").addEventListener("click",function(){c("rejected");e();g(false)})})}})();
+(function(){var a="muchotexto_cookie_consent";function b(){return localStorage.getItem(a)}function c(d){localStorage.setItem(a,d)}function e(){var f=document.getElementById("cookie-banner");if(f)f.style.display="none"}function g(h){var v=h?"granted":"denied";typeof gtag=="function"&&gtag("consent","update",{analytics_storage:v,ad_storage:v,ad_user_data:v,ad_personalization:v})}var i=b();if(i==="accepted"){e();g(true)}else if(i==="rejected"){e();g(false)}else{document.addEventListener("DOMContentLoaded",function(){var j=document.getElementById("cookie-banner");if(j)j.style.display="block";document.getElementById("cookie-accept").addEventListener("click",function(){c("accepted");e();g(true)});document.getElementById("cookie-reject").addEventListener("click",function(){c("rejected");e();g(false)})})}})();
 </script>

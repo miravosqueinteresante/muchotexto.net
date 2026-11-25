@@ -802,3 +802,21 @@ a.pagination-item:hover {
     color: var(--oc-cyan-3, #3bc9db);
   }
 }
+
+.post-ad {
+  margin: 2.5rem 0;
+  padding: 1rem 0;
+  border-top: 1px solid var(--border-color, rgba(255,255,255,0.12));
+  border-bottom: 1px solid var(--border-color, rgba(255,255,255,0.12));
+  text-align: center;
+  min-height: 90px;
+}
+
+.post-ad-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-color-light, #aaa);
+}

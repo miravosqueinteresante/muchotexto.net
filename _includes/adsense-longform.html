@@ -1,0 +1,12 @@
+{% if site.adsense.slot and site.adsense.slot != "" %}
+<div class="post-ad" aria-label="Publicidad">
+  <span class="post-ad-label">Publicidad</span>
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ site.adsense.client }}"
+       data-ad-slot="{{ site.adsense.slot }}"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}
