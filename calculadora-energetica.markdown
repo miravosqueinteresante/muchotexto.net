@@ -44,7 +44,7 @@ last_modified_at: 2026-11-21
   font-size: 11px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -55,8 +55,8 @@ last_modified_at: 2026-11-21
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
-  box-shadow: 0 0 0 3px rgba(34,184,207,0.18);
+  background: var(--accent);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.18);
   animation: calc-pulse 2.4s ease-in-out infinite;
 }
 
@@ -70,8 +70,8 @@ last_modified_at: 2026-11-21
   display: flex;
   gap: 12px;
   align-items: flex-start;
-  background: linear-gradient(180deg, rgba(34,184,207,0.09), rgba(34,184,207,0.035));
-  border: 1px solid rgba(34,184,207,0.3);
+  background: linear-gradient(180deg, rgba(var(--accent-rgb), 0.09), rgba(var(--accent-rgb), 0.035));
+  border: 1px solid rgba(var(--accent-rgb), 0.3);
   border-radius: 10px;
   padding: 14px 16px;
   margin-bottom: var(--spacer-2);
@@ -79,7 +79,7 @@ last_modified_at: 2026-11-21
 
 .calc-alert-icon {
   font-size: 16px;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   line-height: 1;
   margin-top: 1px;
   flex: none;
@@ -88,7 +88,7 @@ last_modified_at: 2026-11-21
 .calc-alert-title {
   font-weight: 600;
   font-size: 13px;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   margin-bottom: 5px;
 }
 
@@ -99,13 +99,13 @@ last_modified_at: 2026-11-21
 }
 
 .calc-alert-text b {
-  color: var(--oc-cyan-3);
+  color: var(--accent-hover);
 }
 
 .calc-alert-text a {
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(34,184,207,0.35);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.35);
 }
 
 /* grid */
@@ -149,7 +149,7 @@ last_modified_at: 2026-11-21
   font-family: var(--code-font-family);
   font-size: 30px;
   font-weight: 600;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   margin-bottom: 6px;
 }
 
@@ -179,9 +179,9 @@ last_modified_at: 2026-11-21
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
+  background: var(--accent);
   border: 2px solid var(--oc-gray-9);
-  box-shadow: 0 0 0 3px rgba(34,184,207,0.22);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.22);
   cursor: pointer;
 }
 
@@ -189,9 +189,9 @@ last_modified_at: 2026-11-21
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
+  background: var(--accent);
   border: 2px solid var(--oc-gray-9);
-  box-shadow: 0 0 0 3px rgba(34,184,207,0.22);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.22);
   cursor: pointer;
 }
 
@@ -225,14 +225,14 @@ last_modified_at: 2026-11-21
 }
 
 .calc-preset-btn:hover {
-  border-color: var(--oc-cyan-4);
-  color: var(--oc-cyan-4);
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .calc-preset-btn.active {
-  background: rgba(34,184,207,0.12);
-  border-color: var(--oc-cyan-4);
-  color: var(--oc-cyan-4);
+  background: rgba(var(--accent-rgb), 0.12);
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 /* assumption */
@@ -252,14 +252,14 @@ last_modified_at: 2026-11-21
   margin-top: var(--spacer);
   padding: 12px 14px;
   border-radius: 8px;
-  background: rgba(34,184,207,0.06);
-  border: 1px solid rgba(34,184,207,0.15);
+  background: rgba(var(--accent-rgb), 0.06);
+  border: 1px solid rgba(var(--accent-rgb), 0.15);
 }
 
 .calc-howto-title {
   font-size: 11.5px;
   font-weight: 600;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   margin-bottom: 8px;
 }
 
@@ -296,7 +296,7 @@ last_modified_at: 2026-11-21
   font-family: var(--code-font-family);
   font-size: 20px;
   font-weight: 600;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
 }
 
 .calc-hl-l {
@@ -425,7 +425,7 @@ last_modified_at: 2026-11-21
 }
 
 .calc-narrative b {
-  color: var(--oc-cyan-4);
+  color: var(--accent);
 }
 
 /* panel note */
@@ -444,7 +444,7 @@ last_modified_at: 2026-11-21
 }
 
 .calc-panel-note a {
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
@@ -477,7 +477,7 @@ last_modified_at: 2026-11-21
 }
 
 .calc-intro strong {
-  color: var(--oc-cyan-4);
+  color: var(--accent);
 }
 
 .calc-intro a {
@@ -576,9 +576,9 @@ last_modified_at: 2026-11-21
 }
 
 .calc-sources p a {
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(34,184,207,0.35);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.35);
 }
 
 /* responsive */

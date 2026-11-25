@@ -106,7 +106,7 @@
 
       <canvas id="sim-chart" height="260" aria-label="Proyecci&oacute;n de MW de data centers y PIB per c&aacute;pita a 2040" role="img"></canvas>
       <div class="sim-legend">
-        <span><i style="background:var(--oc-cyan-4)"></i>MW de data centers instalados</span>
+        <span><i style="background:var(--accent)"></i>MW de data centers instalados</span>
         <span><i style="background:var(--oc-yellow-4)"></i>PIB per c&aacute;pita proyectado</span>
         <span><i style="background:var(--oc-red-4)"></i>Tasa de informalidad</span>
       </div>
@@ -261,7 +261,7 @@
 
     // ponytail: draw informalidad first (behind), then main lines on top
     plotLine(informalidad, infMin, infMax, 'rgba(250,82,82,0.55)', true);
-    plotLine(mw, mwMin, mwMax, '#22b8cf');
+    plotLine(mw, mwMin, mwMax, '#C08A4E');
     plotLine(pib, pibMin, pibMax, '#fab005');
   }
 
@@ -290,7 +290,7 @@
     if(score >= 0.66){
       return {
         label: 'Escenario A — Hub regional de c\u00F3mputo',
-        color: '#22b8cf',
+        color: '#C08A4E',
         text: 'Con las cinco palancas activadas, Paraguay diversifica su matriz antes de 2030, formaliza el empleo, regula con beneficio comunitario, forma talento t\u00E9cnico y construye infraestructura digital soberana. Las exportaciones de servicios digitales superan a la soja. El PIB per c\u00E1pita supera los USD 20.000.'
       };
     }

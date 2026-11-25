@@ -44,7 +44,7 @@ last_modified_at: 2026-08-07
   font-size: 11px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -55,8 +55,8 @@ last_modified_at: 2026-08-07
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
-  box-shadow: 0 0 0 3px rgba(34,184,207,0.18);
+  background: var(--accent);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.18);
   animation: sim-pulse 2.4s ease-in-out infinite;
 }
 
@@ -144,7 +144,7 @@ last_modified_at: 2026-08-07
 .sim-lever-val {
   font-family: var(--code-font-family);
   font-size: 12px;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   min-width: 30px;
   text-align: right;
 }
@@ -176,9 +176,9 @@ last_modified_at: 2026-08-07
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
+  background: var(--accent);
   border: 2px solid var(--oc-gray-9);
-  box-shadow: 0 0 0 3px rgba(34,184,207,0.22);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.22);
   cursor: pointer;
 }
 
@@ -186,9 +186,9 @@ last_modified_at: 2026-08-07
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
+  background: var(--accent);
   border: 2px solid var(--oc-gray-9);
-  box-shadow: 0 0 0 3px rgba(34,184,207,0.22);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.22);
   cursor: pointer;
 }
 

@@ -23,7 +23,7 @@ last_modified_at: 2026-09-18
   font-size: 11px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--oc-cyan-4);
+  color: var(--meta-color);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -34,7 +34,7 @@ last_modified_at: 2026-09-18
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
+  background: var(--meta-color);
   box-shadow: 0 0 0 3px rgba(34, 184, 207, 0.18);
   animation: grafo-pulse 2.4s ease-in-out infinite;
 }
@@ -74,7 +74,7 @@ last_modified_at: 2026-09-18
   flex: none;
 }
 
-.c-gobierno { background: #22b8cf; fill: #22b8cf; }
+.c-gobierno { background: var(--meta-color); fill: var(--meta-color); }
 .c-infraestructura { background: #4dabf7; fill: #4dabf7; }
 .c-empresa { background: #69db7c; fill: #69db7c; }
 .c-geopolitica { background: #ff6b6b; fill: #ff6b6b; }

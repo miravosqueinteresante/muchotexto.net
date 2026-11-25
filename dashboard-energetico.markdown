@@ -23,7 +23,7 @@ last_modified_at: 2026-11-23
   font-size: 11px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -34,8 +34,8 @@ last_modified_at: 2026-11-23
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
-  box-shadow: 0 0 0 3px rgba(34, 184, 207, 0.18);
+  background: var(--accent);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.18);
   animation: dash-pulse 2.4s ease-in-out infinite;
 }
 
@@ -75,7 +75,7 @@ last_modified_at: 2026-11-23
   font-family: var(--code-font-family);
   font-size: 22px;
   font-weight: 600;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   line-height: 1.1;
 }
 
@@ -131,7 +131,7 @@ last_modified_at: 2026-11-23
 
 .dash-bar-fill {
   height: 100%;
-  background: linear-gradient(90deg, var(--oc-cyan-6), var(--oc-cyan-4));
+  background: linear-gradient(90deg, var(--accent-hover), var(--accent));
   border-radius: 4px 0 0 4px;
   min-width: 2px;
 }
@@ -164,14 +164,14 @@ last_modified_at: 2026-11-23
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: var(--oc-cyan-4);
+  background: var(--accent);
   border: 2px solid var(--oc-gray-9);
 }
 
 .dash-tl-date {
   font-family: var(--code-font-family);
   font-size: 0.78em;
-  color: var(--oc-cyan-4);
+  color: var(--accent);
   font-weight: 600;
 }
 
@@ -205,12 +205,12 @@ last_modified_at: 2026-11-23
 
 .dash-table td:last-child {
   font-family: var(--code-font-family);
-  color: var(--oc-cyan-4);
+  color: var(--accent);
 }
 
 .dash-note {
-  background: rgba(34, 184, 207, 0.06);
-  border: 1px solid rgba(34, 184, 207, 0.18);
+  background: rgba(var(--accent-rgb), 0.06);
+  border: 1px solid rgba(var(--accent-rgb), 0.18);
   border-radius: 8px;
   padding: 12px 14px;
   margin-top: var(--spacer);
