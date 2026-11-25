@@ -51,6 +51,7 @@ def main():
     allowlist = load_allowlist()
     broken = []
     blocked = []
+    warned_403 = []
     for url in urls:
         status = check_url(url)
         if status == 200:
@@ -58,6 +59,9 @@ def main():
         elif status == 403 and is_allowed_403(url, allowlist):
             symbol = "403"
             blocked.append(url)
+        elif status == 403:
+            symbol = "403?"
+            warned_403.append(url)
         else:
             symbol = "!!"
             broken.append((url, status))
@@ -73,9 +77,13 @@ def main():
         print(f"\n{len(blocked)} URL(s) con 403 anti-bot aceptado por allowlist:")
         for url in blocked:
             print(f"  403: {url}")
-        print(f"\n{len(urls) - len(blocked)} URL(s) respondieron 200.")
-    else:
-        print(f"\nTodas las {len(urls)} URLs responden OK.")
+
+    if warned_403:
+        print(f"\n{len(warned_403)} URL(s) con 403 fuera de allowlist (revisar):")
+        for url in warned_403:
+            print(f"  403: {url}")
+
+    print(f"\n{len(urls) - len(blocked) - len(warned_403)} URL(s) respondieron 200.")
 
 if __name__ == "__main__":
     main()

@@ -23,7 +23,17 @@ Si falla cualquiera, el artículo se descarta o se reformula. El listado "Próxi
 ### Paso 1: Escribir el borrador
 Redactar el artículo normalmente. Las fuentes deben citarse al pie.
 
-**TL;DR obligatorio (long-form):** después del hook y antes del primer `##`, incluir `> **En resumen:**` con 3-4 bullets autocontenidos. No es opcional ni un adorno SEO: `validate_publish` bloquea el commit si falta o si tiene menos de 3 bullets. Se actualiza si el artículo recibe correcciones post-publicación.
+**Estándar long-form (obligatorio):**
+
+- **Estructura:** hook (2-3 oraciones; prohibido abrir con fecha o "Hoy"), TL;DR, contexto (1-2 párrafos), 4-7 H2, conclusión y Fuentes.
+- **TL;DR:** `> **En resumen:**` con 3-4 bullets autocontenidos después del hook y antes del primer H2. `validate_publish` bloquea si falta, si está después del H2 o si tiene menos de 3 bullets. Se actualiza si el artículo recibe correcciones post-publicación.
+- **Extensión:** 1.500-3.000 palabras; objetivo 2.000-2.500. `validate_publish` bloquea por debajo de 1.500 y advierte por encima de 3.000.
+- **Frontmatter:** `layout`, `title`, `date`, `categories: articulos`, `pilar` (1-5), `tags`, `description` (≤155) y `resumen` (blurb factual). Opcionales: `seo_title` (13-43), `schema_type`, `hitos`, `glosario`, `casos`, `directorio`, `entidades`.
+- **Fuentes:** mínimo 5 URLs externas específicas; 80% de nivel A/B/C (oficial/primaria, periodismo serio, papers). Nunca homepage fuera de `url_homepage_allowlist.txt`; nunca 404/410. `validate_publish` bloquea menos de 5 fuentes, homepage fuera de allowlist y 404/410.
+- **Enlaces internos:** mínimo 2 contextuales además de la pilar, cada uno anclado en un hecho verificado en el artículo destino.
+- **PROS/CONTRAS:** integrar argumentos a favor y en contra en al menos 2 dimensiones (económica, técnica, social, cultural, geopolítica, ambiental, filosófica), sin H2 "PROS"/"CONTRAS" y con fuentes para ambos lados.
+- **AEO/GEO:** TL;DR, FAQ con 3+ preguntas, H2 descriptivos y respuestas autocontenidas; evitar H2 genéricos como "Contexto" o "Análisis".
+- **Títulos y metadatos:** `title` ≤70 chars, sin `!`, sin abusar de `[X]: [Y]`; `seo_title` opcional 13-43; `description` ≤155 y sin `…`; `resumen` sin `…`.
 
 **Fuente de datos energéticos (OBLIGATORIO consultar primero):** si el artículo menciona consumo, generación, suministro, pérdidas, clientes o tarifas de ANDE, Itaipú o Yacyretá, consultar primero la capa de datos local **antes de investigar en la web**:
 
@@ -99,12 +109,20 @@ Todo esto se ejecuta **y se verifica con salida real**, no de memoria. Son los p
 1. **Fact-check independiente (Compuerta B) — BLOQUEANTE**: antes del commit, desplegar un agente verificador independiente (Paso 2) que lea el artículo párrafo por párrafo contra las fuentes descargadas (`fetch_sources.py`, Paso 0). El informe (TRUE/PARTIAL/FALSE/UNVERIFIABLE) se guarda en `research_*/`. **Sin informe limpio de FALSE, no se commitea.** No confundir con `validate_publish`, que solo chequea *formato*, no *verdad*. (Error histórico: el #58 se publicó saltando este paso; el fact-check post-commit encontró 2 imprecisiones que habrían entrado en el commit original.)
 2. **Formato de fuentes (§5.1)**: cada entrada de "Fuentes" apunta a la **URL del artículo concreto**, no a la homepage del medio. `validate_publish.py` lo trata como **error bloqueante** desde el 24-nov-2026. Excepción legítima: homepage oficial cuando esa página ES la fuente primaria y el dominio está en `scripts/url_homepage_allowlist.txt`.
 3. **Atribución de cada fuente/entrevista**: toda cita o mención de un medio/entrevista tiene una **URL específica verificada**. Una etiqueta semilla (nombre de una radio, hashtag, medio sin URL) NO es fuente hasta que una URL concreta la verifique. Si no se encuentra la URL, la cita se elimina o se reatribuye al medio que sí la publicó.
-4. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot incluido en `scripts/url_403_allowlist.txt`). Un 403 fuera de la allowlist bloquea; ninguna fuente 404.
-5. **`validate_publish`**: sin warnings bloqueantes (fuentes, superlativos, meta, FAQ, links internos) **y con los artefactos de cierre presentes**: `research_[tema]/` con `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md`. El gate `check_cierre` bloquea el commit si falta alguno — los pasos de verificación se demuestran con artefactos, no dependen de la disciplina de nadie. El gate de enlaces exige **2 enlaces internos contextuales como mínimo, además de la pilar**; un path suelto a `validate_publish.py` ya no pasa en silencio (se trata como `--check`). La cobertura del observatorio se declara en `_data/observatorio.yml`: cada superficie debe ser `updated` (con la URL del artículo) o `n/a` (con motivo); `check_observatorio.py` bloquea si falta la entrada, si una `updated` no contiene la URL o si una `n/a` no explica por qué. Si el artículo declara `entidades: [slug]` en el front matter, `entidades` no puede quedar en `n/a`: el gate exige `updated` y que la página de entidad contenga la URL. Para auditar o backfillear artículos anteriores: `python scripts/audit_observatorio_coverage.py` (read-only) y `python scripts/backfill_observatorio.py --apply` (genera solo entradas faltantes desde evidencia real).
+4. **`check_urls`**: todas las URLs externas responden (200 OK, o 403 anti-bot incluido en `scripts/url_403_allowlist.txt`). Un 403 fuera de la allowlist queda como **warning revisable**; ninguna fuente 404/410.
+5. **`validate_publish`**: sin errores ni warnings bloqueantes (TL;DR, frontmatter, extensión, fuentes, superlativos, meta, FAQ, links internos) **y con los artefactos de cierre presentes**: `research_[tema]/` con `research_plan.md`, `findings_*.md`, `gap_report.md` y `spotcheck.md`. El gate `check_cierre` bloquea el commit si falta alguno — los pasos de verificación se demuestran con artefactos, no dependen de la disciplina de nadie. El gate de enlaces exige **2 enlaces internos contextuales como mínimo, además de la pilar**; un path suelto a `validate_publish.py` ya no pasa en silencio (se trata como `--check`). La cobertura del observatorio se declara en `_data/observatorio.yml`: cada superficie debe ser `updated` (con la URL del artículo) o `n/a` (con motivo); `check_observatorio.py` bloquea si falta la entrada, si una `updated` no contiene la URL o si una `n/a` no explica por qué. Si el artículo declara `entidades: [slug]` en el front matter, `entidades` no puede quedar en `n/a`: el gate exige `updated` y que la página de entidad contenga la URL. Para auditar o backfillear artículos anteriores: `python scripts/audit_observatorio_coverage.py` (read-only) y `python scripts/backfill_observatorio.py --apply` (genera solo entradas faltantes desde evidencia real).
 6. **`build_derived` + `audit_consistency`**: verdes.
 7. **Observatorio actualizado**: pilar enlaza el artículo, `llms.txt`, `entidades/` regeneradas si toca entidad (declarar `entidades: [slug]` y agregar el vínculo curado en `manual_articles`), `directorio/` si el artículo aporta una entrada nueva.
-8. **Estrategia actualizada (§14.1 paso 11)**: §3.2 (✅), §16 (fila), §17 (progreso), §19 (changelog). **No se publica sin esto.**
+8. **Registro local de estrategia (opcional, no gate)**: si el editor mantiene `estrategia-seo-unificada-muchotexto.md` al día, puede actualizar §3.2, §16, §17 y §19. No se exige para publicar: el contrato vinculante es este archivo y `validate_publish.py`.
 9. **Build + commit + push** atómico, con verificación post-commit.
+
+### Reglas editoriales no automatizables
+
+Estas no las puede verificar el validador, pero son obligatorias para el editor:
+
+- **Calidad de fuentes:** al menos 80% de las fuentes deben ser nivel A/B/C (oficial/primaria, periodismo serio, papers). Las homepages y la prensa de nicho no reemplazan la fuente primaria.
+- **PROS/CONTRAS:** integrar argumentos a favor y en contra en al menos 2 dimensiones y con fuentes para ambos lados; no usar H2 "PROS"/"CONTRAS".
+- **Auditoría retrospectiva:** cada 5 artículos nuevos, re-auditar los 5 más antiguos no auditados contra sus fuentes originales. Se registra en `_planning/` o en el research correspondiente; no es un gate automático.
 
 ### Regla de escape
 Si un dato es inverificable pero viene de una fuente primaria citada en el artículo y esa fuente es confiable (ABC Color, ANDE, DNCP, IPS, MITIC, BACN, etc.), se puede mantener con la atribución explícita.
@@ -197,7 +215,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 
 La página pilar usa el conteo dinámico de `con_pilar`; por eso puede decir 62 artículos mientras el observatorio tiene 61 análisis. No hardcodear estos números en páginas ni artículos.
 
-`estrategia-seo-unificada-muchotexto.md` es un **documento local de referencia**. Está en `.gitignore`; no se commitea ni cuenta como entregable del repo. El hook local `.git/hooks/pre-commit` ejecuta `validate_publish` sobre posts staged y `check_observatorio --all`; los tests lentos quedan en CI.
+`estrategia-seo-unificada-muchotexto.md` es un **documento local de referencia**. Está en `.gitignore`; no se commitea ni cuenta como entregable del repo. **Las reglas vinculantes de long-form son las de este archivo y las que ejecuta `validate_publish`; la estrategia no se lee en CI.** El hook local `.git/hooks/pre-commit` ejecuta `validate_publish` sobre posts staged y `check_observatorio --all`; los tests lentos quedan en CI.
 
 ## Categorías de error más frecuentes (verificar con especial atención)
 

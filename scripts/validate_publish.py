@@ -243,6 +243,39 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
                     f"El bloque 'En resumen' necesita 3-4 bullets (tiene {len(bullets)})."
                 )
 
+        pilar = extract_frontmatter_field(content, "pilar")
+        resumen = extract_frontmatter_field(content, "resumen")
+        tags = extract_frontmatter_field(content, "tags")
+        if not re.fullmatch(r"[1-5]", pilar or ""):
+            errors.append("pilar obligatorio y debe ser 1-5 en el frontmatter")
+        if not resumen:
+            errors.append("resumen obligatorio en el frontmatter (blurb factual de la pilar)")
+        if not tags:
+            errors.append("tags obligatorio en el frontmatter")
+        if not description:
+            errors.append("description obligatoria en el frontmatter (meta SEO)")
+
+        clean_body = re.sub(r"<script\b.*?</script>", "", body, flags=re.DOTALL | re.IGNORECASE)
+        word_count = len(re.findall(r"\b\w+\b", clean_body))
+        if word_count < 1500:
+            errors.append(f"Articulo long-form demasiado corto: {word_count} palabras (minimo 1.500)")
+        elif word_count > 3000:
+            warnings.append(f"Articulo long-form largo: {word_count} palabras (maximo recomendado 3.000)")
+
+        h2_sections = re.findall(r"^##\s+(.+)$", body, re.MULTILINE)
+        h2_body = [h for h in h2_sections if h.strip().lower() != "fuentes"]
+        if not 4 <= len(h2_body) <= 7:
+            warnings.append(f"Secciones H2 fuera del rango 4-7: {len(h2_body)}")
+
+        fuentes_match = re.search(r"(?m)^##\s+Fuentes\s*$|\*\*Fuentes:\*\*", body)
+        if not fuentes_match:
+            errors.append("Falta la seccion de Fuentes ('## Fuentes' o '**Fuentes:**')")
+        else:
+            sources_block = body[fuentes_match.end():]
+            source_urls = {u for u in re.findall(r"https?://[^\s\)]+", sources_block)}
+            if len(source_urls) < 5:
+                errors.append(f"Fuentes externas insuficientes: {len(source_urls)} (minimo 5)")
+
         if '"@type": "FAQPage"' not in content and '"@type":"FAQPage"' not in content:
             errors.append("FAQ schema requerido: agregar FAQPage con 3 preguntas")
 
@@ -379,12 +412,6 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
             "El titulo y description no contienen ningun caracter acentuado. "
             "El espanol tiene acentos (a, e, i, o, u, n). Revisar."
         )
-
-    words = len(body.split()) if body else 0
-    if words and words < 1500:
-        warnings.append(f"Articulo corto: {words} palabras (minimo 1.500)")
-    elif words > 2500:
-        warnings.append(f"Articulo largo: {words} palabras (maximo 2.500)")
 
     # === CHECK: superlativos regionales/mundiales (warning) ===
     # Regla AGENTS.md: un superlativo ("el mas barato de la region", "el unico
