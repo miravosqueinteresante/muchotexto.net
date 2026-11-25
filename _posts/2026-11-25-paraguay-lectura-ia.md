@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Paraguay comprende cada vez menos lo que lee, y la IA no es la causa"
+title: "Paraguay comprende cada vez menos lo que lee, y la IA no explica todo"
 seo_title: "Lectura en Paraguay y el atajo de la IA"
 date: 2026-11-25 12:00:00 -0300
 last_modified_at: 2026-11-25
 permalink: /articulos/2026/11/25/paraguay-lectura-ia/
 categories: [articulos]
 pilar: 5
-resumen: "La caída documentada es de comprensión lectora, no de cantidad de libros. La IA no causó esa caída, pero puede acelerar la sustitución de lectura profunda cuando se usa para resumir en lugar de aprender."
+resumen: "La caída documentada es de comprensión lectora, no de cantidad de libros. No hay evidencia de que la IA haya causado esa caída, pero puede acelerar la sustitución de lectura profunda cuando se usa para resumir en lugar de aprender."
 tags: [lectura, ia, educacion, pisa, paraguay]
-description: "Paraguay no tiene una encuesta nacional reciente de lectura. PISA muestra una caída en comprensión lectora y la IA acelera el atajo, no la causa."
+description: "Paraguay no tiene una encuesta nacional reciente de lectura. PISA muestra una caída en comprensión lectora y la IA no explica todo."
 schema_type: NewsArticle
 ---
 
@@ -21,31 +21,40 @@ La frase “Paraguay lee cada vez menos” se repite como si hubiera una encuest
 > - El 45% de los estudiantes de 15 años usa chatbots al menos una vez por semana para aprender y el 35% para resumir un texto que debía leer.
 > - La IA no causó la caída: la tendencia negativa empezó antes de ChatGPT. Pero resumir y delegar se asocian a peor comprensión; investigar y preguntar pueden funcionar como andamio.
 
-Paraguay tiene una política de lectura de escala nacional. El programa Ñe'ẽry, vigente desde 2023, reporta 1,4 millones de estudiantes beneficiados, 542.000 libros en sus dos primeras licitaciones y una meta de 24.000 bibliotecas de aula. En 2026, el MEC y la Itaipú financiaron la distribución de más de 15 millones de libros y cuadernillos para 1,2 millones de estudiantes. Es una inversión real en acceso.
+Paraguay tiene una política de lectura de escala nacional. El programa Ñe'ẽry, vigente desde 2023, reporta 1,4 millones de estudiantes beneficiados, 542.000 libros en sus dos primeras licitaciones y una meta de 24.000 bibliotecas de aula. En 2026, Itaipú financió, en convenio con el MEC y la OEI, la distribución de más de 16 millones de libros y cuadernillos para 1,2 millones de estudiantes. Es una inversión real en acceso.
 
 Lo que no existe es la otra mitad del sistema: una medición nacional y periódica de cuánto lee la gente, qué lee, en qué soporte y con qué comprensión. Sin esa línea de base, “lee cada vez menos” es una impresión razonable, pero no un dato. Y sin distinguir cantidad de comprensión, la IA se convierte en el chivo expiatorio más cómodo.
 
 ## Qué se puede medir y qué se está midiendo mal
 
-El dato más citado sobre lectura en Paraguay es el de 0,25 libros por persona al año. Proviene de la Cámara del Libro Asunción Paraguay y se difundió en la Feria del Libro de 2017. Un año después, la Encuesta Latinoamericana de Hábitos y Prácticas Culturales de la OEI, con campo en 2013, había calculado 3,1 libros por persona al año para Paraguay, contra 3,6 en el promedio regional. Las dos cifras no miden lo mismo, tienen años distintos y ninguna permite afirmar qué pasa en 2026.
+El dato más citado sobre lectura en Paraguay es el de 0,25 libros por persona al año. Es una referencia histórica de procedencia y representatividad no comprobadas. La Encuesta Latinoamericana de Hábitos y Prácticas Culturales de la OEI, con campo en 2013 y datos de Latinobarómetro, calculó 3,1 libros por persona al año para Paraguay, contra 3,6 en el promedio regional. Las dos cifras no miden lo mismo, tienen años distintos y ninguna permite afirmar qué pasa en 2026.
 
 Fernando Benítez, director de Libros Para Todos, lo dijo con claridad en febrero de 2025: “Hubo encuestas hace años que arrojaban un promedio de 0,25 libros por persona al año, pero no tenemos certeza de que esos datos sean precisos o representativos hoy en día”. En la misma nota, el sector editorial reportó crecimiento: Libros Para Todos dijo crecer más del 10% anual y vender entre 5.000 y 7.000 libros al mes; El Lector anunció expansión nacional e internacional.
 
 Ese contraste no resuelve el debate, pero lo ordena. El mercado del libro puede crecer mientras la comprensión lectora escolar cae. Un país puede comprar más libros y, al mismo tiempo, leer peor los textos que exigen esfuerzo. Son indicadores distintos y mezclarlos produce titulares falsos.
 
-El ministro de Educación, Luis Ramírez, dijo en junio de 2026 que el promedio nacional es de “apenas dos libros por año”, frente a diez en países con sistemas avanzados. La declaración es útil como diagnóstico oficial, pero no reemplaza una encuesta: el artículo que la recoge no identifica la muestra, el método ni el año del cálculo. Es una señal, no una medición replicable.
+El ministro de Educación, Luis Ramírez, dijo en junio de 2026, en declaraciones recogidas por ABC Color, que el promedio nacional es de “apenas dos libros por año”, frente a diez en países con sistemas avanzados. La declaración es útil como diagnóstico oficial, pero no reemplaza una encuesta: la nota no identifica la muestra, el método ni el año del cálculo. Es una señal, no una medición replicable.
 
 ## La caída que sí está documentada
 
 PISA 2025 es la evidencia más sólida y la más incómoda. Paraguay obtuvo **352 puntos en lectura**, **21 menos que en 2022**. Solo el **24%** de los estudiantes de 15 años alcanzó el Nivel 2 o superior, el umbral que la OCDE considera mínimo para identificar la idea principal de un texto, localizar información y reflexionar sobre su propósito. El **76%** quedó por debajo. Casi ningún estudiante paraguayo llegó al Nivel 5 o 6: **0,1%**, frente a un 6% promedio en la OCDE.
 
+| Indicador PISA 2025 | Paraguay | OCDE |
+|---|---:|---:|
+| Puntaje de lectura | 352 | 461 |
+| Cambio vs 2022 | -21 | -14 |
+| Nivel 2 o superior | 24% | 69% |
+| Nivel 5 o 6 | 0,1% | 6% |
+
+Fuente: OECD, PISA 2025, Tabla I.1 y nota país.
+
 No es una foto aislada. Frente a 2017, la proporción de estudiantes con bajo desempeño en lectura aumentó ocho puntos porcentuales. La OCDE también advierte que parte de la caída reciente puede estar relacionada con la expansión de la secundaria a poblaciones que antes quedaban fuera de la prueba. Es decir: el sistema incorporó a más estudiantes y eso puede bajar el promedio sin que cada estudiante haya empeorado en la misma medida.
 
-Hay una advertencia metodológica que no se puede omitir. Paraguay pasó de la prueba en papel a la prueba por computadora en 2025. La OCDE permite comparar tendencias, pero con incertidumbre adicional. Eso no borra la caída: la propia OCDE la reporta como significativa. Obliga a decir “cayó la comprensión medida”, no “cayó exactamente 21 puntos por esta única causa”.
+Hay una advertencia metodológica que no se puede omitir. Paraguay pasó de la prueba en papel a la prueba por computadora en 2025. La OCDE permite comparar tendencias, pero con incertidumbre adicional. Eso no borra la caída: la OCDE reporta que el rendimiento bajó, pero advierte que la incertidumbre por el cambio de modalidad excede la de los intervalos de confianza. Obliga a decir “cayó la comprensión medida”, no “cayó exactamente 21 puntos por esta única causa”.
 
-La caída es más grave porque toca las habilidades que importan en la era de la IA: evaluar información, conectar fuentes y distinguir hecho de opinión. El informe global de PISA 2025 encontró que la lectura rápida e imprecisa, esa en la que el estudiante contesta antes de entender, casi se duplicó entre 2018 y 2025, hasta el 9%. No es que los jóvenes no lean nada. Es que leen más rápido y comprenden menos.
+La caída es más grave porque toca las habilidades que importan en la era de la IA: evaluar información, conectar fuentes y distinguir hecho de opinión. El informe global de PISA 2025 encontró que los lectores “apresurados”, esos que contestan antes de entender, casi se duplicaron entre 2018 y 2025, de 6,6% a 11,4%. No es que los jóvenes no lean nada. Es que leen más rápido y comprenden menos.
 
-En términos económicos, la lectura es una puerta: sin comprensión no hay aprendizaje autónomo, y sin aprendizaje autónomo la IA se vuelve una dependencia cara. En términos culturales, el problema es más profundo: un país que no mide su lectura tampoco puede discutir qué literatura, qué lenguas y qué formatos quiere sostener. La política de distribución de libros es necesaria, pero no suficiente.
+En términos económicos, la lectura es una puerta: sin comprensión no hay aprendizaje autónomo, y sin él la IA se vuelve una dependencia cara. En términos culturales, un país que no mide su lectura tampoco puede discutir qué literatura, qué lenguas y qué formatos quiere sostener.
 
 ## La IA no empezó la caída, pero cambió el atajo
 
@@ -67,7 +76,7 @@ Un experimento aleatorizado publicado en Computers & Education en 2025 es más d
 
 PISA 2025 agrega un matiz importante. En promedio OCDE, los estudiantes que usan IA para tareas específicas como resumir, redactar o investigar obtienen alrededor de 20 puntos menos en ciencias que quienes no la usan. Pero los usuarios semanales de IA para “ayudarme a aprender” tienen un desempeño similar a los no usuarios, y el uso moderado puede tener una relación levemente positiva. La OCDE insiste: no se puede concluir que la IA cause el peor desempeño; puede reflejar quién la usa y para qué.
 
-La línea divisoria no es “IA sí o no”. Es si la herramienta produce el trabajo o ayuda a que el estudiante lo produzca. Pedir un resumen antes de leer es distinto de leer y después pedir preguntas para verificar lo entendido. Puede cambiar el aprendizaje. Y el problema no es solo el resumen: [el contenido sintético ya supera la mitad de lo que se publica]({% post_url 2026-09-03-contenido-basura-agentes-ia %}), así que la capacidad de distinguir un texto de una máquina también se vuelve parte de la lectura.
+La línea divisoria no es “IA sí o no”. Es si la herramienta produce el trabajo o ayuda a que el estudiante lo produzca. Pedir un resumen antes de leer es distinto de leer y después pedir preguntas para verificar lo entendido. Puede cambiar el aprendizaje. Y el problema no es solo el resumen: [el contenido sintético ya supera la mitad del contenido recién publicado en línea]({% post_url 2026-09-03-contenido-basura-agentes-ia %}), según una estimación de Graphite citada por el AI Index de Stanford para artículos nuevos en inglés. La capacidad de distinguir un texto de una máquina también se vuelve parte de la lectura.
 
 ## Dónde la IA ayuda y dónde sustituye
 
@@ -81,7 +90,7 @@ La dimensión económica también tiene dos caras. La IA es barata por consulta 
 
 ## Lo que falta: medir, enseñar y poner reglas
 
-Ñe'ẽry demuestra que el Estado puede distribuir libros a escala. Lo que todavía no demuestra es impacto. No hay una evaluación pública de si los estudiantes que recibieron los portafolios leen más, comprenden mejor o solo tienen más libros en la mochila. La distribución es una condición necesaria; no es el resultado.
+Ñe'ẽry demuestra que el Estado puede distribuir libros a escala. Lo que todavía no demuestra es impacto. Existe Jaikuaave, una evaluación formativa anual del MEC que desde 2024 busca medir el aporte de Ñe'ẽry en lectura comprensiva en castellano y guaraní. Lo que no hay es una evaluación pública de impacto con resultados desagregados que permitan saber si los estudiantes leen más, comprenden mejor o solo tienen más libros en la mochila.
 
 El país necesita tres cosas antes de discutir prohibiciones. Primera, una encuesta nacional de lectura con periodicidad, que separe lectura por placer, por estudio y en pantalla, y que mida comprensión, no solo cantidad de libros. Segunda, alfabetización en IA dentro de la formación docente: no para enseñar a usar ChatGPT, sino para enseñar cuándo no usarlo y cómo verificar lo que devuelve. Tercera, reglas claras sobre el uso de IA en tareas escolares, con criterios por edad y por tipo de trabajo, en lugar de prohibiciones generales que se incumplen en el aula.
 
@@ -93,7 +102,7 @@ También hay un límite de política pública que conviene decir: la lectura no 
 
 “Paraguay lee cada vez menos” es una frase que dice una verdad parcial y esconde una pregunta mejor. La verdad parcial es que la comprensión lectora de los estudiantes de 15 años empeoró. La pregunta mejor es cuánto lee el país, en qué formatos y con qué comprensión, y cómo cambia eso cuando la IA ofrece un resumen en segundos.
 
-La IA no es la causa de la caída. Es el nuevo atajo de un sistema que ya tenía un problema de lectura profunda. Puede empeorarlo si reemplaza el esfuerzo, o puede mejorarlo si se usa para preguntar, verificar y volver al texto. La política pública debería medir esa diferencia antes de elegir un culpable.
+No hay evidencia de que la IA sea la causa principal de la caída. Es el nuevo atajo de un sistema que ya tenía un problema de lectura profunda. Puede empeorarlo si reemplaza el esfuerzo, o puede mejorarlo si se usa para preguntar, verificar y volver al texto. La política pública debería medir esa diferencia antes de elegir un culpable.
 
 El artículo forma parte del observatorio de [IA en Paraguay](/ia-en-paraguay/), donde se pueden cruzar estos datos con la adopción de IA, la educación técnica y el empleo digital.
 
@@ -111,10 +120,6 @@ No se puede afirmar. La caída de lectura ya venía antes de ChatGPT y la OCDE a
 
 Depende de cuándo y para qué. Si el resumen reemplaza la lectura, la evidencia experimental muestra peor comprensión y retención. Si se usa después de leer para verificar o para generar preguntas, puede ser un andamio. La evidencia disponible es de otros países; Paraguay todavía no tiene un estudio local.
 
-### ¿Qué debería medir Paraguay?
-
-Una encuesta nacional periódica de hábitos de lectura que separe lectura por placer, por estudio y en pantalla, y que mida comprensión además de cantidad de libros. También debería evaluar el impacto de Ñe'ẽry y cruzar uso de IA con lectura y desempeño en la misma población.
-
 ## Fuentes
 
 - [OECD — “Resultados PISA 2025 (Volumen I): Paraguay” (8-sep-2026).](https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/paraguay_760b13c8-en.html)
@@ -128,6 +133,10 @@ Una encuesta nacional periódica de hábitos de lectura que separe lectura por p
 - [OEI — “Encuesta Latinoamericana de Hábitos y Prácticas Culturales 2013” (2014).](https://www.oibc.oei.es/uploads/attachments/48/encuestalatinoamericana2013.pdf)
 - [Bai et al. — “Herramientas de resumen de IA generativa y comprensión lectora profunda entre universitarios chinos” (Frontiers in Psychology, 16-oct-2026).](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2002898/full)
 - [Kreijkes et al. — “Efectos del uso de LLM y la toma de notas sobre la comprensión y la memoria lectora” (Computers & Education, 24-nov-2025).](https://doi.org/10.1016/j.compedu.2025.105514)
+- [OECD — “PISA 2025 Results (Volume I): Paraguay”, PDF estadístico (8-sep-2026).](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/09/pisa-2025-results-volume-i-country-notes_88d1164e/paraguay_5a7a300a/760b13c8-en.pdf)
+- [FEEI — “Evaluación formativa Jaikuaave permitirá identificar avances y debilidades en varias disciplinas”.](https://feei.gov.py/evaluacion-formativa-jaikuaave-permitira-identificar-avances-y-debilidades-en-varias-disciplinas/)
+- [Stanford HAI — “The 2026 AI Index Report”.](https://hai.stanford.edu/ai-index/2026-ai-index-report)
+- [Graphite — “AI Now Writes as Many Online Articles as Humans” (15-may-2026).](https://graphite.io/research/ai-now-writes-as-many-online-articles-as-humans-do)
 
 <script type="application/ld+json">
 {
@@ -156,14 +165,6 @@ Una encuesta nacional periódica de hábitos de lectura que separe lectura por p
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Depende de cuándo y para qué. Si el resumen reemplaza la lectura, la evidencia experimental muestra peor comprensión y retención. Si se usa después de leer para verificar o generar preguntas, puede ser un andamio. La evidencia es de otros países."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué debería medir Paraguay?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Una encuesta nacional periódica de hábitos de lectura que separe lectura por placer, por estudio y en pantalla, y que mida comprensión además de cantidad de libros. También debería evaluar el impacto de Ñe'ẽry y cruzar uso de IA con lectura y desempeño."
       }
     }
   ]
