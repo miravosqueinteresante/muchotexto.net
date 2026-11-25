@@ -100,6 +100,7 @@ NON_ANALYSIS = {
 # Activos estaticos de raiz que SI deben publicarse (usados por el sitio).
 PUBLISHED_ROOT_ASSETS = {
     "624a4302f1714f068e9851beb7b692f2.txt",
+    "ads.txt",
     "robots.txt",
     "search.json",
     "grafo.json",
