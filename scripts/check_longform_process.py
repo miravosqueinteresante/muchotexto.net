@@ -49,17 +49,25 @@ def category(text: str) -> str:
     return m.group(1) if m else ""
 
 
+def manifest_entry(post: Path) -> dict | None:
+    manifest = ROOT / "_data" / "cierres.yml"
+    if not manifest.exists():
+        return None
+    try:
+        data = yaml.safe_load(manifest.read_text(encoding="utf-8")) or {}
+        for entry in data.get("cierres", []):
+            if entry.get("slug") == post.stem:
+                return entry
+    except yaml.YAMLError:
+        pass
+    return None
+
+
 def research_dir(post: Path) -> Path:
     slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", post.stem)
-    manifest = ROOT / "_data" / "cierres.yml"
-    if manifest.exists():
-        try:
-            data = yaml.safe_load(manifest.read_text(encoding="utf-8")) or {}
-            for entry in data.get("cierres", []):
-                if entry.get("slug") == post.stem and entry.get("research_dir"):
-                    return ROOT / entry["research_dir"]
-        except yaml.YAMLError:
-            pass
+    entry = manifest_entry(post)
+    if entry and entry.get("research_dir"):
+        return ROOT / entry["research_dir"]
     return ROOT / f"research_{slug}"
 
 
@@ -76,36 +84,43 @@ def findings_chars(directory: Path) -> int:
     return total
 
 
-def check_post(path: Path, is_new: bool) -> list[str]:
+def check_post(path: Path, is_new: bool, require_local: bool = True) -> list[str]:
     errors: list[str] = []
     text = path.read_text(encoding="utf-8", errors="ignore")
     if "articulos" not in category(text):
         return errors
 
+    entry = manifest_entry(path)
     directory = research_dir(path)
     rel = directory.relative_to(ROOT)
-    if not directory.is_dir():
-        return [f"Proceso: falta la carpeta '{rel}/'"]
+    local = directory.is_dir()
 
-    if is_new and nonempty_lines(directory / "brief.md") < 5:
-        errors.append(f"Proceso: falta '{rel}/brief.md' o tiene menos de 5 respuestas")
+    if not local:
+        if require_local:
+            return [f"Proceso: falta la carpeta '{rel}/'"]
+        if not entry or entry.get("estado") != "completo" or entry.get("faltantes"):
+            return [f"Proceso: falta '{rel}/' y el manifiesto no la registra como completa"]
 
-    minimums = {
-        "research_plan.md": 3,
-        "gap_report.md": 5,
-        "spotcheck.md": 5,
-    }
-    for name, minimum in minimums.items():
-        count = nonempty_lines(directory / name)
-        if count < minimum:
-            errors.append(f"Proceso: '{rel}/{name}' vacio o incompleto ({count} lineas utiles)")
+    if local:
+        if is_new and nonempty_lines(directory / "brief.md") < 5:
+            errors.append(f"Proceso: falta '{rel}/brief.md' o tiene menos de 5 respuestas")
 
-    if findings_chars(directory) < 500:
-        errors.append(f"Proceso: '{rel}/findings_*.md' vacio o demasiado corto")
+        minimums = {
+            "research_plan.md": 3,
+            "gap_report.md": 5,
+            "spotcheck.md": 5,
+        }
+        for name, minimum in minimums.items():
+            count = nonempty_lines(directory / name)
+            if count < minimum:
+                errors.append(f"Proceso: '{rel}/{name}' vacio o incompleto ({count} lineas utiles)")
+
+        if findings_chars(directory) < 500:
+            errors.append(f"Proceso: '{rel}/findings_*.md' vacio o demasiado corto")
 
     try:
         from validate_publish import check_post as validate_post, get_last_n_posts
-        validation_errors, _ = validate_post(str(path), get_last_n_posts(3), require_cierre=True)
+        validation_errors, _ = validate_post(str(path), get_last_n_posts(3), require_cierre=local)
         errors.extend(f"Formato: {error}" for error in validation_errors)
     except Exception as exc:
         errors.append(f"Formato: no se pudo ejecutar validate_publish ({exc})")
@@ -129,7 +144,7 @@ def main() -> int:
         path = ROOT / raw
         if path.suffix != ".md" or not path.exists():
             continue
-        errors.extend(check_post(path, raw in new))
+        errors.extend(check_post(path, raw in new, require_local=not bool(args.range)))
 
     if errors:
         print(f"X Proceso long-form incompleto ({len(errors)} hallazgo(s)):")
