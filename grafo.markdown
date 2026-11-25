@@ -35,14 +35,8 @@ last_modified_at: 2026-09-18
   height: 6px;
   border-radius: 50%;
   background: var(--meta-color);
-  box-shadow: 0 0 0 3px rgba(34, 184, 207, 0.18);
-  animation: grafo-pulse 2.4s ease-in-out infinite;
 }
 
-@keyframes grafo-pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.35; }
-}
 
 .grafo-intro {
   font-size: 0.92em;

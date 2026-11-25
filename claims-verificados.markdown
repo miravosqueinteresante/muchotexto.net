@@ -30,14 +30,8 @@ last_modified_at: 2026-11-16
   height: 6px;
   border-radius: 50%;
   background: var(--verified-color);
-  box-shadow: 0 0 0 3px rgba(var(--verified-rgb), 0.18);
-  animation: claims-pulse 2.4s ease-in-out infinite;
 }
 
-@keyframes claims-pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.35; }
-}
 
 .claims-intro {
   font-size: 0.92em;

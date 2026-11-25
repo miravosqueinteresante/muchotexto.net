@@ -56,14 +56,8 @@ last_modified_at: 2026-11-21
   height: 6px;
   border-radius: 50%;
   background: var(--accent);
-  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.18);
-  animation: calc-pulse 2.4s ease-in-out infinite;
 }
 
-@keyframes calc-pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.35; }
-}
 
 /* alert */
 .calc-alert {
@@ -181,7 +175,6 @@ last_modified_at: 2026-11-21
   border-radius: 50%;
   background: var(--accent);
   border: 2px solid var(--oc-gray-9);
-  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.22);
   cursor: pointer;
 }
 
@@ -191,7 +184,6 @@ last_modified_at: 2026-11-21
   border-radius: 50%;
   background: var(--accent);
   border: 2px solid var(--oc-gray-9);
-  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.22);
   cursor: pointer;
 }
 
