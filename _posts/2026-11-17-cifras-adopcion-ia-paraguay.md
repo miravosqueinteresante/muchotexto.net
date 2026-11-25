@@ -54,7 +54,11 @@ Lo difundió **Última Hora el 22 de febrero de 2026**, con un estudio de **40 p
 
 Al mismo tiempo, Paraguay obtiene **31,20 sobre 100** en el Índice Latinoamericano de IA (ILIA) y queda entre los países “exploradores”. Parecen cifras incompatibles y no lo son: el 31,20 mide madurez del ecosistema —infraestructura, talento, datos, investigación, gobernanza—, no cuánta gente usa IA.
 
-**En una frase:** el 73% es el porcentaje de encuestados por WIN/ICA en 2025 que dijo haber usado IA alguna vez. No es uso diario ni adopción de empresas. El 79% de 2026 y el 31,20/100 del ILIA miden otras cosas.
+> **En resumen:**
+> - El 73% es de una encuesta WIN/ICA de 2025 y mide uso declarado alguna vez, no adopción diaria.
+> - La muestra paraguaya es de unos 500 casos telefónicos, con ±4,4 puntos y sin diseño de ponderación publicado.
+> - El 79% de 2026 y el 31,20/100 del ILIA miden cosas distintas: frecuencia declarada y madurez del ecosistema.
+> - El desglose 2025 es 32% siempre o a menudo, 41% a veces, 25% nunca y 2% no sabe o no responde.
 
 ## Qué es el 73% y de dónde sale
 

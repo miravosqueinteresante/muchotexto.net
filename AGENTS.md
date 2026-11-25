@@ -23,6 +23,8 @@ Si falla cualquiera, el artículo se descarta o se reformula. El listado "Próxi
 ### Paso 1: Escribir el borrador
 Redactar el artículo normalmente. Las fuentes deben citarse al pie.
 
+**TL;DR obligatorio (long-form):** después del hook y antes del primer `##`, incluir `> **En resumen:**` con 3-4 bullets autocontenidos. No es opcional ni un adorno SEO: `validate_publish` bloquea el commit si falta o si tiene menos de 3 bullets. Se actualiza si el artículo recibe correcciones post-publicación.
+
 **Fuente de datos energéticos (OBLIGATORIO consultar primero):** si el artículo menciona consumo, generación, suministro, pérdidas, clientes o tarifas de ANDE, Itaipú o Yacyretá, consultar primero la capa de datos local **antes de investigar en la web**:
 
 ```bash
@@ -206,6 +208,7 @@ La página pilar usa el conteo dinámico de `con_pilar`; por eso puede decir 62 
 - **Certificaciones Tier III**: existen en Paraguay (Itaipú, Tigo, Telefónica)
 - **Fechas de hitos corporativos**: verificar con comunicados oficiales de la empresa, no con prensa
 - **Cifras de empleo**: cruzar datos de IPS con claims de cámaras sectoriales
+- **TL;DR long-form**: todo artículo con `categories: articulos` debe llevar `> **En resumen:**` con 3-4 bullets después del hook y antes del primer H2. No alcanza con `resumen` en el front matter ni con un párrafo "En una frase".
 - **Títulos long-form**: `title` es el H1; no truncarlo a 43 chars (error del barrido SEO de oct-2026). Límite 70 chars de `validate_publish`. Si hace falta acortar el `<title>`, usar `seo_title` opcional (13-43 chars, único, keyword-first); no reemplaza el H1. El clamp 13-43 aplica solo a Pulso/Editorial.
 - **URLs de artículos**: el `permalink` del front matter manda; `build_derived.py` y `build_entities.py` lo respetan. Si un post tiene hora cercana a medianoche con offset, Jekyll puede correr el día al construir en UTC: fijar `permalink` o usar mediodía local. Los enlaces internos nunca se escriben a mano con fecha: usar `post_url` o el `permalink`.
 - **Citas en inglés**: traducir al español en el cuerpo y en el front matter. Las citas directas llevan “(traducción propia)”; los títulos de las fuentes se traducen en “Fuentes” y la URL conserva el original.

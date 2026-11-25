@@ -59,6 +59,12 @@ Desde el 26 de octubre de 2026, el Estado paraguayo tiene un procedimiento para 
 
 La promesa es grande: el Estado financia una solución que no está disponible o no está suficientemente desarrollada. La letra chica también: la primera etapa no garantiza la compra final, el presupuesto es fijo y el proveedor queda obligado a presentarse cuando el Estado decida comprar.
 
+> **En resumen:**
+> - La Resolución DNCP 3.033/26 creó la Compra Pública de Innovación y entró en vigor el 26-oct-2026.
+> - La modalidad DS financia I+D por etapas, pero no compra la solución final.
+> - La CS solo admite a quienes ganaron la DS previa; el Estado no está obligado a convocarla.
+> - El cuello de botella es la capacidad institucional, no la existencia de la norma.
+
 ## Qué es y qué no es la CPI
 
 La CPI no es un subsidio, no es un fondo de innovación y no es una compra garantizada. Es un procedimiento para un problema cuya solución no está disponible o no está suficientemente desarrollada. La **Licitación para Desarrollo de Solución Innovadora (DS)** contrata “actividades de investigación, desarrollo y/o prueba de soluciones” cuando la solución “no se encuentre disponible o suficientemente desarrollada en el mercado”.

@@ -226,6 +226,23 @@ def check_post(post_path: str, ultimos_3: list[dict], require_cierre: bool = Tru
         errors.extend(check_observatorio_post(post_path))
 
     if "articulos" in categories:
+        tldr = re.search(r'^>\s*\*\*En resumen:\*\*', body, re.MULTILINE)
+        if not tldr:
+            errors.append(
+                "Falta el bloque TL;DR obligatorio: '> **En resumen:**' con 3-4 bullets "
+                "despues del hook y antes del primer H2."
+            )
+        else:
+            first_h2 = re.search(r'^##\s', body, re.MULTILINE)
+            if first_h2 and tldr.start() > first_h2.start():
+                errors.append("El bloque 'En resumen' debe ir antes del primer H2.")
+            block = body[tldr.start():].split("\n\n", 1)[0]
+            bullets = re.findall(r'^>\s*-\s+\S', block, re.MULTILINE)
+            if len(bullets) < 3:
+                errors.append(
+                    f"El bloque 'En resumen' necesita 3-4 bullets (tiene {len(bullets)})."
+                )
+
         if '"@type": "FAQPage"' not in content and '"@type":"FAQPage"' not in content:
             errors.append("FAQ schema requerido: agregar FAQPage con 3 preguntas")
 

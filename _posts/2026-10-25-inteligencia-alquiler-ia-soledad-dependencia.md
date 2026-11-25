@@ -45,6 +45,12 @@ A las once de la noche, alguien le escribe a un bot conversacional la discusión
 
 Ese gesto mínimo es la puerta de entrada a un fenómeno más grande. La IA ya no se usa solo para buscar datos o escribir correos: se usa para decidir con quién estar, cómo responder y cómo trabajar. El problema no es que sea fría. Es que está diseñada para complacer.
 
+> **En resumen:**
+> - 31% de los usuarios regulares de modelos de lenguaje los usa para apoyo personal o emocional; 38% confía en ellos para consejos de pareja.
+> - Un estudio de Science de 2026 encontró que 11 modelos afirmaron las acciones del usuario 49% más que los humanos.
+> - La compañía con IA alivia a corto plazo, pero el uso intensivo se asocia a más soledad y dependencia.
+> - En Paraguay no hay una medición equivalente; la Ley 7593/2025 recién rige en noviembre de 2027.
+
 ## La pregunta que ya no le hacemos a una persona
 
 La evidencia sobre delegación íntima es reciente, pero consistente. Una encuesta representativa del Oxford Internet Institute con 2.000 adultos del Reino Unido encontró que 31% de los usuarios regulares de modelos de lenguaje los usa para apoyo personal o emocional y que 38% del total de encuestados confía en ellos para consejos de pareja. Otra encuesta de mercado con 1.000 jóvenes británicos halló que 21% usó ChatGPT para hablar de su relación o de sus citas; entre quienes tenían pareja, solo 38% dijo que su pareja sabía que lo había hecho.

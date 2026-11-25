@@ -45,6 +45,12 @@ Si eras cliente, Ueno no solo tenía tu dinero. Tenía tu cédula, tu rostro y t
 
 La caída abrió una pregunta que el Estado todavía no respondió formalmente: **¿qué pasa con esos datos ahora?** El dinero tiene un fondo de garantía hasta 75 salarios mínimos. La cara y el historial financiero no.
 
+> **En resumen:**
+> - Ueno acumuló identidad, biometría y datos financieros de casi 3 millones de cuentas declaradas.
+> - El Fondo de Garantía de Depósitos cubre hasta 75 salarios mínimos por depositante; no cubre los datos.
+> - La ley de resolución bancaria no dice qué pasa con las bases y el BCP no informó un destino.
+> - La Ley 7593/2025 de protección de datos no entra en vigor hasta noviembre de 2027.
+
 ## Lo que entregaste sin saberlo
 
 Para abrir una cuenta, Ueno pedía identificación, selfie y documentos. Después venía el resto: cuentas, tarjetas, transferencias, préstamos, seguros, inversiones y pagos QR.
