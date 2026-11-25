@@ -44,6 +44,7 @@ layout: default
 <section class="hero-observatorio">
   <p class="hero-eyebrow">Observatorio de IA en Paraguay</p>
   <h1 class="hero-title">IA, energía y geopolítica en Paraguay.<br>Leídos con datos.</h1>
+  <div class="hero-figure" id="hero-hub"></div>
   <p class="hero-desc">Analizamos cómo la inteligencia artificial está transformando el país — desde las tarifas de ANDE hasta los acuerdos sobre Itaipú — con cada cifra respaldada por <strong>fuentes abiertas y verificables, e investigaciones a fondo</strong>.<br>Cada análisis presenta argumentos a favor y en contra.</p>
   <div class="hero-pillars">
     <a href="{{ '/ia-en-paraguay/#infraestructura-y-energia' | relative_url }}">Infraestructura y energía</a>
@@ -200,3 +201,16 @@ layout: default
     <a class="see-all" href="{{ '/archive/' | relative_url }}">Ver todo el archivo &rarr;</a>
   </div>
 </section>
+<script src="{{ '/assets/js/hairline-hub.js' | relative_url }}" defer></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var el = document.getElementById('hero-hub');
+  if (el && window.HairlineHub) {
+    window.HairlineHub(el, {
+      intensity: 0.55,
+      theme: 'dark',
+      label: 'Hub isom\u00e9trico: un centro y ocho nodos conectados'
+    });
+  }
+});
+</script>
