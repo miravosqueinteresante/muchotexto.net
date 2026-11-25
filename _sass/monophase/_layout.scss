@@ -52,6 +52,8 @@
   }
 
   a {
+    display: inline-block;
+    padding: .35rem 0;
     color: inherit;
 
     &:hover,
@@ -185,6 +187,13 @@ a[href^="#fnref:"] {
 .footnotes {
   margin-top: var(--spacer-2);
   font-size: 85%;
+}
+
+@media (max-width: $md-screen) {
+  .post table {
+    display: block;
+    overflow-x: auto;
+  }
 }
 
 .related {
@@ -388,11 +397,19 @@ a.pagination-item:hover {
   list-style: none;
   padding: 0;
   margin: var(--spacer) 0;
-  height: calc(var(--body-line-height) * var(--body-font-size));
+  height: 2.25rem;
 }
 .social-icon-item {
   float: left;
   margin-right: var(--spacer);
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.25rem;
+    min-height: 2.25rem;
+  }
 }
 
 @media screen and (min-width: $md-screen) {
