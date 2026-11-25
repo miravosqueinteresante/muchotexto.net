@@ -11,17 +11,17 @@ tags: geopolitica-regulacion ia-paraguay
 description: "Paraguay es el último país de Sudamérica que reconoce a Taiwán. 69 años de relaciones, USD 400M en préstamos y un data center de por medio."
 ---
 
-El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán el memorándum, presenciado por los presidentes Santiago Peña y Lai Ching-te de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes. En las mesas de los agregados comerciales chinos en São Paulo y Buenos Aires, la noticia se leyó con otra expresión. Paraguay acababa de firmar un acuerdo de inteligencia artificial con el país que China considera una provincia rebelde, en un año en que perder aliados duele más que nunca para Pekín.
+El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán un paquete de acuerdos de cooperación, presenciado por los presidentes Santiago Peña y Lai Ching-te. El proyecto Yguazú Digital se presentaría después. En las fotos oficiales, los dos presidentes aparecen sonrientes. En las mesas de los agregados comerciales chinos en São Paulo y Buenos Aires, la noticia se leyó con otra expresión. Paraguay acababa de firmar un acuerdo de inteligencia artificial con el país que China considera una provincia rebelde, en un año en que perder aliados duele más que nunca para Pekín.
 
-Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. De los aproximadamente 22 países que reconocían a Taipei en 2016, quedan doce. De esos doce, Paraguay es el más grande y —desde que Honduras cambió de bando en 2023— el más estratégico. No lo es por su peso económico ni militar, sino por su ubicación geopolítica y por el recurso que tiene debajo de las represas: la energía más barata de Sudamérica, que Taiwán necesita para sus centros de datos de inteligencia artificial.
+Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. Hoy quedan doce países que reconocen a Taipei. De esos doce, Paraguay es el más grande y —desde que Honduras cambió de bando en 2023— el más estratégico. No lo es por su peso económico ni militar, sino por su ubicación geopolítica y por el recurso que tiene debajo de las represas: la energía más barata de Sudamérica, que Taiwán necesita para sus centros de datos de inteligencia artificial.
 
-## 68 años de lealtad: qué une a Paraguay con Taiwán
+## 69 años de lealtad: qué une a Paraguay con Taiwán
 
 La relación empezó en 1957, cuando Paraguay aún vivía bajo la dictadura de Alfredo Stroessner y Taiwán era gobernado por el Kuomintang. En casi siete décadas sobrevivió a transiciones democráticas en Paraguay, a la democratización de Taiwán y a la presión creciente de China sobre ambos. Sobrevivió porque, a diferencia de otros aliados de Taiwán, la relación no es solo diplomática: tiene contenido económico verificable y, desde 2026, un ancla tecnológica difícil de ignorar.
 
 Taiwán es el segundo comprador de carne bovina paraguaya —25 millones de kilos, 151 millones de dólares solo en el primer semestre de 2025— y el primer comprador de carne porcina, con el 81% del mercado. En julio de 2025 entró en vigor un pacto de arancel cero para la carne de cerdo que le da a Paraguay una ventaja competitiva directa sobre cualquier otro exportador. La Agencia de Cooperación Internacional de Taiwán (ICDF) financia la Misión Técnica en Paraguay, que opera proyectos de acuicultura y agricultura. Taiwán está construyendo el Parque Tecnológico Inteligente en Ciudad del Este y la Universidad Politécnica Taiwán-Paraguay, cuyo nuevo campus abre en 2027.
 
-Los préstamos Taiwáneses a Paraguay superan los 400 millones de dólares. No son donaciones: son créditos para infraestructura, educación y tecnología, con condiciones más favorables que las del mercado y, sobre todo, sin las condiciones políticas que China suele imponer.
+Los préstamos Taiwáneses a Paraguay incluyen un crédito de USD 400 millones otorgado en 2009. No son donaciones: son créditos para infraestructura, educación y tecnología, con condiciones más favorables que las del mercado y, sobre todo, sin las condiciones políticas que China suele imponer.
 
 ## La ofensiva china: zanahorias, palos y un diplomático expulsado
 
@@ -33,13 +33,13 @@ China ha desplegado su manual de seducción en la región. Diecinueve legislador
 
 ## Yguazú Digital: el ancla geopolítica
 
-El proyecto [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) es, al mismo tiempo, un proyecto de infraestructura tecnológica y una declaración geopolítica. Lo que hace único al acuerdo es su estructura: copia el modelo Itaipú, con una empresa binacional 50/50 entre Paraguay y Taiwán. No es una concesión ni un contrato de servicios: es una sociedad de capital compartido, la misma que Paraguay tiene con Brasil para su represa más importante.
+El proyecto [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}) es, al mismo tiempo, un proyecto de infraestructura tecnológica y una declaración geopolítica. El acuerdo se presenta como una cooperación bilateral. No hay documento público que confirme una empresa binacional 50/50 al estilo Itaipú: ese formato circuló en la discusión, pero no está documentado en el memorándum.
 
 El diseño no es casual. Al atar la suerte de Yguazú Digital a la relación bilateral, Paraguay le da a Taiwán una razón de peso para mantenerse comprometido con el país, y Taiwán le da a Paraguay un socio tecnológico que ningún otro aliado diplomático podría ofrecerle.
 
 TSMC fabrica aproximadamente el 90% de los chips más avanzados del mundo. El 100% de los GPUs de NVIDIA que necesita cualquier centro de datos de inteligencia artificial —los H100, los B200— se fabrican en Taiwán. Si Paraguay quiere ser un hub de IA, los chips Taiwáneses son un insumo no negociable. La relación con Taiwán no es solo diplomática: es la puerta de entrada a la cadena de suministro más crítica de la inteligencia artificial global.
 
-El proyecto se enmarca dentro de Pax Silica, una iniciativa liderada por el Departamento de Estado de Estados Unidos que busca construir cadenas de suministro de tecnología "confiables" —es decir, que no pasen por China. La visita de [Peter Thiel a Paraguay en mayo de 2026]({% post_url 2026-05-16-peter-thiel-paraguay-experimento %}), coincidiendo con la firma del MOU, no fue casual: el cofundador de Palantir e inversor en Crusoe AI a través de Founders Fund llegó con una agenda que conecta la inteligencia artificial con la geopolítica de los datos. En ese esquema, Paraguay y Taiwán ocupan lugares complementarios: Taiwán produce los chips, Paraguay aporta la energía limpia para procesarlos.
+El proyecto se enmarca dentro de Pax Silica, una iniciativa liderada por el Departamento de Estado de Estados Unidos que busca construir cadenas de suministro de tecnología "confiables" —es decir, que no pasen por China. El interés de Founders Fund por Crusoe AI conecta la inteligencia artificial con la geopolítica de los datos. En ese esquema, Paraguay y Taiwán ocupan lugares complementarios: Taiwán produce los chips, Paraguay aporta la energía limpia para procesarlos.
 
 ## El costo de no elegir a China
 
@@ -47,7 +47,7 @@ Pero el costo existe. Los países que cambiaron de bando recibieron beneficios c
 
 Santiago Peña ha dicho públicamente que "cada uno de esos países está peor que Paraguay" después de cambiar de bando. Es una afirmación política difícil de verificar, pero revela la estrategia del gobierno: negar que el costo de mantener la relación con Taiwán sea mayor que el beneficio. Internamente, el Partido Colorado —que gobierna Paraguay desde 1887, con una breve interrupción entre 2008 y 2012— mantiene una posición mayoritariamente favorable a Taiwán. Un proyecto de ley en el Senado para abrir relaciones con China fue derrotado en 2020 por 25 votos contra 16.
 
-Sin embargo, la presión de los exportadores agrícolas crece. La Cámara Paraguaya de Exportadores de Carne (CAPECA) y la Asociación Rural del Paraguay (ARP) han señalado públicamente que el acceso al mercado chino es la prioridad número uno del sector. Paraguay produce más carne de la que puede vender a sus mercados actuales. China es el único mercado con capacidad de absorber ese excedente al precio que los productores necesitan.
+Sin embargo, la presión de los exportadores agrícolas crece. La Asociación Rural del Paraguay (ARP) ha señalado públicamente que el acceso al mercado chino es la prioridad número uno del sector. Paraguay produce más carne de la que puede vender a sus mercados actuales. China es el único mercado con capacidad de absorber ese excedente al precio que los productores necesitan.
 
 ## 2027: el año en que todo se define
 
@@ -83,7 +83,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Por qué Paraguay reconoce a Taiwán y no a China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Paraguay mantiene relaciones diplomáticas con Taiwán desde 1957, es el único país de Sudamérica que lo hace. La relación incluye más de 400 millones de dólares en préstamos Taiwáneses para infraestructura, cooperación tecnológica (Yguazú Digital), y Comercio de carne: Taiwán es el segundo comprador de carne bovina paraguaya."
+        "text": "Paraguay mantiene relaciones diplomáticas con Taiwán desde 1957, es el único país de Sudamérica que lo hace. La relación incluye un préstamo de USD 400 millones de 2009 para Taiwáneses para infraestructura, cooperación tecnológica (Yguazú Digital), y Comercio de carne: Taiwán es el segundo comprador de carne bovina paraguaya."
       }
     },
     {
@@ -99,7 +99,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
       "name": "¿Qué es Yguazú Digital y por qué es relevante para la geopolítica con Taiwán?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yguazú Digital es un proyecto de centro de datos de inteligencia artificial entre Paraguay y Taiwán, con una estructura 50/50 similar a Itaipú. Ató la suerte del proyecto a la relación bilateral. Taiwán produce el 90% de los chips avanzados del mundo (TSMC), incluyendo todos los GPUs de NVIDIA que necesita cualquier data center de IA."
+        "text": "Yguazú Digital es un proyecto de centro de datos de inteligencia artificial entre Paraguay y Taiwán, presentado como cooperación bilateral. No hay documento público que confirme una estructura 50/50 similar a Itaipú. Taiwán produce el 90% de los chips avanzados del mundo (TSMC), incluyendo todos los GPUs de NVIDIA que necesita cualquier data center de IA."
       }
     }
   ]

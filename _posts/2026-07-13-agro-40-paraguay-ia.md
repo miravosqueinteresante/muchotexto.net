@@ -11,9 +11,9 @@ tags: tech-ecosistema
 description: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Mientras Brasil tiene 1.600 agtechs y Argentina 400, Paraguay apenas suma 14 startups."
 ---
 
-Paraguay depende de la agricultura como ningún otro país de Sudamérica de su tamaño. El sector emplea al 16% de la fuerza laboral, genera el 11% del PIB y el complejo sojero representa aproximadamente el 45% de las exportaciones totales. La producción de alimentos es la columna vertebral de la economía. Pero la tecnología que transformó el campo en Brasil, Argentina y Uruguay casi no existe en Paraguay.
+Paraguay depende de la agricultura como ningún otro país de Sudamérica de su tamaño. El sector empleaba al 26,5% de la fuerza laboral en 2008, genera el 11% del PIB y la soja representa alrededor del 40% de las exportaciones totales. La producción de alimentos es la columna vertebral de la economía. Pero la tecnología que transformó el campo en Brasil, Argentina y Uruguay casi no existe en Paraguay.
 
-Menos del 5% de las fincas paraguayas usa herramientas de agricultura de precisión: imágenes satelitales para monitorear cultivos, drones para fumigar, sensores de suelo para optimizar el riego, algoritmos que predicen plagas. Brasil tiene aproximadamente 1.600 startups de tecnología agropecuaria. Argentina tiene alrededor de 200. Paraguay tiene catorce. La brecha no es de potencial productivo —Paraguay es el sexto productor mundial de soja— sino de acceso a la tecnología que podría hacer que ese potencial crezca.
+Menos del 5% de las fincas paraguayas usa herramientas de agricultura de precisión: imágenes satelitales para monitorear cultivos, drones para fumigar, sensores de suelo para optimizar el riego, algoritmos que predicen plagas. Brasil tiene aproximadamente 1.600 startups de tecnología agropecuaria. Argentina tiene alrededor de 400. Paraguay tiene catorce. La brecha no es de potencial productivo —Paraguay es el sexto productor mundial de soja— sino de acceso a la tecnología que podría hacer que ese potencial crezca.
 
 ## De satélites y drones: quién está trayendo tecnología al campo
 
@@ -23,7 +23,7 @@ En Paraguay, las aplicaciones más avanzadas están concentradas en grandes prod
 
 Smart Soil Py es la startup agtech paraguaya más destacada. Recibió 150.000 dólares del BID Lab y fue seleccionada por el programa FoodRise, que le otorgó hasta 100.000 dólares adicionales. Su plataforma usa inteligencia artificial para detectar enfermedades en cultivos a partir de imágenes. Ya monitorea más de 23.000 hectáreas en el país.
 
-El mercado de drones agrícolas está creciendo rápido. Hay aproximadamente 300 drones en operación agrícola en Paraguay, según estimaciones del sector, y al menos siete empresas ofrecen servicios de fumigación y monitoreo con drones, como Control Verde, YvyTech, Gaba Agriculture y otras. Un dron agrícola como el DJI T50 puede fumigar hasta 350 hectáreas por día con un ahorro de agua del 90% en comparación con la fumigación manual o con tractor.
+El mercado de drones agrícolas está creciendo rápido. Hay aproximadamente 300 drones en operación agrícola en Paraguay, según estimaciones del sector, y al menos siete empresas ofrecen servicios de fumigación y monitoreo con drones, como Control Verde, YvyTech, Gaba Agriculture y otras. Un dron agrícola como el DJI T50 puede fumigar hasta 350 hectáreas por día, según la capacidad declarada del equipo, con un ahorro de agua del 90% en comparación con la fumigación manual o con tractor.
 
 En el plano satelital, la plataforma Guaraní Insights, desarrollada por la Agencia Espacial del Paraguay (AEP) en colaboración con ArkEdge de Japón, ofrece imágenes satelitales gratuitas para productores paraguayos, con cuatro años de datos históricos acumulados. La AEP está reorientando todo su programa espacial hacia la agricultura de precisión. En febrero de 2026, el Banco Mundial y la Agencia Espacial Europea visitaron la Federación de Cooperativas (FECOPROD) para explorar cómo expandir el uso de datos satelitales en el campo.
 
@@ -31,7 +31,7 @@ En el plano satelital, la plataforma Guaraní Insights, desarrollada por la Agen
 
 El principal obstáculo para la adopción de tecnología agrícola en Paraguay no es la falta de soluciones técnicas. Es la estructura del campo.
 
-Paraguay tiene una de las concentraciones de tierra más desiguales de América Latina. Según los datos disponibles —el último censo agropecuario es de 2008— el 1% de las explotaciones controla el 79% de la tierra cultivable (cifra del censo de 1981, el último con datos de concentración publicados). En el otro extremo, el 35% de las fincas son minifundios de menos de 1,7 hectáreas. El productor grande tiene acceso a crédito, asistencia técnica y conexión a internet, pero representa una minoría. El pequeño productor —que es la mayoría— no tiene ninguna de esas tres cosas.
+Paraguay tiene una de las concentraciones de tierra más desiguales de América Latina. Según los datos disponibles —el último censo agropecuario es de 2008— el 1% de las explotaciones controla el 79% de la tierra cultivable (cifra del censo de 1981, el último con datos de concentración publicados). En el otro extremo, el minifundio promedio ronda las 1,7 hectáreas. El productor grande tiene acceso a crédito, asistencia técnica y conexión a internet, pero representa una minoría. El pequeño productor —que es la mayoría— no tiene ninguna de esas tres cosas.
 
 La conectividad rural es el cuello de botella más inmediato. Se estima que apenas el 35% al 40% de las zonas agrícolas paraguayas tiene acceso a internet de calidad suficiente para usar aplicaciones de agricultura de precisión. Un dron agrícola que necesita transmisión de datos en tiempo real no sirve en un lote sin señal. Una plataforma satelital que requiere conexión para descargar imágenes es inútil si el productor no tiene datos móviles.
 
@@ -41,9 +41,9 @@ La [tokenización de activos agropecuarios]({% post_url 2026-05-18-tokenizacion-
 
 ## La urgencia climática
 
-El 2022 fue un año que ningún productor paraguayo va a olvidar. Una sequía severa, impulsada por La Niña, redujo la cosecha de soja en un 60%. Las exportaciones se desplomaron. El PIB del país creció apenas un 0,2% ese año, frente al 4% proyectado antes de la sequía. Todo por un solo evento climático.
+El 2022 fue un año que ningún productor paraguayo va a olvidar. Una sequía severa, impulsada por La Niña, redujo la cosecha de soja en un 60%. Las exportaciones se desplomaron. El PIB del país creció apenas una fracción de lo proyectado antes de la sequía. Todo por un solo evento climático.
 
-Paraguay es uno de los países más vulnerables al cambio climático en América Latina. La temperatura media ya subió 1,5 grados Celsius por encima del promedio 1961-1990. Los ciclos de sequía e inundación, impulsados por El Niño y La Niña, son cada vez más extremos. La agricultura —que genera la mitad de las exportaciones— no tiene un sistema de alerta temprana dedicado ni herramientas de previsión climática accesibles para el pequeño productor.
+Paraguay es uno de los países más vulnerables al cambio climático en América Latina. La temperatura media ya subió 1,5 grados Celsius por encima del promedio 1961-1990. Los ciclos de sequía e inundación, impulsados por El Niño y La Niña, son cada vez más extremos. La agricultura —que genera cerca del 40% de las exportaciones— tiene sistemas de alerta temprana fragmentados (DMH, CREWS), pero no herramientas de previsión climática accesibles para el pequeño productor.
 
 La inteligencia artificial puede ayudar. En India, Brasil y Kenia existen modelos predictivos que usan datos satelitales y meteorológicos para anticipar sequías, recomendar fechas de siembra o predecir brotes de plagas. Esa tecnología existe, los datos satelitales son gratuitos (Sentinel-2 de la Agencia Espacial Europea, Landsat de la NASA) y el costo computacional es bajo. Lo que no existe en Paraguay es un sistema que ponga esos datos al alcance del productor que más los necesita.
 

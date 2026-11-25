@@ -117,19 +117,15 @@ cierres:
   last_modified_at: 2026-08-15
 - slug: 2026-07-09-paraguay-china-taiwan-geopolitica-ia
   research_dir: research_china_taiwan
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-07-10-fintech-paraguay-ecosistema
   research_dir: research_fintech
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-07-10-que-es-un-data-center-paraguay-ia
   research_dir: research_que-es-un-data-center-paraguay-ia
@@ -139,19 +135,15 @@ cierres:
   last_modified_at: 2026-10-20
 - slug: 2026-07-10-talento-tech-paraguay-ia
   research_dir: research_talento_tech
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-07-13-agro-40-paraguay-ia
   research_dir: research_agro_40
-  estado: parcial
-  faltantes:
-  - gap_report.md
-  - spotcheck.md
-  motivo: Carpeta identificable con artefactos incompletos; backfill pendiente.
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-07-14-semiconductores-taiwan-paraguay
   research_dir: research_semiconductor
