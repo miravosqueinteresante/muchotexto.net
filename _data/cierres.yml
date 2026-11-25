@@ -438,3 +438,9 @@ cierres:
   faltantes: []
   motivo: null
   last_modified_at: 2026-11-23
+- slug: 2026-11-25-paraguay-lectura-ia
+  research_dir: research_paraguay-lectura-ia
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-25

@@ -150,7 +150,8 @@
     regulacion: No se identificó un vínculo con una norma del mapa regulatorio en
       este backfill.
     claims: No se identificó un claim en la página pública en este backfill.
-    entidades: La regeneración de entidades dejó de listar este artículo y no declara entidades en su front matter.
+    entidades: La regeneración de entidades dejó de listar este artículo y no declara
+      entidades en su front matter.
     grafo: El grafo no indexa URLs de artículos.
 2026-05-28-magnifica-humanitas-enciclica-ia:
   superficies:
@@ -1311,7 +1312,30 @@
     grafo: n/a
   motivos:
     directorio: No se agregó una entrada nueva al directorio en esta edición.
-    radar: No se agregó una norma nueva al radar; el artículo usa leyes y datos ya existentes.
+    radar: No se agregó una norma nueva al radar; el artículo usa leyes y datos ya
+      existentes.
     claims: No se incorporaron claims nuevos a la página pública en esta edición.
-    entidades: El artículo no se centra en una entidad del observatorio; usa MITIC e INE como fuentes.
+    entidades: El artículo no se centra en una entidad del observatorio; usa MITIC
+      e INE como fuentes.
+    grafo: El grafo no indexa URLs de artículos.
+2026-11-25-paraguay-lectura-ia:
+  superficies:
+    pilar: updated
+    llms: updated
+    cronologia: n/a
+    glosario: n/a
+    casos: n/a
+    directorio: n/a
+    radar: n/a
+    claims: n/a
+    entidades: n/a
+    grafo: n/a
+  motivos:
+    cronologia: El artículo no declara hitos en su front matter.
+    glosario: El artículo no declara términos en su front matter.
+    casos: El artículo no declara casos en su front matter.
+    directorio: El artículo no declara entradas de directorio en su front matter.
+    radar: No se identificó un vínculo con una norma del radar en este backfill.
+    claims: No se identificó un claim en la página pública en este backfill.
+    entidades: El artículo no aparece en ninguna página de entidad.
     grafo: El grafo no indexa URLs de artículos.

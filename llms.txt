@@ -97,6 +97,7 @@ sameAs: [@cesanz](https://x.com/cesanz), [LinkedIn](https://www.linkedin.com/in/
 - [Estados Unidos usó IA para reinventar el fútbol en el Mundial 2026](https://muchotexto.net/articulos/2026/06/23/laboratorio-americano-ia-futbol-mundial-2026/)
 - [Paraguay está enseñando guaraní a la inteligencia artificial](https://muchotexto.net/articulos/2026/07/29/guarani-ia/)
 - [Inteligencia de alquiler, la IA como pareja, terapeuta y jefe](https://muchotexto.net/articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/)
+- [Paraguay comprende cada vez menos lo que lee, y la IA no es la causa](https://muchotexto.net/articulos/2026/11/25/paraguay-lectura-ia/)
 
 <!-- ARTICULOS:FIN -->
 

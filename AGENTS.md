@@ -198,7 +198,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 ### Política de cierre long-form (decisión 24-nov-2026)
 
 - **Artefactos crudos:** `research_*/` sigue siendo local y no se versiona (incluye `sources/` con material descargado). Lo que se versiona es un manifiesto de cierre `_data/cierres.yml` con: artículo, `research_dir`, estado (`completo`/`parcial`/`legacy`), fecha y faltantes. Se genera con `python scripts/build_cierres.py`; CI valida cobertura con `python scripts/test_cierres.py`. `validate_publish` resuelve `research_dir` desde el manifiesto, así que los alias históricos son válidos si están declarados. Los `findings` crudos no se publican.
-- **Legacy:** el manifiesto actual tiene 45 análisis con cierre completo, 14 parciales y 4 legacy. No se inventan artefactos retroactivos. Los parciales se backfillean con `gap_report.md` y `spotcheck.md`; los legacy se marcan con motivo y exigen un cierre resumido antes de una nueva edición.
+- **Legacy:** el manifiesto actual tiene 46 análisis con cierre completo, 14 parciales y 4 legacy. No se inventan artefactos retroactivos. Los parciales se backfillean con `gap_report.md` y `spotcheck.md`; los legacy se marcan con motivo y exigen un cierre resumido antes de una nueva edición.
 - **Fuentes:** 404/410 y URLs de homepage son errores bloqueantes en `validate_publish`. Excepción: homepage oficial cuando esa página ES la fuente primaria y el dominio está en `scripts/url_homepage_allowlist.txt`.
 - **Alcance del gate:** el cierre y la cobertura del observatorio se exigen a cualquier artículo long-form que se modifique, no solo a los nuevos. Los artículos `legacy` pueden publicar una edición con un cierre resumido y una razón explícita.
 - **Automatizaciones:** Pulso/Editorial no requieren aprobación previa; FAQ no requiere aprobación previa si solo agrega schema derivado del texto. Cualquier cambio de prosa generado por un bot sí requiere revisión humana antes de publicar.
@@ -531,6 +531,6 @@ Fuentes: Science (26-mar-2026), OII (jul-2026), Common Sense (jul-2025), RAND (3
 - **PSI:** Performance reportado 99. El único render-blocking es `styles.css` (8,1 KiB, ~120 ms); no se fuerza CSS async para evitar FOUC/CLS.
 - **Seguridad:** persisten warnings de headers HTTP (HSTS/CSP/XFO) porque GitHub Pages no permite headers personalizados. `X-Frame-Options` ya **no** se declara por `<meta>`, que era inválido y generaba error de consola.
 - **Contraste:** badges y tags corregidos; enlaces en prosa y cookie banner subrayados.
-- **Cierre:** 45 análisis completos, 14 parciales, 4 legacy.
+- **Cierre:** 46 análisis completos, 14 parciales, 4 legacy.
 
 **Pendiente:** mejorar headers reales solo si se migra a Cloudflare/Netlify; no introducir CSS async por 120 ms.
