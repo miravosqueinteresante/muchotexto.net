@@ -195,7 +195,7 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 ### Política de cierre long-form (decisión 24-nov-2026)
 
 - **Artefactos crudos:** `research_*/` sigue siendo local y no se versiona (incluye `sources/` con material descargado). Lo que se versiona es un manifiesto de cierre `_data/cierres.yml` con: artículo, `research_dir`, estado (`completo`/`parcial`/`legacy`), fecha y faltantes. Se genera con `python scripts/build_cierres.py`; CI valida cobertura con `python scripts/test_cierres.py`. `validate_publish` resuelve `research_dir` desde el manifiesto, así que los alias históricos son válidos si están declarados. Los `findings` crudos no se publican.
-- **Legacy:** 17 análisis tienen cierre exacto y completo; 33 tienen carpeta alias/parcial; 13 no tienen carpeta identificable. No se inventan artefactos retroactivos. Los parciales se backfillean con `gap_report.md` y `spotcheck.md`; los 13 se marcan `legacy` con motivo y exigen un cierre resumido antes de una nueva edición.
+- **Legacy:** el manifiesto actual tiene 45 análisis con cierre completo, 14 parciales y 4 legacy. No se inventan artefactos retroactivos. Los parciales se backfillean con `gap_report.md` y `spotcheck.md`; los legacy se marcan con motivo y exigen un cierre resumido antes de una nueva edición.
 - **Fuentes:** 404/410 y URLs de homepage son errores bloqueantes en `validate_publish`. Excepción: homepage oficial cuando esa página ES la fuente primaria y el dominio está en `scripts/url_homepage_allowlist.txt`.
 - **Alcance del gate:** el cierre y la cobertura del observatorio se exigen a cualquier artículo long-form que se modifique, no solo a los nuevos. Los artículos `legacy` pueden publicar una edición con un cierre resumido y una razón explícita.
 - **Automatizaciones:** Pulso/Editorial no requieren aprobación previa; FAQ no requiere aprobación previa si solo agrega schema derivado del texto. Cualquier cambio de prosa generado por un bot sí requiere revisión humana antes de publicar.
@@ -213,9 +213,17 @@ fecha_publicacion, fecha_extraccion, metodo_extraccion, estado_verificacion
 - **con_pilar:** artículos con `pilar` 1-5.
 - **analisis:** `con_pilar` menos `NON_ANALYSIS` (bienvenida y ensayo de fútbol).
 
-La página pilar usa el conteo dinámico de `con_pilar`; por eso puede decir 62 artículos mientras el observatorio tiene 61 análisis. No hardcodear estos números en páginas ni artículos.
+La página pilar usa el conteo dinámico de `con_pilar`; por eso puede diferir del total de análisis del observatorio. No hardcodear estos números en páginas ni artículos.
 
 `estrategia-seo-unificada-muchotexto.md` es un **documento local de referencia**. Está en `.gitignore`; no se commitea ni cuenta como entregable del repo. **Las reglas vinculantes de long-form son las de este archivo y las que ejecuta `validate_publish`; la estrategia no se lee en CI.** El hook local `.git/hooks/pre-commit` ejecuta `validate_publish` sobre posts staged y `check_observatorio --all`; los tests lentos quedan en CI.
+
+## Sistema visual y accesibilidad (25-nov-2026)
+
+- **Paleta:** cobre `#C08A4E` para links, foco y estados activos; oliva `#A3B18A` para datos verificados/positivos; pizarra `#7A9CB5` para metadata y tags, con `--meta-text: #A8C0D4` cuando el fondo está tintado. Neutros para superficies, texto y bordes. **No usar cian** ni nuevos acentos decorativos.
+- **Tipografía y motion:** `text-wrap: balance` en títulos, `text-wrap: pretty` en cuerpo; sin pulsos/loops decorativos; `prefers-reduced-motion` global; `:focus-visible` en cobre.
+- **Hairline Hub:** `assets/js/hairline-hub.js` es un bundle local MIT de `@lucasmarkes/hairline` (solo Hub), cargado únicamente en el home, con `aspect-ratio: 5/4`, 300 px desktop / 220 px móvil. No cargar el paquete completo ni usar CDN.
+- **Contraste:** badges y tags tintados deben mantener ≥4.5:1; los enlaces dentro de prosa y el banner de cookies van subrayados, no solo con color.
+- **Headers:** `X-Frame-Options` no se puede setear por `<meta>`; no reintroducirlo. HSTS/CSP headers reales requieren CDN o hosting con headers.
 
 ## Categorías de error más frecuentes (verificar con especial atención)
 
@@ -513,33 +521,13 @@ Fuentes: Science (26-mar-2026), OII (jul-2026), Common Sense (jul-2025), RAND (3
 #### Graduados STEM
 - **~400 graduados en informática por año**: TRUE (INE vía La Tribuna, 22-01-2026). NO usar "400-600" ni "600" como techo. Estimación sectorial: 20-50 empleos por 100 MW en data centers.
 
-### Auditoría de sitio — squirrelscan (histórica, 2-sep-2026)
+### Auditoría de sitio — estado 25-nov-2026
 
-**Score en esa fecha: 79/100 (C)**. CLI: `npx squirrelscan audit https://muchotexto.net`. **Estado actual: 84/100 (B), 19-oct-2026.**
+- **Squirrel:** 85/100 (B), 0 errores. Performance 94, Accessibility 99, Core SEO 100, Structured Data 100.
+- **Lighthouse mobile:** Performance 89-99 según carga de GTM/AdSense; Accessibility **100**; Best Practices **100**; LCP 1,2 s; CLS 0; TBT 440 ms atribuido a `gtag/js` (GTM/GA), no al sitio.
+- **PSI:** Performance reportado 99. El único render-blocking es `styles.css` (8,1 KiB, ~120 ms); no se fuerza CSS async para evitar FOUC/CLS.
+- **Seguridad:** persisten warnings de headers HTTP (HSTS/CSP/XFO) porque GitHub Pages no permite headers personalizados. `X-Frame-Options` ya **no** se declara por `<meta>`, que era inválido y generaba error de consola.
+- **Contraste:** badges y tags corregidos; enlaces en prosa y cookie banner subrayados.
+- **Cierre:** 45 análisis completos, 14 parciales, 4 legacy.
 
-| Categoría | Score | Notas |
-|-----------|-------|-------|
-| Structured Data | 100% | JSON-LD completo (Article, BreadcrumbList, Organization, Person, WebPage). El error `coverage-outlier` (18 pages sin Article schema) es en páginas estáticas (about, contacto, etc.) — esperado. |
-| Core SEO | 71% | 54 meta titles >60 chars, 29 meta descriptions >160 chars. Fixable reduciendo títulos/descripciones de artículos. |
-| E-E-A-T | 100% | Author byline con `rel="author"` linkeando a `/about`. Visible en posts. |
-| Crawlability | 100% | sitemap.xml completo, robots.txt correcto. |
-| Links | 82% | 24 broken external links (15×404, 4×403 — sobre todo URLs con caracteres acentuados en ABC). 14 orphan pages (editorial/pulso sin inbound links internos). |
-| Performance | 60% | TTFB ~600ms (GitHub Pages), lazy loading en above-fold (cesar-sanchez.webp), unminified CSS/JS. Limitaciones de hosting. |
-| Security | 88% | Sin HSTS/CSP headers (requiere CDN/server). Expected for GitHub Pages. |
-| Content | 77% | 8 thin entity pages (<300 words). Heading hierarchy warnings en /entidades/, /grafo/, /radar-legislativo/. |
-| Images | 66% | cesar-sanchez.webp 56×56 sin srcset (oversized). |
-| Analytics | 100% | GA4 configurado. |
-| Social Media | 100% | Open Graph + Twitter cards completas. |
-| Accessibility | 85% | 127 warnings (color contrast, identical links, focus outlines). |
-
-**Historial de commits de auditoría:**
-- `76a3465` — JSON-LD, broken links, meta titles, E-E-A-T
-- `8f8b191` — image, publisher.logo
-- `37e4dfb` — datePublished fallback, WebPage.name
-- `b01dc58` — author byline con `rel="author"` (E-E-A-T → 100%)
-
-**Acciones pendientes de alto impacto:**
-1. Reducir meta titles a ≤60 chars (54 páginas afectadas)
-2. Corregir 24 broken external links (acentos en URLs)
-3. Agregar Article schema a páginas estáticas para eliminar `coverage-outlier`
-4. Agregar inbound links a editorial/pulso para reducir orphan pages
+**Pendiente:** mejorar headers reales solo si se migra a Cloudflare/Netlify; no introducir CSS async por 120 ms.
