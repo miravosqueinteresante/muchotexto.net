@@ -8,7 +8,7 @@ categories: articulos
 pilar: 5
 resumen: "El Vaticano publicó la primera encíclica sobre inteligencia artificial."
 tags: cultura-filosofia ia-paraguay
-description: "El Papa León XIV firmó la primera encíclica sobre IA, a 135 años de Rerum Novarum. Claves de Magnifica Humanitas."
+description: "El Papa León XIV firmó la primera encíclica sobre IA, a 135 años de Rerum Novarum. Claves y límites de Magnifica Humanitas."
 ---
 
 La inteligencia artificial no es neutral. Suena a frase de manual de ética corporativa, pero dicha por un Papa, en una encíclica de 110 páginas, firmada el mismo día que *Rerum Novarum* pero 135 años después, la declaración adquiere otro peso. Es la advertencia central de *Magnifica Humanitas*, el primer documento papal dedicado íntegramente a la inteligencia artificial, y probablemente la intervención moral más significativa sobre el tema que haya producido líder religioso alguno.

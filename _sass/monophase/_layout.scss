@@ -820,3 +820,15 @@ a.pagination-item:hover {
   text-transform: uppercase;
   color: var(--text-color-light, #aaa);
 }
+
+.post-title,
+.page-title,
+.post :is(h2, h3, h4, h5, h6) {
+  text-wrap: balance;
+}
+
+.post p,
+.post blockquote,
+.post li {
+  text-wrap: pretty;
+}

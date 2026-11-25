@@ -101,8 +101,7 @@
       });
 
       // Order by category (legend order), then by degree desc within each sector.
-      var buckets = {};
-      nodes.forEach(function (n) { (buckets[n.cat] = buckets[n.cat] || []).push(n); });
+      var buckets = Object.groupBy(nodes, function (n) { return n.cat; });
       CATEGORY_ORDER.forEach(function (c) {
         if (buckets[c]) buckets[c].sort(function (a, b) { return b.deg - a.deg; });
       });
