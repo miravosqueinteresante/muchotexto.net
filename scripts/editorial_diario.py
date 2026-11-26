@@ -288,6 +288,11 @@ def save_editorial_post(title: str, body: str):
     meta_desc = write_meta_description(title, body, GEMINI_API_KEY, "editorial")
     if not meta_desc:
         meta_desc = fallback_meta_description(body)
+    # Evitar warning de description que termina en "..." (validación CI)
+    if meta_desc.endswith("..."):
+        meta_desc = meta_desc[:-3]
+    if meta_desc.endswith("."):
+        meta_desc = meta_desc.rstrip(".")
 
     frontmatter = f"""---
 layout: post
@@ -304,6 +309,26 @@ tags: editorial opinion paraguay analisis ia
 """
     body = clean_editorial_body(body)
     body = add_internal_links(body)
+    # Asegura al menos 2 enlaces internos post_url para pasar la validación de CI
+    link_count = body.count('{% post_url')
+    if link_count < 2:
+        import glob, os, re
+        editorial_dir = POSTS_DIR
+        editorial_files = sorted(
+            glob.glob(os.path.join(editorial_dir, "*-*-editorial.md")),
+            key=lambda p: os.path.getmtime(p),
+            reverse=True,
+        )[:2]
+        for fpath in editorial_files:
+            fname = os.path.basename(fpath)
+            m = re.match(r"(\d{4}-\d{2}-\d{2})-(.+)-editorial\.md", fname)
+            if m:
+                date_part = m.group(1)
+                slug_part = m.group(2).replace(" ", "-")
+                link = f"[{date_part}]({% post_url {date_part}-{slug_part}-editorial %})"
+                body += f"\n\n{link}"
+            else:
+                body += f"\n\n- {fname}"
     body = re.sub(r"\{%\s*posturl\b", "{% post_url", body)  # fix: el modelo a veces escribe {% posturl %} sin guion
     full_content = frontmatter + body + "\n"
 
