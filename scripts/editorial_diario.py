@@ -319,16 +319,32 @@ tags: editorial opinion paraguay analisis ia
             key=lambda p: os.path.getmtime(p),
             reverse=True,
         )[:2]
+        links_added = []
         for fpath in editorial_files:
             fname = os.path.basename(fpath)
             m = re.match(r"(\d{4}-\d{2}-\d{2})-(.+)-editorial\.md", fname)
             if m:
                 date_part = m.group(1)
                 slug_part = m.group(2).replace(" ", "-")
-                link = "[" + date_part + "](" + "{% post_url " + date_part + "-" + slug_part + "-editorial %})"
-                body += f"\n\n{link}"
-            else:
-                body += f"\n\n- {fname}"
+                # Intentar extraer el título del front matter para un anchor profesional
+                title = None
+                try:
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        for line in f:
+                            line = line.strip()
+                            if line.startswith("title:"):
+                                title = line.split(":", 1)[1].strip().strip('"').strip("'")
+                                break
+                except Exception:
+                    pass
+                if not title:
+                    title = "Editorial del " + date_part
+                link = "[" + title + "](" + "{% post_url " + date_part + "-" + slug_part + "-editorial %})"
+                links_added.append(link)
+        if links_added:
+            body += "\n\n**Lectura relacionada:** " + links_added[0]
+            if len(links_added) > 1:
+                body += "\n\n**Editoriales recientes:** " + links_added[1]
     body = re.sub(r"\{%\s*posturl\b", "{% post_url", body)  # fix: el modelo a veces escribe {% posturl %} sin guion
     full_content = frontmatter + body + "\n"
 

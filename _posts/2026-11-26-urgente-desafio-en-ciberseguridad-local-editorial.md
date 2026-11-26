@@ -22,6 +22,6 @@ El uso masivo de herramientas como WhatsApp, que hoy suma funciones de stickers 
 
 La dicotomía entre el avance tecnológico privado y la fragilidad de la seguridad estatal es evidente. Paraguay necesita transitar hacia una estrategia de ciberseguridad que no solo reaccione ante los incidentes, sino que anticipe los riesgos derivados de la creciente interconexión global. La lección de hoy es clara: la infraestructura digital es tan fuerte como el eslabón más débil de su cadena de seguridad, y fortalecer ese eslabón es una tarea urgente para el sector público y privado.
 
-[2026-11-22]({% post_url 2026-11-22-la-tecnologia-transforma-el-estado-editorial %})
+**Lectura relacionada:** [La tecnología transforma el Estado]({% post_url 2026-11-22-la-tecnologia-transforma-el-estado-editorial %})
 
-[2026-11-20]({% post_url 2026-11-20-desafios-digitales-y-energeticos-en-el-pais-editorial %})
+**Editoriales recientes:** [Desafíos digitales y energéticos en el país]({% post_url 2026-11-20-desafios-digitales-y-energeticos-en-el-pais-editorial %})
