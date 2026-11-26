@@ -325,7 +325,7 @@ tags: editorial opinion paraguay analisis ia
             if m:
                 date_part = m.group(1)
                 slug_part = m.group(2).replace(" ", "-")
-                link = f"[{date_part}]({% post_url {date_part}-{slug_part}-editorial %})"
+                link = "[" + date_part + "](" + "{% post_url " + date_part + "-" + slug_part + "-editorial %})"
                 body += f"\n\n{link}"
             else:
                 body += f"\n\n- {fname}"
@@ -361,8 +361,19 @@ def main():
     log.info("Paso 1/3: Leyendo Pulso Paraguay de %s...", date)
     pulso, pulso_title = read_pulso_post(date)
     if not pulso:
-        log.warning("No se encontró el Pulso Paraguay para hoy (%s). Abortando.", date)
-        sys.exit(0)
+        # Buscar el Pulso más reciente disponible (para manejar delays de GitHub Actions)
+        import glob, os, re
+        pulso_files = sorted(glob.glob(os.path.join(POSTS_DIR, "*-pulso-tech-paraguay.md")), key=lambda p: os.path.getmtime(p), reverse=True)
+        if pulso_files:
+            latest = pulso_files[0]
+            m = re.match(r"(\d{4}-\d{2}-\d{2})-.*-pulso-tech-paraguay\.md", os.path.basename(latest))
+            if m:
+                date = m.group(1)
+                log.info("Pulso de hoy no encontrado; usando el más reciente: %s", date)
+                pulso, pulso_title = read_pulso_post(date)
+        if not pulso:
+            log.warning("No se encontró ningún Pulso Paraguay. Abortando.")
+            sys.exit(0)
 
     log.info("Paso 2/3: Generando Editorial con %s...", GEMINI_MODEL)
     result = call_gemini(pulso, pulso_title)
