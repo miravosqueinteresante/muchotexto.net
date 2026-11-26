@@ -277,9 +277,10 @@ def clean_editorial_body(body: str) -> str:
     return '\n'.join(out)
 
 
-def save_editorial_post(title: str, body: str):
+def save_editorial_post(title: str, body: str, date: str = None):
     now = now_py()
-    date = date_str()
+    if date is None:
+        date = date_str()
     # El titular lo escribe Gemini (13-43 chars, sin cortes).
     title = write_title(body, title, GEMINI_API_KEY, "editorial") or fallback_title(body)
     slug_base = make_slug(title)
@@ -405,7 +406,7 @@ def main():
         log.error("Editorial publicada con %d alertas criticas — requiere revision humana.", vresult["critical"])
 
     log.info("Paso 3/3: Guardando post de Jekyll...")
-    filepath = save_editorial_post(title, body)
+    filepath = save_editorial_post(title, body, date)
 
     log.info("¡Listo! Editorial generada: %s", filepath)
 
