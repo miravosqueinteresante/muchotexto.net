@@ -23,3 +23,7 @@ La llegada de Starlink a instituciones educativas rurales y la autorización jud
 ## Convergencia tecnológica en el Estado
 
 La relación entre estos hechos es clara: la tecnología está siendo utilizada para optimizar la gestión estatal, ya sea para mejorar la calidad de vida mediante la salud, garantizar derechos básicos como la educación o fortalecer el control judicial. La implementación de IA en el IPS, la expansión de la red satelital y el uso de peritajes digitales muestran que el Estado paraguayo está integrando herramientas tecnológicas de manera transversal. La eficacia de estas medidas dependerá de la capacidad técnica para sostener estas soluciones a largo plazo y de la seguridad con la que se manejen los datos de los ciudadanos. La tecnología ha dejado de ser un accesorio para convertirse en el eje sobre el cual se articulan los servicios públicos y la rendición de cuentas en el país.
+
+**Lectura relacionada:** [Análisis de lectura e IA]({% post_url 2026-11-25-paraguay-lectura-ia %}) – artículo long‑form sobre la caída de la comprensión lectora en Paraguay y la IA.
+
+**Editoriales recientes:** [Desafíos del desarrollo tecnológico del país]({% post_url 2026-11-21-desafios-del-desarrollo-tecnologico-pais-editorial %}).
