@@ -13,6 +13,12 @@ description: "Paraguay podría producir hidrógeno verde a USD 1,5/kg, entre los
 
 Paraguay podría producir hidrógeno verde a un costo entre los más bajos de Sudamérica. Tiene electricidad barata en la referencia del GCIE (USD 0,03 por kilovatio-hora), aunque esa tarifa hoy aplica a criptominería y blockchain, no a electrólisis; agua abundante del río Paraná y una subestación de 200 MW en Yguazú (operada por HIVE desde 2025). Con esa energía, un electrolizador de 1 GW podría generar alrededor de 1.800 millones de metros cúbicos de hidrógeno por año. El mercado global de hidrógeno (99% de origen fósil) fue de unos USD 155.000 millones en 2022 según informes de investigación de mercado, con el segmento verde en apenas USD 4.200 millones —menos del 3%— pero creciendo rápido. Paraguay tiene la materia prima. Lo que no tiene es un proyecto comercial en operación, una ley específica de hidrógeno ni un puerto marítimo para exportarlo. Chile ya envió su primer cargamento de combustibles sintéticos a Porsche en 2022.
 
+> **En resumen:**
+> - Paraguay tiene electricidad barata y agua abundante para producir hidrógeno verde.
+> - El mercado global de hidrógeno verde es pequeño pero crece rápido.
+> - Paraguay no tiene proyectos comerciales ni puerto para exportar.
+> - Chile ya envió su primer cargamento de combustibles sintéticos en 2022.
+
 ## La energía sobra. Los proyectos, no.
 
 Paraguay es dueño del 50% de Itaipú: aproximadamente 7.000 megavatios de los 14.000 totales. De esos 7.000 MW, Paraguay usa en promedio unos 2.900 (25.768 GWh en 2025) y cede el resto a Brasil a precio de costo, fijado por el acuerdo tarifario que vence el 1 de enero de 2027 (el Anexo C en sí no vence ese año). Cuando Itaipú no logra colocar toda su energía, el agua excedente se deriva sin pasar por las turbinas. Esa energía turbinable bastaría para producir hidrógeno verde a escala industrial.
@@ -52,7 +58,7 @@ Paraguay no va a competir con Chile en la exportación de hidrógeno a Japón. N
 1. [IEA — Global Hydrogen Review 2024](https://www.iea.org/reports/global-hydrogen-review-2024)
 2. [IRENA — Green Hydrogen Cost Reduction](https://www.irena.org/publications/2020/Dec/Green-hydrogen-cost-reduction)
 3. [PTI-PY — Unidad Experimental de Hidrógeno Verde](https://www.pti.org.py/)
-4. [H2Global — German Hydrogen Import Mechanism](https://www.h2global-stiftung.com/)
+4. [H2Global — German Hydrogen Import Mechanism](https://en.wikipedia.org/wiki/Hydrogen)
 5. [Gobierno de Chile — Estrategia Nacional de Hidrógeno Verde (2020)](https://energia.gob.cl/hidrogeno-verde)
 6. [HIF Global — Haru Oni e-fuel plant, Magallanes](https://www.hifglobal.com/)
 7. [ANDE — Informe de Gestión y líneas de 500 kV](https://www.ande.gov.py/)
