@@ -16,6 +16,16 @@ En octubre de 2023, la Comisión Nacional de Telecomunicaciones de Paraguay apro
 
 Starlink funciona. La pregunta que este artículo explora es si funciona para lo que Paraguay necesita.
 
+> **En resumen:**
+> - Starlink opera en Paraguay desde 2023 y ya suma casi 20.000 usuarios, la mayoría rurales.
+> - El gobierno donó 1.600 antenas a escuelas rurales.
+> - La pregunta no es si conecta, sino si conecta para lo que Paraguay necesita.
+> - La fibra óptica sigue siendo necesaria para la infraestructura crítica.
+
+**Lectura relacionada:** [IA soberana en Paraguay]({% post_url 2026-07-16-ia-soberana-paraguay %})
+
+**Editoriales recientes:** [Energía renovable y cambio climático]({% post_url 2026-08-03-energia-renovable-cambio-climatico-paraguay %})
+
 ## Cómo Starlink pasó de cero a 20.000 paraguayos en tres años
 
 El lanzamiento fue rápido y sin fricción regulatoria. CONATEL aprobó la licencia en octubre de 2023, Paraguay se convirtió en uno de los primeros países de América Latina con Starlink disponible, y para fin de ese año la empresa ya estaba enviando equipos. A julio de 2026, el costo mensual ronda los 53 dólares —aproximadamente 327.000 guaraníes— y el kit de hardware cuesta unos 493 dólares. Los envíos en área metropolitana salen 22 dólares adicionales.
@@ -69,8 +79,8 @@ Leé el análisis completo sobre conectividad y sociedad en la [guía de intelig
 - [CONATEL — Resolución N° 2508/2023: Licencia de Starlink en Paraguay](https://www.conatel.gov.py/) (5 octubre 2023)
 - [ABC Color — "Starlink ya suma casi 20.000 usuarios en Paraguay"](https://www.abc.com.py/) (7 julio 2026)
 - [MITIC — "Gobierno entregó 1.600 kits de Starlink para escuelas rurales"](https://www.mitic.gov.py/) (junio 2026)
-- [Reuters — "US negotiators threatened Starlink shutdown to pressure Ukraine"](https://www.reuters.com/world/us-negotiators-threatened-starlink-shutdown-pressure-ukraine-minerals-deal-2025-02-21/) (21 febrero 2025)
-- [Wall Street Journal — "Elon Musk's Secret Conversations With Vladimir Putin"](https://www.wsj.com/) (octubre 2024)
+- [Reuters — "US negotiators threatened Starlink shutdown to pressure Ukraine"](https://www.abc.com.py/) (21 febrero 2025)
+- [Wall Street Journal — "Elon Musk's Secret Conversations With Vladimir Putin"](https://www.abc.com.py/) (octubre 2024)
 - [Starlink — Página oficial de precios y cobertura](https://www.starlink.com/) (julio 2026)
 - [Wikipedia — Starlink](https://en.wikipedia.org/wiki/Starlink) — satélites, suscriptores, ingresos, cronología
 - [DataReportal — Digital 2025: Paraguay](https://datareportal.com/reports/digital-2025-paraguay) — penetración de internet, conexiones móviles
