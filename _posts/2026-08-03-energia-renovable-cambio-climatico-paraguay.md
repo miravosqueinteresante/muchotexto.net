@@ -78,7 +78,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 2. [ANDE — Portal oficial](https://www.ande.gov.py/)
 3. [Itaipú Binacional — Informes de generación](https://www.Itaipu.gov.py/)
 4. [Banco Mundial — Paraguay Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/paraguay)
-5. [Global Forest Watch — Paraguay deforestation data](https://www.globalforestwatch.org/country/PRY)
+5. [Global Forest Watch — Paraguay deforestation data](https://globalnaturewatch.org/)
 6. [UNFCCC — Paraguay NDC 3.0 (2025)](https://unfccc.int/documents/)
 7. [MADES — Dirección Nacional de Cambio Climático](https://www.mades.gov.py/direccion-de-cambio-climatico/)
 8. [Ley 7190/23 — Bonos de carbono Paraguay](https://www.bacn.gov.py/leyes-paraguayas/11986/ley-n-7190-de-los-creditos-de-carbono)
