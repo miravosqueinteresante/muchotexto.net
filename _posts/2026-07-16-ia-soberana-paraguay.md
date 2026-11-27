@@ -13,6 +13,12 @@ description: "Paraguay suma 300 MW ASIC y 100 MW de infraestructura sin asignar.
 
 En 2023, Jensen Huang —el CEO de NVIDIA, la empresa que fabrica los chips que entrenan todos los modelos de inteligencia artificial del mundo— empezó a repetir una frase en cada entrevista: "sovereign AI". Cada país, según Huang, debería tener su propia infraestructura de inteligencia artificial. Sus propios datos. Sus propios modelos. Su propia nube.
 
+> **En resumen:**
+> - Paraguay tiene 300 MW ASIC y 100 MW de infraestructura sin asignar, pero no tiene estrategia nacional de IA.
+> - La IA soberana requiere datos, modelos y talento, no solo energía.
+> - Paraguay gasta el 0,14% de su PIB en I+D y ocupa el puesto 14 de 19 en el índice ILIA.
+> - Sin estrategia, la infraestructura se convertirá en un bien exportable, no en un activo nacional.
+
 El discurso es convincente. También es conveniente: NVIDIA vende las GPU que hacen falta para construir esa infraestructura, y cada país que compra la idea de la IA soberana es un país que le compra chips a Huang.
 
 Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies ya opera 300 MW de infraestructura en Paraguay (200 MW en Yguazú, 100 MW en Valenzuela), toda para minería Bitcoin con ASIC y construye 100 MW de infraestructura adicional en Yguazú, capacidad aún sin asignar entre minería, AI y HPC (energización prevista Q4 2026; Tier III en H2 2027), el proyecto binacional Yguazú Digital con Taiwán está en desarrollo, y el MITIC está construyendo un data center estatal Tier III. Por otro lado, Paraguay no tiene una estrategia nacional de IA, gasta el 0,14% de su PIB en investigación y desarrollo, y ocupa el puesto 14 de 19 países latinoamericanos en el índice ILIA de preparación para la inteligencia artificial. La brecha entre la infraestructura que se construye y la estrategia que no existe es el tema de este artículo.
@@ -93,7 +99,7 @@ Leé el análisis completo sobre geopolítica tecnológica en la [guía de intel
 - [Maritaca AI — Sabiá](https://www.maritaca.ai/) — modelos en portugués, inferencia 100% en Brasil
 - [UCL — Reclaiming Digital Sovereignty (Rikap, Durand, Paraná, Gerbaudo)](https://www.ucl.ac.uk/bartlett/public-purpose/Reclaiming-Digital-Sovereignty) (2025)
 - [ILIA 2025 — Índice Latinoamericano de Inteligencia Artificial](https://indicelatam.cl/) — CENIA/CEPAL, ranking regional
-- [UNESCO — RAM Report: Paraguay AI Readiness Assessment](https://www.unesco.org/) (diciembre 2025)
+- [UNESCO — RAM Report: Paraguay AI Readiness Assessment](https://web.archive.org/web/20241231225502/https://www.unesco.org/) (diciembre 2025)
 - [Epoch AI — Training compute and cost estimates for major ML models](https://epoch.ai/data/ai-models) (2025)
 - [HIVE Digital Technologies — Paraguay AI Infrastructure](https://www.hivedigitaltechnologies.com/operations/paraguay/) (2026)
 - [HIVE — Q2 FY2027: 100 MW de Yguazú sin asignar, energización Q4 2026](https://www.hivedigitaltechnologies.com/news/hive-reports-q2-revenue-of-849-million-with-ai-gpu-revenue-expanding-70-as-dual-engine-model-drives-resilience-with-139-million-in-cash-on-the-balance-sheet/) (9-nov-2026)
