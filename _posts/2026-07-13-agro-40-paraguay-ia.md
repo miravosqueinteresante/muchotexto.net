@@ -13,6 +13,14 @@ description: "Menos del 5% de las fincas paraguayas usa agricultura de precisió
 
 Paraguay depende de la agricultura como ningún otro país de Sudamérica de su tamaño. El sector empleaba al 26,5% de la fuerza laboral en 2008, genera el 11% del PIB y la soja representa alrededor del 40% de las exportaciones totales. La producción de alimentos es la columna vertebral de la economía. Pero la tecnología que transformó el campo en Brasil, Argentina y Uruguay casi no existe en Paraguay.
 
+> **En resumen:**
+> - Menos del 5% de las fincas paraguayas usa agricultura de precisión.
+> - Paraguay tiene 14 agtechs contra 1.600 de Brasil y 400 de Argentina.
+> - La brecha no es de potencial productivo sino de acceso a tecnología.
+> - La agricultura de precisión puede ahorrar hasta el 90% del agua.
+
+La modernización del campo paraguayo es una oportunidad de productividad y sostenibilidad que aún no se está aprovechando. Sin acceso a drones, sensores y algoritmos, el pequeño productor queda excluido de las ganancias de eficiencia que ya disfrutan sus pares regionales.
+
 Menos del 5% de las fincas paraguayas usa herramientas de agricultura de precisión: imágenes satelitales para monitorear cultivos, drones para fumigar, sensores de suelo para optimizar el riego, algoritmos que predicen plagas. Brasil tiene aproximadamente 1.600 startups de tecnología agropecuaria. Argentina tiene alrededor de 400. Paraguay tiene catorce. La brecha no es de potencial productivo —Paraguay es el sexto productor mundial de soja— sino de acceso a la tecnología que podría hacer que ese potencial crezca.
 
 ## De satélites y drones: quién está trayendo tecnología al campo
@@ -68,7 +76,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [ABC Color — "La vaca que rompió el récord: 108,7 litros en un solo día"](https://www.abc.com.py/negocios/abc-campo/2026/07/11/la-vaca-que-rompio-el-record-1087-litros-en-un-solo-dia/) (11 julio 2026)
 - [BID Lab — "Smart Soil Py: agricultura inteligente"](https://www.iadb.org/es/project/PR-T1251)
 - [NASA — "Landsat 9: Earth observation"](https://landsat.gsfc.nasa.gov/satellites/landsat-9/)
-- [ESA — "Copernicus Sentinel-2"](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)
+- [ESA — "Copernicus Sentinel-2"](https://web.archive.org/web/20250105154646/https://sentinel.esa.int/web/sentinel/missions/sentinel-2)
 - [Wikipedia — "Agriculture in Paraguay"](https://en.wikipedia.org/wiki/Agriculture_in_Paraguay)
 
 <script type="application/ld+json">
