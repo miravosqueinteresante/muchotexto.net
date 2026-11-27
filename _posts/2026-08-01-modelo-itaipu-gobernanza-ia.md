@@ -101,7 +101,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 9. [UNESCO — Recommendation on the Ethics of AI (2021)](https://unesco.org/en/artificial-intelligence/recommendation-ethics)
 10. [European Union — AI Act (2024)](https://artificialintelligenceact.eu/)
 11. Submarine cable consortia — Telegeography
-12. [Stargate Project — OpenAI / SoftBank JV structure](https://www.reuters.com/technology/) (2025)
+12. [Stargate Project — OpenAI / SoftBank JV structure](https://www.abc.com.py/) (2025)
 13. [Taiwán Semiconductor Manufacturing Co — energy consumption data](https://www.tsmc.com/)
 
 <script type="application/ld+json">
