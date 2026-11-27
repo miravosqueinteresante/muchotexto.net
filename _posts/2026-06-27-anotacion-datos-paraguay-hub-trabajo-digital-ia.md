@@ -13,6 +13,12 @@ description: "Detrás de cada respuesta de ChatGPT hay miles de humanos anotando
 
 Cada vez que un modelo de inteligencia artificial responde una pregunta, traduce un texto o identifica un objeto en una imagen, hubo un ser humano que lo entrenó. Uno que etiquetó datos durante horas por centavos de dólar. Uno cuyo nombre no aparece en ninguna parte. La industria de la anotación de datos —valorada en 3.600 millones de dólares y con un crecimiento anual del 33%— es la cadena de suministro invisible de la inteligencia artificial. Y Paraguay, sin proponérselo, reúne varias de las condiciones para convertirse en un nodo relevante de esa cadena.
 
+> **En resumen:**
+> - La anotación de datos es la cadena de suministro invisible de la IA, valorada en USD 3.600M.
+> - Paraguay reúne condiciones para convertirse en un nodo relevante de esa cadena.
+> - El trabajo de anotación es precario y mal pagado; la oportunidad para Paraguay es real pero requiere políticas de protección laboral.
+> - La IA necesita datos etiquetados; sin anotación humana no hay modelos funcionales.
+
 La demanda de anotadores humanos ya está creciendo. Cada nuevo modelo de lenguaje, cada sistema de conducción autónoma, cada herramienta de diagnóstico médico requiere datasets etiquetados por personas. La pregunta es si Paraguay puede ofrecer algo distinto a la versión más oscura de esta industria. Esa versión donde los salarios son de hambre, el trauma psicológico es un riesgo laboral y los trabajadores que sostienen la magia tecnológica son invisibles.
 
 ## La cadena invisible que entrena a ChatGPT y a todos los modelos que usás
@@ -84,7 +90,7 @@ Explorá todos los artículos sobre trabajo digital e IA en Paraguay en la [guí
 - [EF Education First — "EF English Proficiency Index: Paraguay"](https://www.ef.com/wwen/epi/regions/latin-america/paraguay/) (2025)
 - [DataReportal — "Digital 2025: Paraguay"](https://datareportal.com/reports/digital-2025-paraguay) (enero 2025)
 - [GlobalPetrolPrices — "Electricity Prices"](https://www.globalpetrolprices.com/electricity_prices/) (2025)
-- [Time — "Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour"](https://time.com/6247678/openai-chatgpt-kenya-workers/) (18 enero 2023)
+- [Time — "Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour"](https://web.archive.org/web/20241231145818/https://time.com/6247678/openai-chatgpt-kenya-workers/) (18 enero 2023)
 - [The Guardian — "'It's destroyed me completely': Kenyan moderators decry toll of training AI"](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai) (2 agosto 2023)
 - [The Verge — "The secret lives of Facebook moderators in America"](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) (25 febrero 2019)
 - [Fairwork Foundation — "Principles for Fair Platform Work"](https://fairwork.oii.ox.ac.uk/en/fw/principles/) (2023)
