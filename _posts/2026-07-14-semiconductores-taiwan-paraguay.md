@@ -14,6 +14,12 @@ description: "Paraguay tiene la electricidad más barata de Sudamérica, el Acu�
 
 Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para existir. El mundo entero aprendió esta lección durante la pandemia: cuando las fábricas de chips se frenan, todo lo demás se frena con ellas.
 
+> **En resumen:**
+> - TSMC fabrica más del 90% de los chips avanzados del mundo desde Taiwán.
+> - Paraguay tiene energía, agua y alianza diplomática con Taiwán, pero no hay fábrica de chips.
+> - Taiwán está construyendo fábricas en Arizona, Kumamoto y Dresde, no en Paraguay.
+> - La razón no es política: es logística, escala y cadena de suministro.
+
 Paraguay es el último aliado diplomático de Taiwán en Sudamérica. Juntos firmaron [Yguazú Digital]({% post_url 2026-06-23-yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo %}), un centro de datos de inteligencia artificial de 200 millones de dólares. Taiwán le prestó 400 millones a Paraguay en décadas de cooperación. Paraguay tiene la electricidad industrial más barata de Sudamérica, el Acuífero Guaraní —la segunda reserva de agua dulce del planeta— y un régimen de maquila que grava las exportaciones tecnológicas al 1%. Las condiciones, sobre el papel, parecen diseñadas para atraer semiconductores.
 
 Sin embargo, Taiwán está construyendo fábricas de chips en Arizona, en Kumamoto, en Dresde. En Paraguay no hay ninguna. Ni siquiera un Anuncio. Este artículo explica por qué.
@@ -97,7 +103,7 @@ Leé la guía completa de geopolítica tecnológica en la [guía de inteligencia
 - [Wikipedia — CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act) — subsidios, adjudicaciones, empresa por empresa
 - [Wikipedia — United States sanctions against China](https://en.wikipedia.org/wiki/United_States_sanctions_against_China) — controles de exportación de semiconductores
 - [Wikipedia — Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry) — concentración geográfica, costos de fabricación
-- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwan-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
+- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.abc.com.py/politica/2024/12/05/cancilleria-intima-a-ministro-chino-a-abandonar-paraguay/) (16 abril 2024)
 - [Bloomberg — "Taiwán's Chipmaker Lobby Goes Global"](https://www.bloomberg.com/news/articles/2026-01-20/Taiwan-s-chipmaker-lobby-goes-global) (enero 2026)
 - [CSIS — "Taiwan's Semiconductor Dominance: Implications for Cross-Strait Relations"](https://www.csis.org/blogs/perspectives-innovation/taiwans-semiconductor-dominance-implications-cross-strait-relations) (marzo 2022)
 - [Foreign Policy — "Taiwan's Government Is Scared of Its Own Semiconductor Giant"](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) (3 noviembre 2025)
