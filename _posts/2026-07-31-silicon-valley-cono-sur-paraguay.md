@@ -101,7 +101,7 @@ Más análisis en el [Observatorio de IA en Paraguay](/ia-en-paraguay/).
 6. [HIVE Digital Technologies — Validación NeurIPS de infraestructura de IA en Paraguay](https://www.hivedigitaltechnologies.com/news/hives-paraguay-ai-infrastructure-performance-validated-in-columbia-university-study-research-heads-to-neurips/) (junio 2026)
 7. [Data Center Dynamics — Entrevista con Cully Cavness, cofundador de Crusoe](https://www.datacenterdynamics.com/en/news/crusoe-pivots-to-building-data-centers-plans-100mw-facility/) (julio 2024)
 8. [AccessWire — Paraguay's Hydroelectric Surplus Is Becoming the World's Next AI and Data Center Frontier](https://www.accesswire.com/1152241/paraguays-hydroelectric-surplus-is-becoming-the-worlds-next-ai-and-data-center-frontier-and-this-infrastructure-builder-has-been-proving-it-for-years) (marzo 2026)
-9. [Moor Insights & Strategy — South America's AI Infrastructure Reality Check](https://moorinsightsstrategy.com/south-americas-ai-infrastructure-reality-check/) (febrero 2026)
+9. [Moor Insights & Strategy — South America's AI Infrastructure Reality Check](https://web.archive.org/web/20260304001237/https://moorinsightsstrategy.com/south-americas-ai-infrastructure-reality-check/) (febrero 2026)
 10. [BTG Pactual / Canal Solar — Brazil and Chile compete for leadership in data centers](https://canalsolar.com.br/en/Brazil-Chile-Data-Centers-South-America-BTG-Pactual/) (septiembre 2025)
 11. [CEPAL — Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://www.cepal.org/es) (septiembre 2024)
 12. [Wikipedia — Electricity sector in Paraguay](https://en.wikipedia.org/wiki/Electricity_sector_in_Paraguay)

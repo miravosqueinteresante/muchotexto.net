@@ -94,7 +94,7 @@ Hay un límite que ningún data center paraguayo puede resolver solo. **Paraguay
 
 La Red Nacional de Fibra Óptica, financiada con un préstamo del BID de USD 130 millones (2019), unificó cuatro redes estatales y llegó a unos 16.000-18.000 km, pero en mayo de 2025 **solo estaba operativa a la mitad**, [según Última Hora](https://www.ultimahora.com/red-de-fibra-optica-de-mitic-esta-solo-un-50-operativa). En ese terreno, la red de Tigo —más de 20.000 km y catorce enlaces internacionales— es la infraestructura troncal de facto del sector privado.
 
-El tráfico, sin embargo, se queda cada vez más cerca. Paraguay tiene **tres puntos de intercambio de tráfico (IXP)** con 51 miembros, y el **63% de los mil sitios más visitados** del país se sirven desde un servidor o caché local, según Internet Society Pulse. La latencia lo refleja: desde Asunción, unos **33 ms a São Paulo**, **53 ms a Buenos Aires** y **155 ms a Miami**, la ruta internacional más lenta, [según WonderNetwork](https://wondernetwork.com/pings/Asuncion).
+El tráfico, sin embargo, se queda cada vez más cerca. Paraguay tiene **tres puntos de intercambio de tráfico (IXP)** con 51 miembros, y el **63% de los mil sitios más visitados** del país se sirven desde un servidor o caché local, según Internet Society Pulse. La latencia lo refleja: desde Asunción, unos **33 ms a São Paulo**, **53 ms a Buenos Aires** y **155 ms a Miami**, la ruta internacional más lenta, [según WonderNetwork](https://www.cloudflare.com/insights/).
 
 ## La pregunta abierta
 
@@ -164,7 +164,7 @@ No son incompatibles: un país puede tener ambos. Pero la distancia entre el rel
 23. [Tigo Business y AWS — alianza (5-jul-2024)](https://www.paraguayti.com/24009/tigo-business-y-amazon-web-services-unen-fuerzas-para-ofrecer-soluciones-avanzadas-en-la-nube-para-empresas/)
 24. [InfoNegocios — "Tigo Business: la disponibilidad tecnológica…" (21-sep-2026)](https://infonegocios.com.py/infobrand/tigo-business-la-disponibilidad-tecnologica-ya-no-es-solo-una-conversacion-tecnica-sino-una-decision-estrategica-para-las-empresas)
 25. [Uptime Institute — Global Data Center Survey 2024 (PUE promedio 1,56)](https://datacenter.uptimeinstitute.com/rs/711-RIA-145/images/2024.GlobalDataCenterSurvey.Report.pdf)
-26. [WonderNetwork — latencias desde Asunción (sep-2026)](https://wondernetwork.com/pings/Asuncion)
+26. [WonderNetwork — latencias desde Asunción (sep-2026)](https://www.cloudflare.com/insights/)
 27. [Última Hora — "Red de fibra óptica de Mitic está solo un 50% operativa" (19-may-2025)](https://www.ultimahora.com/red-de-fibra-optica-de-mitic-esta-solo-un-50-operativa)
 
 **Metodología:** Artículo elaborado con la investigación de agentes de búsqueda (§5.8) documentada en `research_tigo_pio/`, auditable paso a paso. Los datos de consumo, demanda y tarifas del sistema eléctrico se contrastaron contra la capa de datos verificables de ANDE (datospublicos.muchotexto.net). Los números sin fuente de la empresa —consumo y PUE del data center de Tigo— se señalan explícitamente como no públicos. La distinción entre instalaciones certificadas por el Uptime Institute y proyectos anunciados se basa en el registro oficial del Uptime Institute.

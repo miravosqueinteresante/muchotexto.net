@@ -145,7 +145,7 @@ La pregunta no es si la IA nos reemplazará. Es si nos vamos a acostumbrar a que
 25. [NBER — Cruces et al., “IA y la brecha educativa” (2026)](https://www.nber.org/papers/w34851)
 26. [Epoch AI — “El precio decreciente del pensamiento” (22-sep-2026)](https://epoch.ai/publications/the-plunging-price-of-thought)
 27. [arXiv — Gundlach et al., “El precio de los modelos de frontera” (2026)](https://arxiv.org/abs/2511.23455)
-28. [UNESCO — “Ética de la IA: Paraguay”](https://www.unesco.org/ethics-ai/en/paraguay)
+28. [UNESCO — “Ética de la IA: Paraguay”](https://web.archive.org/web/20241231225502/https://web.archive.org/web/20241231225502/https://www.unesco.org/ethics-ai/en/paraguay)
 29. [BACN — Ley 7018/2022 de Salud Mental](https://www.bacn.gov.py/leyes-paraguayas/11069/ley-n-7018-salud-mental)
 
 **Metodología:** investigación en `research_inteligencia-alquiler-ia-soledad-dependencia/` con cinco informes A-E, gap report, fact-check y spot-check. Se distingue evidencia experimental, encuestas, manuscritos no revisados por pares, documentos de trabajo, estudios de mercado y periodismo de investigación; los datos de EE.UU. no se extrapolan.
