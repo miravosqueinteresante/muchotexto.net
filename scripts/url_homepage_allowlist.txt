@@ -20,3 +20,5 @@ x8cloud.ai
 www.x8cloud.ai
 energia.paraguay.gov.py
 www.energia.paraguay.gov.py
+globalnaturewatch.org
+www.globalnaturewatch.org
