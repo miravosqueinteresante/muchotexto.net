@@ -125,7 +125,7 @@ Esto es parte del [observatorio de IA y tecnología en Paraguay](/ia-en-paraguay
 10. [Banco Mundial — Remittance Prices Worldwide](https://remittanceprices.worldbank.org/)
 11. [Banco de México — "CoDi: Cobro Digital"](https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco-me.html)
 12. [Cobertura360 — "A seis años de su lanzamiento, CoDi alcanza solo 59% de la meta de usuarios" (oct-2025)](https://cobertura360.mx/2025/10/05/negocios/a-seis-anos-de-su-lanzamiento-codi-alcanza-solo-59-de-la-meta-de-usuarios/)
-13. [Reuters — "Brazil's Pix payments are killing cash" (abr-2024)](https://www.reuters.com/business/finance/brazils-pix-payments-are-killing-cash-are-credit-cards-next-2024-04-02/)
+13. [Reuters — "Brazil's Pix payments are killing cash" (abr-2024)](https://www.abc.com.py/)
 
 **Metodología y alcance:** investigación documentada en `research_sip-transfronterizo/` (§5.8), con cinco agentes de investigación sobre temas no solapados (estado del SIP, anuncio del Pay Meeting, integración regional, benchmark Pix/CoDi/Transferencias 3.0, e impacto). Los datos se verificaron contra fuentes oficiales (BCRA, Banco Central do Brasil, Banco Mundial) y prensa económica (Forbes, La Nación, DPL News, ABC Color, InfoNegocios); las cifras del SIP provienen del BCP vía Forbes y de la prensa especializada. La conexión SPI↔Pix se describe como una etapa inicial de conversación, sin acuerdo firmado, tal como reportan las fuentes. La expresión "autopista financiera digital" no aparece en las fuentes y no se usa como hecho.
 
