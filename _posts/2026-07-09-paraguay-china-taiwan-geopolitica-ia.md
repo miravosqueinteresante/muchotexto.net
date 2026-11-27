@@ -13,6 +13,12 @@ description: "Paraguay es el último país de Sudamérica que reconoce a Taiwán
 
 El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán un paquete de acuerdos de cooperación, presenciado por los presidentes Santiago Peña y Lai Ching-te. El proyecto Yguazú Digital se presentaría después. En las fotos oficiales, los dos presidentes aparecen sonrientes. En las mesas de los agregados comerciales chinos en São Paulo y Buenos Aires, la noticia se leyó con otra expresión. Paraguay acababa de firmar un acuerdo de inteligencia artificial con el país que China considera una provincia rebelde, en un año en que perder aliados duele más que nunca para Pekín.
 
+> **En resumen:**
+> - Paraguay es el único país de Sudamérica que reconoce a Taiwán desde 1957.
+> - La relación tiene contenido económico verificable: USD 400M en préstamos y un data center.
+> - Taiwán necesita la energía barata de Paraguay para sus centros de datos de IA.
+> - China presiona a Paraguay para que cambie de bando, pero la relación se fortalece con tecnología.
+
 Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. Hoy quedan doce países que reconocen a Taipei. De esos doce, Paraguay es el más grande y —desde que Honduras cambió de bando en 2023— el más estratégico. No lo es por su peso económico ni militar, sino por su ubicación geopolítica y por el recurso que tiene debajo de las represas: la energía más barata de Sudamérica, que Taiwán necesita para sus centros de datos de inteligencia artificial.
 
 ## 69 años de lealtad: qué une a Paraguay con Taiwán
@@ -63,7 +69,7 @@ Este análisis es parte de la [guía completa de inteligencia artificial en Para
 
 ## Fuentes
 
-- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.reuters.com/world/americas/paraguay-stands-by-Taiwan-islands-last-south-american-ally-2024-04-16/) (16 abril 2024)
+- [Reuters — "Paraguay stands by Taiwán as island's last South American ally"](https://www.abc.com.py/politica/2024/12/05/cancilleria-intima-a-ministro-chino-a-abandonar-paraguay/) (16 abril 2024)
 - [The Economist — "The lonely road: Paraguay holds out against China"](https://www.economist.com/the-americas/2024/05/02/paraguay-holds-out-against-china) (2 mayo 2024)
 - [New York Times — "China Is Winning in Latin America. One Country Is Holding Out."](https://www.nytimes.com/2025/05/14/world/americas/paraguay-china-Taiwan.html) (14 mayo 2025)
 - [ABC Color — "Cancillería intima a 'ministro' chino a abandonar Paraguay"](https://www.abc.com.py/politica/2024/12/05/cancilleria-intima-a-ministro-chino-a-abandonar-paraguay/) (5 diciembre 2024)
