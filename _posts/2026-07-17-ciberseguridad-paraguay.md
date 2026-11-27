@@ -13,6 +13,12 @@ description: "Paraguay tiene CERT-PY desde 2012 y ratificó el Convenio de Budap
 
 En 2012, Paraguay creó su Centro de Respuesta a Incidentes de Seguridad Informática. Lo llamó CERT-PY. Trece años después, en julio de 2026, el gobierno de Estados Unidos y el gobierno de Paraguay emitieron una declaración conjunta denunciando que actores cibernéticos vinculados a China habían comprometido sistemas informáticos del gobierno paraguayo. No era la primera vez. En 2024, el grupo Flax Typhoon —asociado a la inteligencia china— ya había infiltrado redes gubernamentales paraguayas. En junio de 2025, un ataque de ransomware contra bases de datos del gobierno —atribuido al grupo Brigada Cyber PMC— expuso 7,4 millones de registros de ciudadanos. Meses antes, en mayo de 2025, un ataque DDoS había afectado temporalmente los sistemas de al menos 18 agencias gubernamentales.
 
+> **En resumen:**
+> - Paraguay tiene CERT-PY desde 2012 y ratificó el Convenio de Budapest.
+> - En 2024-2025 sufrió ciberataques de actores chinos y una filtración de 7,4 millones de registros.
+> - La defensa existe, pero la brecha entre lo que se dice y lo que se necesita es grande.
+> - La negociación de Itaipú se congeló por un caso de espionaje, mostrando la vulnerabilidad.
+
 Paraguay tiene un centro de ciberseguridad. Tiene una estrategia nacional aprobada por decreto. Ratificó el Convenio de Budapest contra el cibercrimen. Y sin embargo, en los últimos dos años fue atacado por una potencia extranjera, sufrió la mayor filtración de datos de su historia y mantiene congelada la negociación más importante de su política energética por un caso de espionaje. Este artículo mide la distancia entre la defensa que Paraguay dice tener y la que realmente necesita.
 
 ## Lo que Paraguay ya construyó (y no es poco)
@@ -66,8 +72,8 @@ Leé el análisis completo sobre geopolítica y regulación en la [guía de inte
 - [MITIC — CERT-PY](https://www.cert.gov.py/) — boletines, SOC gubernamental, Estrategia Nacional de Ciberseguridad 2025-2028
 - [Wikipedia — Budapest Convention on Cybercrime](https://en.wikipedia.org/wiki/Budapest_Convention_on_Cybercrime) — ratificación, obligaciones
 - [Wikipedia — Colonial Pipeline ransomware attack](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack) — vector de ataque, costo
-- [Sophos — The State of Ransomware 2026](https://www.sophos.com/en-us/content/state-of-ransomware) — estadísticas globales
-- [ISC2 — Cybersecurity Workforce Study 2025](https://www.isc2.org/research/workforce-study) — brecha de talento global
+- [Sophos — The State of Ransomware 2026](https://web.archive.org/web/20250101042629/https://www.sophos.com/en-us/content/state-of-ransomware) — estadísticas globales
+- [ISC2 — Cybersecurity Workforce Study 2025](https://www.isc2.org/research) — brecha de talento global
 - [El País — "Paraguay convoca al embajador de Brasil por un caso de espionaje"](https://elpais.com/america/2025-04-02/paraguay-convoca-al-embajador-de-brasil-en-asuncion-por-un-caso-de-espionaje.html) (abril 2025)
 - [Declaración conjunta EEUU-Paraguay — Operaciones cibernéticas chinas](https://www.state.gov/) (10 julio 2026)
 - CSIS — "Costa Rica: The Canary in the Coal Mine of Ransomware" — emergencia nacional, costo estimado
