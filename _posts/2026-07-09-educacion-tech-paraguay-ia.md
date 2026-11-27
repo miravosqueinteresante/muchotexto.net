@@ -13,6 +13,14 @@ description: "Paraguay produce alrededor de 400 graduados en informática por a�
 
 En noviembre de 2027, cuando apunta a abrir la primera fase de Yguazú Digital, Paraguay va a necesitar técnicos en refrigeración líquida para servidores de inteligencia artificial, ingenieros eléctricos especializados en subestaciones de alta tensión y administradores de redes de fibra óptica para clústeres de GPUs. El país produce, por año, alrededor de cuatrocientos graduados en informática y ciencias de la computación. La distancia entre lo que Paraguay necesita y lo que su sistema educativo produce no es una brecha: es un abismo.
 
+> **En resumen:**
+> - Paraguay produce alrededor de 400 graduados en informática por año.
+> - Yguazú Digital necesitará miles de profesionales en áreas que el sistema educativo no forma.
+> - La brecha entre oferta y demanda es un abismo.
+> - Sin inversión en formación técnica, el hub de IA quedará sin talento local.
+
+La formación técnica no es un detalle administrativo: es la condición para que el hub de IA no sea solo un anuncio. Sin ingenieros, técnicos y administradores locales, los centros de datos dependerán de talento importado y la oportunidad de empleo de alto valor se perderá.
+
 ## 400 ingenieros por año para un proyecto de 40.000 millones de dólares
 
 Paraguay tiene cincuenta y cinco universidades —nueve públicas y cuarenta y seis privadas— que en conjunto producen entre 26.000 y 34.000 graduados por año en todas las disciplinas. De esos, alrededor de cuatrocientos son en informática o carreras afines, según estimaciones sectoriales; el INE no publica el desglose por carrera. Las otras ingenierías relevantes —eléctrica, electrónica, telecomunicaciones— suman cifras similares.
@@ -57,7 +65,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 
 - [World Bank — "Government expenditure on education, total (% of GDP) - Paraguay"](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?locations=PY)
 - [OECD — PISA 2022 Results](https://www.oecd.org/pisa/)
-- [Webometrics — Ranking of Universities in Paraguay](https://www.webometrics.info/en/latin_america/paraguay)
+- [Webometrics — Ranking of Universities in Paraguay](https://web.archive.org/web/20250113082002/https://www.webometrics.info/en/Latin_America/Paraguay)
 - [TEDIC — "Todo lo que tenés que saber sobre la criptominería en Paraguay"](https://www.tedic.org/cripto_en_py/) (6 noviembre 2024)
 - [Plan Ceibal — Jóvenes a Programar](https://ceibal.edu.uy/institucional/articulos/se-lanza-jovenes-a-programar-2025-edicion-interior/)
 - [Forbes Paraguay — "La carrera energía: criptominería, data centers, nuevas industrias miran Paraguay"](https://www.forbes.com.py/negocios/la-carrera-energia-criptoMineria-data-centers-nuevas-industrias-miran-paraguay-n87697) (15 marzo 2026)
