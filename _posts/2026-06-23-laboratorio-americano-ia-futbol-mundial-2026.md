@@ -15,6 +15,16 @@ Estados Unidos llegó al Mundial 2026 como anfitrión. Nadie lo puso en la lista
 
 Nada de esto es suerte. Es el resultado de tres años de inversión sistemática en tecnología, datos e infraestructura. USA no está jugando el Mundial del presente: está construyendo el laboratorio del futuro.
 
+> **En resumen:**
+> - Estados Unidos llegó al Mundial 2026 como anfitrión y ya clasificó a octavos.
+> - El equipo de Pochettino usa Sportian Performance, una plataforma de análisis táctico con IA.
+> - También usa Oura Ring para monitoreo biométrico de jugadores.
+> - La estrategia es construir un laboratorio del futuro, no solo competir.
+
+**Lectura relacionada:** [IA en la justicia paraguaya]({% post_url 2026-07-21-ia-justicia-paraguay %})
+
+**Editoriales recientes:** [Talento tech en Paraguay]({% post_url 2026-07-10-talento-tech-paraguay-ia %})
+
 ---
 
 ## 1. Sportian: la inteligencia artificial en el banco de suplentes
@@ -101,7 +111,7 @@ Este artículo es parte de la [guía completa de inteligencia artificial en Para
 - [BBC Future — "How Brazil is betting on 'smart vests' in its bid for World Cup glory"](https://www.bbc.com/future/article/20260611-he-was-always-in-the-right-spot-how-brazil-is-betting-on-smart-vests-in-its-bid-for-world-cup-glory) (11 junio 2026)
 - [Wired — "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini"](https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/)
 - [MIT Technology Review — "Inside soccer's data renaissance"](https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/) (11 junio 2026)
-- [BusinessWire — "Lenovo Technology Powers FIFA World Cup 2026 Operations"](https://www.businesswire.com/news/home/20260602393504/en/) (2 junio 2026)
+- [BusinessWire — "Lenovo Technology Powers FIFA World Cup 2026 Operations"](https://news.lenovo.com/pressroom/press-releases/lenovo-technology-powers-fifa-world-cup-2026-operations-and-strengthens-ai-driven-broadcast/) (2 junio 2026)
 - [Hammes et al. — "Artificial Intelligence in Elite Sports", Frontiers in Sports and Active Living](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9309390) (2022)
 - [Wikipedia — "United States at the FIFA World Cup"](https://en.wikipedia.org/wiki/United_States_at_the_FIFA_World_Cup)
 - [Wikipedia — "2026 FIFA World Cup Group D"](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D)
