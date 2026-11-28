@@ -82,6 +82,17 @@ layout: default
   }
   </script>
   {%- endif -%}
+  {%- if page.faq -%}
+  <section class="page-faq" aria-label="Preguntas frecuentes">
+    <h2>Preguntas frecuentes</h2>
+    {%- for item in page.faq -%}
+    <details>
+      <summary>{{ item.q }}</summary>
+      <p>{{ item.a }}</p>
+    </details>
+    {%- endfor -%}
+  </section>
+  {%- endif -%}
   {{ content }}
 </article>
 
