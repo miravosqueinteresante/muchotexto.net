@@ -16,16 +16,11 @@ cierres:
   motivo: 'Auditoria parcial: 3 claims de Meta verificados (2 PARTIALLY TRUE). Resto de claims (NFTs, Hyperloop, Google Glass, Segway) pendiente de verificacion completa.'
   last_modified_at: 2026-08-15
 - slug: 2026-05-16-peter-thiel-paraguay-experimento
-  research_dir: null
-  estado: legacy
-  faltantes:
-  - research_plan.md
-  - gap_report.md
-  - spotcheck.md
-  - findings_*.md
-  motivo: Sin carpeta de investigación identificable o carpeta vacía; exige cierre
-    resumido antes de una nueva edición.
-  last_modified_at: 2026-08-15
+  research_dir: research_peter_thiel
+  estado: completo
+  faltantes: []
+  motivo: null
+  last_modified_at: 2026-11-28
 - slug: 2026-05-18-tokenizacion-del-agro-paraguay
   research_dir: research_tokenizacion_agro
   estado: completo
