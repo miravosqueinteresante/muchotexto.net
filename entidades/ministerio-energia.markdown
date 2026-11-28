@@ -1,11 +1,10 @@
 ---
-noindex: true
 layout: entidad
 title: "Ministerio de Energía | IA en Paraguay"
 description: >
   Perfil de Ministerio de Energía en el Observatorio de IA en Paraguay: artículos, leyes, datos verificables y fuentes primarias locales.
 permalink: /entidades/ministerio-energia/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: ministerio-energia
 entity_name: Ministerio de Energía
 entity_name_full: Ministerio de Energía, Minería e Hidrocarburos

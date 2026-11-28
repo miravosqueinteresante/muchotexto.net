@@ -1,11 +1,10 @@
 ---
-noindex: true
 layout: entidad
 title: "Universidad Nacional de Asunción"
 description: >
   Perfil de UNA en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Universidad Nacional de Asunción.
 permalink: /entidades/universidad-nacional/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
@@ -18,7 +17,7 @@ related_articles:
     context: "Cada vez que un modelo de inteligencia artificial responde una pregunta, traduce un texto o identifica un objeto en una imagen, hubo un ser humano que lo entrenó. Uno que etiquetó datos durante horas por centavos de dólar. Uno cuyo nombre no aparece."
   - title: "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     url: /articulos/2026/07/07/ley-proteccion-datos-paraguay-ia/
-    context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda; va a abrir sus puertas la primera..."
+    context: "En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La primera; va a entrar en vigor la Ley 7593, la primera ley Integral de protección de datos personales de la historia del país. La segunda; apunta a abrir sus puertas la..."
   - title: "Por qué Asunción no es una ciudad inteligente todavía"
     url: /articulos/2026/07/17/smart-cities-asuncion-paraguay/
     context: "Medellín tiene un sistema de teleféricos públicos que conecta barrios pobres con el metro. Seis líneas, 14 kilómetros, 22 millones de pasajeros al año. La línea K costó 26 millones de dólares en 2004 y redujo un viaje de dos horas y media a 30..."
@@ -34,6 +33,9 @@ related_articles:
   - title: "El Estado ya puede comprar I+D, pero no es una venta segura"
     url: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
     context: "La promesa es grande; el Estado financia una solución que no está disponible o no está suficientemente desarrollada. La letra chica también; la primera etapa no garantiza la compra final, el presupuesto es fijo y el proveedor queda obligado a..."
+  - title: "El 73% de los paraguayos encuestados dijo haber usado IA alguna vez"
+    url: /articulos/2026/11/17/cifras-adopcion-ia-paraguay/
+    context: "Si viste que el 73% de los paraguayos usa IA, ese número viene de una encuesta. WIN/ICA preguntó en 2025 y el 73% de los encuestados respondió que había usado IA alguna vez. No dice cuánto, ni con qué frecuencia, ni si fue en el trabajo o en casa;..."
   - title: "Bienvenidos a muchotexto.net"
     url: /articulos/2026/05/10/primer-articulo/
     context: "Pasamos horas desplazando feeds infinitos, abrimos cuarenta pestañas y no terminamos ninguna. Un artículo te promete respuestas y te da cinco párrafos genéricos. El siguiente video lo miramos a 2x porque 'no hay tiempo'. El contenido se volvió ruido."
@@ -46,9 +48,6 @@ related_articles:
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
     context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta,..."
-  - title: "Soja, ganado y blockchain en la tokenización del agro paraguayo"
-    url: /articulos/2026/05/18/tokenizacion-del-agro-paraguay/
-    context: "Hay una idea que está girando en los círculos fintech paraguayos y que promete cambiar quién financia el campo, cómo se vende la cosecha y hasta quién puede ser dueño de un pedazo de tierra sin moverse de su casa. Se llama tokenización agropecuaria,."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/

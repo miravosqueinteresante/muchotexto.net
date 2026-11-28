@@ -1,11 +1,10 @@
 ---
-noindex: true
 layout: entidad
 title: "Dirección General de Migraciones"
 description: >
   Perfil de Migraciones en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Dirección General de Migraciones.
 permalink: /entidades/migraciones/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: migraciones
 entity_name: Migraciones
 entity_name_full: Dirección General de Migraciones

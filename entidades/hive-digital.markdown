@@ -1,21 +1,24 @@
 ---
-noindex: true
 layout: entidad
 title: "HIVE Digital Technologies Ltd."
 description: >
   Perfil de HIVE Digital Technologies en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre HIVE Digital Technologies Ltd..
 permalink: /entidades/hive-digital/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: hive-digital
 entity_name: HIVE Digital Technologies
 entity_name_full: HIVE Digital Technologies Ltd.
 entity_description: >
   Empresa de infraestructura digital listada en NASDAQ (HIVE). Opera 300 MW en Paraguay (200 MW Yguazú + 100 MW Valenzuela, fases completadas jun-nov 2025) y construye 100 MW adicionales de infraestructura en Yguazú, capacidad sin asignar entre minería, AI y HPC (energización prevista Q4 2026; Tier-III H2 2027). Plan total: 400 MW. Los PPAs de Yguazú y Valenzuela vencen el 31-dic-2027. Modelo dual: minería Bitcoin (93.5% revenue FY2026) + HPC/AI cloud. Lanzó BUZZ AI Cloud en marzo 2026 en data center Tier III en Asunción.
 entity_category: empresa
+faq:
+  - q: "¿Cuánta capacidad operativa tiene HIVE en Paraguay?"
+    a: "HIVE opera ~300 MW en Paraguay (Yguazú Fases 1-2 y Valenzuela), con una expansión de 100 MW de infraestructura en construcción en Yguazú."
+  - q: "¿HIVE migra de minería a IA?"
+    a: "No es una migración sino un modelo dual: minería Bitcoin representó el 93.5% del revenue en FY2026, mientras HPC/AI cloud aportó el 6.5%."
+  - q: "¿Dónde está el data center de HIVE en Paraguay?"
+    a: "HIVE opera en Yguazú (Alto Paraná) y Valenzuela (Central), con sede operativa en San Antonio, Texas. Listada en TSX (Canadá) y Nasdaq."
 related_articles:
-  - title: "Paraguay tiene más infraestructura que estrategia para la IA"
-    url: /articulos/2026/07/16/ia-soberana-paraguay/
-    context: "Paraguay está en una posición extraña frente a este debate. Por un lado, HIVE Digital Technologies ya opera 300 MW de infraestructura en Paraguay (200 MW en Yguazú, 100 MW en Valenzuela), toda para minería Bitcoin con ASIC y construye 100 MW de..."
   - title: "Lo que un data center compra y Paraguay no puede vender"
     url: /articulos/2026/07/25/cadena-valor-data-center/
     context: "Paraguay está atrayendo data centers con la promesa de energía barata. Yguazú Digital proyecta 1.000 MW en su fase final. HIVE Digital Technologies opera 300 MW de infraestructura de minería Bitcoin en Paraguay (200 MW en Yguazú,..."
@@ -31,4 +34,4 @@ obs_directorio:
     context: "Opera 300 MW de minería Bitcoin (Tier-I) en Yguazú y Valenzuela con energía de Itaipú. Adquirió Yguazú de Bitfarms por USD 56M en 2025. Lanzó BUZZ AI Cloud en Asunción (Tier-III) y planea un data..."
 ---
 
-4 articulos en el observatorio mencionan a HIVE Digital Technologies.
+3 articulos en el observatorio mencionan a HIVE Digital Technologies.

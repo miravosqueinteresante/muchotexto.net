@@ -18,6 +18,14 @@
   related_laws:
     - "Ley 6822/2022 — servicios de confianza electrónica"
     - "Ley 7593/2025 — protección de datos personales"
+  faq:
+    - q: "¿Qué es el MITIC y cuándo se creó?"
+      a: "El MITIC (Ministerio de Tecnologías de la Información y Comunicación) se creó en 2018 y es responsable de la política digital de Paraguay, incluyendo identidad electrónica, trámites digitales y la Estrategia Nacional de IA."
+    - q: "¿Cuántos trámites digitales ofrece Paraguay.gov.py?"
+      a: "El portal Paraguay.gov.py ofrece más de 480 trámites digitales, con más de 1.5 millones de usuarios registrados con identidad electrónica."
+    - q: "¿Paraguay tiene una estrategia nacional de IA?"
+      a: "El MITIC lidera la consulta pública para la Estrategia Nacional de IA, alineada con la Agenda Digital y los compromisos de transformación digital del país."
+
 
 - slug: ande
   name: ANDE
@@ -44,6 +52,16 @@
     - title: "El Estado ya puede comprar I+D, pero no es una venta segura"
       url: /articulos/2026/11/16/compra-publica-innovacion-paraguay/
       context: "ANDE es uno de los dos pilotos de Compra Pública de Innovación: el reto Energía Segura busca reducir pérdidas eléctricas no técnicas en baja tensión en una zona crítica de Luque."
+  faq:
+    - q: "¿Cuánta energía genera Paraguay y cuánto consume?"
+      a: "Paraguay genera aproximadamente 44 TWh/año. El consumo nacional es de 29.4 TWh (2025), dejando un excedente de ~15 TWh (~35%) que se exporta a Brasil y Argentina."
+    - q: "¿Cuál es la tarifa de ANDE para data centers de IA?"
+      a: "La Resolución 52552/2026 establece una tarifa media de 48.91 USD/MWh en 220 kV y 56.39 USD/MWh en 23 kV, con ajuste anual por CPI+PPI y piso del 2.5%."
+    - q: "¿Qué porcentaje de la energía paraguaya es renovable?"
+      a: "El 99.998% de la matriz eléctrica es renovable: Itaipú (86%), Yacyretá (11%) y Acaray (3%). No existen parques solares ni eólicos utility-scale en operación."
+    - q: "¿Cuánta potencia reservada tienen las empresas intensivas en energía?"
+      a: "41 empresas del grupo GCIE (criptominería) tienen 943.8 MW de potencia reservada contratada. Desde octubre 2026, IA/nube/HPC se contabilizan aparte (Res. 52552/2026)."
+
 
 - slug: itaipu
   name: Itaipú
@@ -61,6 +79,14 @@
   related_laws:
     - "Anexo C del Tratado de Itaipú — vence 1 enero 2027"
     - "Tarifa Itaipú 2024-2026 — USD 19.28/kW-mes"
+  faq:
+    - q: "¿Cuánta energía produce Itaipú y cuánto le corresponde a Paraguay?"
+      a: "Itaipú tiene 14.000 MW de capacidad total (7.000 MW para cada país). Paraguay consume ~2.500 MW y exporta el excedente a Brasil."
+    - q: "¿Cuándo vence el acuerdo tarifario de Itaipú?"
+      a: "El acuerdo tarifario vigente (USD 19.28/kW-mes) vence el 31 de diciembre de 2026. El Anexo C del Tratado vence el 1 de enero de 2027."
+    - q: "¿Cuánto ingresa Paraguay por Itaipú?"
+      a: "Paraguay percibe aproximadamente USD 1.250 millones/año por regalías, inversión social, compensación por cesión de energía y utilidades de capital."
+
 
 - slug: yacyreta
   name: Yacyretá
@@ -78,6 +104,12 @@
   datos_desc: "Generación binacional Paraguay-Argentina: mensual EBY y agregada anual"
   related_laws:
     - "Tratado de Yacyretá (1973) — entidad binacional Paraguay-Argentina"
+  faq:
+    - q: "¿Cuánta energía produce Yacyretá?"
+      a: "Yacyretá tiene ~3.100 MW de capacidad total, de los cuales ~1.550 MW corresponden a Paraguay. Es la segunda hidroeléctrica del país después de Itaipú."
+    - q: "¿Cuál es la tarifa de Yacyretá?"
+      a: "La tarifa de Yacyretá pasó de 22.60 a 28 USD/kW-mes en el acuerdo 2024-2026, aumentando los costos de generación de ANDE."
+
 
 - slug: yguazu-digital
   name: Yguazú Digital
@@ -134,6 +166,14 @@
     31-dic-2027. Modelo dual: minería Bitcoin (93.5% revenue FY2026) + HPC/AI
     cloud. Lanzó BUZZ AI Cloud en marzo 2026 en data center Tier III en Asunción.
   category: empresa
+  faq:
+    - q: "¿Cuánta capacidad operativa tiene HIVE en Paraguay?"
+      a: "HIVE opera ~300 MW en Paraguay (Yguazú Fases 1-2 y Valenzuela), con una expansión de 100 MW de infraestructura en construcción en Yguazú."
+    - q: "¿HIVE migra de minería a IA?"
+      a: "No es una migración sino un modelo dual: minería Bitcoin representó el 93.5% del revenue en FY2026, mientras HPC/AI cloud aportó el 6.5%."
+    - q: "¿Dónde está el data center de HIVE en Paraguay?"
+      a: "HIVE opera en Yguazú (Alto Paraná) y Valenzuela (Central), con sede operativa en San Antonio, Texas. Listada en TSX (Canadá) y Nasdaq."
+
 
 - slug: starlink
   name: Starlink

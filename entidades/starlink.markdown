@@ -1,11 +1,10 @@
 ---
-noindex: true
 layout: entidad
 title: "Starlink (SpaceX)"
 description: >
   Perfil de Starlink en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Starlink (SpaceX), con fuentes primarias locales.
 permalink: /entidades/starlink/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: starlink
 entity_name: Starlink
 entity_name_full: Starlink (SpaceX)

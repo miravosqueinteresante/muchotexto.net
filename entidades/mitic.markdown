@@ -1,17 +1,23 @@
 ---
-noindex: true
 layout: entidad
 title: "MITIC | Observatorio de IA en Paraguay"
 description: >
   Perfil de MITIC en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Ministerio de Tecnologías de la Información y Comunicación.
 permalink: /entidades/mitic/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: mitic
 entity_name: MITIC
 entity_name_full: Ministerio de Tecnologías de la Información y Comunicación
 entity_description: >
   Creado en 2018, el MITIC es el ministerio responsable de la política digital de Paraguay. Administra la identidad electrónica (1.5M+ usuarios), los 480+ trámites digitales del portal Paraguay.gov.py, y la infraestructura de datos del Estado. Es la contraparte del BID en la Agenda Digital y lidera la consulta pública para la Estrategia Nacional de IA.
 entity_category: gobierno
+faq:
+  - q: "¿Qué es el MITIC y cuándo se creó?"
+    a: "El MITIC (Ministerio de Tecnologías de la Información y Comunicación) se creó en 2018 y es responsable de la política digital de Paraguay, incluyendo identidad electrónica, trámites digitales y la Estrategia Nacional de IA."
+  - q: "¿Cuántos trámites digitales ofrece Paraguay.gov.py?"
+    a: "El portal Paraguay.gov.py ofrece más de 480 trámites digitales, con más de 1.5 millones de usuarios registrados con identidad electrónica."
+  - q: "¿Paraguay tiene una estrategia nacional de IA?"
+    a: "El MITIC lidera la consulta pública para la Estrategia Nacional de IA, alineada con la Agenda Digital y los compromisos de transformación digital del país."
 related_articles:
   - title: "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/

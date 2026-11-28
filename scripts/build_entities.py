@@ -480,6 +480,16 @@ def generate_entity_page(entity, related_articles, obs_matches):
             lines.append(f"  {stripped}")
     lines.append(f"entity_category: {category}")
 
+    # FAQ: preguntas frecuentes (opcional, desde entities.yml)
+    faq = entity.get("faq", [])
+    if faq:
+        lines.append("faq:")
+        for item in faq:
+            q = str(item.get("q", "")).replace('"', "'")
+            a = str(item.get("a", "")).replace('"', "'")
+            lines.append(f'  - q: "{q}"')
+            lines.append(f'    a: "{a}"')
+
     # Capa de datos (MuchoTexto Data): se emite solo si la entidad tiene datos_url
     if entity.get("datos_url"):
         lines.append(f"entity_datos_url: {entity['datos_url']}")

@@ -1,17 +1,25 @@
 ---
-noindex: true
 layout: entidad
 title: "Administración Nacional de Electricidad"
 description: >
   Perfil de ANDE en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Administración Nacional de Electricidad.
 permalink: /entidades/ande/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
   La ANDE es la empresa estatal de electricidad de Paraguay. Opera 16.000 MW de capacidad instalada (Itaipú, Yacyretá, Acaray) con la tarifa industrial más baja de Sudamérica (0.03-0.05 USD/kWh). Es el actor central en la apertura del sector eléctrico (Ley 7599/2025, Decreto 6034) y el principal proveedor de energía para data centers y criptominería.
 entity_category: infraestructura
+faq:
+  - q: "¿Cuánta energía genera Paraguay y cuánto consume?"
+    a: "Paraguay genera aproximadamente 44 TWh/año. El consumo nacional es de 29.4 TWh (2025), dejando un excedente de ~15 TWh (~35%) que se exporta a Brasil y Argentina."
+  - q: "¿Cuál es la tarifa de ANDE para data centers de IA?"
+    a: "La Resolución 52552/2026 establece una tarifa media de 48.91 USD/MWh en 220 kV y 56.39 USD/MWh en 23 kV, con ajuste anual por CPI+PPI y piso del 2.5%."
+  - q: "¿Qué porcentaje de la energía paraguaya es renovable?"
+    a: "El 99.998% de la matriz eléctrica es renovable: Itaipú (86%), Yacyretá (11%) y Acaray (3%). No existen parques solares ni eólicos utility-scale en operación."
+  - q: "¿Cuánta potencia reservada tienen las empresas intensivas en energía?"
+    a: "41 empresas del grupo GCIE (criptominería) tienen 943.8 MW de potencia reservada contratada. Desde octubre 2026, IA/nube/HPC se contabilizan aparte (Res. 52552/2026)."
 entity_datos_url: https://datospublicos.muchotexto.net/energia.html
 entity_datos_desc: "sistema eléctrico paraguayo: consumo, demanda, pérdidas, clientes y tarifas"
 related_articles:
@@ -27,9 +35,6 @@ related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto se llama Yguazú Digital. El nombre viene del guaraní; y (agua) + guasu (grande). Agua grande. Es una referencia directa a la riqueza hidroeléctrica del país —Itaipú, Yacyretá— y una declaración de intenciones; convertir la energía en..."
-  - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
-    url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
-    context: "Paraguay es, desde 1957, el único país de Sudamérica que mantiene relaciones diplomáticas plenas con Taiwán. De los aproximadamente 22 países que reconocían a Taipei en 2016, quedan doce. De esos doce, Paraguay es el más grande y —desde que Honduras."
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/
     context: "Una sola empresa fabrica más del 90% de los chips más avanzados del mundo. Se llama TSMC, está en Taiwán, y facturó 122 mil millones de dólares en 2025. NVIDIA, Apple, AMD, Qualcomm —todas dependen de una isla de 36.000 kilómetros cuadrados para..."
@@ -97,9 +102,6 @@ obs_regulacion:
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "Regula las tarifas del Programa de Grandes Consumidores de Energía Intensiva (GCIE): 943,8 MW reservados, tarifa de referencia de 30 US$/MWh, vigente hasta diciembre de 2027. Base legal del programa:..."
 obs_casos-de-uso:
-  - label: "Agricultura de precisión"
-    url: /articulos/2026/07/13/agro-40-paraguay-ia/
-    context: "Menos del 5% de las fincas paraguayas usa agricultura de precisión. Paraguay tiene solo 14 agtechs contra 1.600 de Brasil. El Ministerio de Agricultura creó una comisión técnica de riesgo climático..."
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
     context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
@@ -121,6 +123,9 @@ obs_casos-de-uso:
   - label: "Transparencia de los contratos GCIE"
     url: /articulos/2026/09/16/los-contratos-secretos-de-ande/
     context: "41 empresas con 943,8 MW reservados y 5.465 GWh de consumo bajo el Programa GCIE, pero las condiciones individuales de cada contrato no son de acceso público habitual. Un acuerdo ANDE-Atome (60 MW)..."
+  - label: "Las inversiones industriales que no arrancaron"
+    url: /articulos/2026/10/02/atome-ande-salida-paraguay/
+    context: "Atome PLC anunció en 2022 una planta de amoníaco verde de USD 665 millones en Villeta y firmó un contrato de energía con la ANDE por hasta 145 MW. Cuatro años después no construyó nada y rescindió el..."
 ---
 
-13 articulos en el observatorio mencionan a ANDE.
+12 articulos en el observatorio mencionan a ANDE.

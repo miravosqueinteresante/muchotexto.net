@@ -1,11 +1,10 @@
 ---
-noindex: true
 layout: entidad
 title: "Santiago Peña Palacios"
 description: >
   Perfil de Santiago Peña en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Santiago Peña Palacios.
 permalink: /entidades/santiago-pena/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: santiago-pena
 entity_name: Santiago Peña
 entity_name_full: Santiago Peña Palacios
@@ -24,7 +23,7 @@ related_articles:
     context: "El 19 de mayo de 2026, Santiago Peña firmó el Decreto 6034. Con esa firma, Paraguay habilitó por primera vez en su historia que empresas privadas generen, compren, vendan y exporten energía eléctrica de fuentes renovables no hidráulicas. La noticia.."
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
-    context: "El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán el memorándum, presenciado por los presidentes Santiago Peña y Lai Ching-te de entendimiento de Yguazú Digital. En las fotos oficiales, los dos presidentes aparecen sonrientes.."
+    context: "El 8 de mayo de 2026, los cancilleres de ambos países firmaron en Taiwán un paquete de acuerdos de cooperación, presenciado por los presidentes Santiago Peña y Lai Ching-te. El proyecto Yguazú Digital se presentaría después. En las fotos oficiales,.."
   - title: "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "El 8 de mayo de 2026, Santiago Peña y Lai Ching-te firmaron en Taipei un memorando de entendimiento para construir Yguazú Digital, un centro de datos de inteligencia..."

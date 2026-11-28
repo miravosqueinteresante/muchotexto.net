@@ -1,17 +1,23 @@
 ---
-noindex: true
 layout: entidad
 title: "Itaipú Binacional"
 description: >
   Perfil de Itaipú en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Itaipú Binacional, con fuentes primarias locales.
 permalink: /entidades/itaipu/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-28
 entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
 entity_description: >
   La hidroeléctrica más grande del mundo en generación acumulada, operada por Paraguay y Brasil desde 1973. Genera 14.000 MW; Paraguay consume ~20% de su mitad y vende el resto a Brasil. El Anexo C del tratado vence en enero 2027. La energía de Itaipú alimenta los data centers de HIVE y es la ventaja competitiva central de Paraguay en la economía de la IA.
 entity_category: infraestructura
+faq:
+  - q: "¿Cuánta energía produce Itaipú y cuánto le corresponde a Paraguay?"
+    a: "Itaipú tiene 14.000 MW de capacidad total (7.000 MW para cada país). Paraguay consume ~2.500 MW y exporta el excedente a Brasil."
+  - q: "¿Cuándo vence el acuerdo tarifario de Itaipú?"
+    a: "El acuerdo tarifario vigente (USD 19.28/kW-mes) vence el 31 de diciembre de 2026. El Anexo C del Tratado vence el 1 de enero de 2027."
+  - q: "¿Cuánto ingresa Paraguay por Itaipú?"
+    a: "Paraguay percibe aproximadamente USD 1.250 millones/año por regalías, inversión social, compensación por cesión de energía y utilidades de capital."
 entity_datos_url: https://datospublicos.muchotexto.net/itaipu.html
 entity_datos_desc: "serie 2000–2026: generación por sector 50/60 Hz y suministro a Paraguay y Brasil"
 related_articles:
