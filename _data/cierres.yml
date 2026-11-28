@@ -4,15 +4,10 @@
 
 cierres:
 - slug: 2026-05-13-ciberhumanidad
-  research_dir: null
-  estado: legacy
-  faltantes:
-  - research_plan.md
-  - gap_report.md
-  - spotcheck.md
-  - findings_*.md
-  motivo: Sin carpeta de investigación identificable o carpeta vacía; exige cierre
-    resumido antes de una nueva edición.
+  research_dir: research_ciberhumanidad
+  estado: completo
+  faltantes: []
+  motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo
   research_dir: null
