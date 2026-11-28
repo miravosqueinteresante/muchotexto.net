@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "ARAICO (Iguazú AI City)"
 description: >

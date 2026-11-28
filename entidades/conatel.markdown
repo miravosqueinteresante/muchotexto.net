@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Comisión Nacional de Telecomunicaciones"
 description: >

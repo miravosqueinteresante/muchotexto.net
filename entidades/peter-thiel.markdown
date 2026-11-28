@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Peter Thiel | IA en Paraguay"
 description: >

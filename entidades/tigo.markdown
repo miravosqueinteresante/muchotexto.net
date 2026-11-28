@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Tigo Paraguay (Telecel S.A.E.)"
 description: >

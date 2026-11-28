@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Cámara de Comercio Paraguayo-Americana"
 description: >

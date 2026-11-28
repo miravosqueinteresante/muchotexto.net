@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Santiago Peña Palacios"
 description: >

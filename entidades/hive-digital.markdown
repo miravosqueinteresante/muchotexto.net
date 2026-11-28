@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "HIVE Digital Technologies Ltd."
 description: >

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Parque Tecnológico Itaipú Paraguay"
 description: >

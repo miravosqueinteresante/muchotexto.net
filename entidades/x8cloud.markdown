@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "X8 Cloud | Observatorio de IA en Paraguay"
 description: >

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Taiwán (República de China)"
 description: >

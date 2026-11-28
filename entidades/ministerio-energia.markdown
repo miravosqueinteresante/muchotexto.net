@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Ministerio de Energía | IA en Paraguay"
 description: >

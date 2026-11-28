@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Universidad Nacional de Asunción"
 description: >

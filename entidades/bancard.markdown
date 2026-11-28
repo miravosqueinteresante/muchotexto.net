@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Bancard | Observatorio de IA en Paraguay"
 description: >

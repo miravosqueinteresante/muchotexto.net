@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Taiwan Semiconductor Manufacturing Company"
 description: >

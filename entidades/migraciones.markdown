@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Dirección General de Migraciones"
 description: >

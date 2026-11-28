@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Entidad Binacional Yacyretá"
 description: >

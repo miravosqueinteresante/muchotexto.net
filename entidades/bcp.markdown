@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: entidad
 title: "Banco Central del Paraguay"
 description: >
