@@ -10,15 +10,10 @@ cierres:
   motivo: null
   last_modified_at: 2026-08-15
 - slug: 2026-05-15-cinco-tecnologias-que-prometieron-cambiar-todo
-  research_dir: null
-  estado: legacy
-  faltantes:
-  - research_plan.md
-  - gap_report.md
-  - spotcheck.md
-  - findings_*.md
-  motivo: Sin carpeta de investigación identificable o carpeta vacía; exige cierre
-    resumido antes de una nueva edición.
+  research_dir: research_cinco_tech
+  estado: parcial
+  faltantes: [gap_report.md, spotcheck.md, findings_*.md]
+  motivo: 'Auditoria parcial: 3 claims de Meta verificados (2 PARTIALLY TRUE). Resto de claims (NFTs, Hyperloop, Google Glass, Segway) pendiente de verificacion completa.'
   last_modified_at: 2026-08-15
 - slug: 2026-05-16-peter-thiel-paraguay-experimento
   research_dir: null

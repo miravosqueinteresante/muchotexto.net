@@ -236,25 +236,7 @@
       "source": "ande",
       "target": "yguazu-digital",
       "type": "articulo",
-      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
-    },
-    {
-      "source": "ande",
-      "target": "yguazu-digital",
-      "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
-    },
-    {
-      "source": "ande",
-      "target": "yguazu-digital",
-      "type": "articulo",
       "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
-    },
-    {
-      "source": "ande",
-      "target": "taiwan",
-      "type": "articulo",
-      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "ande",
@@ -285,12 +267,6 @@
       "target": "araico",
       "type": "ley",
       "label": "Decreto 6034"
-    },
-    {
-      "source": "ande",
-      "target": "santiago-pena",
-      "type": "articulo",
-      "label": "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     },
     {
       "source": "ande",
@@ -410,12 +386,6 @@
       "source": "yguazu-digital",
       "target": "taiwan",
       "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
-    },
-    {
-      "source": "yguazu-digital",
-      "target": "taiwan",
-      "type": "articulo",
       "label": "Paraguay aprobó una ley de protección de datos que cambia las reglas"
     },
     {
@@ -441,12 +411,6 @@
       "target": "santiago-pena",
       "type": "articulo",
       "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
-    },
-    {
-      "source": "yguazu-digital",
-      "target": "tsmc",
-      "type": "articulo",
-      "label": "Por qué Taiwán no fabrica semiconductores en Paraguay"
     },
     {
       "source": "yguazu-digital",
