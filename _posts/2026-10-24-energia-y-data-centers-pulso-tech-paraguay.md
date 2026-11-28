@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crusoe instalará data center en Paraguay"
-description: "Crusoe instalará un data center en Paraguay aprovechando la energía renovable de Itaipú para potenciar servicios de inteligencia artificial a nivel regional."
+description: "Crusoe instalará un data center en Paraguay aprovechando la energía renovable de Itaipú para potenciar servicios de inteligencia artificial a nivel"
 description_ai: true
 title_ai: true
 date: 2026-10-24

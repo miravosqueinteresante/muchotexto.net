@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Desafíos para la infraestructura digital"
-description: "Paraguay requiere una reforma profunda en su sector eléctrico para sostener la infraestructura digital y atraer inversiones tecnológicas de alto rendimiento."
+description: "Paraguay requiere una reforma profunda en su sector eléctrico para sostener la infraestructura digital y atraer inversiones tecnológicas de alto"
 description_ai: true
 title_ai: true
 date: 2026-10-27

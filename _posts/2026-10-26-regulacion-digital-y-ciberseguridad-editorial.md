@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regulación digital y ciberseguridad"
-description: "La regulación digital y ciberseguridad en Paraguay exige fortalecer la infraestructura técnica ante el auge de los juegos de azar y los ataques informáticos."
+description: "La regulación digital y ciberseguridad en Paraguay exige fortalecer la infraestructura técnica ante el auge de los juegos de azar y los ataques"
 description_ai: true
 title_ai: true
 date: 2026-10-26 18:00:00 -0300

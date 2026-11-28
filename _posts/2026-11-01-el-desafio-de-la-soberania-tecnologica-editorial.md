@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El desafío de la soberanía tecnológica"
-description: "La soberanía tecnológica en Paraguay exige marcos regulatorios claros para proteger la evidencia digital y potenciar la competitividad en el sector forestal."
+description: "La soberanía tecnológica en Paraguay exige marcos regulatorios claros para proteger la evidencia digital y potenciar la competitividad en el sector"
 description_ai: true
 title_ai: true
 date: 2026-11-01 18:00:00 -0300

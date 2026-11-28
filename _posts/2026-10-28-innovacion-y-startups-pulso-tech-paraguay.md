@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Llega el Cyberday 2026"
-description: "El Cyberday 2026 se realizará del 2 al 4 de noviembre con más de 100 tiendas locales para fortalecer el comercio electrónico en todo el territorio paraguayo."
+description: "El Cyberday 2026 se realizará del 2 al 4 de noviembre con más de 100 tiendas locales para fortalecer el comercio electrónico en todo el territorio"
 description_ai: true
 title_ai: true
 date: 2026-10-28

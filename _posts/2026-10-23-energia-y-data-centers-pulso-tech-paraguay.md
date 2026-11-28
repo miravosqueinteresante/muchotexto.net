@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crusoe instalará data center en Paraguay"
-description: "VIERNES 23 de octubre de 2026 Ultima actualizacion: 17:00 La empresa Crusoe, especializada en infraestructura de inteligencia artificial, ha confirmado sus."
+description: "VIERNES 23 de octubre de 2026 Ultima actualizacion: 17:00 La empresa Crusoe, especializada en infraestructura de inteligencia artificial, ha confirmado"
 description_ai: true
 title_ai: true
 date: 2026-10-23

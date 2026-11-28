@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IA soberana el desafío de Paraguay"
-description: "La IA soberana es el desafío de Paraguay para dejar de ser un consumidor pasivo y acceder a infraestructura de supercomputación mediante alianzas regionales."
+description: "La IA soberana es el desafío de Paraguay para dejar de ser un consumidor pasivo y acceder a infraestructura de supercomputación mediante alianzas"
 description_ai: true
 title_ai: true
 date: 2026-11-03 18:00:00 -0300

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sin novedades tecnológicas este martes"
-description: "El Pulso tecnológico de hoy no presenta lanzamientos ni noticias relevantes en el sector. Mantenete informado sobre las novedades más importantes en Paraguay."
+description: "El Pulso tecnológico de hoy no presenta lanzamientos ni noticias relevantes en el sector. Mantenete informado sobre las novedades más importantes en"
 description_ai: true
 title_ai: true
 date: 2026-10-31

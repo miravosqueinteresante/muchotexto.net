@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paraguay apuesta a la era de la IA"
-description: "Paraguay impulsa su desarrollo tecnológico con la inteligencia artificial aprovechando la energía de Itaipú para consolidarse como un nodo de datos regional."
+description: "Paraguay impulsa su desarrollo tecnológico con la inteligencia artificial aprovechando la energía de Itaipú para consolidarse como un nodo de datos"
 description_ai: true
 title_ai: true
 date: 2026-10-24 18:00:00 -0300
