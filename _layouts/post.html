@@ -52,7 +52,7 @@ layout: default
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "{% if page.schema_type %}{{ page.schema_type }}{% else %}Article{% endif %}",
     "headline": {{ page.title | jsonify }},
     "description": {{ page.description | jsonify }},
     "image": "{{ site.url }}{{ page.image | default: '/assets/images/og-image.png' }}",
