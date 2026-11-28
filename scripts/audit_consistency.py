@@ -106,6 +106,7 @@ PUBLISHED_ROOT_ASSETS = {
     "grafo.json",
     "llms.txt",
     "llms-full.txt",
+    "ai.txt",
 }
 
 

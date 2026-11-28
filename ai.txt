@@ -1,0 +1,19 @@
+# ai.txt - Policy for AI crawlers and agents
+# https://site.ai.txt
+
+User-agent: *
+Allow: /
+
+# Content policy
+Content-Type: text/html; text/plain; application/json
+Content-Language: es-PY
+
+# Contact
+Contact: https://muchotexto.net/contacto/
+
+# Sitemap
+Sitemap: https://muchotexto.net/sitemap.xml
+
+# LLMs
+LLMs-Txt: https://muchotexto.net/llms.txt
+LLMs-Full-Txt: https://muchotexto.net/llms-full.txt

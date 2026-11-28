@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "MuchoTexto - Observatorio de IA en Paraguay",
+  "name_for_model": "muchotexto_net",
+  "description_for_human": "Observatorio de inteligencia artificial en Paraguay: infraestructura, geopolitica, regulacion y su impacto social.",
+  "description_for_model": "MuchoTexto is a deep-analysis observatory on artificial intelligence in Paraguay, covering infrastructure, geopolitics, regulation, and social impact. Content is available in Spanish (es-PY).",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://muchotexto.net/llms.txt"
+  },
+  "logo_url": "https://muchotexto.net/assets/images/og-image.png",
+  "contact_email": "contacto@muchotexto.net",
+  "legal_info_url": "https://muchotexto.net/privacidad/"
+}
