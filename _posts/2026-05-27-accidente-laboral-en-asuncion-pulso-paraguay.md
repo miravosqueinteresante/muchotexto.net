@@ -20,7 +20,7 @@ title_ai: true
 last_modified_at: 2026-05-27
 categories: pulso-paraguay
 tags: pulso paraguay actualidad política economía deportes
-description: "Un joven obrero falleció tras quedar atrapado en un montacargas durante un accidente laboral en Asunción, encendiendo alertas sobre la seguridad en las obras."
+description: "Un joven obrero falleció tras quedar atrapado en un montacargas durante un accidente laboral en Asunción, encendiendo alertas sobre la seguridad en las"
 description_ai: true
 ---
 PULSO DIARIO PARAGUAY  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Energía y seguridad en la era digital"
-description: "Los centros de datos deben generar su propia energía para proteger la red eléctrica nacional ante la creciente demanda de infraestructura digital en Paraguay."
+description: "Los centros de datos deben generar su propia energía para proteger la red eléctrica nacional ante la creciente demanda de infraestructura digital en"
 description_ai: true
 title_ai: true
 date: 2026-10-21 18:00:00 -0300

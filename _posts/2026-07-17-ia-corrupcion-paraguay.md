@@ -8,12 +8,18 @@ categories: articulos
 pilar: 3
 resumen: "Brasil tiene ALICE desde 2015: un algoritmo que detecta anomalías en licitaciones. Paraguay digitalizó sus compras pero no las audita con IA."
 tags: sociedad-trabajo ia-paraguay
-description: "Brasil tiene ALICE, IA que detecta anomalías en licitaciones desde 2015. Paraguay tiene 24/100 en Transparencia Internacional y compras públicas sin auditar."
+description: "Brasil tiene ALICE, IA que detecta anomalías en licitaciones desde 2015. Paraguay tiene 24/100 en Transparencia Internacional y compras públicas sin"
 ---
 
 En 2015, la Contraloría General de la Unión de Brasil puso en marcha un sistema llamado ALICE. No es un sistema de vigilancia masiva ni una red de denuncias anónimas. Es un algoritmo que lee pliegos de licitación en tiempo real, cruza precios de mercado, verifica que las empresas que compiten no tengan los mismos dueños y detecta patrones que un auditor humano tardaría semanas en encontrar. Según reportes de prensa brasileña, costó aproximadamente un millón de dólares desarrollar la primera versión. Solo en 2024, ALICE analizó compras por 30.600 millones de reales y generó beneficios de 1.250 millones de reales. El sistema lo ofrece gratuitamente la Contraloría brasileña a estados y municipios.
 
 Paraguay ocupa el puesto 150 de 182 países en el Índice de Percepción de la Corrupción de Transparencia Internacional, con 24 puntos sobre 100. Su puntaje bajó de 30 en 2016 a 24 en 2025. En ese mismo período, la Dirección Nacional de Contrataciones Públicas procesó aproximadamente 3.250 millones de dólares al año en compras del Estado —casi 9.500 adjudicaciones anuales, más de 3.300 proveedores— sin que ningún algoritmo las audite. La plataforma de compras electrónicas existe. Los datos abiertos existen. La ley de compras públicas reformada existe. Lo que no existe es la capa de inteligencia artificial que podría detectar anomalías en esos datos. Este artículo mide esa distancia.
+
+> **En resumen:**
+> - Brasil usa ALICE, un algoritmo que detecta anomalías en licitaciones desde 2015.
+> - Paraguay digitalizó sus compras pero no las audita con IA.
+> - Paraguay tiene 24/100 en el índice de Percepción de la Corrupción.
+> - La DNCP procesa USD 3.250M al año sin algoritmo de auditoría.
 
 ## Lo que ALICE hace (y cómo funciona)
 

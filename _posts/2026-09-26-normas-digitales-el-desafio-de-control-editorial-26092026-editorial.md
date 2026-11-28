@@ -2,7 +2,7 @@
 layout: post
 title: "El desafío del control digital"
 title_ai: true
-description: "La regulación del uso de celulares en las aulas y los desafíos globales de la inteligencia artificial evidencian la urgente necesidad de gobernanza digital."
+description: "La regulación del uso de celulares en las aulas y los desafíos globales de la inteligencia artificial evidencian la urgente necesidad de gobernanza"
 description_ai: true
 
 

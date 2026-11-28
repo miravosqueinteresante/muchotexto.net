@@ -2,7 +2,7 @@
 layout: post
 title: "Estado pide perdón por crimen"
 title_ai: true
-description: "El Estado paraguayo pidió perdón por el asesinato de Santiago Leguizamón tras una histórica sentencia de la Corte IDH que marca un hito en derechos humanos."
+description: "El Estado paraguayo pidió perdón por el asesinato de Santiago Leguizamón tras una histórica sentencia de la Corte IDH que marca un hito en derechos"
 description_ai: true
 
 

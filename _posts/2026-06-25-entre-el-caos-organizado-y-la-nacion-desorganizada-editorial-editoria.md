@@ -2,7 +2,7 @@
 layout: post
 title: "La Albirroja y la crisis del país"
 title_ai: true
-description: "La Albirroja en el Mundial 2026 expone las contradicciones de Paraguay, donde el caos organizado refleja tanto el éxito deportivo como la crisis institucional."
+description: "La Albirroja en el Mundial 2026 expone las contradicciones de Paraguay, donde el caos organizado refleja tanto el éxito deportivo como la crisis"
 description_ai: true
 
 

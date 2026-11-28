@@ -2,7 +2,7 @@
 layout: post
 title: "Crisis en el IPS y apatía ciudadana"
 title_ai: true
-description: "La desconfianza institucional en Paraguay crece ante la crisis del IPS, mientras la ciudadanía impulsa acciones propias para suplir las carencias estatales."
+description: "La desconfianza institucional en Paraguay crece ante la crisis del IPS, mientras la ciudadanía impulsa acciones propias para suplir las carencias"
 description_ai: true
 
 
