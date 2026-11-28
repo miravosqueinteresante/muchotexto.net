@@ -9,13 +9,15 @@ entity_id: yacyreta
 entity_name: Yacyretá
 entity_name_full: Entidad Binacional Yacyretá
 entity_description: >
-  La Entidad Binacional Yacyretá (EBY), creada con Argentina en 1973, es la segunda mayor hidroeléctrica de Paraguay. Aporta alrededor de 1.550 MW al sistema paraguayo (18% de la capacidad instalada) y cerca del 11% de la generación de la matriz. Junto con Itaipú concentra el 97% de la capacidad hidroeléctrica del país en la cuenca del Paraná. Su serie de generación histórica se publica en MuchoTexto Data.
+  La Entidad Binacional Yacyretá (EBY), creada con Argentina en 1973, es la segunda mayor hidroeléctrica de Paraguay. Aporta alrededor de 1.550 MW al sistema paraguayo (18% de la capacidad instalada) y cerca del 10,5% de la generación de la matriz en 2025. Junto con Itaipú concentra el 97% de la capacidad hidroeléctrica del país en la cuenca del Paraná. Su serie de generación histórica se publica en MuchoTexto Data.
 entity_category: infraestructura
 faq:
   - q: "¿Cuánta energía produce Yacyretá?"
     a: "Yacyretá tiene ~3.100 MW de capacidad total, de los cuales ~1.550 MW corresponden a Paraguay. Es la segunda hidroeléctrica del país después de Itaipú."
   - q: "¿Cuál es la tarifa de Yacyretá?"
-    a: "La tarifa de Yacyretá pasó de 22.60 a 28 USD/kW-mes en el acuerdo 2024-2026, aumentando los costos de generación de ANDE."
+    a: "El acta acuerdo de mayo de 2025 elevó el precio de la energía de Yacyretá de USD 22,63 a USD 28 por MWh, con revisiones anuales hasta 2029. ANDE anunció que no trasladaría el aumento a sus clientes, aunque su costo medio de generación subió a unos USD 28/MWh."
+  - q: "¿Cuánta energía suministró Yacyretá a Paraguay en 2025?"
+    a: "La capa de datos públicos registra 3.081 GWh suministrados a Paraguay en 2025, frente a 16.103 GWh de generación total de la entidad."
 entity_datos_url: https://datospublicos.muchotexto.net/yacyreta.html
 entity_datos_desc: "Generación binacional Paraguay-Argentina: mensual EBY y agregada anual"
 related_articles:

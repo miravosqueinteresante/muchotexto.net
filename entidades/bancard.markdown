@@ -9,11 +9,15 @@ entity_id: bancard
 entity_name: Bancard
 entity_name_full: Bancard S.A.
 entity_description: >
-  Procesadora de pagos paraguaya que desarrolló el estándar PY-QR de pagos con código QR (basado en EMV QRCPS). Permite a los comercios paraguayos cobrar con Pix de Brasil desde 2024, anticipando la integración transfronteriza que los bancos centrales aún negocian.
+  Procesadora de pagos paraguaya que desarrolló el estándar PY-QR de pagos con código QR, aprobado por el BCP en 2025. Desde 2024 permite a los comercios paraguayos cobrar con Pix de Brasil en sus POS Azul, mientras la integración oficial SPI↔Pix sigue sin acuerdo firmado.
 entity_category: empresa
 faq:
   - q: "¿Qué es Bancard y su red PY-QR?"
-    a: "Bancard opera la red privada PY-QR con 181.000 comercios, 75+ aplicaciones (bancos, financieras, cooperativas y billeteras) y 68.1% de los pagos electrónicos de su red."
+    a: "Bancard opera la red privada PY-QR con más de 181.000 comercios, más de 75 aplicaciones (bancos, financieras, cooperativas y billeteras) y 68,1% de los pagos electrónicos de su red."
+  - q: "¿Bancard permite cobrar con Pix de Brasil?"
+    a: "Sí: desde 2024 ofrece cobro con Pix brasileño en sus POS Azul, según ABC Color. La integración oficial entre SPI y Pix sigue sin acuerdo firmado."
+  - q: "¿Qué es el estándar PY-QR?"
+    a: "Es el estándar de pagos con código QR desarrollado por Bancard y aprobado por el BCP en 2025, según ABC Color."
 related_articles:
   - title: "Paraguay tiene más fintechs que bancos y recién empieza"
     url: /articulos/2026/07/10/fintech-paraguay-ecosistema/

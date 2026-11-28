@@ -9,13 +9,15 @@ entity_id: bid
 entity_name: BID
 entity_name_full: Banco Interamericano de Desarrollo
 entity_description: >
-  Organismo multilateral que financió la Agenda Digital de Paraguay con un préstamo de USD 130M (2019) y la Estrategia Nacional de Hidrógeno Verde (2025). Socio financiero recurrente en infraestructura digital y energética del país. El Data Center Estatal Tier III del MITIC también fue financiado por el BID.
+  Organismo multilateral que financió la Agenda Digital de Paraguay con un préstamo de USD 130M (2019) y participó como socio del MOPC y el VMME en la publicación de la Estrategia Nacional de Hidrógeno Verde (2025). Socio recurrente en infraestructura digital y energética del país. El Data Center Estatal Tier III del MITIC también fue financiado por el BID.
 entity_category: geopolítica
 faq:
   - q: "¿Qué financiamiento aporta el BID a Paraguay en tecnología?"
-    a: "El BID financió con USD 130 millones la Red Nacional de Fibra Óptica (2019), que unificó las redes de Copaco, ANDE, Interior, Hacienda y MITIC."
+    a: "El BID financió con USD 130 millones (2019) el programa de Red Nacional de Fibra Óptica para extender la conectividad y mejorar la calidad del servicio. La Etapa 1 agrupó redes de organismos públicos."
   - q: "¿El BID participa en la política energética de Paraguay?"
-    a: "El BID apoyó el estudio Ceare (UBA) sobre tarifas de ANDE 2026-2030, que proyecta un aumento del 39.4% en la tarifa media para 2030."
+    a: "El BID apoyó el estudio Ceare (UBA) sobre tarifas de ANDE 2026-2030, que proyecta un aumento del 39,4% en la tarifa media para 2030. Es una proyección, no una tarifa vigente."
+  - q: "¿El BID financió la Estrategia de Hidrógeno Verde?"
+    a: "El documento de 2025 figura publicado por MOPC/VMME/BID. La fuente abierta acredita participación y publicación, no un contrato de financiamiento específico."
 related_articles:
   - title: "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/

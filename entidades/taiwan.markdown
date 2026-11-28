@@ -9,13 +9,17 @@ entity_id: taiwan
 entity_name: Taiwán
 entity_name_full: Taiwán (República de China)
 entity_description: >
-  Taiwán es el último aliado diplomático de Paraguay en Sudamérica y su socio estratégico en tecnología. Fabrica el 90% de los semiconductores avanzados del mundo (TSMC). Invierte en Paraguay a través del ICDF con becas, cooperación técnica y el proyecto Yguazú Digital. En agosto 2026 el fabricante de memorias ADATA (2º productor mundial de módulos DRAM) inició la prospección de una planta de ensamblaje de memorias y SSDs en Minga Guazú bajo el régimen de maquila (Ley 7547/2025). La relación Taiwán-Paraguay define la posición geopolítica del país en la guerra fría tecnológica entre China y EE.UU.
+  Taiwán es el último aliado diplomático de Paraguay en Sudamérica y su socio estratégico en tecnología. TSMC fabrica más del 90% de los chips más avanzados del mundo. Coopera técnicamente con Paraguay mediante el ICDF; el ICDF y el MITIC fueron designados organismos ejecutores de Yguazú Digital. En agosto de 2026 ADATA evaluaba instalar una planta en Paraguay, con prospección en Minga Guazú, bajo los regímenes de maquila y ensamblaje; en 2024 fue segunda por ingresos en módulos DRAM. La alianza con Taiwán es un factor relevante en la posición geopolítica del país en la guerra fría tecnológica entre China y EE.UU.
 entity_category: geopolítica
 faq:
   - q: "¿Qué acuerdos tiene Taiwán con Paraguay en tecnología?"
     a: "Taiwán firmó un memorando de entendimiento con Paraguay en mayo de 2026 para crear Yguazú Digital, un proyecto de data center de IA de hasta 1.000 MW."
   - q: "¿Por qué Taiwán invierte en Paraguay?"
-    a: "Paraguay es el único país de Sudamérica que mantiene relaciones diplomáticas con Taiwán. El acuerdo busca aprovechar la energía barata y abundante de Paraguay para infraestructura de IA."
+    a: "Paraguay es el único país de Sudamérica que mantiene relaciones diplomáticas con Taiwán. El acuerdo busca aprovechar la ubicación estratégica y la disponibilidad energética de Paraguay para infraestructura de IA."
+  - q: "¿Qué empresas taiwanesas evalúan invertir en Paraguay?"
+    a: "En agosto de 2026 ADATA evaluaba instalar una planta de memorias y SSDs en Minga Guazú, bajo los regímenes de maquila y ensamblaje. La prospección no implica una inversión confirmada."
+  - q: "¿Taiwán entrega becas a estudiantes paraguayos?"
+    a: "La fuente oficial abierta del ICDF verifica cooperación técnica y la designación del ICDF como organismo ejecutor de Yguazú Digital; no documenta un programa de becas para Paraguay."
 related_articles:
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/
@@ -68,7 +72,7 @@ obs_directorio:
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+    context: "El proyecto de data center binacional con Taiwán anunció tres fases de 10 MW, 100 MW y hasta 1 GW; solo la primera tiene financiamiento anunciado de USD 200 millones. El ICDF contactó a Google,..."
   - label: "Yguazú Digital: gobernanza binacional para IA"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."

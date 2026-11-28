@@ -1,19 +1,23 @@
 ---
 layout: entidad
-title: "Dirección General de Migraciones"
+title: "Dirección Nacional de Migraciones (DNM)"
 description: >
-  Perfil de Migraciones en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Dirección General de Migraciones.
+  Perfil de Migraciones en el Observatorio de IA en Paraguay: artículos, leyes y datos verificables sobre Dirección Nacional de Migraciones (DNM).
 permalink: /entidades/migraciones/
 last_modified_at: 2026-11-28
 entity_id: migraciones
 entity_name: Migraciones
-entity_name_full: Dirección General de Migraciones
+entity_name_full: Dirección Nacional de Migraciones (DNM)
 entity_description: >
   Autoridad migratoria de Paraguay. Concede la residencia permanente y aplica la Ley 6984/2022. El artículo 46 de esa ley es la base de la residencia permanente por inversión que promociona el Investor Pass; Migraciones registró 47.687 solicitudes y otorgó 40.600 residencias en 2025.
 entity_category: gobierno
 faq:
   - q: "¿La Dirección de Migraciones ofrece trámites digitales?"
-    a: "La Dirección General de Migraciones de Paraguay ofrece trámites en línea a través de Paraguay.gov.py, incluyendo consultas de estado migratorio y solicitud de documentos."
+    a: "La Dirección Nacional de Migraciones permite iniciar trámites en línea a través de Paraguay.gov.py, como consultas de estado migratorio y solicitudes de documentos; algunos exigen presentación física de documentos originales."
+  - q: "¿Cuántas residencias se otorgaron en 2025?"
+    a: "La DNM registró 47.687 solicitudes ingresadas y otorgó 40.600 residencias en 2025, según su informe oficial publicado en enero de 2026."
+  - q: "¿Qué ley regula la residencia por inversión?"
+    a: "La Ley 6984/2022; su artículo 46 exceptúa del requisito de residencia temporal previa a quien acredite inversiones al amparo de la Ley 4986/2013."
 related_articles:
   - title: "Paraguay firma la residencia permanente más directa de la región"
     url: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/

@@ -9,11 +9,15 @@ entity_id: universidad-nacional
 entity_name: UNA
 entity_name_full: Universidad Nacional de Asunción
 entity_description: >
-  La universidad más grande de Paraguay, fundada en 1889. Sus facultades de Ingeniería y Politécnica forman parte de los ~400 graduados anuales en informática. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formación de talento tech del país.
+  La universidad más grande de Paraguay, fundada en 1889. Sus facultades de Ingeniería y Politécnica participan en la formación de profesionales tecnológicos del país, que gradúa en promedio unos 400 informáticos por año (INE vía La Tribuna, 22 de enero de 2026). Co-organiza IBERAMIA 2026 con la UCA, con el apoyo de UCOM y SOPAIA. Para este observatorio representa la capacidad de formación de talento tech del país.
 entity_category: academia
 faq:
   - q: "¿Qué rol tiene la Universidad Nacional en IA?"
-    a: "La Universidad Nacional de Asunción (UNA) es la principal institución académica de Paraguay, con facultades de ingeniería y ciencias que forman profesionales en tecnología e IA."
+    a: "La Universidad Nacional de Asunción (UNA) es la universidad más grande de Paraguay, fundada en 1889, con facultades de ingeniería y ciencias que forman profesionales en tecnología. Participa en IBERAMIA 2026, organizada con la UCA."
+  - q: "¿Cuántos informáticos gradúa Paraguay por año?"
+    a: "El país forma en promedio unos 400 profesionales informáticos por año, según datos del INE publicados por La Tribuna (22 de enero de 2026). La cifra es nacional, no exclusiva de la UNA."
+  - q: "¿Qué es IBERAMIA 2026?"
+    a: "Es la 19ª Conferencia Iberoamericana de Inteligencia Artificial, a realizarse en Asunción en noviembre de 2026. La organizan la UNA y la UCA, con el apoyo de UCOM y SOPAIA."
 related_articles:
   - title: "Paraguay tiene una ventaja silenciosa en la anotación de datos para IA"
     url: /articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/
@@ -92,7 +96,7 @@ obs_casos-de-uso:
     context: "Paraguay tiene la electricidad industrial más barata de Sudamérica (0.03-0.05 USD/kWh). Eso atrae data centers de IA que ven al país como alternativa a Irlanda, Singapur y Virginia."
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+    context: "El proyecto de data center binacional con Taiwán anunció tres fases de 10 MW, 100 MW y hasta 1 GW; solo la primera tiene financiamiento anunciado de USD 200 millones. El ICDF contactó a Google,..."
   - label: "Apertura del sector eléctrico"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. Leer más sobre inversión tech."

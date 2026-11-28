@@ -9,11 +9,13 @@ entity_id: santiago-pena
 entity_name: Santiago Peña
 entity_name_full: Santiago Peña Palacios
 entity_description: >
-  Expresidente de Paraguay. Asumió el 15 de agosto de 2023 y fue destituido por el Senado el 6 de noviembre de 2026 por mal desempeño en el caso Ueno Bank; lo reemplazó Pedro Alliana. Antes fue ministro de Hacienda (2015-2018). Su gobierno impulsó la apertura del sector eléctrico (Ley 7599, Decreto 6034), promovió Yguazú Digital con Taiwán y buscó atraer data centers. Desde el 7 de noviembre de 2026 cumple prisión preventiva; según la Fiscalía, está imputado por lesión de confianza, administración en provecho propio y asociación criminal. Niega los cargos y no hay condena. La causa investiga el colapso de Ueno Bank, del que fue accionista hasta 2025. Paraguay sigue sin una estrategia nacional de IA aprobada.
+  Expresidente de Paraguay. Asumió el 15 de agosto de 2023 y fue destituido por el Senado el 6 de noviembre de 2026 por mal desempeño en el caso Ueno Bank; lo reemplazó Pedro Alliana. Antes fue ministro de Hacienda (2015-2017). Su gobierno impulsó la apertura del sector eléctrico (Ley 7599, Decreto 6034), promovió Yguazú Digital con Taiwán y buscó atraer data centers. Desde el 7 de noviembre de 2026 cumple prisión preventiva; según el acta de imputación fiscal N.º 7, está imputado por lesión de confianza, producción inmediata de documentos públicos de contenido falso y administración en provecho propio. Se abstuvo de declarar y no hay condena. La causa investiga el colapso de Ueno Bank: según el acta, fue titular de aproximadamente el 1,58 % de Ueno Holding, no del banco, hasta el rescate de sus acciones en marzo de 2025. Paraguay sigue sin una estrategia nacional de IA aprobada.
 entity_category: gobierno
 faq:
   - q: "¿Qué políticas de energía e IA impulsó Santiago Peña?"
-    a: "Peña impulsó la Ley 7599/2025 (apertura del sector eléctrico), el Decreto 6034/2026 (6 fuentes renovables) y la Resolución 52552/2026 (tarifa IA). Convocó la Mesa Energética Nacional en agosto de 2026."
+    a: "Peña impulsó la Ley 7599/2025 (apertura del sector eléctrico) y el Decreto 6034/2026 (6 fuentes renovables); bajo su gobierno la ANDE emitió la Resolución 52552/2026 (tarifa IA). Convocó la Mesa Energética Nacional en agosto de 2026."
+  - q: "¿Qué se le imputa a Santiago Peña en el caso Ueno?"
+    a: "El acta fiscal N.º 7 lo imputa por «Lesión de confianza, Producción inmediata de documentos públicos de contenido falso y Administración en provecho propio». Según RTVE, se abstuvo de declarar. La imputación y la prisión preventiva son medidas cautelares: no hay condena."
   - q: "¿Qué es la Mesa Energética Nacional?"
     a: "Organismo asesor creado en 2012, reactivado en 2023 por Peña. En agosto de 2026 dio 30 días para propuestas en 4 ejes: institucionalidad, generación, mesa eléctrica público-privada y reglas para inversores."
 related_articles:

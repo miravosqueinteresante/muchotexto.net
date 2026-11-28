@@ -171,7 +171,7 @@
     {
       "slug": "migraciones",
       "name": "Migraciones",
-      "name_full": "Dirección General de Migraciones",
+      "name_full": "Dirección Nacional de Migraciones (DNM)",
       "category": "gobierno",
       "url": "/entidades/migraciones/"
     },
@@ -212,13 +212,13 @@
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Acuerdo tarifario de Itaipú 2024-2026 — vence 31 de diciembre de 2026"
+      "label": "Tarifa de Itaipú 2024-2026"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Tarifa de Itaipú 2024-2026"
+      "label": "Acuerdo tarifario de Itaipú 2024-2026 — vence 31 de diciembre de 2026"
     },
     {
       "source": "ande",
@@ -365,6 +365,12 @@
       "label": "Lo que Itaipú le enseña a Paraguay sobre inteligencia artificial"
     },
     {
+      "source": "itaipu",
+      "target": "pti-py",
+      "type": "articulo",
+      "label": "Itaipú 2027: la energía de Paraguay después del acuerdo"
+    },
+    {
       "source": "yacyreta",
       "target": "yguazu-digital",
       "type": "articulo",
@@ -444,15 +450,51 @@
     },
     {
       "source": "hive-digital",
+      "target": "x8cloud",
+      "type": "articulo",
+      "label": "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
+    },
+    {
+      "source": "hive-digital",
       "target": "universidad-nacional",
       "type": "articulo",
       "label": "Qué le pasa a una ciudad paraguaya cuando llega un data center"
+    },
+    {
+      "source": "hive-digital",
+      "target": "amcham",
+      "type": "articulo",
+      "label": "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
     },
     {
       "source": "starlink",
       "target": "conatel",
       "type": "articulo",
       "label": "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
+    },
+    {
+      "source": "x8cloud",
+      "target": "peter-thiel",
+      "type": "articulo",
+      "label": "El experimento paraguayo de Peter Thiel"
+    },
+    {
+      "source": "x8cloud",
+      "target": "santiago-pena",
+      "type": "articulo",
+      "label": "El experimento paraguayo de Peter Thiel"
+    },
+    {
+      "source": "x8cloud",
+      "target": "universidad-nacional",
+      "type": "articulo",
+      "label": "El experimento paraguayo de Peter Thiel"
+    },
+    {
+      "source": "x8cloud",
+      "target": "amcham",
+      "type": "articulo",
+      "label": "Lo que el capital de Silicon Valley busca en Paraguay y no encuentra"
     },
     {
       "source": "araico",

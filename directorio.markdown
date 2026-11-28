@@ -3,7 +3,7 @@ layout: page
 title: "Directorio de IA en Paraguay"
 permalink: /directorio/
 description: "Directorio de IA en Paraguay: startups, aceleradoras, comunidades, eventos y espacios de tecnología e inteligencia artificial."
-last_modified_at: 2026-09-18
+last_modified_at: 2026-11-28
 ---
 
 Este directorio se actualiza constantemente. Si conocés una startup, comunidad o evento que debería estar acá, [escribinos](/contacto/).

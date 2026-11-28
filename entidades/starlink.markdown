@@ -9,13 +9,15 @@ entity_id: starlink
 entity_name: Starlink
 entity_name_full: Starlink (SpaceX)
 entity_description: >
-  Servicio de internet satelital de SpaceX que opera en Paraguay desde 2023. Más de 20.000 usuarios, 1.600 antenas instaladas en escuelas rurales, 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT — Paraguay fue el primer país del mundo en hacerlo.
+  Servicio de internet satelital de SpaceX que opera en Paraguay desde 2023. Alrededor de 20.000 terminales autorizadas; 1.600 kits de conectividad incorporados y más de 50.000 estudiantes y docentes alcanzados. CONATEL autorizó a Starlink a operar por encima de los límites de potencia de la UIT: Paraguay fue uno de los primeros países de la región en hacerlo.
 entity_category: empresa
 faq:
   - q: "¿Starlink opera en Paraguay?"
     a: "Starlink (SpaceX) ofrece servicio de internet satelital en Paraguay, proporcionando conectividad en zonas rurales y remotas donde la fibra óptica no llega."
   - q: "¿Cuál es la velocidad de Starlink en Paraguay?"
-    a: "Starlink ofrece velocidades de descarga de 50-200 Mbps y latencia de 20-40 ms en Paraguay, dependiendo de la ubicación y congestión de la red."
+    a: "ABC Color reportó en julio de 2026 velocidades cercanas a los 150 Mbps. No hay fuente abierta que verifique el rango de 50-200 Mbps ni una latencia de 20-40 ms."
+  - q: "¿Cuándo autorizó CONATEL a Starlink?"
+    a: "CONATEL otorgó la licencia a Starlink Paraguay S.R.L. mediante la Resolución de Directorio N.º 2508, del 5 de octubre de 2023."
 related_articles:
   - title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
     url: /articulos/2026/07/16/starlink-paraguay-conectividad/

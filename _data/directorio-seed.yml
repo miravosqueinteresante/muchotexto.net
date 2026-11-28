@@ -42,8 +42,8 @@
 - seccion: "Data centers e infraestructura"
   items:
     - nombre: "Yguazú Digital"
-      descripcion: "Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. [Leer análisis](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)."
-    - nombre: "X8Cloud"
+      descripcion: "Proyecto binacional Paraguay-Taiwán con meta aspiracional de hasta 1 GW en tres fases (10, 100 y 1.000 MW); el financiamiento anunciado cubre solo la primera. [Leer análisis](/articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/)."
+    - nombre: "X8 Cloud"
       descripcion: "Plataforma de infraestructura de IA con energía de Itaipú. Promociona GPUs H100/A100, ahorro del 70% y latencia sub-10ms para Latinoamérica. Sin cifras públicas de inversión ni estado de construcción. [Leer más](/articulos/2026/07/31/silicon-valley-cono-sur-paraguay/)."
       url: "https://x8cloud.ai/?lang=es"
     - nombre: "Pardat Holding"

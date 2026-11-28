@@ -9,11 +9,15 @@ entity_id: cert-py
 entity_name: CERT-PY
 entity_name_full: Centro de Respuesta a Incidentes de Seguridad Informática de Paraguay
 entity_description: >
-  Centro nacional de respuesta a incidentes de ciberseguridad, operativo desde 2012 bajo el MITIC. Coordina la respuesta a ataques informáticos contra infraestructura estatal. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizó 18 agencias estatales.
+  Centro nacional de respuesta a incidentes de ciberseguridad, operativo desde 2012 bajo el MITIC. Coordina la respuesta a ataques informáticos contra infraestructura estatal. Un equipo de investigadores paraguayos y estadounidenses identificó al grupo Flax Typhoon, vinculado al gobierno chino, como responsable de intrusiones en el país, según OCCRP. En mayo de 2025 cibercriminales infiltraron varios ministerios; en junio un grupo de ransomware reclamó un rescate por presuntos datos de ciudadanos, que el Gobierno atribuyó a filtraciones previas sin confirmar una intrusión nueva.
 entity_category: gobierno
 faq:
   - q: "¿Qué es CERT-PY?"
     a: "CERT-PY es el Equipo de Respuesta a Incidentes de Seguridad Informática de Paraguay, dependiente del MITIC, encargado de coordinar la respuesta a ciberincidentes."
+  - q: "¿Qué ocurrió con el ransomware de junio de 2025?"
+    a: "El ministro Gustavo Villate declaró: «no se trata de un secuestro de información, sino más bien de datos recopilados de filtraciones anteriores». El Gobierno negó haber pagado o negociado con el grupo, sin confirmar una intrusión nueva."
+  - q: "¿Qué norma rige la ciberseguridad nacional?"
+    a: "El Decreto 3900 oficializó la Estrategia Nacional de Ciberseguridad 2025-2028, según la ficha institucional de CERT-PY."
 related_articles:
   - title: "Los agentes de IA actuaron sin control y Paraguay no tiene defensas"
     url: /articulos/2026/09/03/contenido-basura-agentes-ia/

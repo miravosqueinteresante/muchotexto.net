@@ -9,7 +9,7 @@ entity_id: hive-digital
 entity_name: HIVE Digital Technologies
 entity_name_full: HIVE Digital Technologies Ltd.
 entity_description: >
-  Empresa de infraestructura digital listada en NASDAQ (HIVE). Opera 300 MW en Paraguay (200 MW Yguazú + 100 MW Valenzuela, fases completadas jun-nov 2025) y construye 100 MW adicionales de infraestructura en Yguazú, capacidad sin asignar entre minería, AI y HPC (energización prevista Q4 2026; Tier-III H2 2027). Plan total: 400 MW. Los PPAs de Yguazú y Valenzuela vencen el 31-dic-2027. Modelo dual: minería Bitcoin (93.5% revenue FY2026) + HPC/AI cloud. Lanzó BUZZ AI Cloud en marzo 2026 en data center Tier III en Asunción.
+  Empresa de infraestructura digital listada en NASDAQ (HIVE). Opera 300 MW en Paraguay (200 MW Yguazú + 100 MW Valenzuela, fases completadas jun-nov 2025) y construye 100 MW adicionales de infraestructura en Yguazú, capacidad sin asignar entre minería, AI y HPC (energización prevista Q4 2026; Tier-III H2 2027). Plan total: 400 MW. Los PPAs de Yguazú y Valenzuela vencen el 31-dic-2027. Modelo dual: minería Bitcoin (93.5% revenue FY2026) + HPC/AI cloud. Lanzó BUZZ AI Cloud en marzo de 2026 en el data center Tier III de Tigo en Villa Elisa, Área Metropolitana de Asunción.
 entity_category: empresa
 faq:
   - q: "¿Cuánta capacidad operativa tiene HIVE en Paraguay?"
@@ -17,7 +17,7 @@ faq:
   - q: "¿HIVE migra de minería a IA?"
     a: "No es una migración sino un modelo dual: minería Bitcoin representó el 93.5% del revenue en FY2026, mientras HPC/AI cloud aportó el 6.5%."
   - q: "¿Dónde está el data center de HIVE en Paraguay?"
-    a: "HIVE opera en Yguazú (Alto Paraná) y Valenzuela (Central), con sede operativa en San Antonio, Texas. Listada en TSX (Canadá) y Nasdaq."
+    a: "HIVE opera en Yguazú (Alto Paraná) y Valenzuela (Cordillera), con sede operativa en San Antonio, Texas. Listada en TSX (Canadá) y Nasdaq."
 related_articles:
   - title: "Lo que un data center compra y Paraguay no puede vender"
     url: /articulos/2026/07/25/cadena-valor-data-center/

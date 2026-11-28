@@ -16,6 +16,10 @@ faq:
     a: "Araico firmó un contrato de 15 años con ANDE por hasta 286 MW para un data center. Arranca el 1 de diciembre de 2026 con 6 MW en 23 kV."
   - q: "¿Cuándo estará operativo el data center de Araico?"
     a: "El proyecto arranca el 1 de diciembre de 2026 con 6 MW en 23 kV (56.39 USD/MWh). La capacidad completa de 286 MW se alcanzará en abril de 2029 (48.91 USD/MWh en 220 kV)."
+  - q: "¿Qué es Iguazú AI City?"
+    a: "Es el campus de data centers de IA promovido por Araico en Yguazú, Alto Paraná, con una inversión anunciada de hasta USD 12.000 millones en tres etapas y una meta de 1,3 GW. Las cifras son anuncios de la empresa, no capacidad construida."
+  - q: "¿En qué marco tarifario se firmó el contrato de Araico?"
+    a: "El acuerdo se firmó el 22 de octubre de 2026 al amparo de la Resolución ANDE 52552/2026, que creó el grupo de industrias electrointensivas de tecnología avanzada para IA, nube, hiperescala y HPC."
 related_articles:
   - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
     url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/

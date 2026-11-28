@@ -9,15 +9,15 @@ entity_id: yguazu-digital
 entity_name: Yguazú Digital
 entity_name_full: Proyecto Yguazú Digital
 entity_description: >
-  Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: Fase I (10 MW, USD 200-500M), Fase II (100 MW, ~USD 5B), Fase III (1 GW, ~USD 40B). El ICDF contactó a Google, Microsoft y Amazon como posibles clientes. Es el ancla de la estrategia de Paraguay como hub de IA.
+  Proyecto binacional Paraguay-Taiwán para construir un centro de datos de IA, uno de los proyectos anunciados más grandes de la región. Tres fases: 10 MW (financiamiento taiwanés anunciado de USD 200 millones), 100 MW y hasta 1 GW; las fases posteriores son metas declaradas sin costos verificados. El ICDF contactó a Google, Microsoft y Amazon para evaluar su interés en invertir. El MITIC lo describe como una de las iniciativas estratégicas de la alianza entre ambos países.
 entity_category: infraestructura
 faq:
   - q: "¿Qué es Yguazú Digital y cuánta energía consumirá?"
-    a: "Yguazú Digital es un proyecto de data center de IA en Paraguay firmado en mayo de 2026 con Taiwán, con 3 fases: 10 MW → 100 MW → 1.000 MW. Consumirá el equivalente a una turbina y media de Itaipú."
+    a: "Yguazú Digital es un proyecto de data center de IA en Paraguay firmado en mayo de 2026 con Taiwán, con 3 fases: 10 MW → 100 MW → 1.000 MW. Consumirá casi el equivalente a una unidad y media de Itaipú."
   - q: "¿Es Yguazú Digital un proyecto vinculante?"
     a: "No. El memorando de entendimiento firmado en mayo de 2026 es una declaración de intención no vinculante. Las cifras son aspiracionales, no capacidad construida."
   - q: "¿Dónde se ubicará Yguazú Digital?"
-    a: "En la zona de Yguazú, departamento de Alto Paraná, cerca de la subestación de ANDE que sirve a la región."
+    a: "En la zona de Yguazú, departamento de Alto Paraná."
 related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
@@ -60,7 +60,7 @@ obs_cronologia:
 obs_directorio:
   - label: "Yguazú Digital"
     url: /directorio/
-    context: "Proyecto binacional Paraguay-Taiwán: Fase I 10 MW / $200-500M, Fase II 100 MW / ~$5B, Fase III 1 GW / ~$40B. Leer análisis."
+    context: "Proyecto binacional Paraguay-Taiwán con meta aspiracional de hasta 1 GW en tres fases (10, 100 y 1.000 MW); el financiamiento anunciado cubre solo la primera. Leer análisis."
 obs_regulacion:
   - label: "Contenido local en data centers"
     url: /articulos/2026/07/25/cadena-valor-data-center/
@@ -68,7 +68,7 @@ obs_regulacion:
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+    context: "El proyecto de data center binacional con Taiwán anunció tres fases de 10 MW, 100 MW y hasta 1 GW; solo la primera tiene financiamiento anunciado de USD 200 millones. El ICDF contactó a Google,..."
   - label: "Yguazú Digital: gobernanza binacional para IA"
     url: /articulos/2026/08/02/modelo-itaipu-gobernanza-ia/
     context: "Paraguay y Taiwán proponen replicar el modelo de entidad binacional de Itaipú (50/50) para Yguazú Digital. No existe precedente mundial de gobernanza binacional aplicada a infraestructura de IA. El..."

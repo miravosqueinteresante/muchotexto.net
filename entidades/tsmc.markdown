@@ -9,11 +9,15 @@ entity_id: tsmc
 entity_name: TSMC
 entity_name_full: Taiwan Semiconductor Manufacturing Company
 entity_description: >
-  El mayor fabricante de semiconductores del mundo. Produce la mayor parte de los chips avanzados utilizados en IA (NVIDIA H100, Apple M-series, etc.). Aunque no fabrica en Paraguay, delegados de TSMC han participado en foros bilaterales Paraguay-Taiwán. Su relación con Taiwán es clave para entender la geopolítica de los chips. Es una fundición: fabrica chips diseñados por otras empresas y no vende chips con marca propia. Su capacidad en nodos avanzados está concentrada en Taiwán, lo que convierte a la isla en un punto crítico de la cadena global de IA. Para Paraguay, su relevancia es geopolítica: explica por qué Taiwán es un socio estratégico y por qué la relación con China condiciona la agenda tecnológica.
+  El mayor fabricante de chips por encargo (foundry), con 72,5% del mercado en el segundo trimestre de 2026. Produce más del 90% de los chips avanzados del mundo. Expertos taiwaneses del sector, no identificados como delegados de TSMC en la fuente abierta, participaron en foros bilaterales Paraguay-Taiwán. Fabrica chips diseñados por otras empresas y no vende chips con marca propia. La mayor parte de su capacidad avanzada está concentrada en Taiwán, lo que convierte a la isla en un punto crítico de la cadena global de IA. Para Paraguay, su relevancia es geopolítica: explica por qué Taiwán es un socio estratégico y por qué la relación con China condiciona la agenda tecnológica.
 entity_category: geopolítica
 faq:
   - q: "¿TSMC tiene presencia en Paraguay?"
-    a: "TSMC (Taiwan Semiconductor Manufacturing Company) no tiene operaciones en Paraguay, pero es un actor clave en la geopolítica de semiconductores que afecta la cadena de suministro global de chips para IA."
+    a: "TSMC no tiene fábrica operativa en Paraguay. Su relevancia para el país es geopolítica: es el mayor fabricante de chips por encargo y concentra la mayor parte de su capacidad avanzada en Taiwán."
+  - q: "¿Qué participación tiene TSMC en los chips de IA?"
+    a: "Produce más del 90% de los chips más avanzados del mundo, según The Conversation. En el segundo trimestre de 2026 tuvo el 72,5% del mercado de fundición, según TrendForce."
+  - q: "¿Hubo delegados de TSMC en foros con Paraguay?"
+    a: "La fuente abierta del MIC menciona expertos taiwaneses del sector en foros bilaterales, sin identificarlos como delegados de TSMC."
 related_articles:
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/

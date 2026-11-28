@@ -9,15 +9,15 @@ entity_id: itaipu
 entity_name: Itaipú
 entity_name_full: Itaipú Binacional
 entity_description: >
-  La hidroeléctrica más grande del mundo en generación acumulada, operada por Paraguay y Brasil desde 1973. Genera 14.000 MW; Paraguay consume ~20% de su mitad y vende el resto a Brasil. El acuerdo tarifario 2024-2026 vence el 31 de diciembre de 2026; la revisión del Anexo C se reanudó en noviembre de 2025. La energía de Itaipú alimenta los data centers de HIVE y es la ventaja competitiva central de Paraguay en la economía de la IA.
+  La mayor generadora de energía limpia y renovable del mundo por producción acumulada, creada por el Tratado de 1973, en operación desde mayo de 1984 y operada por Paraguay y Brasil. Genera 14.000 MW (7.000 MW para cada país); en 2025 suministró 25.768 GWh a Paraguay, el 87,6% del consumo eléctrico nacional, y cede el excedente de la cuota paraguaya a Brasil. Históricamente, entre 1984 y 2025 el aprovechamiento acumulado de esa cuota fue del 20,3%. El acuerdo tarifario 2024-2026 vence el 31 de diciembre de 2026; la revisión del Anexo C se reanudó en noviembre de 2025. La energía de Itaipú alimenta los data centers de HIVE y, según los propios inversores, es una de las ventajas competitivas de Paraguay en la economía de la IA.
 entity_category: infraestructura
 faq:
   - q: "¿Cuánta energía produce Itaipú y cuánto le corresponde a Paraguay?"
-    a: "Itaipú tiene 14.000 MW de capacidad total (7.000 MW para cada país). Paraguay consume ~2.500 MW y exporta el excedente a Brasil."
+    a: "Itaipú tiene 14.000 MW de capacidad total (7.000 MW para cada país). En 2025 suministró 25.768 GWh a Paraguay, el 87,6% del consumo eléctrico nacional; el resto de la cuota paraguaya se cede a Brasil."
   - q: "¿Cuándo vence el acuerdo tarifario de Itaipú?"
     a: "El acuerdo tarifario vigente (USD 19.28/kW-mes) vence el 31 de diciembre de 2026. La revisión del Anexo C se reanudó en noviembre de 2025, pero no hay un nuevo texto firmado."
   - q: "¿Cuánto ingresa Paraguay por Itaipú?"
-    a: "Paraguay percibe aproximadamente USD 1.250 millones/año por regalías, inversión social, compensación por cesión de energía y utilidades de capital."
+    a: "El anuncio oficial del 9 de mayo de 2024 proyectó USD 1.250 millones/año (280 regalías + 650 inversión social + 265 compensación por cesión + 53 utilidades) para el acuerdo 2024-2026; lo efectivamente percibido en 2024 fue de USD 880,9 millones."
 entity_datos_url: https://datospublicos.muchotexto.net/itaipu.html
 entity_datos_desc: "serie 2000–2026: generación por sector 50/60 Hz y suministro a Paraguay y Brasil"
 related_articles:

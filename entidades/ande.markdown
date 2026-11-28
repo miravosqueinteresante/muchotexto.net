@@ -13,7 +13,7 @@ entity_description: >
 entity_category: infraestructura
 faq:
   - q: "¿Cuánta energía genera Paraguay y cuánto consume?"
-    a: "Paraguay genera aproximadamente 44 TWh/año. El consumo nacional fue de 29.418 TWh en 2025, según la memoria anual de ANDE, y el excedente se exporta a Brasil y Argentina."
+    a: "Paraguay genera aproximadamente 44 TWh/año. El consumo nacional fue de 29.419 GWh (29,4 TWh) en 2025, según la memoria anual de ANDE, y el excedente se exporta a Brasil y Argentina."
   - q: "¿Cuál es la tarifa de ANDE para data centers de IA?"
     a: "La Resolución 52552/2026 establece una tarifa media de 48.91 USD/MWh en 220 kV y 56.39 USD/MWh en 23 kV, con ajuste anual por CPI+PPI y piso del 2.5%."
   - q: "¿Qué porcentaje de la energía paraguaya es renovable?"
@@ -67,7 +67,7 @@ entity_laws:
 obs_glosario:
   - label: "ANDE (Administración Nacional de Electricidad)"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
-    context: "Empresa estatal que genera, transmite y distribuye la electricidad en Paraguay. Opera con tarifas políticas que no cubren sus costos, lo que limita su capacidad de inversión en la red de transmisión."
+    context: "Empresa estatal que compra la energía de Itaipú y Yacyretá, genera en Acaray y opera las redes de transmisión y distribución de Paraguay."
 obs_cronologia:
   - label: "1973"
     url: /cronologia/
@@ -77,7 +77,7 @@ obs_cronologia:
     context: "Atome anuncia proyecto de fertilizantes verdes en Villeta. En abril 2026 alcanza decisión final de inversión (FID) con USD 665M, pero la construcción no empieza por conflicto con ANDE sobre tarifa..."
   - label: "2024"
     url: /cronologia/
-    context: "ANDE registra 64 denuncias penales por conexiones ilegales de criptominería."
+    context: "En abril de 2024, ANDE registra 64 denuncias penales por conexiones ilegales de criptominería. Durante ese año interviene 33 conexiones irregulares."
   - label: "Diciembre 2024"
     url: /cronologia/
     context: "ANDE: consumo eléctrico crece 18% en un año, el triple del promedio histórico."
@@ -104,7 +104,7 @@ obs_regulacion:
 obs_casos-de-uso:
   - label: "Yguazú Digital"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/
-    context: "El proyecto de data center binacional con Taiwán. Fase I: 10 MW y $200-500M. ICDF ya contactó a Google, Microsoft y Amazon como posibles clientes."
+    context: "El proyecto de data center binacional con Taiwán anunció tres fases de 10 MW, 100 MW y hasta 1 GW; solo la primera tiene financiamiento anunciado de USD 200 millones. El ICDF contactó a Google,..."
   - label: "Apertura del sector eléctrico"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "El Decreto 6034 (mayo 2026) permite por primera vez la generación privada de energía renovable. Leer más sobre inversión tech."

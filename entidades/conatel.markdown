@@ -9,11 +9,15 @@ entity_id: conatel
 entity_name: Conatel
 entity_name_full: Comisión Nacional de Telecomunicaciones
 entity_description: >
-  Organismo regulador de las telecomunicaciones de Paraguay. Administra el espectro radioeléctrico y adjudicó las licitaciones de 5G: la primera en 2025 (Claro y Nubicom) y la segunda en 2026 (Tigo y Personal). Regula la conectividad del país, una de las patas del hub digital paraguayo.
+  Organismo regulador de las telecomunicaciones de Paraguay. Administra el espectro radioeléctrico y adjudicó las licitaciones de 5G: la primera en 2025 (Claro y Nubicom) y la segunda en 2026 (Tigo y Personal). Regula la conectividad del país.
 entity_category: gobierno
 faq:
   - q: "¿Qué regula CONATEL en Paraguay?"
     a: "CONATEL (Comisión Nacional de Telecomunicaciones) regula las telecomunicaciones, incluyendo el espectro radioeléctrico, la calidad de servicio y la conectividad."
+  - q: "¿Qué norma crea CONATEL?"
+    a: "La Ley 642/95 de Telecomunicaciones atribuye al Estado el fomento, control y reglamentación del sector a través de la Comisión Nacional de Telecomunicaciones."
+  - q: "¿Cómo se adjudicó el espectro 5G?"
+    a: "La primera licitación (2025) adjudicó 200 MHz a Claro y Nubicom; la segunda (2026) adjudicó bandas de 2.300-2.400 MHz a Tigo y de 3.700-3.800 MHz a Personal."
 related_articles:
   - title: "Starlink ya conecta a 20.000 paraguayos donde la fibra no llega"
     url: /articulos/2026/07/16/starlink-paraguay-conectividad/
