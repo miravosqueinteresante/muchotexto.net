@@ -11,7 +11,7 @@ layout: default
     "headline": {{ page.title | jsonify }},
     "description": {{ page.description | jsonify }},
     "image": "{{ site.url }}/assets/images/og-image.png",
-    "inLanguage": "es",
+    "inLanguage": "es-PY",
     "datePublished": "{{ page.date | default: page.last_modified_at | default: site.time | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | default: page.date | default: site.time | date_to_xmlschema }}",
     "author": { "@id": "https://muchotexto.net/#author", "name": "César Sánchez" },
@@ -54,7 +54,7 @@ layout: default
     "name": {{ page.title | jsonify }},
     "@id": "{{ site.url }}{{ page.url }}",
     "url": "{{ site.url }}{{ page.url }}",
-    "inLanguage": "es",
+    "inLanguage": "es-PY",
     "isPartOf": { "@id": "https://muchotexto.net/#website" }
   }
   </script>
