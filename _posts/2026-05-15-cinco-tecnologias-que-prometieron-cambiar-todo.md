@@ -3,7 +3,7 @@ layout: post
 title: "5 tecnologías que prometieron cambiar todo pero no cambiaron nada"
 seo_title: "5 tecnologías que no cambiaron nada"
 date: 2026-05-15
-last_modified_at: 2026-08-15
+last_modified_at: 2026-11-28
 categories: articulos
 pilar: 5
 resumen: "Metaverso, NFTs, Hyperloop, Google Glass, Segway."
@@ -17,6 +17,13 @@ No es que estas tecnologías sean necesariamente malas. Algunas funcionaban bien
 
 Acá van cinco ejemplos que vale la pena recordar, sobre todo ahora que estamos viendo el mismo patrón con [otra tecnología que, esta vez sí, nos prometen que lo va a cambiar todo]({% post_url 2026-05-27-ia-cuesta-mas-que-humanos-burbuja %}).
 
+> **En resumen:**
+>
+> - Meta apostó el nombre de la empresa al metaverso. Reality Labs acumuló unas pérdidas operativas de USD 77.000 millones entre 2021 y 2025 y recortó más de 1.000 puestos en 2026.
+> - Los NFTs prometieron democratizar el arte y terminaron como un mercado especulativo: un estudio sobre 73.257 colecciones encontró que el 95% tenía valor de mercado cero.
+> - Hyperloop vendió velocidad sin resolver costo ni infraestructura; Google Glass y el Segway mostraron que la aceptación social pesa más que la novedad técnica.
+> - La pregunta que dejaron las cinco promesas no es si la tecnología funciona, sino si resuelve un problema real.
+
 ---
 
 ## 1. El Metaverso de Meta: la apuesta más cara de la historia de la tecnología
@@ -25,11 +32,11 @@ En octubre de 2021, Mark Zuckerberg se paró frente a una cámara y anunció que
 
 Cinco años después, Horizon Worlds — la plataforma estrella del metaverso de Meta — llegó a tener tan pocos usuarios activos diarios que casi podrían contarse manualmente. Una investigación independiente estimó que en 2023 tenía apenas 900 usuarios activos por día. Para ponerlo en contexto: 900 de los mil millones que Zuckerberg había prometido.
 
-El desastre financiero fue proporcional al tamaño de la ambición. Reality Labs, la división encargada del metaverso, acumuló pérdidas operativas de más de USD $73.000 millones desde 2021. El último trimestre de 2025 solo reportó una pérdida de $6.020 millones. Para dimensionarlo: hay que gastar un millón de dólares por día durante 200 años para igualar lo que Meta perdió en menos de cinco años.
+El desastre financiero fue proporcional al tamaño de la ambición. Reality Labs, la división encargada del metaverso, acumuló pérdidas operativas de unos USD 77.000 millones entre 2021 y 2025. El último trimestre de 2025 solo reportó una pérdida de $6.020 millones. Para dimensionarlo: hay que gastar un millón de dólares por día durante 200 años para igualar lo que Meta perdió en menos de cinco años.
 
 Pero el dinero no fue lo único que se perdió. El metaverso fracasó por razones más profundas. La gente no quería ponerse un casco para ir a reuniones de trabajo. No quería pasar horas en mundos virtuales vacíos donde no había nada que hacer. No quería una solución que complicaba lo que ya funcionaba bien. Los propios empleados de Meta no usaban el producto. El 91% de los mundos creados por usuarios en Horizon Worlds nunca recibieron más de 50 visitantes. El metaverso no fracasó porque la tecnología no estuviera lista; fracasó porque nadie quería lo que Meta estaba vendiendo.
 
-Para principios de 2026, Meta había despedido a más de 1.500 empleados de Reality Labs, cerrado estudios de videojuegos VR, y anunciado — aunque después lo revertieran — el cierre de Horizon Worlds en VR. Zuckerberg, mientras tanto, había pivotado a la inteligencia artificial, invirtiendo más de $100.000 millones proyectados en infraestructura de IA. El ciclo empezaba de nuevo.
+Para principios de 2026, Meta había despedido a más de 1.000 empleados de Reality Labs, cerrado estudios de videojuegos VR, y anunciado — aunque después lo revertieran — el cierre de Horizon Worlds en VR. Zuckerberg, mientras tanto, había pivotado a la inteligencia artificial, invirtiendo más de $100.000 millones proyectados en infraestructura de IA. El ciclo empezaba de nuevo.
 
 ---
 
@@ -99,7 +106,21 @@ En todos los casos, la respuesta fue no.
 
 Cuando aparece la próxima tecnología que promete cambiarlo todo — y en este mismo momento hay una, exactamente con el mismo patrón de hype, inversiones astronómicas y proyecciones imposibles — vale la pena recordar estas cinco. No para volverse cínico, sino para preguntar lo que casi nadie pregunta cuando la burbuja está creciendo: ¿esto resuelve un problema real que alguien tenga? ¿O solo es una tecnología impresionante buscando desesperadamente un propósito?
 
+Esa pregunta es especialmente relevante cuando la promesa se apoya en energía barata: la [demanda eléctrica paraguaya ya crece a dos dígitos](/articulos/2026/07/08/red-electrica-paraguay-ia/) y no toda la capacidad que se anuncia está construida.
+
 Encontrá más análisis sobre tecnología en la [guía completa de inteligencia artificial en Paraguay](/ia-en-paraguay/).
+
+## Fuentes
+
+- [Meta informa los resultados del cuarto trimestre y del año completo 2025](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx) — resultados segmentados de Reality Labs, 28 de enero de 2026.
+- [Reality Labs de Meta registra una pérdida de USD 6.020 millones en el cuarto trimestre](https://www.cnbc.com/2026/01/28/metas-reality-labs-posts-6point02-billion-loss-in-fourth-quarter.html) — pérdida del cuarto trimestre de 2025 y acumulado cercano a USD 80.000 millones.
+- [Meta despide empleados de VR mientras traslada su foco a IA](https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html) — recorte de más de 1.000 puestos en Reality Labs.
+- [YouTuber encuentra solo 900 usuarios diarios en Horizon Worlds](https://protos.com/youtuber-finds-only-900-daily-users-in-horizon-worlds-metas-36b-metaverse/) — estimación independiente de usuarios diarios en 2023.
+- [La gran mayoría de los NFT no tiene valor, según un nuevo informe](https://www.theguardian.com/technology/2023/sep/22/nfts-worthless-price) — informe sobre 73.257 colecciones, 95% sin valor y 79% sin vender.
+- [Preguntas frecuentes sobre el fin de Glass Enterprise Edition](https://support.google.com/glass-enterprise/customer/answer/13417888?hl=en) — fin de ventas de Glass Enterprise el 15 de marzo de 2023.
+- [Google discontinúa Google Glass Enterprise](https://www.cnbc.com/2023/03/15/google-discontinues-google-glass-enterprise-end-to-early-ar-project.html) — precio original de USD 1.500 y cierre de la línea Enterprise.
+- [Por dentro del final de producción del Segway](https://www.fastcompany.com/90517971/exclusive-segway-the-most-hyped-invention-since-the-macintosh-to-end-production) — unas 140.000 unidades vendidas en toda la vida del producto.
+- [Adiós al Segway original](https://techcrunch.com/2020/06/23/say-so-long-to-the-original-segway/) — cierre de producción en 2020 y contexto de hype inicial.
 
 <script type="application/ld+json">
 {
@@ -111,7 +132,7 @@ Encontrá más análisis sobre tecnología en la [guía completa de inteligencia
       "name": "¿Cuánto dinero perdió Meta con el metaverso?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Reality Labs, la división del metaverso de Meta, acumuló pérdidas operativas de más de USD 73.000 millones desde 2021. Horizon Worlds llegó a tener apenas 900 usuarios activos diarios. El 91% de los mundos nunca recibieron más de 50 visitantes."
+        "text": "Reality Labs, la división del metaverso de Meta, acumuló pérdidas operativas de unos USD 77.000 millones entre 2021 y 2025. Horizon Worlds llegó a tener apenas 900 usuarios activos diarios, según una estimación independiente. El 91% de los mundos nunca recibieron más de 50 visitantes."
       }
     },
     {

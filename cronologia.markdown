@@ -3,7 +3,7 @@ layout: page
 title: "Cronología de la IA en Paraguay"
 permalink: /cronologia/
 description: "Cronología de la IA en Paraguay: hitos de energía, infraestructura, datos y regulación desde 1965 hasta las fechas anunciadas para 2027-2040"
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-28
 ---
 
 Cada hito enlaza con el artículo completo donde se analiza en profundidad con fuentes verificables.

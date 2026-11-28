@@ -50,7 +50,7 @@ related_articles:
     context: "Hay un patrón que se repite cada cierto tiempo en la industria tecnológica. Alguien — un emprendedor carismático, una consultora con un PowerPoint, un CEO en una conferencia — anuncia que el futuro llegó. Que tal o cual tecnología va a..."
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
-    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta,..."
+    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es una de las personas más ricas del planeta,..."
 obs_cronologia:
   - label: "2009"
     url: /cronologia/

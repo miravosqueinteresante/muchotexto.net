@@ -9,17 +9,17 @@ entity_id: ande
 entity_name: ANDE
 entity_name_full: Administración Nacional de Electricidad
 entity_description: >
-  La ANDE es la empresa estatal de electricidad de Paraguay. Opera 16.000 MW de capacidad instalada (Itaipú, Yacyretá, Acaray) con la tarifa industrial más baja de Sudamérica (0.03-0.05 USD/kWh). Es el actor central en la apertura del sector eléctrico (Ley 7599/2025, Decreto 6034) y el principal proveedor de energía para data centers y criptominería.
+  La ANDE es la empresa estatal de electricidad de Paraguay. Compra la energía de Itaipú y Yacyretá, genera en Acaray (210 MW) y opera las redes de transmisión y distribución del país. El sistema paraguayo dispone de unos 8.760 MW, de los que 7.000 MW corresponden a la parte de Itaipú asignada a Paraguay. Es el principal proveedor de energía para data centers y criptominería, y aplica la nueva reglamentación de renovables no convencionales no hidráulicas (Ley 7599/2025 y Decreto 6034/2026).
 entity_category: infraestructura
 faq:
   - q: "¿Cuánta energía genera Paraguay y cuánto consume?"
-    a: "Paraguay genera aproximadamente 44 TWh/año. El consumo nacional es de 29.4 TWh (2025), dejando un excedente de ~15 TWh (~35%) que se exporta a Brasil y Argentina."
+    a: "Paraguay genera aproximadamente 44 TWh/año. El consumo nacional fue de 29.418 TWh en 2025, según la memoria anual de ANDE, y el excedente se exporta a Brasil y Argentina."
   - q: "¿Cuál es la tarifa de ANDE para data centers de IA?"
     a: "La Resolución 52552/2026 establece una tarifa media de 48.91 USD/MWh en 220 kV y 56.39 USD/MWh en 23 kV, con ajuste anual por CPI+PPI y piso del 2.5%."
   - q: "¿Qué porcentaje de la energía paraguaya es renovable?"
-    a: "El 99.998% de la matriz eléctrica es renovable: Itaipú (86%), Yacyretá (11%) y Acaray (3%). No existen parques solares ni eólicos utility-scale en operación."
+    a: "Prácticamente toda la electricidad que consume Paraguay es de origen hidroeléctrico. En 2025, Itaipú aportó el 87.6%, Yacyretá el 10.5% y Acaray el 1.9% del consumo nacional, según la memoria anual de ANDE. No hay parques solares ni eólicos utility-scale en operación."
   - q: "¿Cuánta potencia reservada tienen las empresas intensivas en energía?"
-    a: "41 empresas del grupo GCIE (criptominería) tienen 943.8 MW de potencia reservada contratada. Desde octubre 2026, IA/nube/HPC se contabilizan aparte (Res. 52552/2026)."
+    a: "En marzo de 2026, un listado entregado por ANDE registraba 41 suministros activos del GCIE con 943.882 kW (943.8 MW) de potencia reservada, equivalente al 13.5% de los 7.000 MW de Itaipú asignados a Paraguay. Desde la Res. 52552/2026, IA/nube/HPC se contabilizan aparte."
 entity_datos_url: https://datospublicos.muchotexto.net/energia.html
 entity_datos_desc: "sistema eléctrico paraguayo: consumo, demanda, pérdidas, clientes y tarifas"
 related_articles:
@@ -60,10 +60,10 @@ related_articles:
     url: /articulos/2026/10/25/inteligencia-alquiler-ia-soledad-dependencia/
     context: "Ese gesto mínimo es la puerta de entrada a un fenómeno más grande. La IA ya no se usa solo para buscar datos o escribir correos; se usa para decidir con quién estar, cómo responder y cómo trabajar. El problema no es que sea fría. Es que está..."
 entity_laws:
-  - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico al sector privado"
+  - "Ley 7599/2025 y Decreto 6034/2026 — marco para renovables no convencionales no hidráulicas"
   - "Ley 7547/2025 — reforma de la Ley de Maquila, incluye servicios intangibles"
   - "Tarifa de Itaipú 2024-2026 — USD 19.28/kW-mes, venta de excedente al mercado brasileño"
-  - "Anexo C del Tratado de Itaipú — vence 1 de enero de 2027"
+  - "Acuerdo tarifario de Itaipú 2024-2026 — vence 31 de diciembre de 2026"
 obs_glosario:
   - label: "ANDE (Administración Nacional de Electricidad)"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/

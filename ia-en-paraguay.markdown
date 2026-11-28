@@ -44,7 +44,7 @@ Esta guía reúne el trabajo de investigación de **muchotexto.net** sobre intel
 
 ## Infraestructura y energía {#infraestructura-y-energia}
 
-La ventaja más obvia de Paraguay es su energía. Itaipú, Yacyretá y Acaray producen aproximadamente 16.000 MW de capacidad instalada, de los cuales Paraguay consume solo una fracción. El país genera aproximadamente 2.5 veces más electricidad de la que necesita, y esa energía es 100% hidroeléctrica -limpia, renovable y la más barata de Sudamérica (0.03-0.05 USD/kWh para consumo industrial). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
+La ventaja más obvia de Paraguay es su energía. Itaipú (14.000 MW), Yacyretá (~3.100 MW) y Acaray (210 MW) producen electricidad hidroeléctrica, de la cual Paraguay consume solo una fracción. El país genera aproximadamente 1,5 veces más electricidad de la que consume, con tarifas industriales entre las más bajas de Sudamérica (0.03-0.05 USD/kWh). Esa combinación es el imán que atrae centros de datos de inteligencia artificial y minería de criptoactivos.
 
 <!-- PILAR:1:INICIO -->
 

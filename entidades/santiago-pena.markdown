@@ -22,7 +22,7 @@ related_articles:
     context: "El colapso de Ueno Bank desencadenó el juicio político y la prisión preventiva de Santiago Peña. El artículo documenta qué datos acumuló el banco y qué pasó con ellos tras la resolución."
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/
-    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es la persona número 89 más rica del planeta,..."
+    context: "El 13 de mayo de 2026, un hombre de 58 años se sentó en una sala del Mburuvicha Róga, la residencia presidencial de Paraguay, frente a Santiago Peña. Peter Thiel no es un turista ni un filántropo. Es una de las personas más ricas del planeta,..."
   - title: "Luces y sombras de la apertura eléctrica en Paraguay"
     url: /articulos/2026/05/27/apertura-sector-electrico-privado-paraguay/
     context: "El 19 de mayo de 2026, Santiago Peña firmó el Decreto 6034. Con esa firma, Paraguay habilitó por primera vez en su historia que empresas privadas generen, compren, vendan y exporten energía eléctrica de fuentes renovables no hidráulicas. La noticia.."

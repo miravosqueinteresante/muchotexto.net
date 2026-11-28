@@ -212,13 +212,13 @@
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Tarifa de Itaipú 2024-2026"
+      "label": "Acuerdo tarifario de Itaipú 2024-2026 — vence 31 de diciembre de 2026"
     },
     {
       "source": "ande",
       "target": "itaipu",
       "type": "ley",
-      "label": "Anexo C del Tratado de Itaipú"
+      "label": "Tarifa de Itaipú 2024-2026"
     },
     {
       "source": "ande",
@@ -260,13 +260,13 @@
       "source": "ande",
       "target": "araico",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "ande",
       "target": "araico",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "ande",
@@ -308,13 +308,13 @@
       "source": "ande",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "ande",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "itaipu",
@@ -458,13 +458,13 @@
       "source": "araico",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Ley 7599"
+      "label": "Decreto 6034"
     },
     {
       "source": "araico",
       "target": "ministerio-energia",
       "type": "ley",
-      "label": "Decreto 6034"
+      "label": "Ley 7599"
     },
     {
       "source": "peter-thiel",
