@@ -105,6 +105,7 @@ PUBLISHED_ROOT_ASSETS = {
     "search.json",
     "grafo.json",
     "llms.txt",
+    "llms-full.txt",
 }
 
 
