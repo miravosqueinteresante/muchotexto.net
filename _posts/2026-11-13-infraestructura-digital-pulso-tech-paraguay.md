@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caída de Microsoft afecta servicios"
-description: "La caída de servicios de Microsoft interrumpió operaciones a nivel global y expone la vulnerabilidad crítica de las infraestructuras digitales centralizadas."
+description: "La caída de servicios de Microsoft interrumpió operaciones a nivel global y expone la vulnerabilidad crítica de las infraestructuras digitales"
 description_ai: true
 title_ai: true
 date: 2026-11-13

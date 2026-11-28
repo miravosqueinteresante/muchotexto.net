@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IPS usa IA para detectar epilepsia"
-description: "DOMINGO 22 de noviembre de 2026 Ultima actualizacion: 16:13 IPS implementa herramienta de IA para detección de crisis epilépticas El Instituto de Previsión."
+description: "DOMINGO 22 de noviembre de 2026 Ultima actualizacion: 16:13 IPS implementa herramienta de IA para detección de crisis epilépticas El Instituto de"
 description_ai: true
 title_ai: true
 date: 2026-11-22

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Urgencia de soberanía digital en el país"
-description: "La soberanía digital en Paraguay es urgente ante la fragilidad de servicios globales y la necesidad de proteger los datos sensibles de los ciudadanos locales."
+description: "La soberanía digital en Paraguay es urgente ante la fragilidad de servicios globales y la necesidad de proteger los datos sensibles de los ciudadanos"
 description_ai: true
 title_ai: true
 date: 2026-11-14 18:00:00 -0300

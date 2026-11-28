@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ciberataque afecta a inteligencia de EE UU"
-description: "Un ciberataque a agencias de inteligencia de Estados Unidos expuso datos no clasificados y encendió alarmas globales sobre la seguridad informática estatal."
+description: "Un ciberataque a agencias de inteligencia de Estados Unidos expuso datos no clasificados y encendió alarmas globales sobre la seguridad informática"
 description_ai: true
 title_ai: true
 date: 2026-11-25

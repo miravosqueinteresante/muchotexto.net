@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Urgente blindar nuestra soberanía digital"
-description: "Paraguay necesita blindar su soberanía digital frente a la creciente vulnerabilidad global de los datos estatales y la dependencia de plataformas extranjeras"
+description: "Paraguay necesita blindar su soberanía digital frente a la creciente vulnerabilidad global de los datos estatales y la dependencia de plataformas"
 description_ai: true
 title_ai: true
 date: 2026-11-25 18:00:00 -0300

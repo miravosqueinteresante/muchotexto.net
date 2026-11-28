@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Desafíos del desarrollo tecnológico país"
-description: "El desarrollo tecnológico en Paraguay enfrenta el reto de equilibrar la conectividad educativa con la protección de la red eléctrica ante la minería ilegal."
+description: "El desarrollo tecnológico en Paraguay enfrenta el reto de equilibrar la conectividad educativa con la protección de la red eléctrica ante la minería"
 description_ai: true
 title_ai: true
 date: 2026-11-21 18:00:00 -0300

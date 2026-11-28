@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auge de la IA y retos de ciberseguridad"
-description: "El auge de la IA impulsa inversiones récord en la nube mientras crecen los retos de ciberseguridad y la necesidad de proteger los datos personales en Paraguay."
+description: "El auge de la IA impulsa inversiones récord en la nube mientras crecen los retos de ciberseguridad y la necesidad de proteger los datos personales en"
 description_ai: true
 title_ai: true
 date: 2026-11-26

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starlink llega a escuelas paraguayas"
-description: "Starlink llega a escuelas paraguayas para reducir la brecha digital en zonas rurales mediante kits de conectividad satelital de alta velocidad y eficiencia."
+description: "Starlink llega a escuelas paraguayas para reducir la brecha digital en zonas rurales mediante kits de conectividad satelital de alta velocidad y"
 description_ai: true
 title_ai: true
 date: 2026-11-21
