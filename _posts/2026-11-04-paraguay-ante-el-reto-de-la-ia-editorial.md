@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paraguay ante el reto de la IA"
-description: "Paraguay ante el reto de la IA exige modernizar la infraestructura digital para soportar el tráfico de datos y alcanzar una necesaria soberanía tecnológica."
+description: "Paraguay ante el reto de la IA exige modernizar la infraestructura digital para soportar el tráfico de datos y alcanzar una necesaria soberanía"
 description_ai: true
 title_ai: true
 date: 2026-11-04 18:00:00 -0300

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BCP aclara fallos en pagos electrónicos"
-description: "VIERNES 6 de noviembre de 2026 Ultima actualizacion: 16:03 Acreditaciones erróneas en el sistema de pagos y Fondo de Garantía El Banco Central del Paraguay."
+description: "VIERNES 6 de noviembre de 2026 Ultima actualizacion: 16:03 Acreditaciones erróneas en el sistema de pagos y Fondo de Garantía El Banco Central del"
 description_ai: true
 title_ai: true
 date: 2026-11-06

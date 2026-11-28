@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BCP interviene tras crisis en Ueno Bank"
-description: "El BCP inició la devolución de ahorros tras la crisis en Ueno Bank, reforzando la importancia de la transparencia y la resiliencia en el sistema financiero."
+description: "El BCP inició la devolución de ahorros tras la crisis en Ueno Bank, reforzando la importancia de la transparencia y la resiliencia en el sistema"
 description_ai: true
 title_ai: true
 date: 2026-11-05 18:00:00 -0300

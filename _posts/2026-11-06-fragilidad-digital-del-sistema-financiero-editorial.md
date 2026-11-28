@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fragilidad digital del sistema financiero"
-description: "El Banco Central del Paraguay informó que las acreditaciones inesperadas en cuentas de ciudadanos provienen de reembolsos del Fondo de Garantía, vinculados a."
+description: "El Banco Central del Paraguay informó que las acreditaciones inesperadas en cuentas de ciudadanos provienen de reembolsos del Fondo de Garantía"
 description_ai: true
 title_ai: true
 date: 2026-11-06 18:00:00 -0300

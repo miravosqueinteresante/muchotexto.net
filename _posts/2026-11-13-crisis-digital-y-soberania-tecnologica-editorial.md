@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crisis digital y soberanía tecnológica"
-description: "La dependencia de servicios en la nube expone la fragilidad de la soberanía tecnológica en Paraguay y exige fortalecer nuestra infraestructura digital local."
+description: "La dependencia de servicios en la nube expone la fragilidad de la soberanía tecnológica en Paraguay y exige fortalecer nuestra infraestructura digital"
 description_ai: true
 title_ai: true
 date: 2026-11-13 18:00:00 -0300

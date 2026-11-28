@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crisis en Itti amenaza facturación digital"
-description: "La crisis financiera en Itti pone en riesgo la continuidad de la facturación electrónica para cientos de empresas que operan en todo el territorio paraguayo."
+description: "La crisis financiera en Itti pone en riesgo la continuidad de la facturación electrónica para cientos de empresas que operan en todo el territorio"
 description_ai: true
 title_ai: true
 date: 2026-11-07

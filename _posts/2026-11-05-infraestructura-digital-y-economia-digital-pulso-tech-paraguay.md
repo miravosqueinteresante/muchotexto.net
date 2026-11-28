@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BCP inicia devolución de ahorros en Ueno"
-description: "El BCP inició la devolución de ahorros en Ueno Bank cubriendo hasta 40 salarios mínimos para garantizar la estabilidad financiera de los clientes afectados."
+description: "El BCP inició la devolución de ahorros en Ueno Bank cubriendo hasta 40 salarios mínimos para garantizar la estabilidad financiera de los clientes"
 description_ai: true
 title_ai: true
 date: 2026-11-05

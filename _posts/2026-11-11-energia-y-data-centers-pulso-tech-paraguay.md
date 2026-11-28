@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Itaipú aumenta suministro a la ANDE"
-description: "Itaipú elevó un 16% el suministro de energía eléctrica a la ANDE para fortalecer la capacidad operativa del sector industrial y digital en todo el Paraguay."
+description: "Itaipú elevó un 16% el suministro de energía eléctrica a la ANDE para fortalecer la capacidad operativa del sector industrial y digital en todo el"
 description_ai: true
 title_ai: true
 date: 2026-11-11

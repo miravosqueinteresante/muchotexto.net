@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crisis de Itti expone la fragilidad digital"
-description: "La crisis de Itti expone la fragilidad digital de Paraguay al comprometer la operatividad de cientos de empresas que dependen de sus servicios tecnológicos."
+description: "La crisis de Itti expone la fragilidad digital de Paraguay al comprometer la operatividad de cientos de empresas que dependen de sus servicios"
 description_ai: true
 title_ai: true
 date: 2026-11-07 18:00:00 -0300

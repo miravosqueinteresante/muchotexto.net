@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ANDE suspende cortes y exonera recargos"
-description: "La ANDE suspende cortes de energía y exonera recargos por mora hasta el 31 de diciembre para aliviar la situación económica de los usuarios en todo el país."
+description: "La ANDE suspende cortes de energía y exonera recargos por mora hasta el 31 de diciembre para aliviar la situación económica de los usuarios en todo el"
 description_ai: true
 title_ai: true
 date: 2026-11-12
