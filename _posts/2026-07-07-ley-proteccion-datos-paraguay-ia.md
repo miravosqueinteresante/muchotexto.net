@@ -15,6 +15,12 @@ En noviembre de 2027 van a pasar dos cosas al mismo tiempo en Paraguay. La prime
 
 Paraguay fue, hasta noviembre de 2025, el último país de Sudamérica —junto con Bolivia— sin una ley Integral de protección de datos. Tenía artículos sueltos en la Constitución (el 33, el 36, el 135 de habeas data), una ley de datos crediticios (la 6534/2020) y una de Comercio electrónico (la 4868/2013). Pero no existía una autoridad nacional, no había obligación de notificar brechas de seguridad, no se sabía qué pasaba con los datos de un paraguayo si terminaban en un servidor en otro continente. La Ley 7593/2025 cambió eso. La pregunta es si cambió lo suficiente.
 
+> **En resumen:**
+> - Paraguay aprobó su primera ley integral de protección de datos (Ley 7593/2025).
+> - La ley entra en vigor en noviembre de 2027.
+> - Antes, Paraguay era el único país de Sudamérica sin ley de protección de datos.
+> - La ley crea una autoridad nacional y obliga a notificar brechas de seguridad.
+
 ## De la nada al GDPR criollo: qué trae la Ley 7593
 
 La ley fue el resultado de cuatro años de trabajo de la Coalición de Datos Personales, una alianza de organizaciones civiles encabezada por TEDIC, APADIT, ISOC Paraguay, Abente Stewart y Puente. El proyecto pasó por 13 discusiones en Diputados, fue modificado en el Senado, volvió a Diputados, regresó al Senado, y finalmente se sancionó el 5 de noviembre de 2025 con 24 votos —el mínimo requerido era 23. El presidente Santiago Peña la promulgó el 27 de noviembre.
@@ -80,7 +86,7 @@ Leé la guía completa del ecosistema de IA en Paraguay en la [guía de intelige
 - Senado.gov.py — "Senado ratificó su versión del proyecto de Protección de Datos Personales" (5 noviembre 2025)
 - [La Nación — "Ley de Protección de Datos: implicancias, desafíos e impacto transversal"](https://www.lanacion.com.py/negocios/2025/12/03/ley-de-proteccion-de-datos-implicancias-desafios-e-impacto-transversal-en-toda-la-economia-paraguaya/) (3 diciembre 2025)
 - [BKM Berkemeyer — "Análisis de la Ley N° 7593/2025 de Protección de Datos Personales"](https://www.berke.com.py/analisis-de-la-ley-n-7593-2025-de-proteccion-de-datos-personales-de-paraguay1/) (noviembre 2025)
-- [DLA Piper — Data Protection Handbook: Paraguay](https://www.dlapiperdataprotection.com/index.html?t=law&c=PY) (actualizado 30 marzo 2026)
+- [DLA Piper — Data Protection Handbook: Paraguay](https://web.archive.org/web/20250119022810/https://www.dlapiperdataprotection.com/index.html?t=law&c=PY) (actualizado 30 marzo 2026)
 - [Bloomberg Línea — "Taiwán ayudará a financiar un centro de datos de IA de US$200 millones en Paraguay"](https://www.bloomberglinea.com/latinoamerica/Taiw%C3%A1n-ayudara-a-financiar-un-centro-de-datos-de-ia-de-us200-millones-en-paraguay/) (12 junio 2026)
 - [IAPP — "Lessons from Brazilian DPA sanctions to date"](https://iapp.org/news/a/lessons-from-brazilian-dpa-sanctions-to-date) (8 octubre 2024)
 - [ABC Color — "Camino hacia la protección de datos en Paraguay"](https://www.abc.com.py/negocios/2025/06/04/camino-hacia-la-proteccion-de-datos-en-paraguay/) (4 junio 2025)
