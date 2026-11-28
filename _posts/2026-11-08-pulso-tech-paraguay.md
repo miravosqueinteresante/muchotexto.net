@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sin novedades tecnológicas hoy"
-description: "El sector tecnológico no presenta novedades relevantes hoy para el Pulso, por lo que no hay lanzamientos destacados que reportar en esta jornada informativa."
+description: "El sector tecnologico no presenta novedades relevantes hoy para el Pulso, por lo que no hay lanzamientos destacados que reportar hoy"
 description_ai: true
 title_ai: true
 date: 2026-11-08
