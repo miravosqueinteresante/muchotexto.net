@@ -8,12 +8,18 @@ categories: articulos
 pilar: 1
 resumen: "El acuerdo tarifario vence el 1 de enero de 2027. La negociación se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M al año. ¿Qué pasa si no hay acuerdo?"
 tags: infraestructura-energia ia-paraguay
-description: "El acuerdo tarifario de Itaipú vence el 1 de enero de 2027. La negociación del Anexo C se reanudó en noviembre de 2025. Paraguay proyecta recibir USD 1.250M."
+description: "El acuerdo tarifario de Itaipú vence el 1 de enero de 2027. La negociación del Anexo C se reanudó en noviembre de 2025. Paraguay proyecta recibir USD"
 ---
 
 El 26 de abril de 1973, Paraguay y Brasil firmaron el Tratado de Itaipú. Cincuenta y tres años después, la represa hidroeléctrica con mayor generación acumulada de la historia —14.000 megavatios instalados, 20 turbinas de 700 megavatios cada una— produce más electricidad que cualquier otra central del planeta y representa aproximadamente el 12% de los ingresos del Estado paraguayo. El 1 de enero de 2027 vence el acuerdo tarifario que fija el precio al que Paraguay le vende su energía excedente a Brasil; el Anexo C en sí no vence ese año. La negociación para renovarlo se suspendió en abril de 2025, cuando se reveló que la Agencia Brasileña de Inteligencia espió a funcionarios paraguayos, y se reanudó en noviembre de ese año.
 
 Paraguay se enfrenta a una paradoja. Genera alrededor de 1,5 veces la electricidad que consume —unos 8.760 megavatios instalados entre Itaipú, Yacyretá y Acaray para una demanda máxima de unos 5.280 megavatios (2025)—. De su mitad de Itaipú, consume alrededor del 70% y cede cerca del 30% a Brasil a un precio que no se determina por el mercado sino por una negociación diplomática, cuya renegociación se reanudó en noviembre de 2025 tras un escándalo de espionaje. Este artículo explica qué está en juego, cuánto vale y qué puede pasar.
+
+> **En resumen:**
+> - El acuerdo tarifario de Itaipú vence el 1 de enero de 2027.
+> - La negociación se suspendió en abril de 2025 por espionaje y se reanudó en noviembre.
+> - Paraguay proyecta recibir USD 1.250M al año.
+> - Si no hay acuerdo, el precio se determinará por arbitraje o por la tarifa vigente.
 
 ## Lo que dice el Anexo C (y lo que no)
 
