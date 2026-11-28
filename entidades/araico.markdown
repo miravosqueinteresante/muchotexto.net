@@ -11,6 +11,11 @@ entity_name_full: ARAICO (Iguazú AI City)
 entity_description: >
   Empresa privada incorporada en Estados Unidos, fundada por los paraguayos Alejandro Zuccolillo (presidente) y Nicolás Arréllaga (CEO). Desarrolla Iguazú AI City, un campus de data centers de IA de hasta 1,3 GW en Yguazú, Alto Paraná, con una inversión anunciada de hasta USD 12.000 millones en tres etapas. Su primera fase (6 MW) tiene entrega prevista para diciembre de 2026.
 entity_category: empresa
+faq:
+  - q: "¿Qué es Araico y cuánta energía consumirá?"
+    a: "Araico firmó un contrato de 15 años con ANDE por hasta 286 MW para un data center. Arranca el 1 de diciembre de 2026 con 6 MW en 23 kV."
+  - q: "¿Cuándo estará operativo el data center de Araico?"
+    a: "El proyecto arranca el 1 de diciembre de 2026 con 6 MW en 23 kV (56.39 USD/MWh). La capacidad completa de 286 MW se alcanzará en abril de 2029 (48.91 USD/MWh en 220 kV)."
 related_articles:
   - title: "El campus de IA de 1,3 GW que ARAICO promete en Yguazú"
     url: /articulos/2026/09/30/araico-supercomputadora-yguazu-paraguay/

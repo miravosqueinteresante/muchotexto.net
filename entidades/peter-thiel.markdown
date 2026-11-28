@@ -11,6 +11,9 @@ entity_name_full: Peter Thiel
 entity_description: >
   Cofundador de PayPal, Palantir Technologies y Founders Fund. Se reunió con el presidente Santiago Peña en Mburuvicha Róga el 13 de mayo de 2026, generando debate sobre vigilancia, datos y soberanía digital en Paraguay. Su interés en el país es un indicador del potencial geopolítico y económico de Paraguay en la economía de la IA. La visita fue exploratoria: no anunció una inversión directa ni un proyecto propio en el país. El interés se explica por la energía barata de Itaipú y por el plan Yguazú Digital; el debate local se centra en el historial de Palantir en vigilancia y en qué condiciones se usarían datos paraguayos.
 entity_category: geopolítica
+faq:
+  - q: "¿Peter Thiel tiene inversiones en Paraguay?"
+    a: "Peter Thiel, cofundador de PayPal, ha expresado interés en Paraguay como jurisdicción para experimentos de gobernanza y tecnología, aunque no hay inversiones confirmadas a gran escala."
 related_articles:
   - title: "El experimento paraguayo de Peter Thiel"
     url: /articulos/2026/05/16/peter-thiel-paraguay-experimento/

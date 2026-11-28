@@ -11,6 +11,9 @@ entity_name_full: Taiwan Semiconductor Manufacturing Company
 entity_description: >
   El mayor fabricante de semiconductores del mundo. Produce la mayor parte de los chips avanzados utilizados en IA (NVIDIA H100, Apple M-series, etc.). Aunque no fabrica en Paraguay, delegados de TSMC han participado en foros bilaterales Paraguay-Taiwán. Su relación con Taiwán es clave para entender la geopolítica de los chips. Es una fundición: fabrica chips diseñados por otras empresas y no vende chips con marca propia. Su capacidad en nodos avanzados está concentrada en Taiwán, lo que convierte a la isla en un punto crítico de la cadena global de IA. Para Paraguay, su relevancia es geopolítica: explica por qué Taiwán es un socio estratégico y por qué la relación con China condiciona la agenda tecnológica.
 entity_category: geopolítica
+faq:
+  - q: "¿TSMC tiene presencia en Paraguay?"
+    a: "TSMC (Taiwan Semiconductor Manufacturing Company) no tiene operaciones en Paraguay, pero es un actor clave en la geopolítica de semiconductores que afecta la cadena de suministro global de chips para IA."
 related_articles:
   - title: "Por qué Taiwán no fabrica semiconductores en Paraguay"
     url: /articulos/2026/07/15/semiconductores-taiwan-paraguay/

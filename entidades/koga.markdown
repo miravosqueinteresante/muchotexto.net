@@ -11,6 +11,9 @@ entity_name_full: KOGA Impact Lab
 entity_description: >
   Aceleradora y hub de innovación con más de 14 años operando en Paraguay. Apoyó a 200+ startups y capacitó a 10.000+ emprendedores. Es el punto de encuentro del ecosistema emprendedor tech en Paraguay y un actor clave en la formación de talento para la economía digital. Su modelo combina aceleración, coworking y programas corporativos con empresas como Samsung, Tigo y Coca-Cola. No es un fondo de capital riesgo ni un regulador: su rol es formar equipos, conectar founders y dar estructura a las primeras etapas. Su límite es la escala: no reemplaza la inversión privada ni la política pública de talento.
 entity_category: comunidad
+faq:
+  - q: "¿Qué es KOGA?"
+    a: "KOGA es una comunidad de tecnología y emprendimiento en Paraguay que organiza eventos, hackathons y programas de formación en IA y desarrollo de software."
 obs_glosario:
   - label: "KOGA Impact Lab"
     url: /articulos/2026/07/14/startups-ia-paraguay/

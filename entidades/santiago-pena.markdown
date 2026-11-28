@@ -11,6 +11,11 @@ entity_name_full: Santiago Peña Palacios
 entity_description: >
   Expresidente de Paraguay. Asumió el 15 de agosto de 2023 y fue destituido por el Senado el 6 de noviembre de 2026 por mal desempeño en el caso Ueno Bank; lo reemplazó Pedro Alliana. Antes fue ministro de Hacienda (2015-2018). Su gobierno impulsó la apertura del sector eléctrico (Ley 7599, Decreto 6034), promovió Yguazú Digital con Taiwán y buscó atraer data centers. Desde el 7 de noviembre de 2026 cumple prisión preventiva; según la Fiscalía, está imputado por lesión de confianza, administración en provecho propio y asociación criminal. Niega los cargos y no hay condena. La causa investiga el colapso de Ueno Bank, del que fue accionista hasta 2025. Paraguay sigue sin una estrategia nacional de IA aprobada.
 entity_category: gobierno
+faq:
+  - q: "¿Qué políticas de energía e IA impulsó Santiago Peña?"
+    a: "Peña impulsó la Ley 7599/2025 (apertura del sector eléctrico), el Decreto 6034/2026 (6 fuentes renovables) y la Resolución 52552/2026 (tarifa IA). Convocó la Mesa Energética Nacional en agosto de 2026."
+  - q: "¿Qué es la Mesa Energética Nacional?"
+    a: "Organismo asesor creado en 2012, reactivado en 2023 por Peña. En agosto de 2026 dio 30 días para propuestas en 4 ejes: institucionalidad, generación, mesa eléctrica público-privada y reglas para inversores."
 related_articles:
   - title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
     url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/

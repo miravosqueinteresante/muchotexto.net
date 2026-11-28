@@ -11,6 +11,9 @@ entity_name_full: Universidad Nacional de Asunción
 entity_description: >
   La universidad más grande de Paraguay, fundada en 1889. Sus facultades de Ingeniería y Politécnica forman parte de los ~400 graduados anuales en informática. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA. Representa la capacidad de formación de talento tech del país.
 entity_category: academia
+faq:
+  - q: "¿Qué rol tiene la Universidad Nacional en IA?"
+    a: "La Universidad Nacional de Asunción (UNA) es la principal institución académica de Paraguay, con facultades de ingeniería y ciencias que forman profesionales en tecnología e IA."
 related_articles:
   - title: "Paraguay tiene una ventaja silenciosa en la anotación de datos para IA"
     url: /articulos/2026/06/27/anotacion-datos-paraguay-hub-trabajo-digital-ia/

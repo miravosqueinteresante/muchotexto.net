@@ -11,6 +11,9 @@ entity_name_full: Ministerio de Energía, Minería e Hidrocarburos
 entity_description: >
   Ministerio propuesto por el Ejecutivo el 13 de agosto de 2026. El proyecto de ley de 27 artículos crea tres viceministerios (Energía, Minería e Hidrocarburos) y absorbería al Viceministerio de Minas y Energía (MOPC) y a la Dirección de Combustibles (MIC). Es un proyecto en debate, no una institución creada.
 entity_category: gobierno
+faq:
+  - q: "¿Existe el Ministerio de Energía en Paraguay?"
+    a: "No. Es un proyecto de ley presentado en agosto de 2026 que crearía el 'Ministerio de Energía, Minería e Hidrocarburos' con 3 viceministerios. Actualmente solo existe el Viceministerio de Minas y Energía (VMME) dentro del MOPC."
 related_articles:
   - title: "El modelo institucional de PSR para el sector eléctrico paraguayo"
     url: /articulos/2026/08/19/modelo-institucional-psr-sector-electrico/

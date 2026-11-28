@@ -11,6 +11,9 @@ entity_name_full: Centro de Respuesta a Incidentes de Seguridad Informática de 
 entity_description: >
   Centro nacional de respuesta a incidentes de ciberseguridad, operativo desde 2012 bajo el MITIC. Coordina la respuesta a ataques informáticos contra infraestructura estatal. En 2024 hackers chinos infiltraron sistemas del gobierno. En junio 2025 un ransomware paralizó 18 agencias estatales.
 entity_category: gobierno
+faq:
+  - q: "¿Qué es CERT-PY?"
+    a: "CERT-PY es el Equipo de Respuesta a Incidentes de Seguridad Informática de Paraguay, dependiente del MITIC, encargado de coordinar la respuesta a ciberincidentes."
 related_articles:
   - title: "Los agentes de IA actuaron sin control y Paraguay no tiene defensas"
     url: /articulos/2026/09/03/contenido-basura-agentes-ia/

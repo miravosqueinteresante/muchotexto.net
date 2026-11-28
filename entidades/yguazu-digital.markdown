@@ -11,6 +11,13 @@ entity_name_full: Proyecto Yguazú Digital
 entity_description: >
   Proyecto binacional Paraguay-Taiwán para construir uno de los centros de datos de IA más grandes del mundo. Tres fases: Fase I (10 MW, USD 200-500M), Fase II (100 MW, ~USD 5B), Fase III (1 GW, ~USD 40B). El ICDF contactó a Google, Microsoft y Amazon como posibles clientes. Es el ancla de la estrategia de Paraguay como hub de IA.
 entity_category: infraestructura
+faq:
+  - q: "¿Qué es Yguazú Digital y cuánta energía consumirá?"
+    a: "Yguazú Digital es un proyecto de data center de IA en Paraguay firmado en mayo de 2026 con Taiwán, con 3 fases: 10 MW → 100 MW → 1.000 MW. Consumirá el equivalente a una turbina y media de Itaipú."
+  - q: "¿Es Yguazú Digital un proyecto vinculante?"
+    a: "No. El memorando de entendimiento firmado en mayo de 2026 es una declaración de intención no vinculante. Las cifras son aspiracionales, no capacidad construida."
+  - q: "¿Dónde se ubicará Yguazú Digital?"
+    a: "En la zona de Yguazú, departamento de Alto Paraná, cerca de la subestación de ANDE que sirve a la región."
 related_articles:
   - title: "Yguazú Digital y la apuesta de Paraguay por convertirse en hub de IA"
     url: /articulos/2026/06/23/yguazu-digital-paraguay-hub-ia-mas-grande-del-mundo/

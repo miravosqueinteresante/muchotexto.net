@@ -11,6 +11,9 @@ entity_name_full: Parque Tecnológico Itaipú Paraguay
 entity_description: >
   Centro de investigación y desarrollo tecnológico vinculado a Itaipú Binacional. Opera la única unidad experimental de hidrógeno verde del Paraguay (2 Nm³/h). Desarrolla proyectos de innovación en energía, automatización y tecnología aplicada. Actor clave en la transición energética y la diversificación tecnológica del país. Su sede operativa está vinculada a Itaipú y su unidad de hidrógeno verde produce 2 Nm³/h, una escala de investigación, no industrial. También trabaja en automatización, robótica y formación técnica. Su importancia es doble: es un puente entre la energía de Itaipú y la diversificación tecnológica, y un socio posible para pilotos de IA aplicada en la región este.
 entity_category: academia
+faq:
+  - q: "¿Qué es el PTI-PY?"
+    a: "El PTI-PY (Parque Tecnológico de la Información) es un espacio de innovación y tecnología en Paraguay que alberga empresas, startups y programas de formación."
 obs_directorio:
   - label: "PTI-PY (Parque Tecnologico Itaipu)"
     url: https://www.pti.org.py/

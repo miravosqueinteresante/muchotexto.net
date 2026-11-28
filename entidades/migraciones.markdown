@@ -11,6 +11,9 @@ entity_name_full: Dirección General de Migraciones
 entity_description: >
   Autoridad migratoria de Paraguay. Concede la residencia permanente y aplica la Ley 6984/2022. El artículo 46 de esa ley es la base de la residencia permanente por inversión que promociona el Investor Pass; Migraciones registró 47.687 solicitudes y otorgó 40.600 residencias en 2025.
 entity_category: gobierno
+faq:
+  - q: "¿La Dirección de Migraciones ofrece trámites digitales?"
+    a: "La Dirección General de Migraciones de Paraguay ofrece trámites en línea a través de Paraguay.gov.py, incluyendo consultas de estado migratorio y solicitud de documentos."
 related_articles:
   - title: "Paraguay firma la residencia permanente más directa de la región"
     url: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/

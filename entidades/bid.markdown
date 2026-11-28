@@ -11,6 +11,11 @@ entity_name_full: Banco Interamericano de Desarrollo
 entity_description: >
   Organismo multilateral que financió la Agenda Digital de Paraguay con un préstamo de USD 130M (2019) y la Estrategia Nacional de Hidrógeno Verde (2025). Socio financiero recurrente en infraestructura digital y energética del país. El Data Center Estatal Tier III del MITIC también fue financiado por el BID.
 entity_category: geopolítica
+faq:
+  - q: "¿Qué financiamiento aporta el BID a Paraguay en tecnología?"
+    a: "El BID financió con USD 130 millones la Red Nacional de Fibra Óptica (2019), que unificó las redes de Copaco, ANDE, Interior, Hacienda y MITIC."
+  - q: "¿El BID participa en la política energética de Paraguay?"
+    a: "El BID apoyó el estudio Ceare (UBA) sobre tarifas de ANDE 2026-2030, que proyecta un aumento del 39.4% en la tarifa media para 2030."
 related_articles:
   - title: "Paraguay tiene 1.5M de identidades digitales y 480 trámites online"
     url: /articulos/2026/07/16/gobierno-digital-paraguay/

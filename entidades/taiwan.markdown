@@ -11,6 +11,11 @@ entity_name_full: Taiwán (República de China)
 entity_description: >
   Taiwán es el último aliado diplomático de Paraguay en Sudamérica y su socio estratégico en tecnología. Fabrica el 90% de los semiconductores avanzados del mundo (TSMC). Invierte en Paraguay a través del ICDF con becas, cooperación técnica y el proyecto Yguazú Digital. En agosto 2026 el fabricante de memorias ADATA (2º productor mundial de módulos DRAM) inició la prospección de una planta de ensamblaje de memorias y SSDs en Minga Guazú bajo el régimen de maquila (Ley 7547/2025). La relación Taiwán-Paraguay define la posición geopolítica del país en la guerra fría tecnológica entre China y EE.UU.
 entity_category: geopolítica
+faq:
+  - q: "¿Qué acuerdos tiene Taiwán con Paraguay en tecnología?"
+    a: "Taiwán firmó un memorando de entendimiento con Paraguay en mayo de 2026 para crear Yguazú Digital, un proyecto de data center de IA de hasta 1.000 MW."
+  - q: "¿Por qué Taiwán invierte en Paraguay?"
+    a: "Paraguay es el único país de Sudamérica que mantiene relaciones diplomáticas con Taiwán. El acuerdo busca aprovechar la energía barata y abundante de Paraguay para infraestructura de IA."
 related_articles:
   - title: "Por qué Paraguay es el último país sudamericano que apuesta por Taiwán"
     url: /articulos/2026/07/09/paraguay-china-taiwan-geopolitica-ia/

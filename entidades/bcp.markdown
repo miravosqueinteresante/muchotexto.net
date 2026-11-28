@@ -11,6 +11,11 @@ entity_name_full: Banco Central del Paraguay
 entity_description: >
   Autoridad monetaria de Paraguay y operador del SIPAP/SIP, el sistema de pagos del país. Su módulo de pagos instantáneos (SPI) movió en 2025 el equivalente a más de tres veces el PIB. En 2026 lanzó el QR Hub interoperable y una hoja de ruta para expandir los pagos a comercios, impuestos e integración regional con Pix de Brasil.
 entity_category: gobierno
+faq:
+  - q: "¿Qué es el BCP y su rol en pagos digitales?"
+    a: "El Banco Central del Paraguay (BCP) gestiona el Sistema de Pagos Instantáneos (SPI) con 382 millones de operaciones en 2025 y lanzó el QR Hub para pagos interoperables."
+  - q: "¿Qué es el QR Hub del BCP?"
+    a: "El QR Hub es una plataforma centralizada del BCP que permite pagos por transferencia directa entre cuentas, con tope del 1.5% IVA incluido y límite de G. 10 millones."
 related_articles:
   - title: "QR Hub, la apuesta del BCP para digitalizar comercios"
     url: /articulos/2026/10/20/qr-hub-paraguay/

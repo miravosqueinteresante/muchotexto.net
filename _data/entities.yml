@@ -122,6 +122,14 @@
     Paraguay como hub de IA.
   category: infraestructura
   featured: true
+  faq:
+    - q: "¿Qué es Yguazú Digital y cuánta energía consumirá?"
+      a: "Yguazú Digital es un proyecto de data center de IA en Paraguay firmado en mayo de 2026 con Taiwán, con 3 fases: 10 MW → 100 MW → 1.000 MW. Consumirá el equivalente a una turbina y media de Itaipú."
+    - q: "¿Es Yguazú Digital un proyecto vinculante?"
+      a: "No. El memorando de entendimiento firmado en mayo de 2026 es una declaración de intención no vinculante. Las cifras son aspiracionales, no capacidad construida."
+    - q: "¿Dónde se ubicará Yguazú Digital?"
+      a: "En la zona de Yguazú, departamento de Alto Paraná, cerca de la subestación de ANDE que sirve a la región."
+
 
 - slug: taiwan
   name: Taiwán
@@ -137,6 +145,12 @@
     geopolítica del país en la guerra fría tecnológica entre China y EE.UU.
   category: geopolítica
   featured: true
+  faq:
+    - q: "¿Qué acuerdos tiene Taiwán con Paraguay en tecnología?"
+      a: "Taiwán firmó un memorando de entendimiento con Paraguay en mayo de 2026 para crear Yguazú Digital, un proyecto de data center de IA de hasta 1.000 MW."
+    - q: "¿Por qué Taiwán invierte en Paraguay?"
+      a: "Paraguay es el único país de Sudamérica que mantiene relaciones diplomáticas con Taiwán. El acuerdo busca aprovechar la energía barata y abundante de Paraguay para infraestructura de IA."
+
 
 - slug: cert-py
   name: CERT-PY
@@ -153,6 +167,10 @@
     - title: "Los agentes de IA actuaron sin control y Paraguay no tiene defensas"
       url: /articulos/2026/09/03/contenido-basura-agentes-ia/
       context: "El artículo analiza la respuesta institucional ante agentes autónomos y contenido sintético; CERT-PY opera desde 2012 bajo el MITIC."
+  faq:
+    - q: "¿Qué es CERT-PY?"
+      a: "CERT-PY es el Equipo de Respuesta a Incidentes de Seguridad Informática de Paraguay, dependiente del MITIC, encargado de coordinar la respuesta a ciberincidentes."
+
 
 - slug: hive-digital
   name: HIVE Digital Technologies
@@ -185,6 +203,12 @@
     operar por encima de los límites de potencia de la UIT — Paraguay fue el
     primer país del mundo en hacerlo.
   category: empresa
+  faq:
+    - q: "¿Starlink opera en Paraguay?"
+      a: "Starlink (SpaceX) ofrece servicio de internet satelital en Paraguay, proporcionando conectividad en zonas rurales y remotas donde la fibra óptica no llega."
+    - q: "¿Cuál es la velocidad de Starlink en Paraguay?"
+      a: "Starlink ofrece velocidades de descarga de 50-200 Mbps y latencia de 20-40 ms en Paraguay, dependiendo de la ubicación y congestión de la red."
+
 
 - slug: koga
   name: KOGA Impact Lab
@@ -200,6 +224,10 @@
     etapas. Su límite es la escala: no reemplaza la inversión privada ni la
     política pública de talento.
   category: comunidad
+  faq:
+    - q: "¿Qué es KOGA?"
+      a: "KOGA es una comunidad de tecnología y emprendimiento en Paraguay que organiza eventos, hackathons y programas de formación en IA y desarrollo de software."
+
 
 - slug: x8cloud
   name: X8 Cloud
@@ -214,6 +242,10 @@
     privado que llega con la apertura eléctrica; su riesgo es que la promesa de
     capacidad se confunda con capacidad construida.
   category: empresa
+  faq:
+    - q: "¿Qué es X8Cloud?"
+      a: "X8Cloud es una empresa paraguaya de infraestructura cloud y servicios de tecnología, parte del ecosistema de data centers en crecimiento del país."
+
 
 - slug: araico
   name: ARAICO
@@ -228,6 +260,12 @@
   category: empresa
   related_laws:
     - "Ley 7599/2025 y Decreto 6034/2026 — apertura del sector eléctrico"
+  faq:
+    - q: "¿Qué es Araico y cuánta energía consumirá?"
+      a: "Araico firmó un contrato de 15 años con ANDE por hasta 286 MW para un data center. Arranca el 1 de diciembre de 2026 con 6 MW en 23 kV."
+    - q: "¿Cuándo estará operativo el data center de Araico?"
+      a: "El proyecto arranca el 1 de diciembre de 2026 con 6 MW en 23 kV (56.39 USD/MWh). La capacidad completa de 286 MW se alcanzará en abril de 2029 (48.91 USD/MWh en 220 kV)."
+
 
 - slug: peter-thiel
   name: Peter Thiel
@@ -243,6 +281,10 @@
     debate local se centra en el historial de Palantir en vigilancia y en qué
     condiciones se usarían datos paraguayos.
   category: geopolítica
+  faq:
+    - q: "¿Peter Thiel tiene inversiones en Paraguay?"
+      a: "Peter Thiel, cofundador de PayPal, ha expresado interés en Paraguay como jurisdicción para experimentos de gobernanza y tecnología, aunque no hay inversiones confirmadas a gran escala."
+
 
 - slug: santiago-pena
   name: Santiago Peña
@@ -263,6 +305,12 @@
     - title: "Qué datos tuyos tenía Ueno y qué pasa con ellos ahora"
       url: /articulos/2026/11/13/que-datos-tuyos-tenia-ueno/
       context: "El colapso de Ueno Bank desencadenó el juicio político y la prisión preventiva de Santiago Peña. El artículo documenta qué datos acumuló el banco y qué pasó con ellos tras la resolución."
+  faq:
+    - q: "¿Qué políticas de energía e IA impulsó Santiago Peña?"
+      a: "Peña impulsó la Ley 7599/2025 (apertura del sector eléctrico), el Decreto 6034/2026 (6 fuentes renovables) y la Resolución 52552/2026 (tarifa IA). Convocó la Mesa Energética Nacional en agosto de 2026."
+    - q: "¿Qué es la Mesa Energética Nacional?"
+      a: "Organismo asesor creado en 2012, reactivado en 2023 por Peña. En agosto de 2026 dio 30 días para propuestas en 4 ejes: institucionalidad, generación, mesa eléctrica público-privada y reglas para inversores."
+
 
 - slug: bid
   name: BID
@@ -274,6 +322,12 @@
     del país. El Data Center Estatal Tier III del MITIC también fue financiado
     por el BID.
   category: geopolítica
+  faq:
+    - q: "¿Qué financiamiento aporta el BID a Paraguay en tecnología?"
+      a: "El BID financió con USD 130 millones la Red Nacional de Fibra Óptica (2019), que unificó las redes de Copaco, ANDE, Interior, Hacienda y MITIC."
+    - q: "¿El BID participa en la política energética de Paraguay?"
+      a: "El BID apoyó el estudio Ceare (UBA) sobre tarifas de ANDE 2026-2030, que proyecta un aumento del 39.4% en la tarifa media para 2030."
+
 
 - slug: tsmc
   name: TSMC
@@ -290,6 +344,10 @@
     geopolítica: explica por qué Taiwán es un socio estratégico y por qué la
     relación con China condiciona la agenda tecnológica.
   category: geopolítica
+  faq:
+    - q: "¿TSMC tiene presencia en Paraguay?"
+      a: "TSMC (Taiwan Semiconductor Manufacturing Company) no tiene operaciones en Paraguay, pero es un actor clave en la geopolítica de semiconductores que afecta la cadena de suministro global de chips para IA."
+
 
 - slug: sopaia
   name: SOPAIA
@@ -308,6 +366,10 @@
     talleres, charlas, formación y vínculos con el sector productivo y la
     academia.
   category: comunidad
+  faq:
+    - q: "¿Qué es SOPAIA?"
+      a: "SOPAIA es una organización de la sociedad civil paraguaya enfocada en la promoción de la inteligencia artificial y la tecnología en el país."
+
 
 - slug: pti-py
   name: PTI-PY
@@ -324,6 +386,10 @@
     la energía de Itaipú y la diversificación tecnológica, y un socio posible
     para pilotos de IA aplicada en la región este.
   category: academia
+  faq:
+    - q: "¿Qué es el PTI-PY?"
+      a: "El PTI-PY (Parque Tecnológico de la Información) es un espacio de innovación y tecnología en Paraguay que alberga empresas, startups y programas de formación."
+
 
 - slug: universidad-nacional
   name: UNA
@@ -334,6 +400,10 @@
     informática. Co-organiza IBERAMIA 2026 junto a UCA, UCOM y SOPAIA.
     Representa la capacidad de formación de talento tech del país.
   category: academia
+  faq:
+    - q: "¿Qué rol tiene la Universidad Nacional en IA?"
+      a: "La Universidad Nacional de Asunción (UNA) es la principal institución académica de Paraguay, con facultades de ingeniería y ciencias que forman profesionales en tecnología e IA."
+
 
 - slug: amcham
   name: AmCham Paraguay
@@ -351,6 +421,10 @@
     fondo de inversión ni una entidad técnica; su influencia depende de la
     agenda de sus miembros y de su capacidad de convocar a decisores públicos.
   category: comunidad
+  faq:
+    - q: "¿Qué es AmCham Paraguay?"
+      a: "AmCham Paraguay es la Cámara de Comercio Paraguayo-Americana, que promueve el comercio, la inversión y el diálogo entre empresas paraguayas y estadounidenses."
+
 
 - slug: conatel
   name: Conatel
@@ -361,6 +435,10 @@
     2025 (Claro y Nubicom) y la segunda en 2026 (Tigo y Personal). Regula la
     conectividad del país, una de las patas del hub digital paraguayo.
   category: gobierno
+  faq:
+    - q: "¿Qué regula CONATEL en Paraguay?"
+      a: "CONATEL (Comisión Nacional de Telecomunicaciones) regula las telecomunicaciones, incluyendo el espectro radioeléctrico, la calidad de servicio y la conectividad."
+
 
 - slug: tigo
   name: Tigo
@@ -372,6 +450,10 @@
     la segunda licitación (2026). Actor clave de la conectividad y la
     infraestructura digital del país.
   category: empresa
+  faq:
+    - q: "¿Tigo tiene un data center Tier III en Paraguay?"
+      a: "Sí. Tigo opera un data center Tier III en Villa Elisa, donde HIVE lanzó BUZZ AI Cloud en marzo de 2026. Es una de las dos certificaciones Uptime Tier III vigentes en Paraguay (junto a Itaipú)."
+
 
 - slug: bcp
   name: BCP
@@ -390,6 +472,12 @@
     - title: "Paraguay tiene más fintechs que bancos y recién empieza"
       url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
       context: "La Ley 7503/2025 creó el Sistema Nacional de Pagos y extendió la supervisión del BCP a las fintech; el artículo analiza el ecosistema y sus límites."
+  faq:
+    - q: "¿Qué es el BCP y su rol en pagos digitales?"
+      a: "El Banco Central del Paraguay (BCP) gestiona el Sistema de Pagos Instantáneos (SPI) con 382 millones de operaciones en 2025 y lanzó el QR Hub para pagos interoperables."
+    - q: "¿Qué es el QR Hub del BCP?"
+      a: "El QR Hub es una plataforma centralizada del BCP que permite pagos por transferencia directa entre cuentas, con tope del 1.5% IVA incluido y límite de G. 10 millones."
+
 
 - slug: bancard
   name: Bancard
@@ -404,6 +492,10 @@
     - title: "Paraguay tiene más fintechs que bancos y recién empieza"
       url: /articulos/2026/07/10/fintech-paraguay-ecosistema/
       context: "Bancard es el procesador dominante de pagos digitales en Paraguay, con POS, QR, vPOS y Tokefon; el artículo analiza su rol en el ecosistema fintech."
+  faq:
+    - q: "¿Qué es Bancard y su red PY-QR?"
+      a: "Bancard opera la red privada PY-QR con 181.000 comercios, 75+ aplicaciones (bancos, financieras, cooperativas y billeteras) y 68.1% de los pagos electrónicos de su red."
+
 
 - slug: migraciones
   name: Migraciones
@@ -421,6 +513,10 @@
     - title: "Paraguay firma la residencia permanente más directa de la región"
       url: /articulos/2026/09/25/paraguay-investor-pass-residencia-inversores/
       context: "La Resolución MIC 0283/2026 reglamenta la Constancia de Inversionista Extranjero; la residencia permanente la concede Migraciones al amparo del artículo 46 de la Ley 6984/2022."
+  faq:
+    - q: "¿La Dirección de Migraciones ofrece trámites digitales?"
+      a: "La Dirección General de Migraciones de Paraguay ofrece trámites en línea a través de Paraguay.gov.py, incluyendo consultas de estado migratorio y solicitud de documentos."
+
 
 - slug: ministerio-energia
   name: Ministerio de Energía
@@ -445,3 +541,7 @@
     - title: "El ente regulador de energía que Paraguay diseña con concurso público"
       url: /articulos/2026/08/19/ente-regulador-energia/
       context: "El proyecto de ley del Ejecutivo crea un ente regulador de energía con concurso público, en paralelo al nuevo ministerio."
+  faq:
+    - q: "¿Existe el Ministerio de Energía en Paraguay?"
+      a: "No. Es un proyecto de ley presentado en agosto de 2026 que crearía el 'Ministerio de Energía, Minería e Hidrocarburos' con 3 viceministerios. Actualmente solo existe el Viceministerio de Minas y Energía (VMME) dentro del MOPC."
+

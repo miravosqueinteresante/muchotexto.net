@@ -11,6 +11,9 @@ entity_name_full: Tigo Paraguay (Telecel S.A.E.)
 entity_description: >
   El mayor operador de telecomunicaciones de Paraguay. Opera el único data center Tier III de un operador privado (Villa Elisa, desde 2016, sobre el que corre BUZZ AI Cloud de HIVE) y ganó espectro 5G en 2.300-2.400 MHz en la segunda licitación (2026). Actor clave de la conectividad y la infraestructura digital del país.
 entity_category: empresa
+faq:
+  - q: "¿Tigo tiene un data center Tier III en Paraguay?"
+    a: "Sí. Tigo opera un data center Tier III en Villa Elisa, donde HIVE lanzó BUZZ AI Cloud en marzo de 2026. Es una de las dos certificaciones Uptime Tier III vigentes en Paraguay (junto a Itaipú)."
 related_articles:
   - title: "El data center Tier III que Paraguay ya tiene hace una década"
     url: /articulos/2026/09/21/tigo-data-center-tier-iii-paraguay/
