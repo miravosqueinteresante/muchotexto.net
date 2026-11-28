@@ -616,6 +616,42 @@ last_modified_at: 2026-11-21
   "isAccessibleForFree": true,
   "description": "Calcula el costo anual de electricidad de un data center en Paraguay con la tarifa de IA de ANDE (Res. 52552/2026) y lo compara con Irlanda, Virginia, Suecia y Chile."
 }
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Como calcular el costo electrico de un data center en Paraguay",
+  "description": "Guia paso a paso para calcular el costo anual de electricidad de un data center usando la tarifa de IA de ANDE.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Ingresar potencia en MW",
+      "text": "Ingresa la potencia contratada en megavatios (MW) del data center."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Seleccionar tarifa",
+      "text": "Selecciona la tarifa de ANDE: IA (Res. 52552/2026) a 48.91 USD/MWh en 220 kV o GCIE (cripto) a 30 USD/MWh."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Calcular costo anual",
+      "text": "La calculadora multiplica la potencia por las horas anuales y la tarifa para obtener el costo total anual en USD."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Comparar con otros paises",
+      "text": "Compara el resultado con las tarifas de Irlanda, Virginia, Suecia y Chile para evaluar competitividad."
+    }
+  ],
+  "inLanguage": "es-PY"
+}
+</script>
 </script>
 
 <div class="calc-intro">
